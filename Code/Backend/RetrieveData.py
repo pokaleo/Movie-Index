@@ -22,11 +22,11 @@ class MovieInfo:
     def __init__(self, file_path):
         self.file_path = file_path
         if self.file_path == "":
-            raise Exception('The file path for the dataset is empty!')
+            raise Exception('The file path entered for the dataset is empty!')
         if not os.path.exists(self.file_path):
             raise Exception("Path of the dataset is invalid!")
         if os.listdir(self.file_path) == 0:
-            raise Exception("The given path for the dataset is empty!")
+            raise Exception("The given dir for the dataset is empty!")
         self.__movies = {}
 
     # Read in all files from the given path
