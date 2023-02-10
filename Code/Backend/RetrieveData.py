@@ -39,7 +39,11 @@ class MovieInfo:
                 root = tree.getroot()
                 movie_dict = {'title': root.find('title').text,
                               'year': root.find('year').text, 'type': root.find('type').text,
-                              'colorinfo': root.find('./colorinfos/colorinfo').text}
+                              'plot': root.find('plot').text}
+                colorinfos = []
+                for colorinfo in root.iter('colorinfo'):
+                    colorinfos.append(colorinfo.text)
+                movie_dict['colorinfos'] = colorinfos
                 editors = []
                 for editor in root.iter('editor'):
                     editors.append(editor.text)
@@ -52,7 +56,44 @@ class MovieInfo:
                 for keyword in root.iter('keyword'):
                     keywords.append(keyword.text)
                 movie_dict['keywords'] = keywords
+                languages = []
+                for language in root.iter('language'):
+                    languages.append(language.text)
+                movie_dict['languages'] = languages
+                soundmixes = []
+                for soundmix in root.iter('soundmix'):
+                    soundmixes.append(soundmix.text)
+                movie_dict['soundmixes'] = soundmixes
+                countries = []
+                for country in root.iter('country'):
+                    countries.append(country.text)
+                movie_dict['countries'] = countries
+                certificates = []
+                for certificate in root.iter('certificate'):
+                    certificates.append([certificate.attrib['country'], certificate.text])
+                movie_dict['certificates'] = certificates
+                releasedates = []
+                for releasedate in root.iter('releasedate'):
+                    releasedates.append([releasedate.attrib['country'], releasedate.text])
+                movie_dict['releasedates'] = releasedates
+                runningtimes = []
+                for runningtime in root.iter('runningtime'):
+                    runningtimes.append([runningtime.attrib['country'], runningtime.text])
+                movie_dict['runningtimes'] = runningtimes
+                directors = []
+                for director in root.iter('director'):
+                    directors.append(director.text)
+                movie_dict['directors'] = directors
+                writers = []
+                for writer in root.iter('writer'):
+                    writers.append(writer.text)
+                movie_dict['writers'] = writers
+                composers = []
+                for composer in root.iter('composer'):
+                    composers.append(composer.text)
+                movie_dict['composers'] = composers
                 self.__movies[root.find('docid').text] = movie_dict
+                # TODO add <cast>
             else:
                 raise Exception(os.path + " is not a file!")
 
