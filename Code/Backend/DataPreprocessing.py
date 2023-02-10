@@ -1,6 +1,6 @@
 """
 ------------------------------------------------------------
-Author: Leo LI, Baoyan Deng(Absent), Zhijun Zeng
+Author: Leo LI, Baoyan Deng, Zhijun Zeng
 Date: 9th Feb 2023
 Description: Acting as the API to preprocess the read-in
 data before performing queries
@@ -37,7 +37,7 @@ class PreProcessing:
             for editor in self.__dataset[docid]['editors']:
                 editors.append(editor.split())
             self.__dataset[docid]['editors'] = editors
-            # TODO tokenise releasedates
+            # TODO decide if need to tokenise releasedates
             directors = []
             for director in self.__dataset[docid]['directors']:
                 editors.append(director.split())
@@ -51,9 +51,19 @@ class PreProcessing:
                 composers.append(composer.split())
             self.__dataset[docid]['composers'] = composers
 
-
     # Method which cast all tokens to lower case
-    # def to_lowercase(self):
+    def to_lowercase(self):
+        for docid, info in self.__dataset.items():
+            info['title'] = [token.lower() for token in info['title']]
+            info['plot'] = [token.lower() for token in info['plot']]
+            info['colorinfos'] = [token.lower() for token in info['colorinfos']]
+            # info['editors'] = [token.lower() for token in info['editors']]
+            info['genres'] = [token.lower() for token in info['genres']]
+            info['keywords'] = [token.lower() for token in info['keywords']]
+            info['languages'] = [token.lower() for token in info['languages']]
+            info['soundmixes'] = [token.lower() for token in info['soundmixes']]
+            info['countries'] = [token.lower() for token in info['countries']]
+            # for certificate in info['certificates']
 
     # Method which removes leading and trailing punctuations and individual punctuations
     # def remove_punctuation(self):
