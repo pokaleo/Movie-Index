@@ -63,7 +63,20 @@ class PreProcessing:
             info['languages'] = [token.lower() for token in info['languages']]
             info['soundmixes'] = [token.lower() for token in info['soundmixes']]
             info['countries'] = [token.lower() for token in info['countries']]
-            # for certificate in info['certificates']
+            for i in range(len(info['editors'])):
+                info['editors'][i] = [token.lower() for token in info['editors'][i]]
+            for i in range(len(info['certificates'])):
+                info['certificates'][i] = [token.lower() for token in info['certificates'][i]]
+            for i in range(len(info['releasedates'])):
+                info['releasedates'][i] = [token.lower() for token in info['releasedates'][i]]
+            for i in range(len(info['directors'])):
+                info['directors'][i] = [token.lower() for token in info['directors'][i]]
+            for i in range(len(info['writers'])):
+                info['writers'][i] = [token.lower() for token in info['writers'][i]]
+            for i in range(len(info['composers'])):
+                info['composers'][i] = [token.lower() for token in info['composers'][i]]
+            for i in range(len(info['runningtimes'])):
+                info['runningtimes'][i] = [token.lower() for token in info['runningtimes'][i]]
 
     # Method which removes leading and trailing punctuations and individual punctuations
     # def remove_punctuation(self):
