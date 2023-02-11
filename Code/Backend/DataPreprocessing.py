@@ -12,6 +12,7 @@ import string
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
+from string import punctuation
 
 # ==============================================================================
 
@@ -57,7 +58,6 @@ class PreProcessing:
             info['title'] = [token.lower() for token in info['title']]
             info['plot'] = [token.lower() for token in info['plot']]
             info['colorinfos'] = [token.lower() for token in info['colorinfos']]
-            # info['editors'] = [token.lower() for token in info['editors']]
             info['genres'] = [token.lower() for token in info['genres']]
             info['keywords'] = [token.lower() for token in info['keywords']]
             info['languages'] = [token.lower() for token in info['languages']]
@@ -79,15 +79,25 @@ class PreProcessing:
                 info['runningtimes'][i] = [token.lower() for token in info['runningtimes'][i]]
 
     # Method which removes leading and trailing punctuations and individual punctuations
-    # def remove_punctuation(self):
+    def remove_punctuation(self):
+        for docid, info in self.__dataset.items():
+            temp_list = []
+            for token in (info['plot']):
+                if token not in punctuation:
+                    temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
+                info['plot'] = temp_list
+            for token in (info['writers']):
+                token[0] = token[0].rstrip(",")
+            for token in (info['composers']):
+                token[0] = token[0].rstrip(",")
 
     # Method which removes stop words from the spot attribute
     # def remove_stopwords(self):
     #     nltk.download("stopwords")
     #     stop_words = set(stopwords.words("english"))
 
-    # def stem_data(self):
-    # stemmer = SnowballStemmer("english")
+    def stem_data(self):
+        stemmer = SnowballStemmer("english")
 
     # Getter for the processed data
     def get_data(self):
