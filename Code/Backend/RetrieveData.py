@@ -92,8 +92,17 @@ class MovieInfo:
                 for composer in root.iter('composer'):
                     composers.append(composer.text)
                 movie_dict['composers'] = composers
+                actors = []
+                for actor in root.iter('actor'):
+                    actors.append(actor.text)
+                roles = []
+                for role in root.iter('role'):
+                    roles.append(role.text)
+                cast = {}
+                for i in range(0,len(actors)):
+                    cast[actors[i]] = roles[i]
+                movie_dict['cast'] = cast
                 self.__movies[root.find('docid').text] = movie_dict
-                # TODO add <cast>
             else:
                 raise Exception(os.path + " is not a file!")
 
