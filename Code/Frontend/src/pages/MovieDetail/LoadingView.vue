@@ -16,7 +16,7 @@
 <script>
 import SearchBar from './SearchBar.vue';
 export default {
-  name: 'HelloWorld',
+  name: 'LoadingView',
   components:{
     SearchBar
   },
@@ -33,7 +33,7 @@ export default {
 
   methods:{
     sendQuery(){
-      const path = 'http://localhost:5000/test'
+      const path = 'http://localhost:8800/test'
       let postMsg = { query: this.query}
       console.log(postMsg)
       //print(this.query)

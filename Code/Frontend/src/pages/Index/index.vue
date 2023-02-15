@@ -34,7 +34,7 @@ import SearchBar from '../MovieDetail/SearchBar.vue';
 const router = useRouter()
 const movieList = reactive([
   {
-    id: 1,
+    id: '375972',
     movieName: "Monsieur Vincent",
     description: "St. Vincent de Paul struggles to bring about peace and harmony among the peasant and the nobles in the midst of the Black Death in Europe, carrying on his charitable work in the face of all obstacies...",
     director: "David Johnson",
@@ -43,7 +43,7 @@ const movieList = reactive([
     runtime: '117'
   },
   {
-    id: 2,
+    id: '000007',
     movieName: "Another Movie",
     description: "A fantastic movie describe...",
     director: "Willam Dart",
@@ -52,7 +52,7 @@ const movieList = reactive([
     runtime: '178'
   },
   {
-    id: 3,
+    id: "000009",
     movieName: "Cute cat",
     description: "A cat movie which was directed by a famous director, and .....",
     director: "Jake Craig",

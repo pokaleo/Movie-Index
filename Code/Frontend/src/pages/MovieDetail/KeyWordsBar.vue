@@ -7,6 +7,7 @@
           </div>
           <el-divider class="sidebar-divider"/>
           <div class="sidebar-body">
+            <el-scrollbar height="450px">
             <el-space direction="vertical">
             <el-tag
                 class="tag"
@@ -16,6 +17,7 @@
             {{keyword}}
             </el-tag>
           </el-space>
+          </el-scrollbar>
           </div>
         </div>
       </div>

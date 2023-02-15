@@ -18,3 +18,4 @@ app.use(VueAxios, axios)
 app.use(ElementPlus)
 
 app.mount("#app")
+app.config.globalProperties.$axios = axios;
