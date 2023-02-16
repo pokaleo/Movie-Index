@@ -15,5 +15,7 @@ processed_data.to_lowercase()
 processed_data.remove_punctuation()
 processed_data.stem_data()
 processed_data.remove_stopwords()
-# print(Query.by_title(processed_data.get_data(), "Vincent"))
+#print(json.dumps(movies.get_movie_info(), indent=4))
 print(json.dumps(processed_data.get_data(), indent=4))
+# print(Query.by_title(processed_data.get_data(), "Vincent"))
+

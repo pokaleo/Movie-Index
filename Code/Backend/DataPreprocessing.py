@@ -6,6 +6,7 @@ Description: Acting as the API to preprocess the read-in
 data before performing queries
 ------------------------------------------------------------
 """
+import copy
 import json
 import re
 import string
@@ -25,7 +26,7 @@ class PreProcessing:
     def __init__(self, dataset):
         # Check if the dataset is empty
         if dataset:
-            self.__dataset = dataset
+            self.__dataset = copy.deepcopy(dataset)
         else:
             raise Exception("The provided dataset to be processed is empty!")
 
@@ -91,13 +92,25 @@ class PreProcessing:
             for token in (info['composers']):
                 token[0] = token[0].rstrip(",")
 
-    # Method which removes stop words from the spot attribute
-    # def remove_stopwords(self):
-    #     nltk.download("stopwords")
-    #     stop_words = set(stopwords.words("english"))
-
+    # Perform Snowball stemming to plot info
     def stem_data(self):
-        stemmer = SnowballStemmer("english")
+        for docid, info in self.__dataset.items():
+            temp_list = []
+            for token in (info['plot']):
+                temp_list.append(SnowballStemmer(language='english').stem(token))
+                info['plot'] = temp_list
+
+    # Method which removes stop words from the spot attribute
+    def remove_stopwords(self):
+        nltk.download("stopwords")
+        stop_words = set(stopwords.words("english"))
+        for docid, info in self.__dataset.items():
+            temp_list = []
+            for token in (info['plot']):
+                if token not in stop_words:
+                    temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
+                info['plot'] = temp_list
+
 
     # Getter for the processed data
     def get_data(self):
