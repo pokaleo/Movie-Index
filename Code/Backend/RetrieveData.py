@@ -54,7 +54,8 @@ class MovieInfo:
                 movie_dict['genres'] = genres
                 keywords = []
                 for keyword in root.iter('keyword'):
-                    keywords.append(keyword.text)
+                    temp_keyword_list = keyword.text.split("-")
+                    keywords = keywords + temp_keyword_list
                 movie_dict['keywords'] = keywords
                 languages = []
                 for language in root.iter('language'):
