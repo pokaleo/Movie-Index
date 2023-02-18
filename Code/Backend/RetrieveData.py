@@ -78,7 +78,8 @@ class MovieInfo:
                 movie_dict['releasedates'] = releasedates
                 runningtimes = []
                 for runningtime in root.iter('runningtime'):
-                    runningtimes.append(runningtime.text)
+                    # TODO fix runningtime
+                    runningtimes.append([runningtime.attrib["country"], runningtime.text])
                 movie_dict['runningtimes'] = runningtimes
                 directors = []
                 for director in root.iter('director'):
