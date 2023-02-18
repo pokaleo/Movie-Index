@@ -8,6 +8,7 @@ dataset
 ------------------------------------------------------------
 """
 import os
+import re
 import xml.etree.ElementTree as ET
 
 # ==============================================================================
@@ -54,8 +55,11 @@ class MovieInfo:
                 movie_dict['genres'] = genres
                 keywords = []
                 for keyword in root.iter('keyword'):
-                    temp_keyword_list = keyword.text.split("-")
-                    keywords = keywords + temp_keyword_list
+                    if re.search('-',keyword.text) is None:
+                        keywords.append(keyword.text)
+                    else:
+                        keywords.append(keyword.text)
+                        keywords = keywords + keyword.text.split("-")
                 movie_dict['keywords'] = keywords
                 languages = []
                 for language in root.iter('language'):
