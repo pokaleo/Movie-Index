@@ -134,6 +134,143 @@ class PreProcessing:
                     else:
                         self.__index_title[token][1][docid] = [str(i)]
                         self.__index_title[token][0] += 1
+            token = info["year"]
+            if token not in self.__index:
+                self.__index[token] = [1, {docid: ["year"]}]
+            else:
+                if docid in self.__index[token][1]:
+                    self.__index[token][1][docid].append("year")
+                else:
+                    self.__index[token][1][docid] = ["year"]
+                    self.__index[token][0] += 1
+            token = info["type"]
+            if token not in self.__index:
+                self.__index[token] = [1, {docid: ["type"]}]
+            else:
+                if docid in self.__index[token][1]:
+                    self.__index[token][1][docid].append("type")
+                else:
+                    self.__index[token][1][docid] = ["type"]
+                    self.__index[token][0] += 1
+            # TODO detect the keywords "black and white" / when perform query
+            for i in range(len(info["colorinfos"])):
+                token = info["colorinfos"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: ["colorinfo"]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append("colorinfo")
+                    else:
+                        self.__index[token][1][docid] = ["colorinfo"]
+                        self.__index[token][0] += 1
+            for i in range(len(info["genres"])):
+                token = info["genres"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: ["genre"]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append("genre")
+                    else:
+                        self.__index[token][1][docid] = ["genre"]
+                        self.__index[token][0] += 1
+            for i in range(len(info["keywords"])):
+                token = info["keywords"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: ["keyword"]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append("keyword")
+                    else:
+                        self.__index[token][1][docid] = ["keyword"]
+                        self.__index[token][0] += 1
+            for i in range(len(info["languages"])):
+                token = info["languages"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: ["language"]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append("language")
+                    else:
+                        self.__index[token][1][docid] = ["language"]
+                        self.__index[token][0] += 1
+            for i in range(len(info["soundmixes"])):
+                token = info["soundmixes"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: ["soundmix"]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append("soundmix")
+                    else:
+                        self.__index[token][1][docid] = ["soundmix"]
+                        self.__index[token][0] += 1
+            for i in range(len(info["countries"])):
+                token = info["countries"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: ["country"]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append("country")
+                    else:
+                        self.__index[token][1][docid] = ["country"]
+                        self.__index[token][0] += 1
+            for i in range(len(info["certificates"])):
+                for token in info["certificates"][i]:
+                    if token not in self.__index:
+                        self.__index[token] = [1, {docid: ["certificate"]}]
+                    else:
+                        if docid in self.__index[token][1]:
+                            self.__index[token][1][docid].append("certificate")
+                        else:
+                            self.__index[token][1][docid] = ["certificate"]
+                            self.__index[token][0] += 1
+            # TODO handle releasedates
+            # for i in range(len(info["releasedates"])):
+            #     for token in info["releasedates"][i]:
+            #         print(token)
+                    # if token not in self.__index:
+                    #     self.__index[token] = [1, {docid: ["certificate"]}]
+                    # else:
+                    #     if docid in self.__index[token][1]:
+                    #         self.__index[token][1][docid].append("certificate")
+                    #     else:
+                    #         self.__index[token][1][docid] = ["certificate"]
+                    #         self.__index[token][0] += 1
+            for i in range(len(info["runningtimes"])):
+                token = info["runningtimes"][i][1]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: ["runningtime"]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append("runningtime")
+                    else:
+                        self.__index[token][1][docid] = ["runningtime"]
+                        self.__index[token][0] += 1
+            # TODO fix bug of directors/writer info missing in the processed data
+            position = len(info["title"]) + 100
+            for i in range(len(info["composers"])):
+                position += 1
+                for token in info["composers"][i]:
+                    if token not in self.__index:
+                        self.__index[token] = [1, {docid: [str(position)]}]
+                    else:
+                        if docid in self.__index[token][1]:
+                            self.__index[token][1][docid].append(str(position))
+                        else:
+                            self.__index[token][1][docid] = [str(position)]
+                            self.__index[token][0] += 1
+            # TODO fix the relationship between actors and roles in cast
+            position += 100
+            for i in range(len(info["plot"])):
+                token = info["plot"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: [str(position+i)]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append(str(position+i))
+                    else:
+                        self.__index[token][1][docid] = [str(position+i)]
+                        self.__index[token][0] += 1
+
     # Getter for the processed data
     def get_data(self):
         if self.__dataset:
