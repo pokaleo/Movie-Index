@@ -235,6 +235,7 @@ class PreProcessing:
                     #     else:
                     #         self.__index[token][1][docid] = ["certificate"]
                     #         self.__index[token][0] += 1
+            # TODO runningtimes -- what happen if multiple running times exists?
             for i in range(len(info["runningtimes"])):
                 token = info["runningtimes"][i][1]
                 if token not in self.__index:
@@ -246,6 +247,8 @@ class PreProcessing:
                         self.__index[token][1][docid] = ["runningtime"]
                         self.__index[token][0] += 1
             # TODO fix bug of directors/writer info missing in the processed data
+            # TODO separate composers name in position -- currently David Johnson and Jake Wright is in the following
+            # format: david 1, johnson 2, jake 3...
             position = len(info["title"]) + 100
             for i in range(len(info["composers"])):
                 position += 1
