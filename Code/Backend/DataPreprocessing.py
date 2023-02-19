@@ -25,6 +25,8 @@ Class handling the preprocessing for the read-in data
 class PreProcessing:
     def __init__(self, dataset):
         # Check if the dataset is empty
+        self.__index = {}
+        self.__index_title = {}
         if dataset:
             self.__dataset = copy.deepcopy(dataset)
         else:
@@ -111,10 +113,43 @@ class PreProcessing:
                     temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
                 info['plot'] = temp_list
 
-
+    # Method which create the inverted positional index
+    def create_index(self):
+        for docid, info in self.__dataset.items():
+            for i in range(len(info["title"])):
+                token = info["title"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append(str(i))
+                    else:
+                        self.__index[token][1][docid] = [str(i)]
+                        self.__index[token][0] += 1
+                if token not in self.__index_title:
+                    self.__index_title[token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index_title[token][1]:
+                        self.__index_title[token][1][docid].append(str(i))
+                    else:
+                        self.__index_title[token][1][docid] = [str(i)]
+                        self.__index_title[token][0] += 1
     # Getter for the processed data
     def get_data(self):
         if self.__dataset:
             return self.__dataset
         else:
             raise Exception("The dataset is empty or has not been processed!")
+
+    # Getters for the indices
+    def get_index(self):
+        if self.__index:
+            return self.__index
+        else:
+            raise Exception("The index is empty!")
+
+    def get_index_title(self):
+        if self.__index_title:
+            return self.__index_title
+        else:
+            raise Exception("The index is empty!")
