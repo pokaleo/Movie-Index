@@ -44,7 +44,7 @@ class PreProcessing:
             # TODO decide if need to tokenise releasedates
             directors = []
             for director in self.__dataset[docid]['directors']:
-                editors.append(director.split())
+                directors.append(director.split())
             self.__dataset[docid]['directors'] = directors
             writers = []
             for writer in self.__dataset[docid]['writers']:
@@ -246,7 +246,6 @@ class PreProcessing:
                     else:
                         self.__index[token][1][docid] = ["runningtime"]
                         self.__index[token][0] += 1
-            # TODO fix bug of directors/writer info missing in the processed data
             # TODO separate composers name in position -- currently David Johnson and Jake Wright is in the following
             # format: david 1, johnson 2, jake 3...
             position = len(info["title"]) + 100
