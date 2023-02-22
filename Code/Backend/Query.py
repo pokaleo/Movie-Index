@@ -13,6 +13,7 @@ class Query:
         self.dataset = dataset.get_data()
         self.index_general = dataset.get_index()
         self.index_title = dataset.get_index_title()
+        self.average_number_of_terms = self.__cal_average_number_of_terms()
 
     # Naive implementation of search by title without ranking
     def by_title(self, keywords):
@@ -41,3 +42,23 @@ class Query:
         else:
             pass
         return result
+
+    def __term_frequency(self, word_to_be_queried, docid):
+        # TODO information in cast missing
+        return len(self.index_general[word_to_be_queried][1][docid])
+
+    def __document_frequency(self, word_to_be_queried):
+        return len(self.index_general[word_to_be_queried][1])
+
+    def __cal_average_number_of_terms(self):
+        number_of_tokens = 0
+        for docid, info in self.dataset.items():
+            for attribute, token in info.items():
+                number_of_tokens += len(token)
+        return number_of_tokens/len(self.dataset)
+
+    def __number_of_terms(self, docid):
+        number_of_tokens = 0
+        for attribute, token in self.dataset[docid].items():
+            number_of_tokens += len(token)
+        return number_of_tokens
