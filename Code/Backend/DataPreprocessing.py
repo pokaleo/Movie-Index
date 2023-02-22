@@ -54,6 +54,16 @@ class PreProcessing:
             for composer in self.__dataset[docid]['composers']:
                 composers.append(composer.split())
             self.__dataset[docid]['composers'] = composers
+            actors = []
+            roles = []
+            for actor in self.__dataset[docid]['cast'].keys():
+                actors.append(actor)
+                roles.append(self.__dataset[docid]['cast'][actor])
+            for i in range(0,len(actors)):
+                actors[i] = actors[i].split()
+                roles[i] = roles[i].split()
+            self.__dataset[docid]['actors'] = actors
+            self.__dataset[docid]['roles'] = roles
 
     # Method which cast all tokens to lower case
     def to_lowercase(self):
@@ -80,6 +90,10 @@ class PreProcessing:
                 info['composers'][i] = [token.lower() for token in info['composers'][i]]
             for i in range(len(info['runningtimes'])):
                 info['runningtimes'][i] = [token.lower() for token in info['runningtimes'][i]]
+            for i in range(len(info['actors'])):
+                info['actors'][i] = [token.lower() for token in info['actors'][i]]
+            for i in range(len(info['roles'])):
+                info['roles'][i] = [token.lower() for token in info['roles'][i]]
 
     # Method which removes leading and trailing punctuations and individual punctuations
     def remove_punctuation(self):
@@ -92,6 +106,10 @@ class PreProcessing:
             for token in (info['writers']):
                 token[0] = token[0].rstrip(",")
             for token in (info['composers']):
+                token[0] = token[0].rstrip(",")
+            for token in (info['actors']):
+                token[0] = token[0].rstrip(",")
+            for token in (info['roles']):
                 token[0] = token[0].rstrip(",")
 
     # Perform Snowball stemming to plot info
@@ -250,7 +268,7 @@ class PreProcessing:
             # format: david 1, johnson 2, jake 3...
             position = len(info["title"]) + 100
             for i in range(len(info["composers"])):
-                position += 1
+                position += 15
                 for token in info["composers"][i]:
                     if token not in self.__index:
                         self.__index[token] = [1, {docid: [str(position)]}]
@@ -260,7 +278,67 @@ class PreProcessing:
                         else:
                             self.__index[token][1][docid] = [str(position)]
                             self.__index[token][0] += 1
-            # TODO fix the relationship between actors and roles in cast
+            position += 100
+            for i in range(len(info["editors"])):
+                position += 15
+                for token in info["editors"][i]:
+                    if token not in self.__index:
+                        self.__index[token] = [1, {docid: [str(position)]}]
+                    else:
+                        if docid in self.__index[token][1]:
+                            self.__index[token][1][docid].append(str(position))
+                        else:
+                            self.__index[token][1][docid] = [str(position)]
+                            self.__index[token][0] += 1
+            position += 100
+            for i in range(len(info["directors"])):
+                position += 15
+                for token in info["directors"][i]:
+                    if token not in self.__index:
+                        self.__index[token] = [1, {docid: [str(position)]}]
+                    else:
+                        if docid in self.__index[token][1]:
+                            self.__index[token][1][docid].append(str(position))
+                        else:
+                            self.__index[token][1][docid] = [str(position)]
+                            self.__index[token][0] += 1
+            position += 100
+            for i in range(len(info["writers"])):
+                position += 15
+                for token in info["writers"][i]:
+                    if token not in self.__index:
+                        self.__index[token] = [1, {docid: [str(position)]}]
+                    else:
+                        if docid in self.__index[token][1]:
+                            self.__index[token][1][docid].append(str(position))
+                        else:
+                            self.__index[token][1][docid] = [str(position)]
+                            self.__index[token][0] += 1
+            position += 100
+            temp_position = position
+            for i in range(len(info["actors"])):
+                position += 15
+                for token in info["actors"][i]:
+                    if token not in self.__index:
+                        self.__index[token] = [1, {docid: [str(position)]}]
+                    else:
+                        if docid in self.__index[token][1]:
+                            self.__index[token][1][docid].append(str(position))
+                        else:
+                            self.__index[token][1][docid] = [str(position)]
+                            self.__index[token][0] += 1
+            position = temp_position + 2
+            for i in range(len(info["roles"])):
+                position += 15
+                for token in info["roles"][i]:
+                    if token not in self.__index:
+                        self.__index[token] = [1, {docid: [str(position)]}]
+                    else:
+                        if docid in self.__index[token][1]:
+                            self.__index[token][1][docid].append(str(position))
+                        else:
+                            self.__index[token][1][docid] = [str(position)]
+                            self.__index[token][0] += 1
             position += 100
             for i in range(len(info["plot"])):
                 token = info["plot"][i]
