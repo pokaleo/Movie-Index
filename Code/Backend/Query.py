@@ -44,7 +44,22 @@ class Query:
                 return result
         else:
             raise Exception("Keywords is empty!")
-
+    
+    # Naive implementation of search for general without ranking
+    def by_general(self, keywords):
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                return self.__plain_search(keywords[0].lower())
+            else:
+                result = []
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower())
+                return result
+        else:
+            raise Exception("Keywords is empty!")
+    
     # Method to perform plain single word search
     def __plain_search(self, word_to_be_queried, attributes):
         result = []
@@ -54,8 +69,12 @@ class Query:
                 for doic, info in self.dataset.items():
                     if word_to_be_queried in info['title']:
                         result.append(doic)
+        # Use general research if no attribute input
         else:
-            pass
+            for doic, info in self.dataset.items():
+                for attribute in info.keys():
+                    if word_to_be_queried in info[attribute]:
+                        result.append(doic)
         return result
 
     def __term_frequency(self, word_to_be_queried, docid):
