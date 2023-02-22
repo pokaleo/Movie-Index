@@ -61,7 +61,7 @@ class Query:
             raise Exception("Keywords is empty!")
     
     # Method to perform plain single word search
-    def __plain_search(self, word_to_be_queried, attributes):
+    def __plain_search(self, word_to_be_queried, attributes = None):
         result = []
         # Detect if the search is specified to an attribute
         if attributes:
