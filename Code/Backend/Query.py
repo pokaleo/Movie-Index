@@ -29,6 +29,21 @@ class Query:
                 return result
         else:
             raise Exception("Keywords is empty!")
+            
+    # Naive implementation of search by keywords without ranking
+    def by_keywords(self, keywords):
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                return self.__plain_search(keywords[0].lower(), "keywords")
+            else:
+                result = []
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), "keywords")
+                return result
+        else:
+            raise Exception("Keywords is empty!")
 
     # Method to perform plain single word search
     def __plain_search(self, word_to_be_queried, attributes):
