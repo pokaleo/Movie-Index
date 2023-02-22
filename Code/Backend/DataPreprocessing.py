@@ -27,6 +27,7 @@ class PreProcessing:
         # Check if the dataset is empty
         self.__index = {}
         self.__index_title = {}
+        self.__index_keywords = {}
         if dataset:
             self.__dataset = copy.deepcopy(dataset)
         else:
@@ -201,6 +202,14 @@ class PreProcessing:
                     else:
                         self.__index[token][1][docid] = ["keyword"]
                         self.__index[token][0] += 1
+                if token not in self.__index_keywords:
+                    self.__index_keywords[token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index_keywords[token][1]:
+                        self.__index_keywords[token][1][docid].append(str(i))
+                    else:
+                        self.__index_keywords[token][1][docid] = [str(i)]
+                        self.__index_keywords[token][0] += 1
             for i in range(len(info["languages"])):
                 token = info["languages"][i]
                 if token not in self.__index:
@@ -368,5 +377,11 @@ class PreProcessing:
     def get_index_title(self):
         if self.__index_title:
             return self.__index_title
+        else:
+            raise Exception("The index is empty!")
+
+    def get_index_keywords(self):
+        if self.__index_keywords:
+            return self.__index_keywords
         else:
             raise Exception("The index is empty!")
