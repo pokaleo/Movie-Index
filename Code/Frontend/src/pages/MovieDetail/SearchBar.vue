@@ -28,6 +28,7 @@
 <script>
 import { defineComponent,ref,reactive } from 'vue';
 import { useRouter } from "vue-router"
+//import { getJson } from "serpapi";
 
 export default defineComponent({
   name: "SearchBar",
@@ -45,7 +46,11 @@ export default defineComponent({
     //query.queryMsg = props.q
     //query.selected = props.t !=""? props.t :"title"
 
+    
     function goSearchResult(){
+      //const params = { q: "Coffeee", hl: "en", gl: "us", api_key: "c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e" }; 
+      //const response = getJson("google", params);
+      //console.log(response["search_information"]);
       router.push({path:"/search",query:{q:query.queryMsg, t:query.selected}})
     }
 

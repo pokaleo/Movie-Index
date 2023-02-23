@@ -7,9 +7,8 @@
     </div>
     <suspense>
     <div class="content">
-      <div class="big-title">
-        {{ $route.query.q }}
-        Did you mean: <i>Funny movie</i> or <i>Fun movie</i>?
+      <div class="big-title" v-if="hasCorrected">
+        Did you mean: <i>{{ spellchecked }}</i>?
       </div>
       <div class="movie-list">
         <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
@@ -33,7 +32,6 @@
 import { reactive,watch,onMounted,getCurrentInstance } from 'vue';
 import { useRouter,useRoute } from "vue-router"
 import SearchBar from '../MovieDetail/SearchBar.vue';
-
 const router = useRouter()
 const route = useRoute()
 
@@ -68,7 +66,8 @@ let movieList = reactive([
   }
   */
 ])
-
+let spellchecked = reactive()
+let hasCorrected = false
 /**
  * 跳转电影详情页面
  * @param movieId 
@@ -81,15 +80,20 @@ const goMovieDetailPage = (movieId) => {
 const getData=async()=>{
   let { proxy } = getCurrentInstance();
   await proxy.$http
-     .post('http://localhost:8800/search',{
+     .post('http://10.124.30.217:8800/search',{
       query:route.query.q,
-      type: route.query.t
+      type: route.query.t,
+      need_check: false
      })
      .then(function(res){
       console.log(res)
       const list = JSON.parse(JSON.stringify(res.data.results))
+      spellchecked = res.data.corrected
+      if(spellchecked != '')
+        hasCorrected = true
       movieList.push(list)
       console.log(movieList[0])
+      console.log(spellchecked)
      })
      .catch(function(error) {
       console.log(error);

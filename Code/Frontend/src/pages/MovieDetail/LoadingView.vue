@@ -9,7 +9,7 @@
       <KeepAlive>
         <SearchBar :t="mode"/>
       </KeepAlive>
-      <el-button size="small" @click="sendQuery" style="margin-top:20px">Search</el-button>
+      <!--el-button size="small" @click="sendQuery" style="margin-top:20px">Search</el-button-->
     </div>
   </div>
 </template>

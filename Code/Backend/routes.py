@@ -7,6 +7,7 @@ import json
 import RetrieveData
 import DataPreprocessing
 import Query
+import Spellcheck
 
 movies = RetrieveData.MovieInfo("../TestDataset")
 movies.read_files()
@@ -52,6 +53,14 @@ def searchQuery():
     data = request.get_json()
     queryMsg= data.get('query')
     type = data.get('type')
+    need_check = data.get('need_check')
+    corrected = ''
+    '''
+    query translate and spell check
+    '''
+    if need_check:
+        corrected=Spellcheck.spellcheck(queryMsg)
+    queryMsg=Spellcheck.trans_api(queryMsg)
     '''
     function to wrap up
     '''
@@ -80,6 +89,7 @@ def searchQuery():
     response = {
         'results': reslist,
         'ids': res,
+        'corrected': corrected
     }
     print('data (json): ', data)
     print(reslist)
