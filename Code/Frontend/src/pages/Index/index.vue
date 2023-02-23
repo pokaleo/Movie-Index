@@ -5,6 +5,7 @@
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
       <SearchBar :q=$route.query.q :t=$route.query.t />
     </div>
+    <Suspense>
     <div class="content">
       <div class="big-title">
         {{ $route.query.q }}
@@ -23,6 +24,7 @@
         </div>
       </div>
     </div>
+  </Suspense>
 
   </div>
 </template>
