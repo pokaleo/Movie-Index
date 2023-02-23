@@ -97,14 +97,15 @@ class Query:
             number_of_tokens += len(token)
         return number_of_tokens
     
-    # Okapi BM25 Ranking
+    # Use Okapi BM25 Ranking to calculate the
     def bm25(self, word_to_be_queried, docid):
         import math
         k = 1.5
         N = len(self.dataset.keys())
-        L_division = self.__number_of_terms(docid)/self.__cal_average_number_of_terms()
+        L_division = self.__number_of_terms(docid)\
+                    /self.__cal_average_number_of_terms()
         restpart = (N - self.__document_frequency(word_to_be_queried) + 0.5)\
-                /(self.__document_frequency(word_to_be_queried) + 0.5)
+                    /(self.__document_frequency(word_to_be_queried) + 0.5)
         w_td = math.log10(restpart) * self.__term_frequency(word_to_be_queried, docid)\
                 /((k * L_division) + self.__term_frequency(word_to_be_queried, docid) + 0.5)
         return N
