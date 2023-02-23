@@ -6,10 +6,19 @@ from flask_cors import CORS
 import json
 import RetrieveData
 import DataPreprocessing
+import Query
 
 movies = RetrieveData.MovieInfo("../TestDataset")
 movies.read_files()
 moviedict = movies.get_movie_info()
+processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
+processed_data.tokenise()
+processed_data.to_lowercase()
+processed_data.remove_punctuation()
+processed_data.stem_data()
+processed_data.remove_stopwords()
+processed_data.create_index()
+query = Query.Query(processed_data)
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True)
@@ -22,9 +31,9 @@ def foo():
 @app.route('/test', methods=['GET','POST'])
 def testQuery():
     data = request.get_json()
-    query= data.get('query')
+    queryMsg= data.get('query')
     response = {
-        'results': 'This is a test result! \n Your input is' + query,
+        'results': 'This is a test result! \n Your input is' + queryMsg,
         'title':[],
     }
     print('data (json): ', data)
@@ -38,6 +47,42 @@ def getMovie(id):
     print(response)
     return jsonify(response)
 
+@app.route('/search', methods=['GET','POST'])
+def searchQuery():
+    data = request.get_json()
+    queryMsg= data.get('query')
+    type = data.get('type')
+    '''
+    function to wrap up
+    '''
+    def formatRes(id):
+        doc = {
+            "id": id,
+            "movieName": moviedict[id]['title'],
+            "description": moviedict[id]['plot'],
+            "director": moviedict[id]['directors'],
+            "year": moviedict[id]['year'],
+            "country": moviedict[id]['countries'],
+            "runtime": moviedict[id]['runningtimes']
+        }
+        return doc
+    '''
+    Add function for extract results
+    '''
+    if type == 'title':
+        res = query.by_title(queryMsg)
 
+    
+    reslist = []
+    for id in res:
+        reslist.append(formatRes(id))
+
+    response = {
+        'results': reslist,
+        'ids': res,
+    }
+    print('data (json): ', data)
+    print(reslist)
+    return jsonify(response)
 
 app.run(host='0.0.0.0',port=8800)

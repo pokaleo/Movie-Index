@@ -4,50 +4,56 @@
       <el-input
         class="text"
         placeholder="Please input your query"
-        v-model="query"
+        v-model="query.queryMsg"
         style="width: 40%">
       </el-input>
       
-      <select v-model="selected" class="selected">
-        <option value="title">by titel</option>
+      <select v-model="query.selected" class="selected">
+        <option value="title">by title</option>
         <option value="cast">by cast</option>
+        <option value="country">by country</option>
       </select>
     
+      <!--router-link :to="'/result/'+selected+'/'+query"-->
       <el-button
-        @click="handleSearch"
         class="searchButton"
+        @click="goSearchResult"
       >
-      
-      <router-link to="/"><img src="@/assets/svg/icons8-search.svg" alt="search"></router-link>
+        <img src="@/assets/svg/icons8-search.svg" alt="search">
       </el-button>
+      <!--/router-link-->
   </div>
 </template>
 
 <script>
-import { defineComponent } from 'vue';
+import { defineComponent,ref,reactive } from 'vue';
 import { useRouter } from "vue-router"
-
-const router = useRouter()
-
-const handleSearch=()=>{
-      //this.$emit('search-for', this.query)
-      router.push("/")
-}
 
 export default defineComponent({
   name: "SearchBar",
-  //props: ["],
+  props: {
+    q: String,
+    t: String,
+  },
   //emits: ["update:modelValue"],
-  data() {
-    return{
-      query: "",
-      selected:"",
+  setup(props){
+    const router = useRouter()
+    var query = reactive({queryMsg:props.q, selected:props.t})
+    //console.log("props"+props.q)
+    //let queryMsg = ref("")
+    //let selected = ref("title")
+    //query.queryMsg = props.q
+    //query.selected = props.t !=""? props.t :"title"
+
+    function goSearchResult(){
+      router.push({path:"/search",query:{q:query.queryMsg, t:query.selected}})
     }
-  },
-  methods: {
-    
-    
-  },
+
+    return{
+      query,
+      goSearchResult
+    }
+  }
 });
 </script>
 

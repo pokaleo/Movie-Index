@@ -3,10 +3,11 @@
   <div class='container'>
     <div class="header">
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
-      <SearchBar/>
+      <SearchBar :q=$route.query.q :t=$route.query.t />
     </div>
     <div class="content">
       <div class="big-title">
+        {{ $route.query.q }}
         Did you mean: <i>Funny movie</i> or <i>Fun movie</i>?
       </div>
       <div class="movie-list">
@@ -26,13 +27,16 @@
   </div>
 </template>
 
-<script setup lang='ts'>
-import { reactive } from 'vue';
-import { useRouter } from "vue-router"
+<script setup>
+import { reactive,watch,onMounted,getCurrentInstance } from 'vue';
+import { useRouter,useRoute } from "vue-router"
 import SearchBar from '../MovieDetail/SearchBar.vue';
 
 const router = useRouter()
-const movieList = reactive([
+const route = useRoute()
+
+let movieList = reactive([
+  /*
   {
     id: '375972',
     movieName: "Monsieur Vincent",
@@ -60,15 +64,41 @@ const movieList = reactive([
     country: " France",
     runtime: '98'
   }
+  */
 ])
 
 /**
  * 跳转电影详情页面
  * @param movieId 
  */
-const goMovieDetailPage = (movieId: string | number) => {
+const goMovieDetailPage = (movieId) => {
   router.push("/detail/" + movieId)
 }
+
+alert("New Search: "+route.query.q+route.query.t)
+const getData=async()=>{
+  let { proxy } = getCurrentInstance();
+  await proxy.$http
+     .post('http://10.124.30.217:8800/search',{
+      query:route.query.q,
+      type: route.query.t
+     })
+     .then(function(res){
+      console.log(res)
+      movieList=JSON.parse(JSON.stringify(res.data.results))
+      console.log(movieList)
+     })
+     .catch(function(error) {
+      console.log(error);
+    })
+}
+getData()
+/*
+onMounted(() => {
+  console.log(route.params.query)
+  
+})
+*/
 </script>
 
 <style scoped lang="less">

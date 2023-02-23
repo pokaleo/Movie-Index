@@ -6,8 +6,9 @@
     </div>
 
     <div class="inputQuery">
-      <SearchBar/>
-      
+      <KeepAlive>
+        <SearchBar :t="mode"/>
+      </KeepAlive>
       <el-button size="small" @click="sendQuery" style="margin-top:20px">Search</el-button>
     </div>
   </div>
@@ -27,7 +28,8 @@ export default {
   data() {
     return{
       query: "",
-      results: ""
+      results: "",
+      mode:"title"
     }
   },
 

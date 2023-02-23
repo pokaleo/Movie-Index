@@ -2,11 +2,11 @@ import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router"
 
 const routes: Array<RouteRecordRaw> = [
   {
-    path: "/",
-    name: "Index",
+    path: "/search",
+    name: "Results",
     component: () => import(/* webpackChunkName: "Index" */ "@/pages/Index/index.vue"),
     meta: {
-      title: "Main",
+      title: "Results",
     },
   },
   {
@@ -18,11 +18,11 @@ const routes: Array<RouteRecordRaw> = [
     },
   },
   {
-    path: "/load",
-    name: "loading",
+    path: "/",
+    name: "Start",
     component: () => import(/* webpackChunkName: "MovieDetail" */ "@/pages/MovieDetail/LoadingView.vue"),
     meta: {
-      title: "Loading",
+      title: "Start",
     },
   },
 ]

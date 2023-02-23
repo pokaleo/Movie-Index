@@ -87,11 +87,10 @@ var info = reactive({
   type:"",
   writers:"",
   year:""})
-var cast = ref([{actor:"Bouquet, Michel", role:"Le tuberculeux"}, {actor:"Bouquet, Michel", role:"Le tuberculeux"},{actor:"Bouquet, Michel", role:"Le tuberculeux"},{actor:"Bouquet, Michel", role:"Le tuberculeux"},{actor:"Bouquet, Michel", role:"Le tuberculeux"},{actor:"Bouquet, Michel", role:"Le tuberculeux"},{actor:"Bouquet, Michel", role:"Le tuberculeux"},{actor:"Bouquet, Michel", role:"Le tuberculeux"},])
 
 const route = useRoute()
 proxy.$http
-     .get('http://10.124.30.217:8800/movie/'+route.params.id, )
+     .post('http://10.124.30.217:8800/movie/'+route.params.id, )
      .then(function(res) {
        if (Object.keys(res.data.cast) == 0)
           hasCast = false
