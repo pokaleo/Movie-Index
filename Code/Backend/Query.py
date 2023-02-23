@@ -108,4 +108,4 @@ class Query:
                     /(self.__document_frequency(word_to_be_queried) + 0.5)
         w_td = math.log10(restpart) * self.__term_frequency(word_to_be_queried, docid)\
                 /((k * L_division) + self.__term_frequency(word_to_be_queried, docid) + 0.5)
-        return N
+        return w_td
