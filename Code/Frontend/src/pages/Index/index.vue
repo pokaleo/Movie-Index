@@ -5,14 +5,14 @@
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
       <SearchBar :q=$route.query.q :t=$route.query.t />
     </div>
-    <Suspense>
+    <suspense>
     <div class="content">
       <div class="big-title">
         {{ $route.query.q }}
         Did you mean: <i>Funny movie</i> or <i>Fun movie</i>?
       </div>
       <div class="movie-list">
-        <div class="movie-item" v-for="(item, index) in movieList" :key="index" @click="goMovieDetailPage(item.id)">
+        <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
           <div class="movie-name">{{ item.movieName }}</div>
           <div class="movie-description">{{ item.description }}</div>
           <div class="movie-info">
@@ -24,7 +24,7 @@
         </div>
       </div>
     </div>
-  </Suspense>
+  </suspense>
 
   </div>
 </template>
@@ -77,18 +77,19 @@ const goMovieDetailPage = (movieId) => {
   router.push("/detail/" + movieId)
 }
 
-alert("New Search: "+route.query.q+route.query.t)
+//alert("New Search: "+route.query.q+route.query.t)
 const getData=async()=>{
   let { proxy } = getCurrentInstance();
   await proxy.$http
-     .post('http://10.124.30.217:8800/search',{
+     .post('http://localhost:8800/search',{
       query:route.query.q,
       type: route.query.t
      })
      .then(function(res){
       console.log(res)
-      movieList=JSON.parse(JSON.stringify(res.data.results))
-      console.log(movieList)
+      const list = JSON.parse(JSON.stringify(res.data.results))
+      movieList.push(list)
+      console.log(movieList[0])
      })
      .catch(function(error) {
       console.log(error);

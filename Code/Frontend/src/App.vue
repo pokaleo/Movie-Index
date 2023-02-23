@@ -1,6 +1,8 @@
 
 <template>
+   <suspense>
   <router-view :key="$route.fullPath"></router-view>
+  </suspense>
 </template>
 
 <style >
