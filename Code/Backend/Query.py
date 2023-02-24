@@ -41,7 +41,7 @@ class Query:
                 result = []
                 for keyword in keywords:
                     result += self.__plain_search(keyword.lower(), "keywords")
-                return result
+                return list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
     
