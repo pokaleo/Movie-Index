@@ -1,4 +1,5 @@
-import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router"
+import { before } from "node:test"
+import { createRouter, createWebHistory, onBeforeRouteUpdate, RouteRecordRaw } from "vue-router"
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -7,6 +8,7 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import(/* webpackChunkName: "Index" */ "@/pages/Index/index.vue"),
     meta: {
       title: "Results",
+      keepAlive:true,
     },
   },
   {
@@ -42,6 +44,7 @@ router.afterEach((to, from) => {
   // @ts-ignore
   document.title = to.meta.title
 })
+
 
 // 暴露路由
 export default router

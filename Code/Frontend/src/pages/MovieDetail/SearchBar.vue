@@ -48,8 +48,7 @@
 </template>
 
 <script>
-import { before } from 'lodash';
-import { defineComponent,ref,reactive } from 'vue';
+import { defineComponent,ref,reactive, onActivated} from 'vue';
 import { useRouter } from "vue-router"
 //import { getJson } from "serpapi";
 
@@ -78,12 +77,19 @@ export default defineComponent({
       router.push({path:"/search",query:{q:query.queryMsg, t:query.selected}})
     }
 
+    onActivated(()=>{
+      //const router = useRouter()
+      query.queryMsg=props.q
+      query.selected=props.t
+    })
     return{
       query,
       before,
       after,
       goSearchResult
     }
+
+    
   }
 });
 </script>
