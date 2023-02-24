@@ -3,9 +3,9 @@
   <div class='container'>
     <div class="header">
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
-      <SearchBar :q=$route.query.q :t=$route.query.t />
+      <SearchBar :q=q :t=t :key=q />
     </div>
-    <suspense>
+    
     <div class="content">
       <div class="big-title" v-if="hasCorrected">
         Did you mean: <i>{{ spellchecked }}</i>?
@@ -23,51 +23,25 @@
         </div>
       </div>
     </div>
-  </suspense>
+  
 
   </div>
 </template>
 
 <script setup>
 import { reactive,watch,onMounted,getCurrentInstance } from 'vue';
-import { useRouter,useRoute } from "vue-router"
+import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
 import SearchBar from '../MovieDetail/SearchBar.vue';
 const router = useRouter()
 const route = useRoute()
 
-let movieList = reactive([
-  /*
-  {
-    id: '375972',
-    movieName: "Monsieur Vincent",
-    description: "St. Vincent de Paul struggles to bring about peace and harmony among the peasant and the nobles in the midst of the Black Death in Europe, carrying on his charitable work in the face of all obstacies...",
-    director: "David Johnson",
-    year: "1987",
-    country: "United Kingdom",
-    runtime: '117'
-  },
-  {
-    id: '000007',
-    movieName: "Another Movie",
-    description: "A fantastic movie describe...",
-    director: "Willam Dart",
-    year: "1966",
-    country: "United States",
-    runtime: '178'
-  },
-  {
-    id: "000009",
-    movieName: "Cute cat",
-    description: "A cat movie which was directed by a famous director, and .....",
-    director: "Jake Craig",
-    year: "1998",
-    country: " France",
-    runtime: '98'
-  }
-  */
-])
+let movieList = reactive([])
 let spellchecked = reactive()
 let hasCorrected = false
+let q = reactive(route.query.q)
+let t = reactive(route.query.t)
+
+
 /**
  * 跳转电影详情页面
  * @param movieId 
@@ -77,8 +51,8 @@ const goMovieDetailPage = (movieId) => {
 }
 
 //alert("New Search: "+route.query.q+route.query.t)
+let { proxy } = getCurrentInstance();
 const getData=async()=>{
-  let { proxy } = getCurrentInstance();
   await proxy.$http
      .post('http://10.124.30.217:8800/search',{
       query:route.query.q,
@@ -93,13 +67,15 @@ const getData=async()=>{
         hasCorrected = true
       movieList.push(list)
       console.log(movieList[0])
-      console.log(spellchecked)
+      //console.log(spellchecked)
      })
      .catch(function(error) {
       console.log(error);
     })
-}
+};
+
 getData()
+
 /*
 onMounted(() => {
   console.log(route.params.query)

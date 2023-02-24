@@ -1,8 +1,17 @@
 
 <template>
-   <suspense>
-  <router-view :key="$route.fullPath"></router-view>
-  </suspense>
+  
+
+    <router-view v-slot="{ Component }">
+      <transition>
+        <keep-alive>
+          <component :is="Component" :key="$route.fullPath"/>
+        </keep-alive>
+      </transition>
+        <!--component :is="Component"  v-if="!$route.meta.keepAlive" :key="$route.fullPath"/-->
+    </router-view>
+
+  
 </template>
 
 <style >

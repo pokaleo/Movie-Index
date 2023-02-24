@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-  <div class="LoadingView">
+  <div class="MovieView">
       <el-container class = page>
           <el-header class="header"><SearchBar class="searchbar"/></el-header>
 
@@ -8,27 +8,58 @@
               <el-main class="movieBody">
               <h1 class="title">{{info.title}}</h1>
               <el-space spacer="|">
-                  <el-icon><Calendar /></el-icon>{{ info.year }}
+                  <div><el-icon><Calendar /></el-icon></div>{{ info.year }}
                   <el-icon><Location /></el-icon>
-                  <div v-for="c in info.countries" :key="c">
+                  <div v-for= "(c, index) in info.countries" :key="index">
                       {{ c }} 
                   </div>
               </el-space>
               <el-space spacer="|">
                   <el-icon><CollectionTag /></el-icon>
-                  <div v-for="genre in info.genres" :key="genre">
+                  <div v-for="(genre, index) in info.genres" :key="index">
                       {{ genre }} 
                   </div>
+              </el-space>
+              <el-space spacer="|">
+                <el-icon><VideoCameraFilled /></el-icon>
+                <div v-for="(c, index) in info.colorinfos" :key="index">
+                    {{ c }} 
+                </div>
+              </el-space>
+              <el-space spacer="|">
+                <el-icon><Stopwatch /></el-icon>
+                <div v-for="(r, index) in info.runningtimes" :key="index">
+                    {{ r[0] }}: {{ r[1] }} mins
+                </div>
+              </el-space>
+              <el-space spacer="|">
+                <el-icon><ChatDotSquare /></el-icon>
+                <div v-for="(l, index) in info.languages" :key="index">
+                    {{ l }}
+                </div>
               </el-space>
               <div class="fields">  
                   <h2>Description</h2>
                   <p>{{info.plot}}</p>
                   <h2>Directors</h2>
                   <el-space spacer='|'>
-                    <div v-for="director in info.directors" :key="director">
-                      {{ director }} 
+                    <div v-for="(director, index) in info.directors" :key="index">
+                      <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ director }} 
                     </div>
                   </el-space>
+                  <h2>Writers</h2>
+                  <el-space spacer='|'>
+                    <div v-for="(writer, index) in info.writers" :key="index">
+                      <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ writer }}
+                    </div>
+                  </el-space>
+                  <h2>Editors</h2>
+                  <el-space spacer='|'>
+                    <div v-for="(editor, index) in info.editors" :key="index">
+                      <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ editor }}
+                    </div>
+                  </el-space>
+
                   <h2>Cast</h2>
                       <el-scrollbar class="srollbar" v-if="hasCast">
                           <div class="scrollbar-flex-content">
@@ -40,6 +71,18 @@
                           </div>
                       </el-scrollbar>  
                       <p v-else>Unknown</p>
+                  <h2>Soundmixes</h2>
+                  <el-space spacer='|'>
+                    <div v-for="(soundmix, index) in info.soundmixes" :key="index">
+                      {{ soundmix }}
+                    </div>
+                  </el-space>
+                  <h2>Composers</h2>
+                  <el-space spacer='|'>
+                    <div v-for="(composer, index) in info.composers" :key="index">
+                      <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ composer}}
+                    </div>
+                  </el-space>
                   <h2>Certificates</h2>
                   <div v-for="item in info.certificates" :key="item">
                       <p>{{item[0]}}: {{ item[1]}}</p>
@@ -50,7 +93,7 @@
                   </div>
 
               </div> 
-              <el-divider><h2 class="end">END</h2></el-divider>
+                  <el-divider><h2 class="end">END</h2></el-divider>
               </el-main>
               <el-aside><KeyWordsBar class="sidebar" :keywords="info.keywords" v-if="info.keywords.length>0"/></el-aside>
           </el-container>
@@ -85,7 +128,7 @@ var info = reactive({
   soundmixes:[],
   title:"",
   type:"",
-  writers:"",
+  writers:[],
   year:""})
 
 const route = useRoute()
@@ -98,6 +141,8 @@ proxy.$http
        
        info.title = res.data.title
        info.year = res.data.year
+       info.plot = res.data.plot
+       info.type = res.data.type
        info.genres=JSON.parse(JSON.stringify(res.data.genres));
        info.keywords=JSON.parse(JSON.stringify(res.data.keywords));
        info.cast=JSON.parse(JSON.stringify(res.data.cast));
@@ -111,6 +156,7 @@ proxy.$http
        info.releasedates=JSON.parse(JSON.stringify(res.data.releasedates));
        info.runningtimes=JSON.parse(JSON.stringify(res.data.runningtimes));
        info.soundmixes=JSON.parse(JSON.stringify(res.data.soundmixes))
+       info.writers = JSON.parse(JSON.stringify(res.data.writers))
 
        
        //info.genres.push(...res.data.genres)
@@ -153,7 +199,6 @@ proxy.$http
   top: 0px;
   align-items: flex-start;
   align-content: flex-start;
-
 }
 .body{
   align-items: flex-start;
@@ -170,6 +215,8 @@ proxy.$http
 .movieBody{
   display: flex;
   flex-direction: column;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .fields{
@@ -177,8 +224,10 @@ proxy.$http
 }
 
 .sidebar{
-  top: 25%;
-  left: 0%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
+  margin-right: 5%;
 }
 .srollbar{
   height: 200px;
