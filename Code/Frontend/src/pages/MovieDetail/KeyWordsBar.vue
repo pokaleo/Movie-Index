@@ -5,6 +5,7 @@
           <div class="sidebar-header">
             <p>Keywords</p>
           </div>
+          {{ keywords.length }} Total
           <el-divider class="sidebar-divider"/>
           <div class="sidebar-body">
             <el-scrollbar height="450px">
@@ -45,6 +46,7 @@ export default{
     justify-items: center;
     align-items: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
 p{
