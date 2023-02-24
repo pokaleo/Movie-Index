@@ -56,12 +56,12 @@ class Query:
                 result = []
                 for keyword in keywords:
                     result += self.__plain_search(keyword.lower())
-                return result
+                return list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
     
     # Method to perform plain single word search
-    def __plain_search(self, word_to_be_queried, attributes = None):
+    def __plain_search(self, word_to_be_queried, attributes=None):
         result = []
         # Detect if the search is specified to an attribute
         if attributes:
