@@ -5,24 +5,25 @@
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
       <SearchBar :q=q :t=t :key=q />
     </div>
-    
-    <div class="content">
-      <div class="big-title" v-if="hasCorrected">
-        Did you mean: <i>{{ spellchecked }}</i>?
-      </div>
-      <div class="movie-list">
-        <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
-          <div class="movie-name">{{ item.movieName }}</div>
-          <div class="movie-description">{{ item.description }}</div>
-          <div class="movie-info">
-            <span>Director:{{ item.director }} • </span>
-            <span>Year: {{ item.year }} • </span>
-            <span>Country:{{ item.country }} • </span>
-            <span>Runtime:{{ item.runtime }}</span>
+    <perfect-scrollbar>
+      <div class="content">
+        <div class="big-title" v-if="hasCorrected">
+          Did you mean: <i>{{ spellchecked }}</i>?
+        </div>
+        <div class="movie-list">
+          <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
+            <div class="movie-name">{{ item.movieName }}</div>
+            <div class="movie-description">{{ item.description }}</div>
+            <div class="movie-info">
+              <span>Director:{{ item.director }} • </span>
+              <span>Year: {{ item.year }} • </span>
+              <span>Country:{{ item.country }} • </span>
+              <span>Runtime:{{ item.runtime }}</span>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </perfect-scrollbar>
   
 
   </div>
@@ -32,6 +33,7 @@
 import { reactive,watch,onMounted,getCurrentInstance } from 'vue';
 import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
 import SearchBar from '../MovieDetail/SearchBar.vue';
+// import http from "@/util/http"
 const router = useRouter()
 const route = useRoute()
 
@@ -91,6 +93,8 @@ onMounted(() => {
   width: 100%;
   padding-top: 0px;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 }
 .header{
   background-color: black;
@@ -98,10 +102,15 @@ onMounted(() => {
 }
 
 .content {
-  width: 600px;
-  height: 300px;
+  width: 100%;
+  flex: 1;
   margin: 0 auto;
-  margin-top: 30px;
+  padding-top: 30px;
+  padding-right: 5%;
+  padding-left: 5%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 
   .big-title {
     font-weight: bold;
@@ -120,13 +129,16 @@ onMounted(() => {
     .movie-item {
       border: 1px solid #000;
       padding: 10px 24px;
+      border-radius: 10px;
       box-sizing: border-box;
       margin: 10px 0;
-      background-color: #eee;
+      // background-color: #eee;
       cursor: pointer;
 
       .movie-name {
-        color: blue;
+        color: black;
+        font-size: 25px;
+        font-weight: bold;
       }
 
       .movie-description {

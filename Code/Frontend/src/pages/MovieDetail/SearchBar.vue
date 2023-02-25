@@ -26,11 +26,12 @@
         <el-collapse-item title="Advance" name="1">  
         </el-collapse-item>
       </el-collapse-->
+
       <v-dialog max-width="600px">
         <el-button flat slot="activator" class="success">ADVANCED SEARCH</el-button>
-        <v-card> 
-            <v-card-title>SEARCH CRITERIA</v-card-title>
-        </v-card>
+        <el-card>
+          <!-- <h2>Add Content</h2> -->
+        </el-card>
       </v-dialog>
       <el-row class="year">
       <div class="block">
@@ -55,7 +56,8 @@
 
 <script>
 import { defineComponent,ref,reactive, onActivated} from 'vue';
-import { useRouter } from "vue-router"
+import { useRouter } from "vue-router";
+// import {advancedsearch} from "./advancedSearch"
 
 //import { getJson } from "serpapi";
 
