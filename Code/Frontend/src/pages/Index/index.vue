@@ -54,7 +54,8 @@ const goMovieDetailPage = (movieId) => {
 let { proxy } = getCurrentInstance();
 const getData=async()=>{
   await proxy.$http
-     .post('http://10.124.30.217:8800/search',{
+     .post('http://localhost:8800/search',{
+    //  .post('http://10.124.30.217:8800/search',{
       query:route.query.q,
       type: route.query.t,
       need_check: false
