@@ -29,14 +29,14 @@
       <el-button class='advanced' @click="() => toggleBotton('clickT')">
         ADVANCED SEARCH
       </el-button>
-      <el-card v-if="filterTrigger.clickT">
+      <el-card class="card" v-if="filterTrigger.clickT">
         <template #header>
           <div class="card-header">
             <span>Search Filters</span>
             <el-button class="Advancedbutton" text>SEARCH</el-button>
           </div>
         </template>
-        <el-row class="year">
+        <el-row class="year" style="width: 50%">
           <div class="block">
             <span class="demonstration">Start Year</span>
             <el-date-picker
@@ -54,7 +54,7 @@
             />
           </div>
         </el-row>
-        <el-row class="genre">
+        <el-row class="genre" style="width:50%">
           <div class="block">
             <span class="demonstration">Genre</span>
             <el-cascader
@@ -65,7 +65,7 @@
             />
           </div>
         </el-row>
-        <el-row class="filmColor">
+        <el-row class="filmColor" style="width:50%">
           <div class="block">
             <span class="demonstration">Film Color</span>
             <el-cascader
@@ -101,7 +101,7 @@ export default defineComponent({
     const before=ref('')
     const after=ref('')
     const filterTrigger = ref({
-      clickT: true
+      clickT: false
     })
     //console.log("props"+props.q)
     //const activeNames = ref(['1'])
@@ -165,8 +165,11 @@ img{
   width: 40%;
   left: 30%;
   margin-top: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
+  //margin-left: 10px;
+  //margin-right: 10px;
+}
+.card{
+  height: 300px;
 }
 
 .genre{
@@ -192,10 +195,10 @@ img{
   margin-right: 10px;
 }
 .block{
+  width:50%;
   text-align: center;
   height: 20px;
 }
-
 .advanced{
   height: 40px;
 }
