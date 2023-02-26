@@ -26,19 +26,19 @@
         <el-collapse-item title="Advance" name="1">  
         </el-collapse-item>
       </el-collapse-->
-      <el-button @click="() => toggleBotton('clickT')">
+      <el-button class='advanced' @click="() => toggleBotton('clickT')">
         ADVANCED SEARCH
       </el-button>
-      <el-card class="box-card" v-if="filterTrigger.clickT">
+      <el-card v-if="filterTrigger.clickT">
         <template #header>
           <div class="card-header">
             <span>Search Filters</span>
-            <el-button class="button" text>Search</el-button>
+            <el-button class="Advancedbutton" text>SEARCH</el-button>
           </div>
         </template>
         <el-row class="year">
           <div class="block">
-            <span class="demonstration">After</span>
+            <span class="demonstration">Start Year</span>
             <el-date-picker
               v-model="after"
               type="year"
@@ -46,14 +46,36 @@
             />
           </div>
           <div class="block">
-            <span class="demonstration">Before</span>
+            <span class="demonstration">End Year</span>
             <el-date-picker
               v-model="before"
               type="year"
               placeholder="Pick a year"
             />
           </div>
-          </el-row>
+        </el-row>
+        <el-row class="genre">
+          <div class="block">
+            <span class="demonstration">Genre</span>
+            <el-cascader
+              v-model="value"
+              :options="options"
+              :props="props"
+              @change="handleChange"
+            />
+          </div>
+        </el-row>
+        <el-row class="filmColor">
+          <div class="block">
+            <span class="demonstration">Film Color</span>
+            <el-cascader
+              v-model="value"
+              :options="options"
+              :props="props"
+              @change="handleChange"
+            />
+          </div>
+        </el-row>    
       </el-card>
   </div>
 </template>
@@ -70,6 +92,7 @@ export default defineComponent({
   props: {
     q: String,
     t: String,
+    
   },
   //emits: ["update:modelValue"],
   setup(props){
@@ -88,7 +111,7 @@ export default defineComponent({
     const toggleBotton = (trigger) => {
       filterTrigger.value[trigger] = !filterTrigger.value[trigger]
     }
-
+    
     function goSearchResult(){
       //const params = { q: "Coffeee", hl: "en", gl: "us", api_key: "c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e" }; 
       //const response = getJson("google", params);
@@ -126,6 +149,8 @@ export default defineComponent({
 }
 .searchButton{
   background: white;
+  height: 40px;
+  margin-left: 10px;
 }
 
 .selected{
@@ -140,19 +165,58 @@ img{
   width: 40%;
   left: 30%;
   margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.genre{
+  width: 40%;
+  left: 30%;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.filmColor{
+  width: 40%;
+  left: 30%;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.demonstration{
+  font-size: 18px;
+  font-style: oblique;
+  font-weight: bold;
+  margin-right: 10px;
 }
 .block{
   text-align: center;
+  height: 20px;
+}
+
+.advanced{
+  height: 40px;
 }
 .card-header {
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bold;
+  margin-left: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.box-card {
-  width: 480px;
-  height: 300px;
-  margin-top: 10px;
+
+.Advancedbutton{
+  width: 200px;
+  height: 40px;
+  margin-right: 120px;
+  font-size: 15px;
+  font-style:oblique;
+  font-weight: bold;
 }
+
 
 </style>
