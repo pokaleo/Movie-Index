@@ -26,31 +26,35 @@
         <el-collapse-item title="Advance" name="1">  
         </el-collapse-item>
       </el-collapse-->
-
-      <v-dialog max-width="600px">
-        <el-button flat slot="activator" class="success">ADVANCED SEARCH</el-button>
-        <el-card>
-          <!-- <h2>Add Content</h2> -->
-        </el-card>
-      </v-dialog>
-      <el-row class="year">
-      <div class="block">
-        <span class="demonstration">After</span>
-        <el-date-picker
-          v-model="after"
-          type="year"
-          placeholder="Pick a year"
-        />
-      </div>
-      <div class="block">
-        <span class="demonstration">Before</span>
-        <el-date-picker
-          v-model="before"
-          type="year"
-          placeholder="Pick a year"
-        />
-      </div>
-      </el-row>
+      <el-button @click="() => toggleBotton('clickT')">
+        ADVANCED SEARCH
+      </el-button>
+      <el-card class="box-card" v-if="filterTrigger.clickT">
+        <template #header>
+          <div class="card-header">
+            <span>Search Filters</span>
+            <el-button class="button" text>Search</el-button>
+          </div>
+        </template>
+        <el-row class="year">
+          <div class="block">
+            <span class="demonstration">After</span>
+            <el-date-picker
+              v-model="after"
+              type="year"
+              placeholder="Pick a year"
+            />
+          </div>
+          <div class="block">
+            <span class="demonstration">Before</span>
+            <el-date-picker
+              v-model="before"
+              type="year"
+              placeholder="Pick a year"
+            />
+          </div>
+          </el-row>
+      </el-card>
   </div>
 </template>
 
@@ -73,11 +77,17 @@ export default defineComponent({
     var query = reactive({queryMsg:props.q, selected:props.t})
     const before=ref('')
     const after=ref('')
+    const filterTrigger = ref({
+      clickT: true
+    })
     //console.log("props"+props.q)
     //const activeNames = ref(['1'])
     //const handleChange = (val) => {
       //console.log(val)
     //}
+    const toggleBotton = (trigger) => {
+      filterTrigger.value[trigger] = !filterTrigger.value[trigger]
+    }
 
     function goSearchResult(){
       //const params = { q: "Coffeee", hl: "en", gl: "us", api_key: "c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e" }; 
@@ -95,7 +105,9 @@ export default defineComponent({
       query,
       before,
       after,
-      goSearchResult
+      goSearchResult,
+      filterTrigger,
+      toggleBotton
     }
 
     
@@ -132,4 +144,15 @@ img{
 .block{
   text-align: center;
 }
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.box-card {
+  width: 480px;
+  height: 300px;
+  margin-top: 10px;
+}
+
 </style>
