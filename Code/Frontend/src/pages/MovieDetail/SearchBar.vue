@@ -39,19 +39,27 @@
         </template>
         <el-row class="year" style="width: 50%">
           <div class="block">
-            <span class="demonstration">Start Year</span>
             <el-input
               v-model="query.after"
               placeholder="YYYY"
-            />
+            >
+            <template #prefix>
+              <span class="demonstration">Start Year</span>
+            </template>
+            </el-input>
           </div>
+        </el-row>
+        <el-row class="year" style="width: 50%">
           <div class="block">
-            <span class="demonstration">End Year</span>
             <el-input
               v-model="query.before"
               type="year"
               placeholder="YYYY"
-            />
+            >
+            <template #prefix>
+              <span class="demonstration">End Year</span>
+            </template>
+            </el-input>
           </div>
         </el-row>
         <el-row class="genre" style="width:50%">
@@ -165,7 +173,7 @@ img{
 .year{
   width: 40%;
   left: 30%;
-  margin-top: 10px;
+  margin-top: 20px;
   //margin-left: 10px;
   //margin-right: 10px;
 }
