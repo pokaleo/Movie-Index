@@ -27,4 +27,6 @@ query = Query.Query(processed_data)
 # print(query.by_title("vinCeNt #Bfl"))
 # print(query.by_general("Lipstick Vincent"))
 # print(query.bm25("vincent","002359"))
+# print(query.proximity_search("#15 vishnuvardhan himself"))
+# print(query.phrase_search("thing littlest"))
 
