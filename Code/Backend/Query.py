@@ -61,6 +61,27 @@ class Query:
             raise Exception("Keywords is empty!")
     
     # Method to perform plain single word search
+    def __plain_search(self, word_to_be_queried, attributes=None):
+        result = []
+        # Detect if the search is specified to an attribute
+        if attributes:
+            if attributes == "title":
+                for doic, info in self.dataset.items():
+                    if word_to_be_queried in info['title']:
+                        result.append(doic)
+            if attributes == "keywords":
+                for doic, info in self.dataset.items():
+                    if word_to_be_queried in info['keywords']:
+                        result.append(doic)
+        # Use general research if no attribute input 
+        else:
+            for doic, info in self.dataset.items():
+                for attribute in info.keys():
+                    if word_to_be_queried in info[attribute]:
+                        result.append(doic)
+        return result
+    
+    # Method to perform single word search with docid and position
     def __position_search(self, word_to_be_queried):
         from nltk.stem.snowball import SnowballStemmer
         word1 = SnowballStemmer(language='english').stem(word_to_be_queried.lower())
@@ -87,17 +108,7 @@ class Query:
                 raise Exception("We did not find the result!")
         else: 
             raise Exception("We did not find the result!")
-
-    # Method to perform single word search with docid and position
-    def __position_search(self, word_to_be_queried):
-        from nltk.stem import PorterStemmer
-        ps = PorterStemmer()
-        word = ps.stem(word_to_be_queried.lower())
-        if word in self.index_general.keys():
-            result = self.index_general[word][1]
-            return result
-        else: 
-            raise Exception("We did not find the result!")
+        
     
     # Proximity Search : "#distance word1 word2"
     def proximity_search(self, keywords):
