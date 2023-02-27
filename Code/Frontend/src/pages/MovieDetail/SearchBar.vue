@@ -3,25 +3,37 @@
       
       <el-input
         class="text"
-        placeholder="Please input your query"
+        placeholder="Please enter a search term"
         v-model="query.queryMsg"
-        style="width: 40%">
+        style="width: 50%">
+        <template #append>
+          <!--router-link :to="'/result/'+selected+'/'+query"-->
+          <el-button
+            class="searchButton"
+            @click="goSearchResult"
+          >
+            <img src="@/assets/svg/icons8-search.svg" alt="search">
+          </el-button>
+          <!-- <el-button :icon="Search" /> -->
+        </template>
       </el-input>
       
-      <select v-model="query.selected" class="selected">
+      <!-- <select v-model="query.selected" class="selected">
         <option value="title">by title</option>
         <option value="general">by general</option>
         <option value="keywords">by keywords</option>
         <option value="genres">by genres</option>
-      </select>
+      </select> -->
     
       <!--router-link :to="'/result/'+selected+'/'+query"-->
-      <el-button
+      <!-- <el-button
         class="searchButton"
         @click="goSearchResult"
       >
         <img src="@/assets/svg/icons8-search.svg" alt="search">
-      </el-button>
+      </el-button> -->
+
+
       <!--/router-link-->
       <!--el-collapse v-model="activeNames" @change="handleChange" style="width: 40%">
         <el-collapse-item title="Advance" name="1">  
@@ -37,12 +49,44 @@
           </div>
         </template>
         <el-form :model="form" label-width="120px">
-          <!-- <el-form-item class="demonstration" label="Genre">
-            <el-select v-model="value" placeholder="please select a genre">
-              <el-option label="Zone one" value="shanghai" />
-              <el-option label="Zone two" value="beijing" />
-            </el-select>
-          </el-form-item> -->
+          <el-form-item class="demonstration" label="Browse By">
+            <el-input
+              v-model="query.queryMsg"
+              placeholder="Please enter a search term"
+              class="input-with-select"
+            >
+              <template #prepend>
+                <el-select class="selectNot" v-model="query.selected" placeholder="Any" style="width: 115px">
+                  <el-option value="title">Title</el-option>
+                  <el-option value="general">General</el-option>
+                  <el-option value="keywords">Keywords</el-option>
+                  <el-option value="genres">Genres</el-option>
+                </el-select>
+              </template>
+            </el-input>
+          </el-form-item>
+          <el-form-item v-for="item in count" :key="item" class="demonstration" label="Alternatives">
+            <el-input
+              v-model="input3"
+              placeholder="Please enter a search term"
+              class="input-with-select"
+            >
+              <template #prepend>
+                <el-select class="selectNot" v-model="select" placeholder="AND" style="width: 95px">
+                  <el-option label="AND" value="1" />
+                  <el-option label="NOT" value="2" />
+                </el-select>
+                <el-select class="selected" v-model="query.selected" placeholder="Any" style="width: 95px">
+                  <el-option value="title">Title</el-option>
+                  <el-option value="general">General</el-option>
+                  <el-option value="keywords">Keywords</el-option>
+                  <el-option value="genres">Genres</el-option>
+                </el-select>
+              </template>
+            </el-input>
+          </el-form-item>
+          <el-button class="AlterButton" @click="add">Add A New Request Line</el-button>
+          <el-button class="AlterButton" @click="onDelete">Delete A Line</el-button>
           <el-form-item class="demonstration" label="Year Range">
             <el-col :span="11">
               <el-input
@@ -76,67 +120,9 @@
           </el-form-item>
           <el-form-item>
             <el-button class="Advancedbutton" type="primary" @click="onSubmit">SEARCH</el-button>
-            <el-button class="Advancedbutton">Cancel</el-button>
+            <el-button class="Advancedbutton" clearable>CLEAR</el-button>
           </el-form-item>
         </el-form>
-
-        <!-- version 1 -->
-        <!-- <el-row class="year" style="width: 50%">
-          <div class="block">
-            <el-input
-              v-model="query.after"
-              placeholder="YYYY"
-            >
-            <template #prefix>
-              <span class="demonstration">Start Year</span>
-            </template>
-            </el-input>
-          </div>
-        </el-row>
-        <el-row class="year" style="width: 50%">
-          <div class="block">
-            <el-input
-              v-model="query.before"
-              type="year"
-              placeholder="YYYY"
-            >
-            <template #prefix>
-              <span class="demonstration">End Year</span>
-            </template>
-            </el-input>
-          </div>
-        </el-row>
-        <el-row class="genre" style="width:50%">
-          <div class="block">
-            <el-select v-model="value" placeholder="Select" style="height: 20px; width: 350px;">
-              <el-option
-                v-for="item in options"
-                :key="item.value"
-                :label="item.label"
-                :value="item.value"
-              />
-              <template #prefix>
-                <span class="demonstration">Genre</span>
-              </template>
-            </el-select>
-          </div>
-        </el-row>
-
-        <el-row class="filmColor" style="width:50%">
-          <div class="block">
-            <el-select v-model="query.color" placeholder="Select" style="height: 20px; width: 350px;">
-              <el-option
-                v-for="item in options"
-                :key="item.value"
-                :label="item.label"
-                :value="item.value"
-              />
-              <template #prefix>
-                <span class="demonstration">Film Color</span>
-              </template>
-            </el-select>
-          </div>
-        </el-row> -->
       </el-card>
   </div>
 </template>
@@ -171,9 +157,18 @@ export default defineComponent({
     const toggleBotton = (trigger) => {
       filterTrigger.value[trigger] = !filterTrigger.value[trigger]
     }
+    const count = ref(1)
     const form = reactive({})
     const onSubmit = () => {
       console.log('submit!')
+    }
+    const add = () => {
+      count.value++
+    }
+    const onDelete = () => {
+      if (count.value > 0) {
+        count.value--
+      }
     }
     
     
@@ -197,6 +192,9 @@ export default defineComponent({
       goSearchResult,
       filterTrigger,
       toggleBotton,
+      count,
+      add,
+      onDelete,
       form,
       onSubmit
     }
@@ -208,53 +206,31 @@ export default defineComponent({
 
 <style lang="scss" scoped>
 .text{
-  width: 40%;
-  height: 35px;
+  width: 60%;
+  height: 45px;
   outline: hidden;
   margin: auto;
-  border: 1px solid black;
+  //border: 1px solid rgb(67, 66, 66);
   background: white;
 }
 .searchButton{
   background: white;
-  height: 40px;
-  margin-left: 10px;
+  height: 45px;
+  width: 60px;
 }
 
 .selected{
-  height: 35px;
-  background-color: white;
+  margin-left: 20px;
 }
+
 
 img{
   width: 20px;
 }
-.year{
-  width: 40%;
-  left: 30%;
-  margin-top: 20px;
-  //margin-left: 10px;
-  //margin-right: 10px;
-}
+
 .card{
   height: 800px;
   background-color: white;
-}
-
-.genre{
-  width: 40%;
-  left: 30%;
-  margin-top: 30px;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-.filmColor{
-  width: 40%;
-  left: 30%;
-  margin-top: 30px;
-  margin-left: 10px;
-  margin-right: 10px;
 }
 
 .demonstration{
@@ -264,23 +240,19 @@ img{
   margin-right: 10px;
 }
 
+.AlterButton{
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
 .range{
   font-size: 15px;
   font-style: italic;
 }
-.block{
-  width:50%;
-  text-align: center;
-  height: 20px;
-}
 
-.blockG{
-  width: 350px;
-  //text-align: center;
-  //height: 20px;
-}
 .advanced{
-  height: 40px;
+  height: 45px;
+  font-weight: bold;
 }
 .card-header {
   font-size: 20px;
@@ -294,7 +266,7 @@ img{
 
 .Advancedbutton{
   width: 200px;
-  height: 40px;
+  height: 45px;
   margin-right: 120px;
   font-size: 15px;
   font-style:oblique;

@@ -123,4 +123,5 @@ def searchQuery():
     print(reslist)
     return jsonify(response)
 
+
 app.run(debug=True,host='0.0.0.0',port=8800)
