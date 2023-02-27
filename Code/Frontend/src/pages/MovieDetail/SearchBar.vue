@@ -34,10 +34,54 @@
         <template #header>
           <div class="card-header">
             <span>Search Filters</span>
-            <el-button class="Advancedbutton" text>SEARCH</el-button>
           </div>
         </template>
-        <el-row class="year" style="width: 50%">
+        <el-form :model="form" label-width="120px">
+          <!-- <el-form-item class="demonstration" label="Genre">
+            <el-select v-model="value" placeholder="please select a genre">
+              <el-option label="Zone one" value="shanghai" />
+              <el-option label="Zone two" value="beijing" />
+            </el-select>
+          </el-form-item> -->
+          <el-form-item class="demonstration" label="Year Range">
+            <el-col :span="11">
+              <el-input
+              v-model="query.after"
+              type="year"
+              placeholder="YYYY">
+              <template #prefix>
+                <span class="range">From</span>
+              </template>
+              </el-input>
+            </el-col>
+            <el-col :span="2" class="text-center">
+              <span class="text-gray-500">-</span>
+            </el-col>
+            <el-col :span="11">
+              <el-input
+                v-model="query.before"
+                type="year"
+                placeholder="YYYY">
+                <template #prefix>
+                  <span class="range">To</span>
+                </template>
+              </el-input>
+            </el-col>
+          </el-form-item>
+          <el-form-item class="demonstration" label="Film Color">
+            <el-checkbox-group v-model="query.color">
+              <el-checkbox label="Black/White"/>
+              <el-checkbox label="Colored"/>
+            </el-checkbox-group>
+          </el-form-item>
+          <el-form-item>
+            <el-button class="Advancedbutton" type="primary" @click="onSubmit">SEARCH</el-button>
+            <el-button class="Advancedbutton">Cancel</el-button>
+          </el-form-item>
+        </el-form>
+
+        <!-- version 1 -->
+        <!-- <el-row class="year" style="width: 50%">
           <div class="block">
             <el-input
               v-model="query.after"
@@ -64,26 +108,35 @@
         </el-row>
         <el-row class="genre" style="width:50%">
           <div class="block">
-            <span class="demonstration">Genre</span>
-            <el-cascader
-              v-model="value"
-              :options="options"
-              :props="props"
-              @change="handleChange"
-            />
+            <el-select v-model="value" placeholder="Select" style="height: 20px; width: 350px;">
+              <el-option
+                v-for="item in options"
+                :key="item.value"
+                :label="item.label"
+                :value="item.value"
+              />
+              <template #prefix>
+                <span class="demonstration">Genre</span>
+              </template>
+            </el-select>
           </div>
         </el-row>
+
         <el-row class="filmColor" style="width:50%">
           <div class="block">
-            <span class="demonstration">Film Color</span>
-            <el-cascader
-              v-model="query.color"
-              :options="options"
-              :props="props"
-              @change="handleChange"
-            />
+            <el-select v-model="query.color" placeholder="Select" style="height: 20px; width: 350px;">
+              <el-option
+                v-for="item in options"
+                :key="item.value"
+                :label="item.label"
+                :value="item.value"
+              />
+              <template #prefix>
+                <span class="demonstration">Film Color</span>
+              </template>
+            </el-select>
           </div>
-        </el-row>    
+        </el-row> -->
       </el-card>
   </div>
 </template>
@@ -91,7 +144,6 @@
 <script>
 import { defineComponent,ref,reactive, onActivated} from 'vue';
 import { useRouter } from "vue-router";
-// import {advancedsearch} from "./advancedSearch"
 
 //import { getJson } from "serpapi";
 
@@ -119,6 +171,11 @@ export default defineComponent({
     const toggleBotton = (trigger) => {
       filterTrigger.value[trigger] = !filterTrigger.value[trigger]
     }
+    const form = reactive({})
+    const onSubmit = () => {
+      console.log('submit!')
+    }
+    
     
     function goSearchResult(){
       //const params = { q: "Coffeee", hl: "en", gl: "us", api_key: "c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e" }; 
@@ -139,7 +196,9 @@ export default defineComponent({
       query,
       goSearchResult,
       filterTrigger,
-      toggleBotton
+      toggleBotton,
+      form,
+      onSubmit
     }
 
     
@@ -178,7 +237,7 @@ img{
   //margin-right: 10px;
 }
 .card{
-  height: 300px;
+  height: 800px;
   background-color: white;
 }
 
@@ -204,10 +263,21 @@ img{
   font-weight: bold;
   margin-right: 10px;
 }
+
+.range{
+  font-size: 15px;
+  font-style: italic;
+}
 .block{
   width:50%;
   text-align: center;
   height: 20px;
+}
+
+.blockG{
+  width: 350px;
+  //text-align: center;
+  //height: 20px;
 }
 .advanced{
   height: 40px;
