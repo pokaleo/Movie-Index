@@ -61,21 +61,32 @@ class Query:
             raise Exception("Keywords is empty!")
     
     # Method to perform plain single word search
-    def __plain_search(self, word_to_be_queried, attributes=None):
-        result = []
-        # Detect if the search is specified to an attribute
-        if attributes:
-            if attributes == "title":
-                for doic, info in self.dataset.items():
-                    if word_to_be_queried in info['title']:
-                        result.append(doic)
-        # Use general research if no attribute input
-        else:
-            for doic, info in self.dataset.items():
-                for attribute in info.keys():
-                    if word_to_be_queried in info[attribute]:
-                        result.append(doic)
-        return result
+    def __position_search(self, word_to_be_queried):
+        from nltk.stem.snowball import SnowballStemmer
+        word1 = SnowballStemmer(language='english').stem(word_to_be_queried.lower())
+        word2 = word_to_be_queried.lower()
+        if word1 or word2 in self.index_general.keys():
+            if word1 in self.index_general.keys():
+                dic = self.index_general[word1][1]
+            if word2 in self.index_general.keys():
+                dic = self.index_general[word2][1]
+            result = dict()
+            for keys,values in dic.items():
+                values_digit = []
+                for value in values:
+                    # if the position is digit
+                    if value.isdigit():
+                        values_digit.append(value)
+                result[keys] = values_digit
+            if result:
+                for key in list(result.keys()):
+                    if not result.get(key):
+                        del result[key]
+                return result
+            else:
+                raise Exception("We did not find the result!")
+        else: 
+            raise Exception("We did not find the result!")
 
     # Method to perform single word search with docid and position
     def __position_search(self, word_to_be_queried):
