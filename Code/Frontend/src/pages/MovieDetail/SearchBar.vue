@@ -12,6 +12,7 @@
         <option value="title">by title</option>
         <option value="general">by general</option>
         <option value="keywords">by keywords</option>
+        <option value="genres">by genres</option>
       </select>
     
       <!--router-link :to="'/result/'+selected+'/'+query"-->
@@ -39,18 +40,17 @@
         <el-row class="year" style="width: 50%">
           <div class="block">
             <span class="demonstration">Start Year</span>
-            <el-date-picker
-              v-model="after"
-              type="year"
-              placeholder="Pick a year"
+            <el-input
+              v-model="query.after"
+              placeholder="YYYY"
             />
           </div>
           <div class="block">
             <span class="demonstration">End Year</span>
-            <el-date-picker
-              v-model="before"
+            <el-input
+              v-model="query.before"
               type="year"
-              placeholder="Pick a year"
+              placeholder="YYYY"
             />
           </div>
         </el-row>
@@ -69,7 +69,7 @@
           <div class="block">
             <span class="demonstration">Film Color</span>
             <el-cascader
-              v-model="value"
+              v-model="query.color"
               :options="options"
               :props="props"
               @change="handleChange"
@@ -92,14 +92,14 @@ export default defineComponent({
   props: {
     q: String,
     t: String,
-    
+    a: String,
+    b: String,
+    c: String
   },
   //emits: ["update:modelValue"],
   setup(props){
     const router = useRouter()
-    var query = reactive({queryMsg:props.q, selected:props.t})
-    const before=ref('')
-    const after=ref('')
+    var query = reactive({queryMsg:"", selected:"", before: "", after:"", color:""})
     const filterTrigger = ref({
       clickT: false
     })
@@ -116,18 +116,19 @@ export default defineComponent({
       //const params = { q: "Coffeee", hl: "en", gl: "us", api_key: "c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e" }; 
       //const response = getJson("google", params);
       //console.log(response["search_information"]);
-      router.push({path:"/search",query:{q:query.queryMsg, t:query.selected}})
+      router.push({path:"/search",query:{q:query.queryMsg, t:query.selected, b: query.before, a: query.after, c: query.color}})
     }
 
     onActivated(()=>{
       //const router = useRouter()
       query.queryMsg=props.q
       query.selected=props.t
+      query.after = props.a
+      query.before = props.b
+      query.color = props.c
     })
     return{
       query,
-      before,
-      after,
       goSearchResult,
       filterTrigger,
       toggleBotton
@@ -170,6 +171,7 @@ img{
 }
 .card{
   height: 300px;
+  background-color: white;
 }
 
 .genre{

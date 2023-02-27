@@ -17,5 +17,6 @@ for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
 app.use(VueAxios, axios)
 app.use(ElementPlus)
 
+// register
 app.mount("#app")
 app.config.globalProperties.$axios = axios;

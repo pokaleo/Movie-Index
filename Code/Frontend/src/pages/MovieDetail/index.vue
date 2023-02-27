@@ -133,7 +133,7 @@ var info = reactive({
 
 const route = useRoute()
 proxy.$http
-     .post('http://localhost:8800/movie/'+route.params.id, )
+     .get('/api/movie/'+route.params.id, )
      .then(function(res) {
        if (Object.keys(res.data.cast) == 0)
           hasCast = false

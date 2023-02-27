@@ -50,16 +50,39 @@ def getMovie(id):
 
 @app.route('/search', methods=['GET','POST'])
 def searchQuery():
-    data = request.get_json()
+    # get request
+    if request.method == 'POST':
+        data = request.get_json()
+    else:
+        data = request.args
+        #data=json.dumps(data)
     queryMsg= data.get('query')
-    type = data.get('type')
-    need_check = data.get('need_check')
-    corrected = ''
+    search_type = data.get('type')
+    need_check = bool(data.get('need_check'))
+    before= data.get('before')
+    if before != "" and before != None:
+       before = int(before)
+    else:
+       before = None
+    after= data.get('after')
+    if after != "" and after != None:
+       after = int(after)
+    else:
+       after = None
+    color=data.get('color')
+    not_query = data.get('not_include')
+    print(not_query)
     '''
     query translate and spell check
     '''
+    corrected = ''
+    #print(type(queryMsg))
+    print(need_check)
     if need_check:
         corrected=Spellcheck.spellcheck(queryMsg)
+        if corrected == queryMsg:
+            corrected = ""
+        print(need_check)
     queryMsg=Spellcheck.trans_api(queryMsg)
     '''
     function to wrap up
@@ -78,10 +101,15 @@ def searchQuery():
     '''
     Add function for extract results
     '''
-    if type == 'title':
+    if search_type == 'title':
         res = query.by_title(queryMsg)
+        print("By title",res)
+    elif search_type == 'keywords':
+        res = query.by_keywords(queryMsg)
+    else:
+        res = query.by_general(queryMsg)
 
-    
+    #print(res)
     reslist = []
     for id in res:
         reslist.append(formatRes(id))
@@ -91,8 +119,8 @@ def searchQuery():
         'ids': res,
         'corrected': corrected
     }
-    print('data (json): ', data)
+    #print('data: ', data)
     print(reslist)
     return jsonify(response)
 
-app.run(host='0.0.0.0',port=8800)
+app.run(debug=True,host='0.0.0.0',port=8800)

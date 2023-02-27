@@ -8,7 +8,7 @@
     <perfect-scrollbar>
       <div class="content">
         <div class="big-title" v-if="hasCorrected">
-          Did you mean: <i>{{ spellchecked }}</i>?
+          Did you mean: <div @click="$event =>goCorrectedPage(spellchecked)">{{ spellchecked }}</div>?
         </div>
         <div class="movie-list">
           <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
@@ -30,7 +30,7 @@
 </template>
 
 <script setup>
-import { reactive,watch,onMounted,getCurrentInstance } from 'vue';
+import { reactive,watch,onMounted,getCurrentInstance, ref } from 'vue';
 import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
 import SearchBar from '../MovieDetail/SearchBar.vue';
 // import http from "@/util/http"
@@ -38,10 +38,13 @@ const router = useRouter()
 const route = useRoute()
 
 let movieList = reactive([])
-let spellchecked = reactive()
+let spellchecked = reactive('')
 let hasCorrected = false
-let q = reactive(route.query.q)
-let t = reactive(route.query.t)
+let q = ref(route.query.q)
+let t = ref(route.query.t)
+//let a = reactive(route.query.a)
+//let b = reactive(route.query.b)
+//let c = reactive(route.query.c)
 
 
 /**
@@ -52,25 +55,35 @@ const goMovieDetailPage = (movieId) => {
   router.push("/detail/" + movieId)
 }
 
+const goCorrectedPage = (newquery) => {
+  alert("click!")
+  router.push({name:"Results",query:{q:newquery, t:query.selected}})
+}
+
 //alert("New Search: "+route.query.q+route.query.t)
 let { proxy } = getCurrentInstance();
 const getData=async()=>{
   await proxy.$http
-     .post('http://localhost:8800/search',{
-    //  .post('http://10.124.30.217:8800/search',{
+     .get('/api/search',
+     {params:
+      {
       query:route.query.q,
       type: route.query.t,
-      need_check: false
-     })
+      need_check: '',
+      before:route.query.b,
+      after:route.query.a,
+      color:route.query.c
+     }
+    })
      .then(function(res){
       console.log(res)
       const list = JSON.parse(JSON.stringify(res.data.results))
-      spellchecked = res.data.corrected
+      //spellchecked = res.data.corrected
       if(spellchecked != '')
         hasCorrected = true
       movieList.push(list)
       console.log(movieList[0])
-      //console.log(spellchecked)
+      console.log(spellchecked)
      })
      .catch(function(error) {
       console.log(error);
