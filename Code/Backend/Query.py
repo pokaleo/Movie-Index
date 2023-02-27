@@ -77,6 +77,81 @@ class Query:
                         result.append(doic)
         return result
 
+    # Method to perform single word search with docid and position
+    def __position_search(self, word_to_be_queried):
+        from nltk.stem import PorterStemmer
+        ps = PorterStemmer()
+        word = ps.stem(word_to_be_queried.lower())
+        if word in self.index_general.keys():
+            result = self.index_general[word][1]
+            return result
+        else: 
+            raise Exception("We did not find the result!")
+    
+    # Proximity Search : "#distance word1 word2"
+    def proximity_search(self, keywords):
+        import re
+        if keywords:
+            keywords = keywords.split()
+            if not re.match(r'#\d*', keywords[0]): 
+                return Exception("The format is wrong!")
+            else:
+                if len(keywords) != 3:
+                    return Exception("The format is wrong!")
+                else:
+                    distance = int(keywords[0].strip("#"))
+                    keyword1 = keywords[1]
+                    keyword2 = keywords[2]
+                    dict1 = self.__position_search(keyword1)
+                    dict2 = self.__position_search(keyword2)
+                    # if in common document
+                    common_doic = list(dict1.keys() & dict2.keys())
+                    if common_doic:
+                        result = []
+                        for doic in common_doic:
+                            for position1 in dict1[doic]:
+                                for position2 in dict2[doic]:
+                                    if abs(int(position1) - int(position2)) <= distance:
+                                        result.append(doic)
+                        if result:
+                            return list(dict.fromkeys(result))
+                        else:
+                            raise Exception("We did not find the result!")
+                    else:
+                        raise Exception("We did not find the result!")                
+        else:
+            raise Exception("Keywords is empty!")
+        
+    # Phrase Search : "word1 word2"
+    def phrase_search(self, keywords):
+        if keywords:
+            keywords = keywords.split()
+            if len(keywords) != 2:
+                return Exception("The format is wrong!")
+            else:
+                keyword1 = keywords[0]
+                keyword2 = keywords[1]
+                dict1 = self.__position_search(keyword1)
+                dict2 = self.__position_search(keyword2)
+                # if in common document
+                common_doic = list(dict1.keys() & dict2.keys())
+                if common_doic:
+                    result = []
+                    for doic in common_doic:
+                         for position1 in dict1[doic]:
+                            for position2 in dict2[doic]:
+                                if int(position2) - int(position1) == 1:
+                                    result.append(doic)
+                    if result:
+                        return list(dict.fromkeys(result))
+                    else:
+                        raise Exception("We did not find the result!")
+                else:
+                    raise Exception("We did not find the result!")                
+        else:
+            raise Exception("Keywords is empty!")
+    
+    
     def __term_frequency(self, word_to_be_queried, docid):
         # TODO information in cast missing
         return len(self.index_general[word_to_be_queried][1][docid])
@@ -97,7 +172,7 @@ class Query:
             number_of_tokens += len(token)
         return number_of_tokens
     
-    # Use Okapi BM25 Ranking to calculate the
+    # Use Okapi BM25 to calculate the Ranking 
     def bm25(self, word_to_be_queried, docid):
         import math
         k = 1.5
