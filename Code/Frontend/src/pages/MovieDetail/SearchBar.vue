@@ -128,6 +128,7 @@
 </template>
 
 <script>
+import { all } from 'axios';
 import { defineComponent,ref,reactive, onActivated} from 'vue';
 import { useRouter } from "vue-router";
 
@@ -145,7 +146,7 @@ export default defineComponent({
   //emits: ["update:modelValue"],
   setup(props){
     const router = useRouter()
-    var query = reactive({queryMsg:"", selected:"", before: "", after:"", color:""})
+    var query = reactive({queryMsg:"", selected:"", before: "", after:"", color:[]})
     const filterTrigger = ref({
       clickT: false
     })
@@ -161,6 +162,9 @@ export default defineComponent({
     const form = reactive({})
     const onSubmit = () => {
       console.log('submit!')
+      if (query.color.length == 2)
+        query.color='all'
+      router.push({path:"/search",query:{q:query.queryMsg, t:query.selected, a: query.after,b: query.before, c: query.color}})
     }
     const add = () => {
       count.value++
@@ -173,10 +177,8 @@ export default defineComponent({
     
     
     function goSearchResult(){
-      //const params = { q: "Coffeee", hl: "en", gl: "us", api_key: "c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e" }; 
-      //const response = getJson("google", params);
-      //console.log(response["search_information"]);
-      router.push({path:"/search",query:{q:query.queryMsg, t:query.selected, b: query.before, a: query.after, c: query.color}})
+      onSubmit()
+      //router.push({path:"/search",query:{q:query.queryMsg, t:query.selected, a: query.after,b: query.before, c: query.color}})
     }
 
     onActivated(()=>{

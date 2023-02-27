@@ -8,7 +8,7 @@
     <perfect-scrollbar>
       <div class="content">
         <div class="big-title" v-if="hasCorrected">
-          Did you mean: <div @click="$event =>goCorrectedPage(spellchecked)">{{ spellchecked }}</div>?
+          Did you mean: <el-button @click="$event => goCorrectedPage(spellchecked)" text>{{ spellchecked }}</el-button>?
         </div>
         <div class="movie-list">
           <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
@@ -38,13 +38,13 @@ const router = useRouter()
 const route = useRoute()
 
 let movieList = reactive([])
-let spellchecked = reactive('')
+let spellchecked = ref('')
 let hasCorrected = false
 let q = ref(route.query.q)
 let t = ref(route.query.t)
-//let a = reactive(route.query.a)
-//let b = reactive(route.query.b)
-//let c = reactive(route.query.c)
+let a = ref(route.query.a)
+let b = ref(route.query.b)
+let c = ref(route.query.c)
 
 
 /**
@@ -56,8 +56,9 @@ const goMovieDetailPage = (movieId) => {
 }
 
 const goCorrectedPage = (newquery) => {
-  alert("click!")
-  router.push({name:"Results",query:{q:newquery, t:query.selected}})
+  //alert(spellchecked.value)
+  //router.push('/')
+  router.replace({name:"Results",query:{q:newquery, t:t.value,a:a.value,b:b.value,c:c.value}})
 }
 
 //alert("New Search: "+route.query.q+route.query.t)
@@ -78,7 +79,7 @@ const getData=async()=>{
      .then(function(res){
       console.log(res)
       const list = JSON.parse(JSON.stringify(res.data.results))
-      //spellchecked = res.data.corrected
+      spellchecked = res.data.corrected
       if(spellchecked != '')
         hasCorrected = true
       movieList.push(list)
