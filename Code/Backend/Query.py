@@ -47,6 +47,21 @@ class Query:
                 return list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
+            
+    # Naive implementation of search by genre without ranking
+    def by_genres(self, keywords):
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                return self.__plain_search(keywords[0].lower(), "genre")
+            else:
+                result = []
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), "genre")
+                return list(dict.fromkeys(result))
+        else:
+            raise Exception("Keywords is empty!")        
     
     # Naive implementation of search for general without ranking
     def by_general(self, keywords):
@@ -76,10 +91,15 @@ class Query:
                 for doic, info in self.dataset.items():
                     if word_to_be_queried in info['keywords']:
                         result.append(doic)
+            if attributes == "genre":
+                for doic, info in self.dataset.items():
+                    if word_to_be_queried in info['genres']:
+                        result.append(doic)
         # Use general research if no attribute input 
         else:
             for doic, info in self.dataset.items():
                 for attribute in info.keys():
+                #TODO:need to preprocess(stemming and remove stopwords) when searching in [plot]
                     if word_to_be_queried in info[attribute]:
                         result.append(doic)
         return result
@@ -170,8 +190,8 @@ class Query:
                     raise Exception("We did not find the result!")                
         else:
             raise Exception("Keywords is empty!")
-    
-    
+  
+    #TODO add attribute when calculating related tf,df etc in bm25
     def __term_frequency(self, word_to_be_queried, docid):
         # TODO information in cast missing
         if docid in self.index_general[word_to_be_queried][1]:
