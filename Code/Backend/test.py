@@ -26,7 +26,12 @@ query = Query.Query(processed_data)
 # print(query.by_title(processed_data.get_data(), "Vincent"))
 # print(query.by_title("vinCeNt #Bfl"))
 # print(query.by_general("Lipstick Vincent"))
+# print(query.by_genres("comedy"))
 # print(query.bm25("vincent","002359"))
 # print(query.proximity_search("#15 vishnuvardhan himself"))
 # print(query.phrase_search("littlest thing"))
-
+# print(query.proximity_search("#400 work richard"))
+# docid_list = query.proximity_search("#400 work richard")
+# keywords = "#400 work richard"
+# print(query.bm25_ranking(keywords,docid_list,stemming = True))
+# print(query.alphabet_ranking(docid_list))
