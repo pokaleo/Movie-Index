@@ -18,7 +18,7 @@
               <span>Director:{{ item.director }} • </span>
               <span>Year: {{ item.year }} • </span>
               <span>Country:{{ item.country }} • </span>
-              <span>Runtime:{{ item.runtime }}</span>
+              <!--span>Runtime:{{ item.runtime }}</span-->
             </div>
           </div>
         </div>
@@ -42,10 +42,6 @@ let spellchecked = ref('')
 let hasCorrected = false
 let q = ref(route.query.q)
 let t = ref(route.query.t)
-let from = ref(route.query.from)
-let to = ref(route.query.to)
-let c = ref(route.query.c)
-let more = ref(route.query.more)
 console.log(route.query)
 //alert("loading!") //for debug
 
@@ -62,7 +58,15 @@ const goMovieDetailPage = (movieId) => {
  * @param newquery 
  */
 const goCorrectedPage = (newquery) => {
-  router.replace({name:"Results",query:{q:newquery, t:t.value,from: from, to: to, c:c, more: more}})
+  router.replace({name:"Results",
+  query:
+   {q:newquery, 
+    t:t.value, 
+    from: route.query.from, 
+    to:route.query.to, 
+    c:route.query.c,
+    more: route.query.more
+  }})
 }
 
 //alert("New Search: "+route.query.q+route.query.t)
@@ -85,8 +89,10 @@ const getData=async()=>{
       console.log(res)
       const list = JSON.parse(JSON.stringify(res.data.results))
       spellchecked = res.data.corrected
-      if(spellchecked != '')
+      if(spellchecked != '' && spellchecked != route.query.q)
         hasCorrected = true
+      else
+        hasCorrected = false
       movieList.push(list)
       console.log(movieList[0])
       console.log(spellchecked)
