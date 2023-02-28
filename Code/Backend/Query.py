@@ -126,7 +126,7 @@ class Query:
                                 for position2 in dict2[doic]:
                                     if not position2.isdigit():
                                         continue
-                                    if abs(int(position1) - int(position2)) <= distance:
+                                    if abs(int(position1) - int(position2)) < distance:
                                         result.append(doic)
                         if result:
                             return list(dict.fromkeys(result))
