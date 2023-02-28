@@ -206,6 +206,7 @@ proxy.$http
 .header{
   background-color: black;
   text-align: center;
+  z-index: 100;
 }
 
 .searchbar{
