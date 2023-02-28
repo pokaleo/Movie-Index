@@ -5,11 +5,11 @@
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
       <SearchBar :q=q :t=t :key=q />
     </div>
-    <perfect-scrollbar>
-      <div class="content">
-        <div class="big-title" v-if="hasCorrected">
-          Did you mean: <el-button @click="$event => goCorrectedPage(spellchecked)" text>{{ spellchecked }}</el-button>?
-        </div>
+    <div class="content">
+      <div class="big-title" v-if="hasCorrected">
+        Did you mean: <el-button @click="$event => goCorrectedPage(spellchecked)" text>{{ spellchecked }}</el-button>?
+      </div>
+      <el-scrollbar>
         <div class="movie-list">
           <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
             <div class="movie-name">{{ item.movieName }}</div>
@@ -22,8 +22,8 @@
             </div>
           </div>
         </div>
-      </div>
-    </perfect-scrollbar>
+      </el-scrollbar>
+    </div>
   
 
   </div>
