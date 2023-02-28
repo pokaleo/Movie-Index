@@ -6,6 +6,9 @@ Description: Responsible for retrieve results for different
 types of queries
 ------------------------------------------------------------
 """
+import re
+import math
+from nltk.stem.snowball import SnowballStemmer
 
 
 class Query:
@@ -83,7 +86,6 @@ class Query:
     
     # Method to perform single word search with docid and position
     def __position_search(self, word_to_be_queried):
-        from nltk.stem.snowball import SnowballStemmer
         word1 = SnowballStemmer(language='english').stem(word_to_be_queried.lower())
         word2 = word_to_be_queried.lower()
         if word1 or word2 in self.index_general.keys():
@@ -100,7 +102,6 @@ class Query:
     
     # Proximity Search : "#distance word1 word2"
     def proximity_search(self, keywords):
-        import re
         if keywords:
             keywords = keywords.split()
             if not re.match(r'#\d*', keywords[0]): 
@@ -195,7 +196,6 @@ class Query:
     
     # Use Okapi BM25 to calculate the Ranking 
     def bm25(self, word_to_be_queried, docid):
-        import math
         k = 1.5
         N = len(self.dataset.keys())
         L_division = self.__number_of_terms(docid)\
@@ -215,7 +215,6 @@ class Query:
         else:
             del term_list[0]
         if stemming == True:
-            from nltk.stem.snowball import SnowballStemmer
             for term in term_list:
                 stemmed_term = SnowballStemmer(language='english').stem(term)
                 if stemmed_term not in term_list:
