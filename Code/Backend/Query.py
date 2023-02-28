@@ -172,7 +172,10 @@ class Query:
     
     def __term_frequency(self, word_to_be_queried, docid):
         # TODO information in cast missing
-        return len(self.index_general[word_to_be_queried][1][docid])
+        if docid in self.index_general[word_to_be_queried][1]:
+            return len(self.index_general[word_to_be_queried][1][docid])
+        else:
+            return 0.1
 
     def __document_frequency(self, word_to_be_queried):
         return len(self.index_general[word_to_be_queried][1])
@@ -201,4 +204,40 @@ class Query:
                     /(self.__document_frequency(word_to_be_queried) + 0.5)
         w_td = format(math.log10(restpart) * self.__term_frequency(word_to_be_queried, docid)\
                 /((k * L_division) + self.__term_frequency(word_to_be_queried, docid) + 0.5), '.4f')
+        w_td = float(w_td)
         return w_td
+
+    def bm25_ranking(self,keywords,docid_list,stemming = False):
+        keywords = keywords.lower()
+        term_list = keywords.split(' ')
+        if not re.match(r'#\d*', term_list[0]):
+            keywords = keywords
+        else:
+            del term_list[0]
+        if stemming == True:
+            from nltk.stem.snowball import SnowballStemmer
+            for term in term_list:
+                stemmed_term = SnowballStemmer(language='english').stem(term)
+                if stemmed_term not in term_list:
+                    term_list.append(stemmed_term)
+        bm25score_list = []
+        for docid in docid_list:
+            sum = 0
+            for term in term_list:
+                bm25_score = self.bm25(term,docid)
+                sum = sum + bm25_score
+            bm25score_list.append(sum)
+        ordered_list = sorted(docid_list,key = lambda x:bm25score_list[docid_list.index(x)],reverse=True)
+        return ordered_list
+
+    def alphabet_ranking(self,docid_list):
+        title_list = []
+        for docid in docid_list:
+            temp_list = self.dataset[docid]['title']
+            title = ' '.join(temp_list)
+            title_list.append(title)
+        print(title_list)
+        ordered_list = sorted(docid_list,key = lambda x:title_list[docid_list.index(x)],reverse=False)
+        return ordered_list
+
+    #TODO: define a function to decide using which ranking method in several kinds of situation, for example using alphabet_ranking when producting by_title search etc.
