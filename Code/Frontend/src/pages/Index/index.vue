@@ -5,11 +5,16 @@
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
       <SearchBar :q=q :t=t :key=q />
     </div>
-    <perfect-scrollbar>
-      <div class="content">
+    
+    <div class="content">
         <div class="big-title" v-if="hasCorrected">
           Did you mean: <el-button @click="$event => goCorrectedPage(spellchecked)" text>{{ spellchecked }}</el-button>?
         </div>
+        <div class="big-title">
+          <p>Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
+        </div>
+
+      <el-scrollbar>
         <div class="movie-list">
           <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
             <div class="movie-name">{{ item.movieName }}</div>
@@ -22,8 +27,8 @@
             </div>
           </div>
         </div>
-      </div>
-    </perfect-scrollbar>
+      </el-scrollbar>
+    </div>
   
 
   </div>
@@ -39,6 +44,8 @@ const route = useRoute()
 
 let movieList = reactive([])
 let spellchecked = ref('')
+let wallTime = ref('')
+let cpuTime = ref('')
 let hasCorrected = false
 let q = ref(route.query.q)
 let t = ref(route.query.t)
@@ -94,6 +101,8 @@ const getData=async()=>{
       else
         hasCorrected = false
       movieList.push(list)
+      wallTime.value = res.data.wallT
+      cpuTime.value = res.data.cpuT
       console.log(movieList[0])
       console.log(spellchecked)
      })
