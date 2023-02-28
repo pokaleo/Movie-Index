@@ -158,7 +158,7 @@ class Query:
                             for position2 in dict2[doic]:
                                 if not position2.isdigit():
                                     continue
-                                if int(position2) - int(position1) == 1:
+                                if int(position2) - int(position1) == 1 or int(position2) - int(position1) == 0:
                                     result.append(doic)
                     if result:
                         return list(dict.fromkeys(result))
