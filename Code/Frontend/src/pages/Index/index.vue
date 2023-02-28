@@ -42,23 +42,27 @@ let spellchecked = ref('')
 let hasCorrected = false
 let q = ref(route.query.q)
 let t = ref(route.query.t)
-let a = ref(route.query.a)
-let b = ref(route.query.b)
+let from = ref(route.query.from)
+let to = ref(route.query.to)
 let c = ref(route.query.c)
-
+let more = ref(route.query.more)
+console.log(route.query)
+//alert("loading!") //for debug
 
 /**
- * 跳转电影详情页面
+ * go to movie detail page
  * @param movieId 
  */
 const goMovieDetailPage = (movieId) => {
   router.push("/detail/" + movieId)
 }
 
+/**
+ * go to new search page(query with spellecked)
+ * @param newquery 
+ */
 const goCorrectedPage = (newquery) => {
-  //alert(spellchecked.value)
-  //router.push('/')
-  router.replace({name:"Results",query:{q:newquery, t:t.value,a:a.value,b:b.value,c:c.value}})
+  router.replace({name:"Results",query:{q:newquery, t:t.value,from: from, to: to, c:c, more: more}})
 }
 
 //alert("New Search: "+route.query.q+route.query.t)
@@ -69,11 +73,12 @@ const getData=async()=>{
      {params:
       {
       query:route.query.q,
-      type: route.query.t,
-      need_check: '',
-      before:route.query.b,
-      after:route.query.a,
-      color:route.query.c
+      by: route.query.t,
+      need_check: "",
+      from:route.query.from,
+      to:route.query.to,
+      color:JSON.stringify(route.query.c),
+      additions: JSON.stringify(route.query.more)
      }
     })
      .then(function(res){

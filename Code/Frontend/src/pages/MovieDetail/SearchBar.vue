@@ -5,7 +5,8 @@
         class="text"
         placeholder="Please enter a search term"
         v-model="query.queryMsg"
-        style="width: 50%">
+        style="width: 50%"
+        v-if="!filterTrigger.clickT">
         <template #append>
           <!--router-link :to="'/result/'+selected+'/'+query"-->
           <el-button
@@ -17,38 +18,20 @@
           <!-- <el-button :icon="Search" /> -->
         </template>
       </el-input>
-      
-      <!-- <select v-model="query.selected" class="selected">
-        <option value="title">by title</option>
-        <option value="general">by general</option>
-        <option value="keywords">by keywords</option>
-        <option value="genres">by genres</option>
-      </select> -->
-    
-      <!--router-link :to="'/result/'+selected+'/'+query"-->
-      <!-- <el-button
-        class="searchButton"
-        @click="goSearchResult"
-      >
-        <img src="@/assets/svg/icons8-search.svg" alt="search">
-      </el-button> -->
 
-
-      <!--/router-link-->
-      <!--el-collapse v-model="activeNames" @change="handleChange" style="width: 40%">
-        <el-collapse-item title="Advance" name="1">  
-        </el-collapse-item>
-      </el-collapse-->
       <el-button class='advanced' @click="() => toggleBotton('clickT')">
         ADVANCED SEARCH
       </el-button>
+      <!--Advanced search panel-->
       <el-card class="card" v-if="filterTrigger.clickT">
         <template #header>
           <div class="card-header">
             <span>Search Filters</span>
           </div>
         </template>
+        <!--form of additions information, includes categories, AND/NOT search, time filter and color filter-->>
         <el-form :model="form" label-width="120px">
+          <!--Basic query with a search category default is "By General"-->
           <el-form-item class="demonstration" label="Browse By">
             <el-input
               v-model="query.queryMsg"
@@ -56,42 +39,44 @@
               class="input-with-select"
             >
               <template #prepend>
-                <el-select class="selectNot" v-model="query.selected" placeholder="Any" style="width: 115px">
-                  <el-option value="title">Title</el-option>
-                  <el-option value="general">General</el-option>
-                  <el-option value="keywords">Keywords</el-option>
-                  <el-option value="genres">Genres</el-option>
+                <el-select class="selectNot" v-model="query.by" placeholder="Any" style="width: 115px">
+                  <el-option label="ANY" value="any"/>
+                  <el-option label="Title" value="title"/>
+                  <el-option label="Keywords" value="keywords"/>
+                  <el-option label="Genres" value="genres"/>
                 </el-select>
               </template>
             </el-input>
           </el-form-item>
+
+          <!--Additions and/not/or search-->
           <el-form-item v-for="item in count" :key="item" class="demonstration" label="Alternatives">
             <el-input
-              v-model="input3"
+              v-model="additions[item-1].q"
               placeholder="Please enter a search term"
               class="input-with-select"
             >
               <template #prepend>
-                <el-select class="selectNot" v-model="select" placeholder="AND" style="width: 95px">
+                <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" style="width: 95px">
                   <el-option label="AND" value="1" />
-                  <el-option label="NOT" value="2" />
+                  <el-option label="OR" value="2" />
+                  <el-option label="NOT" value="3" />
                 </el-select>
-                <el-select class="selected" v-model="query.selected" placeholder="Any" style="width: 95px">
-                  <el-option value="title">Title</el-option>
-                  <el-option value="general">General</el-option>
-                  <el-option value="keywords">Keywords</el-option>
-                  <el-option value="genres">Genres</el-option>
+                <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" style="width: 95px">
+                  <el-option label="ANY" value="any"/>
+                  <el-option label="Title" value="title"/>
+                  <el-option label="Keywords" value="keywords"/>
+                  <el-option label="Genres" value="genres"/>
                 </el-select>
               </template>
             </el-input>
           </el-form-item>
-          <el-button class="AlterButton" @click="add">Add A New Request Line</el-button>
-          <el-button class="AlterButton" @click="onDelete">Delete A Line</el-button>
+          <el-button class="AlterButton" @click="add" v-if="count<maxAdditionsNum">Add A New Request Line</el-button>
+          <el-button class="AlterButton" @click="onDelete" v-if="count>0">Delete A Line</el-button>
           <el-form-item class="demonstration" label="Year Range">
             <el-col :span="11">
               <el-input
-              v-model="query.after"
-              type="year"
+              v-model="form.time.from"
               placeholder="YYYY">
               <template #prefix>
                 <span class="range">From</span>
@@ -103,8 +88,7 @@
             </el-col>
             <el-col :span="11">
               <el-input
-                v-model="query.before"
-                type="year"
+                v-model="form.time.to"
                 placeholder="YYYY">
                 <template #prefix>
                   <span class="range">To</span>
@@ -113,9 +97,9 @@
             </el-col>
           </el-form-item>
           <el-form-item class="demonstration" label="Film Color">
-            <el-checkbox-group v-model="query.color">
-              <el-checkbox label="Black/White"/>
-              <el-checkbox label="Colored"/>
+            <el-checkbox-group v-model="form.color">
+              <el-checkbox label="Black/White" />
+              <el-checkbox label="Colored" />
             </el-checkbox-group>
           </el-form-item>
           <el-form-item>
@@ -128,7 +112,6 @@
 </template>
 
 <script>
-import { all } from 'axios';
 import { defineComponent,ref,reactive, onActivated} from 'vue';
 import { useRouter } from "vue-router";
 
@@ -139,58 +122,73 @@ export default defineComponent({
   props: {
     q: String,
     t: String,
-    a: String,
-    b: String,
-    c: String
   },
   //emits: ["update:modelValue"],
   setup(props){
     const router = useRouter()
-    var query = reactive({queryMsg:"", selected:"", before: "", after:"", color:[]})
+
+    var query = reactive({queryMsg:"", by:""})
+    var additions = reactive([{type:"1", by:"any",q:""}])
+    var form = reactive({color:[], 
+      time:{from:"", to:""}})
+
+    const maxAdditionsNum = ref(5)
+
     const filterTrigger = ref({
       clickT: false
     })
-    //console.log("props"+props.q)
-    //const activeNames = ref(['1'])
-    //const handleChange = (val) => {
-      //console.log(val)
-    //}
+    //const select = ref(1)
     const toggleBotton = (trigger) => {
       filterTrigger.value[trigger] = !filterTrigger.value[trigger]
     }
     const count = ref(1)
-    const form = reactive({})
     const onSubmit = () => {
       console.log('submit!')
-      if (query.color.length == 2)
-        query.color='all'
-      router.push({path:"/search",query:{q:query.queryMsg, t:query.selected, a: query.after,b: query.before, c: query.color}})
+      console.log(query)
+      console.log(additions)
+      console.log(form)
+      let additionalStr = []
+      for(let i=0; i<additions.length; i++)
+      {
+        console.log(additions[i])
+        if(additions[i].q != "")
+          additionalStr.push([additions[i].type].concat([additions[i].by], [additions[i].q]))
+      }
+      console.log(additionalStr)
+      const passedQuery = {q:query.queryMsg, 
+        t:query.by, 
+        from: form.time.from, 
+        to: form.time.to,
+        c:form.color, //array
+        more: additionalStr} //array
+      router.push({path:"/search",query:passedQuery})
     }
     const add = () => {
-      count.value++
+      if (count.value < maxAdditionsNum.value)
+      {
+        count.value++
+        additions.push({type:"1",by:"any",q:""})
+      }
     }
     const onDelete = () => {
       if (count.value > 0) {
         count.value--
+        additions.pop()
       }
     }
     
-    
     function goSearchResult(){
-      onSubmit()
-      //router.push({path:"/search",query:{q:query.queryMsg, t:query.selected, a: query.after,b: query.before, c: query.color}})
+      router.push({path:"/search",query:{q:query.queryMsg, t:"any"}})
     }
 
     onActivated(()=>{
       //const router = useRouter()
       query.queryMsg=props.q
-      query.selected=props.t
-      query.after = props.a
-      query.before = props.b
-      query.color = props.c
+      query.by=props.t
     })
     return{
       query,
+      additions,
       goSearchResult,
       filterTrigger,
       toggleBotton,
@@ -198,7 +196,8 @@ export default defineComponent({
       add,
       onDelete,
       form,
-      onSubmit
+      onSubmit,
+      maxAdditionsNum
     }
 
     

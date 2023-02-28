@@ -8,6 +8,7 @@ import RetrieveData
 import DataPreprocessing
 import Query
 import Spellcheck
+import JSONParser
 
 movies = RetrieveData.MovieInfo("../TestDataset")
 movies.read_files()
@@ -56,37 +57,36 @@ def searchQuery():
     else:
         data = request.args
         #data=json.dumps(data)
-    queryMsg= data.get('query')
-    search_type = data.get('type')
-    need_check = bool(data.get('need_check'))
-    before= data.get('before')
-    if before != "" and before != None:
-       before = int(before)
-    else:
-       before = None
-    after= data.get('after')
-    if after != "" and after != None:
-       after = int(after)
-    else:
-       after = None
-    color=data.get('color')
-    not_query = data.get('not_include')
-    print(not_query)
     '''
-    query translate and spell check
+    parse the data
+    parsed_args = {'queryMsg':"",
+            'by':"", # a str for search category, i.e. title, any, genres, keywords
+            'need_check':False, # for debug only
+            'color':"", # a str in ["all", "bw", "color"]
+            'from':0, # int or None
+            'to':9999, # int or None
+            'additionQ':True, # a boolean value to check whether it is advanced search or not
+            'andQueries':[],# list of tuples (by, query), i.e. (title, "Vincent")
+            'orQueries':[], # list of tuples (by, query), i.e. (title, "Vincent")
+            'notQueries':[] # list of tuples (by, query), i.e. (title, "Vincent")
+        }
+    '''
+    parsed_args = JSONParser.dataParse(data, request.method)
+    print(parsed_args)
+    '''
+    #query translate and spell check
     '''
     corrected = ''
     #print(type(queryMsg))
-    print(need_check)
-    if need_check:
-        corrected=Spellcheck.spellcheck(queryMsg)
-        if corrected == queryMsg:
+    print(parsed_args['need_check'])
+    if parsed_args['need_check']:
+        corrected=Spellcheck.spellcheck(parsed_args['queryMsg'])
+        if corrected == parsed_args['queryMsg']:
             corrected = ""
-        print(need_check)
-    queryMsg=Spellcheck.trans_api(queryMsg)
-    '''
-    function to wrap up
-    '''
+        print(parsed_args['need_check'])
+    queryMsg=Spellcheck.trans_api(parsed_args['queryMsg'])
+    #function to wrap up
+    
     def formatRes(id):
         doc = {
             "id": id,
@@ -98,16 +98,18 @@ def searchQuery():
             "runtime": moviedict[id]['runningtimes']
         }
         return doc
-    '''
-    Add function for extract results
-    '''
-    if search_type == 'title':
+    
+    #Add function for extract results
+    
+    if parsed_args['by'] == 'title':
         res = query.by_title(queryMsg)
         print("By title",res)
-    elif search_type == 'keywords':
+    elif parsed_args['by'] == 'keywords':
         res = query.by_keywords(queryMsg)
+        print("By keywords",res)
     else:
-        res = query.by_general(queryMsg)
+        res = query.by_title(queryMsg)
+        print("By general",res)
 
     #print(res)
     reslist = []
@@ -119,8 +121,10 @@ def searchQuery():
         'ids': res,
         'corrected': corrected
     }
+    
     #print('data: ', data)
-    print(reslist)
+    print()
+    #return jsonify({})
     return jsonify(response)
 
 

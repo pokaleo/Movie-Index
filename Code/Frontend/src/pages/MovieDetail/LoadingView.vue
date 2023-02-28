@@ -7,7 +7,7 @@
 
     <div class="inputQuery">
       <KeepAlive>
-        <SearchBar :t="mode"/>
+        <SearchBar :t="'any'"/>
       </KeepAlive>
       <!--el-button size="small" @click="sendQuery" style="margin-top:20px">Search</el-button-->
     </div>
