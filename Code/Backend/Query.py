@@ -88,21 +88,9 @@ class Query:
         word2 = word_to_be_queried.lower()
         if word1 or word2 in self.index_general.keys():
             if word1 in self.index_general.keys():
-                dic = self.index_general[word1][1]
+                result = self.index_general[word1][1]
             if word2 in self.index_general.keys():
-                dic = self.index_general[word2][1]
-            result = dict()
-            for keys,values in dic.items():
-                values_digit = []
-                for value in values:
-                    # if the position is digit
-                    if value.isdigit():
-                        values_digit.append(value)
-                result[keys] = values_digit
-            if result:
-                for key in list(result.keys()):
-                    if not result.get(key):
-                        del result[key]
+                result= self.index_general[word2][1]
                 return result
             else:
                 raise Exception("We did not find the result!")
@@ -132,7 +120,11 @@ class Query:
                         result = []
                         for doic in common_doic:
                             for position1 in dict1[doic]:
+                                if not position1.isdigit():
+                                    continue
                                 for position2 in dict2[doic]:
+                                    if not position2.isdigit():
+                                        continue
                                     if abs(int(position1) - int(position2)) <= distance:
                                         result.append(doic)
                         if result:
@@ -161,7 +153,11 @@ class Query:
                     result = []
                     for doic in common_doic:
                          for position1 in dict1[doic]:
+                            if not position1.isdigit():
+                                continue
                             for position2 in dict2[doic]:
+                                if not position2.isdigit():
+                                    continue
                                 if int(position2) - int(position1) == 1:
                                     result.append(doic)
                     if result:
