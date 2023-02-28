@@ -230,7 +230,7 @@ img{
 }
 
 .card{
-  height: 800px;
+  height: 450px;
   background-color: white;
 }
 
