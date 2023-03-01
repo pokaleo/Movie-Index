@@ -276,7 +276,7 @@ img{
 }
 
 .card{
-  height: 450px;
+  height: 400px;
   background-color: white;
 }
 
