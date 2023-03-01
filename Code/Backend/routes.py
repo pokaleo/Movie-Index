@@ -2,6 +2,7 @@ from flask import Flask
 from flask import jsonify
 from flask import request
 from flask_cors import CORS
+import time
 
 import json
 import RetrieveData
@@ -100,7 +101,9 @@ def searchQuery():
         return doc
     
     #Add function for extract results
-    
+    st = time.time()
+    st_cpu = time.process_time()
+
     if parsed_args['by'] == 'title':
         res = query.by_title(queryMsg)
         print("By title",res)
@@ -116,10 +119,15 @@ def searchQuery():
     for id in res:
         reslist.append(formatRes(id))
 
+    ed = time.time()
+    ed_cpu = time.process_time()
+
     response = {
         'results': reslist,
         'ids': res,
-        'corrected': corrected
+        'corrected': corrected,
+        'wallT': round((ed-st)*1000, 6),
+        'cpuT': round((ed_cpu-st_cpu)*1000, 6),
     }
     
     #print('data: ', data)
