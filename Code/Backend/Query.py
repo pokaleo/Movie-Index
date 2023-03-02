@@ -310,4 +310,10 @@ class Query:
             year_list.append(int(self.dataset[docid]['year']))
         return [x for _, x in sorted(zip(year_list, docid_list))]
 
+    def year_ranking_reverse(self, docid_list):
+        year_list = []
+        for docid in docid_list:
+            year_list.append(int(self.dataset[docid]['year']))
+        return [x for _, x in sorted(zip(year_list, docid_list), reverse=True)]
+
     # TODO: define a function to decide using which ranking method in several kinds of situation, for example using alphabet_ranking when producting by_title search etc.
