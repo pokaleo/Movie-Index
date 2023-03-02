@@ -94,6 +94,10 @@ class MovieInfo:
                 for writer in root.iter('writer'):
                     writers.append(writer.text)
                 movie_dict['writers'] = writers
+                producers = []
+                for producer in root.iter('producers'):
+                    producers.append(producer.text)
+                movie_dict['producers'] = producers
                 composers = []
                 for composer in root.iter('composer'):
                     composers.append(composer.text)
