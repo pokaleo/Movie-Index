@@ -27,6 +27,7 @@ class webScraping:
         # self.colorinfo = defaultdict(list)
         # self.soundmixes = defaultdict(list)
         # self.directors = defaultdict(list)
+        # self.cast = defaultdict(list)
 
         # TODO
         # self.type = defaultdict(list)
@@ -35,7 +36,7 @@ class webScraping:
         # self.producers = defaultdict(list)
         # self.writers = defaultdict(list)
         # self.composers = defaultdict(list)
-        # self.cast = defaultdict(list)
+
 
     def certainResponse(self, container, curr_class, curr_str):
         if curr_str == 'runtime':
@@ -76,7 +77,18 @@ class webScraping:
             else:
                 return temp.a.text
 
- 
+    def getCredit(self, container, curr_class, curr_str):
+        cast_list = ''
+        for i in container:
+            if i == container[-1]:
+                cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
+                cast_list = cast_list + cast_.text
+            else:
+                cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
+                cast_list = cast_list + cast_.text + ', '
+        # print(cast_list)
+        return cast_list
+
 
     def getResponse(self):
 
@@ -115,22 +127,20 @@ class webScraping:
             data_credit = curr_soup.find('div', attrs = {'data-testid':'title-pc-expandable-panel'})
             curr_info['directors'] = self.certainResponse(data_credit,'li','director')
 
+            # data_cast = curr_soup.findAll('div', attrs = {'data-testid':'shoveler-items-container'})
+            data_cast = curr_soup.findAll('div', attrs={'data-testid':'title-cast-item','class':'sc-bfec09a1-5 kUzsHJ'})
+            curr_info['cast'] = self.getCredit(data_cast,'a','cast')
+            # cast_list = ''
+            # for i in data_cast:
+            #     if i == data_cast[-1]:
+            #         cast_ = i.find('a', attrs={'data-testid':'title-cast-item__actor'})
+            #         cast_list = cast_list + cast_.text
+            #     else:
+            #         cast_ = i.find('a', attrs={'data-testid':'title-cast-item__actor'})
+            #         cast_list = cast_list + cast_.text + ', '
 
-            # rate = store.find('div', class_ = 'inline-block ratings-imdb-rating').text.replace('\n', '')    
-            # meta  = store.find('span', class_ = 'metascore').text.replace(' ', '') if store.find('span', class_ = 'metascore') else '^^^^^^'
+            # print(cast_list)
 
-            # #since, gross and votes have same attributes, that's why we had created a common variable and then used indexing
-            # value = store.find_all('span', attrs = {'name': 'nv'})
-
-
-            # print(self.allInfo)
-            # #Cast Details -- Scraping Director name and Stars -- Not explained in Video
-            # cast = store.find("p", class_ = '')
-            # cast = cast.text.replace('\n', '').split('|')
-            # cast = [x.strip() for x in cast]
-            # cast = [cast[i].replace(j, "") for i,j in enumerate(["Director:", "Stars:"])]
-            # Director.append(cast[0])
-            # Stars.append([x.strip() for x in cast[1].split(",")])
 
             print(curr_info)
             self.allInfo[curr_id] = curr_info
