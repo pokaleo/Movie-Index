@@ -268,6 +268,8 @@ class Query:
     # Calculate bm25 score for a single term
     def bm25(self, word_to_be_queried, docid):
         k = 1.5
+        if word_to_be_queried not in self.index_general:
+            return 0
         document_frequency = self.__document_frequency(word_to_be_queried)
         term_frequency = self.__term_frequency(word_to_be_queried, docid)
         L_division = self.__number_of_terms(docid) / self.average_number_of_terms
