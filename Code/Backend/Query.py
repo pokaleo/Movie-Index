@@ -32,7 +32,7 @@ class Query:
                 return list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
-            
+
     # Naive implementation of search by keywords without ranking
     def by_keywords(self, keywords):
         if keywords:
@@ -47,7 +47,7 @@ class Query:
                 return list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
-            
+
     # Naive implementation of search by genre without ranking
     def by_genres(self, keywords):
         if keywords:
@@ -61,9 +61,10 @@ class Query:
                     result += self.__plain_search(keyword.lower(), "genre")
                 return list(dict.fromkeys(result))
         else:
-            raise Exception("Keywords is empty!")        
-    
-    # Naive implementation of search for general without ranking
+            raise Exception("Keywords is empty!")
+
+            # Naive implementation of search for general without ranking
+
     def by_general(self, keywords):
         if keywords:
             keywords = keywords.split()
@@ -77,33 +78,33 @@ class Query:
                 return list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
-    
+
     # Method to perform plain single word search
     def __plain_search(self, word_to_be_queried, attributes=None):
         result = []
         # Detect if the search is specified to an attribute
         if attributes:
             if attributes == "title":
-                for doic, info in self.dataset.items():
+                for doid, info in self.dataset.items():
                     if word_to_be_queried in info['title']:
-                        result.append(doic)
+                        result.append(doid)
             if attributes == "keywords":
-                for doic, info in self.dataset.items():
+                for doid, info in self.dataset.items():
                     if word_to_be_queried in info['keywords']:
-                        result.append(doic)
+                        result.append(doid)
             if attributes == "genre":
-                for doic, info in self.dataset.items():
+                for doid, info in self.dataset.items():
                     if word_to_be_queried in info['genres']:
-                        result.append(doic)
+                        result.append(doid)
         # Use general research if no attribute input 
         else:
             for doic, info in self.dataset.items():
                 for attribute in info.keys():
-                #TODO:need to preprocess(stemming and remove stopwords) when searching in [plot]
+                    # TODO:need to preprocess(stemming and remove stopwords) when searching in [plot]
                     if word_to_be_queried in info[attribute]:
                         result.append(doic)
         return result
-    
+
     # Method to perform single word search with docid and position
     def __position_search(self, word_to_be_queried):
         word1 = SnowballStemmer(language='english').stem(word_to_be_queried.lower())
@@ -112,19 +113,18 @@ class Query:
             if word1 in self.index_general.keys():
                 result = self.index_general[word1][1]
             if word2 in self.index_general.keys():
-                result= self.index_general[word2][1]
+                result = self.index_general[word2][1]
                 return result
             else:
                 raise Exception("We did not find the result!")
-        else: 
+        else:
             raise Exception("We did not find the result!")
-        
-    
+
     # Proximity Search : "#distance word1 word2"
     def proximity_search(self, keywords):
         if keywords:
             keywords = keywords.split()
-            if not re.match(r'#\d*', keywords[0]): 
+            if not re.match(r'#\d*', keywords[0]):
                 return Exception("The format is wrong!")
             else:
                 if len(keywords) != 3:
@@ -139,24 +139,24 @@ class Query:
                     common_doic = list(dict1.keys() & dict2.keys())
                     if common_doic:
                         result = []
-                        for doic in common_doic:
-                            for position1 in dict1[doic]:
+                        for doid in common_doic:
+                            for position1 in dict1[doid]:
                                 if not position1.isdigit():
                                     continue
-                                for position2 in dict2[doic]:
+                                for position2 in dict2[doid]:
                                     if not position2.isdigit():
                                         continue
                                     if abs(int(position1) - int(position2)) < distance:
-                                        result.append(doic)
+                                        result.append(doid)
                         if result:
                             return list(dict.fromkeys(result))
                         else:
                             raise Exception("We did not find the result!")
                     else:
-                        raise Exception("We did not find the result!")                
+                        raise Exception("We did not find the result!")
         else:
             raise Exception("Keywords is empty!")
-        
+
     # Phrase Search : "word1 word2"
     def phrase_search(self, keywords):
         if keywords:
@@ -173,25 +173,25 @@ class Query:
                 if common_doic:
                     result = []
                     for doic in common_doic:
-                         for position1 in dict1[doic]:
+                        for position1 in dict1[doic]:
                             if not position1.isdigit():
                                 continue
                             for position2 in dict2[doic]:
                                 if not position2.isdigit():
                                     continue
                                 distance = abs(int(position2) - int(position1))
-                                if distance <2 :
+                                if distance < 2:
                                     result.append(doic)
                     if result:
                         return list(dict.fromkeys(result))
                     else:
                         raise Exception("We did not find the result!")
                 else:
-                    raise Exception("We did not find the result!")                
+                    raise Exception("We did not find the result!")
         else:
             raise Exception("Keywords is empty!")
-  
-    #TODO add attribute when calculating related tf,df etc in bm25
+
+    # TODO add attribute when calculating related tf,df etc in bm25
     def __term_frequency(self, word_to_be_queried, docid):
         # TODO information in cast missing
         if docid in self.index_general[word_to_be_queried][1]:
@@ -207,35 +207,35 @@ class Query:
         for docid, info in self.dataset.items():
             for attribute, token in info.items():
                 number_of_tokens += len(token)
-        return number_of_tokens/len(self.dataset)
+        return number_of_tokens / len(self.dataset)
 
     def __number_of_terms(self, docid):
         number_of_tokens = 0
         for attribute, token in self.dataset[docid].items():
             number_of_tokens += len(token)
         return number_of_tokens
-    
+
     # Use Okapi BM25 to calculate the Ranking 
     def bm25(self, word_to_be_queried, docid):
         k = 1.5
         N = len(self.dataset.keys())
-        L_division = self.__number_of_terms(docid)\
-                    /self.__cal_average_number_of_terms()
-        restpart = (N - self.__document_frequency(word_to_be_queried) + 0.5)\
-                    /(self.__document_frequency(word_to_be_queried) + 0.5)
-        w_td = format(math.log10(restpart) * self.__term_frequency(word_to_be_queried, docid)\
-                /((k * L_division) + self.__term_frequency(word_to_be_queried, docid) + 0.5), '.4f')
+        L_division = self.__number_of_terms(docid) / \
+                     self.__cal_average_number_of_terms()
+        restpart = (N - self.__document_frequency(word_to_be_queried) + 0.5) / \
+                   (self.__document_frequency(word_to_be_queried) + 0.5)
+        w_td = format(math.log10(restpart) * self.__term_frequency(word_to_be_queried, docid) /
+                      ((k * L_division) + self.__term_frequency(word_to_be_queried, docid) + 0.5), '.4f')
         w_td = float(w_td)
         return w_td
 
-    def bm25_ranking(self,keywords,docid_list,stemming = False):
+    def bm25_ranking(self, keywords, docid_list, stemming=False):
         keywords = keywords.lower()
         term_list = keywords.split(' ')
         if not re.match(r'#\d*', term_list[0]):
             keywords = keywords
         else:
             del term_list[0]
-        if stemming == True:
+        if stemming:
             for term in term_list:
                 stemmed_term = SnowballStemmer(language='english').stem(term)
                 if stemmed_term not in term_list:
@@ -244,20 +244,20 @@ class Query:
         for docid in docid_list:
             sum = 0
             for term in term_list:
-                bm25_score = self.bm25(term,docid)
+                bm25_score = self.bm25(term, docid)
                 sum = sum + bm25_score
             bm25score_list.append(sum)
-        ordered_list = sorted(docid_list,key = lambda x:bm25score_list[docid_list.index(x)],reverse=True)
+        ordered_list = sorted(docid_list, key=lambda x: bm25score_list[docid_list.index(x)], reverse=True)
         return ordered_list
 
-    def alphabet_ranking(self,docid_list):
+    def alphabet_ranking(self, docid_list):
         title_list = []
         for docid in docid_list:
             temp_list = self.dataset[docid]['title']
             title = ' '.join(temp_list)
             title_list.append(title)
         print(title_list)
-        ordered_list = sorted(docid_list,key = lambda x:title_list[docid_list.index(x)],reverse=False)
+        ordered_list = sorted(docid_list, key=lambda x: title_list[docid_list.index(x)], reverse=False)
         return ordered_list
 
-    #TODO: define a function to decide using which ranking method in several kinds of situation, for example using alphabet_ranking when producting by_title search etc.
+    # TODO: define a function to decide using which ranking method in several kinds of situation, for example using alphabet_ranking when producting by_title search etc.
