@@ -42,7 +42,6 @@ class PreProcessing:
             for editor in self.__dataset[docid]['editors']:
                 editors.append(editor.split())
             self.__dataset[docid]['editors'] = editors
-            # TODO decide if need to tokenise releasedates
             directors = []
             for director in self.__dataset[docid]['directors']:
                 directors.append(director.split())
@@ -81,16 +80,12 @@ class PreProcessing:
                 info['editors'][i] = [token.lower() for token in info['editors'][i]]
             for i in range(len(info['certificates'])):
                 info['certificates'][i] = [token.lower() for token in info['certificates'][i]]
-            for i in range(len(info['releasedates'])):
-                info['releasedates'][i] = [token.lower() for token in info['releasedates'][i]]
             for i in range(len(info['directors'])):
                 info['directors'][i] = [token.lower() for token in info['directors'][i]]
             for i in range(len(info['writers'])):
                 info['writers'][i] = [token.lower() for token in info['writers'][i]]
             for i in range(len(info['composers'])):
                 info['composers'][i] = [token.lower() for token in info['composers'][i]]
-            for i in range(len(info['runningtimes'])):
-                info['runningtimes'][i] = [token.lower() for token in info['runningtimes'][i]]
             for i in range(len(info['actors'])):
                 info['actors'][i] = [token.lower() for token in info['actors'][i]]
             for i in range(len(info['roles'])):
@@ -250,29 +245,6 @@ class PreProcessing:
                         else:
                             self.__index[token][1][docid] = ["certificate"]
                             self.__index[token][0] += 1
-            # TODO handle releasedates
-            # for i in range(len(info["releasedates"])):
-            #     for token in info["releasedates"][i]:
-            #         print(token)
-                    # if token not in self.__index:
-                    #     self.__index[token] = [1, {docid: ["certificate"]}]
-                    # else:
-                    #     if docid in self.__index[token][1]:
-                    #         self.__index[token][1][docid].append("certificate")
-                    #     else:
-                    #         self.__index[token][1][docid] = ["certificate"]
-                    #         self.__index[token][0] += 1
-            # TODO runningtimes -- what happen if multiple running times exists?
-            for i in range(len(info["runningtimes"])):
-                token = info["runningtimes"][i][1]
-                if token not in self.__index:
-                    self.__index[token] = [1, {docid: ["runningtime"]}]
-                else:
-                    if docid in self.__index[token][1]:
-                        self.__index[token][1][docid].append("runningtime")
-                    else:
-                        self.__index[token][1][docid] = ["runningtime"]
-                        self.__index[token][0] += 1
             # TODO separate composers name in position -- currently David Johnson and Jake Wright is in the following
             # format: david 1, johnson 2, jake 3...
             position = len(info["title"]) + 100
