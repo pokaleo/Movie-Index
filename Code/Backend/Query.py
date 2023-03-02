@@ -20,6 +20,7 @@ class Query:
         self.index_keyword = dataset.get_index_keywords()
         self.index_genre = dataset.get_index_genre()
         self.average_number_of_terms = self.__cal_average_number_of_terms()
+        self.number_of_docs = len(self.dataset.keys())
 
     # Naive implementation of search by title without ranking
     def by_title(self, keywords, year1=None, year2=None):
@@ -39,7 +40,7 @@ class Query:
             result = self.__filter_year(year1, 1, result)
         if year2:
             result = self.__filter_year(year2, 2, result)
-        return result
+        return self.bm25_ranking(keywords, result)
 
     # Naive implementation of search by keywords without ranking
     def by_keywords(self, keywords, year1=None, year2=None):
@@ -59,7 +60,7 @@ class Query:
             result = self.__filter_year(year1, 1, result)
         if year2:
             result = self.__filter_year(year2, 2, result)
-        return result
+        return self.bm25_ranking(keywords, result)
 
     # Naive implementation of search by genre without ranking
     def by_genres(self, keywords, year1=None, year2=None):
@@ -79,9 +80,9 @@ class Query:
             result = self.__filter_year(year1, 1, result)
         if year2:
             result = self.__filter_year(year2, 2, result)
-        return result
+        return self.bm25_ranking(keywords, result)
 
-            # Naive implementation of search for general without ranking
+        # Naive implementation of search for general without ranking
 
     def by_general(self, keywords, year1=None, year2=None):
         result = []
@@ -100,7 +101,7 @@ class Query:
             result = self.__filter_year(year1, 1, result)
         if year2:
             result = self.__filter_year(year2, 2, result)
-        return result
+        return self.bm25_ranking(keywords, result)
 
     # Method to filter the result by year
     def __filter_year(self, year, position, docids):
@@ -263,40 +264,29 @@ class Query:
                 number_of_tokens += len(token)
         return number_of_tokens
 
-    # Use Okapi BM25 to calculate the Ranking 
+    # Calculate bm25 score for a single term
     def bm25(self, word_to_be_queried, docid):
         k = 1.5
-        N = len(self.dataset.keys())
-        L_division = self.__number_of_terms(docid) / \
-                     self.__cal_average_number_of_terms()
-        restpart = (N - self.__document_frequency(word_to_be_queried) + 0.5) / \
-                   (self.__document_frequency(word_to_be_queried) + 0.5)
-        w_td = format(math.log10(restpart) * self.__term_frequency(word_to_be_queried, docid) /
-                      ((k * L_division) + self.__term_frequency(word_to_be_queried, docid) + 0.5), '.4f')
+        document_frequency = self.__document_frequency(word_to_be_queried)
+        term_frequency = self.__term_frequency(word_to_be_queried, docid)
+        L_division = self.__number_of_terms(docid) / self.average_number_of_terms
+        log_value = (self.number_of_docs - document_frequency + 0.5) / \
+                    (document_frequency + 0.5)
+        w_td = format((term_frequency / (k * L_division + term_frequency + 0.5))
+                      * math.log10(log_value), '.4f')
         w_td = float(w_td)
         return w_td
 
-    def bm25_ranking(self, keywords, docid_list, stemming=False):
-        keywords = keywords.lower()
-        term_list = keywords.split(' ')
-        if not re.match(r'#\d*', term_list[0]):
-            keywords = keywords
-        else:
-            del term_list[0]
-        if stemming:
-            for term in term_list:
-                stemmed_term = SnowballStemmer(language='english').stem(term)
-                if stemmed_term not in term_list:
-                    term_list.append(stemmed_term)
+    def bm25_ranking(self, keywords, docid_list):
+        term_list = keywords
         bm25score_list = []
         for docid in docid_list:
-            sum = 0
+            sum_of_bm25 = 0
             for term in term_list:
-                bm25_score = self.bm25(term, docid)
-                sum = sum + bm25_score
-            bm25score_list.append(sum)
-        ordered_list = sorted(docid_list, key=lambda x: bm25score_list[docid_list.index(x)], reverse=True)
-        return ordered_list
+                sum_of_bm25 += self.bm25(Util.to_lowercase(term), docid)
+                sum_of_bm25 += self.bm25(Util.stem_data(term), docid)
+            bm25score_list.append(sum_of_bm25)
+        return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
 
     def alphabet_ranking(self, docid_list):
         title_list = []
