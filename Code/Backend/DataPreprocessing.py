@@ -89,8 +89,9 @@ class PreProcessing:
                 info['composers'][i] = [token.lower() for token in info['composers'][i]]
             for i in range(len(info['actors'])):
                 info['actors'][i] = [token.lower() for token in info['actors'][i]]
-            for i in range(len(info['roles'])):
-                info['roles'][i] = [token.lower() for token in info['roles'][i]]
+            if info['roles'] is not None:
+                for i in range(len(info['roles'])):
+                    info['roles'][i] = [token.lower() for token in info['roles'][i]]
 
     # Method which removes leading and trailing punctuations and individual punctuations
     def remove_punctuation(self):
