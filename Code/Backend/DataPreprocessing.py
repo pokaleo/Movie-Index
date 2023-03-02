@@ -28,6 +28,7 @@ class PreProcessing:
         self.__index = {}
         self.__index_title = {}
         self.__index_keywords = {}
+        self.__index_genre = {}
         if dataset:
             self.__dataset = copy.deepcopy(dataset)
         else:
@@ -198,6 +199,14 @@ class PreProcessing:
                     else:
                         self.__index[token][1][docid] = ["genre"]
                         self.__index[token][0] += 1
+                if token not in self.__index_genre:
+                    self.__index_genre[token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index_genre[token][1]:
+                        self.__index_genre[token][1][docid].append(str(i))
+                    else:
+                        self.__index_genre[token][1][docid] = [str(i)]
+                        self.__index_genre[token][0] += 1
             for i in range(len(info["keywords"])):
                 token = info["keywords"][i]
                 if token not in self.__index:
@@ -367,5 +376,11 @@ class PreProcessing:
     def get_index_keywords(self):
         if self.__index_keywords:
             return self.__index_keywords
+        else:
+            raise Exception("The index is empty!")
+
+    def get_index_genre(self):
+        if self.__index_genre:
+            return self.__index_genre
         else:
             raise Exception("The index is empty!")

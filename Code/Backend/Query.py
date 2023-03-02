@@ -17,6 +17,8 @@ class Query:
         self.dataset = dataset.get_data()
         self.index_general = dataset.get_index()
         self.index_title = dataset.get_index_title()
+        self.index_keyword = dataset.get_index_keywords()
+        self.index_genre = dataset.get_index_genre()
         self.average_number_of_terms = self.__cal_average_number_of_terms()
 
     # Naive implementation of search by title without ranking
@@ -119,16 +121,16 @@ class Query:
         # Detect if the search is specified to an attribute
         if attributes:
             if attributes == "title":
-                for docid, info in self.dataset.items():
-                    if word_to_be_queried in info['title']:
+                if word_to_be_queried in self.index_title:
+                    for docid, position in self.index_title[word_to_be_queried][1].items():
                         result.append(docid)
             if attributes == "keywords":
-                for docid, info in self.dataset.items():
-                    if word_to_be_queried in info['keywords']:
+                if word_to_be_queried in self.index_keyword:
+                    for docid, position in self.index_keyword[word_to_be_queried][1].items():
                         result.append(docid)
             if attributes == "genre":
-                for docid, info in self.dataset.items():
-                    if word_to_be_queried in info['genres']:
+                if word_to_be_queried in self.index_genre:
+                    for docid, position in self.index_genre[word_to_be_queried][1].items():
                         result.append(docid)
         # Use general research if no attribute input 
         else:
