@@ -316,15 +316,16 @@ class PreProcessing:
             position = temp_position + 2
             for i in range(len(info["roles"])):
                 position += 15
-                for token in info["roles"][i]:
-                    if token not in self.__index:
-                        self.__index[token] = [1, {docid: [str(position)]}]
-                    else:
-                        if docid in self.__index[token][1]:
-                            self.__index[token][1][docid].append(str(position))
+                if info["roles"][i] is not None:
+                    for token in info["roles"][i]:
+                        if token is not None and token not in self.__index:
+                            self.__index[token] = [1, {docid: [str(position)]}]
                         else:
-                            self.__index[token][1][docid] = [str(position)]
-                            self.__index[token][0] += 1
+                            if docid in self.__index[token][1]:
+                                self.__index[token][1][docid].append(str(position))
+                            else:
+                                self.__index[token][1][docid] = [str(position)]
+                                self.__index[token][0] += 1
             position += 100
             for i in range(len(info["plot"])):
                 token = info["plot"][i]

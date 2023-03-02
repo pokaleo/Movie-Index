@@ -250,13 +250,15 @@ class Query:
         number_of_tokens = 0
         for docid, info in self.dataset.items():
             for attribute, token in info.items():
-                number_of_tokens += len(token)
+                if token is not None:
+                    number_of_tokens += len(token)
         return number_of_tokens / len(self.dataset)
 
     def __number_of_terms(self, docid):
         number_of_tokens = 0
         for attribute, token in self.dataset[docid].items():
-            number_of_tokens += len(token)
+            if token is not None:
+                number_of_tokens += len(token)
         return number_of_tokens
 
     # Use Okapi BM25 to calculate the Ranking 
