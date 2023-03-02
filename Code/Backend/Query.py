@@ -20,65 +20,98 @@ class Query:
         self.average_number_of_terms = self.__cal_average_number_of_terms()
 
     # Naive implementation of search by title without ranking
-    def by_title(self, keywords):
+    def by_title(self, keywords, year1=None, year2=None):
+        result = []
         if keywords:
             keywords = keywords.split()
             # if search for a single word
             if len(keywords) == 1:
-                return self.__plain_search(keywords[0].lower(), "title")
+                result = self.__plain_search(keywords[0].lower(), "title")
             else:
-                result = []
                 for keyword in keywords:
                     result += self.__plain_search(keyword.lower(), "title")
-                return list(dict.fromkeys(result))
+                result = list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        return result
 
     # Naive implementation of search by keywords without ranking
-    def by_keywords(self, keywords):
+    def by_keywords(self, keywords, year1=None, year2=None):
+        result = []
         if keywords:
             keywords = keywords.split()
             # if search for a single word
             if len(keywords) == 1:
-                return self.__plain_search(keywords[0].lower(), "keywords")
+                result = self.__plain_search(keywords[0].lower(), "keywords")
             else:
-                result = []
                 for keyword in keywords:
                     result += self.__plain_search(keyword.lower(), "keywords")
-                return list(dict.fromkeys(result))
+                result = list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        return result
 
     # Naive implementation of search by genre without ranking
-    def by_genres(self, keywords):
+    def by_genres(self, keywords, year1=None, year2=None):
+        result = []
         if keywords:
             keywords = keywords.split()
             # if search for a single word
             if len(keywords) == 1:
-                return self.__plain_search(keywords[0].lower(), "genre")
+                result = self.__plain_search(keywords[0].lower(), "genre")
             else:
-                result = []
                 for keyword in keywords:
                     result += self.__plain_search(keyword.lower(), "genre")
-                return list(dict.fromkeys(result))
+                result = list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        return result
 
             # Naive implementation of search for general without ranking
 
-    def by_general(self, keywords):
+    def by_general(self, keywords, year1=None, year2=None):
+        result = []
         if keywords:
             keywords = keywords.split()
             # if search for a single word
             if len(keywords) == 1:
-                return self.__plain_search(keywords[0].lower())
+                result = self.__plain_search(keywords[0].lower())
             else:
-                result = []
                 for keyword in keywords:
                     result += self.__plain_search(keyword.lower())
-                return list(dict.fromkeys(result))
+                result = list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        return result
+
+    # Method to filter the result by year
+    def __filter_year(self, year, position, docids):
+        result = []
+        if position == 1:
+            for docid in docids:
+                if int(self.dataset[docid]["year"]) > year:
+                    result.append(docid)
+        else:
+            for docid in docids:
+                if int(self.dataset[docid]["year"]) < year:
+                    result.append(docid)
+        return result
 
     # Method to perform plain single word search
     def __plain_search(self, word_to_be_queried, attributes=None):
