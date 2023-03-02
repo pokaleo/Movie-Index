@@ -91,7 +91,8 @@ class PreProcessing:
                 info['actors'][i] = [token.lower() for token in info['actors'][i]]
             if info['roles'] is not None:
                 for i in range(len(info['roles'])):
-                    info['roles'][i] = [token.lower() for token in info['roles'][i]]
+                    if info['roles'][i] is not None:
+                        info['roles'][i] = [token.lower() for token in info['roles'][i]]
 
     # Method which removes leading and trailing punctuations and individual punctuations
     def remove_punctuation(self):
@@ -107,8 +108,10 @@ class PreProcessing:
                 token[0] = token[0].rstrip(",")
             for token in (info['actors']):
                 token[0] = token[0].rstrip(",")
-            for token in (info['roles']):
-                token[0] = token[0].rstrip(",")
+            if info['roles'] is not None:
+                for token in (info['roles']):
+                    if token is not None:
+                        token[0] = token[0].rstrip(",")
 
     # Perform Snowball stemming to plot info
     def stem_data(self):
