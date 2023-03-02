@@ -159,6 +159,7 @@ class Query:
         if word1 or word2 in self.index_general.keys():
             if word1 in self.index_general.keys():
                 result = self.index_general[word1][1]
+                return result
             if word2 in self.index_general.keys():
                 result = self.index_general[word2][1]
                 return result
