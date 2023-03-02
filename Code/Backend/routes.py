@@ -12,6 +12,7 @@ import Spellcheck
 import JSONParser
 
 movies = RetrieveData.MovieInfo("../TestDataset")
+#../Dataset/IMDB Movie Info
 movies.read_files()
 moviedict = movies.get_movie_info()
 processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
@@ -105,18 +106,25 @@ def searchQuery():
     st_cpu = time.process_time()
 
     if parsed_args['by'] == 'title':
-        res = query.by_title(queryMsg)
+        res = query.by_title(queryMsg, parsed_args['from'], parsed_args['to'])
         print("By title",res)
     elif parsed_args['by'] == 'keywords':
-        res = query.by_keywords(queryMsg)
+        res = query.by_keywords(queryMsg, parsed_args['from'], parsed_args['to'])
         print("By keywords",res)
     else:
-        res = query.by_title(queryMsg, parsed_args['from'], parsed_args['to'])
+        res = query.by_general(queryMsg, parsed_args['from'], parsed_args['to'])
         print("By general",res)
 
     #print(res)
     reslist = []
+    #final_ses = []
     for id in res:
+        if parsed_args['color'] == 'bw':
+            if 'Black and White' not in moviedict[id]['colorinfos']:
+                continue
+        elif parsed_args['color'] == 'color':
+            if 'Color' not in moviedict[id]['colorinfos']:
+                continue
         reslist.append(formatRes(id))
 
     ed = time.time()
