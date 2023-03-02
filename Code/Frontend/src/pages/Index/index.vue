@@ -19,7 +19,7 @@
       </el-radio-group>
       <el-scrollbar>
         <div class="movie-list">
-          <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
+          <div class="movie-item" v-for="(item, index) in movieList.value" :key="index" @click="goMovieDetailPage(item.id)">
             <div class="movie-name">{{ item.movieName }}</div>
             <div class="movie-description">{{ item.description }}</div>
             <div class="movie-info">
@@ -38,7 +38,7 @@
 </template>
 
 <script setup>
-import { reactive,watch,onMounted,getCurrentInstance, ref } from 'vue';
+import { reactive,watch,onMounted,getCurrentInstance, ref, h } from 'vue';
 import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
 import { ElNotification } from 'element-plus'
 import SearchBar from '../MovieDetail/SearchBar.vue';
@@ -46,7 +46,7 @@ import SearchBar from '../MovieDetail/SearchBar.vue';
 const router = useRouter()
 const route = useRoute()
 
-let movieList = reactive([])
+let movieList = reactive({value: [],time:[], rel:[]})
 let spellchecked = ref('')
 let wallTime = ref('')
 let cpuTime = ref('')
@@ -102,13 +102,13 @@ const getData=async()=>{
     })
      .then(function(res){
       console.log(res)
-      const list = JSON.parse(JSON.stringify(res.data.results))
+      movieList.value = JSON.parse(JSON.stringify(res.data.results))
       spellchecked = res.data.corrected
       if(spellchecked != '' && spellchecked != route.query.q)
         hasCorrected = true
       else
         hasCorrected = false
-      movieList.push(list)
+      //movieList.push(list)
       //movieList = list
       wallTime.value = res.data.wallT
       cpuTime.value = res.data.cpuT
@@ -123,21 +123,27 @@ const getData=async()=>{
 getData()
 
 const sort_results=()=>{
-  movieList[0].sort()
+  movieList.value.sort((a, b)=>b.year-a.year)
 }
 
 watch(sort_by, (new_data, old_data)=>{
+  if(movieList.rel.length == 0)
+      movieList.rel = movieList.value.slice()
   if(new_data == 1){
     ElNotification({
       title: "Sort by Relevance",
       message:h('i','The results will be sorted by relevance. Loading...')
     })
+    movieList.value = movieList.rel
   }
   else{
     ElNotification({
       title: "Sort by Time",
       message:h('i','The results will be sorted by time. Loading...')
     })
+    if(movieList.time.length == 0)
+      movieList.time = movieList.value.slice().sort((a, b)=>b.year-a.year)
+    movieList.value = movieList.time
   }
 })
 
