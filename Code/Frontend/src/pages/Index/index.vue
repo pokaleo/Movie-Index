@@ -42,6 +42,7 @@ import { reactive,watch,onMounted,getCurrentInstance, ref, h } from 'vue';
 import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
 import { ElNotification } from 'element-plus'
 import SearchBar from '../MovieDetail/SearchBar.vue';
+import { words } from 'lodash';
 // import http from "@/util/http"
 const router = useRouter()
 const route = useRoute()
@@ -80,10 +81,9 @@ const goCorrectedPage = (newquery) => {
     from: route.query.from, 
     to:route.query.to, 
     c:route.query.c,
-    more: route.query.more
+    more: route.query.more,
   }})
 }
-
 //alert("New Search: "+route.query.q+route.query.t)
 let { proxy } = getCurrentInstance();
 const getData=async()=>{
@@ -91,13 +91,14 @@ const getData=async()=>{
      .get('/api/search',
      {params:
       {
+      pro: route.query.pro,
       query:route.query.q,
       by: route.query.t,
       need_check: "",
       from:route.query.from,
       to:route.query.to,
       color:JSON.stringify(route.query.c),
-      additions: JSON.stringify(route.query.more)
+      additions: JSON.stringify(route.query.more),
      }
     })
      .then(function(res){
@@ -117,6 +118,7 @@ const getData=async()=>{
      })
      .catch(function(error) {
       console.log(error);
+      console.log(additions);
     })
 };
 

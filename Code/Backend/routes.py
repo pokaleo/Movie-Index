@@ -62,7 +62,7 @@ def searchQuery():
     '''
     parse the data
     parsed_args = {'queryMsg':"",
-            'by':"", # a str for search category, i.e. title, any, genres, keywords
+            'by':"", # a str for search category, i.e. title, any, genres, keywords, proximity
             'need_check':False, # for debug only
             'color':"", # a str in ["all", "bw", "color"]
             'from':0, # int or None
@@ -111,6 +111,12 @@ def searchQuery():
     elif parsed_args['by'] == 'keywords':
         res = query.by_keywords(queryMsg, parsed_args['from'], parsed_args['to'])
         print("By keywords",res)
+    elif parsed_args['by'] == 'genres':
+        res = query.by_genres(queryMsg, parsed_args['from'], parsed_args['to'])
+        print("By genres",res)
+    elif parsed_args['by'] == 'proximity':
+        res = query.proximity_search(queryMsg)
+        print("By proximity",res)
     else:
         res = query.by_general(queryMsg, parsed_args['from'], parsed_args['to'])
         print("By general",res)

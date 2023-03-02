@@ -2,8 +2,9 @@ import json
 
 def dataParse(data, method):
     print("Data",data)
-    res = {'queryMsg':"",
-            'by':"", # a str for search category, i.e. title, any, genres, keywords
+    res = {
+            'queryMsg':None, # a str or (w1, w2, d)
+            'by':"", # a str for search category, i.e. title, any, genres, keywords, proximity
             'need_check':False, # for debug only
             'color':"", # a str in ["all", "bw", "color"]
             'from':0, # int or None
@@ -13,10 +14,23 @@ def dataParse(data, method):
             'orQueries':[], # list of tuples (by, query), i.e. (title, "Vincent")
             'notQueries':[] # list of tuples (by, query), i.e. (title, "Vincent")
             }
-    res['queryMsg'] = data.get('query')
-    res['by']=data.get('by')
+    if data.get('pro') == 'true':
+        res['by'] = 'proximity'
+        msg = data.get('query')
+        q = msg.split("+")
+        word1 = q[0]
+        word2 = q[1]
+        d = q[2]
+        res['queryMsg'] = '#'+d+' '+word1+' '+word2
+    else:
+        res['queryMsg'] = data.get('query')
+        res['by']=data.get('by')
+
     if method == 'GET':
         res['need_check'] = data.get('need_check',type=bool)
+        if data.get('pro') == 'true':
+            res['need_check'] = False
+
         res['from'] = data.get('from',type=int)
         res['to'] = data.get('to',type=int)
         colorlist =  data.get('color')
@@ -46,12 +60,24 @@ def dataParse(data, method):
                 otherQueries = [otherQueries]
             print("other",otherQueries)
             for item in otherQueries:
-                q = item.split(",",2)
-                if q[0] == '1':
-                    res['andQueries'].append((q[1],q[2]))
-                elif q[0] == '2':
-                    res['orQueries'].append((q[1],q[2]))
+                q = item.split(",")
+                bool_type = q[0]
+                category = q[1] # title, genres, proximity...
+
+                bool_name =''
+                if bool_type == '1':
+                    bool_name = 'andQueries'
+                elif bool_type == '2':
+                    bool_name='orQueries'
                 else:
-                    #print(q)
-                    res['notQueries'].append((q[1],q[2]))
+                    bool_name='notQueries'
+                msg = ''
+                if category == 'proximity':
+                    word1 = q[2]
+                    word2 = q[3]
+                    d = q[4]
+                    msg = '#'+d+' '+word1+' '+word2
+                else:
+                    msg = q[-1]
+                res[bool_name].append((category,msg))
     return res

@@ -29,7 +29,7 @@
             <span>Search Filters</span>
           </div>
         </template>
-        <el-scrollbar max-height="300px">
+        <el-scrollbar always="true">
           <!--form of additions information, includes categories, AND/NOT search, time filter and color filter-->
           <el-form :model="form" label-width="120px">
             <!--Basic query with a search category default is "By General"-->
@@ -213,8 +213,8 @@ export default defineComponent({
     const router = useRouter()
 
     var query = reactive({
-      queryMsg:"", by:"", 
-      proximity:false, word1:"", word2:"", dist:""})
+      queryMsg:null, by:"", 
+      proximity:false, word1:null, word2:null, dist:null})
 
     var additions = reactive([{
       type:"1", by:"any",q:"",
@@ -222,7 +222,7 @@ export default defineComponent({
     }])
 
     var form = reactive({color:[], 
-      time:{from:"", to:""}})
+      time:{from:null, to:null}})
     const proximity = ref(false)
     
     const maxAdditionsNum = ref(5)
@@ -235,27 +235,45 @@ export default defineComponent({
       filterTrigger.value[trigger] = !filterTrigger.value[trigger]
     }
     const count = ref(1)
+
     const onSubmit = () => {
       console.log('submit!')
       console.log(query)
       console.log(additions)
       console.log(form)
+      if(query.proximity){
+        query.queryMsg = ([query.word1,query.word2,query.dist]).join('+')
+        query.by = 'any'
+      }
       let additionalStr = []
-      for(let i=0; i<additions.length; i++)
-      {
+      for(let i=0; i<additions.length; i++){
         console.log(additions[i])
-        if(additions[i].q != "")
+        if(additions[i].proximity){
+          additions[i].by ='proximity'
+          if(additions[i].word1 !="" && additions[i].word2 != "" && additions[i].dist != "")
+            additionalStr.push([additions[i].type].concat([additions[i].by],[additions[i].word1],[additions[i].word2], [additions[i].dist]))
+        }
+        else if(additions[i].q != "") 
           additionalStr.push([additions[i].type].concat([additions[i].by], [additions[i].q]))
       }
       console.log(additionalStr)
-      const passedQuery = {q:query.queryMsg, 
+      const passedQuery = {
+        q:query.queryMsg, 
         t:query.by, 
         from: form.time.from, 
         to: form.time.to,
         c:form.color, //array
-        more: additionalStr} //array
-      router.push({path:"/search",query:passedQuery})
+        more: additionalStr,
+        pro: query.proximity
+      } //array
+      router.push({path:"/search",
+        query:passedQuery, 
+        params:
+          {w1:query.word1,
+          w2:query.word2,
+          d:query.dist,}})
     }
+
     const add = () => {
       if (count.value < maxAdditionsNum.value)
       {
@@ -295,7 +313,7 @@ export default defineComponent({
     ]
     
     function goSearchResult(){
-      router.push({path:"/search",query:{q:query.queryMsg, t:"any"}})
+      router.push({path:"/search",query:{q:query.queryMsg, t:"any", pro:false}})
     }
 
     onActivated(()=>{
@@ -350,7 +368,6 @@ img{
 }
 
 .card{
-  height: 400px;
   background-color: white;
 }
 
