@@ -304,4 +304,10 @@ class Query:
         ordered_list = sorted(docid_list, key=lambda x: title_list[docid_list.index(x)], reverse=False)
         return ordered_list
 
+    def year_ranking(self, docid_list):
+        year_list = []
+        for docid in docid_list:
+            year_list.append(int(self.dataset[docid]['year']))
+        return [x for _, x in sorted(zip(year_list, docid_list))]
+
     # TODO: define a function to decide using which ranking method in several kinds of situation, for example using alphabet_ranking when producting by_title search etc.
