@@ -25,7 +25,7 @@ export default defineConfig({
     https: false, 
     open: false, // open in brower automactically or not
     cors: true, // allow CORS
-    //port: 3000, // port
+    port: 3000, // port
     host: "0.0.0.0",
     proxy: {
       "/api": {
