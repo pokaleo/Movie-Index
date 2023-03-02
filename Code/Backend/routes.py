@@ -105,8 +105,16 @@ def searchQuery():
     st = time.time()
     st_cpu = time.process_time()
 
+    search_method = {
+        'title': query.by_title,
+        'keywords': query.by_keywords,
+        'genres': query.by_genres,
+        'proximity': query.proximity_search,
+        'any': query.by_general
+        }
+
     if parsed_args['by'] == 'title':
-        res = query.by_title(queryMsg, parsed_args['from'], parsed_args['to'])
+        res = search_method[parsed_args['by']](queryMsg, parsed_args['from'], parsed_args['to'])  
         print("By title",res)
     elif parsed_args['by'] == 'keywords':
         res = query.by_keywords(queryMsg, parsed_args['from'], parsed_args['to'])
@@ -120,8 +128,35 @@ def searchQuery():
     else:
         res = query.by_general(queryMsg, parsed_args['from'], parsed_args['to'])
         print("By general",res)
-
-    #print(res)
+    
+    if parsed_args['additionQ']:
+        if len(parsed_args['andQueries'])>0:
+            print("AND",parsed_args['andQueries'])
+            for q in parsed_args['andQueries']:
+                print(q)
+                if q[0] != 'proximity':
+                    print(q[1])
+                    new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
+                    print(new_res)
+                else:
+                    new_res = search_method[q[0]](q[1]) 
+                res = set(res).intersection(new_res)
+        if len(parsed_args['orQueries'])>0:
+            for q in parsed_args['orQueries']:
+                if q[0] != 'proximity':
+                    new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
+                else:
+                    new_res = search_method[q[0]](q[1]) 
+                res = set(res).union(new_res)
+        if len(parsed_args['notQueries'])>0:
+            for q in parsed_args['notQueries']:
+                if q[0] != 'proximity':
+                    new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
+                else:
+                    new_res = search_method[q[0]](q[1]) 
+                res = set(res).difference(new_res)
+    res = list(res)
+    print(res)
     reslist = []
     #final_ses = []
     for id in res:
