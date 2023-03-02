@@ -32,31 +32,31 @@
         <el-scrollbar max-height="300px">
           <!--form of additions information, includes categories, AND/NOT search, time filter and color filter-->
           <el-form :model="form" label-width="120px">
+            <!--Basic query with a search category default is "By General"-->
             <el-form-item class="demonstration" label="Proximity Search">
-              <el-switch v-model="proximity"/>
+              <el-switch v-model="query.proximity"/>
             </el-form-item>
-            <el-form-item class="demonstration" label="Proximity Query" v-if="proximity">
+            <el-form-item class="demonstration" label="Proximity Query" v-if="query.proximity">
               <el-col :span="2" class="text-center">
-                <span class="text-gray-500">First term</span>
+                <span class="text-gray-500">First word</span>
               </el-col>
               <el-col :span="6">
-                <el-input v-model="value" placeholder="1st word"/>
+                <el-input v-model="query.word1" placeholder="1st word"/>
               </el-col>
               <el-col :span="2" class="text-center">
-                <span class="text-gray-500">Second term</span>
+                <span class="text-gray-500">Second word</span>
               </el-col>
             <el-col :span="6">
-              <el-input v-model="value" placeholder="2nd word"/>
+              <el-input v-model="query.word2" placeholder="2nd word"/>
             </el-col>
             <el-col :span="2" class="text-center">
                 <span class="text-gray-500">Distance</span>
             </el-col>
             <el-col :span="6">
-              <el-input v-model="value" placeholder="distance"/>
+              <el-input v-model="query.dist" placeholder="distance"/>
             </el-col>
             </el-form-item>
-            <!--Basic query with a search category default is "By General"-->
-            <el-form-item class="demonstration" label="Browse By" v-if="!proximity">
+            <el-form-item class="demonstration" label="Browse By" v-else>
               <el-input
                 v-model="query.queryMsg"
                 placeholder="Please enter a search term"
@@ -71,31 +71,72 @@
                   </el-select>
                 </template>
               </el-input>
-
             </el-form-item>
 
-            <!--Additions and/not/or search-->
-            <el-form-item v-for="item in count" :key="item" class="demonstration" label="Alternatives">
-              <el-input
-                v-model="additions[item-1].q"
-                placeholder="Please enter a search term"
-                class="input-with-select"
-              >
-                <template #prepend>
-                  <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" style="width: 95px">
+            <!--Additions and/not/or search or proximity search-->
+            <div v-for="item in count" :key="item">
+              <el-form-item class="demonstration" label="Alternatives">
+                <el-switch v-model="additions[item-1].proximity" active-text="Proximity Search"/>
+              </el-form-item>
+              <el-form-item class="demonstration" label="Query" v-if="additions[item-1].proximity">
+                <el-col :span="2">
+                <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" style="width: 95px">
                     <el-option label="AND" value="1" />
                     <el-option label="OR" value="2" />
                     <el-option label="NOT" value="3" />
-                  </el-select>
-                  <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" style="width: 95px">
-                    <el-option label="Any" value="any"/>
-                    <el-option label="Title" value="title"/>
-                    <el-option label="Keywords" value="keywords"/>
-                    <el-option label="Genres" value="genres"/>
-                  </el-select>
-                </template>
-              </el-input>
-            </el-form-item>
+                </el-select>
+                </el-col>
+                <el-col :span="6">
+                  <el-input v-model="additions[item-1].word1" placeholder="1st word">
+                    <template #prefix>
+                      <span class="range">First</span>
+                    </template>
+                  </el-input>
+                </el-col>
+                <el-col :span="2" class="text-center">
+                  <span class="text-gray-500">-</span>
+                </el-col>
+                <el-col :span="6">
+                  <el-input v-model="additions[item-1].word2" placeholder="2nd word">
+                    <template #prefix>
+                      <span class="range">Last</span>
+                    </template>
+                  </el-input>
+                </el-col>
+                <el-col :span="2" class="text-center">
+                    <span class="text-gray-500">-</span>
+                </el-col>
+                <el-col :span="6">
+                  <el-input v-model="additions[item-1].dist" placeholder="An Integer">
+                    <template #prefix>
+                      <span class="range">Distance</span>
+                    </template>
+                  </el-input>
+                </el-col>
+              </el-form-item>
+              <el-form-item class="demonstration" label="Query" v-else>
+                <el-input
+                  v-model="additions[item-1].q"
+                  placeholder="Please enter a search term"
+                  class="input-with-select"
+                >
+                  <template #prepend>
+                    <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" style="width: 95px">
+                      <el-option label="AND" value="1" />
+                      <el-option label="OR" value="2" />
+                      <el-option label="NOT" value="3" />
+                    </el-select>
+                    <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" style="width: 95px">
+                      <el-option label="Any" value="any"/>
+                      <el-option label="Title" value="title"/>
+                      <el-option label="Keywords" value="keywords"/>
+                      <el-option label="Genres" value="genres"/>
+                    </el-select>
+                  </template>
+                </el-input>
+              </el-form-item>
+            </div>
+
             <el-button class="AlterButton" @click="add" v-if="count<maxAdditionsNum">Add A New Request Line</el-button>
             <el-button class="AlterButton" @click="onDelete" v-if="count>0">Delete A Line</el-button>
             <el-form-item class="demonstration" label="Year Range">
@@ -171,8 +212,15 @@ export default defineComponent({
   setup(props){
     const router = useRouter()
 
-    var query = reactive({queryMsg:"", by:""})
-    var additions = reactive([{type:"1", by:"any",q:""}])
+    var query = reactive({
+      queryMsg:"", by:"", 
+      proximity:false, word1:"", word2:"", dist:""})
+
+    var additions = reactive([{
+      type:"1", by:"any",q:"",
+      proximity:false, word1:"", word2:"", dist:""
+    }])
+
     var form = reactive({color:[], 
       time:{from:"", to:""}})
     const proximity = ref(false)
