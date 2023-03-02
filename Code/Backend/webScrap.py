@@ -24,40 +24,66 @@ class webScraping:
         # self.releasedates = defaultdict(list)
         # self.countries = defaultdict(list) 
         # self.language = defaultdict(list)       
+        # self.colorinfo = defaultdict(list)
+        # self.soundmixes = defaultdict(list)
+        # self.directors = defaultdict(list)
 
         # TODO
         # self.type = defaultdict(list)
-        # self.colorinfo = defaultdict(list)
         # self.editors = defaultdict(list)
         # self.keywords = defaultdict(list)
-        # self.soundmixes = defaultdict(list)
-        # self.directors = defaultdict(list)
         # self.producers = defaultdict(list)
         # self.writers = defaultdict(list)
         # self.composers = defaultdict(list)
         # self.cast = defaultdict(list)
 
     def certainResponse(self, container, curr_class, curr_str):
-        temp = container.p.find(curr_class, class_ = curr_str)
-        res = None
-        if temp == None:
-            return res
-        else:
-            if curr_str == 'runtime':
+        if curr_str == 'runtime':
+            temp = container.p.find(curr_class, class_ = curr_str)
+            if temp == None:
+                return None
+            else:
                 return container.p.find(curr_class, class_ = curr_str).text.replace(' min','')
-            elif curr_str == 'certificate':
+        elif curr_str == 'certificate':
+            temp = container.p.find(curr_class, class_ = curr_str)
+            if temp == None:
+                return None
+            else:
                 return container.p.find(curr_class, class_ = curr_str).text
-            elif curr_str == 'genre':
-                raw_ = container.find('span', class_ = 'genre').text.replace('\n','')
+        elif curr_str == 'genre':
+            temp = container.p.find(curr_class, class_ = curr_str)
+            if temp == None:
+                return None
+            else:
+                raw_ = container.find(curr_class, class_ = curr_str).text.replace('\n','')
                 return re.sub(' +', '', raw_)
+        elif curr_str == 'color':
+            temp = container.find(curr_class, attrs = {'class':'ipc-metadata-list__item','data-testid':'title-techspec_color'})
+            if temp == None:
+                return None
+            else:
+                return temp.a.text
+        elif curr_str == 'soundmixes':
+            temp = container.find(curr_class, attrs = {'class':'ipc-metadata-list__item','data-testid':'title-techspec_soundmix'})
+            if temp == None:
+                return None
+            else:
+                return temp.a.text
+        elif curr_str == 'director':
+            temp = container.find(curr_class, attrs = {'class':'ipc-inline-list__item'})
+            if temp == None:
+                return None
+            else:
+                return temp.a.text
 
  
 
     def getResponse(self):
+
         response = requests.get(self.url)
         soup = BeautifulSoup(response.content, 'html.parser')
         data_div = soup.findAll('div', attrs={'class':'lister-item mode-advanced'})
-        # print(data_div[0].find_all('p', class_ = 'text-muted'))
+
         for container in data_div:
             curr_info = defaultdict(str)
             raw_id = container.h3.a['href']
@@ -75,13 +101,20 @@ class webScraping:
             curr_ = self.url_baseline + '/title/'+curr_id+'/'   
             req = requests.get(url= curr_, headers={'User-Agent': 'Mozilla/5.0'}).text
             curr_soup = BeautifulSoup(req,'html.parser')
-            data_div = curr_soup.find('div', attrs = {'data-testid':'title-details-section','class':'sc-f65f65be-0 fVkLRr'})
-            curr_info['releasedates'] = data_div.find('li', class_="ipc-inline-list__item").text
-            data_country = data_div.find('li', attrs = {'class':'ipc-metadata-list__item','data-testid':'title-details-origin'})
+            data_detail = curr_soup.find('div', attrs = {'data-testid':'title-details-section','class':'sc-f65f65be-0 fVkLRr'})
+            curr_info['releasedates'] = data_detail.find('li', class_="ipc-inline-list__item").text
+            data_country = data_detail.find('li', attrs = {'class':'ipc-metadata-list__item','data-testid':'title-details-origin'})
             curr_info['countries'] = data_country.a.text
-            data_language = data_div.find('li', attrs = {'class':'ipc-metadata-list__item','data-testid':'title-details-languages'})
+            data_language = data_detail.find('li', attrs = {'class':'ipc-metadata-list__item','data-testid':'title-details-languages'})
             curr_info['language'] = data_language.a.text
-            self.allInfo[curr_id] = curr_info
+
+            data_tech = curr_soup.find('div', attrs = {'data-testid':'title-techspecs-section','class':'sc-f65f65be-0 fVkLRr'})
+            curr_info['colorinfo'] = self.certainResponse(data_tech,'li','color')
+            curr_info['soundmixes'] = self.certainResponse(data_tech,'li','soundmixes')
+
+            data_credit = curr_soup.find('div', attrs = {'data-testid':'title-pc-expandable-panel'})
+            curr_info['directors'] = self.certainResponse(data_credit,'li','director')
+
 
             # rate = store.find('div', class_ = 'inline-block ratings-imdb-rating').text.replace('\n', '')    
             # meta  = store.find('span', class_ = 'metascore').text.replace(' ', '') if store.find('span', class_ = 'metascore') else '^^^^^^'
@@ -98,9 +131,10 @@ class webScraping:
             # cast = [cast[i].replace(j, "") for i,j in enumerate(["Director:", "Stars:"])]
             # Director.append(cast[0])
             # Stars.append([x.strip() for x in cast[1].split(",")])
-        
 
             print(curr_info)
+            self.allInfo[curr_id] = curr_info
+            
 
 
 
