@@ -85,6 +85,8 @@ class PreProcessing:
                 info['directors'][i] = [token.lower() for token in info['directors'][i]]
             for i in range(len(info['writers'])):
                 info['writers'][i] = [token.lower() for token in info['writers'][i]]
+            for i in range(len(info['producers'])):
+                info['producers'][i] = [token.lower() for token in info['producers'][i]]
             for i in range(len(info['composers'])):
                 info['composers'][i] = [token.lower() for token in info['composers'][i]]
             for i in range(len(info['actors'])):
@@ -103,6 +105,10 @@ class PreProcessing:
                     temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
                 info['plot'] = temp_list
             for token in (info['writers']):
+                token[0] = token[0].rstrip(",")
+            for token in (info['editors']):
+                token[0] = token[0].rstrip(",")
+            for token in (info['producers']):
                 token[0] = token[0].rstrip(",")
             for token in (info['composers']):
                 token[0] = token[0].rstrip(",")
