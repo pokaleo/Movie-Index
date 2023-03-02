@@ -59,9 +59,10 @@ class PreProcessing:
             for actor in self.__dataset[docid]['cast'].keys():
                 actors.append(actor)
                 roles.append(self.__dataset[docid]['cast'][actor])
-            for i in range(0,len(actors)):
+            for i in range(0, len(actors)):
                 actors[i] = actors[i].split()
-                roles[i] = roles[i].split()
+                if roles[i] is not None:
+                    roles[i] = roles[i].split()
             self.__dataset[docid]['actors'] = actors
             self.__dataset[docid]['roles'] = roles
 

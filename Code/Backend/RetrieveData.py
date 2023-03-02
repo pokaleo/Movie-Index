@@ -110,7 +110,7 @@ class MovieInfo:
                 movie_dict['cast'] = cast
                 self.__movies[root.find('docid').text] = movie_dict
             else:
-                raise Exception(os.path + " is not a file!")
+                raise Exception(file + " is not a file!")
 
     # Getter for the fed-in movie information
     def get_movie_info(self):
