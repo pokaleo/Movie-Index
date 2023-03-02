@@ -111,7 +111,7 @@ def searchQuery():
         res = query.by_keywords(queryMsg)
         print("By keywords",res)
     else:
-        res = query.by_title(queryMsg)
+        res = query.by_title(queryMsg, parsed_args['from'], parsed_args['to'])
         print("By general",res)
 
     #print(res)

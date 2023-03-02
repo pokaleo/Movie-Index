@@ -32,8 +32,31 @@
         <el-scrollbar max-height="300px">
           <!--form of additions information, includes categories, AND/NOT search, time filter and color filter-->
           <el-form :model="form" label-width="120px">
+            <el-form-item class="demonstration" label="Proximity Search">
+              <el-switch v-model="proximity"/>
+            </el-form-item>
+            <el-form-item class="demonstration" label="Proximity Query" v-if="proximity">
+              <el-col :span="2" class="text-center">
+                <span class="text-gray-500">First term</span>
+              </el-col>
+              <el-col :span="6">
+                <el-input v-model="value" placeholder="1st word"/>
+              </el-col>
+              <el-col :span="2" class="text-center">
+                <span class="text-gray-500">Second term</span>
+              </el-col>
+            <el-col :span="6">
+              <el-input v-model="value" placeholder="2nd word"/>
+            </el-col>
+            <el-col :span="2" class="text-center">
+                <span class="text-gray-500">Distance</span>
+            </el-col>
+            <el-col :span="6">
+              <el-input v-model="value" placeholder="distance"/>
+            </el-col>
+            </el-form-item>
             <!--Basic query with a search category default is "By General"-->
-            <el-form-item class="demonstration" label="Browse By">
+            <el-form-item class="demonstration" label="Browse By" v-if="!proximity">
               <el-input
                 v-model="query.queryMsg"
                 placeholder="Please enter a search term"
@@ -48,6 +71,7 @@
                   </el-select>
                 </template>
               </el-input>
+
             </el-form-item>
 
             <!--Additions and/not/or search-->
@@ -99,7 +123,7 @@
             </el-form-item>
             <el-form-item class="demonstration" label="Language">
               <el-select
-                v-model="value3"
+                v-model="lang"
                 multiple
                 collapse-tags
                 collapse-tags-tooltip
@@ -151,7 +175,8 @@ export default defineComponent({
     var additions = reactive([{type:"1", by:"any",q:""}])
     var form = reactive({color:[], 
       time:{from:"", to:""}})
-
+    const proximity = ref(false)
+    
     const maxAdditionsNum = ref(5)
 
     const filterTrigger = ref({
@@ -197,7 +222,7 @@ export default defineComponent({
       }
     }
 
-    const value3 = ref([])
+    const lang = ref([])
     const options = [
       {
         value: 'Option1',
@@ -242,8 +267,9 @@ export default defineComponent({
       form,
       onSubmit,
       maxAdditionsNum,
-      value3,
-      options
+      lang,
+      options,
+      proximity
     }
 
     

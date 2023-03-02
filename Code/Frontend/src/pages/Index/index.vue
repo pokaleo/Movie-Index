@@ -5,10 +5,18 @@
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
       <SearchBar :q=q :t=t :key=q />
     </div>
+    
     <div class="content">
       <div class="big-title" v-if="hasCorrected">
         Did you mean: <el-button @click="$event => goCorrectedPage(spellchecked)" text>{{ spellchecked }}</el-button>?
       </div>
+      <div class="big-title">
+        <p>Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
+      </div>
+      <el-radio-group v-model="sort_by">
+        <el-radio :label="1">By Relevance</el-radio>
+        <el-radio :label="2">By Time</el-radio>
+      </el-radio-group>
       <el-scrollbar>
         <div class="movie-list">
           <div class="movie-item" v-for="(item, index) in movieList[0]" :key="index" @click="goMovieDetailPage(item.id)">
@@ -32,6 +40,7 @@
 <script setup>
 import { reactive,watch,onMounted,getCurrentInstance, ref } from 'vue';
 import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
+import { ElNotification } from 'element-plus'
 import SearchBar from '../MovieDetail/SearchBar.vue';
 // import http from "@/util/http"
 const router = useRouter()
@@ -39,11 +48,17 @@ const route = useRoute()
 
 let movieList = reactive([])
 let spellchecked = ref('')
+let wallTime = ref('')
+let cpuTime = ref('')
+const relevence_ids = ref([])
+
 let hasCorrected = false
 let q = ref(route.query.q)
 let t = ref(route.query.t)
 console.log(route.query)
 //alert("loading!") //for debug
+
+const sort_by = ref(1)
 
 /**
  * go to movie detail page
@@ -94,6 +109,9 @@ const getData=async()=>{
       else
         hasCorrected = false
       movieList.push(list)
+      //movieList = list
+      wallTime.value = res.data.wallT
+      cpuTime.value = res.data.cpuT
       console.log(movieList[0])
       console.log(spellchecked)
      })
@@ -103,6 +121,25 @@ const getData=async()=>{
 };
 
 getData()
+
+const sort_results=()=>{
+  movieList[0].sort()
+}
+
+watch(sort_by, (new_data, old_data)=>{
+  if(new_data == 1){
+    ElNotification({
+      title: "Sort by Relevance",
+      message:h('i','The results will be sorted by relevance. Loading...')
+    })
+  }
+  else{
+    ElNotification({
+      title: "Sort by Time",
+      message:h('i','The results will be sorted by time. Loading...')
+    })
+  }
+})
 
 /*
 onMounted(() => {
