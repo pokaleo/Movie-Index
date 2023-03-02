@@ -9,6 +9,7 @@ types of queries
 import re
 import math
 from nltk.stem.snowball import SnowballStemmer
+import Util
 
 
 class Query:
@@ -85,25 +86,35 @@ class Query:
         # Detect if the search is specified to an attribute
         if attributes:
             if attributes == "title":
-                for doid, info in self.dataset.items():
+                for docid, info in self.dataset.items():
                     if word_to_be_queried in info['title']:
-                        result.append(doid)
+                        result.append(docid)
             if attributes == "keywords":
-                for doid, info in self.dataset.items():
+                for docid, info in self.dataset.items():
                     if word_to_be_queried in info['keywords']:
-                        result.append(doid)
+                        result.append(docid)
             if attributes == "genre":
-                for doid, info in self.dataset.items():
+                for docid, info in self.dataset.items():
                     if word_to_be_queried in info['genres']:
-                        result.append(doid)
+                        result.append(docid)
         # Use general research if no attribute input 
         else:
-            for doic, info in self.dataset.items():
-                for attribute in info.keys():
-                    # TODO:need to preprocess(stemming and remove stopwords) when searching in [plot]
-                    if word_to_be_queried in info[attribute]:
-                        result.append(doic)
-        return result
+            if word_to_be_queried in self.index_general:
+                for docid, position in self.index_general[word_to_be_queried][1].items():
+                    result.append(docid)
+            stemmed = Util.stem_data(word_to_be_queried)
+            punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
+            punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
+            if stemmed in self.index_general:
+                for docid, position in self.index_general[stemmed][1].items():
+                    result.append(docid)
+            if punctuationRemoved1 in self.index_general:
+                for docid, position in self.index_general[punctuationRemoved1][1].items():
+                    result.append(docid)
+            if punctuationRemoved2 in self.index_general:
+                for docid, position in self.index_general[punctuationRemoved2][1].items():
+                    result.append(docid)
+        return list(dict.fromkeys(result))
 
     # Method to perform single word search with docid and position
     def __position_search(self, word_to_be_queried):
@@ -139,15 +150,15 @@ class Query:
                     common_doic = list(dict1.keys() & dict2.keys())
                     if common_doic:
                         result = []
-                        for doid in common_doic:
-                            for position1 in dict1[doid]:
+                        for docid in common_doic:
+                            for position1 in dict1[docid]:
                                 if not position1.isdigit():
                                     continue
-                                for position2 in dict2[doid]:
+                                for position2 in dict2[docid]:
                                     if not position2.isdigit():
                                         continue
                                     if abs(int(position1) - int(position2)) < distance:
-                                        result.append(doid)
+                                        result.append(docid)
                         if result:
                             return list(dict.fromkeys(result))
                         else:

@@ -13,36 +13,17 @@ from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 
 
-def to_lowercase(terms):
-    result = []
-    for term in terms:
-        result.append(term.lower())
-    return result
+def to_lowercase(term):
+    return term.lower()
 
 
-def remove_punctuation(terms, plot=False):
-    result = []
+def remove_punctuation(term, plot=False):
     if plot:
-        for term in terms:
-            result.append(term.lstrip(punctuation).rstrip(punctuation))
+        return term.lstrip(punctuation).rstrip(punctuation)
     else:
-        for term in terms:
-            result.append(term.rstrip(","))
+        return term.rstrip(",")
     return result
 
 
-def stem_data(terms):
-    result = []
-    for term in terms:
-        result.append(SnowballStemmer(language='english').stem(term))
-    return result
-
-
-def remove_stopwords(terms):
-    nltk.download("stopwords")
-    stop_words = set(stopwords.words("english"))
-    result = []
-    for term in terms:
-        if term not in stop_words:
-            result.append(SnowballStemmer(language='english').stem(term))
-    return result
+def stem_data(term):
+    return SnowballStemmer(language='english').stem(term)
