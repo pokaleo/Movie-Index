@@ -129,7 +129,16 @@ def searchQuery():
                     new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
                 else:
                     new_res = search_method[q[0]](q[1]) 
-                res = set(res).intersection(new_res)
+                new_res = set(new_res)
+                res = [value for value in res if value in new_res]
+        if len(parsed_args['notQueries'])>0:
+            for q in parsed_args['notQueries']:
+                if q[0] != 'proximity':
+                    new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
+                else:
+                    new_res = search_method[q[0]](q[1]) 
+                new_res = set(new_res)
+                res = [value for value in res if value not in new_res]
         if len(parsed_args['orQueries'])>0:
             for q in parsed_args['orQueries']:
                 if q[0] != 'proximity':
@@ -137,13 +146,6 @@ def searchQuery():
                 else:
                     new_res = search_method[q[0]](q[1]) 
                 res = set(res).union(new_res)
-        if len(parsed_args['notQueries'])>0:
-            for q in parsed_args['notQueries']:
-                if q[0] != 'proximity':
-                    new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
-                else:
-                    new_res = search_method[q[0]](q[1]) 
-                res = set(res).difference(new_res)
     res = list(res)
     print(res)
     reslist = []
