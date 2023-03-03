@@ -32,6 +32,6 @@ def local_spellcheck(string):
             if new_word != None:
                 new_words.append(new_word)
         else:
-            new_word.append(word)
+            new_words.append(word)
     return " ".join(new_words)
 

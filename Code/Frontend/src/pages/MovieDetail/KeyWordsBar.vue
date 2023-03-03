@@ -8,7 +8,7 @@
           {{ keywords.length }} Total
           <el-divider class="sidebar-divider"/>
           <div class="sidebar-body">
-            <el-scrollbar height="450px">
+            <el-scrollbar height="450px" always>
             <el-space direction="vertical">
             <el-tag
                 class="tag"

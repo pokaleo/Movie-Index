@@ -42,26 +42,31 @@
                   <h2>Description</h2>
                   <p>{{info.plot}}</p>
                   <h2>Directors</h2>
-                  <el-space spacer='|'>
-                    <div v-for="(director, index) in info.directors" :key="index">
-                      <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ director }} 
-                    </div>
-                  </el-space>
+                  <el-scrollbar class="srollbar"  always>
+                    <el-space spacer='|'>
+                      <div v-for="(director, index) in info.directors" :key="index">
+                        <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ director }} 
+                      </div>
+                    </el-space>
+                  </el-scrollbar>
                   <h2>Writers</h2>
-                  <el-space spacer='|'>
-                    <div v-for="(writer, index) in info.writers" :key="index">
-                      <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ writer }}
-                    </div>
-                  </el-space>
+                  <el-scrollbar class="srollbar"  always>
+                    <el-space spacer='|'>
+                      <div v-for="(writer, index) in info.writers" :key="index">
+                        <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ writer }}
+                      </div>
+                    </el-space>
+                  </el-scrollbar>
                   <h2>Editors</h2>
+                  <el-scrollbar class="srollbar"  always>
                   <el-space spacer='|'>
                     <div v-for="(editor, index) in info.editors" :key="index">
                       <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ editor }}
                     </div>
                   </el-space>
-
+                </el-scrollbar>
                   <h2>Cast</h2>
-                      <el-scrollbar class="srollbar" v-if="hasCast">
+                      <el-scrollbar class="srollbar" v-if="hasCast"  always>
                           <div class="scrollbar-flex-content">
                           <el-card v-for="item in Object.keys(info.cast)" :key="item" class="card" shadow="hover">
                               <p>{{ item }}</p>
@@ -78,11 +83,13 @@
                     </div>
                   </el-space>
                   <h2>Composers</h2>
+                  <el-scrollbar class="srollbar" always>
                   <el-space spacer='|'>
                     <div v-for="(composer, index) in info.composers" :key="index">
                       <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ composer}}
                     </div>
                   </el-space>
+                  </el-scrollbar>
                   <h2>Certificates</h2>
                   <div v-for="item in info.certificates" :key="item">
                       <p>{{item[0]}}: {{ item[1]}}</p>
@@ -231,7 +238,7 @@ proxy.$http
   margin-right: 5%;
 }
 .srollbar{
-  height: 200px;
+  height: auto;
 }
 .scrollbar-flex-content {
 display: flex;

@@ -29,7 +29,7 @@
             <span>Search Filters</span>
           </div>
         </template>
-        <el-scrollbar always="true">
+        <el-scrollbar always>
           <!--form of additions information, includes categories, AND/NOT search, time filter and color filter-->
           <el-form :model="form" label-width="120px">
             <!--Basic query with a search category default is "By General"-->

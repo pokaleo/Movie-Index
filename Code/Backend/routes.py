@@ -11,8 +11,7 @@ import Query
 import Spellcheck
 import JSONParser
 
-movies = RetrieveData.MovieInfo("../TestDataset")
-#../Dataset/IMDB Movie Info
+movies = RetrieveData.MovieInfo("../Dataset/IMDB Movie Info")
 movies.read_files()
 moviedict = movies.get_movie_info()
 processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
@@ -147,6 +146,7 @@ def searchQuery():
     res = list(res)
     print(res)
     reslist = []
+    id_res=[]
     #final_ses = []
     for id in res:
         if parsed_args['color'] == 'bw':
@@ -156,19 +156,20 @@ def searchQuery():
             if 'Color' not in moviedict[id]['colorinfos']:
                 continue
         reslist.append(formatRes(id))
+        id_res.append(id)
 
     ed = time.time()
     ed_cpu = time.process_time()
 
     response = {
         'results': reslist,
-        'ids': res,
+        'ids': id_res,
         'wallT': round((ed-st)*1000, 6),
         'cpuT': round((ed_cpu-st_cpu)*1000, 6),
     }
     
     #print('data: ', data)
-    print()
+    #print()
     #return jsonify({})
     return jsonify(response)
 
@@ -180,7 +181,8 @@ def spell():
     data = request.args
     msg = data.get('input')
     try:
-        corrected=Spellcheck.spellcheck(msg)
+        #corrected=Spellcheck.spellcheck(msg)
+        corrected=Spellcheck.local_spellcheck(msg)
     except:
         corrected=Spellcheck.local_spellcheck(msg)
 

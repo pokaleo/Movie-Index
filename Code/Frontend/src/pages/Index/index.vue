@@ -18,15 +18,21 @@
       <div class="big-title">
         <p>Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
       </div>
+      <div class="big-title">
+        <p> <i> {{ movieList.rel.length }} </i> results are found.</p>
+      </div>
       <el-radio-group v-model="sort_by">
         <el-radio :label="1">By Relevance</el-radio>
-        <el-radio :label="2">By Time</el-radio>
+        <el-radio :label="2">By Time (New to Old)</el-radio>
+        <el-radio :label="3">By Time (Old to New)</el-radio>
+        <el-radio :label="4">By Alphabet(A to Z)</el-radio>
+        <el-radio :label="5">By Alphabet(Z to A)</el-radio>
       </el-radio-group>
-      <el-scrollbar>
+      <!--el-scrollbar-->
         <div class="movie-list">
           <div class="movie-item" v-for="(item, index) in movieList.value" :key="index" @click="goMovieDetailPage(item.id)">
             <div class="movie-name">{{ item.movieName }}</div>
-            <div class="movie-description">{{ item.description }}</div>
+            <div class="movie-description">{{ sliceStr(item.description, 500) }}</div>
             <div class="movie-info">
               <span>Director:{{ item.director }} • </span>
               <span>Year: {{ item.year }} • </span>
@@ -35,7 +41,16 @@
             </div>
           </div>
         </div>
-      </el-scrollbar>
+      <!--/el-scrollbar-->
+      <el-pagination
+        @current-change ="handleCurrentChange"
+        :page-size="state.pageSize"
+        :pager-count="11"
+        :current-page = "state.currentPage"
+        layout="prev, pager, next,jumper"
+        :total="state.total"
+        :hide-on-single-page="true"
+      />
     </div>
   
 
@@ -43,7 +58,7 @@
 </template>
 
 <script setup>
-import { reactive,watch,onMounted,getCurrentInstance, ref, h } from 'vue';
+import { reactive,watch,getCurrentInstance, ref, h,computed} from 'vue';
 import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
 import { ElNotification } from 'element-plus'
 import SearchBar from '../MovieDetail/SearchBar.vue';
@@ -51,7 +66,7 @@ import SearchBar from '../MovieDetail/SearchBar.vue';
 const router = useRouter()
 const route = useRoute()
 
-let movieList = reactive({value: [],time:[], rel:[]})
+let movieList = reactive({value:[],show:[], rel:[]})
 let spellchecked = reactive({value:[]})
 let wallTime = ref('')
 let cpuTime = ref('')
@@ -62,6 +77,11 @@ let q = ref(route.query.q)
 let t = ref(route.query.t)
 console.log(route.query)
 //alert("loading!") //for debug
+const state = reactive({
+  currentPage:1,
+  total:1000,
+  pageSize:25
+})
 
 const sort_by = ref(1)
 
@@ -109,12 +129,19 @@ const getData=async()=>{
     })
      .then(function(res){
       console.log(res)
-      movieList.value = JSON.parse(JSON.stringify(res.data.results))
-      //movieList.push(list)
-      //movieList = list
+      movieList.rel = JSON.parse(JSON.stringify(res.data.results))
+      state.total = movieList.rel.length
+      if(movieList.rel.length > state.pageSize){
+        movieList.value = movieList.rel.slice(0,25)
+      }
+      else{
+        movieList.value = movieList.rel.slice()
+      }
       wallTime.value = res.data.wallT
       cpuTime.value = res.data.cpuT
-      console.log(movieList[0])
+
+      movieList.show = movieList.rel.slice()
+      //console.log(movieList[0])
       //console.log(spellchecked)
      })
      .catch(function(error) {
@@ -122,8 +149,9 @@ const getData=async()=>{
       //console.log(additions);
     })
 };
-
+console.time("getData");
 getData()
+console.timeLog("getData");
 
 const getSpellCheck=async()=>{
   await proxy.$http
@@ -144,32 +172,61 @@ const getSpellCheck=async()=>{
   })
 }
 
+console.time("getSpellCheck");
+
 if(route.query.pro == 'false')
   getSpellCheck()
 
-
-const sort_results=()=>{
-  movieList.value.sort((a, b)=>b.year-a.year)
-}
+console.timeLog("getSpellCheck");
 
 watch(sort_by, (new_data, old_data)=>{
-  if(movieList.rel.length == 0)
-      movieList.rel = movieList.value.slice()
   if(new_data == 1){
     ElNotification({
       title: "Sort by Relevance",
       message:h('i','The results will be sorted by relevance. Loading...')
     })
-    movieList.value = movieList.rel
+    movieList.show = movieList.rel.slice()
+    movieList.value = movieList.show.slice((state.currentPage-1)*state.pageSize,state.currentPage*state.pageSize)
   }
-  else{
+  else if(new_data == 2){
     ElNotification({
-      title: "Sort by Time",
+      title: "Sort by Time(New to Old)",
       message:h('i','The results will be sorted by time. Loading...')
     })
-    if(movieList.time.length == 0)
-      movieList.time = movieList.value.slice().sort((a, b)=>b.year-a.year)
-    movieList.value = movieList.time
+    movieList.show.sort((a, b)=>b.year-a.year)
+    movieList.value = movieList.show.slice((state.currentPage-1)*state.pageSize,state.currentPage*state.pageSize)
+  }else if(new_data == 3){
+    ElNotification({
+      title: "Sort by Time(Old to New)",
+      message:h('i','The results will be sorted by time. Loading...')
+    })
+    movieList.show.sort((a, b)=>a.year-b.year)
+    movieList.value = movieList.show.slice((state.currentPage-1)*state.pageSize,state.currentPage*state.pageSize)
+  }else if(new_data == 4){
+    ElNotification({
+      title: "Sort by Title",
+      message:h('i','The results will be sorted by title(A to Z). Loading...')
+    })
+    movieList.show.sort((a, b)=>a.movieName.localeCompare(b.movieName))
+    movieList.value = movieList.show.slice((state.currentPage-1)*state.pageSize,state.currentPage*state.pageSize)
+  }else{
+    ElNotification({
+      title: "Sort by Title",
+      message:h('i','The results will be sorted by title(Z to A). Loading...')
+    })
+    movieList.show.sort((a, b)=>b.movieName.localeCompare(a.movieName))
+    movieList.value = movieList.show.slice((state.currentPage-1)*state.pageSize,state.currentPage*state.pageSize)
+  }
+})
+
+const handleCurrentChange=(val)=>{
+  state.currentPage = val
+  movieList.value = movieList.show.slice((val-1)*state.pageSize,val*state.pageSize)
+}
+
+const sliceStr= computed(()=>{
+  return function (val,len){
+    return val.length>len?val.slice(0,len)+"...":val
   }
 })
 
@@ -217,7 +274,6 @@ onMounted(() => {
   }
 
   .movie-list {
-    height: 400px;
     overflow-y: auto;
 
     .movie-item {
