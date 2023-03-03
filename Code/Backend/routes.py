@@ -3,6 +3,7 @@ from flask import jsonify
 from flask import request
 from flask_cors import CORS
 import time
+import re
 
 import json
 import RetrieveData
@@ -11,8 +12,8 @@ import Query
 import Spellcheck
 import JSONParser
 import Util
-
-movies = RetrieveData.MovieInfo("../Dataset/IMDB Movie Info")
+# ../TestDataset  ../Dataset/IMDB Movie Info
+movies = RetrieveData.MovieInfo("../TestDataset")
 movies.read_files()
 moviedict = movies.get_movie_info()
 processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
@@ -104,7 +105,15 @@ def searchQuery():
         'any': query.by_general
         }
 
+    def queryExpand(queryMsg):
+        temp = re.sub('[^a-z0-9]',' ',queryMsg).strip()
+        tokens = temp.split()
+        new_tokens = [Util.stem_data(token) for token in tokens]
+        queryMsg = queryMsg +" "+ " ".join(new_tokens)
+        return queryMsg
+
     if parsed_args['by'] == 'title':
+        queryMsg = queryExpand(queryMsg)
         res = search_method[parsed_args['by']](queryMsg, parsed_args['from'], parsed_args['to'])  
         print("By title",res)
     elif parsed_args['by'] == 'keywords':
