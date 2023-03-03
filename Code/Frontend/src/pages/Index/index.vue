@@ -7,8 +7,13 @@
     </div>
     
     <div class="content">
-      <div class="big-title" v-if="hasCorrected">
-        Did you mean: <el-button @click="$event => goCorrectedPage(spellchecked)" text>{{ spellchecked }}</el-button>?
+      <div class="big-title" v-if="spellchecked.value.length>0">
+        Do you mean: 
+        <el-space spacer="or ">
+          <el-button v-for="(text, index) in spellchecked.value" :key="index" @click="$event => goCorrectedPage(text)" text>
+            {{ text }}
+          </el-button>
+        </el-space>?
       </div>
       <div class="big-title">
         <p>Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
@@ -42,18 +47,17 @@ import { reactive,watch,onMounted,getCurrentInstance, ref, h } from 'vue';
 import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
 import { ElNotification } from 'element-plus'
 import SearchBar from '../MovieDetail/SearchBar.vue';
-import { words } from 'lodash';
 // import http from "@/util/http"
 const router = useRouter()
 const route = useRoute()
 
 let movieList = reactive({value: [],time:[], rel:[]})
-let spellchecked = ref('')
+let spellchecked = reactive({value:[]})
 let wallTime = ref('')
 let cpuTime = ref('')
 const relevence_ids = ref([])
 
-let hasCorrected = false
+let hasCorrected = ref(true)
 let q = ref(route.query.q)
 let t = ref(route.query.t)
 console.log(route.query)
@@ -82,8 +86,10 @@ const goCorrectedPage = (newquery) => {
     to:route.query.to, 
     c:route.query.c,
     more: route.query.more,
+    pro: route.query.pro
   }})
 }
+
 //alert("New Search: "+route.query.q+route.query.t)
 let { proxy } = getCurrentInstance();
 const getData=async()=>{
@@ -104,25 +110,43 @@ const getData=async()=>{
      .then(function(res){
       console.log(res)
       movieList.value = JSON.parse(JSON.stringify(res.data.results))
-      spellchecked = res.data.corrected
-      if(spellchecked != '' && spellchecked != route.query.q)
-        hasCorrected = true
-      else
-        hasCorrected = false
       //movieList.push(list)
       //movieList = list
       wallTime.value = res.data.wallT
       cpuTime.value = res.data.cpuT
       console.log(movieList[0])
-      console.log(spellchecked)
+      //console.log(spellchecked)
      })
      .catch(function(error) {
       console.log(error);
-      console.log(additions);
+      //console.log(additions);
     })
 };
 
 getData()
+
+const getSpellCheck=async()=>{
+  await proxy.$http
+  .get('/api/spellcheck',
+  {params:{input: route.query.q}}
+  ).then(function(res){
+    console.log("Spellcheck!")
+    console.log(res)
+    if(res.data.corrected != "")
+      spellchecked.value.push(res.data.corrected)
+    if(res.data.trans != "" && res.data.trans != res.data.corrected)
+      spellchecked.value.push(res.data.trans)
+    if(spellchecked.length == 0)
+      hasCorrected.value = false
+    console.log(spellchecked)
+  }).catch(function(error){
+    console.log(error)
+  })
+}
+
+if(route.query.pro == 'false')
+  getSpellCheck()
+
 
 const sort_results=()=>{
   movieList.value.sort((a, b)=>b.year-a.year)

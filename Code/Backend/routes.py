@@ -75,18 +75,9 @@ def searchQuery():
     '''
     parsed_args = JSONParser.dataParse(data, request.method)
     print(parsed_args)
-    '''
-    #query translate and spell check
-    '''
-    corrected = ''
+
     #print(type(queryMsg))
-    print(parsed_args['need_check'])
-    if parsed_args['need_check']:
-        corrected=Spellcheck.spellcheck(parsed_args['queryMsg'])
-        if corrected == parsed_args['queryMsg']:
-            corrected = ""
-        print(parsed_args['need_check'])
-    queryMsg=Spellcheck.trans_api(parsed_args['queryMsg'])
+    queryMsg=parsed_args['queryMsg']
     #function to wrap up
     
     def formatRes(id):
@@ -135,9 +126,7 @@ def searchQuery():
             for q in parsed_args['andQueries']:
                 print(q)
                 if q[0] != 'proximity':
-                    print(q[1])
                     new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
-                    print(new_res)
                 else:
                     new_res = search_method[q[0]](q[1]) 
                 res = set(res).intersection(new_res)
@@ -174,7 +163,6 @@ def searchQuery():
     response = {
         'results': reslist,
         'ids': res,
-        'corrected': corrected,
         'wallT': round((ed-st)*1000, 6),
         'cpuT': round((ed_cpu-st_cpu)*1000, 6),
     }
@@ -184,5 +172,33 @@ def searchQuery():
     #return jsonify({})
     return jsonify(response)
 
+@app.route('/spellcheck', methods=['GET','POST'])
+def spell():
+    '''
+    #query translate and spell check
+    '''
+    data = request.args
+    msg = data.get('input')
+    try:
+        corrected=Spellcheck.spellcheck(msg)
+    except:
+        corrected=msg
 
-app.run(debug=True,host='0.0.0.0',port=8800)
+    try:
+        trans = Spellcheck.trans_api(corrected)
+    finally:
+        if corrected == msg:
+            corrected = ""
+        if trans == msg:
+            trans = ""
+        response = {
+            'corrected': corrected,
+            'trans': trans
+        }
+        print(response)
+        return jsonify(response)
+
+    
+
+if __name__ == '__main__':
+    app.run(debug=True,host='0.0.0.0',port=8800)
