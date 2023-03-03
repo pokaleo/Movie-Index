@@ -23,7 +23,7 @@ class Query:
         self.number_of_docs = len(self.dataset.keys())
 
     # Naive implementation of search by title without ranking
-    def by_title(self, keywords, year1=None, year2=None):
+    def by_title(self, keywords, year1=None, year2=None, not_ranking=False):
         result = []
         if keywords:
             keywords = keywords.split()
@@ -40,10 +40,12 @@ class Query:
             result = self.__filter_year(year1, 1, result)
         if year2:
             result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
         return self.bm25_ranking(keywords, result)
 
     # Naive implementation of search by keywords without ranking
-    def by_keywords(self, keywords, year1=None, year2=None):
+    def by_keywords(self, keywords, year1=None, year2=None, not_ranking=False):
         result = []
         if keywords:
             keywords = keywords.split()
@@ -60,10 +62,12 @@ class Query:
             result = self.__filter_year(year1, 1, result)
         if year2:
             result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
         return self.bm25_ranking(keywords, result)
 
     # Naive implementation of search by genre without ranking
-    def by_genres(self, keywords, year1=None, year2=None):
+    def by_genres(self, keywords, year1=None, year2=None, not_ranking=False):
         result = []
         if keywords:
             keywords = keywords.split()
@@ -80,11 +84,13 @@ class Query:
             result = self.__filter_year(year1, 1, result)
         if year2:
             result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
         return self.bm25_ranking(keywords, result)
 
         # Naive implementation of search for general without ranking
 
-    def by_general(self, keywords, year1=None, year2=None):
+    def by_general(self, keywords, year1=None, year2=None, not_ranking=False):
         result = []
         if keywords:
             keywords = keywords.split()
@@ -101,6 +107,8 @@ class Query:
             result = self.__filter_year(year1, 1, result)
         if year2:
             result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
         return self.bm25_ranking(keywords, result)
 
     # Method to filter the result by year
@@ -280,7 +288,7 @@ class Query:
         w_td = float(w_td)
         return w_td
 
-    def bm25_ranking(self, keywords, docid_list):
+    def bm25_ranking(self, keywords, docid_list, returnScore=False):
         term_list = keywords
         bm25score_list = []
         for docid in docid_list:
@@ -289,6 +297,8 @@ class Query:
                 sum_of_bm25 += self.bm25(Util.to_lowercase(term), docid)
                 sum_of_bm25 += self.bm25(Util.stem_data(term), docid)
             bm25score_list.append(sum_of_bm25)
+        if returnScore:
+            return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)], bm25score_list
         return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
 
     def alphabet_ranking(self, docid_list):
