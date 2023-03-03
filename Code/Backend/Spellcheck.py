@@ -1,6 +1,15 @@
 import translators as ts
 from serpapi import GoogleSearch
 from spellchecker import SpellChecker
+import deepl 
+
+def deepl_trans(text):
+    translator = deepl.Translator('f82be482-1b15-f491-da0e-c64e081bd201:fx') 
+    translated_texts = set([])
+    results = translator.translate_text(text, target_lang='EN-GB') 
+    for result in results:
+        translated_texts.add(result.text)
+    return list(translated_texts)
 
 
 def trans_api(string):
@@ -21,17 +30,27 @@ def spellcheck(string):
     return string
 
 def local_spellcheck(string):
+    '''
+    return a list of string
+    '''
     spell = SpellChecker(distance=2)
+    es = SpellChecker(language='es')
+    fr = SpellChecker(language='fr')
+    pt = SpellChecker(language='pt')
+    de = SpellChecker(language='de')
+    ru = SpellChecker(language='ru')
+
     words = string.split()
-    misspelled = spell.unknown(words)
     new_words = []
-
-    for word in words:
-        if word in misspelled:
-            new_word=spell.correction(word)
-            if new_word != None:
-                new_words.append(new_word)
-        else:
-            new_words.append(word)
-    return " ".join(new_words)
-
+    res = []
+    for checker in [spell, es, fr, pt, de, ru]:
+        misspelled = checker.unknown(words)
+        for word in words:
+            if word in misspelled:
+                new_word=checker.correction(word)
+                if new_word != None:
+                    new_words.append(new_word)
+            else:
+                new_words.append(word)
+        res.append(" ".join(new_words))
+    return res

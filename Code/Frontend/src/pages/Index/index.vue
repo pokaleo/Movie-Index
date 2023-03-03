@@ -160,12 +160,7 @@ const getSpellCheck=async()=>{
   ).then(function(res){
     console.log("Spellcheck!")
     console.log(res)
-    if(res.data.corrected != "")
-      spellchecked.value.push(res.data.corrected)
-    if(res.data.trans != "" && res.data.trans != res.data.corrected)
-      spellchecked.value.push(res.data.trans)
-    if(spellchecked.length == 0)
-      hasCorrected.value = false
+    spellchecked.value = JSON.parse(JSON.stringify(res.data.corrected))
     console.log(spellchecked)
   }).catch(function(error){
     console.log(error)

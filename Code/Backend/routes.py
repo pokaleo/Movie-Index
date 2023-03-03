@@ -10,6 +10,7 @@ import DataPreprocessing
 import Query
 import Spellcheck
 import JSONParser
+import Util
 
 movies = RetrieveData.MovieInfo("../Dataset/IMDB Movie Info")
 movies.read_files()
@@ -180,27 +181,39 @@ def spell():
     '''
     data = request.args
     msg = data.get('input')
+    corrected = []
     try:
-        #corrected=Spellcheck.spellcheck(msg)
-        corrected=Spellcheck.local_spellcheck(msg)
+        correct=Spellcheck.spellcheck(msg)
+        if isinstance(correct,str):
+            corrected.append(correct)
+        print("try",corrected)
     except:
         corrected=Spellcheck.local_spellcheck(msg)
+        print("except",corrected)
+    print(corrected)
+    sentences = corrected
+    sentences.append(msg)
+    print("test1",sentences)
+    sentences = set(sentences)
+    print("test2",sentences)
+    translist = []
 
     try:
-        trans = Spellcheck.trans_api(corrected)
-    finally:
-        if corrected == msg:
-            corrected = ""
-        if trans == msg:
-            trans = ""
-        response = {
-            'corrected': corrected,
-            'trans': trans
-        }
-        print(response)
-        return jsonify(response)
+        translist = Spellcheck.deepl_trans(list(sentences))
+    except:
+        for sen in sentences:
+            trans = Spellcheck.trans_api(sen)
+            if isinstance(trans, str):
+                translist.append(trans)
 
-    
+    translist = set(translist)
+    final_res= translist.union(sentences)    
+    final_res.remove(msg)
+    response = {
+        'corrected': list(final_res),
+    }
+    print(response)
+    return jsonify(response)
 
 if __name__ == '__main__':
     app.run(debug=True,host='0.0.0.0',port=8800)
