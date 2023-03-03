@@ -232,6 +232,8 @@ const sliceStr= computed(()=>{
 
 const arrEtc= computed(()=>{
   return function (arr,len){
+    if(arr.length == 0)
+      return "Unknown"
     return arr.length>len?arr[0]+"; "+arr[1]+" etc.":arr.join("; ")
   }
 })
