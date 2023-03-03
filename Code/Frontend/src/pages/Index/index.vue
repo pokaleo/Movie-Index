@@ -34,9 +34,9 @@
             <div class="movie-name">{{ item.movieName }}</div>
             <div class="movie-description">{{ sliceStr(item.description, 500) }}</div>
             <div class="movie-info">
-              <span>Director:{{ item.director }} • </span>
+              <span>Director: {{ arrEtc(item.director,2) }}• </span>
               <span>Year: {{ item.year }} • </span>
-              <span>Country:{{ item.country }} • </span>
+              <span>Country: {{ arrEtc(item.country,2) }} </span>
               <!--span>Runtime:{{ item.runtime }}</span-->
             </div>
           </div>
@@ -227,6 +227,12 @@ const handleCurrentChange=(val)=>{
 const sliceStr= computed(()=>{
   return function (val,len){
     return val.length>len?val.slice(0,len)+"...":val
+  }
+})
+
+const arrEtc= computed(()=>{
+  return function (arr,len){
+    return arr.length>len?arr[0]+"; "+arr[1]+" etc.":arr.join("; ")
   }
 })
 
