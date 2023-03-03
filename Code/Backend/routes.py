@@ -182,7 +182,7 @@ def spell():
     try:
         corrected=Spellcheck.spellcheck(msg)
     except:
-        corrected=msg
+        corrected=Spellcheck.local_spellcheck(msg)
 
     try:
         trans = Spellcheck.trans_api(corrected)
