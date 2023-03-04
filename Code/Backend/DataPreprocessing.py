@@ -15,7 +15,7 @@ from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 from string import punctuation
 
-from Code.Backend import Util
+import Util
 
 # ==============================================================================
 
