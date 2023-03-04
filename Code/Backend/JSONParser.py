@@ -10,9 +10,7 @@ def dataParse(data, method):
             'from':0, # int or None
             'to':9999, # int or None
             'additionQ':True, # a boolean value to check whether it is advanced search or not
-            'andQueries':[],# list of tuples (by, query), i.e. (title, "Vincent")
-            'orQueries':[], # list of tuples (by, query), i.e. (title, "Vincent")
-            'notQueries':[] # list of tuples (by, query), i.e. (title, "Vincent")
+            'moreQueries':[] # list of tuples (bool_type,by, query), i.e. ('and','title', "Vincent") bool_type in ['and','or','not']
             }
     if data.get('pro') == 'true':
         res['by'] = 'proximity'
@@ -49,6 +47,7 @@ def dataParse(data, method):
                 res['color'] = 'color'
 
         print("colorlist", colorlist)
+
         otherQueries = data.get('additions')
         #print(otherQueries[0])
         if otherQueries == None or len(otherQueries) == 0 or otherQueries == '[]':
@@ -63,14 +62,13 @@ def dataParse(data, method):
                 q = item.split(",")
                 bool_type = q[0]
                 category = q[1] # title, genres, proximity...
-
                 bool_name =''
                 if bool_type == '1':
-                    bool_name = 'andQueries'
+                    bool_name = 'and'
                 elif bool_type == '2':
-                    bool_name='orQueries'
+                    bool_name='or'
                 else:
-                    bool_name='notQueries'
+                    bool_name='not'
                 msg = ''
                 if category == 'proximity':
                     word1 = q[2]
@@ -79,5 +77,5 @@ def dataParse(data, method):
                     msg = '#'+d+' '+word1+' '+word2
                 else:
                     msg = q[-1]
-                res[bool_name].append((category,msg))
+                res['moreQueries'].append((bool_name,category,msg))
     return res

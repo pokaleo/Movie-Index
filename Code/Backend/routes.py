@@ -112,9 +112,7 @@ def searchQuery():
             'from':0, # int or None
             'to':9999, # int or None
             'additionQ':True, # a boolean value to check whether it is advanced search or not
-            'andQueries':[],# list of tuples (by, query), i.e. (title, "Vincent")
-            'orQueries':[], # list of tuples (by, query), i.e. (title, "Vincent")
-            'notQueries':[] # list of tuples (by, query), i.e. (title, "Vincent")
+            'moreQueries':[] # list of tuples (bool_type,by, query), i.e. ('and','title', "Vincent") bool_type in ['and','or','not']
         }
     '''
     parsed_args = JSONParser.dataParse(data, request.method)
@@ -157,7 +155,7 @@ def searchQuery():
 
     if parsed_args['by'] == 'title':
         queryMsg = queryExpand(queryMsg)
-        res = search_method[parsed_args['by']](queryMsg, parsed_args['from'], parsed_args['to'])  
+        res = query.by_title(queryMsg, parsed_args['from'], parsed_args['to'])  
         print("By title",res)
     elif parsed_args['by'] == 'keywords':
         res = query.by_keywords(queryMsg, parsed_args['from'], parsed_args['to'])
