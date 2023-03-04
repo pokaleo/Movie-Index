@@ -15,6 +15,8 @@ from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 from string import punctuation
 
+from Code.Backend import Util
+
 # ==============================================================================
 
 """
@@ -144,6 +146,7 @@ class PreProcessing:
         for docid, info in self.__dataset.items():
             for i in range(len(info["title"])):
                 token = info["title"][i]
+                stemmed_token = Util.stem_data(token)
                 if token not in self.__index:
                     self.__index[token] = [1, {docid: [str(i)]}]
                 else:
@@ -160,6 +163,22 @@ class PreProcessing:
                     else:
                         self.__index_title[token][1][docid] = [str(i)]
                         self.__index_title[token][0] += 1
+                if stemmed_token not in self.__index:
+                    self.__index[stemmed_token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index[stemmed_token][1]:
+                        self.__index[stemmed_token][1][docid].append(str(i))
+                    else:
+                        self.__index[stemmed_token][1][docid] = [str(i)]
+                        self.__index[stemmed_token][0] += 1
+                if stemmed_token not in self.__index_title:
+                    self.__index_title[stemmed_token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index_title[stemmed_token][1]:
+                        self.__index_title[stemmed_token][1][docid].append(str(i))
+                    else:
+                        self.__index_title[stemmed_token][1][docid] = [str(i)]
+                        self.__index_title[stemmed_token][0] += 1
             token = info["year"]
             if token not in self.__index:
                 self.__index[token] = [1, {docid: ["year"]}]
