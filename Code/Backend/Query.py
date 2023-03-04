@@ -246,13 +246,13 @@ class Query:
                         return self.by_genres(keywords, year1, year2, not_ranking)
                 keywords = keywords.split()
                 keywords[0] = keywords[0][1:]
-                keywords[len(keywords)-1] = keywords[len(keywords)-1][:-1]
+                keywords[len(keywords) - 1] = keywords[len(keywords) - 1][:-1]
             for i in range(1, len(keywords)):
                 if i == 1:
-                    result += self.proximity_search(keywords[i-1].lower(), keywords[i].lower(), 1, True, attribute)
+                    result += self.proximity_search(keywords[i - 1].lower(), keywords[i].lower(), 1, True, attribute)
                 else:
                     result = list(set(result) &
-                                  set(self.proximity_search(keywords[i-1].lower(),
+                                  set(self.proximity_search(keywords[i - 1].lower(),
                                                             keywords[i].lower(), 1, True, attribute)))
             result = list(dict.fromkeys(result))
         else:
@@ -304,11 +304,22 @@ class Query:
     def __term_frequency(self, word_to_be_queried, docid):
         # TODO information in cast missing
         appearance_in_cast = 0
+        appearance_in_title = 0
+        appearance_in_spot = 0
+        appearance_in_keywords = 0
         if docid in self.__index_general[word_to_be_queried][1]:
             for position in self.__index_general[word_to_be_queried][1][docid]:
-                if position.isnumeric() and int(position) > 1000000:
-                    appearance_in_cast += 1
-            return len(self.__index_general[word_to_be_queried][1][docid])-appearance_in_cast*0.5
+                if position.isnumeric():
+                    if int(position) < 100:
+                        appearance_in_title += 1
+                    elif int(position) > 1000000:
+                        appearance_in_cast += 1
+                    elif int(position) > 500:
+                        appearance_in_spot += 1
+                elif position == "keyword":
+                    appearance_in_keywords += 1
+            return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast*0.55 +
+                    appearance_in_title*2.3 + appearance_in_spot*1.8 + appearance_in_keywords*2.3)
         else:
             return 0.1
 

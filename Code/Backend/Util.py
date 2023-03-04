@@ -30,7 +30,7 @@ def stem_data(term):
 
 
 def is_phrase_search(query):
-    if query.startswith("\"") and query.endswith("\""):
+    if query.startswith("\"") and query.endswith("\"") and len(query.split())>1:
         return True
     else:
         return False
