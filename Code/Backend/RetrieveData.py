@@ -30,7 +30,15 @@ class MovieInfo:
             raise Exception("The given dir for the dataset is empty!")
         self.__movies = {}
 
-    # Read in all files from the given path
+    """
+    Read in all files from the given path
+
+    Args:
+        n/a
+
+    Returns:
+        n/a
+    """
     def read_files(self):
         for filename in os.listdir(self.file_path):
             file = os.path.join(self.file_path, filename)
@@ -83,7 +91,6 @@ class MovieInfo:
                 movie_dict['releasedates'] = releasedates
                 runningtimes = []
                 for runningtime in root.iter('runningtime'):
-                    # TODO fix runningtime
                     runningtimes.append([runningtime.attrib["country"], runningtime.text])
                 movie_dict['runningtimes'] = runningtimes
                 directors = []
@@ -116,7 +123,15 @@ class MovieInfo:
             else:
                 raise Exception(file + " is not a file!")
 
-    # Getter for the fed-in movie information
+    """
+    Getters for the fed-in dataset information
+
+    Args:
+        n/a
+
+    Returns:
+        Dict -> Info retrieved from the dataset
+    """
     def get_movie_info(self):
         if self.__movies:
             return self.__movies

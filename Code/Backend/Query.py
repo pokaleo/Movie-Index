@@ -44,7 +44,21 @@ class Query:
         self.__number_of_docs = state["number_of_docs"]
         self.stop_words = state["stop_words"]
 
-    # Naive implementation of search by title without ranking
+    """
+    Search by title
+
+    Args:
+        keywords: String -> query contents
+        year1: Integer -> year filter - published later than...
+        year2: Integer -> year filter - published earlier than...
+        not_ranking: Bool -> switch for applying BM25 ranking
+        
+    Raises:
+        Exception: If keywords is empty
+
+    Returns:
+        List -> A list of relevant docids
+    """
     def by_title(self, keywords, year1=None, year2=None, not_ranking=False):
         result = []
         if keywords:
@@ -66,7 +80,21 @@ class Query:
             return result
         return self.bm25_ranking(keywords, result)
 
-    # Naive implementation of search by keywords without ranking
+    """
+    Search by keywords
+
+    Args:
+        keywords: String -> query contents
+        year1: Integer -> year filter - published later than...
+        year2: Integer -> year filter - published earlier than...
+        not_ranking: Bool -> switch for applying BM25 ranking
+
+    Returns:
+        List -> A list of relevant docids
+        
+    Raises:
+        Exception: If keywords is empty
+    """
     def by_keywords(self, keywords, year1=None, year2=None, not_ranking=False):
         result = []
         if keywords:
@@ -88,7 +116,21 @@ class Query:
             return result
         return self.bm25_ranking(keywords, result)
 
-    # Naive implementation of search by genre without ranking
+    """
+    Search by genre
+
+    Args:
+        keywords: String -> query contents
+        year1: Integer -> year filter - published later than...
+        year2: Integer -> year filter - published earlier than...
+        not_ranking: Bool -> switch for applying BM25 ranking
+
+    Returns:
+        List -> A list of relevant docids
+        
+    Raises:
+        Exception: If keywords is empty
+    """
     def by_genres(self, keywords, year1=None, year2=None, not_ranking=False):
         result = []
         if keywords:
@@ -110,8 +152,21 @@ class Query:
             return result
         return self.bm25_ranking(keywords, result)
 
-        # Naive implementation of search for general without ranking
+    """
+    Perform general queries
 
+    Args:
+        keywords: String - query contents
+        year1: Integer -> year filter - published later than...
+        year2: Integer -> year filter - published earlier than...
+        not_ranking: Bool -> switch for applying BM25 ranking
+
+    Returns:
+        List -> A list of relevant docids
+    
+    Raises:
+        Exception: If keywords is empty
+    """
     def by_general(self, keywords, year1=None, year2=None, not_ranking=False):
         result = []
         if keywords:
@@ -133,7 +188,17 @@ class Query:
             return result
         return self.bm25_ranking(keywords, result)
 
-    # Method to filter the result by year
+    """
+    Method to filter the result by year
+
+    Args:
+        year: Integer -> representing the date
+        position: Integer -> Direction of the filter, 1 represent find result later than "year", otherwise earlier
+        docids: List -> A list of docids
+
+    Returns:
+        List -> A list of docids filtered
+    """
     def __filter_year(self, year, position, docids):
         result = []
         if position == 1:
@@ -146,7 +211,16 @@ class Query:
                     result.append(docid)
         return result
 
-    # Method to perform plain single word search
+    """
+    Method to perform plain single word search
+
+    Args:
+        word_to_be_queried: String -> the word to be queried
+        attributes: String -> which area to be queried (eg. "title"), perform a general query if it's None
+
+    Returns:
+        List -> A list of relevant docids
+    """
     def __plain_search(self, word_to_be_queried, attributes=None):
         result = []
         # Detect if the search is specified to an attribute
@@ -182,7 +256,16 @@ class Query:
                     result.append(docid)
         return list(dict.fromkeys(result))
 
-    # Method to perform single word search with docid and position
+    """
+    Method to direct perform single word search with docid 
+
+    Args:
+        word_to_be_queried: String -> the word to be queried
+        attributes: String -> which area to be queried (eg. "title"), perform a general query if it's None
+
+    Returns:
+        List -> A list of relevant docids
+    """
     def __position_search(self, word_to_be_queried, attribute=None):
         result = {}
         stemmed = Util.stem_data(word_to_be_queried)
@@ -229,6 +312,23 @@ class Query:
             result[key] = new_list
         return result
 
+    """
+    Entry for perform a new query, handling the phrase search
+
+    Args:
+        keywords: String -> query contents
+        year1: Integer -> Year filter - published later than...
+        year2: Integer -> Year filter - published earlier than...
+        not_ranking: Bool -> Switch for applying BM25 ranking
+        attributes: String -> which area to be queried (eg. "title"), perform a general query if it's None
+        is_list: Bool -> if the keywords is passed in as a list of words, used for recursive call
+
+    Returns:
+        List -> A list of relevant docids
+        
+    Raises:
+        Exception: If keywords is empty        
+    """
     def phrase_search_handler(self, keywords, year1=None, year2=None, not_ranking=False, attribute=None, is_list=False):
         result = []
         if keywords:
@@ -267,7 +367,23 @@ class Query:
             return result
         return self.bm25_ranking(keywords, result)
 
-    # Proximity Search : "#distance word1 word2"
+    """
+    Method to perform proximity search
+
+    Args:
+        word1: String -> first word to be queried
+        word2: String -> second word to be queried
+        distance: Integer -> distance between the two words
+        phrase_search: Bool -> is this a phrase search
+        attributes: String -> which area to be queried (eg. "title"), perform a general query if it's None
+        direct_call: Bool -> if the method is directly called by the frontend
+        year1: Integer -> Year filter - published later than...
+        year2: Integer -> Year filter - published earlier than...
+        not_ranking: Bool -> Switch for applying BM25 ranking
+
+    Returns:
+        List -> A list of relevant docids
+    """
     def proximity_search(self, word1, word2, distance, phrase_search=False, attribute=None,
                          direct_call=False, year1=None, year2=None, not_ranking=False):
         result = []
@@ -299,9 +415,17 @@ class Query:
             return self.bm25_ranking([word1, word2], result)
         return result
 
-    # TODO add attribute when calculating related tf,df etc in bm25
+    """
+    Compute the term frequency for a token in a specific document
+
+    Args:
+        word_to_be_queried: String -> the token to be proceed
+        docid: Integer -> the document id
+
+    Returns:
+        Integer -> term frequency
+    """
     def __term_frequency(self, word_to_be_queried, docid):
-        # TODO information in cast missing
         appearance_in_cast = 0
         appearance_in_title = 0
         appearance_in_spot = 0
@@ -317,14 +441,33 @@ class Query:
                         appearance_in_spot += 1
                 elif position == "keyword":
                     appearance_in_keywords += 1
-            return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast*0.5 +
-                    appearance_in_title*3.5 + appearance_in_spot*1.8 + appearance_in_keywords*2.3)
+            return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast * 0.5 +
+                    appearance_in_title * 3.5 + appearance_in_spot * 1.8 + appearance_in_keywords * 2.3)
         else:
+            # TODO should it be 0 instead of 0.1?
             return 0.1
 
+    """
+    Compute the document frequency for a token
+
+    Args:
+        word_to_be_queried: String -> the token to be proceed
+
+    Returns:
+        Integer -> document freqhency
+    """
     def __document_frequency(self, word_to_be_queried):
         return len(self.__index_general[word_to_be_queried][1])
 
+    """
+    Calculate the average number of terms included in each document
+
+    Args:
+        n/a
+
+    Returns:
+        Integer -> the average number of terms included in each document
+    """
     def __cal_average_number_of_terms(self):
         number_of_tokens = 0
         for docid, info in self.__dataset.items():
@@ -333,6 +476,15 @@ class Query:
                     number_of_tokens += len(token)
         return number_of_tokens / len(self.__dataset)
 
+    """
+    Compute the number of terms appeared in a specific document
+
+    Args:
+        docid: Integer -> the document to be proceed
+
+    Returns:
+        Integer -> number of terms appeared in a specific document
+    """
     def __number_of_terms(self, docid):
         number_of_tokens = 0
         for attribute, token in self.__dataset[docid].items():
@@ -340,7 +492,16 @@ class Query:
                 number_of_tokens += len(token)
         return number_of_tokens
 
-    # Calculate bm25 score for a single term
+    """
+    Calculate the BM25 score for a specific term in a specific document
+
+    Args:
+        word_to_be_queried: String -> the term to be proceed
+        docid: Integer -> the document to be proceed
+
+    Returns:
+        Integer -> BM25 score
+    """
     def bm25(self, word_to_be_queried, docid):
         k = 1.5
         if word_to_be_queried not in self.__index_general:
@@ -355,6 +516,19 @@ class Query:
         w_td = float(w_td)
         return w_td
 
+    """
+    Ranking a list of document by BM25 scoring
+
+    Args:
+        keywords: String -> query contents
+        word_to_be_queried: String -> the term to be proceed
+        docid_list: List -> a list of document id
+        returnScore: Bool -> return the scoring rather than sorting the docid_list
+
+    Returns:
+        docid_list: List -> a list of document id sorted based on BM25 scheme
+        bm25score_list(optional): List -> a list of BM25 scoring, the list will not be ranked if this is returned
+    """
     def bm25_ranking(self, keywords, docid_list, returnScore=False):
         term_list = keywords
         bm25score_list = []
@@ -368,6 +542,15 @@ class Query:
             return docid_list, bm25score_list
         return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
 
+    """
+    Sort a list of document by alphabet order
+
+    Args:
+        docid_list: List -> a list of document id
+
+    Returns:
+        List -> a list of document id sorted based on alphabet order
+    """
     def alphabet_ranking(self, docid_list):
         title_list = []
         for docid in docid_list:
@@ -389,4 +572,4 @@ class Query:
             year_list.append(int(self.__dataset[docid]['year']))
         return [x for _, x in sorted(zip(year_list, docid_list), reverse=True)]
 
-    # TODO: define a function to decide using which ranking method in several kinds of situation, for example using alphabet_ranking when producting by_title search etc.
+    # TODO Is the above 3 method really useful?
