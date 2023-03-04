@@ -298,7 +298,7 @@ class Query:
                 sum_of_bm25 += self.bm25(Util.stem_data(term), docid)
             bm25score_list.append(sum_of_bm25)
         if returnScore:
-            return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)], bm25score_list
+            return docid_list, bm25score_list
         return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
 
     def alphabet_ranking(self, docid_list):
