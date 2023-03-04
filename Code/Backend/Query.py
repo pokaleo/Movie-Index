@@ -183,56 +183,67 @@ class Query:
 
     # Method to perform single word search with docid and position
     def __position_search(self, word_to_be_queried):
-        word1 = SnowballStemmer(language='english').stem(word_to_be_queried.lower())
-        word2 = word_to_be_queried.lower()
-        if word1 or word2 in self.__index_general.keys():
-            if word1 in self.__index_general.keys():
-                result = self.__index_general[word1][1]
-                return result
-            if word2 in self.__index_general.keys():
-                result = self.__index_general[word2][1]
-                return result
-            else:
-                raise Exception("We did not find the result!")
-        else:
-            raise Exception("We did not find the result!")
+        result = {}
+        stemmed = Util.stem_data(word_to_be_queried)
+        punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
+        punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
+        if word_to_be_queried in self.__index_general:
+            for docid, position in self.__index_general[word_to_be_queried][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if stemmed in self.__index_general:
+            for docid, position in self.__index_general[stemmed][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if punctuationRemoved1 in self.__index_general:
+            for docid, position in self.__index_general[punctuationRemoved1][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if punctuationRemoved2 in self.__index_general:
+            for docid, position in self.__index_general[punctuationRemoved2][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        # remove duplicate
+        for key in result:
+            new_list = []
+            for item in result[key]:
+                if item not in new_list:
+                    new_list.append(item)
+            result[key] = new_list
+        return result
 
     # Proximity Search : "#distance word1 word2"
-    def proximity_search(self, keywords):
-        if keywords:
-            keywords = keywords.split()
-            if not re.match(r'#\d*', keywords[0]):
-                return Exception("The format is wrong!")
-            else:
-                if len(keywords) != 3:
-                    return Exception("The format is wrong!")
-                else:
-                    distance = int(keywords[0].strip("#"))
-                    keyword1 = keywords[1]
-                    keyword2 = keywords[2]
-                    dict1 = self.__position_search(keyword1)
-                    dict2 = self.__position_search(keyword2)
-                    # if in common document
-                    common_doic = list(dict1.keys() & dict2.keys())
-                    if common_doic:
-                        result = []
-                        for docid in common_doic:
-                            for position1 in dict1[docid]:
-                                if not position1.isdigit():
-                                    continue
-                                for position2 in dict2[docid]:
-                                    if not position2.isdigit():
-                                        continue
-                                    if abs(int(position1) - int(position2)) < distance:
-                                        result.append(docid)
-                        if result:
-                            return list(dict.fromkeys(result))
-                        else:
-                            raise Exception("We did not find the result!")
-                    else:
-                        raise Exception("We did not find the result!")
-        else:
-            raise Exception("Keywords is empty!")
+    def proximity_search(self, word1, word2, distance, phrase_search=False):
+        result = []
+        if word1 and word2 and distance is not None:
+            word1_result = self.__position_search(word1)
+            word2_result = self.__position_search(word2)
+            print(word1_result)
+            print(word2_result)
+            common_result = set(word1_result.keys()) & set(word2_result.keys())
+            if common_result:
+                for docid in common_result:
+                    for position1 in word1_result[docid]:
+                        if not position1.isnumeric():
+                            continue
+                        for position2 in word2_result[docid]:
+                            if not position2.isnumeric():
+                                continue
+                            if phrase_search:
+                                if int(position2) - int(position1) == 1:
+                                    result.append(docid)
+                            else:
+                                if abs(int(position1) - int(position2)) <= distance:
+                                    result.append(docid)
+        return result
 
     # Phrase Search : "word1 word2"
     def phrase_search(self, keywords):
