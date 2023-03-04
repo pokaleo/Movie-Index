@@ -71,23 +71,48 @@ class webScraping:
             else:
                 return temp.a.text
         elif curr_str == 'director':
-            temp = container.find(curr_class, attrs = {'class':'ipc-inline-list__item'})
+            temp = container.find_all(curr_class, attrs = {'class':'ipc-inline-list__item'})
             if temp == None:
                 return None
             else:
-                return temp.a.text
+                director_ = ''
+                for i in temp:
+                    if i == temp[-1]:
+                        dir_ = i.find('a', attrs={'class':'ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link'})
+                        director_ = director_ + dir_.text
+                    else:
+                        dir_ = i.find('a', attrs={'class':'ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link'})
+                        director_ = director_ + dir_.text + ', '
+                print(director_)
 
     def getCredit(self, container, curr_class, curr_str):
-        cast_list = ''
-        for i in container:
-            if i == container[-1]:
-                cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
-                cast_list = cast_list + cast_.text
+
+        if curr_str == 'cast':
+            cast_list = ''
+            for i in container:
+                if i == container[-1]:
+                    cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
+                    cast_list = cast_list + cast_.text
+                else:
+                    cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
+                    cast_list = cast_list + cast_.text + ', '
+            # print(cast_list)
+            return cast_list
+        elif curr_str =='director':
+            temp = container.find_all(curr_class, attrs = {'class':'ipc-inline-list__item'})
+            if temp == None:
+                return None
             else:
-                cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
-                cast_list = cast_list + cast_.text + ', '
-        # print(cast_list)
-        return cast_list
+                director_ = ''
+                for i in temp:
+                    if i == temp[-1]:
+                        dir_ = i.find('a', attrs={'class':'ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link'})
+                        director_ = director_ + dir_.text
+                    else:
+                        dir_ = i.find('a', attrs={'class':'ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link'})
+                        director_ = director_ + dir_.text + ', '
+                # print(director_)
+                return director_
 
 
     def getResponse(self):
@@ -95,7 +120,7 @@ class webScraping:
         response = requests.get(self.url)
         soup = BeautifulSoup(response.content, 'html.parser')
         data_div = soup.findAll('div', attrs={'class':'lister-item mode-advanced'})
-
+        print(len(data_div))
         for container in data_div:
             curr_info = defaultdict(str)
             raw_id = container.h3.a['href']
@@ -124,22 +149,12 @@ class webScraping:
             curr_info['colorinfo'] = self.certainResponse(data_tech,'li','color')
             curr_info['soundmixes'] = self.certainResponse(data_tech,'li','soundmixes')
 
-            data_credit = curr_soup.find('div', attrs = {'data-testid':'title-pc-expandable-panel'})
-            curr_info['directors'] = self.certainResponse(data_credit,'li','director')
+            data_director = curr_soup.find('div', attrs={'class':'ipc-metadata-list-item__content-container'})
+            curr_info['directors'] = self.getCredit(data_director,'li','director')
 
-            # data_cast = curr_soup.findAll('div', attrs = {'data-testid':'shoveler-items-container'})
             data_cast = curr_soup.findAll('div', attrs={'data-testid':'title-cast-item','class':'sc-bfec09a1-5 kUzsHJ'})
             curr_info['cast'] = self.getCredit(data_cast,'a','cast')
-            # cast_list = ''
-            # for i in data_cast:
-            #     if i == data_cast[-1]:
-            #         cast_ = i.find('a', attrs={'data-testid':'title-cast-item__actor'})
-            #         cast_list = cast_list + cast_.text
-            #     else:
-            #         cast_ = i.find('a', attrs={'data-testid':'title-cast-item__actor'})
-            #         cast_list = cast_list + cast_.text + ', '
 
-            # print(cast_list)
 
 
             print(curr_info)
