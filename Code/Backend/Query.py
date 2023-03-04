@@ -238,6 +238,15 @@ class Query:
         if keywords:
             # remove " in the beginning and the ending
             if not is_list:
+                if not Util.is_phrase_search(keywords):
+                    if attribute is None:
+                        return self.by_general(keywords, year1, year2, not_ranking)
+                    elif attribute == "title":
+                        return self.by_title(keywords, year1, year2, not_ranking)
+                    elif attribute == "keywords":
+                        return self.by_keywords(keywords, year1, year2, not_ranking)
+                    elif attribute == "genre":
+                        return self.by_genres(keywords, year1, year2, not_ranking)
                 keywords = keywords.split()
                 keywords[0] = keywords[0][1:]
                 keywords[len(keywords)-1] = keywords[len(keywords)-1][:-1]
