@@ -6,12 +6,9 @@ Description: Responsible for retrieve results for different
 types of queries
 ------------------------------------------------------------
 """
-import re
 import math
-
 import nltk
 from nltk.corpus import stopwords
-from nltk.stem.snowball import SnowballStemmer
 import Util
 
 
@@ -306,8 +303,12 @@ class Query:
     # TODO add attribute when calculating related tf,df etc in bm25
     def __term_frequency(self, word_to_be_queried, docid):
         # TODO information in cast missing
+        appearance_in_cast = 0
         if docid in self.__index_general[word_to_be_queried][1]:
-            return len(self.__index_general[word_to_be_queried][1][docid])
+            for position in self.__index_general[word_to_be_queried][1][docid]:
+                if position > 1000000:
+                    appearance_in_cast += 1
+            return len(self.__index_general[word_to_be_queried][1][docid]-appearance_in_cast*0.5)
         else:
             return 0.1
 

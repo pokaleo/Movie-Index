@@ -335,6 +335,17 @@ class PreProcessing:
                             self.__index[token][1][docid] = [str(position)]
                             self.__index[token][0] += 1
             position += 100
+            for i in range(len(info["plot"])):
+                token = info["plot"][i]
+                if token not in self.__index:
+                    self.__index[token] = [1, {docid: [str(position + i)]}]
+                else:
+                    if docid in self.__index[token][1]:
+                        self.__index[token][1][docid].append(str(position + i))
+                    else:
+                        self.__index[token][1][docid] = [str(position + i)]
+                        self.__index[token][0] += 1
+            position += 1000000
             temp_position = position
             for i in range(len(info["actors"])):
                 position += 15
@@ -360,17 +371,6 @@ class PreProcessing:
                             else:
                                 self.__index[token][1][docid] = [str(position)]
                                 self.__index[token][0] += 1
-            position += 100
-            for i in range(len(info["plot"])):
-                token = info["plot"][i]
-                if token not in self.__index:
-                    self.__index[token] = [1, {docid: [str(position+i)]}]
-                else:
-                    if docid in self.__index[token][1]:
-                        self.__index[token][1][docid].append(str(position+i))
-                    else:
-                        self.__index[token][1][docid] = [str(position+i)]
-                        self.__index[token][0] += 1
 
     # Getter for the processed data
     def get_data(self):
