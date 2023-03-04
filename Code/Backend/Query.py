@@ -7,8 +7,6 @@ types of queries
 ------------------------------------------------------------
 """
 import math
-import nltk
-from nltk.corpus import stopwords
 import Util
 
 
@@ -21,8 +19,8 @@ class Query:
         self.__index_genre = dataset.get_index_genre()
         self.__average_number_of_terms = self.__cal_average_number_of_terms()
         self.__number_of_docs = len(self.__dataset.keys())
-        nltk.download("stopwords")
-        self.stop_words = set(stopwords.words("english"))
+        self.stop_words = dataset.get_stop_words()
+        print(self.stop_words)
 
     # providing util method for proper prickling
     def __getstate__(self):
@@ -319,7 +317,7 @@ class Query:
                 elif position == "keyword":
                     appearance_in_keywords += 1
             return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast*0.55 +
-                    appearance_in_title*2.3 + appearance_in_spot*1.8 + appearance_in_keywords*2.3)
+                    appearance_in_title*5 + appearance_in_spot*1.8 + appearance_in_keywords*2.3)
         else:
             return 0.1
 

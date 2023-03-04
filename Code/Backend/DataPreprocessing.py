@@ -35,6 +35,8 @@ class PreProcessing:
             self.__dataset = copy.deepcopy(dataset)
         else:
             raise Exception("The provided dataset to be processed is empty!")
+        nltk.download("stopwords")
+        self.stop_words = set(stopwords.words("english"))
 
     # Method which perform tokenisation
     def tokenise(self):
@@ -132,12 +134,10 @@ class PreProcessing:
 
     # Method which removes stop words from the spot attribute
     def remove_stopwords(self):
-        nltk.download("stopwords")
-        stop_words = set(stopwords.words("english"))
         for docid, info in self.__dataset.items():
             temp_list = []
             for token in (info['plot']):
-                if token not in stop_words:
+                if token not in self.stop_words:
                     temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
                 info['plot'] = temp_list
 
@@ -403,3 +403,9 @@ class PreProcessing:
             return self.__index_genre
         else:
             raise Exception("The index is empty!")
+
+    def get_stop_words(self):
+        if self.stop_words:
+            return self.stop_words
+        else:
+            raise Exception("No stopwords list found!")
