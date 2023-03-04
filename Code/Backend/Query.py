@@ -272,7 +272,8 @@ class Query:
         return self.bm25_ranking(keywords, result)
 
     # Proximity Search : "#distance word1 word2"
-    def proximity_search(self, word1, word2, distance, phrase_search=False, attribute=None):
+    def proximity_search(self, word1, word2, distance, phrase_search=False, attribute=None,
+                         direct_call=False, year1=None, year2=None, not_ranking=False):
         result = []
         if word1 and word2 and distance is not None:
             word1_result = self.__position_search(word1, attribute)
@@ -292,6 +293,14 @@ class Query:
                             else:
                                 if abs(int(position1) - int(position2)) <= distance:
                                     result.append(docid)
+        if direct_call:
+            if year1:
+                result = self.__filter_year(year1, 1, result)
+            if year2:
+                result = self.__filter_year(year2, 2, result)
+            if not_ranking:
+                return result
+            return self.bm25_ranking(word1 + " " + word2, result)
         return result
 
     # TODO add attribute when calculating related tf,df etc in bm25
