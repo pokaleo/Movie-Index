@@ -7,9 +7,6 @@ data before performing queries
 ------------------------------------------------------------
 """
 import copy
-import json
-import re
-import string
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer

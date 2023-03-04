@@ -20,7 +20,6 @@ class Query:
         self.__average_number_of_terms = self.__cal_average_number_of_terms()
         self.__number_of_docs = len(self.__dataset.keys())
         self.stop_words = dataset.get_stop_words()
-        print(self.stop_words)
 
     # providing util method for proper prickling
     def __getstate__(self):
@@ -32,6 +31,7 @@ class Query:
             "index_genre": self.__index_genre,
             "average_number_of_terms": self.__average_number_of_terms,
             "number_of_docs": self.__number_of_docs,
+            "stop_words": self.stop_words,
         }
 
     def __setstate__(self, state):
@@ -42,6 +42,7 @@ class Query:
         self.__index_genre = state["index_genre"]
         self.__average_number_of_terms = state["average_number_of_terms"]
         self.__number_of_docs = state["number_of_docs"]
+        self.stop_words = state["stop_words"]
 
     # Naive implementation of search by title without ranking
     def by_title(self, keywords, year1=None, year2=None, not_ranking=False):
