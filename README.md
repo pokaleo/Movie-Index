@@ -1,4 +1,4 @@
-# A simple serach engine 
+# Movie Index - An IR system for IMDB movie information 
 ## Team
  - Leo Li
  - Yvonne Ding
