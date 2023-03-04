@@ -317,8 +317,8 @@ class Query:
                         appearance_in_spot += 1
                 elif position == "keyword":
                     appearance_in_keywords += 1
-            return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast*0.55 +
-                    appearance_in_title*5 + appearance_in_spot*1.8 + appearance_in_keywords*2.3)
+            return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast*0.5 +
+                    appearance_in_title*3.5 + appearance_in_spot*1.8 + appearance_in_keywords*2.3)
         else:
             return 0.1
 
