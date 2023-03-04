@@ -4,7 +4,7 @@ def dataParse(data, method):
     print("Data",data)
     res = {
             'queryMsg':None, # a str or (w1, w2, d)
-            'by':"", # a str for search category, i.e. title, any, genres, keywords, proximity
+            'by':"", # a str for search category, i.e. title, genre, keywords, proximity, None
             'need_check':False, # for debug only
             'color':"", # a str in ["all", "bw", "color"]
             'from':0, # int or None
@@ -23,6 +23,8 @@ def dataParse(data, method):
     else:
         res['queryMsg'] = data.get('query')
         res['by']=data.get('by')
+        if res['by'] == 'any':
+            res['by'] = None
 
     if method == 'GET':
         res['need_check'] = data.get('need_check',type=bool)
@@ -76,6 +78,8 @@ def dataParse(data, method):
                     d = q[4]
                     msg = '#'+d+' '+word1+' '+word2
                 else:
+                    if category == 'any':
+                        category = None
                     msg = q[-1]
                 res['moreQueries'].append((bool_name,category,msg))
     return res

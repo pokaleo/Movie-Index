@@ -67,7 +67,7 @@
                     <el-option label="Any" value="any"/>
                     <el-option label="Title" value="title"/>
                     <el-option label="Keywords" value="keywords"/>
-                    <el-option label="Genres" value="genres"/>
+                    <el-option label="Genres" value="genre"/>
                   </el-select>
                 </template>
               </el-input>
@@ -130,7 +130,7 @@
                       <el-option label="Any" value="any"/>
                       <el-option label="Title" value="title"/>
                       <el-option label="Keywords" value="keywords"/>
-                      <el-option label="Genres" value="genres"/>
+                      <el-option label="Genres" value="genre"/>
                     </el-select>
                   </template>
                 </el-input>

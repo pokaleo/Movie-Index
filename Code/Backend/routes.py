@@ -21,7 +21,7 @@ normal: for one time / live data processing
 import: load the pickle file for previously processed data
 export: pickling the processed data and export them as files
 """
-mode = "import"
+mode = "normal"
 dataset_path = "../Dataset/IMDB Movie Info"
 
 if mode == "normal":
@@ -145,24 +145,26 @@ def searchQuery():
         'any': query.by_general
         }
     
-    queryMsg=parsed_args['queryMsg']
-
-    if parsed_args['by'] == 'title':
-        res = query.by_title(queryMsg, parsed_args['from'], parsed_args['to'], parsed_args['additionQ'])  
-        print("By title",res)
-    elif parsed_args['by'] == 'keywords':
-        res = query.by_keywords(queryMsg, parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
-        print("By keywords",res)
-    elif parsed_args['by'] == 'genres':
-        res = query.by_genres(queryMsg, parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
-        print("By genres",res)
-    elif parsed_args['by'] == 'proximity':
+    queryMsg=parsed_args['queryMsg']   
+    if parsed_args['by'] == 'proximity':
         dist, w1, w2 = queryMsg.split()
-        res = query.proximity_search(w1,w2,int(dist),phrase_search=False)
+        try:
+            res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                            year1=parsed_args['from'],year2=parsed_args['to'],
+                                            not_ranking=parsed_args['additionQ'])
+        except:
+            res = []
+        queryMsg = w1+ " " + w2 # to handle keywords in additions
         print("By proximity",res)
     else:
-        res = query.by_general(queryMsg, parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
-        print("By general",res)
+        try:
+            print("phrase handle", queryMsg)
+            res=query.phrase_search_handler(queryMsg,year1=parsed_args['from'],year2=parsed_args['to'],
+                                            not_ranking=parsed_args['additionQ'],attribute=parsed_args['by'])
+        except:
+            res=[]
+            print("phrase handle except", queryMsg)
+            
     
     if parsed_args['additionQ']:
         total_res = []
@@ -177,31 +179,39 @@ def searchQuery():
             queryMsg = a_query[2]
             if bool_type == 'and':
                 print("AND query", search_in,queryMsg)
-                new_keywords = queryMsg.lower().split()
-                keywords.extend(new_keywords)
+
                 if search_in != 'proximity':
+                    new_keywords = list(queryMsg.lower().split())
                     try:
-                        new_res = search_method[search_in](queryMsg,parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args['from'],year2=parsed_args['to'],
+                                        not_ranking=parsed_args['additionQ'],attribute=search_in)
                     except:
                         new_res = []
                 else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
+                    new_keywords = [w1.lower(), w2.lower()]
                     try:
-                        dist, w1, w2 = queryMsg.split()
-                        new_res = query.proximity_search(w1,w2,int(dist),phrase_search=False)
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args['from'],year2=parsed_args['to'],
+                                     not_ranking=parsed_args['additionQ'])
                     except:
                         new_res = []
+                keywords.extend(new_keywords)
                 current_res = [mid for mid in current_res if mid in set(new_res)]
             elif bool_type == 'not':
                 print("NOT query", search_in,queryMsg)
                 if search_in != 'proximity':
                     try:
-                        new_res = search_method[search_in](queryMsg,parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args['from'],year2=parsed_args['to'],
+                                        not_ranking=parsed_args['additionQ'],attribute=search_in)
                     except:
                         new_res = []
                 else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
                     try:
-                        dist, w1, w2 = queryMsg.split()
-                        new_res = query.proximity_search(w1,w2,int(dist),phrase_search=False)
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args['from'],year2=parsed_args['to'],
+                                     not_ranking=parsed_args['additionQ'])
                     except:
                         new_res = []
                 current_res = [mid for mid in current_res if mid not in new_res]
@@ -213,24 +223,32 @@ def searchQuery():
 
                 print("prev keywords", total_keywords)
 
-                new_keywords = list(queryMsg.lower().split())
-                keywords = new_keywords.copy()
                 print("OR query", search_in,queryMsg)
                 if search_in != 'proximity':
+                    new_keywords = list(queryMsg.lower().split())
                     try:
-                        new_res = search_method[search_in](queryMsg,parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args['from'],year2=parsed_args['to'],
+                                        not_ranking=parsed_args['additionQ'],attribute=search_in)
                     except:
                         new_res = []
                 else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
+                    new_keywords = [w1.lower(), w2.lower()]
                     try:
-                        dist, w1, w2 = queryMsg.split()
-                        new_res = query.proximity_search(w1,w2,int(dist),phrase_search=False)
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args['from'],year2=parsed_args['to'],
+                                     not_ranking=parsed_args['additionQ'])
                     except:
                         new_res = []
+                #print(new_res)
+                keywords = new_keywords.copy()
                 current_res = new_res.copy()
         # after for loop, append the last query result
         total_keywords.append(keywords)
         total_res.append(current_res)
+
+        print(total_keywords)
+        print(total_res)
 
         docid_list = []
         bm25score_list = []
