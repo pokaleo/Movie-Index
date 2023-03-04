@@ -97,12 +97,16 @@ def getMovie(id):
 
 @app.route('/search', methods=['GET','POST'])
 def searchQuery():
+    # start timer
+    st = time.time()
+    st_cpu = time.process_time()
+
     # get request
     if request.method == 'POST':
         data = request.get_json()
     else:
         data = request.args
-        #data=json.dumps(data)
+
     '''
     parse the data
     parsed_args = {'queryMsg':"",
@@ -118,10 +122,8 @@ def searchQuery():
     parsed_args = JSONParser.dataParse(data, request.method)
     print(parsed_args)
 
-    #print(type(queryMsg))
-    queryMsg=parsed_args['queryMsg']
+   
     #function to wrap up
-    
     def formatRes(id):
         doc = {
             "id": id,
@@ -135,9 +137,6 @@ def searchQuery():
         return doc
     
     #Add function for extract results
-    st = time.time()
-    st_cpu = time.process_time()
-
     search_method = {
         'title': query.by_title,
         'keywords': query.by_keywords,
@@ -145,57 +144,103 @@ def searchQuery():
         'proximity': query.proximity_search,
         'any': query.by_general
         }
-
-    def queryExpand(queryMsg):
-        temp = re.sub('[^a-z0-9]',' ',queryMsg).strip()
-        tokens = temp.split()
-        new_tokens = [Util.stem_data(token) for token in tokens]
-        queryMsg = queryMsg +" "+ " ".join(new_tokens)
-        return queryMsg
+    
+    queryMsg=parsed_args['queryMsg']
 
     if parsed_args['by'] == 'title':
-        queryMsg = queryExpand(queryMsg)
-        res = query.by_title(queryMsg, parsed_args['from'], parsed_args['to'])  
+        res = query.by_title(queryMsg, parsed_args['from'], parsed_args['to'], parsed_args['additionQ'])  
         print("By title",res)
     elif parsed_args['by'] == 'keywords':
-        res = query.by_keywords(queryMsg, parsed_args['from'], parsed_args['to'])
+        res = query.by_keywords(queryMsg, parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
         print("By keywords",res)
     elif parsed_args['by'] == 'genres':
-        res = query.by_genres(queryMsg, parsed_args['from'], parsed_args['to'])
+        res = query.by_genres(queryMsg, parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
         print("By genres",res)
     elif parsed_args['by'] == 'proximity':
-        res = query.proximity_search(queryMsg)
+        dist, w1, w2 = queryMsg.split()
+        res = query.proximity_search(w1,w2,int(dist),phrase_search=False)
         print("By proximity",res)
     else:
-        res = query.by_general(queryMsg, parsed_args['from'], parsed_args['to'])
+        res = query.by_general(queryMsg, parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
         print("By general",res)
     
     if parsed_args['additionQ']:
-        if len(parsed_args['andQueries'])>0:
-            print("AND",parsed_args['andQueries'])
-            for q in parsed_args['andQueries']:
-                print(q)
-                if q[0] != 'proximity':
-                    new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
-                else:
-                    new_res = search_method[q[0]](q[1]) 
-                new_res = set(new_res)
-                res = [value for value in res if value in new_res]
-        if len(parsed_args['notQueries'])>0:
-            for q in parsed_args['notQueries']:
-                if q[0] != 'proximity':
-                    new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
-                else:
-                    new_res = search_method[q[0]](q[1]) 
-                new_res = set(new_res)
-                res = [value for value in res if value not in new_res]
-        if len(parsed_args['orQueries'])>0:
-            for q in parsed_args['orQueries']:
-                if q[0] != 'proximity':
-                    new_res = search_method[q[0]](q[1], parsed_args['from'], parsed_args['to']) 
-                else:
-                    new_res = search_method[q[0]](q[1]) 
-                res = set(res).union(new_res)
+        total_res = []
+        total_keywords=[]
+        current_res = res.copy()
+        count = 1
+        keywords = list(queryMsg.lower().split())
+        for a_query in parsed_args['moreQueries']:
+            new_res = []
+            bool_type = a_query[0]
+            search_in = a_query[1]
+            queryMsg = a_query[2]
+            if bool_type == 'and':
+                print("AND query", search_in,queryMsg)
+                new_keywords = queryMsg.lower().split()
+                keywords.extend(new_keywords)
+                if search_in != 'proximity':
+                    try:
+                        new_res = search_method[search_in](queryMsg,parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
+                    except:
+                        new_res = []
+                else: # proximity query
+                    try:
+                        dist, w1, w2 = queryMsg.split()
+                        new_res = query.proximity_search(w1,w2,int(dist),phrase_search=False)
+                    except:
+                        new_res = []
+                current_res = [mid for mid in current_res if mid in set(new_res)]
+            elif bool_type == 'not':
+                print("NOT query", search_in,queryMsg)
+                if search_in != 'proximity':
+                    try:
+                        new_res = search_method[search_in](queryMsg,parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
+                    except:
+                        new_res = []
+                else: # proximity query
+                    try:
+                        dist, w1, w2 = queryMsg.split()
+                        new_res = query.proximity_search(w1,w2,int(dist),phrase_search=False)
+                    except:
+                        new_res = []
+                current_res = [mid for mid in current_res if mid not in new_res]
+            elif bool_type == 'or':
+                count += 1
+                # store the previous result and keywords
+                total_keywords.append(keywords)
+                total_res.append(current_res)
+
+                print("prev keywords", total_keywords)
+
+                new_keywords = list(queryMsg.lower().split())
+                keywords = new_keywords.copy()
+                print("OR query", search_in,queryMsg)
+                if search_in != 'proximity':
+                    try:
+                        new_res = search_method[search_in](queryMsg,parsed_args['from'], parsed_args['to'],parsed_args['additionQ'])
+                    except:
+                        new_res = []
+                else: # proximity query
+                    try:
+                        dist, w1, w2 = queryMsg.split()
+                        new_res = query.proximity_search(w1,w2,int(dist),phrase_search=False)
+                    except:
+                        new_res = []
+                current_res = new_res.copy()
+        # after for loop, append the last query result
+        total_keywords.append(keywords)
+        total_res.append(current_res)
+
+        docid_list = []
+        bm25score_list = []
+        for i in range(count):
+            docid_temp, score_temp = query.bm25_ranking(total_keywords[i], total_res[i],returnScore=True)
+            docid_list.extend(docid_temp)
+            bm25score_list.extend(score_temp)
+        res = [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
+        res = list(dict.fromkeys(res))
+
     res = list(res)
     print(res)
     reslist = []

@@ -19,7 +19,7 @@ def dataParse(data, method):
         word1 = q[0]
         word2 = q[1]
         d = q[2]
-        res['queryMsg'] = '#'+d+' '+word1+' '+word2
+        res['queryMsg'] = d+' '+word1+' '+word2
     else:
         res['queryMsg'] = data.get('query')
         res['by']=data.get('by')
