@@ -306,7 +306,7 @@ class Query:
         appearance_in_cast = 0
         if docid in self.__index_general[word_to_be_queried][1]:
             for position in self.__index_general[word_to_be_queried][1][docid]:
-                if int(position) > 1000000:
+                if position.isnumeric() and int(position) > 1000000:
                     appearance_in_cast += 1
             return len(self.__index_general[word_to_be_queried][1][docid])-appearance_in_cast*0.5
         else:
