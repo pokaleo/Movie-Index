@@ -8,6 +8,9 @@ types of queries
 """
 import re
 import math
+
+import nltk
+from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 import Util
 
@@ -21,6 +24,8 @@ class Query:
         self.__index_genre = dataset.get_index_genre()
         self.__average_number_of_terms = self.__cal_average_number_of_terms()
         self.__number_of_docs = len(self.__dataset.keys())
+        nltk.download("stopwords")
+        self.stop_words = set(stopwords.words("english"))
 
     # providing util method for proper prickling
     def __getstate__(self):
@@ -182,31 +187,39 @@ class Query:
         return list(dict.fromkeys(result))
 
     # Method to perform single word search with docid and position
-    def __position_search(self, word_to_be_queried):
+    def __position_search(self, word_to_be_queried, attribute=None):
         result = {}
         stemmed = Util.stem_data(word_to_be_queried)
         punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
         punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
-        if word_to_be_queried in self.__index_general:
-            for docid, position in self.__index_general[word_to_be_queried][1].items():
+        if attribute is None:
+            search_field = self.__index_general
+        elif attribute == "title":
+            search_field = self.__index_title
+        elif attribute == "keywords":
+            search_field = self.__index_keyword
+        elif attribute == "genre":
+            search_field = self.__index_genre
+        if word_to_be_queried in search_field:
+            for docid, position in search_field[word_to_be_queried][1].items():
                 if docid not in result:
                     result[docid] = position
                 else:
                     result[docid] += position
-        if stemmed in self.__index_general:
-            for docid, position in self.__index_general[stemmed][1].items():
+        if stemmed in search_field:
+            for docid, position in search_field[stemmed][1].items():
                 if docid not in result:
                     result[docid] = position
                 else:
                     result[docid] += position
-        if punctuationRemoved1 in self.__index_general:
-            for docid, position in self.__index_general[punctuationRemoved1][1].items():
+        if punctuationRemoved1 in search_field:
+            for docid, position in search_field[punctuationRemoved1][1].items():
                 if docid not in result:
                     result[docid] = position
                 else:
                     result[docid] += position
-        if punctuationRemoved2 in self.__index_general:
-            for docid, position in self.__index_general[punctuationRemoved2][1].items():
+        if punctuationRemoved2 in search_field:
+            for docid, position in search_field[punctuationRemoved2][1].items():
                 if docid not in result:
                     result[docid] = position
                 else:
@@ -220,14 +233,41 @@ class Query:
             result[key] = new_list
         return result
 
+    def phrase_search_handler(self, keywords, year1=None, year2=None, not_ranking=False, attribute=None, is_list=False):
+        result = []
+        if keywords:
+            # remove " in the beginning and the ending
+            if not is_list:
+                keywords = keywords.split()
+                keywords[0] = keywords[0][1:]
+                keywords[len(keywords)-1] = keywords[len(keywords)-1][:-1]
+            for i in range(1, len(keywords)):
+                if i == 1:
+                    result += self.proximity_search(keywords[i-1].lower(), keywords[i].lower(), 1, True, attribute)
+                else:
+                    result = list(set(result) &
+                                  set(self.proximity_search(keywords[i-1].lower(),
+                                                            keywords[i].lower(), 1, True, attribute)))
+            result = list(dict.fromkeys(result))
+        else:
+            raise Exception("Keywords is empty!")
+        if not result and not attribute:
+            return self.phrase_search_handler(Util.remove_stop_words(keywords, self.stop_words),
+                                              year1, year2, not_ranking, attribute, True)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
     # Proximity Search : "#distance word1 word2"
-    def proximity_search(self, word1, word2, distance, phrase_search=False):
+    def proximity_search(self, word1, word2, distance, phrase_search=False, attribute=None):
         result = []
         if word1 and word2 and distance is not None:
-            word1_result = self.__position_search(word1)
-            word2_result = self.__position_search(word2)
-            print(word1_result)
-            print(word2_result)
+            word1_result = self.__position_search(word1, attribute)
+            word2_result = self.__position_search(word2, attribute)
             common_result = set(word1_result.keys()) & set(word2_result.keys())
             if common_result:
                 for docid in common_result:
@@ -244,40 +284,6 @@ class Query:
                                 if abs(int(position1) - int(position2)) <= distance:
                                     result.append(docid)
         return result
-
-    # Phrase Search : "word1 word2"
-    def phrase_search(self, keywords):
-        if keywords:
-            keywords = keywords.split()
-            if len(keywords) != 2:
-                return Exception("The format is wrong!")
-            else:
-                keyword1 = keywords[0]
-                keyword2 = keywords[1]
-                dict1 = self.__position_search(keyword1)
-                dict2 = self.__position_search(keyword2)
-                # if in common document
-                common_doic = list(dict1.keys() & dict2.keys())
-                if common_doic:
-                    result = []
-                    for doic in common_doic:
-                        for position1 in dict1[doic]:
-                            if not position1.isdigit():
-                                continue
-                            for position2 in dict2[doic]:
-                                if not position2.isdigit():
-                                    continue
-                                distance = abs(int(position2) - int(position1))
-                                if distance < 2:
-                                    result.append(doic)
-                    if result:
-                        return list(dict.fromkeys(result))
-                    else:
-                        raise Exception("We did not find the result!")
-                else:
-                    raise Exception("We did not find the result!")
-        else:
-            raise Exception("Keywords is empty!")
 
     # TODO add attribute when calculating related tf,df etc in bm25
     def __term_frequency(self, word_to_be_queried, docid):
@@ -339,7 +345,6 @@ class Query:
             temp_list = self.__dataset[docid]['title']
             title = ' '.join(temp_list)
             title_list.append(title)
-        print(title_list)
         ordered_list = sorted(docid_list, key=lambda x: title_list[docid_list.index(x)], reverse=False)
         return ordered_list
 

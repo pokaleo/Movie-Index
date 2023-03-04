@@ -27,3 +27,18 @@ def remove_punctuation(term, plot=False):
 
 def stem_data(term):
     return SnowballStemmer(language='english').stem(term)
+
+
+def is_phrase_search(query):
+    if query.startswith("\"") and query.endswith("\""):
+        return True
+    else:
+        return False
+
+
+def remove_stop_words(query, stop_words):
+    temp_list = []
+    for token in query:
+        if token not in stop_words:
+            temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
+    return temp_list
