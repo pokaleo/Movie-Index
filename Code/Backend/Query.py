@@ -300,7 +300,7 @@ class Query:
                 result = self.__filter_year(year2, 2, result)
             if not_ranking:
                 return result
-            return self.bm25_ranking(word1 + " " + word2, result)
+            return self.bm25_ranking([word1, word2], result)
         return result
 
     # TODO add attribute when calculating related tf,df etc in bm25
