@@ -14,13 +14,34 @@ import Util
 
 class Query:
     def __init__(self, dataset):
-        self.dataset = dataset.get_data()
-        self.index_general = dataset.get_index()
-        self.index_title = dataset.get_index_title()
-        self.index_keyword = dataset.get_index_keywords()
-        self.index_genre = dataset.get_index_genre()
-        self.average_number_of_terms = self.__cal_average_number_of_terms()
-        self.number_of_docs = len(self.dataset.keys())
+        self.__dataset = dataset.get_data()
+        self.__index_general = dataset.get_index()
+        self.__index_title = dataset.get_index_title()
+        self.__index_keyword = dataset.get_index_keywords()
+        self.__index_genre = dataset.get_index_genre()
+        self.__average_number_of_terms = self.__cal_average_number_of_terms()
+        self.__number_of_docs = len(self.__dataset.keys())
+
+    # providing util method for proper prickling
+    def __getstate__(self):
+        return {
+            "dataset": self.__dataset,
+            "index_general": self.__index_general,
+            "index_title": self.__index_title,
+            "index_keyword": self.__index_keyword,
+            "index_genre": self.__index_genre,
+            "average_number_of_terms": self.__average_number_of_terms,
+            "number_of_docs": self.__number_of_docs,
+        }
+
+    def __setstate__(self, state):
+        self.__dataset = state["dataset"]
+        self.__index_general = state["index_general"]
+        self.__index_title = state["index_title"]
+        self.__index_keyword = state["index_keyword"]
+        self.__index_genre = state["index_genre"]
+        self.__average_number_of_terms = state["average_number_of_terms"]
+        self.__number_of_docs = state["number_of_docs"]
 
     # Naive implementation of search by title without ranking
     def by_title(self, keywords, year1=None, year2=None, not_ranking=False):
@@ -116,11 +137,11 @@ class Query:
         result = []
         if position == 1:
             for docid in docids:
-                if int(self.dataset[docid]["year"]) > year:
+                if int(self.__dataset[docid]["year"]) > year:
                     result.append(docid)
         else:
             for docid in docids:
-                if int(self.dataset[docid]["year"]) < year:
+                if int(self.__dataset[docid]["year"]) < year:
                     result.append(docid)
         return result
 
@@ -130,33 +151,33 @@ class Query:
         # Detect if the search is specified to an attribute
         if attributes:
             if attributes == "title":
-                if word_to_be_queried in self.index_title:
-                    for docid, position in self.index_title[word_to_be_queried][1].items():
+                if word_to_be_queried in self.__index_title:
+                    for docid, position in self.__index_title[word_to_be_queried][1].items():
                         result.append(docid)
             if attributes == "keywords":
-                if word_to_be_queried in self.index_keyword:
-                    for docid, position in self.index_keyword[word_to_be_queried][1].items():
+                if word_to_be_queried in self.__index_keyword:
+                    for docid, position in self.__index_keyword[word_to_be_queried][1].items():
                         result.append(docid)
             if attributes == "genre":
-                if word_to_be_queried in self.index_genre:
-                    for docid, position in self.index_genre[word_to_be_queried][1].items():
+                if word_to_be_queried in self.__index_genre:
+                    for docid, position in self.__index_genre[word_to_be_queried][1].items():
                         result.append(docid)
         # Use general research if no attribute input 
         else:
-            if word_to_be_queried in self.index_general:
-                for docid, position in self.index_general[word_to_be_queried][1].items():
+            if word_to_be_queried in self.__index_general:
+                for docid, position in self.__index_general[word_to_be_queried][1].items():
                     result.append(docid)
             stemmed = Util.stem_data(word_to_be_queried)
             punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
             punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
-            if stemmed in self.index_general:
-                for docid, position in self.index_general[stemmed][1].items():
+            if stemmed in self.__index_general:
+                for docid, position in self.__index_general[stemmed][1].items():
                     result.append(docid)
-            if punctuationRemoved1 in self.index_general:
-                for docid, position in self.index_general[punctuationRemoved1][1].items():
+            if punctuationRemoved1 in self.__index_general:
+                for docid, position in self.__index_general[punctuationRemoved1][1].items():
                     result.append(docid)
-            if punctuationRemoved2 in self.index_general:
-                for docid, position in self.index_general[punctuationRemoved2][1].items():
+            if punctuationRemoved2 in self.__index_general:
+                for docid, position in self.__index_general[punctuationRemoved2][1].items():
                     result.append(docid)
         return list(dict.fromkeys(result))
 
@@ -164,12 +185,12 @@ class Query:
     def __position_search(self, word_to_be_queried):
         word1 = SnowballStemmer(language='english').stem(word_to_be_queried.lower())
         word2 = word_to_be_queried.lower()
-        if word1 or word2 in self.index_general.keys():
-            if word1 in self.index_general.keys():
-                result = self.index_general[word1][1]
+        if word1 or word2 in self.__index_general.keys():
+            if word1 in self.__index_general.keys():
+                result = self.__index_general[word1][1]
                 return result
-            if word2 in self.index_general.keys():
-                result = self.index_general[word2][1]
+            if word2 in self.__index_general.keys():
+                result = self.__index_general[word2][1]
                 return result
             else:
                 raise Exception("We did not find the result!")
@@ -250,25 +271,25 @@ class Query:
     # TODO add attribute when calculating related tf,df etc in bm25
     def __term_frequency(self, word_to_be_queried, docid):
         # TODO information in cast missing
-        if docid in self.index_general[word_to_be_queried][1]:
-            return len(self.index_general[word_to_be_queried][1][docid])
+        if docid in self.__index_general[word_to_be_queried][1]:
+            return len(self.__index_general[word_to_be_queried][1][docid])
         else:
             return 0.1
 
     def __document_frequency(self, word_to_be_queried):
-        return len(self.index_general[word_to_be_queried][1])
+        return len(self.__index_general[word_to_be_queried][1])
 
     def __cal_average_number_of_terms(self):
         number_of_tokens = 0
-        for docid, info in self.dataset.items():
+        for docid, info in self.__dataset.items():
             for attribute, token in info.items():
                 if token is not None:
                     number_of_tokens += len(token)
-        return number_of_tokens / len(self.dataset)
+        return number_of_tokens / len(self.__dataset)
 
     def __number_of_terms(self, docid):
         number_of_tokens = 0
-        for attribute, token in self.dataset[docid].items():
+        for attribute, token in self.__dataset[docid].items():
             if token is not None:
                 number_of_tokens += len(token)
         return number_of_tokens
@@ -276,12 +297,12 @@ class Query:
     # Calculate bm25 score for a single term
     def bm25(self, word_to_be_queried, docid):
         k = 1.5
-        if word_to_be_queried not in self.index_general:
+        if word_to_be_queried not in self.__index_general:
             return 0
         document_frequency = self.__document_frequency(word_to_be_queried)
         term_frequency = self.__term_frequency(word_to_be_queried, docid)
-        L_division = self.__number_of_terms(docid) / self.average_number_of_terms
-        log_value = (self.number_of_docs - document_frequency + 0.5) / \
+        L_division = self.__number_of_terms(docid) / self.__average_number_of_terms
+        log_value = (self.__number_of_docs - document_frequency + 0.5) / \
                     (document_frequency + 0.5)
         w_td = format((term_frequency / (k * L_division + term_frequency + 0.5))
                       * math.log10(log_value), '.4f')
@@ -304,7 +325,7 @@ class Query:
     def alphabet_ranking(self, docid_list):
         title_list = []
         for docid in docid_list:
-            temp_list = self.dataset[docid]['title']
+            temp_list = self.__dataset[docid]['title']
             title = ' '.join(temp_list)
             title_list.append(title)
         print(title_list)
@@ -314,13 +335,13 @@ class Query:
     def year_ranking(self, docid_list):
         year_list = []
         for docid in docid_list:
-            year_list.append(int(self.dataset[docid]['year']))
+            year_list.append(int(self.__dataset[docid]['year']))
         return [x for _, x in sorted(zip(year_list, docid_list))]
 
     def year_ranking_reverse(self, docid_list):
         year_list = []
         for docid in docid_list:
-            year_list.append(int(self.dataset[docid]['year']))
+            year_list.append(int(self.__dataset[docid]['year']))
         return [x for _, x in sorted(zip(year_list, docid_list), reverse=True)]
 
     # TODO: define a function to decide using which ranking method in several kinds of situation, for example using alphabet_ranking when producting by_title search etc.

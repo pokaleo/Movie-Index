@@ -13,17 +13,60 @@ import Spellcheck
 import JSONParser
 import Util
 # ../TestDataset  ../Dataset/IMDB Movie Info
-movies = RetrieveData.MovieInfo("../TestDataset")
-movies.read_files()
-moviedict = movies.get_movie_info()
-processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
-processed_data.tokenise()
-processed_data.to_lowercase()
-processed_data.remove_punctuation()
-processed_data.stem_data()
-processed_data.remove_stopwords()
-processed_data.create_index()
-query = Query.Query(processed_data)
+
+"""
+Providing possibility of export and import for the processed data
+3 different modes:
+normal: for one time / live data processing
+import: load the pickle file for previously processed data
+export: pickling the processed data and export them as files
+"""
+mode = "import"
+dataset_path = "../Dataset/IMDB Movie Info"
+
+if mode == "normal":
+    movies = RetrieveData.MovieInfo(dataset_path)
+    movies.read_files()
+    moviedict = movies.get_movie_info()
+    processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
+    processed_data.tokenise()
+    processed_data.to_lowercase()
+    processed_data.remove_punctuation()
+    processed_data.stem_data()
+    processed_data.remove_stopwords()
+    processed_data.create_index()
+    query = Query.Query(processed_data)
+    print("Successfully processed the dataset")
+elif mode == "import":
+    import pickle
+    movie_dict_file = open('../Dataset/movie_dict', 'rb')
+    moviedict = pickle.load(movie_dict_file)
+    movie_dict_file.close()
+    processed_query_data_file = open('../Dataset/processed_query_data', 'rb')
+    query = pickle.load(processed_query_data_file)
+    processed_query_data_file.close()
+    print("Successfully load the pre-saved data")
+elif mode == "export":
+    import pickle
+    movies = RetrieveData.MovieInfo(dataset_path)
+    movies.read_files()
+    moviedict = movies.get_movie_info()
+    movie_dict_file = open('../Dataset/movie_dict', 'wb')
+    pickle.dump(moviedict, movie_dict_file)
+    movie_dict_file.close()
+    processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
+    processed_data.tokenise()
+    processed_data.to_lowercase()
+    processed_data.remove_punctuation()
+    processed_data.stem_data()
+    processed_data.remove_stopwords()
+    processed_data.create_index()
+    query = Query.Query(processed_data)
+    processed_query_data_file = open('../Dataset/processed_query_data', 'wb')
+    pickle.dump(query, processed_query_data_file)
+    processed_query_data_file.close()
+    print("Successfully exported the processed data")
+
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True)
