@@ -27,15 +27,18 @@ class webScraping:
         # self.colorinfo = defaultdict(list)
         # self.soundmixes = defaultdict(list)
         # self.directors = defaultdict(list)
+        # self.keywords = defaultdict(list)
+        # self.type = defaultdict(list)
+        # self.writers = defaultdict(list)
+        # self.composers = defaultdict(list)
+        # self.editors = defaultdict(list)
+        # self.producers = defaultdict(list)
         # self.cast = defaultdict(list)
 
         # TODO
-        # self.type = defaultdict(list)
-        # self.editors = defaultdict(list)
-        # self.keywords = defaultdict(list)
-        # self.producers = defaultdict(list)
-        # self.writers = defaultdict(list)
-        # self.composers = defaultdict(list)
+        # Cast Image
+
+
 
 
     def certainResponse(self, container, curr_class, curr_str):
@@ -70,49 +73,29 @@ class webScraping:
                 return None
             else:
                 return temp.a.text
-        elif curr_str == 'director':
-            temp = container.find_all(curr_class, attrs = {'class':'ipc-inline-list__item'})
-            if temp == None:
-                return None
-            else:
-                director_ = ''
-                for i in temp:
-                    if i == temp[-1]:
-                        dir_ = i.find('a', attrs={'class':'ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link'})
-                        director_ = director_ + dir_.text
-                    else:
-                        dir_ = i.find('a', attrs={'class':'ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link'})
-                        director_ = director_ + dir_.text + ', '
-                print(director_)
+        elif curr_str == 'keywords':
+            data_keyword_ = container.findAll(curr_class, attrs={'class':'soda sodavote'})
+            k_list = [i['data-item-keyword'] for i in data_keyword_]
+            k_ = ', '.join(k_list)
+            return k_
+        
 
-    def getCredit(self, container, curr_class, curr_str):
+    def getCrew(self,container,curr_class,curr_id):
+        crew_ = container.find(curr_class,attrs={'class':"dataHeaderWithBorder",'id':curr_id})
+        contents = crew_.next_sibling.next_sibling
+        cr_list = [i.a.text.replace('\n','') for i in contents.find_all('tr')]
+        all_com = ','.join(set(cr_list))
+        return all_com
+    
 
-        if curr_str == 'cast':
-            cast_list = ''
-            for i in container:
-                if i == container[-1]:
-                    cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
-                    cast_list = cast_list + cast_.text
-                else:
-                    cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
-                    cast_list = cast_list + cast_.text + ', '
-            # print(cast_list)
-            return cast_list
-        elif curr_str =='director':
-            temp = container.find_all(curr_class, attrs = {'class':'ipc-inline-list__item'})
-            if temp == None:
-                return None
-            else:
-                director_ = ''
-                for i in temp:
-                    if i == temp[-1]:
-                        dir_ = i.find('a', attrs={'class':'ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link'})
-                        director_ = director_ + dir_.text
-                    else:
-                        dir_ = i.find('a', attrs={'class':'ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link'})
-                        director_ = director_ + dir_.text + ', '
-                # print(director_)
-                return director_
+    def geCast(self,container,curr_class):
+        cast_list = []
+        for i in container:
+            cast_ = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'})
+            char_ = i.find(curr_class,attrs={'data-testid':'cast-item-characters-link'})
+            cast_list.append((cast_.text, char_.span.text))
+        return cast_list
+    
 
 
     def getResponse(self):
@@ -120,7 +103,6 @@ class webScraping:
         response = requests.get(self.url)
         soup = BeautifulSoup(response.content, 'html.parser')
         data_div = soup.findAll('div', attrs={'class':'lister-item mode-advanced'})
-        print(len(data_div))
         for container in data_div:
             curr_info = defaultdict(str)
             raw_id = container.h3.a['href']
@@ -137,25 +119,41 @@ class webScraping:
             # Access to the detail page
             curr_ = self.url_baseline + '/title/'+curr_id+'/'   
             req = requests.get(url= curr_, headers={'User-Agent': 'Mozilla/5.0'}).text
-            curr_soup = BeautifulSoup(req,'html.parser')
-            data_detail = curr_soup.find('div', attrs = {'data-testid':'title-details-section','class':'sc-f65f65be-0 fVkLRr'})
+            curr_page = BeautifulSoup(req,'html.parser')
+            data_detail = curr_page.find('div', attrs = {'data-testid':'title-details-section','class':'sc-f65f65be-0 fVkLRr'})
             curr_info['releasedates'] = data_detail.find('li', class_="ipc-inline-list__item").text
             data_country = data_detail.find('li', attrs = {'class':'ipc-metadata-list__item','data-testid':'title-details-origin'})
             curr_info['countries'] = data_country.a.text
             data_language = data_detail.find('li', attrs = {'class':'ipc-metadata-list__item','data-testid':'title-details-languages'})
             curr_info['language'] = data_language.a.text
 
-            data_tech = curr_soup.find('div', attrs = {'data-testid':'title-techspecs-section','class':'sc-f65f65be-0 fVkLRr'})
+            data_tech = curr_page.find('div', attrs = {'data-testid':'title-techspecs-section','class':'sc-f65f65be-0 fVkLRr'})
             curr_info['colorinfo'] = self.certainResponse(data_tech,'li','color')
             curr_info['soundmixes'] = self.certainResponse(data_tech,'li','soundmixes')
 
-            data_director = curr_soup.find('div', attrs={'class':'ipc-metadata-list-item__content-container'})
-            curr_info['directors'] = self.getCredit(data_director,'li','director')
+            data_cast = curr_page.findAll('div', attrs={'data-testid':'title-cast-item','class':'sc-bfec09a1-5 kUzsHJ'})
+            curr_info['cast'] = self.geCast(data_cast,'a')
+            
+            data_type = curr_page.find('meta',attrs={'property':{'og:type'}})
+            curr_info['type'] = data_type['content'].split('.')[1]
 
-            data_cast = curr_soup.findAll('div', attrs={'data-testid':'title-cast-item','class':'sc-bfec09a1-5 kUzsHJ'})
-            curr_info['cast'] = self.getCredit(data_cast,'a','cast')
 
+            keywords_ = self.url_baseline + '/title/'+curr_id+'/keywords?ref_=tt_stry_kw'
+            req_k = requests.get(url= keywords_, headers={'User-Agent': 'Mozilla/5.0'}).text
+            k_soup = BeautifulSoup(req_k,'html.parser')
 
+            curr_info['keywords'] = self.certainResponse(k_soup,'td','keywords')
+
+            cast_crew_ = self.url_baseline + '/title/'+curr_id+'/fullcredits/?ref_=tt_cl_sm'
+            req_c = requests.get(url= cast_crew_, headers={'User-Agent': 'Mozilla/5.0'}).text
+            c_soup = BeautifulSoup(req_c,'html.parser')
+
+            curr_info['director'] = self.getCrew(c_soup,'h4','director') 
+            curr_info['composer'] = self.getCrew(c_soup,'h4','composer')
+            curr_info['producer'] = self.getCrew(c_soup,'h4','producer')
+            curr_info['writer'] = self.getCrew(c_soup,'h4','writer')
+            curr_info['editor'] = self.getCrew(c_soup,'h4','editor')     
+            
 
             print(curr_info)
             self.allInfo[curr_id] = curr_info
@@ -173,7 +171,6 @@ if __name__ == '__main__':
     webScrap = webScraping(args.url, args.url_baseline)
 
     webScrap.getResponse()
-    # webScrap.getDetailResponse()
 
 
 # command line: 
