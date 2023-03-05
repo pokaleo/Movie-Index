@@ -1,12 +1,13 @@
 import translators as ts
 from serpapi import GoogleSearch
 from spellchecker import SpellChecker
-import deepl 
+import deepl
+
 
 def deepl_trans(text):
-    translator = deepl.Translator('f82be482-1b15-f491-da0e-c64e081bd201:fx') 
+    translator = deepl.Translator('f82be482-1b15-f491-da0e-c64e081bd201:fx')
     translated_texts = set([])
-    results = translator.translate_text(text, target_lang='EN-GB') 
+    results = translator.translate_text(text, target_lang='EN-GB')
     for result in results:
         translated_texts.add(result.text)
     return list(translated_texts)
@@ -15,19 +16,21 @@ def deepl_trans(text):
 def trans_api(string):
     return ts.translate_text(string)
 
+
 def spellcheck(string):
     params = {
         "q": string,
         "gl": "us",
         "api_key": 'c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e'
-        }
+    }
 
     search = GoogleSearch(params)
     results = search.get_dict()
-    results =results["search_information"]
+    results = results["search_information"]
     if 'spelling_fix' in results.keys():
         return results['spelling_fix']
     return string
+
 
 def local_spellcheck(string):
     '''
@@ -47,7 +50,7 @@ def local_spellcheck(string):
         misspelled = checker.unknown(words)
         for word in words:
             if word in misspelled:
-                new_word=checker.correction(word)
+                new_word = checker.correction(word)
                 if new_word != None:
                     new_words.append(new_word)
             else:
