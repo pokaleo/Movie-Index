@@ -1,0 +1,1825 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<meta name="generator" content="pdoc 0.10.0" />
+<title>Backend.Query API documentation</title>
+<meta name="description" content="Author: Leo LI
+Date: 10th Feb 2023
+Description: Responsible for retrieve results for different
+types of queries" />
+<link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
+<link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
+<link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
+<style>:root{--highlight-color:#fe9}.flex{display:flex !important}body{line-height:1.5em}#content{padding:20px}#sidebar{padding:30px;overflow:hidden}#sidebar > *:last-child{margin-bottom:2cm}.http-server-breadcrumbs{font-size:130%;margin:0 0 15px 0}#footer{font-size:.75em;padding:5px 30px;border-top:1px solid #ddd;text-align:right}#footer p{margin:0 0 0 1em;display:inline-block}#footer p:last-child{margin-right:30px}h1,h2,h3,h4,h5{font-weight:300}h1{font-size:2.5em;line-height:1.1em}h2{font-size:1.75em;margin:1em 0 .50em 0}h3{font-size:1.4em;margin:25px 0 10px 0}h4{margin:0;font-size:105%}h1:target,h2:target,h3:target,h4:target,h5:target,h6:target{background:var(--highlight-color);padding:.2em 0}a{color:#058;text-decoration:none;transition:color .3s ease-in-out}a:hover{color:#e82}.title code{font-weight:bold}h2[id^="header-"]{margin-top:2em}.ident{color:#900}pre code{background:#f8f8f8;font-size:.8em;line-height:1.4em}code{background:#f2f2f1;padding:1px 4px;overflow-wrap:break-word}h1 code{background:transparent}pre{background:#f8f8f8;border:0;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin:1em 0;padding:1ex}#http-server-module-list{display:flex;flex-flow:column}#http-server-module-list div{display:flex}#http-server-module-list dt{min-width:10%}#http-server-module-list p{margin-top:0}.toc ul,#index{list-style-type:none;margin:0;padding:0}#index code{background:transparent}#index h3{border-bottom:1px solid #ddd}#index ul{padding:0}#index h4{margin-top:.6em;font-weight:bold}@media (min-width:200ex){#index .two-column{column-count:2}}@media (min-width:300ex){#index .two-column{column-count:3}}dl{margin-bottom:2em}dl dl:last-child{margin-bottom:4em}dd{margin:0 0 1em 3em}#header-classes + dl > dd{margin-bottom:3em}dd dd{margin-left:2em}dd p{margin:10px 0}.name{background:#eee;font-weight:bold;font-size:.85em;padding:5px 10px;display:inline-block;min-width:40%}.name:hover{background:#e0e0e0}dt:target .name{background:var(--highlight-color)}.name > span:first-child{white-space:nowrap}.name.class > span:nth-child(2){margin-left:.4em}.inherited{color:#999;border-left:5px solid #eee;padding-left:1em}.inheritance em{font-style:normal;font-weight:bold}.desc h2{font-weight:400;font-size:1.25em}.desc h3{font-size:1em}.desc dt code{background:inherit}.source summary,.git-link-div{color:#666;text-align:right;font-weight:400;font-size:.8em;text-transform:uppercase}.source summary > *{white-space:nowrap;cursor:pointer}.git-link{color:inherit;margin-left:1em}.source pre{max-height:500px;overflow:auto;margin:0}.source pre code{font-size:12px;overflow:visible}.hlist{list-style:none}.hlist li{display:inline}.hlist li:after{content:',\2002'}.hlist li:last-child:after{content:none}.hlist .hlist{display:inline;padding-left:1em}img{max-width:100%}td{padding:0 .5em}.admonition{padding:.1em .5em;margin-bottom:1em}.admonition-title{font-weight:bold}.admonition.note,.admonition.info,.admonition.important{background:#aef}.admonition.todo,.admonition.versionadded,.admonition.tip,.admonition.hint{background:#dfd}.admonition.warning,.admonition.versionchanged,.admonition.deprecated{background:#fd4}.admonition.error,.admonition.danger,.admonition.caution{background:lightpink}</style>
+<style media="screen and (min-width: 700px)">@media screen and (min-width:700px){#sidebar{width:30%;height:100vh;overflow:auto;position:sticky;top:0}#content{width:70%;max-width:100ch;padding:3em 4em;border-left:1px solid #ddd}pre code{font-size:1em}.item .name{font-size:1em}main{display:flex;flex-direction:row-reverse;justify-content:flex-end}.toc ul ul,#index ul{padding-left:1.5em}.toc > ul > li{margin-top:.5em}}</style>
+<style media="print">@media print{#sidebar h1{page-break-before:always}.source{display:none}}@media print{*{background:transparent !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important}a[href]:after{content:" (" attr(href) ")";font-size:90%}a[href][title]:after{content:none}abbr[title]:after{content:" (" attr(title) ")"}.ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after{content:""}pre,blockquote{border:1px solid #999;page-break-inside:avoid}thead{display:table-header-group}tr,img{page-break-inside:avoid}img{max-width:100% !important}@page{margin:0.5cm}p,h2,h3{orphans:3;widows:3}h1,h2,h3,h4,h5,h6{page-break-after:avoid}}</style>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js" integrity="sha256-Uv3H6lx7dJmRfRvH8TH6kJD1TSK1aFcwgx+mdg3epi8=" crossorigin></script>
+<script>window.addEventListener('DOMContentLoaded', () => hljs.initHighlighting())</script>
+</head>
+<body>
+<main>
+<article id="content">
+<header>
+<h1 class="title">Module <code>Backend.Query</code></h1>
+</header>
+<section id="section-intro">
+<hr>
+<p>Author: Leo LI
+Date: 10th Feb 2023
+Description: Responsible for retrieve results for different
+types of queries</p>
+<hr>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">&#34;&#34;&#34;
+------------------------------------------------------------
+Author: Leo LI
+Date: 10th Feb 2023
+Description: Responsible for retrieve results for different
+types of queries
+------------------------------------------------------------
+&#34;&#34;&#34;
+import math
+import Util
+
+
+class Query:
+    def __init__(self, dataset):
+        self.__dataset = dataset.get_data()
+        self.__index_general = dataset.get_index()
+        self.__index_title = dataset.get_index_title()
+        self.__index_keyword = dataset.get_index_keywords()
+        self.__index_genre = dataset.get_index_genre()
+        self.__average_number_of_terms = self.__cal_average_number_of_terms()
+        self.__number_of_docs = len(self.__dataset.keys())
+        self.stop_words = dataset.get_stop_words()
+
+    # providing util method for proper prickling
+    def __getstate__(self):
+        return {
+            &#34;dataset&#34;: self.__dataset,
+            &#34;index_general&#34;: self.__index_general,
+            &#34;index_title&#34;: self.__index_title,
+            &#34;index_keyword&#34;: self.__index_keyword,
+            &#34;index_genre&#34;: self.__index_genre,
+            &#34;average_number_of_terms&#34;: self.__average_number_of_terms,
+            &#34;number_of_docs&#34;: self.__number_of_docs,
+            &#34;stop_words&#34;: self.stop_words,
+        }
+
+    def __setstate__(self, state):
+        self.__dataset = state[&#34;dataset&#34;]
+        self.__index_general = state[&#34;index_general&#34;]
+        self.__index_title = state[&#34;index_title&#34;]
+        self.__index_keyword = state[&#34;index_keyword&#34;]
+        self.__index_genre = state[&#34;index_genre&#34;]
+        self.__average_number_of_terms = state[&#34;average_number_of_terms&#34;]
+        self.__number_of_docs = state[&#34;number_of_docs&#34;]
+        self.stop_words = state[&#34;stop_words&#34;]
+
+    def by_title(self, keywords, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Search by title
+
+        Args:
+            keywords: String -&gt; query contents
+            year1: Integer -&gt; year filter - published later than...
+            year2: Integer -&gt; year filter - published earlier than...
+            not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+        Raises:
+            Exception: If keywords is empty
+
+        Returns:
+            List -&gt; A list of relevant docids
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower(), &#34;title&#34;)
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), &#34;title&#34;)
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def by_keywords(self, keywords, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Search by keywords
+
+        Args:
+            keywords: String -&gt; query contents
+            year1: Integer -&gt; year filter - published later than...
+            year2: Integer -&gt; year filter - published earlier than...
+            not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+        Returns:
+            List -&gt; A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower(), &#34;keywords&#34;)
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), &#34;keywords&#34;)
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def by_genres(self, keywords, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Search by genre
+
+        Args:
+            keywords: String -&gt; query contents
+            year1: Integer -&gt; year filter - published later than...
+            year2: Integer -&gt; year filter - published earlier than...
+            not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+        Returns:
+            List -&gt; A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower(), &#34;genre&#34;)
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), &#34;genre&#34;)
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def by_general(self, keywords, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Perform general queries
+
+        Args:
+            keywords: String - query contents
+            year1: Integer -&gt; year filter - published later than...
+            year2: Integer -&gt; year filter - published earlier than...
+            not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+        Returns:
+            List -&gt; A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower())
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower())
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def __filter_year(self, year, position, docids):
+        &#34;&#34;&#34;
+        Method to filter the result by year
+
+        Args:
+            year: Integer -&gt; representing the date
+            position: Integer -&gt; Direction of the filter, 1 represent find result later than &#34;year&#34;, otherwise earlier
+            docids: List -&gt; A list of docids
+
+        Returns:
+            List -&gt; A list of docids filtered
+        &#34;&#34;&#34;
+        result = []
+        if position == 1:
+            for docid in docids:
+                if int(self.__dataset[docid][&#34;year&#34;]) &gt; year:
+                    result.append(docid)
+        else:
+            for docid in docids:
+                if int(self.__dataset[docid][&#34;year&#34;]) &lt; year:
+                    result.append(docid)
+        return result
+
+    def __plain_search(self, word_to_be_queried, attributes=None):
+        &#34;&#34;&#34;
+        Method to perform plain single word search
+
+        Args:
+            word_to_be_queried: String -&gt; the word to be queried
+            attributes: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+
+        Returns:
+            List -&gt; A list of relevant docids
+        &#34;&#34;&#34;
+        result = []
+        # Detect if the search is specified to an attribute
+        if attributes:
+            if attributes == &#34;title&#34;:
+                if word_to_be_queried in self.__index_title:
+                    for docid, position in self.__index_title[word_to_be_queried][1].items():
+                        result.append(docid)
+            if attributes == &#34;keywords&#34;:
+                if word_to_be_queried in self.__index_keyword:
+                    for docid, position in self.__index_keyword[word_to_be_queried][1].items():
+                        result.append(docid)
+            if attributes == &#34;genre&#34;:
+                if word_to_be_queried in self.__index_genre:
+                    for docid, position in self.__index_genre[word_to_be_queried][1].items():
+                        result.append(docid)
+        # Use general research if no attribute input 
+        else:
+            if word_to_be_queried in self.__index_general:
+                for docid, position in self.__index_general[word_to_be_queried][1].items():
+                    result.append(docid)
+            stemmed = Util.stem_data(word_to_be_queried)
+            punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
+            punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
+            if stemmed in self.__index_general:
+                for docid, position in self.__index_general[stemmed][1].items():
+                    result.append(docid)
+            if punctuationRemoved1 in self.__index_general:
+                for docid, position in self.__index_general[punctuationRemoved1][1].items():
+                    result.append(docid)
+            if punctuationRemoved2 in self.__index_general:
+                for docid, position in self.__index_general[punctuationRemoved2][1].items():
+                    result.append(docid)
+        return list(dict.fromkeys(result))
+
+    def __position_search(self, word_to_be_queried, attribute=None):
+        &#34;&#34;&#34;
+        Method to direct perform single word search with docid
+
+        Args:
+            word_to_be_queried: String -&gt; the word to be queried
+            attribute: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+
+        Returns:
+            List -&gt; A list of relevant docids
+        &#34;&#34;&#34;
+        result = {}
+        stemmed = Util.stem_data(word_to_be_queried)
+        punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
+        punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
+        if attribute is None:
+            search_field = self.__index_general
+        elif attribute == &#34;title&#34;:
+            search_field = self.__index_title
+        elif attribute == &#34;keywords&#34;:
+            search_field = self.__index_keyword
+        elif attribute == &#34;genre&#34;:
+            search_field = self.__index_genre
+        if word_to_be_queried in search_field:
+            for docid, position in search_field[word_to_be_queried][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if stemmed in search_field:
+            for docid, position in search_field[stemmed][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if punctuationRemoved1 in search_field:
+            for docid, position in search_field[punctuationRemoved1][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if punctuationRemoved2 in search_field:
+            for docid, position in search_field[punctuationRemoved2][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        # remove duplicate
+        for key in result:
+            new_list = []
+            for item in result[key]:
+                if item not in new_list:
+                    new_list.append(item)
+            result[key] = new_list
+        return result
+
+    def phrase_search_handler(self, keywords, year1=None, year2=None, not_ranking=False, attribute=None, is_list=False):
+        &#34;&#34;&#34;
+        Entry for perform a new query, handling the phrase search
+
+        Args:
+            keywords: String -&gt; query contents
+            year1: Integer -&gt; Year filter - published later than...
+            year2: Integer -&gt; Year filter - published earlier than...
+            not_ranking: Bool -&gt; Switch for applying BM25 ranking
+            attribute: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+            is_list: Bool -&gt; if the keywords is passed in as a list of words, used for recursive call
+
+        Returns:
+            List -&gt; A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            # remove &#34; in the beginning and the ending
+            if not is_list:
+                if not Util.is_phrase_search(keywords):
+                    if attribute is None:
+                        return self.by_general(keywords, year1, year2, not_ranking)
+                    elif attribute == &#34;title&#34;:
+                        return self.by_title(keywords, year1, year2, not_ranking)
+                    elif attribute == &#34;keywords&#34;:
+                        return self.by_keywords(keywords, year1, year2, not_ranking)
+                    elif attribute == &#34;genre&#34;:
+                        return self.by_genres(keywords, year1, year2, not_ranking)
+                keywords = keywords.split()
+                keywords[0] = keywords[0][1:]
+                keywords[len(keywords) - 1] = keywords[len(keywords) - 1][:-1]
+            for i in range(1, len(keywords)):
+                if i == 1:
+                    result += self.proximity_search(keywords[i - 1].lower(), keywords[i].lower(), 1, True, attribute)
+                else:
+                    result = list(set(result) &amp;
+                                  set(self.proximity_search(keywords[i - 1].lower(),
+                                                            keywords[i].lower(), 1, True, attribute)))
+            result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if not result and not attribute:
+            return self.phrase_search_handler(Util.remove_stop_words(keywords, self.stop_words),
+                                              year1, year2, not_ranking, attribute, True)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def proximity_search(self, word1, word2, distance, phrase_search=False, attribute=None,
+                         direct_call=False, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Method to perform proximity search
+
+        Args:
+            word1: String -&gt; first word to be queried
+            word2: String -&gt; second word to be queried
+            distance: Integer -&gt; distance between the two words
+            phrase_search: Bool -&gt; is this a phrase search
+            attribute: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+            direct_call: Bool -&gt; if the method is directly called by the frontend
+            year1: Integer -&gt; Year filter - published later than...
+            year2: Integer -&gt; Year filter - published earlier than...
+            not_ranking: Bool -&gt; Switch for applying BM25 ranking
+
+        Returns:
+            List -&gt; A list of relevant docids
+        &#34;&#34;&#34;
+        result = []
+        if word1 and word2 and distance is not None:
+            word1_result = self.__position_search(word1, attribute)
+            word2_result = self.__position_search(word2, attribute)
+            common_result = set(word1_result.keys()) &amp; set(word2_result.keys())
+            if common_result:
+                for docid in common_result:
+                    for position1 in word1_result[docid]:
+                        if not position1.isnumeric():
+                            continue
+                        for position2 in word2_result[docid]:
+                            if not position2.isnumeric():
+                                continue
+                            if phrase_search:
+                                if int(position2) - int(position1) == 1:
+                                    result.append(docid)
+                            else:
+                                if abs(int(position1) - int(position2)) &lt;= distance:
+                                    result.append(docid)
+        if direct_call:
+            if year1:
+                result = self.__filter_year(year1, 1, result)
+            if year2:
+                result = self.__filter_year(year2, 2, result)
+            if not_ranking:
+                return result
+            return self.bm25_ranking([word1, word2], result)
+        return result
+
+    def __term_frequency(self, word_to_be_queried, docid):
+        &#34;&#34;&#34;
+        Compute the term frequency for a token in a specific document
+
+        Args:
+            word_to_be_queried: String -&gt; the token to be proceed
+            docid: Integer -&gt; the document id
+
+        Returns:
+            Integer -&gt; term frequency
+        &#34;&#34;&#34;
+        appearance_in_cast = 0
+        appearance_in_title = 0
+        appearance_in_spot = 0
+        appearance_in_keywords = 0
+        if docid in self.__index_general[word_to_be_queried][1]:
+            for position in self.__index_general[word_to_be_queried][1][docid]:
+                if position.isnumeric():
+                    if int(position) &lt; 100:
+                        appearance_in_title += 1
+                    elif int(position) &gt; 1000000:
+                        appearance_in_cast += 1
+                    elif int(position) &gt; 500:
+                        appearance_in_spot += 1
+                elif position == &#34;keyword&#34;:
+                    appearance_in_keywords += 1
+            return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast * 0.5 +
+                    appearance_in_title * 3.5 + appearance_in_spot * 1.8 + appearance_in_keywords * 2.3)
+        else:
+            # TODO should it be 0 instead of 0.1?
+            return 0.1
+
+    def __document_frequency(self, word_to_be_queried):
+        &#34;&#34;&#34;
+        Compute the document frequency for a token
+
+        Args:
+            word_to_be_queried: String -&gt; the token to be proceed
+
+        Returns:
+            Integer -&gt; document freqhency
+        &#34;&#34;&#34;
+        return len(self.__index_general[word_to_be_queried][1])
+
+    def __cal_average_number_of_terms(self):
+        &#34;&#34;&#34;
+        Calculate the average number of terms included in each document
+
+        Args:
+            n/a
+
+        Returns:
+            Integer -&gt; the average number of terms included in each document
+        &#34;&#34;&#34;
+        number_of_tokens = 0
+        for docid, info in self.__dataset.items():
+            for attribute, token in info.items():
+                if token is not None:
+                    number_of_tokens += len(token)
+        return number_of_tokens / len(self.__dataset)
+
+    def __number_of_terms(self, docid):
+        &#34;&#34;&#34;
+        Compute the number of terms appeared in a specific document
+
+        Args:
+            docid: Integer -&gt; the document to be proceeded
+
+        Returns:
+            Integer -&gt; number of terms appeared in a specific document
+        &#34;&#34;&#34;
+        number_of_tokens = 0
+        for attribute, token in self.__dataset[docid].items():
+            if token is not None:
+                number_of_tokens += len(token)
+        return number_of_tokens
+
+    def bm25(self, word_to_be_queried, docid):
+        &#34;&#34;&#34;
+        Calculate the BM25 score for a specific term in a specific document
+
+        Args:
+            word_to_be_queried: String -&gt; the term to be proceed
+            docid: Integer -&gt; the document to be proceeded
+
+        Returns:
+            Integer -&gt; BM25 score
+        &#34;&#34;&#34;
+        k = 1.5
+        if word_to_be_queried not in self.__index_general:
+            return 0
+        document_frequency = self.__document_frequency(word_to_be_queried)
+        term_frequency = self.__term_frequency(word_to_be_queried, docid)
+        L_division = self.__number_of_terms(docid) / self.__average_number_of_terms
+        log_value = (self.__number_of_docs - document_frequency + 0.5) / \
+                    (document_frequency + 0.5)
+        w_td = format((term_frequency / (k * L_division + term_frequency + 0.5))
+                      * math.log10(log_value), &#39;.4f&#39;)
+        w_td = float(w_td)
+        return w_td
+
+    def bm25_ranking(self, keywords, docid_list, returnScore=False):
+        &#34;&#34;&#34;
+        Ranking a list of document by BM25 scoring
+
+        Args:
+            keywords: String -&gt; query contents
+            docid_list: List -&gt; a list of document id
+            returnScore: Bool -&gt; return the scoring rather than sorting the docid_list
+
+        Returns:
+            docid_list: List -&gt; a list of document id sorted based on BM25 scheme
+            bm25score_list(optional): List -&gt; a list of BM25 scoring, the list will not be ranked if this is returned
+        &#34;&#34;&#34;
+        term_list = keywords
+        bm25score_list = []
+        for docid in docid_list:
+            sum_of_bm25 = 0
+            for term in term_list:
+                sum_of_bm25 += self.bm25(Util.to_lowercase(term), docid)
+                sum_of_bm25 += self.bm25(Util.stem_data(term), docid)
+            bm25score_list.append(sum_of_bm25)
+        if returnScore:
+            return docid_list, bm25score_list
+        return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
+
+    def alphabet_ranking(self, docid_list):
+        &#34;&#34;&#34;
+        Sort a list of document by alphabet order
+
+        Args:
+            docid_list: List -&gt; a list of document id
+
+        Returns:
+            List -&gt; a list of document id sorted based on alphabet order
+        &#34;&#34;&#34;
+        title_list = []
+        for docid in docid_list:
+            temp_list = self.__dataset[docid][&#39;title&#39;]
+            title = &#39; &#39;.join(temp_list)
+            title_list.append(title)
+        ordered_list = sorted(docid_list, key=lambda x: title_list[docid_list.index(x)], reverse=False)
+        return ordered_list
+
+    def year_ranking(self, docid_list):
+        year_list = []
+        for docid in docid_list:
+            year_list.append(int(self.__dataset[docid][&#39;year&#39;]))
+        return [x for _, x in sorted(zip(year_list, docid_list))]
+
+    def year_ranking_reverse(self, docid_list):
+        year_list = []
+        for docid in docid_list:
+            year_list.append(int(self.__dataset[docid][&#39;year&#39;]))
+        return [x for _, x in sorted(zip(year_list, docid_list), reverse=True)]
+
+    # TODO Is the above 3 method really useful?</code></pre>
+</details>
+</section>
+<section>
+</section>
+<section>
+</section>
+<section>
+</section>
+<section>
+<h2 class="section-title" id="header-classes">Classes</h2>
+<dl>
+<dt id="Backend.Query.Query"><code class="flex name class">
+<span>class <span class="ident">Query</span></span>
+<span>(</span><span>dataset)</span>
+</code></dt>
+<dd>
+<div class="desc"></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">class Query:
+    def __init__(self, dataset):
+        self.__dataset = dataset.get_data()
+        self.__index_general = dataset.get_index()
+        self.__index_title = dataset.get_index_title()
+        self.__index_keyword = dataset.get_index_keywords()
+        self.__index_genre = dataset.get_index_genre()
+        self.__average_number_of_terms = self.__cal_average_number_of_terms()
+        self.__number_of_docs = len(self.__dataset.keys())
+        self.stop_words = dataset.get_stop_words()
+
+    # providing util method for proper prickling
+    def __getstate__(self):
+        return {
+            &#34;dataset&#34;: self.__dataset,
+            &#34;index_general&#34;: self.__index_general,
+            &#34;index_title&#34;: self.__index_title,
+            &#34;index_keyword&#34;: self.__index_keyword,
+            &#34;index_genre&#34;: self.__index_genre,
+            &#34;average_number_of_terms&#34;: self.__average_number_of_terms,
+            &#34;number_of_docs&#34;: self.__number_of_docs,
+            &#34;stop_words&#34;: self.stop_words,
+        }
+
+    def __setstate__(self, state):
+        self.__dataset = state[&#34;dataset&#34;]
+        self.__index_general = state[&#34;index_general&#34;]
+        self.__index_title = state[&#34;index_title&#34;]
+        self.__index_keyword = state[&#34;index_keyword&#34;]
+        self.__index_genre = state[&#34;index_genre&#34;]
+        self.__average_number_of_terms = state[&#34;average_number_of_terms&#34;]
+        self.__number_of_docs = state[&#34;number_of_docs&#34;]
+        self.stop_words = state[&#34;stop_words&#34;]
+
+    def by_title(self, keywords, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Search by title
+
+        Args:
+            keywords: String -&gt; query contents
+            year1: Integer -&gt; year filter - published later than...
+            year2: Integer -&gt; year filter - published earlier than...
+            not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+        Raises:
+            Exception: If keywords is empty
+
+        Returns:
+            List -&gt; A list of relevant docids
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower(), &#34;title&#34;)
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), &#34;title&#34;)
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def by_keywords(self, keywords, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Search by keywords
+
+        Args:
+            keywords: String -&gt; query contents
+            year1: Integer -&gt; year filter - published later than...
+            year2: Integer -&gt; year filter - published earlier than...
+            not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+        Returns:
+            List -&gt; A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower(), &#34;keywords&#34;)
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), &#34;keywords&#34;)
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def by_genres(self, keywords, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Search by genre
+
+        Args:
+            keywords: String -&gt; query contents
+            year1: Integer -&gt; year filter - published later than...
+            year2: Integer -&gt; year filter - published earlier than...
+            not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+        Returns:
+            List -&gt; A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower(), &#34;genre&#34;)
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), &#34;genre&#34;)
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def by_general(self, keywords, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Perform general queries
+
+        Args:
+            keywords: String - query contents
+            year1: Integer -&gt; year filter - published later than...
+            year2: Integer -&gt; year filter - published earlier than...
+            not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+        Returns:
+            List -&gt; A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower())
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower())
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def __filter_year(self, year, position, docids):
+        &#34;&#34;&#34;
+        Method to filter the result by year
+
+        Args:
+            year: Integer -&gt; representing the date
+            position: Integer -&gt; Direction of the filter, 1 represent find result later than &#34;year&#34;, otherwise earlier
+            docids: List -&gt; A list of docids
+
+        Returns:
+            List -&gt; A list of docids filtered
+        &#34;&#34;&#34;
+        result = []
+        if position == 1:
+            for docid in docids:
+                if int(self.__dataset[docid][&#34;year&#34;]) &gt; year:
+                    result.append(docid)
+        else:
+            for docid in docids:
+                if int(self.__dataset[docid][&#34;year&#34;]) &lt; year:
+                    result.append(docid)
+        return result
+
+    def __plain_search(self, word_to_be_queried, attributes=None):
+        &#34;&#34;&#34;
+        Method to perform plain single word search
+
+        Args:
+            word_to_be_queried: String -&gt; the word to be queried
+            attributes: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+
+        Returns:
+            List -&gt; A list of relevant docids
+        &#34;&#34;&#34;
+        result = []
+        # Detect if the search is specified to an attribute
+        if attributes:
+            if attributes == &#34;title&#34;:
+                if word_to_be_queried in self.__index_title:
+                    for docid, position in self.__index_title[word_to_be_queried][1].items():
+                        result.append(docid)
+            if attributes == &#34;keywords&#34;:
+                if word_to_be_queried in self.__index_keyword:
+                    for docid, position in self.__index_keyword[word_to_be_queried][1].items():
+                        result.append(docid)
+            if attributes == &#34;genre&#34;:
+                if word_to_be_queried in self.__index_genre:
+                    for docid, position in self.__index_genre[word_to_be_queried][1].items():
+                        result.append(docid)
+        # Use general research if no attribute input 
+        else:
+            if word_to_be_queried in self.__index_general:
+                for docid, position in self.__index_general[word_to_be_queried][1].items():
+                    result.append(docid)
+            stemmed = Util.stem_data(word_to_be_queried)
+            punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
+            punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
+            if stemmed in self.__index_general:
+                for docid, position in self.__index_general[stemmed][1].items():
+                    result.append(docid)
+            if punctuationRemoved1 in self.__index_general:
+                for docid, position in self.__index_general[punctuationRemoved1][1].items():
+                    result.append(docid)
+            if punctuationRemoved2 in self.__index_general:
+                for docid, position in self.__index_general[punctuationRemoved2][1].items():
+                    result.append(docid)
+        return list(dict.fromkeys(result))
+
+    def __position_search(self, word_to_be_queried, attribute=None):
+        &#34;&#34;&#34;
+        Method to direct perform single word search with docid
+
+        Args:
+            word_to_be_queried: String -&gt; the word to be queried
+            attribute: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+
+        Returns:
+            List -&gt; A list of relevant docids
+        &#34;&#34;&#34;
+        result = {}
+        stemmed = Util.stem_data(word_to_be_queried)
+        punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
+        punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
+        if attribute is None:
+            search_field = self.__index_general
+        elif attribute == &#34;title&#34;:
+            search_field = self.__index_title
+        elif attribute == &#34;keywords&#34;:
+            search_field = self.__index_keyword
+        elif attribute == &#34;genre&#34;:
+            search_field = self.__index_genre
+        if word_to_be_queried in search_field:
+            for docid, position in search_field[word_to_be_queried][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if stemmed in search_field:
+            for docid, position in search_field[stemmed][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if punctuationRemoved1 in search_field:
+            for docid, position in search_field[punctuationRemoved1][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        if punctuationRemoved2 in search_field:
+            for docid, position in search_field[punctuationRemoved2][1].items():
+                if docid not in result:
+                    result[docid] = position
+                else:
+                    result[docid] += position
+        # remove duplicate
+        for key in result:
+            new_list = []
+            for item in result[key]:
+                if item not in new_list:
+                    new_list.append(item)
+            result[key] = new_list
+        return result
+
+    def phrase_search_handler(self, keywords, year1=None, year2=None, not_ranking=False, attribute=None, is_list=False):
+        &#34;&#34;&#34;
+        Entry for perform a new query, handling the phrase search
+
+        Args:
+            keywords: String -&gt; query contents
+            year1: Integer -&gt; Year filter - published later than...
+            year2: Integer -&gt; Year filter - published earlier than...
+            not_ranking: Bool -&gt; Switch for applying BM25 ranking
+            attribute: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+            is_list: Bool -&gt; if the keywords is passed in as a list of words, used for recursive call
+
+        Returns:
+            List -&gt; A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        &#34;&#34;&#34;
+        result = []
+        if keywords:
+            # remove &#34; in the beginning and the ending
+            if not is_list:
+                if not Util.is_phrase_search(keywords):
+                    if attribute is None:
+                        return self.by_general(keywords, year1, year2, not_ranking)
+                    elif attribute == &#34;title&#34;:
+                        return self.by_title(keywords, year1, year2, not_ranking)
+                    elif attribute == &#34;keywords&#34;:
+                        return self.by_keywords(keywords, year1, year2, not_ranking)
+                    elif attribute == &#34;genre&#34;:
+                        return self.by_genres(keywords, year1, year2, not_ranking)
+                keywords = keywords.split()
+                keywords[0] = keywords[0][1:]
+                keywords[len(keywords) - 1] = keywords[len(keywords) - 1][:-1]
+            for i in range(1, len(keywords)):
+                if i == 1:
+                    result += self.proximity_search(keywords[i - 1].lower(), keywords[i].lower(), 1, True, attribute)
+                else:
+                    result = list(set(result) &amp;
+                                  set(self.proximity_search(keywords[i - 1].lower(),
+                                                            keywords[i].lower(), 1, True, attribute)))
+            result = list(dict.fromkeys(result))
+        else:
+            raise Exception(&#34;Keywords is empty!&#34;)
+        if not result and not attribute:
+            return self.phrase_search_handler(Util.remove_stop_words(keywords, self.stop_words),
+                                              year1, year2, not_ranking, attribute, True)
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
+    def proximity_search(self, word1, word2, distance, phrase_search=False, attribute=None,
+                         direct_call=False, year1=None, year2=None, not_ranking=False):
+        &#34;&#34;&#34;
+        Method to perform proximity search
+
+        Args:
+            word1: String -&gt; first word to be queried
+            word2: String -&gt; second word to be queried
+            distance: Integer -&gt; distance between the two words
+            phrase_search: Bool -&gt; is this a phrase search
+            attribute: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+            direct_call: Bool -&gt; if the method is directly called by the frontend
+            year1: Integer -&gt; Year filter - published later than...
+            year2: Integer -&gt; Year filter - published earlier than...
+            not_ranking: Bool -&gt; Switch for applying BM25 ranking
+
+        Returns:
+            List -&gt; A list of relevant docids
+        &#34;&#34;&#34;
+        result = []
+        if word1 and word2 and distance is not None:
+            word1_result = self.__position_search(word1, attribute)
+            word2_result = self.__position_search(word2, attribute)
+            common_result = set(word1_result.keys()) &amp; set(word2_result.keys())
+            if common_result:
+                for docid in common_result:
+                    for position1 in word1_result[docid]:
+                        if not position1.isnumeric():
+                            continue
+                        for position2 in word2_result[docid]:
+                            if not position2.isnumeric():
+                                continue
+                            if phrase_search:
+                                if int(position2) - int(position1) == 1:
+                                    result.append(docid)
+                            else:
+                                if abs(int(position1) - int(position2)) &lt;= distance:
+                                    result.append(docid)
+        if direct_call:
+            if year1:
+                result = self.__filter_year(year1, 1, result)
+            if year2:
+                result = self.__filter_year(year2, 2, result)
+            if not_ranking:
+                return result
+            return self.bm25_ranking([word1, word2], result)
+        return result
+
+    def __term_frequency(self, word_to_be_queried, docid):
+        &#34;&#34;&#34;
+        Compute the term frequency for a token in a specific document
+
+        Args:
+            word_to_be_queried: String -&gt; the token to be proceed
+            docid: Integer -&gt; the document id
+
+        Returns:
+            Integer -&gt; term frequency
+        &#34;&#34;&#34;
+        appearance_in_cast = 0
+        appearance_in_title = 0
+        appearance_in_spot = 0
+        appearance_in_keywords = 0
+        if docid in self.__index_general[word_to_be_queried][1]:
+            for position in self.__index_general[word_to_be_queried][1][docid]:
+                if position.isnumeric():
+                    if int(position) &lt; 100:
+                        appearance_in_title += 1
+                    elif int(position) &gt; 1000000:
+                        appearance_in_cast += 1
+                    elif int(position) &gt; 500:
+                        appearance_in_spot += 1
+                elif position == &#34;keyword&#34;:
+                    appearance_in_keywords += 1
+            return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast * 0.5 +
+                    appearance_in_title * 3.5 + appearance_in_spot * 1.8 + appearance_in_keywords * 2.3)
+        else:
+            # TODO should it be 0 instead of 0.1?
+            return 0.1
+
+    def __document_frequency(self, word_to_be_queried):
+        &#34;&#34;&#34;
+        Compute the document frequency for a token
+
+        Args:
+            word_to_be_queried: String -&gt; the token to be proceed
+
+        Returns:
+            Integer -&gt; document freqhency
+        &#34;&#34;&#34;
+        return len(self.__index_general[word_to_be_queried][1])
+
+    def __cal_average_number_of_terms(self):
+        &#34;&#34;&#34;
+        Calculate the average number of terms included in each document
+
+        Args:
+            n/a
+
+        Returns:
+            Integer -&gt; the average number of terms included in each document
+        &#34;&#34;&#34;
+        number_of_tokens = 0
+        for docid, info in self.__dataset.items():
+            for attribute, token in info.items():
+                if token is not None:
+                    number_of_tokens += len(token)
+        return number_of_tokens / len(self.__dataset)
+
+    def __number_of_terms(self, docid):
+        &#34;&#34;&#34;
+        Compute the number of terms appeared in a specific document
+
+        Args:
+            docid: Integer -&gt; the document to be proceeded
+
+        Returns:
+            Integer -&gt; number of terms appeared in a specific document
+        &#34;&#34;&#34;
+        number_of_tokens = 0
+        for attribute, token in self.__dataset[docid].items():
+            if token is not None:
+                number_of_tokens += len(token)
+        return number_of_tokens
+
+    def bm25(self, word_to_be_queried, docid):
+        &#34;&#34;&#34;
+        Calculate the BM25 score for a specific term in a specific document
+
+        Args:
+            word_to_be_queried: String -&gt; the term to be proceed
+            docid: Integer -&gt; the document to be proceeded
+
+        Returns:
+            Integer -&gt; BM25 score
+        &#34;&#34;&#34;
+        k = 1.5
+        if word_to_be_queried not in self.__index_general:
+            return 0
+        document_frequency = self.__document_frequency(word_to_be_queried)
+        term_frequency = self.__term_frequency(word_to_be_queried, docid)
+        L_division = self.__number_of_terms(docid) / self.__average_number_of_terms
+        log_value = (self.__number_of_docs - document_frequency + 0.5) / \
+                    (document_frequency + 0.5)
+        w_td = format((term_frequency / (k * L_division + term_frequency + 0.5))
+                      * math.log10(log_value), &#39;.4f&#39;)
+        w_td = float(w_td)
+        return w_td
+
+    def bm25_ranking(self, keywords, docid_list, returnScore=False):
+        &#34;&#34;&#34;
+        Ranking a list of document by BM25 scoring
+
+        Args:
+            keywords: String -&gt; query contents
+            docid_list: List -&gt; a list of document id
+            returnScore: Bool -&gt; return the scoring rather than sorting the docid_list
+
+        Returns:
+            docid_list: List -&gt; a list of document id sorted based on BM25 scheme
+            bm25score_list(optional): List -&gt; a list of BM25 scoring, the list will not be ranked if this is returned
+        &#34;&#34;&#34;
+        term_list = keywords
+        bm25score_list = []
+        for docid in docid_list:
+            sum_of_bm25 = 0
+            for term in term_list:
+                sum_of_bm25 += self.bm25(Util.to_lowercase(term), docid)
+                sum_of_bm25 += self.bm25(Util.stem_data(term), docid)
+            bm25score_list.append(sum_of_bm25)
+        if returnScore:
+            return docid_list, bm25score_list
+        return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
+
+    def alphabet_ranking(self, docid_list):
+        &#34;&#34;&#34;
+        Sort a list of document by alphabet order
+
+        Args:
+            docid_list: List -&gt; a list of document id
+
+        Returns:
+            List -&gt; a list of document id sorted based on alphabet order
+        &#34;&#34;&#34;
+        title_list = []
+        for docid in docid_list:
+            temp_list = self.__dataset[docid][&#39;title&#39;]
+            title = &#39; &#39;.join(temp_list)
+            title_list.append(title)
+        ordered_list = sorted(docid_list, key=lambda x: title_list[docid_list.index(x)], reverse=False)
+        return ordered_list
+
+    def year_ranking(self, docid_list):
+        year_list = []
+        for docid in docid_list:
+            year_list.append(int(self.__dataset[docid][&#39;year&#39;]))
+        return [x for _, x in sorted(zip(year_list, docid_list))]
+
+    def year_ranking_reverse(self, docid_list):
+        year_list = []
+        for docid in docid_list:
+            year_list.append(int(self.__dataset[docid][&#39;year&#39;]))
+        return [x for _, x in sorted(zip(year_list, docid_list), reverse=True)]
+
+    # TODO Is the above 3 method really useful?</code></pre>
+</details>
+<h3>Methods</h3>
+<dl>
+<dt id="Backend.Query.Query.alphabet_ranking"><code class="name flex">
+<span>def <span class="ident">alphabet_ranking</span></span>(<span>self, docid_list)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Sort a list of document by alphabet order</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>docid_list</code></strong></dt>
+<dd>List -&gt; a list of document id</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; a list of document id sorted based on alphabet order</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def alphabet_ranking(self, docid_list):
+    &#34;&#34;&#34;
+    Sort a list of document by alphabet order
+
+    Args:
+        docid_list: List -&gt; a list of document id
+
+    Returns:
+        List -&gt; a list of document id sorted based on alphabet order
+    &#34;&#34;&#34;
+    title_list = []
+    for docid in docid_list:
+        temp_list = self.__dataset[docid][&#39;title&#39;]
+        title = &#39; &#39;.join(temp_list)
+        title_list.append(title)
+    ordered_list = sorted(docid_list, key=lambda x: title_list[docid_list.index(x)], reverse=False)
+    return ordered_list</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.bm25"><code class="name flex">
+<span>def <span class="ident">bm25</span></span>(<span>self, word_to_be_queried, docid)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Calculate the BM25 score for a specific term in a specific document</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>word_to_be_queried</code></strong></dt>
+<dd>String -&gt; the term to be proceed</dd>
+<dt><strong><code>docid</code></strong></dt>
+<dd>Integer -&gt; the document to be proceeded</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>Integer -&gt; BM25 score</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def bm25(self, word_to_be_queried, docid):
+    &#34;&#34;&#34;
+    Calculate the BM25 score for a specific term in a specific document
+
+    Args:
+        word_to_be_queried: String -&gt; the term to be proceed
+        docid: Integer -&gt; the document to be proceeded
+
+    Returns:
+        Integer -&gt; BM25 score
+    &#34;&#34;&#34;
+    k = 1.5
+    if word_to_be_queried not in self.__index_general:
+        return 0
+    document_frequency = self.__document_frequency(word_to_be_queried)
+    term_frequency = self.__term_frequency(word_to_be_queried, docid)
+    L_division = self.__number_of_terms(docid) / self.__average_number_of_terms
+    log_value = (self.__number_of_docs - document_frequency + 0.5) / \
+                (document_frequency + 0.5)
+    w_td = format((term_frequency / (k * L_division + term_frequency + 0.5))
+                  * math.log10(log_value), &#39;.4f&#39;)
+    w_td = float(w_td)
+    return w_td</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.bm25_ranking"><code class="name flex">
+<span>def <span class="ident">bm25_ranking</span></span>(<span>self, keywords, docid_list, returnScore=False)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Ranking a list of document by BM25 scoring</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>keywords</code></strong></dt>
+<dd>String -&gt; query contents</dd>
+<dt><strong><code>docid_list</code></strong></dt>
+<dd>List -&gt; a list of document id</dd>
+<dt><strong><code>returnScore</code></strong></dt>
+<dd>Bool -&gt; return the scoring rather than sorting the docid_list</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<dl>
+<dt><code>docid_list</code></dt>
+<dd>List -&gt; a list of document id sorted based on BM25 scheme</dd>
+</dl>
+<p>bm25score_list(optional): List -&gt; a list of BM25 scoring, the list will not be ranked if this is returned</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def bm25_ranking(self, keywords, docid_list, returnScore=False):
+    &#34;&#34;&#34;
+    Ranking a list of document by BM25 scoring
+
+    Args:
+        keywords: String -&gt; query contents
+        docid_list: List -&gt; a list of document id
+        returnScore: Bool -&gt; return the scoring rather than sorting the docid_list
+
+    Returns:
+        docid_list: List -&gt; a list of document id sorted based on BM25 scheme
+        bm25score_list(optional): List -&gt; a list of BM25 scoring, the list will not be ranked if this is returned
+    &#34;&#34;&#34;
+    term_list = keywords
+    bm25score_list = []
+    for docid in docid_list:
+        sum_of_bm25 = 0
+        for term in term_list:
+            sum_of_bm25 += self.bm25(Util.to_lowercase(term), docid)
+            sum_of_bm25 += self.bm25(Util.stem_data(term), docid)
+        bm25score_list.append(sum_of_bm25)
+    if returnScore:
+        return docid_list, bm25score_list
+    return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.by_general"><code class="name flex">
+<span>def <span class="ident">by_general</span></span>(<span>self, keywords, year1=None, year2=None, not_ranking=False)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Perform general queries</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>keywords</code></strong></dt>
+<dd>String - query contents</dd>
+<dt><strong><code>year1</code></strong></dt>
+<dd>Integer -&gt; year filter - published later than&hellip;</dd>
+<dt><strong><code>year2</code></strong></dt>
+<dd>Integer -&gt; year filter - published earlier than&hellip;</dd>
+<dt><strong><code>not_ranking</code></strong></dt>
+<dd>Bool -&gt; switch for applying BM25 ranking</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of relevant docids</p>
+<h2 id="raises">Raises</h2>
+<dl>
+<dt><code>Exception</code></dt>
+<dd>If keywords is empty</dd>
+</dl></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def by_general(self, keywords, year1=None, year2=None, not_ranking=False):
+    &#34;&#34;&#34;
+    Perform general queries
+
+    Args:
+        keywords: String - query contents
+        year1: Integer -&gt; year filter - published later than...
+        year2: Integer -&gt; year filter - published earlier than...
+        not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+    Returns:
+        List -&gt; A list of relevant docids
+
+    Raises:
+        Exception: If keywords is empty
+    &#34;&#34;&#34;
+    result = []
+    if keywords:
+        keywords = keywords.split()
+        # if search for a single word
+        if len(keywords) == 1:
+            result = self.__plain_search(keywords[0].lower())
+        else:
+            for keyword in keywords:
+                result += self.__plain_search(keyword.lower())
+            result = list(dict.fromkeys(result))
+    else:
+        raise Exception(&#34;Keywords is empty!&#34;)
+    if year1:
+        result = self.__filter_year(year1, 1, result)
+    if year2:
+        result = self.__filter_year(year2, 2, result)
+    if not_ranking:
+        return result
+    return self.bm25_ranking(keywords, result)</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.by_genres"><code class="name flex">
+<span>def <span class="ident">by_genres</span></span>(<span>self, keywords, year1=None, year2=None, not_ranking=False)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Search by genre</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>keywords</code></strong></dt>
+<dd>String -&gt; query contents</dd>
+<dt><strong><code>year1</code></strong></dt>
+<dd>Integer -&gt; year filter - published later than&hellip;</dd>
+<dt><strong><code>year2</code></strong></dt>
+<dd>Integer -&gt; year filter - published earlier than&hellip;</dd>
+<dt><strong><code>not_ranking</code></strong></dt>
+<dd>Bool -&gt; switch for applying BM25 ranking</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of relevant docids</p>
+<h2 id="raises">Raises</h2>
+<dl>
+<dt><code>Exception</code></dt>
+<dd>If keywords is empty</dd>
+</dl></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def by_genres(self, keywords, year1=None, year2=None, not_ranking=False):
+    &#34;&#34;&#34;
+    Search by genre
+
+    Args:
+        keywords: String -&gt; query contents
+        year1: Integer -&gt; year filter - published later than...
+        year2: Integer -&gt; year filter - published earlier than...
+        not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+    Returns:
+        List -&gt; A list of relevant docids
+
+    Raises:
+        Exception: If keywords is empty
+    &#34;&#34;&#34;
+    result = []
+    if keywords:
+        keywords = keywords.split()
+        # if search for a single word
+        if len(keywords) == 1:
+            result = self.__plain_search(keywords[0].lower(), &#34;genre&#34;)
+        else:
+            for keyword in keywords:
+                result += self.__plain_search(keyword.lower(), &#34;genre&#34;)
+            result = list(dict.fromkeys(result))
+    else:
+        raise Exception(&#34;Keywords is empty!&#34;)
+    if year1:
+        result = self.__filter_year(year1, 1, result)
+    if year2:
+        result = self.__filter_year(year2, 2, result)
+    if not_ranking:
+        return result
+    return self.bm25_ranking(keywords, result)</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.by_keywords"><code class="name flex">
+<span>def <span class="ident">by_keywords</span></span>(<span>self, keywords, year1=None, year2=None, not_ranking=False)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Search by keywords</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>keywords</code></strong></dt>
+<dd>String -&gt; query contents</dd>
+<dt><strong><code>year1</code></strong></dt>
+<dd>Integer -&gt; year filter - published later than&hellip;</dd>
+<dt><strong><code>year2</code></strong></dt>
+<dd>Integer -&gt; year filter - published earlier than&hellip;</dd>
+<dt><strong><code>not_ranking</code></strong></dt>
+<dd>Bool -&gt; switch for applying BM25 ranking</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of relevant docids</p>
+<h2 id="raises">Raises</h2>
+<dl>
+<dt><code>Exception</code></dt>
+<dd>If keywords is empty</dd>
+</dl></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def by_keywords(self, keywords, year1=None, year2=None, not_ranking=False):
+    &#34;&#34;&#34;
+    Search by keywords
+
+    Args:
+        keywords: String -&gt; query contents
+        year1: Integer -&gt; year filter - published later than...
+        year2: Integer -&gt; year filter - published earlier than...
+        not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+    Returns:
+        List -&gt; A list of relevant docids
+
+    Raises:
+        Exception: If keywords is empty
+    &#34;&#34;&#34;
+    result = []
+    if keywords:
+        keywords = keywords.split()
+        # if search for a single word
+        if len(keywords) == 1:
+            result = self.__plain_search(keywords[0].lower(), &#34;keywords&#34;)
+        else:
+            for keyword in keywords:
+                result += self.__plain_search(keyword.lower(), &#34;keywords&#34;)
+            result = list(dict.fromkeys(result))
+    else:
+        raise Exception(&#34;Keywords is empty!&#34;)
+    if year1:
+        result = self.__filter_year(year1, 1, result)
+    if year2:
+        result = self.__filter_year(year2, 2, result)
+    if not_ranking:
+        return result
+    return self.bm25_ranking(keywords, result)</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.by_title"><code class="name flex">
+<span>def <span class="ident">by_title</span></span>(<span>self, keywords, year1=None, year2=None, not_ranking=False)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Search by title</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>keywords</code></strong></dt>
+<dd>String -&gt; query contents</dd>
+<dt><strong><code>year1</code></strong></dt>
+<dd>Integer -&gt; year filter - published later than&hellip;</dd>
+<dt><strong><code>year2</code></strong></dt>
+<dd>Integer -&gt; year filter - published earlier than&hellip;</dd>
+<dt><strong><code>not_ranking</code></strong></dt>
+<dd>Bool -&gt; switch for applying BM25 ranking</dd>
+</dl>
+<h2 id="raises">Raises</h2>
+<dl>
+<dt><code>Exception</code></dt>
+<dd>If keywords is empty</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of relevant docids</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def by_title(self, keywords, year1=None, year2=None, not_ranking=False):
+    &#34;&#34;&#34;
+    Search by title
+
+    Args:
+        keywords: String -&gt; query contents
+        year1: Integer -&gt; year filter - published later than...
+        year2: Integer -&gt; year filter - published earlier than...
+        not_ranking: Bool -&gt; switch for applying BM25 ranking
+
+    Raises:
+        Exception: If keywords is empty
+
+    Returns:
+        List -&gt; A list of relevant docids
+    &#34;&#34;&#34;
+    result = []
+    if keywords:
+        keywords = keywords.split()
+        # if search for a single word
+        if len(keywords) == 1:
+            result = self.__plain_search(keywords[0].lower(), &#34;title&#34;)
+        else:
+            for keyword in keywords:
+                result += self.__plain_search(keyword.lower(), &#34;title&#34;)
+            result = list(dict.fromkeys(result))
+    else:
+        raise Exception(&#34;Keywords is empty!&#34;)
+    if year1:
+        result = self.__filter_year(year1, 1, result)
+    if year2:
+        result = self.__filter_year(year2, 2, result)
+    if not_ranking:
+        return result
+    return self.bm25_ranking(keywords, result)</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.phrase_search_handler"><code class="name flex">
+<span>def <span class="ident">phrase_search_handler</span></span>(<span>self, keywords, year1=None, year2=None, not_ranking=False, attribute=None, is_list=False)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Entry for perform a new query, handling the phrase search</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>keywords</code></strong></dt>
+<dd>String -&gt; query contents</dd>
+<dt><strong><code>year1</code></strong></dt>
+<dd>Integer -&gt; Year filter - published later than&hellip;</dd>
+<dt><strong><code>year2</code></strong></dt>
+<dd>Integer -&gt; Year filter - published earlier than&hellip;</dd>
+<dt><strong><code>not_ranking</code></strong></dt>
+<dd>Bool -&gt; Switch for applying BM25 ranking</dd>
+<dt><strong><code>attribute</code></strong></dt>
+<dd>String -&gt; which area to be queried (e.g. "title"), perform a general query if it's None</dd>
+<dt><strong><code>is_list</code></strong></dt>
+<dd>Bool -&gt; if the keywords is passed in as a list of words, used for recursive call</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of relevant docids</p>
+<h2 id="raises">Raises</h2>
+<dl>
+<dt><code>Exception</code></dt>
+<dd>If keywords is empty</dd>
+</dl></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def phrase_search_handler(self, keywords, year1=None, year2=None, not_ranking=False, attribute=None, is_list=False):
+    &#34;&#34;&#34;
+    Entry for perform a new query, handling the phrase search
+
+    Args:
+        keywords: String -&gt; query contents
+        year1: Integer -&gt; Year filter - published later than...
+        year2: Integer -&gt; Year filter - published earlier than...
+        not_ranking: Bool -&gt; Switch for applying BM25 ranking
+        attribute: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+        is_list: Bool -&gt; if the keywords is passed in as a list of words, used for recursive call
+
+    Returns:
+        List -&gt; A list of relevant docids
+
+    Raises:
+        Exception: If keywords is empty
+    &#34;&#34;&#34;
+    result = []
+    if keywords:
+        # remove &#34; in the beginning and the ending
+        if not is_list:
+            if not Util.is_phrase_search(keywords):
+                if attribute is None:
+                    return self.by_general(keywords, year1, year2, not_ranking)
+                elif attribute == &#34;title&#34;:
+                    return self.by_title(keywords, year1, year2, not_ranking)
+                elif attribute == &#34;keywords&#34;:
+                    return self.by_keywords(keywords, year1, year2, not_ranking)
+                elif attribute == &#34;genre&#34;:
+                    return self.by_genres(keywords, year1, year2, not_ranking)
+            keywords = keywords.split()
+            keywords[0] = keywords[0][1:]
+            keywords[len(keywords) - 1] = keywords[len(keywords) - 1][:-1]
+        for i in range(1, len(keywords)):
+            if i == 1:
+                result += self.proximity_search(keywords[i - 1].lower(), keywords[i].lower(), 1, True, attribute)
+            else:
+                result = list(set(result) &amp;
+                              set(self.proximity_search(keywords[i - 1].lower(),
+                                                        keywords[i].lower(), 1, True, attribute)))
+        result = list(dict.fromkeys(result))
+    else:
+        raise Exception(&#34;Keywords is empty!&#34;)
+    if not result and not attribute:
+        return self.phrase_search_handler(Util.remove_stop_words(keywords, self.stop_words),
+                                          year1, year2, not_ranking, attribute, True)
+    if year1:
+        result = self.__filter_year(year1, 1, result)
+    if year2:
+        result = self.__filter_year(year2, 2, result)
+    if not_ranking:
+        return result
+    return self.bm25_ranking(keywords, result)</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.proximity_search"><code class="name flex">
+<span>def <span class="ident">proximity_search</span></span>(<span>self, word1, word2, distance, phrase_search=False, attribute=None, direct_call=False, year1=None, year2=None, not_ranking=False)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Method to perform proximity search</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>word1</code></strong></dt>
+<dd>String -&gt; first word to be queried</dd>
+<dt><strong><code>word2</code></strong></dt>
+<dd>String -&gt; second word to be queried</dd>
+<dt><strong><code>distance</code></strong></dt>
+<dd>Integer -&gt; distance between the two words</dd>
+<dt><strong><code>phrase_search</code></strong></dt>
+<dd>Bool -&gt; is this a phrase search</dd>
+<dt><strong><code>attribute</code></strong></dt>
+<dd>String -&gt; which area to be queried (e.g. "title"), perform a general query if it's None</dd>
+<dt><strong><code>direct_call</code></strong></dt>
+<dd>Bool -&gt; if the method is directly called by the frontend</dd>
+<dt><strong><code>year1</code></strong></dt>
+<dd>Integer -&gt; Year filter - published later than&hellip;</dd>
+<dt><strong><code>year2</code></strong></dt>
+<dd>Integer -&gt; Year filter - published earlier than&hellip;</dd>
+<dt><strong><code>not_ranking</code></strong></dt>
+<dd>Bool -&gt; Switch for applying BM25 ranking</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of relevant docids</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def proximity_search(self, word1, word2, distance, phrase_search=False, attribute=None,
+                     direct_call=False, year1=None, year2=None, not_ranking=False):
+    &#34;&#34;&#34;
+    Method to perform proximity search
+
+    Args:
+        word1: String -&gt; first word to be queried
+        word2: String -&gt; second word to be queried
+        distance: Integer -&gt; distance between the two words
+        phrase_search: Bool -&gt; is this a phrase search
+        attribute: String -&gt; which area to be queried (e.g. &#34;title&#34;), perform a general query if it&#39;s None
+        direct_call: Bool -&gt; if the method is directly called by the frontend
+        year1: Integer -&gt; Year filter - published later than...
+        year2: Integer -&gt; Year filter - published earlier than...
+        not_ranking: Bool -&gt; Switch for applying BM25 ranking
+
+    Returns:
+        List -&gt; A list of relevant docids
+    &#34;&#34;&#34;
+    result = []
+    if word1 and word2 and distance is not None:
+        word1_result = self.__position_search(word1, attribute)
+        word2_result = self.__position_search(word2, attribute)
+        common_result = set(word1_result.keys()) &amp; set(word2_result.keys())
+        if common_result:
+            for docid in common_result:
+                for position1 in word1_result[docid]:
+                    if not position1.isnumeric():
+                        continue
+                    for position2 in word2_result[docid]:
+                        if not position2.isnumeric():
+                            continue
+                        if phrase_search:
+                            if int(position2) - int(position1) == 1:
+                                result.append(docid)
+                        else:
+                            if abs(int(position1) - int(position2)) &lt;= distance:
+                                result.append(docid)
+    if direct_call:
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking([word1, word2], result)
+    return result</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.year_ranking"><code class="name flex">
+<span>def <span class="ident">year_ranking</span></span>(<span>self, docid_list)</span>
+</code></dt>
+<dd>
+<div class="desc"></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def year_ranking(self, docid_list):
+    year_list = []
+    for docid in docid_list:
+        year_list.append(int(self.__dataset[docid][&#39;year&#39;]))
+    return [x for _, x in sorted(zip(year_list, docid_list))]</code></pre>
+</details>
+</dd>
+<dt id="Backend.Query.Query.year_ranking_reverse"><code class="name flex">
+<span>def <span class="ident">year_ranking_reverse</span></span>(<span>self, docid_list)</span>
+</code></dt>
+<dd>
+<div class="desc"></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def year_ranking_reverse(self, docid_list):
+    year_list = []
+    for docid in docid_list:
+        year_list.append(int(self.__dataset[docid][&#39;year&#39;]))
+    return [x for _, x in sorted(zip(year_list, docid_list), reverse=True)]</code></pre>
+</details>
+</dd>
+</dl>
+</dd>
+</dl>
+</section>
+</article>
+<nav id="sidebar">
+<h1>Index</h1>
+<div class="toc">
+<ul></ul>
+</div>
+<ul id="index">
+<li><h3>Super-module</h3>
+<ul>
+<li><code><a title="Backend" href="index.html">Backend</a></code></li>
+</ul>
+</li>
+<li><h3><a href="#header-classes">Classes</a></h3>
+<ul>
+<li>
+<h4><code><a title="Backend.Query.Query" href="#Backend.Query.Query">Query</a></code></h4>
+<ul class="">
+<li><code><a title="Backend.Query.Query.alphabet_ranking" href="#Backend.Query.Query.alphabet_ranking">alphabet_ranking</a></code></li>
+<li><code><a title="Backend.Query.Query.bm25" href="#Backend.Query.Query.bm25">bm25</a></code></li>
+<li><code><a title="Backend.Query.Query.bm25_ranking" href="#Backend.Query.Query.bm25_ranking">bm25_ranking</a></code></li>
+<li><code><a title="Backend.Query.Query.by_general" href="#Backend.Query.Query.by_general">by_general</a></code></li>
+<li><code><a title="Backend.Query.Query.by_genres" href="#Backend.Query.Query.by_genres">by_genres</a></code></li>
+<li><code><a title="Backend.Query.Query.by_keywords" href="#Backend.Query.Query.by_keywords">by_keywords</a></code></li>
+<li><code><a title="Backend.Query.Query.by_title" href="#Backend.Query.Query.by_title">by_title</a></code></li>
+<li><code><a title="Backend.Query.Query.phrase_search_handler" href="#Backend.Query.Query.phrase_search_handler">phrase_search_handler</a></code></li>
+<li><code><a title="Backend.Query.Query.proximity_search" href="#Backend.Query.Query.proximity_search">proximity_search</a></code></li>
+<li><code><a title="Backend.Query.Query.year_ranking" href="#Backend.Query.Query.year_ranking">year_ranking</a></code></li>
+<li><code><a title="Backend.Query.Query.year_ranking_reverse" href="#Backend.Query.Query.year_ranking_reverse">year_ranking_reverse</a></code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</main>
+<footer id="footer">
+<p>Generated by <a href="https://pdoc3.github.io/pdoc" title="pdoc: Python API documentation generator"><cite>pdoc</cite> 0.10.0</a>.</p>
+</footer>
+</body>
+</html>

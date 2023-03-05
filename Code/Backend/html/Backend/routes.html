@@ -1,0 +1,712 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<meta name="generator" content="pdoc 0.10.0" />
+<title>Backend.routes API documentation</title>
+<meta name="description" content="" />
+<link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
+<link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
+<link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
+<style>:root{--highlight-color:#fe9}.flex{display:flex !important}body{line-height:1.5em}#content{padding:20px}#sidebar{padding:30px;overflow:hidden}#sidebar > *:last-child{margin-bottom:2cm}.http-server-breadcrumbs{font-size:130%;margin:0 0 15px 0}#footer{font-size:.75em;padding:5px 30px;border-top:1px solid #ddd;text-align:right}#footer p{margin:0 0 0 1em;display:inline-block}#footer p:last-child{margin-right:30px}h1,h2,h3,h4,h5{font-weight:300}h1{font-size:2.5em;line-height:1.1em}h2{font-size:1.75em;margin:1em 0 .50em 0}h3{font-size:1.4em;margin:25px 0 10px 0}h4{margin:0;font-size:105%}h1:target,h2:target,h3:target,h4:target,h5:target,h6:target{background:var(--highlight-color);padding:.2em 0}a{color:#058;text-decoration:none;transition:color .3s ease-in-out}a:hover{color:#e82}.title code{font-weight:bold}h2[id^="header-"]{margin-top:2em}.ident{color:#900}pre code{background:#f8f8f8;font-size:.8em;line-height:1.4em}code{background:#f2f2f1;padding:1px 4px;overflow-wrap:break-word}h1 code{background:transparent}pre{background:#f8f8f8;border:0;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin:1em 0;padding:1ex}#http-server-module-list{display:flex;flex-flow:column}#http-server-module-list div{display:flex}#http-server-module-list dt{min-width:10%}#http-server-module-list p{margin-top:0}.toc ul,#index{list-style-type:none;margin:0;padding:0}#index code{background:transparent}#index h3{border-bottom:1px solid #ddd}#index ul{padding:0}#index h4{margin-top:.6em;font-weight:bold}@media (min-width:200ex){#index .two-column{column-count:2}}@media (min-width:300ex){#index .two-column{column-count:3}}dl{margin-bottom:2em}dl dl:last-child{margin-bottom:4em}dd{margin:0 0 1em 3em}#header-classes + dl > dd{margin-bottom:3em}dd dd{margin-left:2em}dd p{margin:10px 0}.name{background:#eee;font-weight:bold;font-size:.85em;padding:5px 10px;display:inline-block;min-width:40%}.name:hover{background:#e0e0e0}dt:target .name{background:var(--highlight-color)}.name > span:first-child{white-space:nowrap}.name.class > span:nth-child(2){margin-left:.4em}.inherited{color:#999;border-left:5px solid #eee;padding-left:1em}.inheritance em{font-style:normal;font-weight:bold}.desc h2{font-weight:400;font-size:1.25em}.desc h3{font-size:1em}.desc dt code{background:inherit}.source summary,.git-link-div{color:#666;text-align:right;font-weight:400;font-size:.8em;text-transform:uppercase}.source summary > *{white-space:nowrap;cursor:pointer}.git-link{color:inherit;margin-left:1em}.source pre{max-height:500px;overflow:auto;margin:0}.source pre code{font-size:12px;overflow:visible}.hlist{list-style:none}.hlist li{display:inline}.hlist li:after{content:',\2002'}.hlist li:last-child:after{content:none}.hlist .hlist{display:inline;padding-left:1em}img{max-width:100%}td{padding:0 .5em}.admonition{padding:.1em .5em;margin-bottom:1em}.admonition-title{font-weight:bold}.admonition.note,.admonition.info,.admonition.important{background:#aef}.admonition.todo,.admonition.versionadded,.admonition.tip,.admonition.hint{background:#dfd}.admonition.warning,.admonition.versionchanged,.admonition.deprecated{background:#fd4}.admonition.error,.admonition.danger,.admonition.caution{background:lightpink}</style>
+<style media="screen and (min-width: 700px)">@media screen and (min-width:700px){#sidebar{width:30%;height:100vh;overflow:auto;position:sticky;top:0}#content{width:70%;max-width:100ch;padding:3em 4em;border-left:1px solid #ddd}pre code{font-size:1em}.item .name{font-size:1em}main{display:flex;flex-direction:row-reverse;justify-content:flex-end}.toc ul ul,#index ul{padding-left:1.5em}.toc > ul > li{margin-top:.5em}}</style>
+<style media="print">@media print{#sidebar h1{page-break-before:always}.source{display:none}}@media print{*{background:transparent !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important}a[href]:after{content:" (" attr(href) ")";font-size:90%}a[href][title]:after{content:none}abbr[title]:after{content:" (" attr(title) ")"}.ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after{content:""}pre,blockquote{border:1px solid #999;page-break-inside:avoid}thead{display:table-header-group}tr,img{page-break-inside:avoid}img{max-width:100% !important}@page{margin:0.5cm}p,h2,h3{orphans:3;widows:3}h1,h2,h3,h4,h5,h6{page-break-after:avoid}}</style>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js" integrity="sha256-Uv3H6lx7dJmRfRvH8TH6kJD1TSK1aFcwgx+mdg3epi8=" crossorigin></script>
+<script>window.addEventListener('DOMContentLoaded', () => hljs.initHighlighting())</script>
+</head>
+<body>
+<main>
+<article id="content">
+<header>
+<h1 class="title">Module <code>Backend.routes</code></h1>
+</header>
+<section id="section-intro">
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">from flask import Flask
+from flask import jsonify
+from flask import request
+from flask_cors import CORS
+import time
+import re
+
+import json
+import RetrieveData
+import DataPreprocessing
+import Query
+import Spellcheck
+import JSONParser
+import Util
+# ../TestDataset  ../Dataset/IMDB Movie Info
+
+&#34;&#34;&#34;
+Providing possibility of export and import for the processed data
+3 different modes:
+normal: for one time / live data processing
+import: load the pickle file for previously processed data
+export: pickling the processed data and export them as files
+&#34;&#34;&#34;
+mode = &#34;import&#34;
+dataset_path = &#34;../Dataset/IMDB Movie Info&#34;
+
+if mode == &#34;normal&#34;:
+    movies = RetrieveData.MovieInfo(dataset_path)
+    movies.read_files()
+    moviedict = movies.get_movie_info()
+    processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
+    processed_data.tokenise()
+    processed_data.to_lowercase()
+    processed_data.remove_punctuation()
+    processed_data.stem_data()
+    processed_data.remove_stopwords()
+    processed_data.create_index()
+    query = Query.Query(processed_data)
+    print(&#34;Successfully processed the dataset&#34;)
+elif mode == &#34;import&#34;:
+    import pickle
+    movie_dict_file = open(&#39;../Dataset/movie_dict.pickle&#39;, &#39;rb&#39;)
+    moviedict = pickle.load(movie_dict_file)
+    movie_dict_file.close()
+    processed_query_data_file = open(&#39;../Dataset/processed_query_data.pickle&#39;, &#39;rb&#39;)
+    query = pickle.load(processed_query_data_file)
+    processed_query_data_file.close()
+    print(&#34;Successfully load the pre-saved data&#34;)
+elif mode == &#34;export&#34;:
+    import pickle
+    movies = RetrieveData.MovieInfo(dataset_path)
+    movies.read_files()
+    moviedict = movies.get_movie_info()
+    movie_dict_file = open(&#39;../Dataset/movie_dict.pickle&#39;, &#39;wb&#39;)
+    pickle.dump(moviedict, movie_dict_file)
+    movie_dict_file.close()
+    processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
+    processed_data.tokenise()
+    processed_data.to_lowercase()
+    processed_data.remove_punctuation()
+    processed_data.stem_data()
+    processed_data.remove_stopwords()
+    processed_data.create_index()
+    query = Query.Query(processed_data)
+    processed_query_data_file = open(&#39;../Dataset/processed_query_data.pickle&#39;, &#39;wb&#39;)
+    pickle.dump(query, processed_query_data_file)
+    processed_query_data_file.close()
+    print(&#34;Successfully exported the processed data&#34;)
+
+
+app = Flask(__name__)
+CORS(app, supports_credentials=True)
+#cors = CORS(app, resources={r&#34;/test&#34;: {&#34;origins&#34;: &#34;*&#34;}})
+
+@app.route(&#39;/&#39;)
+def foo():
+    return &#39;test!&#39;
+
+@app.route(&#39;/test&#39;, methods=[&#39;GET&#39;,&#39;POST&#39;])
+def testQuery():
+    data = request.get_json()
+    queryMsg= data.get(&#39;query&#39;)
+    response = {
+        &#39;results&#39;: &#39;This is a test result! \n Your input is&#39; + queryMsg,
+        &#39;title&#39;:[],
+    }
+    print(&#39;data (json): &#39;, data)
+    print(&#39;query: &#39;, data.get(&#39;query&#39;))
+    return jsonify(response)
+
+@app.route(&#39;/movie/&lt;id&gt;&#39;, methods=[&#39;GET&#39;,&#39;POST&#39;])
+def getMovie(id):
+    print(id)
+    response = moviedict[id]
+    print(response)
+    return jsonify(response)
+
+@app.route(&#39;/search&#39;, methods=[&#39;GET&#39;,&#39;POST&#39;])
+def searchQuery():
+    # start timer
+    st = time.time()
+    st_cpu = time.process_time()
+
+    # get request
+    if request.method == &#39;POST&#39;:
+        data = request.get_json()
+    else:
+        data = request.args
+
+    &#39;&#39;&#39;
+    parse the data
+    parsed_args = {&#39;queryMsg&#39;:&#34;&#34;,
+            &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, any, genres, keywords, proximity
+            &#39;need_check&#39;:False, # for debug only
+            &#39;color&#39;:&#34;&#34;, # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
+            &#39;from&#39;:0, # int or None
+            &#39;to&#39;:9999, # int or None
+            &#39;additionQ&#39;:True, # a boolean value to check whether it is advanced search or not
+            &#39;moreQueries&#39;:[] # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+        }
+    &#39;&#39;&#39;
+    parsed_args = JSONParser.dataParse(data, request.method)
+    print(parsed_args)
+
+   
+    #function to wrap up
+    def formatRes(id):
+        doc = {
+            &#34;id&#34;: id,
+            &#34;movieName&#34;: moviedict[id][&#39;title&#39;],
+            &#34;description&#34;: moviedict[id][&#39;plot&#39;],
+            &#34;director&#34;: moviedict[id][&#39;directors&#39;],
+            &#34;year&#34;: moviedict[id][&#39;year&#39;],
+            &#34;country&#34;: moviedict[id][&#39;countries&#39;],
+            &#34;runtime&#34;: moviedict[id][&#39;runningtimes&#39;]
+        }
+        return doc
+    
+    #Add function for extract results
+    search_method = {
+        &#39;title&#39;: query.by_title,
+        &#39;keywords&#39;: query.by_keywords,
+        &#39;genres&#39;: query.by_genres,
+        &#39;proximity&#39;: query.proximity_search,
+        &#39;any&#39;: query.by_general
+        }
+    
+    queryMsg=parsed_args[&#39;queryMsg&#39;]   
+    if parsed_args[&#39;by&#39;] == &#39;proximity&#39;:
+        dist, w1, w2 = queryMsg.split()
+        try:
+            res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                            year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                            not_ranking=parsed_args[&#39;additionQ&#39;])
+        except:
+            res = []
+        queryMsg = w1+ &#34; &#34; + w2 # to handle keywords in additions
+        print(&#34;By proximity&#34;,res)
+    else:
+        try:
+            print(&#34;phrase handle&#34;, queryMsg)
+            res=query.phrase_search_handler(queryMsg,year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                            not_ranking=parsed_args[&#39;additionQ&#39;],attribute=parsed_args[&#39;by&#39;])
+        except:
+            res=[]
+            print(&#34;phrase handle except&#34;, queryMsg)
+            
+    
+    if parsed_args[&#39;additionQ&#39;]:
+        total_res = []
+        total_keywords=[]
+        current_res = res.copy()
+        count = 1
+        keywords = list(queryMsg.lower().split())
+        for a_query in parsed_args[&#39;moreQueries&#39;]:
+            new_res = []
+            bool_type = a_query[0]
+            search_in = a_query[1]
+            queryMsg = a_query[2]
+            if bool_type == &#39;and&#39;:
+                print(&#34;AND query&#34;, search_in,queryMsg)
+
+                if search_in != &#39;proximity&#39;:
+                    new_keywords = list(queryMsg.lower().split())
+                    try:
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                        not_ranking=parsed_args[&#39;additionQ&#39;],attribute=search_in)
+                    except:
+                        new_res = []
+                else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
+                    new_keywords = [w1.lower(), w2.lower()]
+                    try:
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                     not_ranking=parsed_args[&#39;additionQ&#39;])
+                    except:
+                        new_res = []
+                keywords.extend(new_keywords)
+                current_res = [mid for mid in current_res if mid in set(new_res)]
+            elif bool_type == &#39;not&#39;:
+                print(&#34;NOT query&#34;, search_in,queryMsg)
+                if search_in != &#39;proximity&#39;:
+                    try:
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                        not_ranking=parsed_args[&#39;additionQ&#39;],attribute=search_in)
+                    except:
+                        new_res = []
+                else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
+                    try:
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                     not_ranking=parsed_args[&#39;additionQ&#39;])
+                    except:
+                        new_res = []
+                current_res = [mid for mid in current_res if mid not in new_res]
+            elif bool_type == &#39;or&#39;:
+                count += 1
+                # store the previous result and keywords
+                total_keywords.append(keywords)
+                total_res.append(current_res)
+
+                print(&#34;prev keywords&#34;, total_keywords)
+
+                print(&#34;OR query&#34;, search_in,queryMsg)
+                if search_in != &#39;proximity&#39;:
+                    new_keywords = list(queryMsg.lower().split())
+                    try:
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                        not_ranking=parsed_args[&#39;additionQ&#39;],attribute=search_in)
+                    except:
+                        new_res = []
+                else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
+                    new_keywords = [w1.lower(), w2.lower()]
+                    try:
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                     not_ranking=parsed_args[&#39;additionQ&#39;])
+                    except:
+                        new_res = []
+                #print(new_res)
+                keywords = new_keywords.copy()
+                current_res = new_res.copy()
+        # after for loop, append the last query result
+        total_keywords.append(keywords)
+        total_res.append(current_res)
+
+        print(total_keywords)
+        print(total_res)
+
+        docid_list = []
+        bm25score_list = []
+        for i in range(count):
+            docid_temp, score_temp = query.bm25_ranking(total_keywords[i], total_res[i],returnScore=True)
+            docid_list.extend(docid_temp)
+            bm25score_list.extend(score_temp)
+        res = [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
+        res = list(dict.fromkeys(res))
+
+    res = list(res)
+    print(res)
+    reslist = []
+    id_res=[]
+    #final_ses = []
+    for id in res:
+        if parsed_args[&#39;color&#39;] == &#39;bw&#39;:
+            if &#39;Black and White&#39; not in moviedict[id][&#39;colorinfos&#39;]:
+                continue
+        elif parsed_args[&#39;color&#39;] == &#39;color&#39;:
+            if &#39;Color&#39; not in moviedict[id][&#39;colorinfos&#39;]:
+                continue
+        reslist.append(formatRes(id))
+        id_res.append(id)
+
+    ed = time.time()
+    ed_cpu = time.process_time()
+
+    response = {
+        &#39;results&#39;: reslist,
+        &#39;ids&#39;: id_res,
+        &#39;wallT&#39;: round((ed-st)*1000, 6),
+        &#39;cpuT&#39;: round((ed_cpu-st_cpu)*1000, 6),
+    }
+    
+    #print(&#39;data: &#39;, data)
+    #print()
+    #return jsonify({})
+    return jsonify(response)
+
+@app.route(&#39;/spellcheck&#39;, methods=[&#39;GET&#39;,&#39;POST&#39;])
+def spell():
+    &#39;&#39;&#39;
+    #query translate and spell check
+    &#39;&#39;&#39;
+    data = request.args
+    msg = data.get(&#39;input&#39;)
+    corrected = []
+    try:
+        correct=Spellcheck.spellcheck(msg)
+        if isinstance(correct,str):
+            corrected.append(correct)
+        print(&#34;try&#34;,corrected)
+    except:
+        corrected=Spellcheck.local_spellcheck(msg)
+        print(&#34;except&#34;,corrected)
+    print(corrected)
+    sentences = corrected
+    sentences.append(msg)
+    print(&#34;test1&#34;,sentences)
+    sentences = set(sentences)
+    print(&#34;test2&#34;,sentences)
+    translist = []
+
+    try:
+        translist = Spellcheck.deepl_trans(list(sentences))
+    except:
+        for sen in sentences:
+            trans = Spellcheck.trans_api(sen)
+            if isinstance(trans, str):
+                translist.append(trans)
+
+    translist = set(translist)
+    final_res= translist.union(sentences)    
+    final_res.remove(msg)
+    response = {
+        &#39;corrected&#39;: list(final_res),
+    }
+    print(response)
+    return jsonify(response)
+
+if __name__ == &#39;__main__&#39;:
+    app.run(debug=True,host=&#39;0.0.0.0&#39;,port=8800)</code></pre>
+</details>
+</section>
+<section>
+</section>
+<section>
+</section>
+<section>
+<h2 class="section-title" id="header-functions">Functions</h2>
+<dl>
+<dt id="Backend.routes.foo"><code class="name flex">
+<span>def <span class="ident">foo</span></span>(<span>)</span>
+</code></dt>
+<dd>
+<div class="desc"></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">@app.route(&#39;/&#39;)
+def foo():
+    return &#39;test!&#39;</code></pre>
+</details>
+</dd>
+<dt id="Backend.routes.getMovie"><code class="name flex">
+<span>def <span class="ident">getMovie</span></span>(<span>id)</span>
+</code></dt>
+<dd>
+<div class="desc"></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">@app.route(&#39;/movie/&lt;id&gt;&#39;, methods=[&#39;GET&#39;,&#39;POST&#39;])
+def getMovie(id):
+    print(id)
+    response = moviedict[id]
+    print(response)
+    return jsonify(response)</code></pre>
+</details>
+</dd>
+<dt id="Backend.routes.searchQuery"><code class="name flex">
+<span>def <span class="ident">searchQuery</span></span>(<span>)</span>
+</code></dt>
+<dd>
+<div class="desc"></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">@app.route(&#39;/search&#39;, methods=[&#39;GET&#39;,&#39;POST&#39;])
+def searchQuery():
+    # start timer
+    st = time.time()
+    st_cpu = time.process_time()
+
+    # get request
+    if request.method == &#39;POST&#39;:
+        data = request.get_json()
+    else:
+        data = request.args
+
+    &#39;&#39;&#39;
+    parse the data
+    parsed_args = {&#39;queryMsg&#39;:&#34;&#34;,
+            &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, any, genres, keywords, proximity
+            &#39;need_check&#39;:False, # for debug only
+            &#39;color&#39;:&#34;&#34;, # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
+            &#39;from&#39;:0, # int or None
+            &#39;to&#39;:9999, # int or None
+            &#39;additionQ&#39;:True, # a boolean value to check whether it is advanced search or not
+            &#39;moreQueries&#39;:[] # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+        }
+    &#39;&#39;&#39;
+    parsed_args = JSONParser.dataParse(data, request.method)
+    print(parsed_args)
+
+   
+    #function to wrap up
+    def formatRes(id):
+        doc = {
+            &#34;id&#34;: id,
+            &#34;movieName&#34;: moviedict[id][&#39;title&#39;],
+            &#34;description&#34;: moviedict[id][&#39;plot&#39;],
+            &#34;director&#34;: moviedict[id][&#39;directors&#39;],
+            &#34;year&#34;: moviedict[id][&#39;year&#39;],
+            &#34;country&#34;: moviedict[id][&#39;countries&#39;],
+            &#34;runtime&#34;: moviedict[id][&#39;runningtimes&#39;]
+        }
+        return doc
+    
+    #Add function for extract results
+    search_method = {
+        &#39;title&#39;: query.by_title,
+        &#39;keywords&#39;: query.by_keywords,
+        &#39;genres&#39;: query.by_genres,
+        &#39;proximity&#39;: query.proximity_search,
+        &#39;any&#39;: query.by_general
+        }
+    
+    queryMsg=parsed_args[&#39;queryMsg&#39;]   
+    if parsed_args[&#39;by&#39;] == &#39;proximity&#39;:
+        dist, w1, w2 = queryMsg.split()
+        try:
+            res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                            year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                            not_ranking=parsed_args[&#39;additionQ&#39;])
+        except:
+            res = []
+        queryMsg = w1+ &#34; &#34; + w2 # to handle keywords in additions
+        print(&#34;By proximity&#34;,res)
+    else:
+        try:
+            print(&#34;phrase handle&#34;, queryMsg)
+            res=query.phrase_search_handler(queryMsg,year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                            not_ranking=parsed_args[&#39;additionQ&#39;],attribute=parsed_args[&#39;by&#39;])
+        except:
+            res=[]
+            print(&#34;phrase handle except&#34;, queryMsg)
+            
+    
+    if parsed_args[&#39;additionQ&#39;]:
+        total_res = []
+        total_keywords=[]
+        current_res = res.copy()
+        count = 1
+        keywords = list(queryMsg.lower().split())
+        for a_query in parsed_args[&#39;moreQueries&#39;]:
+            new_res = []
+            bool_type = a_query[0]
+            search_in = a_query[1]
+            queryMsg = a_query[2]
+            if bool_type == &#39;and&#39;:
+                print(&#34;AND query&#34;, search_in,queryMsg)
+
+                if search_in != &#39;proximity&#39;:
+                    new_keywords = list(queryMsg.lower().split())
+                    try:
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                        not_ranking=parsed_args[&#39;additionQ&#39;],attribute=search_in)
+                    except:
+                        new_res = []
+                else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
+                    new_keywords = [w1.lower(), w2.lower()]
+                    try:
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                     not_ranking=parsed_args[&#39;additionQ&#39;])
+                    except:
+                        new_res = []
+                keywords.extend(new_keywords)
+                current_res = [mid for mid in current_res if mid in set(new_res)]
+            elif bool_type == &#39;not&#39;:
+                print(&#34;NOT query&#34;, search_in,queryMsg)
+                if search_in != &#39;proximity&#39;:
+                    try:
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                        not_ranking=parsed_args[&#39;additionQ&#39;],attribute=search_in)
+                    except:
+                        new_res = []
+                else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
+                    try:
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                     not_ranking=parsed_args[&#39;additionQ&#39;])
+                    except:
+                        new_res = []
+                current_res = [mid for mid in current_res if mid not in new_res]
+            elif bool_type == &#39;or&#39;:
+                count += 1
+                # store the previous result and keywords
+                total_keywords.append(keywords)
+                total_res.append(current_res)
+
+                print(&#34;prev keywords&#34;, total_keywords)
+
+                print(&#34;OR query&#34;, search_in,queryMsg)
+                if search_in != &#39;proximity&#39;:
+                    new_keywords = list(queryMsg.lower().split())
+                    try:
+                        new_res = query.phrase_search_handler(queryMsg,year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                        not_ranking=parsed_args[&#39;additionQ&#39;],attribute=search_in)
+                    except:
+                        new_res = []
+                else: # proximity query
+                    dist, w1, w2 = queryMsg.split()
+                    new_keywords = [w1.lower(), w2.lower()]
+                    try:
+                        new_res = query.proximity_search(w1,w2,int(dist), direct_call=True, 
+                                     year1=parsed_args[&#39;from&#39;],year2=parsed_args[&#39;to&#39;],
+                                     not_ranking=parsed_args[&#39;additionQ&#39;])
+                    except:
+                        new_res = []
+                #print(new_res)
+                keywords = new_keywords.copy()
+                current_res = new_res.copy()
+        # after for loop, append the last query result
+        total_keywords.append(keywords)
+        total_res.append(current_res)
+
+        print(total_keywords)
+        print(total_res)
+
+        docid_list = []
+        bm25score_list = []
+        for i in range(count):
+            docid_temp, score_temp = query.bm25_ranking(total_keywords[i], total_res[i],returnScore=True)
+            docid_list.extend(docid_temp)
+            bm25score_list.extend(score_temp)
+        res = [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
+        res = list(dict.fromkeys(res))
+
+    res = list(res)
+    print(res)
+    reslist = []
+    id_res=[]
+    #final_ses = []
+    for id in res:
+        if parsed_args[&#39;color&#39;] == &#39;bw&#39;:
+            if &#39;Black and White&#39; not in moviedict[id][&#39;colorinfos&#39;]:
+                continue
+        elif parsed_args[&#39;color&#39;] == &#39;color&#39;:
+            if &#39;Color&#39; not in moviedict[id][&#39;colorinfos&#39;]:
+                continue
+        reslist.append(formatRes(id))
+        id_res.append(id)
+
+    ed = time.time()
+    ed_cpu = time.process_time()
+
+    response = {
+        &#39;results&#39;: reslist,
+        &#39;ids&#39;: id_res,
+        &#39;wallT&#39;: round((ed-st)*1000, 6),
+        &#39;cpuT&#39;: round((ed_cpu-st_cpu)*1000, 6),
+    }
+    
+    #print(&#39;data: &#39;, data)
+    #print()
+    #return jsonify({})
+    return jsonify(response)</code></pre>
+</details>
+</dd>
+<dt id="Backend.routes.spell"><code class="name flex">
+<span>def <span class="ident">spell</span></span>(<span>)</span>
+</code></dt>
+<dd>
+<div class="desc"><h1 id="query-translate-and-spell-check">query translate and spell check</h1></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">@app.route(&#39;/spellcheck&#39;, methods=[&#39;GET&#39;,&#39;POST&#39;])
+def spell():
+    &#39;&#39;&#39;
+    #query translate and spell check
+    &#39;&#39;&#39;
+    data = request.args
+    msg = data.get(&#39;input&#39;)
+    corrected = []
+    try:
+        correct=Spellcheck.spellcheck(msg)
+        if isinstance(correct,str):
+            corrected.append(correct)
+        print(&#34;try&#34;,corrected)
+    except:
+        corrected=Spellcheck.local_spellcheck(msg)
+        print(&#34;except&#34;,corrected)
+    print(corrected)
+    sentences = corrected
+    sentences.append(msg)
+    print(&#34;test1&#34;,sentences)
+    sentences = set(sentences)
+    print(&#34;test2&#34;,sentences)
+    translist = []
+
+    try:
+        translist = Spellcheck.deepl_trans(list(sentences))
+    except:
+        for sen in sentences:
+            trans = Spellcheck.trans_api(sen)
+            if isinstance(trans, str):
+                translist.append(trans)
+
+    translist = set(translist)
+    final_res= translist.union(sentences)    
+    final_res.remove(msg)
+    response = {
+        &#39;corrected&#39;: list(final_res),
+    }
+    print(response)
+    return jsonify(response)</code></pre>
+</details>
+</dd>
+<dt id="Backend.routes.testQuery"><code class="name flex">
+<span>def <span class="ident">testQuery</span></span>(<span>)</span>
+</code></dt>
+<dd>
+<div class="desc"></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">@app.route(&#39;/test&#39;, methods=[&#39;GET&#39;,&#39;POST&#39;])
+def testQuery():
+    data = request.get_json()
+    queryMsg= data.get(&#39;query&#39;)
+    response = {
+        &#39;results&#39;: &#39;This is a test result! \n Your input is&#39; + queryMsg,
+        &#39;title&#39;:[],
+    }
+    print(&#39;data (json): &#39;, data)
+    print(&#39;query: &#39;, data.get(&#39;query&#39;))
+    return jsonify(response)</code></pre>
+</details>
+</dd>
+</dl>
+</section>
+<section>
+</section>
+</article>
+<nav id="sidebar">
+<h1>Index</h1>
+<div class="toc">
+<ul></ul>
+</div>
+<ul id="index">
+<li><h3>Super-module</h3>
+<ul>
+<li><code><a title="Backend" href="index.html">Backend</a></code></li>
+</ul>
+</li>
+<li><h3><a href="#header-functions">Functions</a></h3>
+<ul class="">
+<li><code><a title="Backend.routes.foo" href="#Backend.routes.foo">foo</a></code></li>
+<li><code><a title="Backend.routes.getMovie" href="#Backend.routes.getMovie">getMovie</a></code></li>
+<li><code><a title="Backend.routes.searchQuery" href="#Backend.routes.searchQuery">searchQuery</a></code></li>
+<li><code><a title="Backend.routes.spell" href="#Backend.routes.spell">spell</a></code></li>
+<li><code><a title="Backend.routes.testQuery" href="#Backend.routes.testQuery">testQuery</a></code></li>
+</ul>
+</li>
+</ul>
+</nav>
+</main>
+<footer id="footer">
+<p>Generated by <a href="https://pdoc3.github.io/pdoc" title="pdoc: Python API documentation generator"><cite>pdoc</cite> 0.10.0</a>.</p>
+</footer>
+</body>
+</html>

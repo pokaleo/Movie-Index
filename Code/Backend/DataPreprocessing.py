@@ -35,16 +35,16 @@ class PreProcessing:
         nltk.download("stopwords")
         self.stop_words = set(stopwords.words("english"))
 
-    """
-    Method which perform tokenisation
-
-    Args:
-        n/a
-
-    Returns:
-       n/a
-    """
     def tokenise(self):
+        """
+        Method which perform tokenisation
+
+        Args:
+            n/a
+
+        Returns:
+           n/a
+        """
         for docid, info in self.__dataset.items():
             self.__dataset[docid]['title'] = self.__dataset[docid]['title'].split()
             self.__dataset[docid]['plot'] = self.__dataset[docid]['plot'].split()
@@ -76,16 +76,16 @@ class PreProcessing:
             self.__dataset[docid]['actors'] = actors
             self.__dataset[docid]['roles'] = roles
 
-    """
-    Method which cast all tokens to lower case
-
-    Args:
-        n/a
-
-    Returns:
-         n/a
-    """
     def to_lowercase(self):
+        """
+        Method which cast all tokens to lower case
+
+        Args:
+            n/a
+
+        Returns:
+             n/a
+        """
         for docid, info in self.__dataset.items():
             info['title'] = [token.lower() for token in info['title']]
             info['plot'] = [token.lower() for token in info['plot']]
@@ -114,16 +114,16 @@ class PreProcessing:
                     if info['roles'][i] is not None:
                         info['roles'][i] = [token.lower() for token in info['roles'][i]]
 
-    """
-    Method which removes leading and trailing punctuations and individual punctuations
-
-    Args:
-        n/a
-
-    Returns:
-        n/a
-    """
     def remove_punctuation(self):
+        """
+        Method which removes leading and trailing punctuations and individual punctuations
+
+        Args:
+            n/a
+
+        Returns:
+            n/a
+        """
         for docid, info in self.__dataset.items():
             temp_list = []
             for token in (info['plot']):
@@ -145,32 +145,32 @@ class PreProcessing:
                     if token is not None:
                         token[0] = token[0].rstrip(",")
 
-    """
-    Perform Snowball stemming to plot info
-
-    Args:
-        n/a
-
-    Returns:
-        n/a
-    """
     def stem_data(self):
+        """
+        Perform Snowball stemming to plot info
+
+        Args:
+            n/a
+
+        Returns:
+            n/a
+        """
         for docid, info in self.__dataset.items():
             temp_list = []
             for token in (info['plot']):
                 temp_list.append(SnowballStemmer(language='english').stem(token))
                 info['plot'] = temp_list
 
-    """
-    Method which removes stop words from the spot attribute
-
-    Args:
-        n/a
-
-    Returns:
-        n/a
-    """
     def remove_stopwords(self):
+        """
+        Method which removes stop words from the spot attribute
+
+        Args:
+            n/a
+
+        Returns:
+            n/a
+        """
         for docid, info in self.__dataset.items():
             temp_list = []
             for token in (info['plot']):
@@ -178,16 +178,16 @@ class PreProcessing:
                     temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
                 info['plot'] = temp_list
 
-    """
-    Method which create the inverted positional index
-
-    Args:
-        n/a
-
-    Returns:
-        n/a
-    """
     def create_index(self):
+        """
+        Method which create the inverted positional index
+
+        Args:
+            n/a
+
+        Returns:
+            n/a
+        """
         for docid, info in self.__dataset.items():
             for i in range(len(info["title"])):
                 token = info["title"][i]
@@ -414,91 +414,91 @@ class PreProcessing:
                                 self.__index[token][1][docid] = [str(position)]
                                 self.__index[token][0] += 1
 
-    """
-    Getter for the processed data
-
-    Args:
-        n/a
-
-    Returns:
-        Dict -> Processed dataset
-    """
     def get_data(self):
+        """
+        Getter for the processed data
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -> Processed dataset
+        """
         if self.__dataset:
             return self.__dataset
         else:
             raise Exception("The dataset is empty or has not been processed!")
 
-    """
-    Getters for the indices
-
-    Args:
-        n/a
-
-    Returns:
-        Dict -> A dict of inverted positional index
-    """
     def get_index(self):
+        """
+        Getters for the indices
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -> A dict of inverted positional index
+        """
         if self.__index:
             return self.__index
         else:
             raise Exception("The index is empty!")
 
-    """
-    Getters for the indices
-
-    Args:
-        n/a
-
-    Returns:
-        Dict -> A dict of inverted positional index for title info only
-    """
     def get_index_title(self):
+        """
+        Getters for the indices
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -> A dict of inverted positional index for title info only
+        """
         if self.__index_title:
             return self.__index_title
         else:
             raise Exception("The index is empty!")
 
-    """
-    Getters for the indices
-
-    Args:
-        n/a
-
-    Returns:
-        Dict -> A dict of inverted positional index for keywords info only
-    """
     def get_index_keywords(self):
+        """
+        Getters for the indices
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -> A dict of inverted positional index for keywords info only
+        """
         if self.__index_keywords:
             return self.__index_keywords
         else:
             raise Exception("The index is empty!")
 
-    """
-    Getters for the indices
-
-    Args:
-        n/a
-
-    Returns:
-        Dict -> A dict of inverted positional index for genres info only
-    """
     def get_index_genre(self):
+        """
+        Getters for the indices
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -> A dict of inverted positional index for genres info only
+        """
         if self.__index_genre:
             return self.__index_genre
         else:
             raise Exception("The index is empty!")
 
-    """
-    Getters for the stopwords list
-
-    Args:
-        n/a
-
-    Returns:
-        List -> A list of stopwords downloaded from the nltk library
-    """
     def get_stop_words(self):
+        """
+        Getters for the stopwords list
+
+        Args:
+            n/a
+
+        Returns:
+            List -> A list of stopwords downloaded from the nltk library
+        """
         if self.stop_words:
             return self.stop_words
         else:

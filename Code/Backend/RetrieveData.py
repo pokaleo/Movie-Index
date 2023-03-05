@@ -30,16 +30,16 @@ class MovieInfo:
             raise Exception("The given dir for the dataset is empty!")
         self.__movies = {}
 
-    """
-    Read in all files from the given path
-
-    Args:
-        n/a
-
-    Returns:
-        n/a
-    """
     def read_files(self):
+        """
+        Read in all files from the given path
+
+        Args:
+            n/a
+
+        Returns:
+            n/a
+        """
         for filename in os.listdir(self.file_path):
             file = os.path.join(self.file_path, filename)
             # checking if it is a file
@@ -63,7 +63,7 @@ class MovieInfo:
                 movie_dict['genres'] = genres
                 keywords = []
                 for keyword in root.iter('keyword'):
-                    if re.search('-',keyword.text) is None:
+                    if re.search('-', keyword.text) is None:
                         keywords.append(keyword.text)
                     else:
                         keywords.append(keyword.text)
@@ -116,23 +116,23 @@ class MovieInfo:
                 for role in root.iter('role'):
                     roles.append(role.text)
                 cast = {}
-                for i in range(0,len(actors)):
+                for i in range(0, len(actors)):
                     cast[actors[i]] = roles[i]
                 movie_dict['cast'] = cast
                 self.__movies[root.find('docid').text] = movie_dict
             else:
                 raise Exception(file + " is not a file!")
 
-    """
-    Getters for the fed-in dataset information
-
-    Args:
-        n/a
-
-    Returns:
-        Dict -> Info retrieved from the dataset
-    """
     def get_movie_info(self):
+        """
+        Getters for the fed-in dataset information
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -> Info retrieved from the dataset
+        """
         if self.__movies:
             return self.__movies
         else:
