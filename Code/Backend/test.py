@@ -5,7 +5,8 @@ import DataPreprocessing
 import Query
 import Util
 
-movies = RetrieveData.MovieInfo("../TestDataset")
+# movies = RetrieveData.MovieInfo("../TestDataset")
+movies = RetrieveData.MovieInfo("../Dataset/IMDB TestData")
 movies.read_files()
 movies.get_movie_info()
 

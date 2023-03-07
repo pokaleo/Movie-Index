@@ -1,647 +1,631 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Tom Cruise</actor>
-      
-      
-        <role>Capt. Pete 'Maverick' Mitchell</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jennifer Connelly</actor>
-      
-      
-        <role>Penny Benjamin</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Miles Teller</actor>
-      
-      
-        <role>Lt. Bradley 'Rooster' Bradshaw</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Val Kilmer</actor>
-      
-      
-        <role>Adm. Tom 'Iceman' Kazansky</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Bashir Salahuddin</actor>
-      
-      
-        <role>Wo-1. Bernie 'Hondo' Coleman</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jon Hamm</actor>
-      
-      
-        <role>Adm. Beau 'Cyclone' Simpson</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Charles Parnell</actor>
-      
-      
-        <role>Adm. Solomon 'Warlock' Bates</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Monica Barbaro</actor>
-      
-      
-        <role>Lt. Natasha 'Phoenix' Trace</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Lewis Pullman</actor>
-      
-      
-        <role>Lt. Robert 'Bob' Floyd</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jay Ellis</actor>
-      
-      
-        <role>Lt. Reuben 'Payback' Fitch</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Danny Ramirez</actor>
-      
-      
-        <role>Lt. Mickey 'Fanboy' Garcia</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Glen Powell</actor>
-      
-      
-        <role>Lt. Jake 'Hangman' Seresin</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jack Schumacher</actor>
-      
-      
-        <role>Lt. Neil 'Omaha' Vikander</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Manny Jacinto</actor>
-      
-      
-        <role>Lt. Billy 'Fritz' Avalone</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kara Wang</actor>
-      
-      
-        <role>Lt. Callie 'Halo' Bassett</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Greg Tarzan Davis</actor>
-      
-      
-        <role>Lt. Javy 'Coyote' Machado</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jake Picking</actor>
-      
-      
-        <role>Lt. Brigham 'Harvard' Lennox</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Raymond Lee</actor>
-      
-      
-        <role>Lt. Logan 'Yale' Lee</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>12A</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Harold Faltermeyer</composer>
-    <composer> Hans Zimmer</composer>
-  </composer>
-  <countries>United States</countries>
-  <director>
-    <director> Joseph Kosinski</director>
-  </director>
-  <docid>tt1745960</docid>
-  <editor>
-    <editor> Eddie Hamilton</editor>
-  </editor>
-  <genres>
-    <genre>Action</genre>
-    <genre>Drama</genre>
-  </genres>
-  <keywords>
-    <keyword>fighter jet</keyword>
-    <keyword>aircraft carrier</keyword>
-    <keyword>dogfight</keyword>
-    <keyword>sequel</keyword>
-    <keyword>naval aviation</keyword>
-    <keyword>u.s. navy</keyword>
-    <keyword>jet fighter</keyword>
-    <keyword>fighter aircraft</keyword>
-    <keyword>military pilot</keyword>
-    <keyword>military propaganda</keyword>
-    <keyword>mach 10</keyword>
-    <keyword>pilot</keyword>
-    <keyword>cockpit</keyword>
-    <keyword>leadership</keyword>
-    <keyword>military funeral</keyword>
-    <keyword>explosion</keyword>
-    <keyword>flight instructor</keyword>
-    <keyword>team action</keyword>
-    <keyword>american propaganda</keyword>
-    <keyword>ego</keyword>
-    <keyword>jarhead</keyword>
-    <keyword>military industrial complex</keyword>
-    <keyword>derelict aeroplane</keyword>
-    <keyword>premarital sex</keyword>
-    <keyword>final battle</keyword>
-    <keyword>bare chested male</keyword>
-    <keyword>actor reprises previous role</keyword>
-    <keyword>returning character with different actor</keyword>
-    <keyword>beach</keyword>
-    <keyword>helicopter</keyword>
-    <keyword>fighter pilot</keyword>
-    <keyword>military</keyword>
-    <keyword>test pilot</keyword>
-    <keyword>sailboat</keyword>
-    <keyword>heroism</keyword>
-    <keyword>redemption</keyword>
-    <keyword>haunted by the past</keyword>
-    <keyword>sunglasses</keyword>
-    <keyword>motorcycle</keyword>
-    <keyword>prologue</keyword>
-    <keyword>insubordination</keyword>
-    <keyword>repeat sequel</keyword>
-    <keyword>flight school</keyword>
-    <keyword>bar</keyword>
-    <keyword>bartender</keyword>
-    <keyword>diner</keyword>
-    <keyword>san diego california</keyword>
-    <keyword>desert</keyword>
-    <keyword>old flame</keyword>
-    <keyword>naval officer</keyword>
-    <keyword>missile</keyword>
-    <keyword>flare</keyword>
-    <keyword>mountain</keyword>
-    <keyword>snow</keyword>
-    <keyword>forest</keyword>
-    <keyword>helmet</keyword>
-    <keyword>teamwork</keyword>
-    <keyword>cemetery</keyword>
-    <keyword>bombardment</keyword>
-    <keyword>exploding airplane</keyword>
-    <keyword>airplane crash</keyword>
-    <keyword>ejection seat</keyword>
-    <keyword>gatling gun</keyword>
-    <keyword>exploding helicopter</keyword>
-    <keyword>binoculars</keyword>
-    <keyword>rescue</keyword>
-    <keyword>escape</keyword>
-    <keyword>near death experience</keyword>
-    <keyword>attempted murder</keyword>
-    <keyword>stopwatch</keyword>
-    <keyword>texting</keyword>
-    <keyword>colon in title</keyword>
-    <keyword>end credits roll call</keyword>
-    <keyword>exiting through a window</keyword>
-    <keyword>american flag</keyword>
-    <keyword>weapon in title</keyword>
-    <keyword>returning character killed off</keyword>
-    <keyword>throat cancer</keyword>
-    <keyword>courage</keyword>
-    <keyword>flashback</keyword>
-    <keyword>race against time</keyword>
-    <keyword>sequel to cult favorite</keyword>
-    <keyword>subjective camera</keyword>
-    <keyword>famous score</keyword>
-    <keyword>pool table</keyword>
-    <keyword>billion dollar club</keyword>
-    <keyword>character's point of view camera shot</keyword>
-    <keyword>anger</keyword>
-    <keyword>character repeats someone else's dialogue</keyword>
-    <keyword>happy ending</keyword>
-    <keyword>final showdown</keyword>
-    <keyword>airplane</keyword>
-    <keyword>airplane pilot</keyword>
-    <keyword>love interest</keyword>
-    <keyword>montage</keyword>
-    <keyword>flying</keyword>
-    <keyword>woods</keyword>
-    <keyword>loss of friend</keyword>
-    <keyword>fear</keyword>
-    <keyword>danger</keyword>
-    <keyword>cameo</keyword>
-    <keyword>dark past</keyword>
-    <keyword>mustache</keyword>
-    <keyword>argument</keyword>
-    <keyword>tragic past</keyword>
-    <keyword>flight</keyword>
-    <keyword>battle</keyword>
-    <keyword>aerial battle</keyword>
-    <keyword>fade to black</keyword>
-    <keyword>female pilot</keyword>
-    <keyword>co pilot</keyword>
-    <keyword>u.s. military</keyword>
-    <keyword>plane</keyword>
-    <keyword>jet aeroplane</keyword>
-    <keyword>aircraft</keyword>
-    <keyword>showdown</keyword>
-    <keyword>military officer</keyword>
-    <keyword>military airplane</keyword>
-    <keyword>disobeying orders</keyword>
-    <keyword>returning character with different actress</keyword>
-    <keyword>teacher student relationship</keyword>
-    <keyword>aircraft pilot</keyword>
-    <keyword>airplane cockpit</keyword>
-    <keyword>punctuation in title</keyword>
-    <keyword>female bartender</keyword>
-    <keyword>captain</keyword>
-    <keyword>leader</keyword>
-    <keyword>single parent</keyword>
-    <keyword>leather</keyword>
-    <keyword>mission</keyword>
-    <keyword>training</keyword>
-    <keyword>cell phone</keyword>
-    <keyword>grounded</keyword>
-    <keyword>pilot ejects</keyword>
-    <keyword>peril</keyword>
-    <keyword>love</keyword>
-    <keyword>death</keyword>
-    <keyword>jet</keyword>
-    <keyword>propaganda</keyword>
-    <keyword>military aeroplane</keyword>
-    <keyword>aircraft cockpit</keyword>
-    <keyword>fictional story</keyword>
-    <keyword>delayed release</keyword>
-    <keyword>camera shot of a woman's feet in high heels</keyword>
-    <keyword>high heels</keyword>
-    <keyword>stockings</keyword>
-    <keyword>black stockings</keyword>
-    <keyword>mother daughter relationship</keyword>
-    <keyword>machine gun</keyword>
-    <keyword>battlefield</keyword>
-    <keyword>combat</keyword>
-    <keyword>post cold war</keyword>
-    <keyword>motor vehicle</keyword>
-    <keyword>fifth generation air superiority fighter</keyword>
-    <keyword>aerial dogfight</keyword>
-    <keyword>military aircraft</keyword>
-    <keyword>vehicle</keyword>
-    <keyword>rotorcraft</keyword>
-    <keyword>surface to air attack</keyword>
-    <keyword>military helicopter</keyword>
-    <keyword>speeding vehicle</keyword>
-    <keyword>waterborne ship</keyword>
-    <keyword>missile attack</keyword>
-    <keyword>military rotorcraft</keyword>
-    <keyword>smartphone</keyword>
-    <keyword>mustached man</keyword>
-    <keyword>night</keyword>
-    <keyword>touchscreen</keyword>
-    <keyword>naval warship</keyword>
-    <keyword>female fighter pilot</keyword>
-    <keyword>jet aircraft</keyword>
-    <keyword>nighttime</keyword>
-    <keyword>air to surface attack</keyword>
-    <keyword>warship</keyword>
-    <keyword>flare countermeasure</keyword>
-    <keyword>aeroplane cockpit</keyword>
-    <keyword>heads up display</keyword>
-    <keyword>sea to surface attack</keyword>
-    <keyword>propeller airplane</keyword>
-    <keyword>aerial explosion</keyword>
-    <keyword>snowy landscape</keyword>
-    <keyword>f 14</keyword>
-    <keyword>propeller aeroplane</keyword>
-    <keyword>watercraft</keyword>
-    <keyword>f 14 tomcat</keyword>
-    <keyword>doing push ups</keyword>
-    <keyword>propeller aircraft</keyword>
-    <keyword>two seater aeroplane</keyword>
-    <keyword>wilderness</keyword>
-    <keyword>grumman f 14 tomcat</keyword>
-    <keyword>snowy mountain</keyword>
-    <keyword>male admiral</keyword>
-    <keyword>two seater</keyword>
-    <keyword>exploding aircraft</keyword>
-    <keyword>f 14 fighter jet</keyword>
-    <keyword>audio communication</keyword>
-    <keyword>two seater aircraft</keyword>
-    <keyword>f 18 hornet</keyword>
-    <keyword>hand signal</keyword>
-    <keyword>view through binoculars</keyword>
-    <keyword>speeding motorcycle</keyword>
-    <keyword>two seater fighter jet</keyword>
-    <keyword>f 18</keyword>
-    <keyword>male captain</keyword>
-    <keyword>child</keyword>
-    <keyword>lieutenant</keyword>
-    <keyword>animal</keyword>
-    <keyword>f 18 fighter jet</keyword>
-    <keyword>boy</keyword>
-    <keyword>dog</keyword>
-    <keyword>male lieutenant</keyword>
-    <keyword>mammal</keyword>
-    <keyword>canine</keyword>
-    <keyword>quadruped</keyword>
-    <keyword>naval aviator</keyword>
-    <keyword>male male hug</keyword>
-    <keyword>bird strike</keyword>
-    <keyword>air to air missile</keyword>
-    <keyword>gunship</keyword>
-    <keyword>female aviator</keyword>
-    <keyword>laser guided bomb</keyword>
-    <keyword>salute</keyword>
-    <keyword>helicopter gunship</keyword>
-    <keyword>woman aviator</keyword>
-    <keyword>missile impact</keyword>
-    <keyword>gunfire</keyword>
-    <keyword>aircraft carrier landing</keyword>
-    <keyword>aircraft carrier elevator</keyword>
-    <keyword>aircraft carrier take off</keyword>
-    <keyword>air combat</keyword>
-    <keyword>uniform</keyword>
-    <keyword>nimitz class aircraft carrier</keyword>
-    <keyword>carrier battle group</keyword>
-    <keyword>carrier strike group</keyword>
-    <keyword>target acquisition radar</keyword>
-    <keyword>air search radar</keyword>
-    <keyword>flight deck officer</keyword>
-    <keyword>navy catapult officer</keyword>
-    <keyword>aircraft handling officer</keyword>
-    <keyword>flight deck</keyword>
-    <keyword>plane director</keyword>
-    <keyword>command center</keyword>
-    <keyword>danger zone</keyword>
-    <keyword>song</keyword>
-    <keyword>uranium plant</keyword>
-    <keyword>fighter weapons school</keyword>
-    <keyword>flight manual</keyword>
-    <keyword>aircraft engineer</keyword>
-    <keyword>control center</keyword>
-    <keyword>mission control</keyword>
-    <keyword>hypersonic airplane</keyword>
-    <keyword>dark star</keyword>
-    <keyword>mission briefing</keyword>
-    <keyword>satellite map</keyword>
-    <keyword>uranium</keyword>
-    <keyword>country music</keyword>
-    <keyword>rock 'n' roll</keyword>
-    <keyword>throwing someone out of a bar</keyword>
-    <keyword>pilot helmet</keyword>
-    <keyword>teacher</keyword>
-    <keyword>nato</keyword>
-    <keyword>enemy</keyword>
-    <keyword>teammate</keyword>
-    <keyword>afterburner</keyword>
-    <keyword>water</keyword>
-    <keyword>ocean</keyword>
-    <keyword>sailing</keyword>
-    <keyword>flight training</keyword>
-    <keyword>air combat training</keyword>
-    <keyword>work</keyword>
-    <keyword>playing football</keyword>
-    <keyword>radiation</keyword>
-    <keyword>strike</keyword>
-    <keyword>formation</keyword>
-    <keyword>survival</keyword>
-    <keyword>impact</keyword>
-    <keyword>bullseye</keyword>
-    <keyword>killshot</keyword>
-    <keyword>boeing fa 18e super hornet</keyword>
-    <keyword>boeing fa 18f super hornet</keyword>
-    <keyword>engine failure</keyword>
-    <keyword>aim 9 sidewinder missile</keyword>
-    <keyword>military cemetery</keyword>
-    <keyword>military uniform</keyword>
-    <keyword>intercept</keyword>
-    <keyword>military dress uniform</keyword>
-    <keyword>white uniform</keyword>
-    <keyword>navy dress uniform</keyword>
-    <keyword>northrop grumman e 2 hawkeye</keyword>
-    <keyword>hawkeye</keyword>
-    <keyword>fog</keyword>
-    <keyword>flying under radar</keyword>
-    <keyword>strike aircraft</keyword>
-    <keyword>north american p 51 mustang</keyword>
-    <keyword>miracle</keyword>
-    <keyword>surface to air missile</keyword>
-    <keyword>countermeasure</keyword>
-    <keyword>snowing</keyword>
-    <keyword>porsche 911</keyword>
-    <keyword>playing darts</keyword>
-    <keyword>medal</keyword>
-    <keyword>wood hauling truck</keyword>
-    <keyword>tactical vest</keyword>
-    <keyword>soldier</keyword>
-    <keyword>bomber jacket</keyword>
-    <keyword>workout</keyword>
-    <keyword>fitness training</keyword>
-    <keyword>pushup</keyword>
-    <keyword>instruction</keyword>
-    <keyword>timing</keyword>
-    <keyword>sailing yacht</keyword>
-    <keyword>money</keyword>
-    <keyword>runway</keyword>
-    <keyword>bridge</keyword>
-    <keyword>assault rifle</keyword>
-    <keyword>fire</keyword>
-    <keyword>blue jeans</keyword>
-    <keyword>pool</keyword>
-    <keyword>man wears eyeglasses</keyword>
-    <keyword>color photograph</keyword>
-    <keyword>hugging</keyword>
-    <keyword>woman with long hair</keyword>
-    <keyword>football game</keyword>
-    <keyword>billiards</keyword>
-    <keyword>dart</keyword>
-    <keyword>overalls</keyword>
-    <keyword>jeans</keyword>
-    <keyword>football</keyword>
-    <keyword>playing pool</keyword>
-    <keyword>warplane</keyword>
-    <keyword>wing man</keyword>
-    <keyword>yacht</keyword>
-    <keyword>ejector seat</keyword>
-    <keyword>cruise missile</keyword>
-    <keyword>blurry vision</keyword>
-    <keyword>losing consciousness</keyword>
-    <keyword>offscreen death</keyword>
-    <keyword>jet fuel</keyword>
-    <keyword>2020s</keyword>
-    <keyword>21st century</keyword>
-    <keyword>low flying jet</keyword>
-    <keyword>futuristic aircraft</keyword>
-    <keyword>combat aircraft</keyword>
-    <keyword>airplane shot down</keyword>
-    <keyword>ace pilot</keyword>
-    <keyword>nickname</keyword>
-    <keyword>determination</keyword>
-    <keyword>saved at the last second</keyword>
-    <keyword>implied sex</keyword>
-    <keyword>part of series</keyword>
-    <keyword>man wears a uniform</keyword>
-    <keyword>p 51</keyword>
-    <keyword>cobra</keyword>
-    <keyword>stunt flying</keyword>
-    <keyword>unnamed country</keyword>
-    <keyword>mil mi 24 hind helicopter</keyword>
-    <keyword>father son relationship</keyword>
-    <keyword>fly by</keyword>
-    <keyword>surrogate father</keyword>
-    <keyword>military honor guard</keyword>
-    <keyword>call sign</keyword>
-    <keyword>mojave desert</keyword>
-    <keyword>experimental plane</keyword>
-    <keyword>reference to the korean war</keyword>
-    <keyword>reference to the cold war</keyword>
-    <keyword>ringing a bell</keyword>
-    <keyword>airplane coming down</keyword>
-    <keyword>damaged airplane</keyword>
-    <keyword>playing piano</keyword>
-    <keyword>piano</keyword>
-    <keyword>supersonic airplane</keyword>
-    <keyword>jumpsuit</keyword>
-    <keyword>male aviator</keyword>
-    <keyword>year 1969</keyword>
-    <keyword>mcdonnell douglas fa 18 hornet</keyword>
-    <keyword>sikorsky sh 60 seahawk</keyword>
-    <keyword>refurbishing a north american p 51 mustang</keyword>
-    <keyword>keychain</keyword>
-    <keyword>man and woman ride a motorcycle</keyword>
-    <keyword>test flight</keyword>
-    <keyword>darts bullseye</keyword>
-    <keyword>drinks for everybody</keyword>
-    <keyword>arrogance</keyword>
-    <keyword>credit card declined</keyword>
-    <keyword>throat cut</keyword>
-    <keyword>repeated scene from a previous film</keyword>
-    <keyword>flying inverted</keyword>
-    <keyword>cobra maneuver</keyword>
-    <keyword>playing simultaneous offense and defense football</keyword>
-    <keyword>climbing out a window</keyword>
-    <keyword>pilot blacks out</keyword>
-    <keyword>engine fire</keyword>
-    <keyword>flag draped coffin</keyword>
-    <keyword>playing a bugle</keyword>
-    <keyword>death of a friend</keyword>
-    <keyword>tomahawk cruise missile</keyword>
-    <keyword>playing taps</keyword>
-    <keyword>laser designator</keyword>
-    <keyword>missile strike</keyword>
-    <keyword>night aircraft carrier landing</keyword>
-    <keyword>fighter ace</keyword>
-    <keyword>soldiers hugging</keyword>
-    <keyword>product placement</keyword>
-    <keyword>xenophobic</keyword>
-    <keyword>xenophobia</keyword>
-    <keyword>flying upside down</keyword>
-    <keyword>second part</keyword>
-    <keyword>death of friend</keyword>
-    <keyword>character name in title</keyword>
-    <keyword>funeral</keyword>
-    <keyword>aviation</keyword>
-    <keyword>aviator</keyword>
-    <keyword>one person army action</keyword>
-    <keyword>epic drama</keyword>
-    <keyword>canyon</keyword>
-    <keyword>stealing an aircraft</keyword>
-    <keyword>admiral</keyword>
-    <keyword>reverse footage</keyword>
-    <keyword>photograph</keyword>
-    <keyword>leather jacket</keyword>
-    <keyword>film starts with text</keyword>
-    <keyword>electronic music score</keyword>
-    <keyword>scene during opening credits</keyword>
-    <keyword>american football</keyword>
-    <keyword>single mother</keyword>
-    <keyword>radar</keyword>
-    <keyword>aerial combat</keyword>
-    <keyword>bunker</keyword>
-    <keyword>air strike</keyword>
-    <keyword>ambush</keyword>
-    <keyword>top secret</keyword>
-    <keyword>blockbuster</keyword>
-    <keyword>three word title</keyword>
-    <keyword>male protagonist</keyword>
-    <keyword>bravery</keyword>
-    <keyword>navy</keyword>
-    <keyword>stealing a grumman f 14 tomcat</keyword>
-    <keyword>natanz uranium enrichment facility</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.</plot>
-  <producer>
-    <producer> Jerry Bruckheimer</producer>
-    <producer> John K. Campbell</producer>
-    <producer> Emily Cheung</producer>
-    <producer> Tom Cruise</producer>
-    <producer> David Ellison</producer>
-    <producer> Don Ferrarone</producer>
-    <producer> Dana Goldberg</producer>
-    <producer> Don Granger</producer>
-    <producer> Tommy Harper</producer>
-    <producer> Christopher McQuarrie</producer>
-    <producer> Chad Oman</producer>
-    <producer> Melissa Reid</producer>
-    <producer> Mike Stenson</producer>
-  </producer>
-  <releasedates>May 27, 2022 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>130</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Dolby Atmos</soundmixe>
-  </soundmixes>
-  <title>Top Gun: Maverick</title>
-  <type>movie</type>
-  <writer>
-    <writer> Jim Cash</writer>
-    <writer> Jack Epps Jr.</writer>
-    <writer> Peter Craig</writer>
-    <writer> Justin Marks</writer>
-    <writer> Ehren Kruger</writer>
-    <writer> Eric Warren Singer</writer>
-    <writer> Christopher McQuarrie</writer>
-  </writer>
-  <year>2022</year>
+<?xml version="1.0" ?>
+<doc id="tt1745960">
+	<docid>tt1745960</docid>
+	<title>Top Gun: Maverick</title>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Cruise</actor>
+			<role>Capt. Pete 'Maverick' Mitchell</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Connelly</actor>
+			<role>Penny Benjamin</role>
+		</credit>
+		<credit>
+			<actor>Miles Teller</actor>
+			<role>Lt. Bradley 'Rooster' Bradshaw</role>
+		</credit>
+		<credit>
+			<actor>Val Kilmer</actor>
+			<role>Adm. Tom 'Iceman' Kazansky</role>
+		</credit>
+		<credit>
+			<actor>Bashir Salahuddin</actor>
+			<role>Wo-1. Bernie 'Hondo' Coleman</role>
+		</credit>
+		<credit>
+			<actor>Jon Hamm</actor>
+			<role>Adm. Beau 'Cyclone' Simpson</role>
+		</credit>
+		<credit>
+			<actor>Charles Parnell</actor>
+			<role>Adm. Solomon 'Warlock' Bates</role>
+		</credit>
+		<credit>
+			<actor>Monica Barbaro</actor>
+			<role>Lt. Natasha 'Phoenix' Trace</role>
+		</credit>
+		<credit>
+			<actor>Lewis Pullman</actor>
+			<role>Lt. Robert 'Bob' Floyd</role>
+		</credit>
+		<credit>
+			<actor>Jay Ellis</actor>
+			<role>Lt. Reuben 'Payback' Fitch</role>
+		</credit>
+		<credit>
+			<actor>Danny Ramirez</actor>
+			<role>Lt. Mickey 'Fanboy' Garcia</role>
+		</credit>
+		<credit>
+			<actor>Glen Powell</actor>
+			<role>Lt. Jake 'Hangman' Seresin</role>
+		</credit>
+		<credit>
+			<actor>Jack Schumacher</actor>
+			<role>Lt. Neil 'Omaha' Vikander</role>
+		</credit>
+		<credit>
+			<actor>Manny Jacinto</actor>
+			<role>Lt. Billy 'Fritz' Avalone</role>
+		</credit>
+		<credit>
+			<actor>Kara Wang</actor>
+			<role>Lt. Callie 'Halo' Bassett</role>
+		</credit>
+		<credit>
+			<actor>Greg Tarzan Davis</actor>
+			<role>Lt. Javy 'Coyote' Machado</role>
+		</credit>
+		<credit>
+			<actor>Jake Picking</actor>
+			<role>Lt. Brigham 'Harvard' Lennox</role>
+		</credit>
+		<credit>
+			<actor>Raymond Lee</actor>
+			<role>Lt. Logan 'Yale' Lee</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 18 2022</releasedate>
+		<releasedate country="United Kingdom">May 19 2022</releasedate>
+		<releasedate country="Colombia">May 21 2022</releasedate>
+		<releasedate country="Croatia">May 24 2022</releasedate>
+		<releasedate country="Japan">May 24 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">ALL</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">6+</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">10+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fighter jet</keyword>
+		<keyword>aircraft carrier</keyword>
+		<keyword>dogfight</keyword>
+		<keyword>sequel</keyword>
+		<keyword>naval aviation</keyword>
+		<keyword>u.s. navy</keyword>
+		<keyword>jet fighter</keyword>
+		<keyword>fighter aircraft</keyword>
+		<keyword>military pilot</keyword>
+		<keyword>military propaganda</keyword>
+		<keyword>mach 10</keyword>
+		<keyword>pilot</keyword>
+		<keyword>cockpit</keyword>
+		<keyword>leadership</keyword>
+		<keyword>military funeral</keyword>
+		<keyword>explosion</keyword>
+		<keyword>flight instructor</keyword>
+		<keyword>team action</keyword>
+		<keyword>american propaganda</keyword>
+		<keyword>ego</keyword>
+		<keyword>jarhead</keyword>
+		<keyword>military industrial complex</keyword>
+		<keyword>derelict aeroplane</keyword>
+		<keyword>premarital sex</keyword>
+		<keyword>final battle</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>returning character with different actor</keyword>
+		<keyword>beach</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>fighter pilot</keyword>
+		<keyword>military</keyword>
+		<keyword>test pilot</keyword>
+		<keyword>sailboat</keyword>
+		<keyword>heroism</keyword>
+		<keyword>redemption</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>prologue</keyword>
+		<keyword>insubordination</keyword>
+		<keyword>repeat sequel</keyword>
+		<keyword>flight school</keyword>
+		<keyword>bar</keyword>
+		<keyword>bartender</keyword>
+		<keyword>diner</keyword>
+		<keyword>san diego california</keyword>
+		<keyword>desert</keyword>
+		<keyword>old flame</keyword>
+		<keyword>naval officer</keyword>
+		<keyword>missile</keyword>
+		<keyword>flare</keyword>
+		<keyword>mountain</keyword>
+		<keyword>snow</keyword>
+		<keyword>forest</keyword>
+		<keyword>helmet</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>ejection seat</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>stopwatch</keyword>
+		<keyword>texting</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>end credits roll call</keyword>
+		<keyword>exiting through a window</keyword>
+		<keyword>american flag</keyword>
+		<keyword>weapon in title</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>throat cancer</keyword>
+		<keyword>courage</keyword>
+		<keyword>flashback</keyword>
+		<keyword>race against time</keyword>
+		<keyword>sequel to cult favorite</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>famous score</keyword>
+		<keyword>pool table</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>anger</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>airplane</keyword>
+		<keyword>airplane pilot</keyword>
+		<keyword>love interest</keyword>
+		<keyword>montage</keyword>
+		<keyword>flying</keyword>
+		<keyword>woods</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>cameo</keyword>
+		<keyword>dark past</keyword>
+		<keyword>mustache</keyword>
+		<keyword>argument</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>flight</keyword>
+		<keyword>battle</keyword>
+		<keyword>aerial battle</keyword>
+		<keyword>fade to black</keyword>
+		<keyword>female pilot</keyword>
+		<keyword>co pilot</keyword>
+		<keyword>u.s. military</keyword>
+		<keyword>plane</keyword>
+		<keyword>jet aeroplane</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>showdown</keyword>
+		<keyword>military officer</keyword>
+		<keyword>military airplane</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>returning character with different actress</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>aircraft pilot</keyword>
+		<keyword>airplane cockpit</keyword>
+		<keyword>punctuation in title</keyword>
+		<keyword>female bartender</keyword>
+		<keyword>captain</keyword>
+		<keyword>leader</keyword>
+		<keyword>single parent</keyword>
+		<keyword>leather</keyword>
+		<keyword>mission</keyword>
+		<keyword>training</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>grounded</keyword>
+		<keyword>pilot ejects</keyword>
+		<keyword>peril</keyword>
+		<keyword>love</keyword>
+		<keyword>death</keyword>
+		<keyword>jet</keyword>
+		<keyword>propaganda</keyword>
+		<keyword>military aeroplane</keyword>
+		<keyword>aircraft cockpit</keyword>
+		<keyword>fictional story</keyword>
+		<keyword>delayed release</keyword>
+		<keyword>camera shot of a woman's feet in high heels</keyword>
+		<keyword>high heels</keyword>
+		<keyword>stockings</keyword>
+		<keyword>black stockings</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>post cold war</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>fifth generation air superiority fighter</keyword>
+		<keyword>aerial dogfight</keyword>
+		<keyword>military aircraft</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>surface to air attack</keyword>
+		<keyword>military helicopter</keyword>
+		<keyword>speeding vehicle</keyword>
+		<keyword>waterborne ship</keyword>
+		<keyword>missile attack</keyword>
+		<keyword>military rotorcraft</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>night</keyword>
+		<keyword>touchscreen</keyword>
+		<keyword>naval warship</keyword>
+		<keyword>female fighter pilot</keyword>
+		<keyword>jet aircraft</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>air to surface attack</keyword>
+		<keyword>warship</keyword>
+		<keyword>flare countermeasure</keyword>
+		<keyword>aeroplane cockpit</keyword>
+		<keyword>heads up display</keyword>
+		<keyword>sea to surface attack</keyword>
+		<keyword>propeller airplane</keyword>
+		<keyword>aerial explosion</keyword>
+		<keyword>snowy landscape</keyword>
+		<keyword>f 14</keyword>
+		<keyword>propeller aeroplane</keyword>
+		<keyword>watercraft</keyword>
+		<keyword>f 14 tomcat</keyword>
+		<keyword>doing push ups</keyword>
+		<keyword>propeller aircraft</keyword>
+		<keyword>two seater aeroplane</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>grumman f 14 tomcat</keyword>
+		<keyword>snowy mountain</keyword>
+		<keyword>male admiral</keyword>
+		<keyword>two seater</keyword>
+		<keyword>exploding aircraft</keyword>
+		<keyword>f 14 fighter jet</keyword>
+		<keyword>audio communication</keyword>
+		<keyword>two seater aircraft</keyword>
+		<keyword>f 18 hornet</keyword>
+		<keyword>hand signal</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>speeding motorcycle</keyword>
+		<keyword>two seater fighter jet</keyword>
+		<keyword>f 18</keyword>
+		<keyword>male captain</keyword>
+		<keyword>child</keyword>
+		<keyword>lieutenant</keyword>
+		<keyword>animal</keyword>
+		<keyword>f 18 fighter jet</keyword>
+		<keyword>boy</keyword>
+		<keyword>dog</keyword>
+		<keyword>male lieutenant</keyword>
+		<keyword>mammal</keyword>
+		<keyword>canine</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>naval aviator</keyword>
+		<keyword>male male hug</keyword>
+		<keyword>bird strike</keyword>
+		<keyword>air to air missile</keyword>
+		<keyword>gunship</keyword>
+		<keyword>female aviator</keyword>
+		<keyword>laser guided bomb</keyword>
+		<keyword>salute</keyword>
+		<keyword>helicopter gunship</keyword>
+		<keyword>woman aviator</keyword>
+		<keyword>missile impact</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>aircraft carrier landing</keyword>
+		<keyword>aircraft carrier elevator</keyword>
+		<keyword>aircraft carrier take off</keyword>
+		<keyword>air combat</keyword>
+		<keyword>uniform</keyword>
+		<keyword>nimitz class aircraft carrier</keyword>
+		<keyword>carrier battle group</keyword>
+		<keyword>carrier strike group</keyword>
+		<keyword>target acquisition radar</keyword>
+		<keyword>air search radar</keyword>
+		<keyword>flight deck officer</keyword>
+		<keyword>navy catapult officer</keyword>
+		<keyword>aircraft handling officer</keyword>
+		<keyword>flight deck</keyword>
+		<keyword>plane director</keyword>
+		<keyword>command center</keyword>
+		<keyword>danger zone</keyword>
+		<keyword>song</keyword>
+		<keyword>uranium plant</keyword>
+		<keyword>fighter weapons school</keyword>
+		<keyword>flight manual</keyword>
+		<keyword>aircraft engineer</keyword>
+		<keyword>control center</keyword>
+		<keyword>mission control</keyword>
+		<keyword>hypersonic airplane</keyword>
+		<keyword>dark star</keyword>
+		<keyword>mission briefing</keyword>
+		<keyword>satellite map</keyword>
+		<keyword>uranium</keyword>
+		<keyword>country music</keyword>
+		<keyword>rock 'n' roll</keyword>
+		<keyword>throwing someone out of a bar</keyword>
+		<keyword>pilot helmet</keyword>
+		<keyword>teacher</keyword>
+		<keyword>nato</keyword>
+		<keyword>enemy</keyword>
+		<keyword>teammate</keyword>
+		<keyword>afterburner</keyword>
+		<keyword>water</keyword>
+		<keyword>ocean</keyword>
+		<keyword>sailing</keyword>
+		<keyword>flight training</keyword>
+		<keyword>air combat training</keyword>
+		<keyword>work</keyword>
+		<keyword>playing football</keyword>
+		<keyword>radiation</keyword>
+		<keyword>strike</keyword>
+		<keyword>formation</keyword>
+		<keyword>survival</keyword>
+		<keyword>impact</keyword>
+		<keyword>bullseye</keyword>
+		<keyword>killshot</keyword>
+		<keyword>boeing fa 18e super hornet</keyword>
+		<keyword>boeing fa 18f super hornet</keyword>
+		<keyword>engine failure</keyword>
+		<keyword>aim 9 sidewinder missile</keyword>
+		<keyword>military cemetery</keyword>
+		<keyword>military uniform</keyword>
+		<keyword>intercept</keyword>
+		<keyword>military dress uniform</keyword>
+		<keyword>white uniform</keyword>
+		<keyword>navy dress uniform</keyword>
+		<keyword>northrop grumman e 2 hawkeye</keyword>
+		<keyword>hawkeye</keyword>
+		<keyword>fog</keyword>
+		<keyword>flying under radar</keyword>
+		<keyword>strike aircraft</keyword>
+		<keyword>north american p 51 mustang</keyword>
+		<keyword>miracle</keyword>
+		<keyword>surface to air missile</keyword>
+		<keyword>countermeasure</keyword>
+		<keyword>snowing</keyword>
+		<keyword>porsche 911</keyword>
+		<keyword>playing darts</keyword>
+		<keyword>medal</keyword>
+		<keyword>wood hauling truck</keyword>
+		<keyword>tactical vest</keyword>
+		<keyword>soldier</keyword>
+		<keyword>bomber jacket</keyword>
+		<keyword>workout</keyword>
+		<keyword>fitness training</keyword>
+		<keyword>pushup</keyword>
+		<keyword>instruction</keyword>
+		<keyword>timing</keyword>
+		<keyword>sailing yacht</keyword>
+		<keyword>money</keyword>
+		<keyword>runway</keyword>
+		<keyword>bridge</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>fire</keyword>
+		<keyword>blue jeans</keyword>
+		<keyword>pool</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>color photograph</keyword>
+		<keyword>hugging</keyword>
+		<keyword>woman with long hair</keyword>
+		<keyword>football game</keyword>
+		<keyword>billiards</keyword>
+		<keyword>dart</keyword>
+		<keyword>overalls</keyword>
+		<keyword>jeans</keyword>
+		<keyword>football</keyword>
+		<keyword>playing pool</keyword>
+		<keyword>warplane</keyword>
+		<keyword>wing man</keyword>
+		<keyword>yacht</keyword>
+		<keyword>ejector seat</keyword>
+		<keyword>cruise missile</keyword>
+		<keyword>blurry vision</keyword>
+		<keyword>losing consciousness</keyword>
+		<keyword>offscreen death</keyword>
+		<keyword>jet fuel</keyword>
+		<keyword>2020s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>low flying jet</keyword>
+		<keyword>futuristic aircraft</keyword>
+		<keyword>combat aircraft</keyword>
+		<keyword>airplane shot down</keyword>
+		<keyword>ace pilot</keyword>
+		<keyword>nickname</keyword>
+		<keyword>determination</keyword>
+		<keyword>saved at the last second</keyword>
+		<keyword>implied sex</keyword>
+		<keyword>part of series</keyword>
+		<keyword>man wears a uniform</keyword>
+		<keyword>p 51</keyword>
+		<keyword>cobra</keyword>
+		<keyword>stunt flying</keyword>
+		<keyword>unnamed country</keyword>
+		<keyword>mil mi 24 hind helicopter</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>fly by</keyword>
+		<keyword>surrogate father</keyword>
+		<keyword>military honor guard</keyword>
+		<keyword>call sign</keyword>
+		<keyword>mojave desert</keyword>
+		<keyword>experimental plane</keyword>
+		<keyword>reference to the korean war</keyword>
+		<keyword>reference to the cold war</keyword>
+		<keyword>ringing a bell</keyword>
+		<keyword>airplane coming down</keyword>
+		<keyword>damaged airplane</keyword>
+		<keyword>playing piano</keyword>
+		<keyword>piano</keyword>
+		<keyword>supersonic airplane</keyword>
+		<keyword>jumpsuit</keyword>
+		<keyword>male aviator</keyword>
+		<keyword>year 1969</keyword>
+		<keyword>mcdonnell douglas fa 18 hornet</keyword>
+		<keyword>sikorsky sh 60 seahawk</keyword>
+		<keyword>refurbishing a north american p 51 mustang</keyword>
+		<keyword>keychain</keyword>
+		<keyword>man and woman ride a motorcycle</keyword>
+		<keyword>test flight</keyword>
+		<keyword>darts bullseye</keyword>
+		<keyword>drinks for everybody</keyword>
+		<keyword>arrogance</keyword>
+		<keyword>credit card declined</keyword>
+		<keyword>throat cut</keyword>
+		<keyword>repeated scene from a previous film</keyword>
+		<keyword>flying inverted</keyword>
+		<keyword>cobra maneuver</keyword>
+		<keyword>playing simultaneous offense and defense football</keyword>
+		<keyword>climbing out a window</keyword>
+		<keyword>pilot blacks out</keyword>
+		<keyword>engine fire</keyword>
+		<keyword>flag draped coffin</keyword>
+		<keyword>playing a bugle</keyword>
+		<keyword>death of a friend</keyword>
+		<keyword>tomahawk cruise missile</keyword>
+		<keyword>playing taps</keyword>
+		<keyword>laser designator</keyword>
+		<keyword>missile strike</keyword>
+		<keyword>night aircraft carrier landing</keyword>
+		<keyword>fighter ace</keyword>
+		<keyword>soldiers hugging</keyword>
+		<keyword>product placement</keyword>
+		<keyword>xenophobic</keyword>
+		<keyword>xenophobia</keyword>
+		<keyword>flying upside down</keyword>
+		<keyword>second part</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>funeral</keyword>
+		<keyword>aviation</keyword>
+		<keyword>aviator</keyword>
+		<keyword>one person army action</keyword>
+		<keyword>epic drama</keyword>
+		<keyword>canyon</keyword>
+		<keyword>stealing an aircraft</keyword>
+		<keyword>admiral</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>photograph</keyword>
+		<keyword>leather jacket</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>american football</keyword>
+		<keyword>single mother</keyword>
+		<keyword>radar</keyword>
+		<keyword>aerial combat</keyword>
+		<keyword>bunker</keyword>
+		<keyword>air strike</keyword>
+		<keyword>ambush</keyword>
+		<keyword>top secret</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>three word title</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>bravery</keyword>
+		<keyword>navy</keyword>
+		<keyword>stealing a grumman f 14 tomcat</keyword>
+		<keyword>natanz uranium enrichment facility</keyword>
+	</keywords>
+	<directors>
+		<director> Joseph Kosinski</director>
+	</directors>
+	<composers>
+		<composer> Harold Faltermeyer</composer>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> Jerry Bruckheimer</producer>
+		<producer> John K. Campbell</producer>
+		<producer> Emily Cheung</producer>
+		<producer> Tom Cruise</producer>
+		<producer> David Ellison</producer>
+		<producer> Don Ferrarone</producer>
+		<producer> Dana Goldberg</producer>
+		<producer> Don Granger</producer>
+		<producer> Tommy Harper</producer>
+		<producer> Christopher McQuarrie</producer>
+		<producer> Chad Oman</producer>
+		<producer> Melissa Reid</producer>
+		<producer> Mike Stenson</producer>
+	</producers>
+	<writers>
+		<writer> Jim Cash</writer>
+		<writer> Jack Epps Jr.</writer>
+		<writer> Peter Craig</writer>
+		<writer> Justin Marks</writer>
+		<writer> Ehren Kruger</writer>
+		<writer> Eric Warren Singer</writer>
+		<writer> Christopher McQuarrie</writer>
+	</writers>
+	<editors>
+		<editor> Eddie Hamilton</editor>
+	</editors>
 </doc>

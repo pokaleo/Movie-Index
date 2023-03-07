@@ -1,493 +1,465 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Daniel Craig</actor>
-      
-      
-        <role>Benoit Blanc</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Edward Norton</actor>
-      
-      
-        <role>Miles Bron</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kate Hudson</actor>
-      
-      
-        <role>Birdie Jay</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Dave Bautista</actor>
-      
-      
-        <role>Duke Cody</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Janelle Monáe</actor>
-      
-      
-        <role>Andi Brand</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kathryn Hahn</actor>
-      
-      
-        <role>Claire Debella</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Leslie Odom Jr.</actor>
-      
-      
-        <role>Lionel Toussaint</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jessica Henwick</actor>
-      
-      
-        <role>Peg</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Madelyn Cline</actor>
-      
-      
-        <role>Whiskey</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Noah Segan</actor>
-      
-      
-        <role>Derol</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jackie Hoffman</actor>
-      
-      
-        <role>Ma</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Dallas Roberts</actor>
-      
-      
-        <role>Devon Debella</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ethan Hawke</actor>
-      
-      
-        <role>Efficient Man</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Hugh Grant</actor>
-      
-      
-        <role>Phillip</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Stephen Sondheim</actor>
-      
-      
-        <role>Stephen Sondheim</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Natasha Lyonne</actor>
-      
-      
-        <role>Natasha Lyonne</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kareem Abdul-Jabbar</actor>
-      
-      
-        <role>Kareem Abdul-Jabbar</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Serena Williams</actor>
-      
-      
-        <role>Serena Williams</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>12A</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Nathan Johnson</composer>
-  </composer>
-  <countries>United States</countries>
-  <director>
-    <director> Rian Johnson</director>
-  </director>
-  <docid>tt11564570</docid>
-  <editor>
-    <editor> Bob Ducsay</editor>
-  </editor>
-  <genres>
-    <genre>Comedy</genre>
-    <genre>Crime</genre>
-    <genre>Drama</genre>
-  </genres>
-  <keywords>
-    <keyword>sequel</keyword>
-    <keyword>detective</keyword>
-    <keyword>benoit blanc character</keyword>
-    <keyword>twin sister</keyword>
-    <keyword>private island</keyword>
-    <keyword>private detective</keyword>
-    <keyword>murder investigation</keyword>
-    <keyword>tech billionaire</keyword>
-    <keyword>invitation</keyword>
-    <keyword>identical twin</keyword>
-    <keyword>identical twin sister</keyword>
-    <keyword>really need female nudity</keyword>
-    <keyword>second part</keyword>
-    <keyword>killer</keyword>
-    <keyword>murder</keyword>
-    <keyword>criminal</keyword>
-    <keyword>cameo appearance</keyword>
-    <keyword>caper crime</keyword>
-    <keyword>reference to paul mccartney</keyword>
-    <keyword>reference to jared leto</keyword>
-    <keyword>reference to jeremy renner</keyword>
-    <keyword>assumed identity</keyword>
-    <keyword>dark comedy</keyword>
-    <keyword>fugue</keyword>
-    <keyword>reference to johann sebastian bach</keyword>
-    <keyword>cigar smoking</keyword>
-    <keyword>reference to youtube</keyword>
-    <keyword>reference to clue or cluedo</keyword>
-    <keyword>reference to liberace</keyword>
-    <keyword>reference to the times</keyword>
-    <keyword>reference to the hindenburg</keyword>
-    <keyword>reference to moviefone</keyword>
-    <keyword>reference to google</keyword>
-    <keyword>reference to twitch</keyword>
-    <keyword>reference to batman</keyword>
-    <keyword>reference to banksy</keyword>
-    <keyword>reference to halle berry</keyword>
-    <keyword>reference to che guevara</keyword>
-    <keyword>year 2020</keyword>
-    <keyword>reference to sherlock holmes</keyword>
-    <keyword>reference to doctor john watson</keyword>
-    <keyword>reference to beyonce knowles</keyword>
-    <keyword>covid 19</keyword>
-    <keyword>reference to covid 19</keyword>
-    <keyword>mona lisa</keyword>
-    <keyword>reference to harriet tubman</keyword>
-    <keyword>reference to oprah winfrey</keyword>
-    <keyword>playing a video game</keyword>
-    <keyword>taking a bath</keyword>
-    <keyword>bath tub</keyword>
-    <keyword>puzzle box</keyword>
-    <keyword>reference to gillian flynn</keyword>
-    <keyword>slow clap</keyword>
-    <keyword>reference to philip glass</keyword>
-    <keyword>reference to jimmy kimmel</keyword>
-    <keyword>reference to anderson cooper</keyword>
-    <keyword>yacht</keyword>
-    <keyword>whodunnit mystery</keyword>
-    <keyword>covid 19 pandemic</keyword>
-    <keyword>timeframe 2020s</keyword>
-    <keyword>private investigator</keyword>
-    <keyword>state governor</keyword>
-    <keyword>second film in a series</keyword>
-    <keyword>second in a series</keyword>
-    <keyword>scientist</keyword>
-    <keyword>zoom call</keyword>
-    <keyword>video conference</keyword>
-    <keyword>former model</keyword>
-    <keyword>slapped in the face</keyword>
-    <keyword>covid lockdown</keyword>
-    <keyword>lockdown</keyword>
-    <keyword>man in a bath</keyword>
-    <keyword>personal assistant</keyword>
-    <keyword>greece</keyword>
-    <keyword>murder mystery party</keyword>
-    <keyword>cheating</keyword>
-    <keyword>drunk</keyword>
-    <keyword>murder suspect</keyword>
-    <keyword>intoxicated</keyword>
-    <keyword>poisoned to death</keyword>
-    <keyword>vlogger</keyword>
-    <keyword>social media influencer</keyword>
-    <keyword>power outage</keyword>
-    <keyword>pistol</keyword>
-    <keyword>shot to death</keyword>
-    <keyword>fax machine</keyword>
-    <keyword>dead body</keyword>
-    <keyword>flashback</keyword>
-    <keyword>new york city</keyword>
-    <keyword>e mail</keyword>
-    <keyword>pretending to be someone else</keyword>
-    <keyword>court case</keyword>
-    <keyword>courtroom</keyword>
-    <keyword>witness testimony</keyword>
-    <keyword>witness stand</keyword>
-    <keyword>witness lying on stand</keyword>
-    <keyword>newspaper headline</keyword>
-    <keyword>perjury</keyword>
-    <keyword>proof</keyword>
-    <keyword>kombucha</keyword>
-    <keyword>cheating girlfriend</keyword>
-    <keyword>dumb blonde</keyword>
-    <keyword>montage</keyword>
-    <keyword>searching a room</keyword>
-    <keyword>shot in the chest</keyword>
-    <keyword>bullet stopped by a notebook</keyword>
-    <keyword>attempted murder</keyword>
-    <keyword>hot sauce</keyword>
-    <keyword>murderer</keyword>
-    <keyword>fax</keyword>
-    <keyword>food allergy</keyword>
-    <keyword>allergic reaction</keyword>
-    <keyword>destroying evidence</keyword>
-    <keyword>burning evidence</keyword>
-    <keyword>explosion</keyword>
-    <keyword>hydrogen explosion</keyword>
-    <keyword>hydrogen fuel</keyword>
-    <keyword>mona lisa the painting</keyword>
-    <keyword>murder mystery weekend</keyword>
-    <keyword>murder victim</keyword>
-    <keyword>shooting</keyword>
-    <keyword>poisoning</keyword>
-    <keyword>poison</keyword>
-    <keyword>alcohol consumption</keyword>
-    <keyword>murder suspects</keyword>
-    <keyword>multiple suspects</keyword>
-    <keyword>skimpy outfit</keyword>
-    <keyword>skimpy costume</keyword>
-    <keyword>woman wears skimpy clothes</keyword>
-    <keyword>girl wearing skimpy clothes</keyword>
-    <keyword>implied sex</keyword>
-    <keyword>swearing</keyword>
-    <keyword>profanity</keyword>
-    <keyword>profanities</keyword>
-    <keyword>excess alcohol consumption</keyword>
-    <keyword>excessive drinking</keyword>
-    <keyword>vaping</keyword>
-    <keyword>smoking</keyword>
-    <keyword>actress plays dual roles</keyword>
-    <keyword>twin takes twins place</keyword>
-    <keyword>identical twin sisters</keyword>
-    <keyword>2020s</keyword>
-    <keyword>social satire</keyword>
-    <keyword>aegean sea</keyword>
-    <keyword>greek island</keyword>
-    <keyword>reference to the beatles</keyword>
-    <keyword>reference to leonardo da vinci</keyword>
-    <keyword>nonlinear timeline</keyword>
-    <keyword>plunging neckline</keyword>
-    <keyword>cleavage</keyword>
-    <keyword>man with a gun</keyword>
-    <keyword>reference to beyonce</keyword>
-    <keyword>sleuthing</keyword>
-    <keyword>world's greatest detective</keyword>
-    <keyword>man watches a couple have sex</keyword>
-    <keyword>backstory</keyword>
-    <keyword>impersonating someone</keyword>
-    <keyword>diversion</keyword>
-    <keyword>porsche</keyword>
-    <keyword>woman wears a bikini</keyword>
-    <keyword>alternative fuel</keyword>
-    <keyword>hydrogen</keyword>
-    <keyword>reference to the hindenburg disaster</keyword>
-    <keyword>lighter</keyword>
-    <keyword>glass shattered</keyword>
-    <keyword>broken sculpture</keyword>
-    <keyword>destroyed by fire</keyword>
-    <keyword>burned</keyword>
-    <keyword>exploding building</keyword>
-    <keyword>building on fire</keyword>
-    <keyword>murder of sister</keyword>
-    <keyword>malaprop</keyword>
-    <keyword>doing the right thing</keyword>
-    <keyword>comeuppance</keyword>
-    <keyword>necklace</keyword>
-    <keyword>reference to a zodiac sign</keyword>
-    <keyword>taurus the astrological sign</keyword>
-    <keyword>billionaire</keyword>
-    <keyword>eccentric billionaire</keyword>
-    <keyword>weekend getaway</keyword>
-    <keyword>elite</keyword>
-    <keyword>group of friends</keyword>
-    <keyword>pandemic</keyword>
-    <keyword>politician</keyword>
-    <keyword>supermodel</keyword>
-    <keyword>celebrity</keyword>
-    <keyword>fashion model</keyword>
-    <keyword>men's rights activist</keyword>
-    <keyword>male chauvinist</keyword>
-    <keyword>influencer</keyword>
-    <keyword>youtube celebrity</keyword>
-    <keyword>business partner</keyword>
-    <keyword>boyfriend girlfriend relationship</keyword>
-    <keyword>impersonation</keyword>
-    <keyword>impostor</keyword>
-    <keyword>impersonating one's identical twin sister</keyword>
-    <keyword>undercover</keyword>
-    <keyword>flashback within flashback</keyword>
-    <keyword>magazine cover</keyword>
-    <keyword>swimming pool</keyword>
-    <keyword>snooping</keyword>
-    <keyword>stoner</keyword>
-    <keyword>hand gun</keyword>
-    <keyword>napkin</keyword>
-    <keyword>trial</keyword>
-    <keyword>betrayal</keyword>
-    <keyword>lying under oath</keyword>
-    <keyword>financial backer</keyword>
-    <keyword>clean energy</keyword>
-    <keyword>solving a puzzle</keyword>
-    <keyword>uninvited guest</keyword>
-    <keyword>split screen</keyword>
-    <keyword>faking one's death</keyword>
-    <keyword>celebrity cameo</keyword>
-    <keyword>reference to the louvre</keyword>
-    <keyword>reference to the mona lisa</keyword>
-    <keyword>priceless art</keyword>
-    <keyword>reference to clue the board game</keyword>
-    <keyword>reference to ipad</keyword>
-    <keyword>google alert</keyword>
-    <keyword>reference to twitch tv</keyword>
-    <keyword>reference to cnn</keyword>
-    <keyword>reference to gucci</keyword>
-    <keyword>reference to henri matisse</keyword>
-    <keyword>reference to mona lisa</keyword>
-    <keyword>sportscar</keyword>
-    <keyword>futuristic house</keyword>
-    <keyword>fibonacci spiral</keyword>
-    <keyword>stereogram</keyword>
-    <keyword>angela lansbury character</keyword>
-    <keyword>stephen sondheim character</keyword>
-    <keyword>kareem abdul jabbar character</keyword>
-    <keyword>natasha lyonne character</keyword>
-    <keyword>yo yo ma character</keyword>
-    <keyword>sweat shop</keyword>
-    <keyword>athleisure</keyword>
-    <keyword>serena williams character</keyword>
-    <keyword>fitness center</keyword>
-    <keyword>crossbow</keyword>
-    <keyword>fake death</keyword>
-    <keyword>blood diamond</keyword>
-    <keyword>solving a murder</keyword>
-    <keyword>drinking liquor</keyword>
-    <keyword>fake blood</keyword>
-    <keyword>pineapple juice</keyword>
-    <keyword>allergy</keyword>
-    <keyword>poisoned drink</keyword>
-    <keyword>murder made to look like suicide</keyword>
-    <keyword>ruse</keyword>
-    <keyword>charade</keyword>
-    <keyword>sleuth</keyword>
-    <keyword>notebook</keyword>
-    <keyword>lights go out</keyword>
-    <keyword>bathtub</keyword>
-    <keyword>face mask</keyword>
-    <keyword>wristband</keyword>
-    <keyword>watching someone through a window</keyword>
-    <keyword>paper napkin</keyword>
-    <keyword>neon sign</keyword>
-    <keyword>stealing credit</keyword>
-    <keyword>lawsuit</keyword>
-    <keyword>speargun</keyword>
-    <keyword>governor</keyword>
-    <keyword>working from home</keyword>
-    <keyword>cell phone</keyword>
-    <keyword>party</keyword>
-    <keyword>unexpected guest</keyword>
-    <keyword>surprise guest</keyword>
-    <keyword>new look</keyword>
-    <keyword>audio recorder</keyword>
-    <keyword>audio recording</keyword>
-    <keyword>writing on a napkin</keyword>
-    <keyword>spying through a window</keyword>
-    <keyword>drugged drink</keyword>
-    <keyword>outspoken</keyword>
-    <keyword>destruction</keyword>
-    <keyword>mother son relationship</keyword>
-    <keyword>ransacking</keyword>
-    <keyword>envelope</keyword>
-    <keyword>cocktail napkin</keyword>
-    <keyword>revenge</keyword>
-    <keyword>raised middle finger</keyword>
-    <keyword>malapropism</keyword>
-    <keyword>blackmail</keyword>
-    <keyword>handgun</keyword>
-    <keyword>gun holster</keyword>
-    <keyword>male protagonist</keyword>
-    <keyword>gay</keyword>
-    <keyword>gay protagonist</keyword>
-    <keyword>all star cast</keyword>
-    <keyword>ensemble cast</keyword>
-    <keyword>racism</keyword>
-    <keyword>house</keyword>
-    <keyword>bare chested male</keyword>
-    <keyword>man in bathtub</keyword>
-    <keyword>man in bath</keyword>
-    <keyword>speedo</keyword>
-    <keyword>man in swimsuit</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>Famed Southern detective Benoit Blanc travels to Greece for his latest case.</plot>
-  <producer>
-    <producer> Ram Bergman</producer>
-    <producer> Leopold Hughes</producer>
-    <producer> Rian Johnson</producer>
-    <producer> Nikos Karamigios</producer>
-    <producer> Tom Karnowski</producer>
-  </producer>
-  <releasedates>December 23, 2022 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>139</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Dolby Atmos</soundmixe>
-  </soundmixes>
-  <title>Glass Onion: A Knives Out Mystery</title>
-  <type>movie</type>
-  <writer>
-    <writer> Rian Johnson</writer>
-  </writer>
-  <year>2022</year>
+<?xml version="1.0" ?>
+<doc id="tt11564570">
+	<docid>tt11564570</docid>
+	<title>Glass Onion: A Knives Out Mystery</title>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">139</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Famed Southern detective Benoit Blanc travels to Greece for his latest case.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Daniel Craig</actor>
+			<role>Benoit Blanc</role>
+		</credit>
+		<credit>
+			<actor>Edward Norton</actor>
+			<role>Miles Bron</role>
+		</credit>
+		<credit>
+			<actor>Kate Hudson</actor>
+			<role>Birdie Jay</role>
+		</credit>
+		<credit>
+			<actor>Dave Bautista</actor>
+			<role>Duke Cody</role>
+		</credit>
+		<credit>
+			<actor>Janelle Monáe</actor>
+			<role>Andi Brand</role>
+		</credit>
+		<credit>
+			<actor>Kathryn Hahn</actor>
+			<role>Claire Debella</role>
+		</credit>
+		<credit>
+			<actor>Leslie Odom Jr.</actor>
+			<role>Lionel Toussaint</role>
+		</credit>
+		<credit>
+			<actor>Jessica Henwick</actor>
+			<role>Peg</role>
+		</credit>
+		<credit>
+			<actor>Madelyn Cline</actor>
+			<role>Whiskey</role>
+		</credit>
+		<credit>
+			<actor>Noah Segan</actor>
+			<role>Derol</role>
+		</credit>
+		<credit>
+			<actor>Jackie Hoffman</actor>
+			<role>Ma</role>
+		</credit>
+		<credit>
+			<actor>Dallas Roberts</actor>
+			<role>Devon Debella</role>
+		</credit>
+		<credit>
+			<actor>Ethan Hawke</actor>
+			<role>Efficient Man</role>
+		</credit>
+		<credit>
+			<actor>Hugh Grant</actor>
+			<role>Phillip</role>
+		</credit>
+		<credit>
+			<actor>Stephen Sondheim</actor>
+			<role>Stephen Sondheim</role>
+		</credit>
+		<credit>
+			<actor>Natasha Lyonne</actor>
+			<role>Natasha Lyonne</role>
+		</credit>
+		<credit>
+			<actor>Kareem Abdul-Jabbar</actor>
+			<role>Kareem Abdul-Jabbar</role>
+		</credit>
+		<credit>
+			<actor>Serena Williams</actor>
+			<role>Serena Williams</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 13 2022</releasedate>
+		<releasedate country="United States">October 6 2022</releasedate>
+		<releasedate country="United States">October 14 2022</releasedate>
+		<releasedate country="United Kingdom">October 16 2022</releasedate>
+		<releasedate country="United States">October 16 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Ecuador">13+</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-13</certificate>
+		<certificate country="Hong Kong">13+</certificate>
+		<certificate country="India">UA 16+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="Mexico">PG-13</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sequel</keyword>
+		<keyword>detective</keyword>
+		<keyword>benoit blanc character</keyword>
+		<keyword>twin sister</keyword>
+		<keyword>private island</keyword>
+		<keyword>private detective</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>tech billionaire</keyword>
+		<keyword>invitation</keyword>
+		<keyword>identical twin</keyword>
+		<keyword>identical twin sister</keyword>
+		<keyword>really need female nudity</keyword>
+		<keyword>second part</keyword>
+		<keyword>killer</keyword>
+		<keyword>murder</keyword>
+		<keyword>criminal</keyword>
+		<keyword>cameo appearance</keyword>
+		<keyword>caper crime</keyword>
+		<keyword>reference to paul mccartney</keyword>
+		<keyword>reference to jared leto</keyword>
+		<keyword>reference to jeremy renner</keyword>
+		<keyword>assumed identity</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>fugue</keyword>
+		<keyword>reference to johann sebastian bach</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>reference to youtube</keyword>
+		<keyword>reference to clue or cluedo</keyword>
+		<keyword>reference to liberace</keyword>
+		<keyword>reference to the times</keyword>
+		<keyword>reference to the hindenburg</keyword>
+		<keyword>reference to moviefone</keyword>
+		<keyword>reference to google</keyword>
+		<keyword>reference to twitch</keyword>
+		<keyword>reference to batman</keyword>
+		<keyword>reference to banksy</keyword>
+		<keyword>reference to halle berry</keyword>
+		<keyword>reference to che guevara</keyword>
+		<keyword>year 2020</keyword>
+		<keyword>reference to sherlock holmes</keyword>
+		<keyword>reference to doctor john watson</keyword>
+		<keyword>reference to beyonce knowles</keyword>
+		<keyword>covid 19</keyword>
+		<keyword>reference to covid 19</keyword>
+		<keyword>mona lisa</keyword>
+		<keyword>reference to harriet tubman</keyword>
+		<keyword>reference to oprah winfrey</keyword>
+		<keyword>playing a video game</keyword>
+		<keyword>taking a bath</keyword>
+		<keyword>bath tub</keyword>
+		<keyword>puzzle box</keyword>
+		<keyword>reference to gillian flynn</keyword>
+		<keyword>slow clap</keyword>
+		<keyword>reference to philip glass</keyword>
+		<keyword>reference to jimmy kimmel</keyword>
+		<keyword>reference to anderson cooper</keyword>
+		<keyword>yacht</keyword>
+		<keyword>whodunnit mystery</keyword>
+		<keyword>covid 19 pandemic</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>private investigator</keyword>
+		<keyword>state governor</keyword>
+		<keyword>second film in a series</keyword>
+		<keyword>second in a series</keyword>
+		<keyword>scientist</keyword>
+		<keyword>zoom call</keyword>
+		<keyword>video conference</keyword>
+		<keyword>former model</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>covid lockdown</keyword>
+		<keyword>lockdown</keyword>
+		<keyword>man in a bath</keyword>
+		<keyword>personal assistant</keyword>
+		<keyword>greece</keyword>
+		<keyword>murder mystery party</keyword>
+		<keyword>cheating</keyword>
+		<keyword>drunk</keyword>
+		<keyword>murder suspect</keyword>
+		<keyword>intoxicated</keyword>
+		<keyword>poisoned to death</keyword>
+		<keyword>vlogger</keyword>
+		<keyword>social media influencer</keyword>
+		<keyword>power outage</keyword>
+		<keyword>pistol</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>fax machine</keyword>
+		<keyword>dead body</keyword>
+		<keyword>flashback</keyword>
+		<keyword>new york city</keyword>
+		<keyword>e mail</keyword>
+		<keyword>pretending to be someone else</keyword>
+		<keyword>court case</keyword>
+		<keyword>courtroom</keyword>
+		<keyword>witness testimony</keyword>
+		<keyword>witness stand</keyword>
+		<keyword>witness lying on stand</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>perjury</keyword>
+		<keyword>proof</keyword>
+		<keyword>kombucha</keyword>
+		<keyword>cheating girlfriend</keyword>
+		<keyword>dumb blonde</keyword>
+		<keyword>montage</keyword>
+		<keyword>searching a room</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>bullet stopped by a notebook</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>hot sauce</keyword>
+		<keyword>murderer</keyword>
+		<keyword>fax</keyword>
+		<keyword>food allergy</keyword>
+		<keyword>allergic reaction</keyword>
+		<keyword>destroying evidence</keyword>
+		<keyword>burning evidence</keyword>
+		<keyword>explosion</keyword>
+		<keyword>hydrogen explosion</keyword>
+		<keyword>hydrogen fuel</keyword>
+		<keyword>mona lisa the painting</keyword>
+		<keyword>murder mystery weekend</keyword>
+		<keyword>murder victim</keyword>
+		<keyword>shooting</keyword>
+		<keyword>poisoning</keyword>
+		<keyword>poison</keyword>
+		<keyword>alcohol consumption</keyword>
+		<keyword>murder suspects</keyword>
+		<keyword>multiple suspects</keyword>
+		<keyword>skimpy outfit</keyword>
+		<keyword>skimpy costume</keyword>
+		<keyword>woman wears skimpy clothes</keyword>
+		<keyword>girl wearing skimpy clothes</keyword>
+		<keyword>implied sex</keyword>
+		<keyword>swearing</keyword>
+		<keyword>profanity</keyword>
+		<keyword>profanities</keyword>
+		<keyword>excess alcohol consumption</keyword>
+		<keyword>excessive drinking</keyword>
+		<keyword>vaping</keyword>
+		<keyword>smoking</keyword>
+		<keyword>actress plays dual roles</keyword>
+		<keyword>twin takes twins place</keyword>
+		<keyword>identical twin sisters</keyword>
+		<keyword>2020s</keyword>
+		<keyword>social satire</keyword>
+		<keyword>aegean sea</keyword>
+		<keyword>greek island</keyword>
+		<keyword>reference to the beatles</keyword>
+		<keyword>reference to leonardo da vinci</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>plunging neckline</keyword>
+		<keyword>cleavage</keyword>
+		<keyword>man with a gun</keyword>
+		<keyword>reference to beyonce</keyword>
+		<keyword>sleuthing</keyword>
+		<keyword>world's greatest detective</keyword>
+		<keyword>man watches a couple have sex</keyword>
+		<keyword>backstory</keyword>
+		<keyword>impersonating someone</keyword>
+		<keyword>diversion</keyword>
+		<keyword>porsche</keyword>
+		<keyword>woman wears a bikini</keyword>
+		<keyword>alternative fuel</keyword>
+		<keyword>hydrogen</keyword>
+		<keyword>reference to the hindenburg disaster</keyword>
+		<keyword>lighter</keyword>
+		<keyword>glass shattered</keyword>
+		<keyword>broken sculpture</keyword>
+		<keyword>destroyed by fire</keyword>
+		<keyword>burned</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>building on fire</keyword>
+		<keyword>murder of sister</keyword>
+		<keyword>malaprop</keyword>
+		<keyword>doing the right thing</keyword>
+		<keyword>comeuppance</keyword>
+		<keyword>necklace</keyword>
+		<keyword>reference to a zodiac sign</keyword>
+		<keyword>taurus the astrological sign</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>eccentric billionaire</keyword>
+		<keyword>weekend getaway</keyword>
+		<keyword>elite</keyword>
+		<keyword>group of friends</keyword>
+		<keyword>pandemic</keyword>
+		<keyword>politician</keyword>
+		<keyword>supermodel</keyword>
+		<keyword>celebrity</keyword>
+		<keyword>fashion model</keyword>
+		<keyword>men's rights activist</keyword>
+		<keyword>male chauvinist</keyword>
+		<keyword>influencer</keyword>
+		<keyword>youtube celebrity</keyword>
+		<keyword>business partner</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>impersonation</keyword>
+		<keyword>impostor</keyword>
+		<keyword>impersonating one's identical twin sister</keyword>
+		<keyword>undercover</keyword>
+		<keyword>flashback within flashback</keyword>
+		<keyword>magazine cover</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>snooping</keyword>
+		<keyword>stoner</keyword>
+		<keyword>hand gun</keyword>
+		<keyword>napkin</keyword>
+		<keyword>trial</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>lying under oath</keyword>
+		<keyword>financial backer</keyword>
+		<keyword>clean energy</keyword>
+		<keyword>solving a puzzle</keyword>
+		<keyword>uninvited guest</keyword>
+		<keyword>split screen</keyword>
+		<keyword>faking one's death</keyword>
+		<keyword>celebrity cameo</keyword>
+		<keyword>reference to the louvre</keyword>
+		<keyword>reference to the mona lisa</keyword>
+		<keyword>priceless art</keyword>
+		<keyword>reference to clue the board game</keyword>
+		<keyword>reference to ipad</keyword>
+		<keyword>google alert</keyword>
+		<keyword>reference to twitch tv</keyword>
+		<keyword>reference to cnn</keyword>
+		<keyword>reference to gucci</keyword>
+		<keyword>reference to henri matisse</keyword>
+		<keyword>reference to mona lisa</keyword>
+		<keyword>sportscar</keyword>
+		<keyword>futuristic house</keyword>
+		<keyword>fibonacci spiral</keyword>
+		<keyword>stereogram</keyword>
+		<keyword>angela lansbury character</keyword>
+		<keyword>stephen sondheim character</keyword>
+		<keyword>kareem abdul jabbar character</keyword>
+		<keyword>natasha lyonne character</keyword>
+		<keyword>yo yo ma character</keyword>
+		<keyword>sweat shop</keyword>
+		<keyword>athleisure</keyword>
+		<keyword>serena williams character</keyword>
+		<keyword>fitness center</keyword>
+		<keyword>crossbow</keyword>
+		<keyword>fake death</keyword>
+		<keyword>blood diamond</keyword>
+		<keyword>solving a murder</keyword>
+		<keyword>drinking liquor</keyword>
+		<keyword>fake blood</keyword>
+		<keyword>pineapple juice</keyword>
+		<keyword>allergy</keyword>
+		<keyword>poisoned drink</keyword>
+		<keyword>murder made to look like suicide</keyword>
+		<keyword>ruse</keyword>
+		<keyword>charade</keyword>
+		<keyword>sleuth</keyword>
+		<keyword>notebook</keyword>
+		<keyword>lights go out</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>face mask</keyword>
+		<keyword>wristband</keyword>
+		<keyword>watching someone through a window</keyword>
+		<keyword>paper napkin</keyword>
+		<keyword>neon sign</keyword>
+		<keyword>stealing credit</keyword>
+		<keyword>lawsuit</keyword>
+		<keyword>speargun</keyword>
+		<keyword>governor</keyword>
+		<keyword>working from home</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>party</keyword>
+		<keyword>unexpected guest</keyword>
+		<keyword>surprise guest</keyword>
+		<keyword>new look</keyword>
+		<keyword>audio recorder</keyword>
+		<keyword>audio recording</keyword>
+		<keyword>writing on a napkin</keyword>
+		<keyword>spying through a window</keyword>
+		<keyword>drugged drink</keyword>
+		<keyword>outspoken</keyword>
+		<keyword>destruction</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>ransacking</keyword>
+		<keyword>envelope</keyword>
+		<keyword>cocktail napkin</keyword>
+		<keyword>revenge</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>malapropism</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>handgun</keyword>
+		<keyword>gun holster</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>gay</keyword>
+		<keyword>gay protagonist</keyword>
+		<keyword>all star cast</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>racism</keyword>
+		<keyword>house</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>man in bathtub</keyword>
+		<keyword>man in bath</keyword>
+		<keyword>speedo</keyword>
+		<keyword>man in swimsuit</keyword>
+	</keywords>
+	<directors>
+		<director> Rian Johnson</director>
+	</directors>
+	<composers>
+		<composer> Nathan Johnson</composer>
+	</composers>
+	<producers>
+		<producer> Ram Bergman</producer>
+		<producer> Leopold Hughes</producer>
+		<producer> Rian Johnson</producer>
+		<producer> Nikos Karamigios</producer>
+		<producer> Tom Karnowski</producer>
+	</producers>
+	<writers>
+		<writer> Rian Johnson</writer>
+	</writers>
+	<editors>
+		<editor> Bob Ducsay</editor>
+	</editors>
 </doc>

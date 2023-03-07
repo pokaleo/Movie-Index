@@ -1,290 +1,257 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Jason Sudeikis</actor>
-      
-      
-        <role>Ted Lasso</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Brett Goldstein</actor>
-      
-      
-        <role>Roy Kent</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Brendan Hunt</actor>
-      
-      
-        <role>Coach Beard</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Nick Mohammed</actor>
-      
-      
-        <role>Nathan Shelley</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Hannah Waddingham</actor>
-      
-      
-        <role>Rebecca Welton</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jeremy Swift</actor>
-      
-      
-        <role>Leslie Higgins</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Phil Dunster</actor>
-      
-      
-        <role>Jamie Tartt</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Juno Temple</actor>
-      
-      
-        <role>Keeley Jones</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Toheeb Jimoh</actor>
-      
-      
-        <role>Sam Obisanya</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kola Bokinni</actor>
-      
-      
-        <role>Isaac McAdoo</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Billy Harris</actor>
-      
-      
-        <role>Colin Hughes</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Stephen Manas</actor>
-      
-      
-        <role>Richard Montlaur</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Cristo Fernández</actor>
-      
-      
-        <role>Dani Rojas</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Moe Jeudy-Lamour</actor>
-      
-      
-        <role>Thierry Zoreaux</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Annette Badland</actor>
-      
-      
-        <role>Mae</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Adam Colborne</actor>
-      
-      
-        <role>Baz</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Bronson Webb</actor>
-      
-      
-        <role>Jeremy</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kevin Garry</actor>
-      
-      
-        <role>Paul</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>15</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Marcus Mumford</composer>
-    <composer> Tom Howe</composer>
-  </composer>
-  <countries>United States</countries>
-  <director>
-    <director> M.J. Delaney</director>
-    <director> Declan Lowney</director>
-    <director> Erica Dunton</director>
-    <director> Tom Marshall</director>
-    <director> Elliot Hegarty</director>
-    <director> Matt Lipsey</director>
-    <director> Zach Braff</director>
-    <director> Ezra Edelman</director>
-    <director> Sam Jones</director>
-  </director>
-  <docid>tt10986410</docid>
-  <editor>
-    <editor> Melissa McCoy</editor>
-    <editor> A.J. Catoline</editor>
-    <editor> Francesca Castro</editor>
-  </editor>
-  <genres>
-    <genre>Comedy</genre>
-    <genre>Drama</genre>
-    <genre>Sport</genre>
-  </genres>
-  <keywords>
-    <keyword>soccer</keyword>
-    <keyword>american abroad</keyword>
-    <keyword>american in england</keyword>
-    <keyword>football</keyword>
-    <keyword>football manager</keyword>
-    <keyword>assistant coach</keyword>
-    <keyword>soccer club</keyword>
-    <keyword>screwball comedy</keyword>
-    <keyword>male male relationship</keyword>
-    <keyword>male female relationship</keyword>
-    <keyword>dramedy</keyword>
-    <keyword>soccer coach</keyword>
-    <keyword>soccer team</keyword>
-    <keyword>soccer stadium</keyword>
-    <keyword>soccer club owner</keyword>
-    <keyword>football club owner</keyword>
-    <keyword>soccer match</keyword>
-    <keyword>soccer player</keyword>
-    <keyword>soccer practice</keyword>
-    <keyword>american in london</keyword>
-    <keyword>london england</keyword>
-    <keyword>kit man</keyword>
-    <keyword>english premier league</keyword>
-    <keyword>professional athlete</keyword>
-    <keyword>sports reporter</keyword>
-    <keyword>equipment manager</keyword>
-    <keyword>apple tv</keyword>
-    <keyword>association football television series</keyword>
-    <keyword>sitcom comedy</keyword>
-    <keyword>soccer sport</keyword>
-    <keyword>2020s</keyword>
-    <keyword>21st century</keyword>
-    <keyword>male protagonist</keyword>
-    <keyword>american football sport</keyword>
-    <keyword>ted lasso character</keyword>
-    <keyword>based on commercial</keyword>
-    <keyword>name calling</keyword>
-    <keyword>nickname</keyword>
-    <keyword>female boss</keyword>
-    <keyword>locker room</keyword>
-    <keyword>profanity</keyword>
-    <keyword>based on true story</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League football team.</plot>
-  <producer>
-    <producer> Jeff Ingold</producer>
-    <producer> Liza Katzer</producer>
-    <producer> Bill Lawrence</producer>
-    <producer> Jamie Lee</producer>
-    <producer> Jason Sudeikis</producer>
-    <producer> Jane Becker</producer>
-    <producer> Brendan Hunt</producer>
-    <producer> Joe Kelly</producer>
-    <producer> Kip Kroeger</producer>
-    <producer> Bill Wrubel</producer>
-    <producer> Leann Bowen</producer>
-    <producer> Ashley Nicole Black</producer>
-    <producer> Chip Hamilton</producer>
-    <producer> Declan Lowney</producer>
-    <producer> Andrew Warren</producer>
-    <producer> Phoebe Walsh</producer>
-    <producer> Brett Goldstein</producer>
-    <producer> Tina Pawlik</producer>
-    <producer> Katelyn Hollenbeck</producer>
-    <producer> Tom Marshall</producer>
-    <producer> Simon Moseley</producer>
-    <producer> Erwin Godschalk</producer>
-  </producer>
-  <releasedates>August 14, 2020 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>30</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Stereo</soundmixe>
-  </soundmixes>
-  <title>Ted Lasso</title>
-  <type>tv_show</type>
-  <writer>
-    <writer> Brendan Hunt</writer>
-    <writer> Brendan Hunt</writer>
-    <writer> Brendan Hunt</writer>
-    <writer> Brendan Hunt</writer>
-    <writer> Joe Kelly</writer>
-    <writer> Joe Kelly</writer>
-    <writer> Joe Kelly</writer>
-    <writer> Joe Kelly</writer>
-    <writer> Jason Sudeikis</writer>
-    <writer> Jason Sudeikis</writer>
-    <writer> Jason Sudeikis</writer>
-    <writer> Jason Sudeikis</writer>
-    <writer> Bill Lawrence</writer>
-    <writer> Bill Lawrence</writer>
-    <writer> Bill Lawrence</writer>
-    <writer> Phoebe Walsh</writer>
-    <writer> Phoebe Walsh</writer>
-    <writer> Phoebe Walsh</writer>
-    <writer> Brett Goldstein</writer>
-    <writer> Brett Goldstein</writer>
-    <writer> Jane Becker</writer>
-    <writer> Leann Bowen</writer>
-    <writer> Jamie Lee</writer>
-    <writer> Bill Wrubel</writer>
-    <writer> Sasha Garron</writer>
-    <writer> Ashley Nicole Black</writer>
-  </writer>
-  <year>2020– </year>
+<?xml version="1.0" ?>
+<doc id="tt10986410">
+	<docid>tt10986410</docid>
+	<title>Ted Lasso</title>
+	<year>2020– </year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Sport</genre>
+	</genres>
+	<plot>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League football team.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jason Sudeikis</actor>
+			<role>Ted Lasso</role>
+		</credit>
+		<credit>
+			<actor>Brett Goldstein</actor>
+			<role>Roy Kent</role>
+		</credit>
+		<credit>
+			<actor>Brendan Hunt</actor>
+			<role>Coach Beard</role>
+		</credit>
+		<credit>
+			<actor>Nick Mohammed</actor>
+			<role>Nathan Shelley</role>
+		</credit>
+		<credit>
+			<actor>Hannah Waddingham</actor>
+			<role>Rebecca Welton</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Swift</actor>
+			<role>Leslie Higgins</role>
+		</credit>
+		<credit>
+			<actor>Phil Dunster</actor>
+			<role>Jamie Tartt</role>
+		</credit>
+		<credit>
+			<actor>Juno Temple</actor>
+			<role>Keeley Jones</role>
+		</credit>
+		<credit>
+			<actor>Toheeb Jimoh</actor>
+			<role>Sam Obisanya</role>
+		</credit>
+		<credit>
+			<actor>Kola Bokinni</actor>
+			<role>Isaac McAdoo</role>
+		</credit>
+		<credit>
+			<actor>Billy Harris</actor>
+			<role>Colin Hughes</role>
+		</credit>
+		<credit>
+			<actor>Stephen Manas</actor>
+			<role>Richard Montlaur</role>
+		</credit>
+		<credit>
+			<actor>Cristo Fernández</actor>
+			<role>Dani Rojas</role>
+		</credit>
+		<credit>
+			<actor>Moe Jeudy-Lamour</actor>
+			<role>Thierry Zoreaux</role>
+		</credit>
+		<credit>
+			<actor>Annette Badland</actor>
+			<role>Mae</role>
+		</credit>
+		<credit>
+			<actor>Adam Colborne</actor>
+			<role>Baz</role>
+		</credit>
+		<credit>
+			<actor>Bronson Webb</actor>
+			<role>Jeremy</role>
+		</credit>
+		<credit>
+			<actor>Kevin Garry</actor>
+			<role>Paul</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">August 14 2020</releasedate>
+		<releasedate country="Argentina">August 14 2020</releasedate>
+		<releasedate country="Australia">August 14 2020</releasedate>
+		<releasedate country="Brazil">August 14 2020</releasedate>
+		<releasedate country="Canada">August 14 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Ecuador">C</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">21</certificate>
+		<certificate country="Israel">18</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">18</certificate>
+		<certificate country="Mexico">15+</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Philippines">SPG</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">12+</certificate>
+		<certificate country="Taiwan">PG-15</certificate>
+		<certificate country="Thailand">5</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>soccer</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>american in england</keyword>
+		<keyword>football</keyword>
+		<keyword>football manager</keyword>
+		<keyword>assistant coach</keyword>
+		<keyword>soccer club</keyword>
+		<keyword>screwball comedy</keyword>
+		<keyword>male male relationship</keyword>
+		<keyword>male female relationship</keyword>
+		<keyword>dramedy</keyword>
+		<keyword>soccer coach</keyword>
+		<keyword>soccer team</keyword>
+		<keyword>soccer stadium</keyword>
+		<keyword>soccer club owner</keyword>
+		<keyword>football club owner</keyword>
+		<keyword>soccer match</keyword>
+		<keyword>soccer player</keyword>
+		<keyword>soccer practice</keyword>
+		<keyword>american in london</keyword>
+		<keyword>london england</keyword>
+		<keyword>kit man</keyword>
+		<keyword>english premier league</keyword>
+		<keyword>professional athlete</keyword>
+		<keyword>sports reporter</keyword>
+		<keyword>equipment manager</keyword>
+		<keyword>apple tv</keyword>
+		<keyword>association football television series</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>soccer sport</keyword>
+		<keyword>2020s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>american football sport</keyword>
+		<keyword>ted lasso character</keyword>
+		<keyword>based on commercial</keyword>
+		<keyword>name calling</keyword>
+		<keyword>nickname</keyword>
+		<keyword>female boss</keyword>
+		<keyword>locker room</keyword>
+		<keyword>profanity</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> M.J. Delaney</director>
+		<director> Declan Lowney</director>
+		<director> Erica Dunton</director>
+		<director> Tom Marshall</director>
+		<director> Elliot Hegarty</director>
+		<director> Matt Lipsey</director>
+		<director> Zach Braff</director>
+		<director> Ezra Edelman</director>
+		<director> Sam Jones</director>
+	</directors>
+	<composers>
+		<composer> Marcus Mumford</composer>
+		<composer> Tom Howe</composer>
+	</composers>
+	<producers>
+		<producer> Jeff Ingold</producer>
+		<producer> Liza Katzer</producer>
+		<producer> Bill Lawrence</producer>
+		<producer> Jamie Lee</producer>
+		<producer> Jason Sudeikis</producer>
+		<producer> Jane Becker</producer>
+		<producer> Brendan Hunt</producer>
+		<producer> Joe Kelly</producer>
+		<producer> Kip Kroeger</producer>
+		<producer> Bill Wrubel</producer>
+		<producer> Leann Bowen</producer>
+		<producer> Ashley Nicole Black</producer>
+		<producer> Chip Hamilton</producer>
+		<producer> Declan Lowney</producer>
+		<producer> Andrew Warren</producer>
+		<producer> Phoebe Walsh</producer>
+		<producer> Brett Goldstein</producer>
+		<producer> Tina Pawlik</producer>
+		<producer> Katelyn Hollenbeck</producer>
+		<producer> Tom Marshall</producer>
+		<producer> Simon Moseley</producer>
+		<producer> Erwin Godschalk</producer>
+	</producers>
+	<writers>
+		<writer> Brendan Hunt</writer>
+		<writer> Brendan Hunt</writer>
+		<writer> Brendan Hunt</writer>
+		<writer> Brendan Hunt</writer>
+		<writer> Joe Kelly</writer>
+		<writer> Joe Kelly</writer>
+		<writer> Joe Kelly</writer>
+		<writer> Joe Kelly</writer>
+		<writer> Jason Sudeikis</writer>
+		<writer> Jason Sudeikis</writer>
+		<writer> Jason Sudeikis</writer>
+		<writer> Jason Sudeikis</writer>
+		<writer> Bill Lawrence</writer>
+		<writer> Bill Lawrence</writer>
+		<writer> Bill Lawrence</writer>
+		<writer> Phoebe Walsh</writer>
+		<writer> Phoebe Walsh</writer>
+		<writer> Phoebe Walsh</writer>
+		<writer> Brett Goldstein</writer>
+		<writer> Brett Goldstein</writer>
+		<writer> Jane Becker</writer>
+		<writer> Leann Bowen</writer>
+		<writer> Jamie Lee</writer>
+		<writer> Bill Wrubel</writer>
+		<writer> Sasha Garron</writer>
+		<writer> Ashley Nicole Black</writer>
+	</writers>
+	<editors>
+		<editor> Melissa McCoy</editor>
+		<editor> A.J. Catoline</editor>
+		<editor> Francesca Castro</editor>
+	</editors>
 </doc>

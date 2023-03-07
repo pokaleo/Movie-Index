@@ -1,504 +1,483 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Grant Gustin</actor>
-      
-      
-        <role>Barry Allen</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Candice Patton</actor>
-      
-      
-        <role>Iris West-Allen</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Danielle Panabaker</actor>
-      
-      
-        <role>Caitlin Snow</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Carlos Valdes</actor>
-      
-      
-        <role>Cisco Ramon</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jesse L. Martin</actor>
-      
-      
-        <role>Joe West</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Tom Cavanagh</actor>
-      
-      
-        <role>Dr. Harry Wells</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Danielle Nicolet</actor>
-      
-      
-        <role>Cecile Horton</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kayla Compton</actor>
-      
-      
-        <role>Allegra Garcia</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Brandon McKnight</actor>
-      
-      
-        <role>Chester P. Runk</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Hartley Sawyer</actor>
-      
-      
-        <role>Ralph Dibny</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Keiynan Lonsdale</actor>
-      
-      
-        <role>Wally West</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Patrick Sabongui</actor>
-      
-      
-        <role>Captain David Singh</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jessica Parker Kennedy</actor>
-      
-      
-        <role>Nora West-Allen</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Rick Cosnett</actor>
-      
-      
-        <role>Detective Eddie Thawne</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>John Wesley Shipp</actor>
-      
-      
-        <role>Henry Allen</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Michelle Harrison</actor>
-      
-      
-        <role>Nora Allen</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jon Cor</actor>
-      
-      
-        <role>Mark Blaine</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Victoria Park</actor>
-      
-      
-        <role>Kamilla Hwang</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>12</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Blake Neely</composer>
-    <composer> Nathaniel Blume</composer>
-    <composer> Daniel James Chan</composer>
-    <composer> Sherri Chung</composer>
-  </composer>
-  <countries>United States</countries>
-  <director>
-    <director> David McWhirter</director>
-    <director> Stefan Pleszczynski</director>
-    <director> Dermott Downs</director>
-    <director> Alexandra La Roche</director>
-    <director> Ralph Hemecker</director>
-    <director> Rachel Talalay</director>
-    <director> Philip Chipera</director>
-    <director> Chris Peppe</director>
-    <director> Marcus Stokes</director>
-    <director> Glen Winter</director>
-    <director> Menhaj Huda</director>
-    <director> Danielle Panabaker</director>
-    <director> Jesse Warn</director>
-    <director> Gregory Smith</director>
-    <director> Jeffrey W. Byrd</director>
-    <director> Millicent Shelton</director>
-    <director> Kevin Tancharoen</director>
-    <director> Rob Hardy</director>
-    <director> J.J. Makaro</director>
-    <director> John F. Showalter</director>
-    <director> Hanelle M. Culpepper</director>
-    <director> Kevin Smith</director>
-    <director> Armen V. Kevorkian</director>
-    <director> Brent Crowell</director>
-    <director> Tom Cavanagh</director>
-    <director> Chad Lowe</director>
-    <director> Eric Dean Seaton</director>
-    <director> David Nutter</director>
-    <director> Steve Shill</director>
-    <director> C. Kim Miles</director>
-    <director> Michael A. Allowitz</director>
-    <director> Harry Jierjian</director>
-    <director> Sarah Boyd</director>
-    <director> Rob Greenlea</director>
-    <director> Viet Nguyen</director>
-    <director> Sudz Sutherland</director>
-    <director> Geoffrey Wing Shotz</director>
-    <director> Vanessa Parise</director>
-    <director> Eric Wallace</director>
-    <director> Larry Shaw</director>
-    <director> Douglas Aarniokoski</director>
-    <director> John Behring</director>
-    <director> Nick Copus</director>
-    <director> Thor Freudenthal</director>
-    <director> Wendey Stanzler</director>
-    <director> Stephen Surjik</director>
-    <director> Antonio Negret</director>
-    <director> Alice Troughton</director>
-    <director> Laura Belsey</director>
-    <director> Nina Lopez-Corrado</director>
-    <director> Andi Armaganian</director>
-    <director> Kevin Mock</director>
-    <director> Tara Nicole Weyr</director>
-    <director> Jeff Cassidy</director>
-    <director> Rebecca Johnson</director>
-    <director> Michael Nankin</director>
-    <director> Kristin Windell</director>
-    <director> Amanda Tapping</director>
-    <director> Greg Beeman</director>
-    <director> Kellie Cyrus</director>
-    <director> Caity Lotz</director>
-    <director> Brenton Spencer</director>
-  </director>
-  <docid>tt3107288</docid>
-  <editor>
-    <editor> Christopher Oakes</editor>
-    <editor> Dan Wilken</editor>
-    <editor> Nathan Draper</editor>
-    <editor> Felicia Mignon Livingston</editor>
-    <editor> Derek Stricker</editor>
-    <editor> Rhett Finch</editor>
-    <editor> Chris Peppe</editor>
-    <editor> Chris Conlee</editor>
-    <editor> Harry Jierjian</editor>
-    <editor> Paul Karasick</editor>
-    <editor> Mike Jackson</editor>
-    <editor> Iris Hershner</editor>
-    <editor> Andrew Kasch</editor>
-  </editor>
-  <genres>
-    <genre>Action</genre>
-    <genre>Adventure</genre>
-    <genre>Drama</genre>
-  </genres>
-  <keywords>
-    <keyword>superhuman speed</keyword>
-    <keyword>dc arrowverse</keyword>
-    <keyword>superhero</keyword>
-    <keyword>dc comics</keyword>
-    <keyword>based on comic</keyword>
-    <keyword>superhero action</keyword>
-    <keyword>scientist</keyword>
-    <keyword>forensics</keyword>
-    <keyword>police</keyword>
-    <keyword>time travel</keyword>
-    <keyword>doppelganger</keyword>
-    <keyword>alternate universe</keyword>
-    <keyword>secret identity</keyword>
-    <keyword>based on comic book</keyword>
-    <keyword>supervillain</keyword>
-    <keyword>metahuman</keyword>
-    <keyword>the flash character</keyword>
-    <keyword>speedster metahuman</keyword>
-    <keyword>supernatural power</keyword>
-    <keyword>shared universe</keyword>
-    <keyword>2010s</keyword>
-    <keyword>spin off</keyword>
-    <keyword>barry allen character</keyword>
-    <keyword>s.t.a.r. labs</keyword>
-    <keyword>multiverse</keyword>
-    <keyword>central city</keyword>
-    <keyword>iris west character</keyword>
-    <keyword>wally west character</keyword>
-    <keyword>coffee shop</keyword>
-    <keyword>journalist</keyword>
-    <keyword>police detective</keyword>
-    <keyword>character name as series title</keyword>
-    <keyword>speed force</keyword>
-    <keyword>speedster</keyword>
-    <keyword>killer frost character</keyword>
-    <keyword>psychotronic series</keyword>
-    <keyword>reference to the arrowverse</keyword>
-    <keyword>reference to black canary</keyword>
-    <keyword>superheroine</keyword>
-    <keyword>earth 1</keyword>
-    <keyword>the cw</keyword>
-    <keyword>2020s</keyword>
-    <keyword>created by greg berlanti</keyword>
-    <keyword>time traveler</keyword>
-    <keyword>male time traveler</keyword>
-    <keyword>time machine</keyword>
-    <keyword>backward time travel</keyword>
-    <keyword>forward time travel</keyword>
-    <keyword>male protagonist</keyword>
-    <keyword>friendship</keyword>
-    <keyword>superhero adventure</keyword>
-    <keyword>teen drama</keyword>
-    <keyword>superhero sci fi</keyword>
-    <keyword>time travel sci fi</keyword>
-    <keyword>betrayal</keyword>
-    <keyword>love</keyword>
-    <keyword>death</keyword>
-    <keyword>murder</keyword>
-    <keyword>father daughter relationship</keyword>
-    <keyword>father son relationship</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, and fighting crime in Central City.</plot>
-  <producer>
-    <producer> Greg Berlanti</producer>
-    <producer> Joseph Patrick Finn</producer>
-    <producer> Scott Sebert</producer>
-    <producer> Sarah Schechter</producer>
-    <producer> Jennifer Lence</producer>
-    <producer> Carl Ogawa</producer>
-    <producer> Geoff Garrett</producer>
-    <producer> Dani Dornfeld</producer>
-    <producer> Eric Wallace</producer>
-    <producer> Todd Helbing</producer>
-    <producer> Jonathan Butler</producer>
-    <producer> Sam Chalsen</producer>
-    <producer> Gabriel Alejandro Garza</producer>
-    <producer> Andrew Kreisberg</producer>
-    <producer> Aaron Helbing</producer>
-    <producer> Kristen Kim</producer>
-    <producer> Thomas Pound</producer>
-    <producer> Kelly Wheeler</producer>
-    <producer> Lauren Barnett</producer>
-    <producer> Judalina Neira</producer>
-    <producer> Glen Winter</producer>
-    <producer> Joshua V. Gilbert</producer>
-    <producer> David Nutter</producer>
-    <producer> Deric A. Hughes</producer>
-    <producer> Benjamin Raab</producer>
-    <producer> Zack Stentz</producer>
-    <producer> Alison Schapker</producer>
-    <producer> Ben Sokolowski</producer>
-    <producer> Julian Meiojas</producer>
-    <producer> Christina M. Walker</producer>
-    <producer> Brent Crowell</producer>
-    <producer> Gabrielle G. Stanton</producer>
-    <producer> Jaime Paglia</producer>
-    <producer> Brooke Roberts</producer>
-    <producer> Emily Silver</producer>
-    <producer> Jeff Hersh</producer>
-    <producer> Vanessa Parise</producer>
-    <producer> Carrie Stula</producer>
-    <producer> Sarah Tarkoff</producer>
-    <producer> Marc Guggenheim</producer>
-    <producer> Curtis Krick</producer>
-    <producer> Jon Wallace</producer>
-    <producer> Dermott Downs</producer>
-    <producer> Rachel Talalay</producer>
-  </producer>
-  <releasedates>October 28, 2014 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>43</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Dolby Digital</soundmixe>
-  </soundmixes>
-  <title>The Flash</title>
-  <type>tv_show</type>
-  <writer>
-    <writer> Greg Berlanti</writer>
-    <writer> Greg Berlanti</writer>
-    <writer> Geoff Johns</writer>
-    <writer> Geoff Johns</writer>
-    <writer> Geoff Johns</writer>
-    <writer> Geoff Johns</writer>
-    <writer> Andrew Kreisberg</writer>
-    <writer> Andrew Kreisberg</writer>
-    <writer> Andrew Kreisberg</writer>
-    <writer> Andrew Kreisberg</writer>
-    <writer> Joshua V. Gilbert</writer>
-    <writer> Joshua V. Gilbert</writer>
-    <writer> Joshua V. Gilbert</writer>
-    <writer> Joshua V. Gilbert</writer>
-    <writer> Joshua V. Gilbert</writer>
-    <writer> Joshua V. Gilbert</writer>
-    <writer> Jeff Hersh</writer>
-    <writer> Jeff Hersh</writer>
-    <writer> Jeff Hersh</writer>
-    <writer> Jeff Hersh</writer>
-    <writer> Jeff Hersh</writer>
-    <writer> Lauren Certo</writer>
-    <writer> Lauren Certo</writer>
-    <writer> Lauren Certo</writer>
-    <writer> Lauren Certo</writer>
-    <writer> Lauren Certo</writer>
-    <writer> Sterling Gates</writer>
-    <writer> Sterling Gates</writer>
-    <writer> Sterling Gates</writer>
-    <writer> Sterling Gates</writer>
-    <writer> Grainne Godfree</writer>
-    <writer> Grainne Godfree</writer>
-    <writer> Grainne Godfree</writer>
-    <writer> Grainne Godfree</writer>
-    <writer> Grainne Godfree</writer>
-    <writer> Jess Carson</writer>
-    <writer> Jess Carson</writer>
-    <writer> Jess Carson</writer>
-    <writer> Jess Carson</writer>
-    <writer> Jess Carson</writer>
-    <writer> Jess Carson</writer>
-    <writer> Emily Palizzi</writer>
-    <writer> Emily Palizzi</writer>
-    <writer> Emily Palizzi</writer>
-    <writer> Emily Palizzi</writer>
-    <writer> Kristen Kim</writer>
-    <writer> Kristen Kim</writer>
-    <writer> Kristen Kim</writer>
-    <writer> Thomas Pound</writer>
-    <writer> Thomas Pound</writer>
-    <writer> Thomas Pound</writer>
-    <writer> Thomas Pound</writer>
-    <writer> David Kob</writer>
-    <writer> David Kob</writer>
-    <writer> David Kob</writer>
-    <writer> David Kob</writer>
-    <writer> Brooke Roberts</writer>
-    <writer> Brooke Roberts</writer>
-    <writer> Brooke Roberts</writer>
-    <writer> Brooke Roberts</writer>
-    <writer> Judalina Neira</writer>
-    <writer> Judalina Neira</writer>
-    <writer> Judalina Neira</writer>
-    <writer> Judalina Neira</writer>
-    <writer> Kai Wu</writer>
-    <writer> Kai Wu</writer>
-    <writer> Kai Wu</writer>
-    <writer> Todd Helbing</writer>
-    <writer> Todd Helbing</writer>
-    <writer> Todd Helbing</writer>
-    <writer> Katherine Walczak</writer>
-    <writer> Katherine Walczak</writer>
-    <writer> Katherine Walczak</writer>
-    <writer> Christina M. Walker</writer>
-    <writer> Christina M. Walker</writer>
-    <writer> Christina M. Walker</writer>
-    <writer> Christina M. Walker</writer>
-    <writer> Aaron Helbing</writer>
-    <writer> Aaron Helbing</writer>
-    <writer> Aaron Helbing</writer>
-    <writer> Jonathan Butler</writer>
-    <writer> Jonathan Butler</writer>
-    <writer> Jonathan Butler</writer>
-    <writer> Sam Chalsen</writer>
-    <writer> Sam Chalsen</writer>
-    <writer> Sam Chalsen</writer>
-    <writer> Gabriel Alejandro Garza</writer>
-    <writer> Gabriel Alejandro Garza</writer>
-    <writer> Gabriel Alejandro Garza</writer>
-    <writer> Eric Wallace</writer>
-    <writer> Eric Wallace</writer>
-    <writer> Eric Wallace</writer>
-    <writer> Kelly Wheeler</writer>
-    <writer> Lauren Barnett</writer>
-    <writer> Lauren Barnett</writer>
-    <writer> Lauren Barnett</writer>
-    <writer> Dan Fisk</writer>
-    <writer> Dan Fisk</writer>
-    <writer> Dan Fisk</writer>
-    <writer> Alison Schapker</writer>
-    <writer> Zack Stentz</writer>
-    <writer> Zack Stentz</writer>
-    <writer> Deric A. Hughes</writer>
-    <writer> Deric A. Hughes</writer>
-    <writer> Deric A. Hughes</writer>
-    <writer> Benjamin Raab</writer>
-    <writer> Benjamin Raab</writer>
-    <writer> Benjamin Raab</writer>
-    <writer> Ben Sokolowski</writer>
-    <writer> Ben Sokolowski</writer>
-    <writer> Joe Peracchio</writer>
-    <writer> Joe Peracchio</writer>
-    <writer> Gabrielle G. Stanton</writer>
-    <writer> Gabrielle G. Stanton</writer>
-    <writer> Jaime Paglia</writer>
-    <writer> Chris Rafferty</writer>
-    <writer> Julian Meiojas</writer>
-    <writer> Cortney Norris</writer>
-    <writer> Keto Shimizu</writer>
-    <writer> Ray Utarnachitt</writer>
-    <writer> Bryan Q. Miller</writer>
-    <writer> Emily Silver</writer>
-    <writer> Lilah Vandenburgh</writer>
-    <writer> Bronwen Clark</writer>
-    <writer> Marc Guggenheim</writer>
-    <writer> Carina Adly MacKenzie</writer>
-    <writer> Andrew Wilder</writer>
-    <writer> Mike Alber</writer>
-    <writer> Gabe Snyder</writer>
-    <writer> Alex Boyd</writer>
-    <writer> Arielle McAlpin</writer>
-    <writer> Joe Shuster</writer>
-    <writer> Jerry Siegel</writer>
-    <writer> Lauren Fields</writer>
-    <writer> Sarah Tarkoff</writer>
-  </writer>
-  <year>2014–2023</year>
+<?xml version="1.0" ?>
+<doc id="tt3107288">
+	<docid>tt3107288</docid>
+	<title>The Flash</title>
+	<year>2014–2023</year>
+	<runningtimes>
+		<runningtime country="default">43</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, and fighting crime in Central City.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Grant Gustin</actor>
+			<role>Barry Allen</role>
+		</credit>
+		<credit>
+			<actor>Candice Patton</actor>
+			<role>Iris West-Allen</role>
+		</credit>
+		<credit>
+			<actor>Danielle Panabaker</actor>
+			<role>Caitlin Snow</role>
+		</credit>
+		<credit>
+			<actor>Carlos Valdes</actor>
+			<role>Cisco Ramon</role>
+		</credit>
+		<credit>
+			<actor>Jesse L. Martin</actor>
+			<role>Joe West</role>
+		</credit>
+		<credit>
+			<actor>Tom Cavanagh</actor>
+			<role>Dr. Harry Wells</role>
+		</credit>
+		<credit>
+			<actor>Danielle Nicolet</actor>
+			<role>Cecile Horton</role>
+		</credit>
+		<credit>
+			<actor>Kayla Compton</actor>
+			<role>Allegra Garcia</role>
+		</credit>
+		<credit>
+			<actor>Brandon McKnight</actor>
+			<role>Chester P. Runk</role>
+		</credit>
+		<credit>
+			<actor>Hartley Sawyer</actor>
+			<role>Ralph Dibny</role>
+		</credit>
+		<credit>
+			<actor>Keiynan Lonsdale</actor>
+			<role>Wally West</role>
+		</credit>
+		<credit>
+			<actor>Patrick Sabongui</actor>
+			<role>Captain David Singh</role>
+		</credit>
+		<credit>
+			<actor>Jessica Parker Kennedy</actor>
+			<role>Nora West-Allen</role>
+		</credit>
+		<credit>
+			<actor>Rick Cosnett</actor>
+			<role>Detective Eddie Thawne</role>
+		</credit>
+		<credit>
+			<actor>John Wesley Shipp</actor>
+			<role>Henry Allen</role>
+		</credit>
+		<credit>
+			<actor>Michelle Harrison</actor>
+			<role>Nora Allen</role>
+		</credit>
+		<credit>
+			<actor>Jon Cor</actor>
+			<role>Mark Blaine</role>
+		</credit>
+		<credit>
+			<actor>Victoria Park</actor>
+			<role>Kamilla Hwang</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Poland">2014</releasedate>
+		<releasedate country="Brazil">October 7 2014</releasedate>
+		<releasedate country="Canada">October 7 2014</releasedate>
+		<releasedate country="India">October 7 2014</releasedate>
+		<releasedate country="Poland">October 7 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">13+</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">12+</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>superhuman speed</keyword>
+		<keyword>dc arrowverse</keyword>
+		<keyword>superhero</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>scientist</keyword>
+		<keyword>forensics</keyword>
+		<keyword>police</keyword>
+		<keyword>time travel</keyword>
+		<keyword>doppelganger</keyword>
+		<keyword>alternate universe</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>metahuman</keyword>
+		<keyword>the flash character</keyword>
+		<keyword>speedster metahuman</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>2010s</keyword>
+		<keyword>spin off</keyword>
+		<keyword>barry allen character</keyword>
+		<keyword>s.t.a.r. labs</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>central city</keyword>
+		<keyword>iris west character</keyword>
+		<keyword>wally west character</keyword>
+		<keyword>coffee shop</keyword>
+		<keyword>journalist</keyword>
+		<keyword>police detective</keyword>
+		<keyword>character name as series title</keyword>
+		<keyword>speed force</keyword>
+		<keyword>speedster</keyword>
+		<keyword>killer frost character</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>reference to the arrowverse</keyword>
+		<keyword>reference to black canary</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>earth 1</keyword>
+		<keyword>the cw</keyword>
+		<keyword>2020s</keyword>
+		<keyword>created by greg berlanti</keyword>
+		<keyword>time traveler</keyword>
+		<keyword>male time traveler</keyword>
+		<keyword>time machine</keyword>
+		<keyword>backward time travel</keyword>
+		<keyword>forward time travel</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>friendship</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>teen drama</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>time travel sci fi</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>love</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>father son relationship</keyword>
+	</keywords>
+	<directors>
+		<director> David McWhirter</director>
+		<director> Stefan Pleszczynski</director>
+		<director> Dermott Downs</director>
+		<director> Alexandra La Roche</director>
+		<director> Ralph Hemecker</director>
+		<director> Rachel Talalay</director>
+		<director> Philip Chipera</director>
+		<director> Chris Peppe</director>
+		<director> Marcus Stokes</director>
+		<director> Glen Winter</director>
+		<director> Menhaj Huda</director>
+		<director> Danielle Panabaker</director>
+		<director> Jesse Warn</director>
+		<director> Gregory Smith</director>
+		<director> Jeffrey W. Byrd</director>
+		<director> Millicent Shelton</director>
+		<director> Kevin Tancharoen</director>
+		<director> Rob Hardy</director>
+		<director> J.J. Makaro</director>
+		<director> John F. Showalter</director>
+		<director> Hanelle M. Culpepper</director>
+		<director> Kevin Smith</director>
+		<director> Armen V. Kevorkian</director>
+		<director> Brent Crowell</director>
+		<director> Tom Cavanagh</director>
+		<director> Chad Lowe</director>
+		<director> Eric Dean Seaton</director>
+		<director> David Nutter</director>
+		<director> Steve Shill</director>
+		<director> C. Kim Miles</director>
+		<director> Michael A. Allowitz</director>
+		<director> Harry Jierjian</director>
+		<director> Sarah Boyd</director>
+		<director> Rob Greenlea</director>
+		<director> Viet Nguyen</director>
+		<director> Sudz Sutherland</director>
+		<director> Geoffrey Wing Shotz</director>
+		<director> Vanessa Parise</director>
+		<director> Eric Wallace</director>
+		<director> Larry Shaw</director>
+		<director> Douglas Aarniokoski</director>
+		<director> John Behring</director>
+		<director> Nick Copus</director>
+		<director> Thor Freudenthal</director>
+		<director> Wendey Stanzler</director>
+		<director> Stephen Surjik</director>
+		<director> Antonio Negret</director>
+		<director> Alice Troughton</director>
+		<director> Laura Belsey</director>
+		<director> Nina Lopez-Corrado</director>
+		<director> Andi Armaganian</director>
+		<director> Kevin Mock</director>
+		<director> Tara Nicole Weyr</director>
+		<director> Jeff Cassidy</director>
+		<director> Rebecca Johnson</director>
+		<director> Michael Nankin</director>
+		<director> Kristin Windell</director>
+		<director> Amanda Tapping</director>
+		<director> Greg Beeman</director>
+		<director> Kellie Cyrus</director>
+		<director> Caity Lotz</director>
+		<director> Brenton Spencer</director>
+	</directors>
+	<composers>
+		<composer> Blake Neely</composer>
+		<composer> Nathaniel Blume</composer>
+		<composer> Daniel James Chan</composer>
+		<composer> Sherri Chung</composer>
+	</composers>
+	<producers>
+		<producer> Greg Berlanti</producer>
+		<producer> Joseph Patrick Finn</producer>
+		<producer> Scott Sebert</producer>
+		<producer> Sarah Schechter</producer>
+		<producer> Jennifer Lence</producer>
+		<producer> Carl Ogawa</producer>
+		<producer> Geoff Garrett</producer>
+		<producer> Dani Dornfeld</producer>
+		<producer> Eric Wallace</producer>
+		<producer> Todd Helbing</producer>
+		<producer> Jonathan Butler</producer>
+		<producer> Sam Chalsen</producer>
+		<producer> Gabriel Alejandro Garza</producer>
+		<producer> Andrew Kreisberg</producer>
+		<producer> Aaron Helbing</producer>
+		<producer> Kristen Kim</producer>
+		<producer> Thomas Pound</producer>
+		<producer> Kelly Wheeler</producer>
+		<producer> Lauren Barnett</producer>
+		<producer> Judalina Neira</producer>
+		<producer> Glen Winter</producer>
+		<producer> Joshua V. Gilbert</producer>
+		<producer> David Nutter</producer>
+		<producer> Deric A. Hughes</producer>
+		<producer> Benjamin Raab</producer>
+		<producer> Zack Stentz</producer>
+		<producer> Alison Schapker</producer>
+		<producer> Ben Sokolowski</producer>
+		<producer> Julian Meiojas</producer>
+		<producer> Christina M. Walker</producer>
+		<producer> Brent Crowell</producer>
+		<producer> Gabrielle G. Stanton</producer>
+		<producer> Jaime Paglia</producer>
+		<producer> Brooke Roberts</producer>
+		<producer> Emily Silver</producer>
+		<producer> Jeff Hersh</producer>
+		<producer> Vanessa Parise</producer>
+		<producer> Carrie Stula</producer>
+		<producer> Sarah Tarkoff</producer>
+		<producer> Marc Guggenheim</producer>
+		<producer> Curtis Krick</producer>
+		<producer> Jon Wallace</producer>
+		<producer> Dermott Downs</producer>
+		<producer> Rachel Talalay</producer>
+	</producers>
+	<writers>
+		<writer> Greg Berlanti</writer>
+		<writer> Greg Berlanti</writer>
+		<writer> Geoff Johns</writer>
+		<writer> Geoff Johns</writer>
+		<writer> Geoff Johns</writer>
+		<writer> Geoff Johns</writer>
+		<writer> Andrew Kreisberg</writer>
+		<writer> Andrew Kreisberg</writer>
+		<writer> Andrew Kreisberg</writer>
+		<writer> Andrew Kreisberg</writer>
+		<writer> Joshua V. Gilbert</writer>
+		<writer> Joshua V. Gilbert</writer>
+		<writer> Joshua V. Gilbert</writer>
+		<writer> Joshua V. Gilbert</writer>
+		<writer> Joshua V. Gilbert</writer>
+		<writer> Joshua V. Gilbert</writer>
+		<writer> Jeff Hersh</writer>
+		<writer> Jeff Hersh</writer>
+		<writer> Jeff Hersh</writer>
+		<writer> Jeff Hersh</writer>
+		<writer> Jeff Hersh</writer>
+		<writer> Lauren Certo</writer>
+		<writer> Lauren Certo</writer>
+		<writer> Lauren Certo</writer>
+		<writer> Lauren Certo</writer>
+		<writer> Lauren Certo</writer>
+		<writer> Sterling Gates</writer>
+		<writer> Sterling Gates</writer>
+		<writer> Sterling Gates</writer>
+		<writer> Sterling Gates</writer>
+		<writer> Grainne Godfree</writer>
+		<writer> Grainne Godfree</writer>
+		<writer> Grainne Godfree</writer>
+		<writer> Grainne Godfree</writer>
+		<writer> Grainne Godfree</writer>
+		<writer> Jess Carson</writer>
+		<writer> Jess Carson</writer>
+		<writer> Jess Carson</writer>
+		<writer> Jess Carson</writer>
+		<writer> Jess Carson</writer>
+		<writer> Jess Carson</writer>
+		<writer> Emily Palizzi</writer>
+		<writer> Emily Palizzi</writer>
+		<writer> Emily Palizzi</writer>
+		<writer> Emily Palizzi</writer>
+		<writer> Kristen Kim</writer>
+		<writer> Kristen Kim</writer>
+		<writer> Kristen Kim</writer>
+		<writer> Thomas Pound</writer>
+		<writer> Thomas Pound</writer>
+		<writer> Thomas Pound</writer>
+		<writer> Thomas Pound</writer>
+		<writer> David Kob</writer>
+		<writer> David Kob</writer>
+		<writer> David Kob</writer>
+		<writer> David Kob</writer>
+		<writer> Brooke Roberts</writer>
+		<writer> Brooke Roberts</writer>
+		<writer> Brooke Roberts</writer>
+		<writer> Brooke Roberts</writer>
+		<writer> Judalina Neira</writer>
+		<writer> Judalina Neira</writer>
+		<writer> Judalina Neira</writer>
+		<writer> Judalina Neira</writer>
+		<writer> Kai Wu</writer>
+		<writer> Kai Wu</writer>
+		<writer> Kai Wu</writer>
+		<writer> Todd Helbing</writer>
+		<writer> Todd Helbing</writer>
+		<writer> Todd Helbing</writer>
+		<writer> Katherine Walczak</writer>
+		<writer> Katherine Walczak</writer>
+		<writer> Katherine Walczak</writer>
+		<writer> Christina M. Walker</writer>
+		<writer> Christina M. Walker</writer>
+		<writer> Christina M. Walker</writer>
+		<writer> Christina M. Walker</writer>
+		<writer> Aaron Helbing</writer>
+		<writer> Aaron Helbing</writer>
+		<writer> Aaron Helbing</writer>
+		<writer> Jonathan Butler</writer>
+		<writer> Jonathan Butler</writer>
+		<writer> Jonathan Butler</writer>
+		<writer> Sam Chalsen</writer>
+		<writer> Sam Chalsen</writer>
+		<writer> Sam Chalsen</writer>
+		<writer> Gabriel Alejandro Garza</writer>
+		<writer> Gabriel Alejandro Garza</writer>
+		<writer> Gabriel Alejandro Garza</writer>
+		<writer> Eric Wallace</writer>
+		<writer> Eric Wallace</writer>
+		<writer> Eric Wallace</writer>
+		<writer> Kelly Wheeler</writer>
+		<writer> Lauren Barnett</writer>
+		<writer> Lauren Barnett</writer>
+		<writer> Lauren Barnett</writer>
+		<writer> Dan Fisk</writer>
+		<writer> Dan Fisk</writer>
+		<writer> Dan Fisk</writer>
+		<writer> Alison Schapker</writer>
+		<writer> Zack Stentz</writer>
+		<writer> Zack Stentz</writer>
+		<writer> Deric A. Hughes</writer>
+		<writer> Deric A. Hughes</writer>
+		<writer> Deric A. Hughes</writer>
+		<writer> Benjamin Raab</writer>
+		<writer> Benjamin Raab</writer>
+		<writer> Benjamin Raab</writer>
+		<writer> Ben Sokolowski</writer>
+		<writer> Ben Sokolowski</writer>
+		<writer> Joe Peracchio</writer>
+		<writer> Joe Peracchio</writer>
+		<writer> Gabrielle G. Stanton</writer>
+		<writer> Gabrielle G. Stanton</writer>
+		<writer> Jaime Paglia</writer>
+		<writer> Chris Rafferty</writer>
+		<writer> Julian Meiojas</writer>
+		<writer> Cortney Norris</writer>
+		<writer> Keto Shimizu</writer>
+		<writer> Ray Utarnachitt</writer>
+		<writer> Bryan Q. Miller</writer>
+		<writer> Emily Silver</writer>
+		<writer> Lilah Vandenburgh</writer>
+		<writer> Bronwen Clark</writer>
+		<writer> Marc Guggenheim</writer>
+		<writer> Carina Adly MacKenzie</writer>
+		<writer> Andrew Wilder</writer>
+		<writer> Mike Alber</writer>
+		<writer> Gabe Snyder</writer>
+		<writer> Alex Boyd</writer>
+		<writer> Arielle McAlpin</writer>
+		<writer> Joe Shuster</writer>
+		<writer> Jerry Siegel</writer>
+		<writer> Lauren Fields</writer>
+		<writer> Sarah Tarkoff</writer>
+	</writers>
+	<editors>
+		<editor> Christopher Oakes</editor>
+		<editor> Dan Wilken</editor>
+		<editor> Nathan Draper</editor>
+		<editor> Felicia Mignon Livingston</editor>
+		<editor> Derek Stricker</editor>
+		<editor> Rhett Finch</editor>
+		<editor> Chris Peppe</editor>
+		<editor> Chris Conlee</editor>
+		<editor> Harry Jierjian</editor>
+		<editor> Paul Karasick</editor>
+		<editor> Mike Jackson</editor>
+		<editor> Iris Hershner</editor>
+		<editor> Andrew Kasch</editor>
+	</editors>
 </doc>
