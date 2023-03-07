@@ -1,250 +1,205 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Tom Burke</actor>
-      
-      
-        <role>Cormoran Strike</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Holliday Grainger</actor>
-      
-      
-        <role>Robin Ellacott</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kerr Logan</actor>
-      
-      
-        <role>Matthew Cunliffe</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jack Greenlees</actor>
-      
-      
-        <role>Sam Barclay</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Christina Cole</actor>
-      
-      
-        <role>Izzy Chiswell</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Killian Scott</actor>
-      
-      
-        <role>DI Eric Wardle</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Sarah Sweeney</actor>
-      
-      
-        <role>Lucy</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Samuel Oatley</actor>
-      
-      
-        <role>DI George Layborn</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ian Redford</actor>
-      
-      
-        <role>Ted Nancarrow</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Natasha O'Keeffe</actor>
-      
-      
-        <role>Charlotte Campbell</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ben Crompton</actor>
-      
-      
-        <role>Shanker</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ann Akinjirin</actor>
-      
-      
-        <role>DS Ekwensi</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Suzanne Burden</actor>
-      
-      
-        <role>Linda Ellacott</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Sophie Ward</actor>
-      
-      
-        <role>Anna Phipps</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Nick Blood</actor>
-      
-      
-        <role>Jimmy Knight</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ruth Sheen</actor>
-      
-      
-        <role>Pat Chauncey</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Adam Long</actor>
-      
-      
-        <role>Raff Chiswell</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jonas Armstrong</actor>
-      
-      
-        <role>Saul Morris</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>15</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Adrian Johnston</composer>
-  </composer>
-  <countries>United Kingdom</countries>
-  <director>
-    <director> Susan Tully</director>
-    <director> Michael Keillor</director>
-    <director> Kieron Hawkes</director>
-    <director> Charles Sturridge</director>
-  </director>
-  <docid>tt4276618</docid>
-  <editor>
-    <editor> Steve Singleton</editor>
-    <editor> David Head</editor>
-    <editor> Gareth C. Scales</editor>
-    <editor> Sam Williams</editor>
-    <editor> Stephen Haren</editor>
-  </editor>
-  <genres>
-    <genre>Crime</genre>
-    <genre>Drama</genre>
-    <genre>Mystery</genre>
-  </genres>
-  <keywords>
-    <keyword>detective</keyword>
-    <keyword>private investigator</keyword>
-    <keyword>detective agency</keyword>
-    <keyword>murder investigation</keyword>
-    <keyword>war veteran</keyword>
-    <keyword>london england</keyword>
-    <keyword>united kingdom</keyword>
-    <keyword>great britain</keyword>
-    <keyword>england</keyword>
-    <keyword>disabled veteran</keyword>
-    <keyword>afghanistan war veteran</keyword>
-    <keyword>ex military</keyword>
-    <keyword>former soldier</keyword>
-    <keyword>leg amputee</keyword>
-    <keyword>former military police</keyword>
-    <keyword>ex british military</keyword>
-    <keyword>ex british soldier</keyword>
-    <keyword>war hero</keyword>
-    <keyword>disabled man</keyword>
-    <keyword>amputee</keyword>
-    <keyword>suspense mystery</keyword>
-    <keyword>psychological thriller</keyword>
-    <keyword>chronic pain</keyword>
-    <keyword>oxford university</keyword>
-    <keyword>british army</keyword>
-    <keyword>employer employee relationship</keyword>
-    <keyword>family relationships</keyword>
-    <keyword>accountant</keyword>
-    <keyword>surveillance</keyword>
-    <keyword>unrequited love</keyword>
-    <keyword>man with a physical disability</keyword>
-    <keyword>detective series</keyword>
-    <keyword>private detective</keyword>
-    <keyword>hardboiled detective</keyword>
-    <keyword>based on novel</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>War veteran turned private detective Cormoran Strike solves brutal murders with the help of his trusted partner Robin Ellacott.</plot>
-  <producer>
-    <producer> Neil Blair</producer>
-    <producer> Ruth Kenley-Letts</producer>
-    <producer> J.K. Rowling</producer>
-    <producer> Jenny Van Der Lande</producer>
-    <producer> Jess Cameron-Lewis</producer>
-    <producer> Tom Edge</producer>
-    <producer> Jackie Larkin</producer>
-    <producer> Tommy Bulfin</producer>
-    <producer> Roxanne Harvey</producer>
-    <producer> Elizabeth Kilgarriff</producer>
-    <producer> Mark Kinsella</producer>
-    <producer> Kelly Duffell</producer>
-    <producer> Clare Pearce</producer>
-    <producer> Alex Rendell</producer>
-    <producer> Ben Richards</producer>
-  </producer>
-  <releasedates>August 27, 2017 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>60</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Stereo</soundmixe>
-  </soundmixes>
-  <title>Strike</title>
-  <type>tv_show</type>
-  <writer>
-    <writer> Tom Edge</writer>
-    <writer> Ben Richards</writer>
-    <writer> J.K. Rowling</writer>
-    <writer> J.K. Rowling</writer>
-  </writer>
-  <year>2017– </year>
+<?xml version="1.0" ?>
+<doc id="tt4276618">
+	<docid>tt4276618</docid>
+	<title>Strike</title>
+	<year>2017– </year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>War veteran turned private detective Cormoran Strike solves brutal murders with the help of his trusted partner Robin Ellacott.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Burke</actor>
+			<role>Cormoran Strike</role>
+		</credit>
+		<credit>
+			<actor>Holliday Grainger</actor>
+			<role>Robin Ellacott</role>
+		</credit>
+		<credit>
+			<actor>Kerr Logan</actor>
+			<role>Matthew Cunliffe</role>
+		</credit>
+		<credit>
+			<actor>Jack Greenlees</actor>
+			<role>Sam Barclay</role>
+		</credit>
+		<credit>
+			<actor>Christina Cole</actor>
+			<role>Izzy Chiswell</role>
+		</credit>
+		<credit>
+			<actor>Killian Scott</actor>
+			<role>DI Eric Wardle</role>
+		</credit>
+		<credit>
+			<actor>Sarah Sweeney</actor>
+			<role>Lucy</role>
+		</credit>
+		<credit>
+			<actor>Samuel Oatley</actor>
+			<role>DI George Layborn</role>
+		</credit>
+		<credit>
+			<actor>Ian Redford</actor>
+			<role>Ted Nancarrow</role>
+		</credit>
+		<credit>
+			<actor>Natasha O'Keeffe</actor>
+			<role>Charlotte Campbell</role>
+		</credit>
+		<credit>
+			<actor>Ben Crompton</actor>
+			<role>Shanker</role>
+		</credit>
+		<credit>
+			<actor>Ann Akinjirin</actor>
+			<role>DS Ekwensi</role>
+		</credit>
+		<credit>
+			<actor>Suzanne Burden</actor>
+			<role>Linda Ellacott</role>
+		</credit>
+		<credit>
+			<actor>Sophie Ward</actor>
+			<role>Anna Phipps</role>
+		</credit>
+		<credit>
+			<actor>Nick Blood</actor>
+			<role>Jimmy Knight</role>
+		</credit>
+		<credit>
+			<actor>Ruth Sheen</actor>
+			<role>Pat Chauncey</role>
+		</credit>
+		<credit>
+			<actor>Adam Long</actor>
+			<role>Raff Chiswell</role>
+		</credit>
+		<credit>
+			<actor>Jonas Armstrong</actor>
+			<role>Saul Morris</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">August 27 2017</releasedate>
+		<releasedate country="Turkey">August 27 2017</releasedate>
+		<releasedate country="Israel">March 7 2018</releasedate>
+		<releasedate country="Australia">May 1 2018</releasedate>
+		<releasedate country="Germany">May 17 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">15+</certificate>
+		<certificate country="Italy">BA</certificate>
+		<certificate country="Mexico">S/C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>detective</keyword>
+		<keyword>private investigator</keyword>
+		<keyword>detective agency</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>war veteran</keyword>
+		<keyword>london england</keyword>
+		<keyword>united kingdom</keyword>
+		<keyword>great britain</keyword>
+		<keyword>england</keyword>
+		<keyword>disabled veteran</keyword>
+		<keyword>afghanistan war veteran</keyword>
+		<keyword>ex military</keyword>
+		<keyword>former soldier</keyword>
+		<keyword>leg amputee</keyword>
+		<keyword>former military police</keyword>
+		<keyword>ex british military</keyword>
+		<keyword>ex british soldier</keyword>
+		<keyword>war hero</keyword>
+		<keyword>disabled man</keyword>
+		<keyword>amputee</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>chronic pain</keyword>
+		<keyword>oxford university</keyword>
+		<keyword>british army</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>accountant</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>man with a physical disability</keyword>
+		<keyword>detective series</keyword>
+		<keyword>private detective</keyword>
+		<keyword>hardboiled detective</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Susan Tully</director>
+		<director> Michael Keillor</director>
+		<director> Kieron Hawkes</director>
+		<director> Charles Sturridge</director>
+	</directors>
+	<composers>
+		<composer> Adrian Johnston</composer>
+	</composers>
+	<producers>
+		<producer> Neil Blair</producer>
+		<producer> Ruth Kenley-Letts</producer>
+		<producer> J.K. Rowling</producer>
+		<producer> Jenny Van Der Lande</producer>
+		<producer> Jess Cameron-Lewis</producer>
+		<producer> Tom Edge</producer>
+		<producer> Jackie Larkin</producer>
+		<producer> Tommy Bulfin</producer>
+		<producer> Roxanne Harvey</producer>
+		<producer> Elizabeth Kilgarriff</producer>
+		<producer> Mark Kinsella</producer>
+		<producer> Kelly Duffell</producer>
+		<producer> Clare Pearce</producer>
+		<producer> Alex Rendell</producer>
+		<producer> Ben Richards</producer>
+	</producers>
+	<writers>
+		<writer> Tom Edge</writer>
+		<writer> Ben Richards</writer>
+		<writer> J.K. Rowling</writer>
+		<writer> J.K. Rowling</writer>
+	</writers>
+	<editors>
+		<editor> Steve Singleton</editor>
+		<editor> David Head</editor>
+		<editor> Gareth C. Scales</editor>
+		<editor> Sam Williams</editor>
+		<editor> Stephen Haren</editor>
+	</editors>
 </doc>

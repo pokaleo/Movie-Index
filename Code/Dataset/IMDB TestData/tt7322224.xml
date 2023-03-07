@@ -1,349 +1,322 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Harris Dickinson</actor>
-      
-      
-        <role>Carl</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Charlbi Dean</actor>
-      
-      
-        <role>Yaya</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Dolly de Leon</actor>
-      
-      
-        <role>Abigail</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Zlatko Buric</actor>
-      
-      
-        <role>Dimitry</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Iris Berben</actor>
-      
-      
-        <role>Therese</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Vicki Berlin</actor>
-      
-      
-        <role>Paula</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Henrik Dorsin</actor>
-      
-      
-        <role>Jarmo</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jean-Christophe Folly</actor>
-      
-      
-        <role>Nelson</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Amanda Walker</actor>
-      
-      
-        <role>Clementine</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Oliver Ford Davies</actor>
-      
-      
-        <role>Winston</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Sunnyi Melles</actor>
-      
-      
-        <role>Vera</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Woody Harrelson</actor>
-      
-      
-        <role>The Captain</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Thobias Thorwid</actor>
-      
-      
-        <role>Lewis</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jiannis Moustos</actor>
-      
-      
-        <role>Driver</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Timoleon Gketsos</actor>
-      
-      
-        <role>Handsome Crew Man</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Alicia Eriksson</actor>
-      
-      
-        <role>Alicia</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Carolina Gynning</actor>
-      
-      
-        <role>Ludmilla</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ralph Schicha</actor>
-      
-      
-        <role>Uli</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>15</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>None</composer>
-  <countries>United States</countries>
-  <director>
-    <director> Ruben Östlund</director>
-  </director>
-  <docid>tt7322224</docid>
-  <editor>
-    <editor> Mikel Cee Karlsson</editor>
-    <editor> Ruben Östlund</editor>
-  </editor>
-  <genres>
-    <genre>Comedy</genre>
-    <genre>Drama</genre>
-  </genres>
-  <keywords>
-    <keyword>dark comedy</keyword>
-    <keyword>yacht</keyword>
-    <keyword>vomiting</keyword>
-    <keyword>stranded on an island</keyword>
-    <keyword>survival</keyword>
-    <keyword>inequality</keyword>
-    <keyword>male model</keyword>
-    <keyword>social class</keyword>
-    <keyword>influencer</keyword>
-    <keyword>jealousy</keyword>
-    <keyword>lifeboat</keyword>
-    <keyword>class differences</keyword>
-    <keyword>asian woman</keyword>
-    <keyword>disability</keyword>
-    <keyword>fashion show</keyword>
-    <keyword>seasickness</keyword>
-    <keyword>boyfriend girlfriend relationship</keyword>
-    <keyword>wealth</keyword>
-    <keyword>wealthy couple</keyword>
-    <keyword>luxury yacht</keyword>
-    <keyword>social satire</keyword>
-    <keyword>luxury cruise</keyword>
-    <keyword>food poisoning</keyword>
-    <keyword>model</keyword>
-    <keyword>satire comedy</keyword>
-    <keyword>hand grenade</keyword>
-    <keyword>ship captain</keyword>
-    <keyword>explosion</keyword>
-    <keyword>shipwreck</keyword>
-    <keyword>cruise</keyword>
-    <keyword>cruise ship</keyword>
-    <keyword>cleaning lady</keyword>
-    <keyword>pirate attack</keyword>
-    <keyword>weapons manufacturer</keyword>
-    <keyword>modern society</keyword>
-    <keyword>criticism of modern life</keyword>
-    <keyword>drunk</keyword>
-    <keyword>fashion model</keyword>
-    <keyword>catastrophic cruise</keyword>
-    <keyword>man in swimsuit</keyword>
-    <keyword>speedo</keyword>
-    <keyword>russian oligarch</keyword>
-    <keyword>nouveau riche</keyword>
-    <keyword>wealthy businessman</keyword>
-    <keyword>social inequality</keyword>
-    <keyword>social hierarchy</keyword>
-    <keyword>being used</keyword>
-    <keyword>exploit</keyword>
-    <keyword>storm</keyword>
-    <keyword>argument</keyword>
-    <keyword>champagne</keyword>
-    <keyword>elevator</keyword>
-    <keyword>cynicism</keyword>
-    <keyword>arms dealer</keyword>
-    <keyword>restaurant</keyword>
-    <keyword>speech impediment</keyword>
-    <keyword>software developer</keyword>
-    <keyword>ship steward</keyword>
-    <keyword>gender roles</keyword>
-    <keyword>reference to edward abbey</keyword>
-    <keyword>mark twain quotation</keyword>
-    <keyword>ronald reagan quotation</keyword>
-    <keyword>karl marx quotation</keyword>
-    <keyword>three word title</keyword>
-    <keyword>reference to vladimir lenin</keyword>
-    <keyword>reference to karl marx</keyword>
-    <keyword>reference to ronald reagan</keyword>
-    <keyword>reference to margaret thatcher</keyword>
-    <keyword>poetic justice</keyword>
-    <keyword>role reversal</keyword>
-    <keyword>model show</keyword>
-    <keyword>audience</keyword>
-    <keyword>equality</keyword>
-    <keyword>playing card</keyword>
-    <keyword>quote</keyword>
-    <keyword>shipmaster</keyword>
-    <keyword>reference to mark twain</keyword>
-    <keyword>marxist</keyword>
-    <keyword>alcoholic</keyword>
-    <keyword>margaret thatcher</keyword>
-    <keyword>alcoholism</keyword>
-    <keyword>quotes</keyword>
-    <keyword>john f. kennedy quotation</keyword>
-    <keyword>luxury life style</keyword>
-    <keyword>reckless behavior</keyword>
-    <keyword>careless worker</keyword>
-    <keyword>reference to eugene v. debs</keyword>
-    <keyword>sea pirates</keyword>
-    <keyword>celebrity couple</keyword>
-    <keyword>marooned</keyword>
-    <keyword>swearing</keyword>
-    <keyword>profanities</keyword>
-    <keyword>profanity</keyword>
-    <keyword>alcohol consumption</keyword>
-    <keyword>alcohol</keyword>
-    <keyword>smoking</keyword>
-    <keyword>drug references</keyword>
-    <keyword>drug reference</keyword>
-    <keyword>female nudity</keyword>
-    <keyword>female frontal nudity</keyword>
-    <keyword>female rear nudity</keyword>
-    <keyword>female full frontal nudity</keyword>
-    <keyword>reference to john f. kennedy</keyword>
-    <keyword>reference to robert f. kennedy</keyword>
-    <keyword>reference to martin luther king jr.</keyword>
-    <keyword>reference to malcolm x</keyword>
-    <keyword>title spoken by character</keyword>
-    <keyword>intercom</keyword>
-    <keyword>nutella</keyword>
-    <keyword>margaret thatcher quotation</keyword>
-    <keyword>reference to noam chomsky</keyword>
-    <keyword>shape in title</keyword>
-    <keyword>pay inequality</keyword>
-    <keyword>social stratification</keyword>
-    <keyword>feminist</keyword>
-    <keyword>criticism</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>A fashion model celebrity couple join an eventful cruise for the super-rich.</plot>
-  <producer>
-    <producer> Brina Elizabeta Blaz</producer>
-    <producer> Philippe Bober</producer>
-    <producer> Alexander Bohr</producer>
-    <producer> Rémi Burah</producer>
-    <producer> Julio Chavezmontes</producer>
-    <producer> Anna Croneman</producer>
-    <producer> Alessandro Del Vigna</producer>
-    <producer> Mikael Fellenius</producer>
-    <producer> Lizzie Francke</producer>
-    <producer> Dan Friedkin</producer>
-    <producer> Ryan Friedkin</producer>
-    <producer> Rose Garnett</producer>
-    <producer> Mike Goodridge</producer>
-    <producer> Micah Green</producer>
-    <producer> Faruk Guven</producer>
-    <producer> Per Damgaard Hansen</producer>
-    <producer> Erik Hemmendorff</producer>
-    <producer> Giorgos Karnavas</producer>
-    <producer> Konstantinos Kontovrakis</producer>
-    <producer> Clemens Köstlin</producer>
-    <producer> Vincent Larsson</producer>
-    <producer> Christian Juhl Lemche</producer>
-    <producer> Jovan Marjanovic</producer>
-    <producer> Michel Merkt</producer>
-    <producer> Mouns Overgaard</producer>
-    <producer> Marina Perales Marhuenda</producer>
-    <producer> Peter Possne</producer>
-    <producer> Mirsad Purivatra</producer>
-    <producer> Olivier Père</producer>
-    <producer> Andreas Roald</producer>
-    <producer> Andreas Schreitmüller</producer>
-    <producer> Mehmet Zahid Sobaci</producer>
-    <producer> Regina Solórzano</producer>
-    <producer> Danae Spathara</producer>
-    <producer> Jim Stark</producer>
-    <producer> Daniel Steinman</producer>
-    <producer> Holger Stern</producer>
-    <producer> Bradley Thomas</producer>
-    <producer> Claudia Tronnier</producer>
-    <producer> Muhammed Ziyad Varol</producer>
-    <producer> Zahra Waldeck</producer>
-    <producer> Pierre Wallon</producer>
-    <producer> Dan Wechsler</producer>
-    <producer> Cemil Yavuz</producer>
-    <producer> Jamal Zeinal Zade</producer>
-  </producer>
-  <releasedates>October 28, 2022 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>147</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Dolby Atmos</soundmixe>
-  </soundmixes>
-  <title>Triangle of Sadness</title>
-  <type>movie</type>
-  <writer>
-    <writer> Ruben Östlund</writer>
-  </writer>
-  <year>2022</year>
+<?xml version="1.0" ?>
+<doc id="tt7322224">
+	<docid>tt7322224</docid>
+	<title>Triangle of Sadness</title>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">147</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A fashion model celebrity couple join an eventful cruise for the super-rich.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Harris Dickinson</actor>
+			<role>Carl</role>
+		</credit>
+		<credit>
+			<actor>Charlbi Dean</actor>
+			<role>Yaya</role>
+		</credit>
+		<credit>
+			<actor>Dolly de Leon</actor>
+			<role>Abigail</role>
+		</credit>
+		<credit>
+			<actor>Zlatko Buric</actor>
+			<role>Dimitry</role>
+		</credit>
+		<credit>
+			<actor>Iris Berben</actor>
+			<role>Therese</role>
+		</credit>
+		<credit>
+			<actor>Vicki Berlin</actor>
+			<role>Paula</role>
+		</credit>
+		<credit>
+			<actor>Henrik Dorsin</actor>
+			<role>Jarmo</role>
+		</credit>
+		<credit>
+			<actor>Jean-Christophe Folly</actor>
+			<role>Nelson</role>
+		</credit>
+		<credit>
+			<actor>Amanda Walker</actor>
+			<role>Clementine</role>
+		</credit>
+		<credit>
+			<actor>Oliver Ford Davies</actor>
+			<role>Winston</role>
+		</credit>
+		<credit>
+			<actor>Sunnyi Melles</actor>
+			<role>Vera</role>
+		</credit>
+		<credit>
+			<actor>Woody Harrelson</actor>
+			<role>The Captain</role>
+		</credit>
+		<credit>
+			<actor>Thobias Thorwid</actor>
+			<role>Lewis</role>
+		</credit>
+		<credit>
+			<actor>Jiannis Moustos</actor>
+			<role>Driver</role>
+		</credit>
+		<credit>
+			<actor>Timoleon Gketsos</actor>
+			<role>Handsome Crew Man</role>
+		</credit>
+		<credit>
+			<actor>Alicia Eriksson</actor>
+			<role>Alicia</role>
+		</credit>
+		<credit>
+			<actor>Carolina Gynning</actor>
+			<role>Ludmilla</role>
+		</credit>
+		<credit>
+			<actor>Ralph Schicha</actor>
+			<role>Uli</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 21 2022</releasedate>
+		<releasedate country="Australia">June 17 2022</releasedate>
+		<releasedate country="Sweden">June 28 2022</releasedate>
+		<releasedate country="Israel">July 21 2022</releasedate>
+		<releasedate country="Poland">July 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">0+</certificate>
+		<certificate country="Thailand">u 15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dark comedy</keyword>
+		<keyword>yacht</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>stranded on an island</keyword>
+		<keyword>survival</keyword>
+		<keyword>inequality</keyword>
+		<keyword>male model</keyword>
+		<keyword>social class</keyword>
+		<keyword>influencer</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>lifeboat</keyword>
+		<keyword>class differences</keyword>
+		<keyword>asian woman</keyword>
+		<keyword>disability</keyword>
+		<keyword>fashion show</keyword>
+		<keyword>seasickness</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>wealth</keyword>
+		<keyword>wealthy couple</keyword>
+		<keyword>luxury yacht</keyword>
+		<keyword>social satire</keyword>
+		<keyword>luxury cruise</keyword>
+		<keyword>food poisoning</keyword>
+		<keyword>model</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>ship captain</keyword>
+		<keyword>explosion</keyword>
+		<keyword>shipwreck</keyword>
+		<keyword>cruise</keyword>
+		<keyword>cruise ship</keyword>
+		<keyword>cleaning lady</keyword>
+		<keyword>pirate attack</keyword>
+		<keyword>weapons manufacturer</keyword>
+		<keyword>modern society</keyword>
+		<keyword>criticism of modern life</keyword>
+		<keyword>drunk</keyword>
+		<keyword>fashion model</keyword>
+		<keyword>catastrophic cruise</keyword>
+		<keyword>man in swimsuit</keyword>
+		<keyword>speedo</keyword>
+		<keyword>russian oligarch</keyword>
+		<keyword>nouveau riche</keyword>
+		<keyword>wealthy businessman</keyword>
+		<keyword>social inequality</keyword>
+		<keyword>social hierarchy</keyword>
+		<keyword>being used</keyword>
+		<keyword>exploit</keyword>
+		<keyword>storm</keyword>
+		<keyword>argument</keyword>
+		<keyword>champagne</keyword>
+		<keyword>elevator</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>speech impediment</keyword>
+		<keyword>software developer</keyword>
+		<keyword>ship steward</keyword>
+		<keyword>gender roles</keyword>
+		<keyword>reference to edward abbey</keyword>
+		<keyword>mark twain quotation</keyword>
+		<keyword>ronald reagan quotation</keyword>
+		<keyword>karl marx quotation</keyword>
+		<keyword>three word title</keyword>
+		<keyword>reference to vladimir lenin</keyword>
+		<keyword>reference to karl marx</keyword>
+		<keyword>reference to ronald reagan</keyword>
+		<keyword>reference to margaret thatcher</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>role reversal</keyword>
+		<keyword>model show</keyword>
+		<keyword>audience</keyword>
+		<keyword>equality</keyword>
+		<keyword>playing card</keyword>
+		<keyword>quote</keyword>
+		<keyword>shipmaster</keyword>
+		<keyword>reference to mark twain</keyword>
+		<keyword>marxist</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>margaret thatcher</keyword>
+		<keyword>alcoholism</keyword>
+		<keyword>quotes</keyword>
+		<keyword>john f. kennedy quotation</keyword>
+		<keyword>luxury life style</keyword>
+		<keyword>reckless behavior</keyword>
+		<keyword>careless worker</keyword>
+		<keyword>reference to eugene v. debs</keyword>
+		<keyword>sea pirates</keyword>
+		<keyword>celebrity couple</keyword>
+		<keyword>marooned</keyword>
+		<keyword>swearing</keyword>
+		<keyword>profanities</keyword>
+		<keyword>profanity</keyword>
+		<keyword>alcohol consumption</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>smoking</keyword>
+		<keyword>drug references</keyword>
+		<keyword>drug reference</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>reference to john f. kennedy</keyword>
+		<keyword>reference to robert f. kennedy</keyword>
+		<keyword>reference to martin luther king jr.</keyword>
+		<keyword>reference to malcolm x</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>intercom</keyword>
+		<keyword>nutella</keyword>
+		<keyword>margaret thatcher quotation</keyword>
+		<keyword>reference to noam chomsky</keyword>
+		<keyword>shape in title</keyword>
+		<keyword>pay inequality</keyword>
+		<keyword>social stratification</keyword>
+		<keyword>feminist</keyword>
+		<keyword>criticism</keyword>
+	</keywords>
+	<directors>
+		<director> Ruben Östlund</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Brina Elizabeta Blaz</producer>
+		<producer> Philippe Bober</producer>
+		<producer> Alexander Bohr</producer>
+		<producer> Rémi Burah</producer>
+		<producer> Julio Chavezmontes</producer>
+		<producer> Anna Croneman</producer>
+		<producer> Alessandro Del Vigna</producer>
+		<producer> Mikael Fellenius</producer>
+		<producer> Lizzie Francke</producer>
+		<producer> Dan Friedkin</producer>
+		<producer> Ryan Friedkin</producer>
+		<producer> Rose Garnett</producer>
+		<producer> Mike Goodridge</producer>
+		<producer> Micah Green</producer>
+		<producer> Faruk Guven</producer>
+		<producer> Per Damgaard Hansen</producer>
+		<producer> Erik Hemmendorff</producer>
+		<producer> Giorgos Karnavas</producer>
+		<producer> Konstantinos Kontovrakis</producer>
+		<producer> Clemens Köstlin</producer>
+		<producer> Vincent Larsson</producer>
+		<producer> Christian Juhl Lemche</producer>
+		<producer> Jovan Marjanovic</producer>
+		<producer> Michel Merkt</producer>
+		<producer> Mouns Overgaard</producer>
+		<producer> Marina Perales Marhuenda</producer>
+		<producer> Peter Possne</producer>
+		<producer> Mirsad Purivatra</producer>
+		<producer> Olivier Père</producer>
+		<producer> Andreas Roald</producer>
+		<producer> Andreas Schreitmüller</producer>
+		<producer> Mehmet Zahid Sobaci</producer>
+		<producer> Regina Solórzano</producer>
+		<producer> Danae Spathara</producer>
+		<producer> Jim Stark</producer>
+		<producer> Daniel Steinman</producer>
+		<producer> Holger Stern</producer>
+		<producer> Bradley Thomas</producer>
+		<producer> Claudia Tronnier</producer>
+		<producer> Muhammed Ziyad Varol</producer>
+		<producer> Zahra Waldeck</producer>
+		<producer> Pierre Wallon</producer>
+		<producer> Dan Wechsler</producer>
+		<producer> Cemil Yavuz</producer>
+		<producer> Jamal Zeinal Zade</producer>
+	</producers>
+	<writers>
+		<writer> Ruben Östlund</writer>
+	</writers>
+	<editors>
+		<editor> Mikel Cee Karlsson</editor>
+		<editor> Ruben Östlund</editor>
+	</editors>
 </doc>

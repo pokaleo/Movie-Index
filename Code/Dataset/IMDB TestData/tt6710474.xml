@@ -1,802 +1,788 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Michelle Yeoh</actor>
-      
-      
-        <role>Evelyn Wang</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Stephanie Hsu</actor>
-      
-      
-        <role>Joy Wang</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jamie Lee Curtis</actor>
-      
-      
-        <role>Deirdre Beaubeirdre</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ke Huy Quan</actor>
-      
-      
-        <role>Waymond Wang</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>James Hong</actor>
-      
-      
-        <role>Gong Gong</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Tallie Medel</actor>
-      
-      
-        <role>Becky Sregor</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jenny Slate</actor>
-      
-      
-        <role>Debbie the Dog Mom</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Harry Shum Jr.</actor>
-      
-      
-        <role>Chad</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Biff Wiff</actor>
-      
-      
-        <role>Rick</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Sunita Mani</actor>
-      
-      
-        <role>TV Musical - Queen</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Aaron Lazar</actor>
-      
-      
-        <role>TV Musical - Soldier</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Brian Le</actor>
-      
-      
-        <role>Alpha Jumper - Trophy</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Andy Le</actor>
-      
-      
-        <role>Alpha Jumper - Bigger Trophy</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Narayana Cabral</actor>
-      
-      
-        <role>Security Guard</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Chelsey Goldsmith</actor>
-      
-      
-        <role>Security Guard</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Craig Henningsen</actor>
-      
-      
-        <role>Security Guard</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Anthony Molinari</actor>
-      
-      
-        <role>Police - Confetti</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Dan Brown</actor>
-      
-      
-        <role>Police - Salsa</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>15</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Son Lux</composer>
-  </composer>
-  <countries>United States</countries>
-  <director>
-    <director> Daniel Kwan</director>
-    <director> Daniel Scheinert</director>
-  </director>
-  <docid>tt6710474</docid>
-  <editor>
-    <editor> Paul Rogers</editor>
-  </editor>
-  <genres>
-    <genre>Action</genre>
-    <genre>Adventure</genre>
-    <genre>Comedy</genre>
-  </genres>
-  <keywords>
-    <keyword>multiverse</keyword>
-    <keyword>mother daughter relationship</keyword>
-    <keyword>chinese</keyword>
-    <keyword>nihilism</keyword>
-    <keyword>saving the world</keyword>
-    <keyword>immigrant</keyword>
-    <keyword>bagel</keyword>
-    <keyword>husband wife relationship</keyword>
-    <keyword>laundromat</keyword>
-    <keyword>alternate reality</keyword>
-    <keyword>life flashes before eyes</keyword>
-    <keyword>pixelated male nudity</keyword>
-    <keyword>reference to ratatouille</keyword>
-    <keyword>lgbt</keyword>
-    <keyword>googly eye</keyword>
-    <keyword>chinese new year</keyword>
-    <keyword>alternate timeline</keyword>
-    <keyword>alternate universe</keyword>
-    <keyword>kung fu</keyword>
-    <keyword>asian american</keyword>
-    <keyword>fanny pack</keyword>
-    <keyword>dildo</keyword>
-    <keyword>playing piano with feet</keyword>
-    <keyword>alternate life</keyword>
-    <keyword>absurdism</keyword>
-    <keyword>film within a film</keyword>
-    <keyword>lesbian</keyword>
-    <keyword>irs</keyword>
-    <keyword>father daughter relationship</keyword>
-    <keyword>chef</keyword>
-    <keyword>audit</keyword>
-    <keyword>love</keyword>
-    <keyword>mirror</keyword>
-    <keyword>punched in the face</keyword>
-    <keyword>blinded by accident</keyword>
-    <keyword>spinning a sign</keyword>
-    <keyword>movie star</keyword>
-    <keyword>movie theater</keyword>
-    <keyword>alternate version of self</keyword>
-    <keyword>alternate version of someone</keyword>
-    <keyword>chinese immigrant</keyword>
-    <keyword>chinese american</keyword>
-    <keyword>income tax audit</keyword>
-    <keyword>tax audit</keyword>
-    <keyword>earpiece</keyword>
-    <keyword>kindness</keyword>
-    <keyword>girlfriend girlfriend relationship</keyword>
-    <keyword>small business</keyword>
-    <keyword>broken english</keyword>
-    <keyword>chapstick</keyword>
-    <keyword>rock</keyword>
-    <keyword>canyon</keyword>
-    <keyword>singer</keyword>
-    <keyword>receipt</keyword>
-    <keyword>bureaucrat</keyword>
-    <keyword>pinky</keyword>
-    <keyword>generational conflict</keyword>
-    <keyword>raccoon</keyword>
-    <keyword>talking raccoon</keyword>
-    <keyword>paper cut</keyword>
-    <keyword>sex toy</keyword>
-    <keyword>ball gag</keyword>
-    <keyword>bdsm</keyword>
-    <keyword>spanking</keyword>
-    <keyword>lesbian couple</keyword>
-    <keyword>mark on forehead</keyword>
-    <keyword>disapproving father</keyword>
-    <keyword>path of life</keyword>
-    <keyword>branching paths</keyword>
-    <keyword>improvised weapon</keyword>
-    <keyword>laundry</keyword>
-    <keyword>odd behaviour</keyword>
-    <keyword>subtitled scene</keyword>
-    <keyword>death</keyword>
-    <keyword>playing piano</keyword>
-    <keyword>martial arts</keyword>
-    <keyword>female protagonist</keyword>
-    <keyword>female female kiss</keyword>
-    <keyword>written by director</keyword>
-    <keyword>internal revenue service</keyword>
-    <keyword>dominatrix</keyword>
-    <keyword>wheelchair</keyword>
-    <keyword>professional singer</keyword>
-    <keyword>push ups</keyword>
-    <keyword>woman does push ups</keyword>
-    <keyword>surrealism</keyword>
-    <keyword>secret room</keyword>
-    <keyword>divorce papers</keyword>
-    <keyword>janitor's closet</keyword>
-    <keyword>dog</keyword>
-    <keyword>pinata</keyword>
-    <keyword>stapler</keyword>
-    <keyword>skill set</keyword>
-    <keyword>movie premiere</keyword>
-    <keyword>trophy</keyword>
-    <keyword>hibachi restaurant</keyword>
-    <keyword>puppeteer</keyword>
-    <keyword>sitting on someone's shoulders</keyword>
-    <keyword>animal control</keyword>
-    <keyword>learning the truth</keyword>
-    <keyword>box cutter</keyword>
-    <keyword>taped to a chair</keyword>
-    <keyword>party</keyword>
-    <keyword>lunar new year</keyword>
-    <keyword>new year party</keyword>
-    <keyword>baseball bat</keyword>
-    <keyword>police</keyword>
-    <keyword>no rules</keyword>
-    <keyword>protective mother</keyword>
-    <keyword>maternal love</keyword>
-    <keyword>flashback</keyword>
-    <keyword>alternate history</keyword>
-    <keyword>alternative timeline</keyword>
-    <keyword>concert singer</keyword>
-    <keyword>de escalation</keyword>
-    <keyword>video monitor</keyword>
-    <keyword>security camera feed</keyword>
-    <keyword>security camera footage</keyword>
-    <keyword>sign</keyword>
-    <keyword>unfulfilled ambition</keyword>
-    <keyword>van</keyword>
-    <keyword>urn</keyword>
-    <keyword>cubicle</keyword>
-    <keyword>fishbowl</keyword>
-    <keyword>evolution</keyword>
-    <keyword>dawn of man</keyword>
-    <keyword>ape</keyword>
-    <keyword>ape costume</keyword>
-    <keyword>bdsm fetish</keyword>
-    <keyword>office</keyword>
-    <keyword>children's book</keyword>
-    <keyword>dr. seuss spoof</keyword>
-    <keyword>sign spinner</keyword>
-    <keyword>dog on leash</keyword>
-    <keyword>shoe on wrong foot</keyword>
-    <keyword>uncharacteristic behavior</keyword>
-    <keyword>elevator</keyword>
-    <keyword>fracture</keyword>
-    <keyword>umbrella</keyword>
-    <keyword>positivity</keyword>
-    <keyword>assaulting a police officer</keyword>
-    <keyword>mexican</keyword>
-    <keyword>hand over mouth</keyword>
-    <keyword>handcuffs</keyword>
-    <keyword>distraction</keyword>
-    <keyword>mexican american</keyword>
-    <keyword>asian</keyword>
-    <keyword>asian stereotype</keyword>
-    <keyword>racial stereotype</keyword>
-    <keyword>irs internal revenue service</keyword>
-    <keyword>woman spanks a man</keyword>
-    <keyword>midlife crisis</keyword>
-    <keyword>headset</keyword>
-    <keyword>security guard</keyword>
-    <keyword>knocked unconscious</keyword>
-    <keyword>murder</keyword>
-    <keyword>memory</keyword>
-    <keyword>happiness</keyword>
-    <keyword>kiss</keyword>
-    <keyword>family relationships</keyword>
-    <keyword>supernatural power</keyword>
-    <keyword>woman wears eyeglasses</keyword>
-    <keyword>man wears eyeglasses</keyword>
-    <keyword>cell phone</keyword>
-    <keyword>mandarin</keyword>
-    <keyword>noodles</keyword>
-    <keyword>white paint</keyword>
-    <keyword>cantonese</keyword>
-    <keyword>knocking on a door</keyword>
-    <keyword>nickname</keyword>
-    <keyword>food</keyword>
-    <keyword>eating</keyword>
-    <keyword>doorbell</keyword>
-    <keyword>chopsticks the eating utensil</keyword>
-    <keyword>lien</keyword>
-    <keyword>perfume</keyword>
-    <keyword>widower</keyword>
-    <keyword>google eyes</keyword>
-    <keyword>surveillance camera</keyword>
-    <keyword>dancer</keyword>
-    <keyword>dancing</keyword>
-    <keyword>aspiring actor</keyword>
-    <keyword>watching tv</keyword>
-    <keyword>laughter</keyword>
-    <keyword>telling a joke</keyword>
-    <keyword>old man</keyword>
-    <keyword>old man wears pajamas</keyword>
-    <keyword>old man uses a cane</keyword>
-    <keyword>grandfather granddaughter relationship</keyword>
-    <keyword>breakfast</keyword>
-    <keyword>parking lot</keyword>
-    <keyword>stairway</keyword>
-    <keyword>cookie</keyword>
-    <keyword>old man uses a wheelchair</keyword>
-    <keyword>section headings in text on screen</keyword>
-    <keyword>kiss on the cheek</keyword>
-    <keyword>girl</keyword>
-    <keyword>shushing someone</keyword>
-    <keyword>subjective camera</keyword>
-    <keyword>apology</keyword>
-    <keyword>crying baby</keyword>
-    <keyword>flash forward</keyword>
-    <keyword>first love</keyword>
-    <keyword>woman vomits</keyword>
-    <keyword>fast motion scene</keyword>
-    <keyword>woman vomits into a sink</keyword>
-    <keyword>pregnancy</keyword>
-    <keyword>baby girl</keyword>
-    <keyword>novelist</keyword>
-    <keyword>tax liability</keyword>
-    <keyword>teacher</keyword>
-    <keyword>singing coach</keyword>
-    <keyword>watsu technician</keyword>
-    <keyword>evil</keyword>
-    <keyword>looking at oneself in a mirror</keyword>
-    <keyword>man places his hand over a woman's mouth</keyword>
-    <keyword>taxes</keyword>
-    <keyword>fate</keyword>
-    <keyword>fear</keyword>
-    <keyword>split screen</keyword>
-    <keyword>mop</keyword>
-    <keyword>neck breaking</keyword>
-    <keyword>woman hits a woman</keyword>
-    <keyword>screaming woman</keyword>
-    <keyword>slow motion scene</keyword>
-    <keyword>woman punches a woman</keyword>
-    <keyword>assault</keyword>
-    <keyword>promise</keyword>
-    <keyword>bald headed man</keyword>
-    <keyword>eating chapstick</keyword>
-    <keyword>fight</keyword>
-    <keyword>man kicks a man</keyword>
-    <keyword>gun</keyword>
-    <keyword>stuffed animal toy</keyword>
-    <keyword>goldfish bowl</keyword>
-    <keyword>man carries a woman over his shoulder</keyword>
-    <keyword>husband carries his wife over his shoulder</keyword>
-    <keyword>female sovereign leader</keyword>
-    <keyword>montage</keyword>
-    <keyword>bloody face</keyword>
-    <keyword>woman sucks on a baby pacifier</keyword>
-    <keyword>woman dresses as a baby</keyword>
-    <keyword>bar</keyword>
-    <keyword>bruised face</keyword>
-    <keyword>simi valley california</keyword>
-    <keyword>tv news</keyword>
-    <keyword>woman wears a hoodie</keyword>
-    <keyword>hiding</keyword>
-    <keyword>hiding under a desk</keyword>
-    <keyword>verse jumping</keyword>
-    <keyword>chewing gum</keyword>
-    <keyword>running man</keyword>
-    <keyword>running woman</keyword>
-    <keyword>blinking light</keyword>
-    <keyword>chaos</keyword>
-    <keyword>female gymnast</keyword>
-    <keyword>computer</keyword>
-    <keyword>animated scene</keyword>
-    <keyword>blood</keyword>
-    <keyword>head butt</keyword>
-    <keyword>male female fight</keyword>
-    <keyword>woman lifts a man into the air</keyword>
-    <keyword>pain</keyword>
-    <keyword>exit sign</keyword>
-    <keyword>shoulder injury</keyword>
-    <keyword>switching shoes</keyword>
-    <keyword>algorithm</keyword>
-    <keyword>overhead camera shot</keyword>
-    <keyword>female female fight</keyword>
-    <keyword>woman throws a woman</keyword>
-    <keyword>crying man</keyword>
-    <keyword>crossing fingers to make a cross</keyword>
-    <keyword>jumping from height</keyword>
-    <keyword>praying</keyword>
-    <keyword>pride</keyword>
-    <keyword>crying woman</keyword>
-    <keyword>balcony</keyword>
-    <keyword>kung fu master</keyword>
-    <keyword>actress</keyword>
-    <keyword>dressing room</keyword>
-    <keyword>applying makeup</keyword>
-    <keyword>red carpet</keyword>
-    <keyword>archive footage</keyword>
-    <keyword>freeze frame</keyword>
-    <keyword>clair de lune</keyword>
-    <keyword>head crashes through a wall</keyword>
-    <keyword>head wound</keyword>
-    <keyword>husband slaps his wife</keyword>
-    <keyword>slapped in the face</keyword>
-    <keyword>cream cheese</keyword>
-    <keyword>half and half milk</keyword>
-    <keyword>drinking from a carton</keyword>
-    <keyword>man spits out food</keyword>
-    <keyword>temptation</keyword>
-    <keyword>mind fracturing</keyword>
-    <keyword>do not cross tape</keyword>
-    <keyword>morality</keyword>
-    <keyword>flash camera</keyword>
-    <keyword>camera</keyword>
-    <keyword>photographer</keyword>
-    <keyword>celebrity</keyword>
-    <keyword>luck</keyword>
-    <keyword>handcuffed woman</keyword>
-    <keyword>yellow caution tape</keyword>
-    <keyword>man slaps his own face</keyword>
-    <keyword>poverty</keyword>
-    <keyword>woman in handcuffs</keyword>
-    <keyword>cigarette smoking</keyword>
-    <keyword>speaking in a baby voice</keyword>
-    <keyword>man vomits tinsel</keyword>
-    <keyword>man disintegrates</keyword>
-    <keyword>mustached man</keyword>
-    <keyword>man wears a carmen miranda dress</keyword>
-    <keyword>shooting</keyword>
-    <keyword>shooting a woman</keyword>
-    <keyword>organic ketchup</keyword>
-    <keyword>billy club</keyword>
-    <keyword>woman hits a man</keyword>
-    <keyword>woman punches a man</keyword>
-    <keyword>hit in the face</keyword>
-    <keyword>pursuit</keyword>
-    <keyword>golf club</keyword>
-    <keyword>woman drags a man on the floor</keyword>
-    <keyword>tattoo</keyword>
-    <keyword>parody</keyword>
-    <keyword>elongated finger</keyword>
-    <keyword>william tell overture</keyword>
-    <keyword>framed photograph</keyword>
-    <keyword>earphones</keyword>
-    <keyword>bollywood parody</keyword>
-    <keyword>man sticks his fingers in a woman's mouth</keyword>
-    <keyword>woman sticks her fingers in a man's mouth</keyword>
-    <keyword>opening one's mind</keyword>
-    <keyword>nothingness</keyword>
-    <keyword>banging on a door</keyword>
-    <keyword>guilt</keyword>
-    <keyword>man uses a motorized wheelchair</keyword>
-    <keyword>motorized wheelchair</keyword>
-    <keyword>monster</keyword>
-    <keyword>bigger dreams</keyword>
-    <keyword>alphaverse</keyword>
-    <keyword>mind control</keyword>
-    <keyword>woman taped to a chair</keyword>
-    <keyword>golf outfit</keyword>
-    <keyword>woman wears a golf outfit</keyword>
-    <keyword>sacrifice</keyword>
-    <keyword>pointing a gun at someone</keyword>
-    <keyword>woman imitates a birdcall</keyword>
-    <keyword>imitating a birdcall</keyword>
-    <keyword>father points a gun at his daughter's forehead</keyword>
-    <keyword>pointing a gun at someone' forehead</keyword>
-    <keyword>painting</keyword>
-    <keyword>painting hanging on a door</keyword>
-    <keyword>sadness</keyword>
-    <keyword>reference to chewbacca</keyword>
-    <keyword>reference to star wars</keyword>
-    <keyword>ave maria</keyword>
-    <keyword>man photocopies his butt</keyword>
-    <keyword>traditional chinese singer</keyword>
-    <keyword>sword</keyword>
-    <keyword>slow motion fight scene</keyword>
-    <keyword>american flag</keyword>
-    <keyword>man does the splits</keyword>
-    <keyword>jumper</keyword>
-    <keyword>rescue</keyword>
-    <keyword>refrigerator</keyword>
-    <keyword>orange juice</keyword>
-    <keyword>drinking from a bottle</keyword>
-    <keyword>woman kicks a dog</keyword>
-    <keyword>woman tosses a dog</keyword>
-    <keyword>knife</keyword>
-    <keyword>wooden spoon</keyword>
-    <keyword>hit on the head</keyword>
-    <keyword>chinese restaurant</keyword>
-    <keyword>throwing a computer</keyword>
-    <keyword>chop socky</keyword>
-    <keyword>man unzips his fly</keyword>
-    <keyword>man drops his pants</keyword>
-    <keyword>man wears white briefs</keyword>
-    <keyword>man sticks a trophy up his butt</keyword>
-    <keyword>difficulty breathing</keyword>
-    <keyword>woman blows on a man's nose</keyword>
-    <keyword>butt plug</keyword>
-    <keyword>pantsless man</keyword>
-    <keyword>theater audience</keyword>
-    <keyword>men's singing trio</keyword>
-    <keyword>father threatens to murder his daughter</keyword>
-    <keyword>explosion</keyword>
-    <keyword>dying</keyword>
-    <keyword>death of husband</keyword>
-    <keyword>death of wife</keyword>
-    <keyword>party decorations</keyword>
-    <keyword>calling for help</keyword>
-    <keyword>the end title card within the film</keyword>
-    <keyword>hit by a car</keyword>
-    <keyword>restaurant kitchen</keyword>
-    <keyword>chinese opera</keyword>
-    <keyword>prison</keyword>
-    <keyword>woman wears a black and white prison uniform</keyword>
-    <keyword>woman falls to the ground</keyword>
-    <keyword>woman spits</keyword>
-    <keyword>woman asks to be hit</keyword>
-    <keyword>mother daughter fight</keyword>
-    <keyword>cartoon book</keyword>
-    <keyword>trapped</keyword>
-    <keyword>repeated scene</keyword>
-    <keyword>woman wears a bandana on her head</keyword>
-    <keyword>freedom</keyword>
-    <keyword>microphone</keyword>
-    <keyword>happy new year</keyword>
-    <keyword>dragon costume</keyword>
-    <keyword>seizure of personal assets</keyword>
-    <keyword>thunder</keyword>
-    <keyword>hands on throat</keyword>
-    <keyword>text on screen</keyword>
-    <keyword>joy</keyword>
-    <keyword>woman smashes a window</keyword>
-    <keyword>woman destroys a laundromat</keyword>
-    <keyword>stabbing</keyword>
-    <keyword>stabbed with a glass shard</keyword>
-    <keyword>distorted sound</keyword>
-    <keyword>cat</keyword>
-    <keyword>blood coming out of eyes</keyword>
-    <keyword>gas mask</keyword>
-    <keyword>nun</keyword>
-    <keyword>skull</keyword>
-    <keyword>face mask</keyword>
-    <keyword>woman wears goggles</keyword>
-    <keyword>grape</keyword>
-    <keyword>drag queen</keyword>
-    <keyword>dialogue in text on screen</keyword>
-    <keyword>threatened with a box cutter</keyword>
-    <keyword>talking rock</keyword>
-    <keyword>statue</keyword>
-    <keyword>female priest</keyword>
-    <keyword>face on a tree</keyword>
-    <keyword>illuminati</keyword>
-    <keyword>tennis</keyword>
-    <keyword>mother and daughter hold hands</keyword>
-    <keyword>hand holding</keyword>
-    <keyword>statistical inevitability</keyword>
-    <keyword>singing</keyword>
-    <keyword>survival</keyword>
-    <keyword>strobe light</keyword>
-    <keyword>heartbreak</keyword>
-    <keyword>husband wife embrace</keyword>
-    <keyword>distorted image</keyword>
-    <keyword>strangulation</keyword>
-    <keyword>third eye</keyword>
-    <keyword>scissors</keyword>
-    <keyword>bride and groom</keyword>
-    <keyword>x ray</keyword>
-    <keyword>belt</keyword>
-    <keyword>falling down stairs</keyword>
-    <keyword>pulled by one's hair</keyword>
-    <keyword>man carries a woman on his shoulders</keyword>
-    <keyword>doll</keyword>
-    <keyword>stubbornness</keyword>
-    <keyword>urination</keyword>
-    <keyword>peace</keyword>
-    <keyword>crying</keyword>
-    <keyword>tears</keyword>
-    <keyword>discovery</keyword>
-    <keyword>vaping</keyword>
-    <keyword>woman carries a man on her shoulders</keyword>
-    <keyword>rocket</keyword>
-    <keyword>man flies in the air</keyword>
-    <keyword>mother daughter embrace</keyword>
-    <keyword>mother and daughter touch foreheads</keyword>
-    <keyword>wetting oneself</keyword>
-    <keyword>no opening credits</keyword>
-    <keyword>irs agent</keyword>
-    <keyword>one fights many</keyword>
-    <keyword>pixelated nudity</keyword>
-    <keyword>homosexual slur</keyword>
-    <keyword>apple</keyword>
-    <keyword>nosebleed</keyword>
-    <keyword>close up of eye</keyword>
-    <keyword>male police officer</keyword>
-    <keyword>samba</keyword>
-    <keyword>police officer</keyword>
-    <keyword>cigarette</keyword>
-    <keyword>chapter headings</keyword>
-    <keyword>three parts</keyword>
-    <keyword>washing machine</keyword>
-    <keyword>title appears in writing</keyword>
-    <keyword>cliff</keyword>
-    <keyword>suicidal thoughts</keyword>
-    <keyword>husband</keyword>
-    <keyword>wife</keyword>
-    <keyword>bearded man</keyword>
-    <keyword>post modernism</keyword>
-    <keyword>satire comedy</keyword>
-    <keyword>woman wears vinyl pants</keyword>
-    <keyword>vinyl pants</keyword>
-    <keyword>shiny glossy pants</keyword>
-    <keyword>woman wears shiny glossy pants</keyword>
-    <keyword>woman knocked unconscious</keyword>
-    <keyword>man knocked unconscious</keyword>
-    <keyword>female security guard fight</keyword>
-    <keyword>woman fights against a man</keyword>
-    <keyword>woman fights against a woman</keyword>
-    <keyword>man injures his shoulder</keyword>
-    <keyword>five word title</keyword>
-    <keyword>subtitles</keyword>
-    <keyword>wearing the wrong shoe on the wrong foot</keyword>
-    <keyword>story within a story</keyword>
-    <keyword>tax problems</keyword>
-    <keyword>opening an umbrella indoors</keyword>
-    <keyword>disapproving mother</keyword>
-    <keyword>other universes</keyword>
-    <keyword>man in wheelchair</keyword>
-    <keyword>fake blood</keyword>
-    <keyword>planning a party</keyword>
-    <keyword>post it note</keyword>
-    <keyword>jumping between universes</keyword>
-    <keyword>camper van</keyword>
-    <keyword>gay interest</keyword>
-    <keyword>lgbt interest</keyword>
-    <keyword>lgbt character</keyword>
-    <keyword>disapproving parents</keyword>
-    <keyword>character says i love you</keyword>
-    <keyword>talking about love</keyword>
-    <keyword>lesbian interest</keyword>
-    <keyword>special effects</keyword>
-    <keyword>visual effects</keyword>
-    <keyword>taser</keyword>
-    <keyword>walking a pig</keyword>
-    <keyword>pig on a leash</keyword>
-    <keyword>confused character</keyword>
-    <keyword>confused wife</keyword>
-    <keyword>confused woman</keyword>
-    <keyword>stop motion</keyword>
-    <keyword>same sex kiss</keyword>
-    <keyword>queer character</keyword>
-    <keyword>lesbian daughter</keyword>
-    <keyword>woman kisses a woman</keyword>
-    <keyword>reference to william tell</keyword>
-    <keyword>multiple universes</keyword>
-    <keyword>prejudice</keyword>
-    <keyword>homophobia</keyword>
-    <keyword>messy desk</keyword>
-    <keyword>slow motion</keyword>
-    <keyword>parallel universe</keyword>
-    <keyword>nonlinear</keyword>
-    <keyword>non linear</keyword>
-    <keyword>nonlinear timeline</keyword>
-    <keyword>nonlinear timeframe</keyword>
-    <keyword>non linear timeline</keyword>
-    <keyword>non linear narrative</keyword>
-    <keyword>nonlinear narrative</keyword>
-    <keyword>faking senility</keyword>
-    <keyword>fake dementia</keyword>
-    <keyword>dysfunctional family</keyword>
-    <keyword>faking disability</keyword>
-    <keyword>nonlinear time frame</keyword>
-    <keyword>nonlinear story</keyword>
-    <keyword>non linear story</keyword>
-    <keyword>multiple realities</keyword>
-    <keyword>conspiring characters</keyword>
-    <keyword>conspirational characters</keyword>
-    <keyword>fake phallus</keyword>
-    <keyword>rubber phallus</keyword>
-    <keyword>fake eye</keyword>
-    <keyword>conspiring</keyword>
-    <keyword>rubber sex toy</keyword>
-    <keyword>spinning laundry</keyword>
-    <keyword>gay slur</keyword>
-    <keyword>homophobic</keyword>
-    <keyword>homophobic slur</keyword>
-    <keyword>hypnotizing</keyword>
-    <keyword>commercial laundry machine</keyword>
-    <keyword>commercial laundry</keyword>
-    <keyword>coin operated laundry</keyword>
-    <keyword>coin operated machine</keyword>
-    <keyword>coin operated</keyword>
-    <keyword>coin op laundry</keyword>
-    <keyword>coin laundry</keyword>
-    <keyword>coin laundry machine</keyword>
-    <keyword>blood streaming</keyword>
-    <keyword>bookkeeping</keyword>
-    <keyword>keeping the books</keyword>
-    <keyword>family business</keyword>
-    <keyword>ledger</keyword>
-    <keyword>tax accounting</keyword>
-    <keyword>accounting fraud</keyword>
-    <keyword>creative accounting</keyword>
-    <keyword>parody comedy</keyword>
-    <keyword>earth in jeopardy</keyword>
-    <keyword>violence</keyword>
-    <keyword>black hole</keyword>
-    <keyword>ex boyfriend ex girlfriend relationship</keyword>
-    <keyword>girlfriend breaks up with boyfriend</keyword>
-    <keyword>lesbian character</keyword>
-    <keyword>pig</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.</plot>
-  <producer>
-    <producer> Virginie Besson-Silla</producer>
-    <producer> Allison Rose Carter</producer>
-    <producer> Sarah Finn</producer>
-    <producer> Tim Headington</producer>
-    <producer> Daniel Kwan</producer>
-    <producer> Mike Larocca</producer>
-    <producer> Todd Makurath</producer>
-    <producer> Theresa Steele Page</producer>
-    <producer> Jon Read</producer>
-    <producer> Josh Rudnick</producer>
-    <producer> Anthony Russo</producer>
-    <producer> Joe Russo</producer>
-    <producer> Daniel Scheinert</producer>
-    <producer> Jonathan Wang</producer>
-    <producer> Michelle Yeoh</producer>
-  </producer>
-  <releasedates>May 13, 2022 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>139</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Dolby Digital</soundmixe>
-  </soundmixes>
-  <title>Everything Everywhere All at Once</title>
-  <type>movie</type>
-  <writer>
-    <writer> Daniel Kwan</writer>
-    <writer> Daniel Scheinert</writer>
-  </writer>
-  <year>2022</year>
+<?xml version="1.0" ?>
+<doc id="tt6710474">
+	<docid>tt6710474</docid>
+	<title>Everything Everywhere All at Once</title>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">139</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Michelle Yeoh</actor>
+			<role>Evelyn Wang</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Hsu</actor>
+			<role>Joy Wang</role>
+		</credit>
+		<credit>
+			<actor>Jamie Lee Curtis</actor>
+			<role>Deirdre Beaubeirdre</role>
+		</credit>
+		<credit>
+			<actor>Ke Huy Quan</actor>
+			<role>Waymond Wang</role>
+		</credit>
+		<credit>
+			<actor>James Hong</actor>
+			<role>Gong Gong</role>
+		</credit>
+		<credit>
+			<actor>Tallie Medel</actor>
+			<role>Becky Sregor</role>
+		</credit>
+		<credit>
+			<actor>Jenny Slate</actor>
+			<role>Debbie the Dog Mom</role>
+		</credit>
+		<credit>
+			<actor>Harry Shum Jr.</actor>
+			<role>Chad</role>
+		</credit>
+		<credit>
+			<actor>Biff Wiff</actor>
+			<role>Rick</role>
+		</credit>
+		<credit>
+			<actor>Sunita Mani</actor>
+			<role>TV Musical - Queen</role>
+		</credit>
+		<credit>
+			<actor>Aaron Lazar</actor>
+			<role>TV Musical - Soldier</role>
+		</credit>
+		<credit>
+			<actor>Brian Le</actor>
+			<role>Alpha Jumper - Trophy</role>
+		</credit>
+		<credit>
+			<actor>Andy Le</actor>
+			<role>Alpha Jumper - Bigger Trophy</role>
+		</credit>
+		<credit>
+			<actor>Narayana Cabral</actor>
+			<role>Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Chelsey Goldsmith</actor>
+			<role>Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Craig Henningsen</actor>
+			<role>Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Anthony Molinari</actor>
+			<role>Police - Confetti</role>
+		</credit>
+		<credit>
+			<actor>Dan Brown</actor>
+			<role>Police - Salsa</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 11 2022</releasedate>
+		<releasedate country="Malaysia">March 24 2022</releasedate>
+		<releasedate country="Singapore">March 24 2022</releasedate>
+		<releasedate country="Canada">March 25 2022</releasedate>
+		<releasedate country="Indonesia">March 25 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Belgium">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">Not Rated</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-15</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Iceland">Unrated</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Saudi Arabia">(Banned)</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">12+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">Not Rated</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>multiverse</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>chinese</keyword>
+		<keyword>nihilism</keyword>
+		<keyword>saving the world</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>bagel</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>laundromat</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>life flashes before eyes</keyword>
+		<keyword>pixelated male nudity</keyword>
+		<keyword>reference to ratatouille</keyword>
+		<keyword>lgbt</keyword>
+		<keyword>googly eye</keyword>
+		<keyword>chinese new year</keyword>
+		<keyword>alternate timeline</keyword>
+		<keyword>alternate universe</keyword>
+		<keyword>kung fu</keyword>
+		<keyword>asian american</keyword>
+		<keyword>fanny pack</keyword>
+		<keyword>dildo</keyword>
+		<keyword>playing piano with feet</keyword>
+		<keyword>alternate life</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>film within a film</keyword>
+		<keyword>lesbian</keyword>
+		<keyword>irs</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>chef</keyword>
+		<keyword>audit</keyword>
+		<keyword>love</keyword>
+		<keyword>mirror</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>blinded by accident</keyword>
+		<keyword>spinning a sign</keyword>
+		<keyword>movie star</keyword>
+		<keyword>movie theater</keyword>
+		<keyword>alternate version of self</keyword>
+		<keyword>alternate version of someone</keyword>
+		<keyword>chinese immigrant</keyword>
+		<keyword>chinese american</keyword>
+		<keyword>income tax audit</keyword>
+		<keyword>tax audit</keyword>
+		<keyword>earpiece</keyword>
+		<keyword>kindness</keyword>
+		<keyword>girlfriend girlfriend relationship</keyword>
+		<keyword>small business</keyword>
+		<keyword>broken english</keyword>
+		<keyword>chapstick</keyword>
+		<keyword>rock</keyword>
+		<keyword>canyon</keyword>
+		<keyword>singer</keyword>
+		<keyword>receipt</keyword>
+		<keyword>bureaucrat</keyword>
+		<keyword>pinky</keyword>
+		<keyword>generational conflict</keyword>
+		<keyword>raccoon</keyword>
+		<keyword>talking raccoon</keyword>
+		<keyword>paper cut</keyword>
+		<keyword>sex toy</keyword>
+		<keyword>ball gag</keyword>
+		<keyword>bdsm</keyword>
+		<keyword>spanking</keyword>
+		<keyword>lesbian couple</keyword>
+		<keyword>mark on forehead</keyword>
+		<keyword>disapproving father</keyword>
+		<keyword>path of life</keyword>
+		<keyword>branching paths</keyword>
+		<keyword>improvised weapon</keyword>
+		<keyword>laundry</keyword>
+		<keyword>odd behaviour</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>death</keyword>
+		<keyword>playing piano</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>female female kiss</keyword>
+		<keyword>written by director</keyword>
+		<keyword>internal revenue service</keyword>
+		<keyword>dominatrix</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>professional singer</keyword>
+		<keyword>push ups</keyword>
+		<keyword>woman does push ups</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>secret room</keyword>
+		<keyword>divorce papers</keyword>
+		<keyword>janitor's closet</keyword>
+		<keyword>dog</keyword>
+		<keyword>pinata</keyword>
+		<keyword>stapler</keyword>
+		<keyword>skill set</keyword>
+		<keyword>movie premiere</keyword>
+		<keyword>trophy</keyword>
+		<keyword>hibachi restaurant</keyword>
+		<keyword>puppeteer</keyword>
+		<keyword>sitting on someone's shoulders</keyword>
+		<keyword>animal control</keyword>
+		<keyword>learning the truth</keyword>
+		<keyword>box cutter</keyword>
+		<keyword>taped to a chair</keyword>
+		<keyword>party</keyword>
+		<keyword>lunar new year</keyword>
+		<keyword>new year party</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>police</keyword>
+		<keyword>no rules</keyword>
+		<keyword>protective mother</keyword>
+		<keyword>maternal love</keyword>
+		<keyword>flashback</keyword>
+		<keyword>alternate history</keyword>
+		<keyword>alternative timeline</keyword>
+		<keyword>concert singer</keyword>
+		<keyword>de escalation</keyword>
+		<keyword>video monitor</keyword>
+		<keyword>security camera feed</keyword>
+		<keyword>security camera footage</keyword>
+		<keyword>sign</keyword>
+		<keyword>unfulfilled ambition</keyword>
+		<keyword>van</keyword>
+		<keyword>urn</keyword>
+		<keyword>cubicle</keyword>
+		<keyword>fishbowl</keyword>
+		<keyword>evolution</keyword>
+		<keyword>dawn of man</keyword>
+		<keyword>ape</keyword>
+		<keyword>ape costume</keyword>
+		<keyword>bdsm fetish</keyword>
+		<keyword>office</keyword>
+		<keyword>children's book</keyword>
+		<keyword>dr. seuss spoof</keyword>
+		<keyword>sign spinner</keyword>
+		<keyword>dog on leash</keyword>
+		<keyword>shoe on wrong foot</keyword>
+		<keyword>uncharacteristic behavior</keyword>
+		<keyword>elevator</keyword>
+		<keyword>fracture</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>positivity</keyword>
+		<keyword>assaulting a police officer</keyword>
+		<keyword>mexican</keyword>
+		<keyword>hand over mouth</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>distraction</keyword>
+		<keyword>mexican american</keyword>
+		<keyword>asian</keyword>
+		<keyword>asian stereotype</keyword>
+		<keyword>racial stereotype</keyword>
+		<keyword>irs internal revenue service</keyword>
+		<keyword>woman spanks a man</keyword>
+		<keyword>midlife crisis</keyword>
+		<keyword>headset</keyword>
+		<keyword>security guard</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>murder</keyword>
+		<keyword>memory</keyword>
+		<keyword>happiness</keyword>
+		<keyword>kiss</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>mandarin</keyword>
+		<keyword>noodles</keyword>
+		<keyword>white paint</keyword>
+		<keyword>cantonese</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>nickname</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>doorbell</keyword>
+		<keyword>chopsticks the eating utensil</keyword>
+		<keyword>lien</keyword>
+		<keyword>perfume</keyword>
+		<keyword>widower</keyword>
+		<keyword>google eyes</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dancing</keyword>
+		<keyword>aspiring actor</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>laughter</keyword>
+		<keyword>telling a joke</keyword>
+		<keyword>old man</keyword>
+		<keyword>old man wears pajamas</keyword>
+		<keyword>old man uses a cane</keyword>
+		<keyword>grandfather granddaughter relationship</keyword>
+		<keyword>breakfast</keyword>
+		<keyword>parking lot</keyword>
+		<keyword>stairway</keyword>
+		<keyword>cookie</keyword>
+		<keyword>old man uses a wheelchair</keyword>
+		<keyword>section headings in text on screen</keyword>
+		<keyword>kiss on the cheek</keyword>
+		<keyword>girl</keyword>
+		<keyword>shushing someone</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>apology</keyword>
+		<keyword>crying baby</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>first love</keyword>
+		<keyword>woman vomits</keyword>
+		<keyword>fast motion scene</keyword>
+		<keyword>woman vomits into a sink</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>baby girl</keyword>
+		<keyword>novelist</keyword>
+		<keyword>tax liability</keyword>
+		<keyword>teacher</keyword>
+		<keyword>singing coach</keyword>
+		<keyword>watsu technician</keyword>
+		<keyword>evil</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>man places his hand over a woman's mouth</keyword>
+		<keyword>taxes</keyword>
+		<keyword>fate</keyword>
+		<keyword>fear</keyword>
+		<keyword>split screen</keyword>
+		<keyword>mop</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>woman hits a woman</keyword>
+		<keyword>screaming woman</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>woman punches a woman</keyword>
+		<keyword>assault</keyword>
+		<keyword>promise</keyword>
+		<keyword>bald headed man</keyword>
+		<keyword>eating chapstick</keyword>
+		<keyword>fight</keyword>
+		<keyword>man kicks a man</keyword>
+		<keyword>gun</keyword>
+		<keyword>stuffed animal toy</keyword>
+		<keyword>goldfish bowl</keyword>
+		<keyword>man carries a woman over his shoulder</keyword>
+		<keyword>husband carries his wife over his shoulder</keyword>
+		<keyword>female sovereign leader</keyword>
+		<keyword>montage</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>woman sucks on a baby pacifier</keyword>
+		<keyword>woman dresses as a baby</keyword>
+		<keyword>bar</keyword>
+		<keyword>bruised face</keyword>
+		<keyword>simi valley california</keyword>
+		<keyword>tv news</keyword>
+		<keyword>woman wears a hoodie</keyword>
+		<keyword>hiding</keyword>
+		<keyword>hiding under a desk</keyword>
+		<keyword>verse jumping</keyword>
+		<keyword>chewing gum</keyword>
+		<keyword>running man</keyword>
+		<keyword>running woman</keyword>
+		<keyword>blinking light</keyword>
+		<keyword>chaos</keyword>
+		<keyword>female gymnast</keyword>
+		<keyword>computer</keyword>
+		<keyword>animated scene</keyword>
+		<keyword>blood</keyword>
+		<keyword>head butt</keyword>
+		<keyword>male female fight</keyword>
+		<keyword>woman lifts a man into the air</keyword>
+		<keyword>pain</keyword>
+		<keyword>exit sign</keyword>
+		<keyword>shoulder injury</keyword>
+		<keyword>switching shoes</keyword>
+		<keyword>algorithm</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>female female fight</keyword>
+		<keyword>woman throws a woman</keyword>
+		<keyword>crying man</keyword>
+		<keyword>crossing fingers to make a cross</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>praying</keyword>
+		<keyword>pride</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>balcony</keyword>
+		<keyword>kung fu master</keyword>
+		<keyword>actress</keyword>
+		<keyword>dressing room</keyword>
+		<keyword>applying makeup</keyword>
+		<keyword>red carpet</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>clair de lune</keyword>
+		<keyword>head crashes through a wall</keyword>
+		<keyword>head wound</keyword>
+		<keyword>husband slaps his wife</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>cream cheese</keyword>
+		<keyword>half and half milk</keyword>
+		<keyword>drinking from a carton</keyword>
+		<keyword>man spits out food</keyword>
+		<keyword>temptation</keyword>
+		<keyword>mind fracturing</keyword>
+		<keyword>do not cross tape</keyword>
+		<keyword>morality</keyword>
+		<keyword>flash camera</keyword>
+		<keyword>camera</keyword>
+		<keyword>photographer</keyword>
+		<keyword>celebrity</keyword>
+		<keyword>luck</keyword>
+		<keyword>handcuffed woman</keyword>
+		<keyword>yellow caution tape</keyword>
+		<keyword>man slaps his own face</keyword>
+		<keyword>poverty</keyword>
+		<keyword>woman in handcuffs</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>speaking in a baby voice</keyword>
+		<keyword>man vomits tinsel</keyword>
+		<keyword>man disintegrates</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>man wears a carmen miranda dress</keyword>
+		<keyword>shooting</keyword>
+		<keyword>shooting a woman</keyword>
+		<keyword>organic ketchup</keyword>
+		<keyword>billy club</keyword>
+		<keyword>woman hits a man</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>hit in the face</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>golf club</keyword>
+		<keyword>woman drags a man on the floor</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>parody</keyword>
+		<keyword>elongated finger</keyword>
+		<keyword>william tell overture</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>earphones</keyword>
+		<keyword>bollywood parody</keyword>
+		<keyword>man sticks his fingers in a woman's mouth</keyword>
+		<keyword>woman sticks her fingers in a man's mouth</keyword>
+		<keyword>opening one's mind</keyword>
+		<keyword>nothingness</keyword>
+		<keyword>banging on a door</keyword>
+		<keyword>guilt</keyword>
+		<keyword>man uses a motorized wheelchair</keyword>
+		<keyword>motorized wheelchair</keyword>
+		<keyword>monster</keyword>
+		<keyword>bigger dreams</keyword>
+		<keyword>alphaverse</keyword>
+		<keyword>mind control</keyword>
+		<keyword>woman taped to a chair</keyword>
+		<keyword>golf outfit</keyword>
+		<keyword>woman wears a golf outfit</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>woman imitates a birdcall</keyword>
+		<keyword>imitating a birdcall</keyword>
+		<keyword>father points a gun at his daughter's forehead</keyword>
+		<keyword>pointing a gun at someone' forehead</keyword>
+		<keyword>painting</keyword>
+		<keyword>painting hanging on a door</keyword>
+		<keyword>sadness</keyword>
+		<keyword>reference to chewbacca</keyword>
+		<keyword>reference to star wars</keyword>
+		<keyword>ave maria</keyword>
+		<keyword>man photocopies his butt</keyword>
+		<keyword>traditional chinese singer</keyword>
+		<keyword>sword</keyword>
+		<keyword>slow motion fight scene</keyword>
+		<keyword>american flag</keyword>
+		<keyword>man does the splits</keyword>
+		<keyword>jumper</keyword>
+		<keyword>rescue</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>orange juice</keyword>
+		<keyword>drinking from a bottle</keyword>
+		<keyword>woman kicks a dog</keyword>
+		<keyword>woman tosses a dog</keyword>
+		<keyword>knife</keyword>
+		<keyword>wooden spoon</keyword>
+		<keyword>hit on the head</keyword>
+		<keyword>chinese restaurant</keyword>
+		<keyword>throwing a computer</keyword>
+		<keyword>chop socky</keyword>
+		<keyword>man unzips his fly</keyword>
+		<keyword>man drops his pants</keyword>
+		<keyword>man wears white briefs</keyword>
+		<keyword>man sticks a trophy up his butt</keyword>
+		<keyword>difficulty breathing</keyword>
+		<keyword>woman blows on a man's nose</keyword>
+		<keyword>butt plug</keyword>
+		<keyword>pantsless man</keyword>
+		<keyword>theater audience</keyword>
+		<keyword>men's singing trio</keyword>
+		<keyword>father threatens to murder his daughter</keyword>
+		<keyword>explosion</keyword>
+		<keyword>dying</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>party decorations</keyword>
+		<keyword>calling for help</keyword>
+		<keyword>the end title card within the film</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>restaurant kitchen</keyword>
+		<keyword>chinese opera</keyword>
+		<keyword>prison</keyword>
+		<keyword>woman wears a black and white prison uniform</keyword>
+		<keyword>woman falls to the ground</keyword>
+		<keyword>woman spits</keyword>
+		<keyword>woman asks to be hit</keyword>
+		<keyword>mother daughter fight</keyword>
+		<keyword>cartoon book</keyword>
+		<keyword>trapped</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>woman wears a bandana on her head</keyword>
+		<keyword>freedom</keyword>
+		<keyword>microphone</keyword>
+		<keyword>happy new year</keyword>
+		<keyword>dragon costume</keyword>
+		<keyword>seizure of personal assets</keyword>
+		<keyword>thunder</keyword>
+		<keyword>hands on throat</keyword>
+		<keyword>text on screen</keyword>
+		<keyword>joy</keyword>
+		<keyword>woman smashes a window</keyword>
+		<keyword>woman destroys a laundromat</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>stabbed with a glass shard</keyword>
+		<keyword>distorted sound</keyword>
+		<keyword>cat</keyword>
+		<keyword>blood coming out of eyes</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>nun</keyword>
+		<keyword>skull</keyword>
+		<keyword>face mask</keyword>
+		<keyword>woman wears goggles</keyword>
+		<keyword>grape</keyword>
+		<keyword>drag queen</keyword>
+		<keyword>dialogue in text on screen</keyword>
+		<keyword>threatened with a box cutter</keyword>
+		<keyword>talking rock</keyword>
+		<keyword>statue</keyword>
+		<keyword>female priest</keyword>
+		<keyword>face on a tree</keyword>
+		<keyword>illuminati</keyword>
+		<keyword>tennis</keyword>
+		<keyword>mother and daughter hold hands</keyword>
+		<keyword>hand holding</keyword>
+		<keyword>statistical inevitability</keyword>
+		<keyword>singing</keyword>
+		<keyword>survival</keyword>
+		<keyword>strobe light</keyword>
+		<keyword>heartbreak</keyword>
+		<keyword>husband wife embrace</keyword>
+		<keyword>distorted image</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>third eye</keyword>
+		<keyword>scissors</keyword>
+		<keyword>bride and groom</keyword>
+		<keyword>x ray</keyword>
+		<keyword>belt</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>pulled by one's hair</keyword>
+		<keyword>man carries a woman on his shoulders</keyword>
+		<keyword>doll</keyword>
+		<keyword>stubbornness</keyword>
+		<keyword>urination</keyword>
+		<keyword>peace</keyword>
+		<keyword>crying</keyword>
+		<keyword>tears</keyword>
+		<keyword>discovery</keyword>
+		<keyword>vaping</keyword>
+		<keyword>woman carries a man on her shoulders</keyword>
+		<keyword>rocket</keyword>
+		<keyword>man flies in the air</keyword>
+		<keyword>mother daughter embrace</keyword>
+		<keyword>mother and daughter touch foreheads</keyword>
+		<keyword>wetting oneself</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>irs agent</keyword>
+		<keyword>one fights many</keyword>
+		<keyword>pixelated nudity</keyword>
+		<keyword>homosexual slur</keyword>
+		<keyword>apple</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>samba</keyword>
+		<keyword>police officer</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>chapter headings</keyword>
+		<keyword>three parts</keyword>
+		<keyword>washing machine</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>cliff</keyword>
+		<keyword>suicidal thoughts</keyword>
+		<keyword>husband</keyword>
+		<keyword>wife</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>post modernism</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>woman wears vinyl pants</keyword>
+		<keyword>vinyl pants</keyword>
+		<keyword>shiny glossy pants</keyword>
+		<keyword>woman wears shiny glossy pants</keyword>
+		<keyword>woman knocked unconscious</keyword>
+		<keyword>man knocked unconscious</keyword>
+		<keyword>female security guard fight</keyword>
+		<keyword>woman fights against a man</keyword>
+		<keyword>woman fights against a woman</keyword>
+		<keyword>man injures his shoulder</keyword>
+		<keyword>five word title</keyword>
+		<keyword>subtitles</keyword>
+		<keyword>wearing the wrong shoe on the wrong foot</keyword>
+		<keyword>story within a story</keyword>
+		<keyword>tax problems</keyword>
+		<keyword>opening an umbrella indoors</keyword>
+		<keyword>disapproving mother</keyword>
+		<keyword>other universes</keyword>
+		<keyword>man in wheelchair</keyword>
+		<keyword>fake blood</keyword>
+		<keyword>planning a party</keyword>
+		<keyword>post it note</keyword>
+		<keyword>jumping between universes</keyword>
+		<keyword>camper van</keyword>
+		<keyword>gay interest</keyword>
+		<keyword>lgbt interest</keyword>
+		<keyword>lgbt character</keyword>
+		<keyword>disapproving parents</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>talking about love</keyword>
+		<keyword>lesbian interest</keyword>
+		<keyword>special effects</keyword>
+		<keyword>visual effects</keyword>
+		<keyword>taser</keyword>
+		<keyword>walking a pig</keyword>
+		<keyword>pig on a leash</keyword>
+		<keyword>confused character</keyword>
+		<keyword>confused wife</keyword>
+		<keyword>confused woman</keyword>
+		<keyword>stop motion</keyword>
+		<keyword>same sex kiss</keyword>
+		<keyword>queer character</keyword>
+		<keyword>lesbian daughter</keyword>
+		<keyword>woman kisses a woman</keyword>
+		<keyword>reference to william tell</keyword>
+		<keyword>multiple universes</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>homophobia</keyword>
+		<keyword>messy desk</keyword>
+		<keyword>slow motion</keyword>
+		<keyword>parallel universe</keyword>
+		<keyword>nonlinear</keyword>
+		<keyword>non linear</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>nonlinear timeframe</keyword>
+		<keyword>non linear timeline</keyword>
+		<keyword>non linear narrative</keyword>
+		<keyword>nonlinear narrative</keyword>
+		<keyword>faking senility</keyword>
+		<keyword>fake dementia</keyword>
+		<keyword>dysfunctional family</keyword>
+		<keyword>faking disability</keyword>
+		<keyword>nonlinear time frame</keyword>
+		<keyword>nonlinear story</keyword>
+		<keyword>non linear story</keyword>
+		<keyword>multiple realities</keyword>
+		<keyword>conspiring characters</keyword>
+		<keyword>conspirational characters</keyword>
+		<keyword>fake phallus</keyword>
+		<keyword>rubber phallus</keyword>
+		<keyword>fake eye</keyword>
+		<keyword>conspiring</keyword>
+		<keyword>rubber sex toy</keyword>
+		<keyword>spinning laundry</keyword>
+		<keyword>gay slur</keyword>
+		<keyword>homophobic</keyword>
+		<keyword>homophobic slur</keyword>
+		<keyword>hypnotizing</keyword>
+		<keyword>commercial laundry machine</keyword>
+		<keyword>commercial laundry</keyword>
+		<keyword>coin operated laundry</keyword>
+		<keyword>coin operated machine</keyword>
+		<keyword>coin operated</keyword>
+		<keyword>coin op laundry</keyword>
+		<keyword>coin laundry</keyword>
+		<keyword>coin laundry machine</keyword>
+		<keyword>blood streaming</keyword>
+		<keyword>bookkeeping</keyword>
+		<keyword>keeping the books</keyword>
+		<keyword>family business</keyword>
+		<keyword>ledger</keyword>
+		<keyword>tax accounting</keyword>
+		<keyword>accounting fraud</keyword>
+		<keyword>creative accounting</keyword>
+		<keyword>parody comedy</keyword>
+		<keyword>earth in jeopardy</keyword>
+		<keyword>violence</keyword>
+		<keyword>black hole</keyword>
+		<keyword>ex boyfriend ex girlfriend relationship</keyword>
+		<keyword>girlfriend breaks up with boyfriend</keyword>
+		<keyword>lesbian character</keyword>
+		<keyword>pig</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Kwan</director>
+		<director> Daniel Scheinert</director>
+	</directors>
+	<composers>
+		<composer> Son Lux</composer>
+	</composers>
+	<producers>
+		<producer> Virginie Besson-Silla</producer>
+		<producer> Allison Rose Carter</producer>
+		<producer> Sarah Finn</producer>
+		<producer> Tim Headington</producer>
+		<producer> Daniel Kwan</producer>
+		<producer> Mike Larocca</producer>
+		<producer> Todd Makurath</producer>
+		<producer> Theresa Steele Page</producer>
+		<producer> Jon Read</producer>
+		<producer> Josh Rudnick</producer>
+		<producer> Anthony Russo</producer>
+		<producer> Joe Russo</producer>
+		<producer> Daniel Scheinert</producer>
+		<producer> Jonathan Wang</producer>
+		<producer> Michelle Yeoh</producer>
+	</producers>
+	<writers>
+		<writer> Daniel Kwan</writer>
+		<writer> Daniel Scheinert</writer>
+	</writers>
+	<editors>
+		<editor> Paul Rogers</editor>
+	</editors>
 </doc>

@@ -1,177 +1,182 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Brendan Fraser</actor>
-      
-      
-        <role>Charlie</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Sadie Sink</actor>
-      
-      
-        <role>Ellie</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ty Simpkins</actor>
-      
-      
-        <role>Thomas</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Hong Chau</actor>
-      
-      
-        <role>Liz</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Samantha Morton</actor>
-      
-      
-        <role>Mary</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Sathya Sridharan</actor>
-      
-      
-        <role>Dan the Pizza Man</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jacey Sink</actor>
-      
-      
-        <role>Young Ellie</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Wilhelm Schalaudek</actor>
-      
-      
-        <role>Liam</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>15</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Rob Simonsen</composer>
-  </composer>
-  <countries>United States</countries>
-  <director>
-    <director> Darren Aronofsky</director>
-  </director>
-  <docid>tt13833688</docid>
-  <editor>
-    <editor> Andrew Weisblum</editor>
-  </editor>
-  <genres>
-    <genre>Drama</genre>
-  </genres>
-  <keywords>
-    <keyword>overweight man</keyword>
-    <keyword>congestive heart failure</keyword>
-    <keyword>pizza</keyword>
-    <keyword>gay character</keyword>
-    <keyword>17 year old</keyword>
-    <keyword>17 year old girl</keyword>
-    <keyword>domestic drama</keyword>
-    <keyword>caregiver</keyword>
-    <keyword>mother daughter relationship</keyword>
-    <keyword>missionary</keyword>
-    <keyword>brother sister relationship</keyword>
-    <keyword>food</keyword>
-    <keyword>eating</keyword>
-    <keyword>reference to herman melville</keyword>
-    <keyword>reference to moby dick the novel</keyword>
-    <keyword>reference to walt whitman</keyword>
-    <keyword>reference to leaves of grass the poem</keyword>
-    <keyword>bible</keyword>
-    <keyword>religion</keyword>
-    <keyword>dead brother</keyword>
-    <keyword>dead gay lover</keyword>
-    <keyword>photograph</keyword>
-    <keyword>self destructiveness</keyword>
-    <keyword>pizza delivery man</keyword>
-    <keyword>cell phone</keyword>
-    <keyword>smoking marijuana</keyword>
-    <keyword>man uses a wheelchair</keyword>
-    <keyword>man uses a walker</keyword>
-    <keyword>oxygen tube</keyword>
-    <keyword>cigarette smoking</keyword>
-    <keyword>ex husband ex wife relationship</keyword>
-    <keyword>8 year old</keyword>
-    <keyword>flashback</keyword>
-    <keyword>flash forward</keyword>
-    <keyword>taking a photograph with a cell phone</keyword>
-    <keyword>theft</keyword>
-    <keyword>difficulty breathing</keyword>
-    <keyword>male masturbation</keyword>
-    <keyword>watching gay porn on a computer</keyword>
-    <keyword>destroying a computer</keyword>
-    <keyword>split screen</keyword>
-    <keyword>8 year old girl</keyword>
-    <keyword>reference to a whale</keyword>
-    <keyword>crying man</keyword>
-    <keyword>crying woman</keyword>
-    <keyword>key</keyword>
-    <keyword>locked door</keyword>
-    <keyword>reacher grabber</keyword>
-    <keyword>man vomits</keyword>
-    <keyword>high school senior</keyword>
-    <keyword>obesity</keyword>
-    <keyword>idaho</keyword>
-    <keyword>reference to iowa</keyword>
-    <keyword>reference to waterloo iowa</keyword>
-    <keyword>fatphobia</keyword>
-    <keyword>gay</keyword>
-    <keyword>masturbation</keyword>
-    <keyword>fat man</keyword>
-    <keyword>screenplay adapted by author</keyword>
-    <keyword>man in a shower</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.</plot>
-  <producer>
-    <producer> Darren Aronofsky</producer>
-    <producer> Tyson Bidner</producer>
-    <producer> Jeremy Dawson</producer>
-    <producer> Scott Franklin</producer>
-    <producer> Dylan Golden</producer>
-    <producer> Ari Handel</producer>
-    <producer> Brendan Naylor</producer>
-    <producer> Jeff Robinson</producer>
-  </producer>
-  <releasedates>February 3, 2023 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>117</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Dolby Digital</soundmixe>
-  </soundmixes>
-  <title>The Whale</title>
-  <type>movie</type>
-  <writer>
-    <writer> Samuel D. Hunter</writer>
-    <writer> Samuel D. Hunter</writer>
-  </writer>
-  <year>2022</year>
+<?xml version="1.0" ?>
+<doc id="tt13833688">
+	<docid>tt13833688</docid>
+	<title>The Whale</title>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">117</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Brendan Fraser</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Sadie Sink</actor>
+			<role>Ellie</role>
+		</credit>
+		<credit>
+			<actor>Ty Simpkins</actor>
+			<role>Thomas</role>
+		</credit>
+		<credit>
+			<actor>Hong Chau</actor>
+			<role>Liz</role>
+		</credit>
+		<credit>
+			<actor>Samantha Morton</actor>
+			<role>Mary</role>
+		</credit>
+		<credit>
+			<actor>Sathya Sridharan</actor>
+			<role>Dan the Pizza Man</role>
+		</credit>
+		<credit>
+			<actor>Jacey Sink</actor>
+			<role>Young Ellie</role>
+		</credit>
+		<credit>
+			<actor>Wilhelm Schalaudek</actor>
+			<role>Liam</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">September 4 2022</releasedate>
+		<releasedate country="Canada">September 11 2022</releasedate>
+		<releasedate country="United States">October 8 2022</releasedate>
+		<releasedate country="United Kingdom">October 11 2022</releasedate>
+		<releasedate country="United States">October 13 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K-15</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>overweight man</keyword>
+		<keyword>congestive heart failure</keyword>
+		<keyword>pizza</keyword>
+		<keyword>gay character</keyword>
+		<keyword>17 year old</keyword>
+		<keyword>17 year old girl</keyword>
+		<keyword>domestic drama</keyword>
+		<keyword>caregiver</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>missionary</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>reference to herman melville</keyword>
+		<keyword>reference to moby dick the novel</keyword>
+		<keyword>reference to walt whitman</keyword>
+		<keyword>reference to leaves of grass the poem</keyword>
+		<keyword>bible</keyword>
+		<keyword>religion</keyword>
+		<keyword>dead brother</keyword>
+		<keyword>dead gay lover</keyword>
+		<keyword>photograph</keyword>
+		<keyword>self destructiveness</keyword>
+		<keyword>pizza delivery man</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>man uses a wheelchair</keyword>
+		<keyword>man uses a walker</keyword>
+		<keyword>oxygen tube</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>ex husband ex wife relationship</keyword>
+		<keyword>8 year old</keyword>
+		<keyword>flashback</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>taking a photograph with a cell phone</keyword>
+		<keyword>theft</keyword>
+		<keyword>difficulty breathing</keyword>
+		<keyword>male masturbation</keyword>
+		<keyword>watching gay porn on a computer</keyword>
+		<keyword>destroying a computer</keyword>
+		<keyword>split screen</keyword>
+		<keyword>8 year old girl</keyword>
+		<keyword>reference to a whale</keyword>
+		<keyword>crying man</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>key</keyword>
+		<keyword>locked door</keyword>
+		<keyword>reacher grabber</keyword>
+		<keyword>man vomits</keyword>
+		<keyword>high school senior</keyword>
+		<keyword>obesity</keyword>
+		<keyword>idaho</keyword>
+		<keyword>reference to iowa</keyword>
+		<keyword>reference to waterloo iowa</keyword>
+		<keyword>fatphobia</keyword>
+		<keyword>gay</keyword>
+		<keyword>masturbation</keyword>
+		<keyword>fat man</keyword>
+		<keyword>screenplay adapted by author</keyword>
+		<keyword>man in a shower</keyword>
+	</keywords>
+	<directors>
+		<director> Darren Aronofsky</director>
+	</directors>
+	<composers>
+		<composer> Rob Simonsen</composer>
+	</composers>
+	<producers>
+		<producer> Darren Aronofsky</producer>
+		<producer> Tyson Bidner</producer>
+		<producer> Jeremy Dawson</producer>
+		<producer> Scott Franklin</producer>
+		<producer> Dylan Golden</producer>
+		<producer> Ari Handel</producer>
+		<producer> Brendan Naylor</producer>
+		<producer> Jeff Robinson</producer>
+	</producers>
+	<writers>
+		<writer> Samuel D. Hunter</writer>
+		<writer> Samuel D. Hunter</writer>
+	</writers>
+	<editors>
+		<editor> Andrew Weisblum</editor>
+	</editors>
 </doc>

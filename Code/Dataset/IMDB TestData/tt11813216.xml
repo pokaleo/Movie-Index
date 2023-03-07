@@ -1,335 +1,307 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Colin Farrell</actor>
-      
-      
-        <role>Pádraic Súilleabháin</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Brendan Gleeson</actor>
-      
-      
-        <role>Colm Doherty</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kerry Condon</actor>
-      
-      
-        <role>Siobhán Súilleabháin</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Pat Shortt</actor>
-      
-      
-        <role>Jonjo Devine</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Gary Lydon</actor>
-      
-      
-        <role>Peadar Kearney</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jon Kenny</actor>
-      
-      
-        <role>Gerry</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Barry Keoghan</actor>
-      
-      
-        <role>Dominic Kearney</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Sheila Flitton</actor>
-      
-      
-        <role>Mrs. McCormick</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>John Carty</actor>
-      
-      
-        <role>Older Musician 1</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Oliver Farrelly</actor>
-      
-      
-        <role>Older Musician 2</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Lasaírfhiona Ní Chonaola</actor>
-      
-      
-        <role>Female Singer</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>David Pearse</actor>
-      
-      
-        <role>Priest</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Bríd Ní Neachtain</actor>
-      
-      
-        <role>Mrs. O'Riordan</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Aaron Monaghan</actor>
-      
-      
-        <role>Declan</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>James Carty</actor>
-      
-      
-        <role>Student Musician 1</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Conor Connolly</actor>
-      
-      
-        <role>Student Musician 2</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ryan Owens</actor>
-      
-      
-        <role>Student Musician 3</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jenny</actor>
-      
-      
-        <role>Jenny</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>15</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Carter Burwell</composer>
-  </composer>
-  <countries>United Kingdom</countries>
-  <director>
-    <director> Martin McDonagh</director>
-  </director>
-  <docid>tt11813216</docid>
-  <editor>
-    <editor> Mikkel E.G. Nielsen</editor>
-  </editor>
-  <genres>
-    <genre>Comedy</genre>
-    <genre>Drama</genre>
-  </genres>
-  <keywords>
-    <keyword>brother sister relationship</keyword>
-    <keyword>loneliness</keyword>
-    <keyword>cutting off a finger</keyword>
-    <keyword>fiddler</keyword>
-    <keyword>year 1923</keyword>
-    <keyword>friendship between men</keyword>
-    <keyword>end of friendship</keyword>
-    <keyword>death of an animal</keyword>
-    <keyword>self mutilation</keyword>
-    <keyword>male full frontal nudity</keyword>
-    <keyword>dark comedy</keyword>
-    <keyword>miniature donkey</keyword>
-    <keyword>severed finger</keyword>
-    <keyword>ireland</keyword>
-    <keyword>title spoken by character</keyword>
-    <keyword>brother and sister share a bedroom</keyword>
-    <keyword>donkey</keyword>
-    <keyword>drunkenness</keyword>
-    <keyword>church</keyword>
-    <keyword>confessional</keyword>
-    <keyword>composer</keyword>
-    <keyword>despair</keyword>
-    <keyword>policeman</keyword>
-    <keyword>gossip</keyword>
-    <keyword>male camaraderie</keyword>
-    <keyword>village</keyword>
-    <keyword>cliff</keyword>
-    <keyword>house on fire</keyword>
-    <keyword>blood</keyword>
-    <keyword>self harm</keyword>
-    <keyword>irish civil war</keyword>
-    <keyword>conflict between friends</keyword>
-    <keyword>finger cut off</keyword>
-    <keyword>domestic drama</keyword>
-    <keyword>horse and cart</keyword>
-    <keyword>music student</keyword>
-    <keyword>drinking</keyword>
-    <keyword>voice over letter</keyword>
-    <keyword>arson</keyword>
-    <keyword>setting a house on fire</keyword>
-    <keyword>looking in a window</keyword>
-    <keyword>virgin mary statue</keyword>
-    <keyword>beach</keyword>
-    <keyword>old woman</keyword>
-    <keyword>old woman smokes a pipe</keyword>
-    <keyword>ale</keyword>
-    <keyword>bloody face</keyword>
-    <keyword>sailboat</keyword>
-    <keyword>marking off the days on a calendar</keyword>
-    <keyword>spyglass</keyword>
-    <keyword>boredom</keyword>
-    <keyword>eating</keyword>
-    <keyword>horse in a house</keyword>
-    <keyword>cow in a house</keyword>
-    <keyword>donkey in a house</keyword>
-    <keyword>knocked unconscious</keyword>
-    <keyword>milk can</keyword>
-    <keyword>reference to wolfgang amadeus mozart</keyword>
-    <keyword>celtic cross</keyword>
-    <keyword>waving goodbye</keyword>
-    <keyword>leaving home</keyword>
-    <keyword>sheep shears</keyword>
-    <keyword>stone wall</keyword>
-    <keyword>church service</keyword>
-    <keyword>bodhran</keyword>
-    <keyword>writing a song</keyword>
-    <keyword>opening someone else's mail</keyword>
-    <keyword>post mistress</keyword>
-    <keyword>post office</keyword>
-    <keyword>animal human relationship</keyword>
-    <keyword>human dog relationship</keyword>
-    <keyword>no opening credits</keyword>
-    <keyword>no title at beginning</keyword>
-    <keyword>corpse in water</keyword>
-    <keyword>brief male frontal nudity</keyword>
-    <keyword>burying a dead animal</keyword>
-    <keyword>death by drowning</keyword>
-    <keyword>1920s</keyword>
-    <keyword>abusive father</keyword>
-    <keyword>shopkeeper</keyword>
-    <keyword>musician</keyword>
-    <keyword>pony</keyword>
-    <keyword>punching a policeman</keyword>
-    <keyword>four word title</keyword>
-    <keyword>rural setting</keyword>
-    <keyword>animal in cast credits</keyword>
-    <keyword>island name in title</keyword>
-    <keyword>tragicomedy</keyword>
-    <keyword>writer director producer</keyword>
-    <keyword>remote island</keyword>
-    <keyword>catholic priest</keyword>
-    <keyword>buddy drama</keyword>
-    <keyword>ensemble drama</keyword>
-    <keyword>tragedy drama</keyword>
-    <keyword>folk music</keyword>
-    <keyword>mental depression</keyword>
-    <keyword>stubbornness</keyword>
-    <keyword>chamber drama</keyword>
-    <keyword>pet dog</keyword>
-    <keyword>period drama</keyword>
-    <keyword>social drama</keyword>
-    <keyword>lifelong friends</keyword>
-    <keyword>folk musician</keyword>
-    <keyword>ultimatum</keyword>
-    <keyword>police beating</keyword>
-    <keyword>garda</keyword>
-    <keyword>crying man</keyword>
-    <keyword>local pub</keyword>
-    <keyword>pet donkey</keyword>
-    <keyword>suicide of son</keyword>
-    <keyword>publican</keyword>
-    <keyword>female singer</keyword>
-    <keyword>irish music</keyword>
-    <keyword>existential loneliness</keyword>
-    <keyword>anger</keyword>
-    <keyword>civil disobedience</keyword>
-    <keyword>metaphor</keyword>
-    <keyword>dairy farmer</keyword>
-    <keyword>loss of friendship</keyword>
-    <keyword>father son abuse</keyword>
-    <keyword>battle rattle</keyword>
-    <keyword>pub band</keyword>
-    <keyword>april fools' day</keyword>
-    <keyword>listening to a recording</keyword>
-    <keyword>repercussion</keyword>
-    <keyword>social outcast</keyword>
-    <keyword>cruelty</keyword>
-    <keyword>out of town job offer</keyword>
-    <keyword>shunning</keyword>
-    <keyword>escalating violence</keyword>
-    <keyword>harbinger of death</keyword>
-    <keyword>reference to a banshee</keyword>
-    <keyword>cycle of violence</keyword>
-    <keyword>ominous ending</keyword>
-    <keyword>death of son</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.</plot>
-  <producer>
-    <producer> Daniel Battsek</producer>
-    <producer> Graham Broadbent</producer>
-    <producer> Peter Czernin</producer>
-    <producer> James Flynn</producer>
-    <producer> Jo Homewood</producer>
-    <producer> Ben Knight</producer>
-    <producer> Peter Kohn</producer>
-    <producer> Ollie Madden</producer>
-    <producer> Martin McDonagh</producer>
-    <producer> Diarmuid McKeown</producer>
-    <producer> Morgan O'Sullivan</producer>
-  </producer>
-  <releasedates>October 21, 2022 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>114</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Dolby Digital</soundmixe>
-  </soundmixes>
-  <title>The Banshees of Inisherin</title>
-  <type>movie</type>
-  <writer>
-    <writer> Martin McDonagh</writer>
-  </writer>
-  <year>2022</year>
+<?xml version="1.0" ?>
+<doc id="tt11813216">
+	<docid>tt11813216</docid>
+	<title>The Banshees of Inisherin</title>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">114</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Colin Farrell</actor>
+			<role>Pádraic Súilleabháin</role>
+		</credit>
+		<credit>
+			<actor>Brendan Gleeson</actor>
+			<role>Colm Doherty</role>
+		</credit>
+		<credit>
+			<actor>Kerry Condon</actor>
+			<role>Siobhán Súilleabháin</role>
+		</credit>
+		<credit>
+			<actor>Pat Shortt</actor>
+			<role>Jonjo Devine</role>
+		</credit>
+		<credit>
+			<actor>Gary Lydon</actor>
+			<role>Peadar Kearney</role>
+		</credit>
+		<credit>
+			<actor>Jon Kenny</actor>
+			<role>Gerry</role>
+		</credit>
+		<credit>
+			<actor>Barry Keoghan</actor>
+			<role>Dominic Kearney</role>
+		</credit>
+		<credit>
+			<actor>Sheila Flitton</actor>
+			<role>Mrs. McCormick</role>
+		</credit>
+		<credit>
+			<actor>John Carty</actor>
+			<role>Older Musician 1</role>
+		</credit>
+		<credit>
+			<actor>Oliver Farrelly</actor>
+			<role>Older Musician 2</role>
+		</credit>
+		<credit>
+			<actor>Lasaírfhiona Ní Chonaola</actor>
+			<role>Female Singer</role>
+		</credit>
+		<credit>
+			<actor>David Pearse</actor>
+			<role>Priest</role>
+		</credit>
+		<credit>
+			<actor>Bríd Ní Neachtain</actor>
+			<role>Mrs. O'Riordan</role>
+		</credit>
+		<credit>
+			<actor>Aaron Monaghan</actor>
+			<role>Declan</role>
+		</credit>
+		<credit>
+			<actor>James Carty</actor>
+			<role>Student Musician 1</role>
+		</credit>
+		<credit>
+			<actor>Conor Connolly</actor>
+			<role>Student Musician 2</role>
+		</credit>
+		<credit>
+			<actor>Ryan Owens</actor>
+			<role>Student Musician 3</role>
+		</credit>
+		<credit>
+			<actor>Jenny</actor>
+			<role>Jenny</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">September 5 2022</releasedate>
+		<releasedate country="Canada">September 12 2022</releasedate>
+		<releasedate country="Switzerland">September 22 2022</releasedate>
+		<releasedate country="United States">September 24 2022</releasedate>
+		<releasedate country="Finland">September 25 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">15+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>brother sister relationship</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>cutting off a finger</keyword>
+		<keyword>fiddler</keyword>
+		<keyword>year 1923</keyword>
+		<keyword>friendship between men</keyword>
+		<keyword>end of friendship</keyword>
+		<keyword>death of an animal</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>male full frontal nudity</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>miniature donkey</keyword>
+		<keyword>severed finger</keyword>
+		<keyword>ireland</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>brother and sister share a bedroom</keyword>
+		<keyword>donkey</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>church</keyword>
+		<keyword>confessional</keyword>
+		<keyword>composer</keyword>
+		<keyword>despair</keyword>
+		<keyword>policeman</keyword>
+		<keyword>gossip</keyword>
+		<keyword>male camaraderie</keyword>
+		<keyword>village</keyword>
+		<keyword>cliff</keyword>
+		<keyword>house on fire</keyword>
+		<keyword>blood</keyword>
+		<keyword>self harm</keyword>
+		<keyword>irish civil war</keyword>
+		<keyword>conflict between friends</keyword>
+		<keyword>finger cut off</keyword>
+		<keyword>domestic drama</keyword>
+		<keyword>horse and cart</keyword>
+		<keyword>music student</keyword>
+		<keyword>drinking</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>arson</keyword>
+		<keyword>setting a house on fire</keyword>
+		<keyword>looking in a window</keyword>
+		<keyword>virgin mary statue</keyword>
+		<keyword>beach</keyword>
+		<keyword>old woman</keyword>
+		<keyword>old woman smokes a pipe</keyword>
+		<keyword>ale</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>sailboat</keyword>
+		<keyword>marking off the days on a calendar</keyword>
+		<keyword>spyglass</keyword>
+		<keyword>boredom</keyword>
+		<keyword>eating</keyword>
+		<keyword>horse in a house</keyword>
+		<keyword>cow in a house</keyword>
+		<keyword>donkey in a house</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>milk can</keyword>
+		<keyword>reference to wolfgang amadeus mozart</keyword>
+		<keyword>celtic cross</keyword>
+		<keyword>waving goodbye</keyword>
+		<keyword>leaving home</keyword>
+		<keyword>sheep shears</keyword>
+		<keyword>stone wall</keyword>
+		<keyword>church service</keyword>
+		<keyword>bodhran</keyword>
+		<keyword>writing a song</keyword>
+		<keyword>opening someone else's mail</keyword>
+		<keyword>post mistress</keyword>
+		<keyword>post office</keyword>
+		<keyword>animal human relationship</keyword>
+		<keyword>human dog relationship</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>corpse in water</keyword>
+		<keyword>brief male frontal nudity</keyword>
+		<keyword>burying a dead animal</keyword>
+		<keyword>death by drowning</keyword>
+		<keyword>1920s</keyword>
+		<keyword>abusive father</keyword>
+		<keyword>shopkeeper</keyword>
+		<keyword>musician</keyword>
+		<keyword>pony</keyword>
+		<keyword>punching a policeman</keyword>
+		<keyword>four word title</keyword>
+		<keyword>rural setting</keyword>
+		<keyword>animal in cast credits</keyword>
+		<keyword>island name in title</keyword>
+		<keyword>tragicomedy</keyword>
+		<keyword>writer director producer</keyword>
+		<keyword>remote island</keyword>
+		<keyword>catholic priest</keyword>
+		<keyword>buddy drama</keyword>
+		<keyword>ensemble drama</keyword>
+		<keyword>tragedy drama</keyword>
+		<keyword>folk music</keyword>
+		<keyword>mental depression</keyword>
+		<keyword>stubbornness</keyword>
+		<keyword>chamber drama</keyword>
+		<keyword>pet dog</keyword>
+		<keyword>period drama</keyword>
+		<keyword>social drama</keyword>
+		<keyword>lifelong friends</keyword>
+		<keyword>folk musician</keyword>
+		<keyword>ultimatum</keyword>
+		<keyword>police beating</keyword>
+		<keyword>garda</keyword>
+		<keyword>crying man</keyword>
+		<keyword>local pub</keyword>
+		<keyword>pet donkey</keyword>
+		<keyword>suicide of son</keyword>
+		<keyword>publican</keyword>
+		<keyword>female singer</keyword>
+		<keyword>irish music</keyword>
+		<keyword>existential loneliness</keyword>
+		<keyword>anger</keyword>
+		<keyword>civil disobedience</keyword>
+		<keyword>metaphor</keyword>
+		<keyword>dairy farmer</keyword>
+		<keyword>loss of friendship</keyword>
+		<keyword>father son abuse</keyword>
+		<keyword>battle rattle</keyword>
+		<keyword>pub band</keyword>
+		<keyword>april fools' day</keyword>
+		<keyword>listening to a recording</keyword>
+		<keyword>repercussion</keyword>
+		<keyword>social outcast</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>out of town job offer</keyword>
+		<keyword>shunning</keyword>
+		<keyword>escalating violence</keyword>
+		<keyword>harbinger of death</keyword>
+		<keyword>reference to a banshee</keyword>
+		<keyword>cycle of violence</keyword>
+		<keyword>ominous ending</keyword>
+		<keyword>death of son</keyword>
+	</keywords>
+	<directors>
+		<director> Martin McDonagh</director>
+	</directors>
+	<composers>
+		<composer> Carter Burwell</composer>
+	</composers>
+	<producers>
+		<producer> Daniel Battsek</producer>
+		<producer> Graham Broadbent</producer>
+		<producer> Peter Czernin</producer>
+		<producer> James Flynn</producer>
+		<producer> Jo Homewood</producer>
+		<producer> Ben Knight</producer>
+		<producer> Peter Kohn</producer>
+		<producer> Ollie Madden</producer>
+		<producer> Martin McDonagh</producer>
+		<producer> Diarmuid McKeown</producer>
+		<producer> Morgan O'Sullivan</producer>
+	</producers>
+	<writers>
+		<writer> Martin McDonagh</writer>
+	</writers>
+	<editors>
+		<editor> Mikkel E.G. Nielsen</editor>
+	</editors>
 </doc>

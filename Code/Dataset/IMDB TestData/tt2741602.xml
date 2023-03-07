@@ -1,0 +1,525 @@
+<?xml version="1.0" ?>
+<doc id="tt2741602">
+	<docid>tt2741602</docid>
+	<title>The Blacklist</title>
+	<year>2013–2023</year>
+	<runningtimes>
+		<runningtime country="default">43</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>James Spader</actor>
+			<role>Raymond 'Red' Reddington</role>
+		</credit>
+		<credit>
+			<actor>Megan Boone</actor>
+			<role>Elizabeth Keen</role>
+		</credit>
+		<credit>
+			<actor>Diego Klattenhoff</actor>
+			<role>Donald Ressler</role>
+		</credit>
+		<credit>
+			<actor>Ryan Eggold</actor>
+			<role>Tom Keen</role>
+		</credit>
+		<credit>
+			<actor>Harry Lennix</actor>
+			<role>Harold Cooper</role>
+		</credit>
+		<credit>
+			<actor>Hisham Tawfiq</actor>
+			<role>Dembe Zuma</role>
+		</credit>
+		<credit>
+			<actor>Amir Arison</actor>
+			<role>Aram Mojtabai</role>
+		</credit>
+		<credit>
+			<actor>Mozhan Marnò</actor>
+			<role>Samar Navabi</role>
+		</credit>
+		<credit>
+			<actor>Laura Sohn</actor>
+			<role>Alina Park</role>
+		</credit>
+		<credit>
+			<actor>Susan Blommaert</actor>
+			<role>Mr. Kaplan</role>
+		</credit>
+		<credit>
+			<actor>Baz</actor>
+			<role>Baz</role>
+		</credit>
+		<credit>
+			<actor>Teddy Coluca</actor>
+			<role>Brimley</role>
+		</credit>
+		<credit>
+			<actor>Deirdre Lovejoy</actor>
+			<role>Cynthia Panabaker</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Holtzman</actor>
+			<role>Chuck</role>
+		</credit>
+		<credit>
+			<actor>Genson Blimline</actor>
+			<role>Morgan</role>
+		</credit>
+		<credit>
+			<actor>Parminder Nagra</actor>
+			<role>Meera Malik</role>
+		</credit>
+		<credit>
+			<actor>Diany Rodriguez</actor>
+			<role>Weecha Xiu</role>
+		</credit>
+		<credit>
+			<actor>Emily Kell</actor>
+			<role>Agnes Keen</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">September 23 2013</releasedate>
+		<releasedate country="Canada">September 23 2013</releasedate>
+		<releasedate country="Poland">September 23 2013</releasedate>
+		<releasedate country="United States">September 23 2013</releasedate>
+		<releasedate country="Mexico">September 25 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-14</certificate>
+		<certificate country="Chile">16+</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">16+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Mexico">B-15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">12AP</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>profiler</keyword>
+		<keyword>government agent</keyword>
+		<keyword>agent</keyword>
+		<keyword>escape</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>destruction</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>bomb</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shooting</keyword>
+		<keyword>gun</keyword>
+		<keyword>homicide</keyword>
+		<keyword>secret conspirator</keyword>
+		<keyword>secret file</keyword>
+		<keyword>secret parent</keyword>
+		<keyword>hidden secret</keyword>
+		<keyword>government secret</keyword>
+		<keyword>secret operation</keyword>
+		<keyword>fbi informant</keyword>
+		<keyword>secret order</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>columbia tristar</keyword>
+		<keyword>female profiler</keyword>
+		<keyword>fbi profiler</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>criminal</keyword>
+		<keyword>hat</keyword>
+		<keyword>information</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>revelation</keyword>
+		<keyword>camera</keyword>
+		<keyword>blood</keyword>
+		<keyword>jeopardy</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>secret place</keyword>
+		<keyword>secret group</keyword>
+		<keyword>secret paper</keyword>
+		<keyword>secret friend</keyword>
+		<keyword>secret location</keyword>
+		<keyword>secret spot</keyword>
+		<keyword>secret name</keyword>
+		<keyword>secret briefcase</keyword>
+		<keyword>secret alliance</keyword>
+		<keyword>secret cooperation</keyword>
+		<keyword>secret transmitter</keyword>
+		<keyword>friend</keyword>
+		<keyword>friendship</keyword>
+		<keyword>secret promise</keyword>
+		<keyword>secret friendship</keyword>
+		<keyword>secret list</keyword>
+		<keyword>secret message</keyword>
+		<keyword>secret meeting</keyword>
+		<keyword>secret document</keyword>
+		<keyword>secret plan</keyword>
+		<keyword>secret code</keyword>
+		<keyword>secret revealed</keyword>
+		<keyword>secret past</keyword>
+		<keyword>secret mission</keyword>
+		<keyword>secret service</keyword>
+		<keyword>strategic information</keyword>
+		<keyword>classified information</keyword>
+		<keyword>informant</keyword>
+		<keyword>mysterious death</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>intelligence</keyword>
+		<keyword>spying</keyword>
+		<keyword>espionage</keyword>
+		<keyword>top secret</keyword>
+		<keyword>ambiguous person</keyword>
+		<keyword>assassin</keyword>
+		<keyword>dangerous investigation</keyword>
+		<keyword>secret stolen</keyword>
+		<keyword>information exposed</keyword>
+		<keyword>secret exposed</keyword>
+		<keyword>information stolen</keyword>
+		<keyword>hacking</keyword>
+		<keyword>hacker</keyword>
+		<keyword>state secret</keyword>
+		<keyword>criminal profiler</keyword>
+		<keyword>criminal profile</keyword>
+		<keyword>profile</keyword>
+		<keyword>personal information</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>criminal investigation</keyword>
+		<keyword>secret information</keyword>
+		<keyword>secret investigation</keyword>
+		<keyword>investigation</keyword>
+		<keyword>dangerous mission</keyword>
+		<keyword>irony</keyword>
+		<keyword>sarcasm</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>weapon</keyword>
+		<keyword>dark secret</keyword>
+		<keyword>dark past</keyword>
+		<keyword>secret</keyword>
+		<keyword>computer</keyword>
+		<keyword>female spy</keyword>
+		<keyword>spy</keyword>
+		<keyword>mission</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>female agent</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>series title spoken by character</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>surprise</keyword>
+		<keyword>video camera</keyword>
+		<keyword>password</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>telephone</keyword>
+		<keyword>running</keyword>
+		<keyword>peril</keyword>
+		<keyword>argument</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>secret hideaway</keyword>
+		<keyword>mysterious killer</keyword>
+		<keyword>mysterious spy</keyword>
+		<keyword>mysterious person</keyword>
+	</keywords>
+	<directors>
+		<director> Andrew McCarthy</director>
+		<director> Michael W. Watkins</director>
+		<director> Bill Roe</director>
+		<director> Michael Caracciolo</director>
+		<director> John Terlesky</director>
+		<director> Donald E. Thorin Jr.</director>
+		<director> Cort Hessler</director>
+		<director> Terrence O'Hara</director>
+		<director> Kurt Kuenne</director>
+		<director> Christine Gee</director>
+		<director> Christine Moore</director>
+		<director> Steven A. Adelson</director>
+		<director> Adam T. Weisinger</director>
+		<director> Karen Gaviola</director>
+		<director> Daniel Willis</director>
+		<director> Stephanie A. Marquardt</director>
+		<director> Mahesh Pailoor</director>
+		<director> Joe Carnahan</director>
+		<director> Matthew McLoota</director>
+		<director> Vincent Misiano</director>
+		<director> David Platt</director>
+		<director> Paul A. Edwards</director>
+		<director> Michael Zinberg</director>
+		<director> Alex Zakrzewski</director>
+		<director> Jean de Segonzac</director>
+		<director> Bethany Rooney</director>
+		<director> Paul Holahan</director>
+		<director> Solvan Naim</director>
+		<director> Lisa Robinson</director>
+		<director> Jace Alexander</director>
+		<director> Adam Arkin</director>
+		<director> Nick Gomez</director>
+		<director> Stephen Surjik</director>
+		<director> Dan Lerner</director>
+		<director> Peter Werner</director>
+		<director> Randy Zisk</director>
+		<director> Guy Ferland</director>
+		<director> Omar Madha</director>
+		<director> Ami Canaan Mann</director>
+		<director> Michael Waxman</director>
+		<director> Anton Cropper</director>
+		<director> Michael Dinner</director>
+		<director> Eagle Egilsson</director>
+		<director> Tim Hunter</director>
+		<director> Mary Lambert</director>
+		<director> Edward Ornelas</director>
+		<director> Lin Oeding</director>
+		<director> Tessa Blake</director>
+		<director> Victor Nelli Jr.</director>
+		<director> Juan Avella</director>
+		<director> Phil Bertelsen</director>
+		<director> Jono Oliver</director>
+		<director> Avi Youabian</director>
+	</directors>
+	<composers>
+		<composer> Dave Porter</composer>
+		<composer> James S. Levine</composer>
+	</composers>
+	<producers>
+		<producer> John Davis</producer>
+		<producer> John Fox</producer>
+		<producer> Jon Bokenkamp</producer>
+		<producer> Lukas Reiter</producer>
+		<producer> John Eisendrath</producer>
+		<producer> Laura Benson</producer>
+		<producer> James Spader</producer>
+		<producer> J.R. Orci</producer>
+		<producer> Zee Hatley</producer>
+		<producer> Daniel Cerone</producer>
+		<producer> Sean Hennen</producer>
+		<producer> Breanna Mosley</producer>
+		<producer> Michael W. Watkins</producer>
+		<producer> Katrin L. Goodson</producer>
+		<producer> T Cooper</producer>
+		<producer> Allison Glock-Cooper</producer>
+		<producer> Daniel Knauf</producer>
+		<producer> Bonnie Finnegan</producer>
+		<producer> Steven Jacobs</producer>
+		<producer> Taylor Martin</producer>
+		<producer> Noah Schechter</producer>
+		<producer> Vincent Angell</producer>
+		<producer> Jonathan Filley</producer>
+		<producer> Dawn DeNoon</producer>
+		<producer> Peter Noah</producer>
+		<producer> Carla Kettner</producer>
+		<producer> Jonathan Shapiro</producer>
+		<producer> Brandon Sonnier</producer>
+		<producer> Brandon Margolis</producer>
+		<producer> Jim Campolongo</producer>
+		<producer> Dave Thomas</producer>
+		<producer> Josh Berman</producer>
+		<producer> Mike Ostrowski</producer>
+		<producer> Kim Newton</producer>
+		<producer> Brian Studler</producer>
+		<producer> Chap Taylor</producer>
+		<producer> Bill Roe</producer>
+		<producer> John C. Kelley</producer>
+		<producer> Patrick Massett</producer>
+		<producer> Gerrit van der Meer</producer>
+		<producer> John Zinman</producer>
+		<producer> Kristen Reidel</producer>
+		<producer> Wendy West</producer>
+		<producer> Jace Alexander</producer>
+		<producer> Joe Carnahan</producer>
+		<producer> Richard Heus</producer>
+		<producer> Anthony Sparks</producer>
+		<producer> Daniel Voll</producer>
+		<producer> Elizabeth Benjamin</producer>
+		<producer> Alejandro Espinoza</producer>
+		<producer> Sam Christopher</producer>
+		<producer> Aiah Samba</producer>
+	</producers>
+	<writers>
+		<writer> Jon Bokenkamp</writer>
+		<writer> Jon Bokenkamp</writer>
+		<writer> Jon Bokenkamp</writer>
+		<writer> Jon Bokenkamp</writer>
+		<writer> Taylor Martin</writer>
+		<writer> Taylor Martin</writer>
+		<writer> Taylor Martin</writer>
+		<writer> Taylor Martin</writer>
+		<writer> Kelli Johnson</writer>
+		<writer> Kelli Johnson</writer>
+		<writer> Kelli Johnson</writer>
+		<writer> Kelli Johnson</writer>
+		<writer> Kelli Johnson</writer>
+		<writer> Lukas Reiter</writer>
+		<writer> Lukas Reiter</writer>
+		<writer> Lukas Reiter</writer>
+		<writer> Sam Christopher</writer>
+		<writer> Sam Christopher</writer>
+		<writer> Sam Christopher</writer>
+		<writer> Sam Christopher</writer>
+		<writer> Aiah Samba</writer>
+		<writer> Aiah Samba</writer>
+		<writer> Aiah Samba</writer>
+		<writer> Aiah Samba</writer>
+		<writer> Brandon Margolis</writer>
+		<writer> Brandon Margolis</writer>
+		<writer> Brandon Margolis</writer>
+		<writer> Brandon Margolis</writer>
+		<writer> Brandon Margolis</writer>
+		<writer> Brandon Sonnier</writer>
+		<writer> Brandon Sonnier</writer>
+		<writer> Brandon Sonnier</writer>
+		<writer> Brandon Sonnier</writer>
+		<writer> Brandon Sonnier</writer>
+		<writer> Noah Schechter</writer>
+		<writer> Noah Schechter</writer>
+		<writer> Noah Schechter</writer>
+		<writer> Marisa Tam</writer>
+		<writer> Marisa Tam</writer>
+		<writer> Marisa Tam</writer>
+		<writer> Marisa Tam</writer>
+		<writer> Marisa Tam</writer>
+		<writer> John Eisendrath</writer>
+		<writer> John Eisendrath</writer>
+		<writer> John Eisendrath</writer>
+		<writer> Amanda Kate Shuman</writer>
+		<writer> Amanda Kate Shuman</writer>
+		<writer> Amanda Kate Shuman</writer>
+		<writer> Katie Bockes</writer>
+		<writer> Katie Bockes</writer>
+		<writer> Katie Bockes</writer>
+		<writer> Dave Metzger</writer>
+		<writer> Dave Metzger</writer>
+		<writer> Dave Metzger</writer>
+		<writer> Brian Studler</writer>
+		<writer> Brian Studler</writer>
+		<writer> Brian Studler</writer>
+		<writer> Brian Studler</writer>
+		<writer> Nicole Phillips</writer>
+		<writer> Nicole Phillips</writer>
+		<writer> Nicole Phillips</writer>
+		<writer> David Merritt II</writer>
+		<writer> David Merritt II</writer>
+		<writer> David Merritt II</writer>
+		<writer> David Merritt II</writer>
+		<writer> J.R. Orci</writer>
+		<writer> J.R. Orci</writer>
+		<writer> J.R. Orci</writer>
+		<writer> Daniel Cerone</writer>
+		<writer> Daniel Cerone</writer>
+		<writer> Sean Hennen</writer>
+		<writer> Justine Neubarth</writer>
+		<writer> Justine Neubarth</writer>
+		<writer> Daniel Knauf</writer>
+		<writer> Daniel Knauf</writer>
+		<writer> Daniel Knauf</writer>
+		<writer> Jonathan Shapiro</writer>
+		<writer> Jonathan Shapiro</writer>
+		<writer> Jonathan Shapiro</writer>
+		<writer> Jason George</writer>
+		<writer> Jason George</writer>
+		<writer> Vincent Angell</writer>
+		<writer> Vincent Angell</writer>
+		<writer> Vincent Angell</writer>
+		<writer> Carla Kettner</writer>
+		<writer> T Cooper</writer>
+		<writer> Allison Glock-Cooper</writer>
+		<writer> Jim Campolongo</writer>
+		<writer> Jim Campolongo</writer>
+		<writer> Dawn DeNoon</writer>
+		<writer> Dawn DeNoon</writer>
+		<writer> Kristen Reidel</writer>
+		<writer> Kristen Reidel</writer>
+		<writer> Peter Noah</writer>
+		<writer> Joe Carnahan</writer>
+		<writer> Joe Carnahan</writer>
+		<writer> Patrick Massett</writer>
+		<writer> Patrick Massett</writer>
+		<writer> John Zinman</writer>
+		<writer> John Zinman</writer>
+		<writer> Adam Sussman</writer>
+		<writer> Adam Sussman</writer>
+		<writer> Mike Ostrowski</writer>
+		<writer> Mike Ostrowski</writer>
+		<writer> Dave Thomas</writer>
+		<writer> Chap Taylor</writer>
+		<writer> Kim Newton</writer>
+		<writer> Kim Newton</writer>
+		<writer> Cristina Boada</writer>
+		<writer> John C. Kelley</writer>
+		<writer> Wendy West</writer>
+		<writer> Elizabeth Benjamin</writer>
+		<writer> Richard D'Ovidio</writer>
+		<writer> Anthony Sparks</writer>
+		<writer> Daniel Voll</writer>
+		<writer> Michael Perri</writer>
+	</writers>
+	<editors>
+		<editor> Chris Brookshire</editor>
+		<editor> David Post</editor>
+		<editor> Orlando Machado Jr.</editor>
+		<editor> Emily Greene</editor>
+		<editor> Nathan Gunn</editor>
+		<editor> Elyse Holloway</editor>
+		<editor> Mark Pitner</editor>
+		<editor> Harvey Rosenstock</editor>
+		<editor> Amy M. Fleming</editor>
+		<editor> Kevin Hale</editor>
+		<editor> Jason Hellmann</editor>
+		<editor> Rhett Finch</editor>
+		<editor> Eric L. Beason</editor>
+	</editors>
+</doc>

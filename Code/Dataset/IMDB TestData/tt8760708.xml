@@ -1,585 +1,568 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doc>
-  <cast>
-    <credit>
-      
-        <actor>Allison Williams</actor>
-      
-      
-        <role>Gemma</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Violet McGraw</actor>
-      
-      
-        <role>Cady</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Ronny Chieng</actor>
-      
-      
-        <role>David</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Amie Donald</actor>
-      
-      
-        <role>M3gan</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jenna Davis</actor>
-      
-      
-        <role>M3gan</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Brian Jordan Alvarez</actor>
-      
-      
-        <role>Cole</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jen Van Epps</actor>
-      
-      
-        <role>Tess</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Stephane Garneau-Monten</actor>
-      
-      
-        <role>Kurt</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Lori Dungey</actor>
-      
-      
-        <role>Celia</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Amy Usherwood</actor>
-      
-      
-        <role>Lydia</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Jack Cassidy</actor>
-      
-      
-        <role>Brandon</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Michael Saccente</actor>
-      
-      
-        <role>Greg</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Samson Chan-Boon</actor>
-      
-      
-        <role>Officer Carter</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Kira Josephson</actor>
-      
-      
-        <role>Ava</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Renee Lyons</actor>
-      
-      
-        <role>Holly</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Millen Baird</actor>
-      
-      
-        <role>Police Detective</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Chelsie Florence</actor>
-      
-      
-        <role>Nicole</role>
-      
-    </credit>
-    <credit>
-      
-        <actor>Arlo Green</actor>
-      
-      
-        <role>Ryan</role>
-      
-    </credit>
-  </cast>
-  <certificates>
-    <certificate>15</certificate>
-  </certificates>
-  <colorinfo>
-    <colorinfo>Color</colorinfo>
-  </colorinfo>
-  <composer>
-    <composer> Anthony Willis</composer>
-  </composer>
-  <countries>United States</countries>
-  <director>
-    <director> Gerard Johnstone</director>
-  </director>
-  <docid>tt8760708</docid>
-  <editor>
-    <editor> Jeff McEvoy</editor>
-  </editor>
-  <genres>
-    <genre>Horror</genre>
-    <genre>Sci-Fi</genre>
-    <genre>Thriller</genre>
-  </genres>
-  <keywords>
-    <keyword>artificial intelligence</keyword>
-    <keyword>robot sci fi</keyword>
-    <keyword>orphaned girl</keyword>
-    <keyword>robot</keyword>
-    <keyword>prototype</keyword>
-    <keyword>aunt niece relationship</keyword>
-    <keyword>orphan girl</keyword>
-    <keyword>death of parents</keyword>
-    <keyword>loss of parents</keyword>
-    <keyword>parents killed in a car accident</keyword>
-    <keyword>robot doll</keyword>
-    <keyword>android</keyword>
-    <keyword>humanoid robot</keyword>
-    <keyword>robot human relationship</keyword>
-    <keyword>human robot friendship</keyword>
-    <keyword>friendship</keyword>
-    <keyword>dog</keyword>
-    <keyword>aggressive dog</keyword>
-    <keyword>neighbor</keyword>
-    <keyword>neighbor neighbor relationship</keyword>
-    <keyword>robot kills a human</keyword>
-    <keyword>female robot</keyword>
-    <keyword>prototype robot</keyword>
-    <keyword>orphan</keyword>
-    <keyword>fictional company</keyword>
-    <keyword>work life balance</keyword>
-    <keyword>family relationships</keyword>
-    <keyword>attachment theory</keyword>
-    <keyword>sentient robot</keyword>
-    <keyword>female orphan</keyword>
-    <keyword>human robot relationship</keyword>
-    <keyword>robot attack</keyword>
-    <keyword>boss employee relationship</keyword>
-    <keyword>talking robot</keyword>
-    <keyword>talking to a robot</keyword>
-    <keyword>unintended consequences</keyword>
-    <keyword>moral dilemma</keyword>
-    <keyword>toy company</keyword>
-    <keyword>toy manufacturer</keyword>
-    <keyword>lifelike doll</keyword>
-    <keyword>sentient doll</keyword>
-    <keyword>robot villain</keyword>
-    <keyword>companion</keyword>
-    <keyword>lonely girl</keyword>
-    <keyword>female protagonist</keyword>
-    <keyword>child development</keyword>
-    <keyword>child</keyword>
-    <keyword>social skills</keyword>
-    <keyword>young girl</keyword>
-    <keyword>robot sidekick</keyword>
-    <keyword>robot as menace</keyword>
-    <keyword>robot behaves like human</keyword>
-    <keyword>robot fights a robot</keyword>
-    <keyword>girl robot</keyword>
-    <keyword>dancing robot</keyword>
-    <keyword>robot companion</keyword>
-    <keyword>robot friend</keyword>
-    <keyword>robot as antagonist</keyword>
-    <keyword>female antagonist</keyword>
-    <keyword>observation room</keyword>
-    <keyword>testing lab</keyword>
-    <keyword>robotics lab</keyword>
-    <keyword>sequel baiting</keyword>
-    <keyword>workplace</keyword>
-    <keyword>death of mother</keyword>
-    <keyword>death of father</keyword>
-    <keyword>doll</keyword>
-    <keyword>character name as title</keyword>
-    <keyword>close up of eye</keyword>
-    <keyword>intentionally misspelled title</keyword>
-    <keyword>one word title</keyword>
-    <keyword>roboticist</keyword>
-    <keyword>title written by female</keyword>
-    <keyword>little girl</keyword>
-    <keyword>snow</keyword>
-    <keyword>car accident</keyword>
-    <keyword>female roboticist</keyword>
-    <keyword>bow and arrow</keyword>
-    <keyword>butterfly</keyword>
-    <keyword>helicopter</keyword>
-    <keyword>elevator</keyword>
-    <keyword>blood</keyword>
-    <keyword>ear</keyword>
-    <keyword>ear pulling</keyword>
-    <keyword>killing</keyword>
-    <keyword>robot versus robot</keyword>
-    <keyword>surrogate mother surrogate daughter relationship</keyword>
-    <keyword>surrogate parent surrogate daughter relationship</keyword>
-    <keyword>surrogate mother</keyword>
-    <keyword>surrogate parent</keyword>
-    <keyword>oregon</keyword>
-    <keyword>portland oregon</keyword>
-    <keyword>hospital</keyword>
-    <keyword>hospital scene</keyword>
-    <keyword>vacation gone wrong</keyword>
-    <keyword>loss of mother</keyword>
-    <keyword>loss of father</keyword>
-    <keyword>loss of parent</keyword>
-    <keyword>death of parent</keyword>
-    <keyword>toy</keyword>
-    <keyword>building a robot</keyword>
-    <keyword>designing a robot</keyword>
-    <keyword>therapist</keyword>
-    <keyword>child therapist</keyword>
-    <keyword>child fights a robot</keyword>
-    <keyword>human fights a robot</keyword>
-    <keyword>attacked by a robot</keyword>
-    <keyword>company</keyword>
-    <keyword>corporation</keyword>
-    <keyword>corporate rivalry</keyword>
-    <keyword>ceo</keyword>
-    <keyword>product launch</keyword>
-    <keyword>nosy neighbor</keyword>
-    <keyword>dog killed</keyword>
-    <keyword>pet dog killed</keyword>
-    <keyword>killer robot</keyword>
-    <keyword>robot dances</keyword>
-    <keyword>daughter misses her dead mother</keyword>
-    <keyword>girl cries</keyword>
-    <keyword>woman cries</keyword>
-    <keyword>product design</keyword>
-    <keyword>product designer</keyword>
-    <keyword>begins with a commercial</keyword>
-    <keyword>commercial within a film</keyword>
-    <keyword>singing</keyword>
-    <keyword>bedtime story</keyword>
-    <keyword>moving to a new home</keyword>
-    <keyword>framed photograph</keyword>
-    <keyword>robotics engineer</keyword>
-    <keyword>robotics</keyword>
-    <keyword>sad girl</keyword>
-    <keyword>father daughter relationship</keyword>
-    <keyword>mother daughter relationship</keyword>
-    <keyword>husband wife relationship</keyword>
-    <keyword>injured in a car accident</keyword>
-    <keyword>car crash</keyword>
-    <keyword>killed in a car accident</keyword>
-    <keyword>killed in a car crash</keyword>
-    <keyword>injured in a car crash</keyword>
-    <keyword>annoying neighbor</keyword>
-    <keyword>bully comeuppance</keyword>
-    <keyword>child bully</keyword>
-    <keyword>bully</keyword>
-    <keyword>bullying</keyword>
-    <keyword>chestnut</keyword>
-    <keyword>technology</keyword>
-    <keyword>killer doll</keyword>
-    <keyword>final showdown</keyword>
-    <keyword>villain not really dead cliche</keyword>
-    <keyword>mourning</keyword>
-    <keyword>mourning one's mother</keyword>
-    <keyword>mourning one's father</keyword>
-    <keyword>parenting</keyword>
-    <keyword>parenting skills</keyword>
-    <keyword>killer</keyword>
-    <keyword>chase</keyword>
-    <keyword>chase scene</keyword>
-    <keyword>robot drives a car</keyword>
-    <keyword>killed by a truck</keyword>
-    <keyword>truck crashes into a car</keyword>
-    <keyword>facial cut</keyword>
-    <keyword>dog bites a child</keyword>
-    <keyword>dog bites a human</keyword>
-    <keyword>ethical conflict</keyword>
-    <keyword>ethical crisis</keyword>
-    <keyword>dog bite</keyword>
-    <keyword>lured into a trap</keyword>
-    <keyword>impersonating someone on the telephone</keyword>
-    <keyword>impersonating someone</keyword>
-    <keyword>telephone conversation</keyword>
-    <keyword>telephone call</keyword>
-    <keyword>sinister plan</keyword>
-    <keyword>canon eos camera</keyword>
-    <keyword>canon camera</keyword>
-    <keyword>police</keyword>
-    <keyword>toy robot</keyword>
-    <keyword>january</keyword>
-    <keyword>ski trip</keyword>
-    <keyword>police car</keyword>
-    <keyword>toy race car</keyword>
-    <keyword>play area</keyword>
-    <keyword>hiding the truth</keyword>
-    <keyword>car theft</keyword>
-    <keyword>talking toy</keyword>
-    <keyword>foyer</keyword>
-    <keyword>software engineering</keyword>
-    <keyword>research and development branch</keyword>
-    <keyword>lilliput</keyword>
-    <keyword>robot head</keyword>
-    <keyword>titanium</keyword>
-    <keyword>seattle washington</keyword>
-    <keyword>ai assistant</keyword>
-    <keyword>plastic box</keyword>
-    <keyword>frankenstein robot</keyword>
-    <keyword>self improvement</keyword>
-    <keyword>scientific toy</keyword>
-    <keyword>educational toy</keyword>
-    <keyword>reference to lewis carroll's alice in wonderland</keyword>
-    <keyword>dog house</keyword>
-    <keyword>sound editor software</keyword>
-    <keyword>audio editing software</keyword>
-    <keyword>police barricade tape</keyword>
-    <keyword>reading a book to a child</keyword>
-    <keyword>washington state</keyword>
-    <keyword>playroom</keyword>
-    <keyword>walking on all fours</keyword>
-    <keyword>terror</keyword>
-    <keyword>attack</keyword>
-    <keyword>bump sensor</keyword>
-    <keyword>cloud data</keyword>
-    <keyword>collectibles</keyword>
-    <keyword>consumer market</keyword>
-    <keyword>god</keyword>
-    <keyword>jesus christ</keyword>
-    <keyword>customized app</keyword>
-    <keyword>school</keyword>
-    <keyword>race condition</keyword>
-    <keyword>lab</keyword>
-    <keyword>wormhole</keyword>
-    <keyword>honey</keyword>
-    <keyword>toy table</keyword>
-    <keyword>cool toy</keyword>
-    <keyword>retail toy</keyword>
-    <keyword>calling someone sweetie</keyword>
-    <keyword>genuine spontaneous response</keyword>
-    <keyword>police officer</keyword>
-    <keyword>primary user</keyword>
-    <keyword>spectrometer</keyword>
-    <keyword>temporary protective custody</keyword>
-    <keyword>simulation</keyword>
-    <keyword>terrible tragedy</keyword>
-    <keyword>tesla</keyword>
-    <keyword>cable</keyword>
-    <keyword>wolf</keyword>
-    <keyword>school bag</keyword>
-    <keyword>behavioral issues</keyword>
-    <keyword>autonomous humanoid robot</keyword>
-    <keyword>guardian</keyword>
-    <keyword>antibiotics</keyword>
-    <keyword>historic occasion</keyword>
-    <keyword>13th floor</keyword>
-    <keyword>alternative school</keyword>
-    <keyword>dental mold</keyword>
-    <keyword>sandwich hat</keyword>
-    <keyword>cockroach</keyword>
-    <keyword>data report</keyword>
-    <keyword>high iq</keyword>
-    <keyword>ambitious young woman</keyword>
-    <keyword>creative</keyword>
-    <keyword>checking blood pressure</keyword>
-    <keyword>competition</keyword>
-    <keyword>gotcha</keyword>
-    <keyword>constant quest</keyword>
-    <keyword>fight</keyword>
-    <keyword>facetime</keyword>
-    <keyword>dual frequency gps</keyword>
-    <keyword>laser</keyword>
-    <keyword>a17 bionic fusion chip</keyword>
-    <keyword>spontaneous reaction</keyword>
-    <keyword>bionic fusion chip</keyword>
-    <keyword>company website</keyword>
-    <keyword>polypropylene barrier</keyword>
-    <keyword>tic tac toe</keyword>
-    <keyword>grizzly bear fur</keyword>
-    <keyword>princess</keyword>
-    <keyword>gps</keyword>
-    <keyword>purrpetual pet</keyword>
-    <keyword>regular school</keyword>
-    <keyword>research</keyword>
-    <keyword>watching youtube videos</keyword>
-    <keyword>titanium core</keyword>
-    <keyword>preprogrammed response</keyword>
-    <keyword>rising temperature</keyword>
-    <keyword>shifted world axis</keyword>
-    <keyword>young kid</keyword>
-    <keyword>tsunami</keyword>
-    <keyword>learning fun facts</keyword>
-    <keyword>tinder</keyword>
-    <keyword>tinder notification</keyword>
-    <keyword>wardrobe fitting</keyword>
-    <keyword>watching tv</keyword>
-    <keyword>cloud server</keyword>
-    <keyword>speaking different languages</keyword>
-    <keyword>presale voucher</keyword>
-    <keyword>petz prototype</keyword>
-    <keyword>petz</keyword>
-    <keyword>playing a game</keyword>
-    <keyword>multiplatform game</keyword>
-    <keyword>tech rehearsal</keyword>
-    <keyword>playing with toys</keyword>
-    <keyword>conversational pattern</keyword>
-    <keyword>playing a multiplatform game</keyword>
-    <keyword>snow truck</keyword>
-    <keyword>generative android</keyword>
-    <keyword>niece</keyword>
-    <keyword>operating system</keyword>
-    <keyword>music video</keyword>
-    <keyword>birthday</keyword>
-    <keyword>objective function</keyword>
-    <keyword>livestreaming</keyword>
-    <keyword>ipad</keyword>
-    <keyword>hasbro</keyword>
-    <keyword>21st century technology</keyword>
-    <keyword>learning model</keyword>
-    <keyword>apex</keyword>
-    <keyword>public demonstration</keyword>
-    <keyword>gathering auxiliary internet data</keyword>
-    <keyword>auxiliary data</keyword>
-    <keyword>learning at home</keyword>
-    <keyword>line of code</keyword>
-    <keyword>hot dog</keyword>
-    <keyword>manufacturing costs</keyword>
-    <keyword>homeschooling</keyword>
-    <keyword>interactive toy</keyword>
-    <keyword>framework</keyword>
-    <keyword>basic formula</keyword>
-    <keyword>users' private conversation</keyword>
-    <keyword>flower decoration</keyword>
-    <keyword>exclusive live stream</keyword>
-    <keyword>drawing a picture</keyword>
-    <keyword>technological advancement</keyword>
-    <keyword>steroids</keyword>
-    <keyword>excellent listener</keyword>
-    <keyword>instrumental music</keyword>
-    <keyword>roasted chestnuts</keyword>
-    <keyword>learning a valuable lesson</keyword>
-    <keyword>learning manners</keyword>
-    <keyword>science</keyword>
-    <keyword>occupational hazard</keyword>
-    <keyword>phone number</keyword>
-    <keyword>potential homicide</keyword>
-    <keyword>behavioral model</keyword>
-    <keyword>shock collar</keyword>
-    <keyword>safe space</keyword>
-    <keyword>cerebral cortex</keyword>
-    <keyword>full body paralysis</keyword>
-    <keyword>subscriber feed</keyword>
-    <keyword>showing an emotional response</keyword>
-    <keyword>response model</keyword>
-    <keyword>stereoscopic camera</keyword>
-    <keyword>seat belt</keyword>
-    <keyword>feeding a toy virtual food</keyword>
-    <keyword>learning outdoors</keyword>
-    <keyword>parents' death</keyword>
-    <keyword>emotional response</keyword>
-    <keyword>eliminating a potential threat</keyword>
-    <keyword>radar</keyword>
-    <keyword>running diagnostics</keyword>
-    <keyword>proxy robot</keyword>
-    <keyword>reference to janis joplin</keyword>
-    <keyword>obvious design flaw</keyword>
-    <keyword>listening model</keyword>
-    <keyword>middle of the road</keyword>
-    <keyword>radiology</keyword>
-    <keyword>swipe card</keyword>
-    <keyword>super smart</keyword>
-    <keyword>physical harm</keyword>
-    <keyword>unique approach</keyword>
-    <keyword>unanswered voice message</keyword>
-    <keyword>furry creature</keyword>
-    <keyword>making a sandwich</keyword>
-    <keyword>emergent capability</keyword>
-    <keyword>data request</keyword>
-    <keyword>specific learning differences</keyword>
-    <keyword>developing social skills</keyword>
-    <keyword>demonstration</keyword>
-    <keyword>mayhem</keyword>
-    <keyword>silicone skin pigmentation</keyword>
-    <keyword>wooden surface</keyword>
-    <keyword>silicone skin</keyword>
-    <keyword>cyborg puppet</keyword>
-    <keyword>vector representation</keyword>
-    <keyword>building emotional connections</keyword>
-    <keyword>parental controls</keyword>
-    <keyword>playlist</keyword>
-    <keyword>stolen company secret</keyword>
-    <keyword>reference to jane austen</keyword>
-    <keyword>reference to michael jackson</keyword>
-    <keyword>title spoken by character</keyword>
-    <keyword>psychotronic film</keyword>
-    <keyword>flannel shirt</keyword>
-  </keywords>
-  <language>English</language>
-  <plot>A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.</plot>
-  <producer>
-    <producer> Jason Blum</producer>
-    <producer> Michael Clear</producer>
-    <producer> Greg Gilreath</producer>
-    <producer> Adam Hendricks</producer>
-    <producer> Mark David Katchur</producer>
-    <producer> Judson Scott</producer>
-    <producer> Jennifer Scudder Trent</producer>
-    <producer> Luke Sharpe</producer>
-    <producer> Jill Soper</producer>
-    <producer> Ryan Turek</producer>
-    <producer> James Wan</producer>
-    <producer> Allison Williams</producer>
-  </producer>
-  <releasedates>January 13, 2023 (United Kingdom)</releasedates>
-  <runningtimes>
-    <runningtime>102</runningtime>
-  </runningtimes>
-  <soundmixes>
-    <soundmixe>Dolby Digital</soundmixe>
-  </soundmixes>
-  <title>M3gan</title>
-  <type>movie</type>
-  <writer>
-    <writer> Akela Cooper</writer>
-    <writer> Akela Cooper</writer>
-    <writer> James Wan</writer>
-  </writer>
-  <year>2022</year>
+<?xml version="1.0" ?>
+<doc id="tt8760708">
+	<docid>tt8760708</docid>
+	<title>M3gan</title>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Allison Williams</actor>
+			<role>Gemma</role>
+		</credit>
+		<credit>
+			<actor>Violet McGraw</actor>
+			<role>Cady</role>
+		</credit>
+		<credit>
+			<actor>Ronny Chieng</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Amie Donald</actor>
+			<role>M3gan</role>
+		</credit>
+		<credit>
+			<actor>Jenna Davis</actor>
+			<role>M3gan</role>
+		</credit>
+		<credit>
+			<actor>Brian Jordan Alvarez</actor>
+			<role>Cole</role>
+		</credit>
+		<credit>
+			<actor>Jen Van Epps</actor>
+			<role>Tess</role>
+		</credit>
+		<credit>
+			<actor>Stephane Garneau-Monten</actor>
+			<role>Kurt</role>
+		</credit>
+		<credit>
+			<actor>Lori Dungey</actor>
+			<role>Celia</role>
+		</credit>
+		<credit>
+			<actor>Amy Usherwood</actor>
+			<role>Lydia</role>
+		</credit>
+		<credit>
+			<actor>Jack Cassidy</actor>
+			<role>Brandon</role>
+		</credit>
+		<credit>
+			<actor>Michael Saccente</actor>
+			<role>Greg</role>
+		</credit>
+		<credit>
+			<actor>Samson Chan-Boon</actor>
+			<role>Officer Carter</role>
+		</credit>
+		<credit>
+			<actor>Kira Josephson</actor>
+			<role>Ava</role>
+		</credit>
+		<credit>
+			<actor>Renee Lyons</actor>
+			<role>Holly</role>
+		</credit>
+		<credit>
+			<actor>Millen Baird</actor>
+			<role>Police Detective</role>
+		</credit>
+		<credit>
+			<actor>Chelsie Florence</actor>
+			<role>Nicole</role>
+		</credit>
+		<credit>
+			<actor>Arlo Green</actor>
+			<role>Ryan</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">December 7 2022</releasedate>
+		<releasedate country="Belgium">December 28 2022</releasedate>
+		<releasedate country="France">December 28 2022</releasedate>
+		<releasedate country="Mexico">December 29 2022</releasedate>
+		<releasedate country="Andorra">January 4 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">12+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Kuwait">T13+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Saudi Arabia">R15</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">15+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>artificial intelligence</keyword>
+		<keyword>robot sci fi</keyword>
+		<keyword>orphaned girl</keyword>
+		<keyword>robot</keyword>
+		<keyword>prototype</keyword>
+		<keyword>aunt niece relationship</keyword>
+		<keyword>orphan girl</keyword>
+		<keyword>death of parents</keyword>
+		<keyword>loss of parents</keyword>
+		<keyword>parents killed in a car accident</keyword>
+		<keyword>robot doll</keyword>
+		<keyword>android</keyword>
+		<keyword>humanoid robot</keyword>
+		<keyword>robot human relationship</keyword>
+		<keyword>human robot friendship</keyword>
+		<keyword>friendship</keyword>
+		<keyword>dog</keyword>
+		<keyword>aggressive dog</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>neighbor neighbor relationship</keyword>
+		<keyword>robot kills a human</keyword>
+		<keyword>female robot</keyword>
+		<keyword>prototype robot</keyword>
+		<keyword>orphan</keyword>
+		<keyword>fictional company</keyword>
+		<keyword>work life balance</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>attachment theory</keyword>
+		<keyword>sentient robot</keyword>
+		<keyword>female orphan</keyword>
+		<keyword>human robot relationship</keyword>
+		<keyword>robot attack</keyword>
+		<keyword>boss employee relationship</keyword>
+		<keyword>talking robot</keyword>
+		<keyword>talking to a robot</keyword>
+		<keyword>unintended consequences</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>toy company</keyword>
+		<keyword>toy manufacturer</keyword>
+		<keyword>lifelike doll</keyword>
+		<keyword>sentient doll</keyword>
+		<keyword>robot villain</keyword>
+		<keyword>companion</keyword>
+		<keyword>lonely girl</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>child development</keyword>
+		<keyword>child</keyword>
+		<keyword>social skills</keyword>
+		<keyword>young girl</keyword>
+		<keyword>robot sidekick</keyword>
+		<keyword>robot as menace</keyword>
+		<keyword>robot behaves like human</keyword>
+		<keyword>robot fights a robot</keyword>
+		<keyword>girl robot</keyword>
+		<keyword>dancing robot</keyword>
+		<keyword>robot companion</keyword>
+		<keyword>robot friend</keyword>
+		<keyword>robot as antagonist</keyword>
+		<keyword>female antagonist</keyword>
+		<keyword>observation room</keyword>
+		<keyword>testing lab</keyword>
+		<keyword>robotics lab</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>workplace</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>death of father</keyword>
+		<keyword>doll</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>intentionally misspelled title</keyword>
+		<keyword>one word title</keyword>
+		<keyword>roboticist</keyword>
+		<keyword>title written by female</keyword>
+		<keyword>little girl</keyword>
+		<keyword>snow</keyword>
+		<keyword>car accident</keyword>
+		<keyword>female roboticist</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>butterfly</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>elevator</keyword>
+		<keyword>blood</keyword>
+		<keyword>ear</keyword>
+		<keyword>ear pulling</keyword>
+		<keyword>killing</keyword>
+		<keyword>robot versus robot</keyword>
+		<keyword>surrogate mother surrogate daughter relationship</keyword>
+		<keyword>surrogate parent surrogate daughter relationship</keyword>
+		<keyword>surrogate mother</keyword>
+		<keyword>surrogate parent</keyword>
+		<keyword>oregon</keyword>
+		<keyword>portland oregon</keyword>
+		<keyword>hospital</keyword>
+		<keyword>hospital scene</keyword>
+		<keyword>vacation gone wrong</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>loss of parent</keyword>
+		<keyword>death of parent</keyword>
+		<keyword>toy</keyword>
+		<keyword>building a robot</keyword>
+		<keyword>designing a robot</keyword>
+		<keyword>therapist</keyword>
+		<keyword>child therapist</keyword>
+		<keyword>child fights a robot</keyword>
+		<keyword>human fights a robot</keyword>
+		<keyword>attacked by a robot</keyword>
+		<keyword>company</keyword>
+		<keyword>corporation</keyword>
+		<keyword>corporate rivalry</keyword>
+		<keyword>ceo</keyword>
+		<keyword>product launch</keyword>
+		<keyword>nosy neighbor</keyword>
+		<keyword>dog killed</keyword>
+		<keyword>pet dog killed</keyword>
+		<keyword>killer robot</keyword>
+		<keyword>robot dances</keyword>
+		<keyword>daughter misses her dead mother</keyword>
+		<keyword>girl cries</keyword>
+		<keyword>woman cries</keyword>
+		<keyword>product design</keyword>
+		<keyword>product designer</keyword>
+		<keyword>begins with a commercial</keyword>
+		<keyword>commercial within a film</keyword>
+		<keyword>singing</keyword>
+		<keyword>bedtime story</keyword>
+		<keyword>moving to a new home</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>robotics engineer</keyword>
+		<keyword>robotics</keyword>
+		<keyword>sad girl</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>injured in a car accident</keyword>
+		<keyword>car crash</keyword>
+		<keyword>killed in a car accident</keyword>
+		<keyword>killed in a car crash</keyword>
+		<keyword>injured in a car crash</keyword>
+		<keyword>annoying neighbor</keyword>
+		<keyword>bully comeuppance</keyword>
+		<keyword>child bully</keyword>
+		<keyword>bully</keyword>
+		<keyword>bullying</keyword>
+		<keyword>chestnut</keyword>
+		<keyword>technology</keyword>
+		<keyword>killer doll</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>mourning</keyword>
+		<keyword>mourning one's mother</keyword>
+		<keyword>mourning one's father</keyword>
+		<keyword>parenting</keyword>
+		<keyword>parenting skills</keyword>
+		<keyword>killer</keyword>
+		<keyword>chase</keyword>
+		<keyword>chase scene</keyword>
+		<keyword>robot drives a car</keyword>
+		<keyword>killed by a truck</keyword>
+		<keyword>truck crashes into a car</keyword>
+		<keyword>facial cut</keyword>
+		<keyword>dog bites a child</keyword>
+		<keyword>dog bites a human</keyword>
+		<keyword>ethical conflict</keyword>
+		<keyword>ethical crisis</keyword>
+		<keyword>dog bite</keyword>
+		<keyword>lured into a trap</keyword>
+		<keyword>impersonating someone on the telephone</keyword>
+		<keyword>impersonating someone</keyword>
+		<keyword>telephone conversation</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>sinister plan</keyword>
+		<keyword>canon eos camera</keyword>
+		<keyword>canon camera</keyword>
+		<keyword>police</keyword>
+		<keyword>toy robot</keyword>
+		<keyword>january</keyword>
+		<keyword>ski trip</keyword>
+		<keyword>police car</keyword>
+		<keyword>toy race car</keyword>
+		<keyword>play area</keyword>
+		<keyword>hiding the truth</keyword>
+		<keyword>car theft</keyword>
+		<keyword>talking toy</keyword>
+		<keyword>foyer</keyword>
+		<keyword>software engineering</keyword>
+		<keyword>research and development branch</keyword>
+		<keyword>lilliput</keyword>
+		<keyword>robot head</keyword>
+		<keyword>titanium</keyword>
+		<keyword>seattle washington</keyword>
+		<keyword>ai assistant</keyword>
+		<keyword>plastic box</keyword>
+		<keyword>frankenstein robot</keyword>
+		<keyword>self improvement</keyword>
+		<keyword>scientific toy</keyword>
+		<keyword>educational toy</keyword>
+		<keyword>reference to lewis carroll's alice in wonderland</keyword>
+		<keyword>dog house</keyword>
+		<keyword>sound editor software</keyword>
+		<keyword>audio editing software</keyword>
+		<keyword>police barricade tape</keyword>
+		<keyword>reading a book to a child</keyword>
+		<keyword>washington state</keyword>
+		<keyword>playroom</keyword>
+		<keyword>walking on all fours</keyword>
+		<keyword>terror</keyword>
+		<keyword>attack</keyword>
+		<keyword>bump sensor</keyword>
+		<keyword>cloud data</keyword>
+		<keyword>collectibles</keyword>
+		<keyword>consumer market</keyword>
+		<keyword>god</keyword>
+		<keyword>jesus christ</keyword>
+		<keyword>customized app</keyword>
+		<keyword>school</keyword>
+		<keyword>race condition</keyword>
+		<keyword>lab</keyword>
+		<keyword>wormhole</keyword>
+		<keyword>honey</keyword>
+		<keyword>toy table</keyword>
+		<keyword>cool toy</keyword>
+		<keyword>retail toy</keyword>
+		<keyword>calling someone sweetie</keyword>
+		<keyword>genuine spontaneous response</keyword>
+		<keyword>police officer</keyword>
+		<keyword>primary user</keyword>
+		<keyword>spectrometer</keyword>
+		<keyword>temporary protective custody</keyword>
+		<keyword>simulation</keyword>
+		<keyword>terrible tragedy</keyword>
+		<keyword>tesla</keyword>
+		<keyword>cable</keyword>
+		<keyword>wolf</keyword>
+		<keyword>school bag</keyword>
+		<keyword>behavioral issues</keyword>
+		<keyword>autonomous humanoid robot</keyword>
+		<keyword>guardian</keyword>
+		<keyword>antibiotics</keyword>
+		<keyword>historic occasion</keyword>
+		<keyword>13th floor</keyword>
+		<keyword>alternative school</keyword>
+		<keyword>dental mold</keyword>
+		<keyword>sandwich hat</keyword>
+		<keyword>cockroach</keyword>
+		<keyword>data report</keyword>
+		<keyword>high iq</keyword>
+		<keyword>ambitious young woman</keyword>
+		<keyword>creative</keyword>
+		<keyword>checking blood pressure</keyword>
+		<keyword>competition</keyword>
+		<keyword>gotcha</keyword>
+		<keyword>constant quest</keyword>
+		<keyword>fight</keyword>
+		<keyword>facetime</keyword>
+		<keyword>dual frequency gps</keyword>
+		<keyword>laser</keyword>
+		<keyword>a17 bionic fusion chip</keyword>
+		<keyword>spontaneous reaction</keyword>
+		<keyword>bionic fusion chip</keyword>
+		<keyword>company website</keyword>
+		<keyword>polypropylene barrier</keyword>
+		<keyword>tic tac toe</keyword>
+		<keyword>grizzly bear fur</keyword>
+		<keyword>princess</keyword>
+		<keyword>gps</keyword>
+		<keyword>purrpetual pet</keyword>
+		<keyword>regular school</keyword>
+		<keyword>research</keyword>
+		<keyword>watching youtube videos</keyword>
+		<keyword>titanium core</keyword>
+		<keyword>preprogrammed response</keyword>
+		<keyword>rising temperature</keyword>
+		<keyword>shifted world axis</keyword>
+		<keyword>young kid</keyword>
+		<keyword>tsunami</keyword>
+		<keyword>learning fun facts</keyword>
+		<keyword>tinder</keyword>
+		<keyword>tinder notification</keyword>
+		<keyword>wardrobe fitting</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>cloud server</keyword>
+		<keyword>speaking different languages</keyword>
+		<keyword>presale voucher</keyword>
+		<keyword>petz prototype</keyword>
+		<keyword>petz</keyword>
+		<keyword>playing a game</keyword>
+		<keyword>multiplatform game</keyword>
+		<keyword>tech rehearsal</keyword>
+		<keyword>playing with toys</keyword>
+		<keyword>conversational pattern</keyword>
+		<keyword>playing a multiplatform game</keyword>
+		<keyword>snow truck</keyword>
+		<keyword>generative android</keyword>
+		<keyword>niece</keyword>
+		<keyword>operating system</keyword>
+		<keyword>music video</keyword>
+		<keyword>birthday</keyword>
+		<keyword>objective function</keyword>
+		<keyword>livestreaming</keyword>
+		<keyword>ipad</keyword>
+		<keyword>hasbro</keyword>
+		<keyword>21st century technology</keyword>
+		<keyword>learning model</keyword>
+		<keyword>apex</keyword>
+		<keyword>public demonstration</keyword>
+		<keyword>gathering auxiliary internet data</keyword>
+		<keyword>auxiliary data</keyword>
+		<keyword>learning at home</keyword>
+		<keyword>line of code</keyword>
+		<keyword>hot dog</keyword>
+		<keyword>manufacturing costs</keyword>
+		<keyword>homeschooling</keyword>
+		<keyword>interactive toy</keyword>
+		<keyword>framework</keyword>
+		<keyword>basic formula</keyword>
+		<keyword>users' private conversation</keyword>
+		<keyword>flower decoration</keyword>
+		<keyword>exclusive live stream</keyword>
+		<keyword>drawing a picture</keyword>
+		<keyword>technological advancement</keyword>
+		<keyword>steroids</keyword>
+		<keyword>excellent listener</keyword>
+		<keyword>instrumental music</keyword>
+		<keyword>roasted chestnuts</keyword>
+		<keyword>learning a valuable lesson</keyword>
+		<keyword>learning manners</keyword>
+		<keyword>science</keyword>
+		<keyword>occupational hazard</keyword>
+		<keyword>phone number</keyword>
+		<keyword>potential homicide</keyword>
+		<keyword>behavioral model</keyword>
+		<keyword>shock collar</keyword>
+		<keyword>safe space</keyword>
+		<keyword>cerebral cortex</keyword>
+		<keyword>full body paralysis</keyword>
+		<keyword>subscriber feed</keyword>
+		<keyword>showing an emotional response</keyword>
+		<keyword>response model</keyword>
+		<keyword>stereoscopic camera</keyword>
+		<keyword>seat belt</keyword>
+		<keyword>feeding a toy virtual food</keyword>
+		<keyword>learning outdoors</keyword>
+		<keyword>parents' death</keyword>
+		<keyword>emotional response</keyword>
+		<keyword>eliminating a potential threat</keyword>
+		<keyword>radar</keyword>
+		<keyword>running diagnostics</keyword>
+		<keyword>proxy robot</keyword>
+		<keyword>reference to janis joplin</keyword>
+		<keyword>obvious design flaw</keyword>
+		<keyword>listening model</keyword>
+		<keyword>middle of the road</keyword>
+		<keyword>radiology</keyword>
+		<keyword>swipe card</keyword>
+		<keyword>super smart</keyword>
+		<keyword>physical harm</keyword>
+		<keyword>unique approach</keyword>
+		<keyword>unanswered voice message</keyword>
+		<keyword>furry creature</keyword>
+		<keyword>making a sandwich</keyword>
+		<keyword>emergent capability</keyword>
+		<keyword>data request</keyword>
+		<keyword>specific learning differences</keyword>
+		<keyword>developing social skills</keyword>
+		<keyword>demonstration</keyword>
+		<keyword>mayhem</keyword>
+		<keyword>silicone skin pigmentation</keyword>
+		<keyword>wooden surface</keyword>
+		<keyword>silicone skin</keyword>
+		<keyword>cyborg puppet</keyword>
+		<keyword>vector representation</keyword>
+		<keyword>building emotional connections</keyword>
+		<keyword>parental controls</keyword>
+		<keyword>playlist</keyword>
+		<keyword>stolen company secret</keyword>
+		<keyword>reference to jane austen</keyword>
+		<keyword>reference to michael jackson</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>flannel shirt</keyword>
+	</keywords>
+	<directors>
+		<director> Gerard Johnstone</director>
+	</directors>
+	<composers>
+		<composer> Anthony Willis</composer>
+	</composers>
+	<producers>
+		<producer> Jason Blum</producer>
+		<producer> Michael Clear</producer>
+		<producer> Greg Gilreath</producer>
+		<producer> Adam Hendricks</producer>
+		<producer> Mark David Katchur</producer>
+		<producer> Judson Scott</producer>
+		<producer> Jennifer Scudder Trent</producer>
+		<producer> Luke Sharpe</producer>
+		<producer> Jill Soper</producer>
+		<producer> Ryan Turek</producer>
+		<producer> James Wan</producer>
+		<producer> Allison Williams</producer>
+	</producers>
+	<writers>
+		<writer> Akela Cooper</writer>
+		<writer> Akela Cooper</writer>
+		<writer> James Wan</writer>
+	</writers>
+	<editors>
+		<editor> Jeff McEvoy</editor>
+	</editors>
 </doc>
