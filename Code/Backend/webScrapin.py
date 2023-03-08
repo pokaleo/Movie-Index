@@ -1,14 +1,20 @@
+"""
+------------------------------------------------------------
+Author: Yvonne Ding
+Date: 7th March 2023
+Description: Web-scraping IMDb info and convert to XML format
+methods
+------------------------------------------------------------
+"""
+
+
 import argparse
 import requests
 from bs4 import BeautifulSoup
 from collections import defaultdict
 import re
-from dict2xml import dict2xml
-from dicttoxml import dicttoxml
-from xml.dom.minidom import parseString
 import os
 import xml.etree.ElementTree as ET
-from xml.etree.ElementTree import Element,tostring
 import xml.dom.minidom
 
 
@@ -18,36 +24,12 @@ class webScraping:
         self.url_baseline = url_baseline
         self.doc_id = [] # link to access the page of video details
         self.allInfo = defaultdict(lambda: defaultdict(str)) # {id1: {title: , year: , type: ,colorinfo: ,}, id2:{...}}
-        
-        # DONE
-        # self.title = defaultdict(list)
-        # self.year = defaultdict(list) 
-        # self.runningtimes = defaultdict(list) 
-        # self.certificates = defaultdict(list) 
-        # self.genres = defaultdict(list) 
-        # self.plot = defaultdict(list) 
-        # self.releasedates = defaultdict(list)
-        # self.countries = defaultdict(list) 
-        # self.language = defaultdict(list)       
-        # self.colorinfo = defaultdict(list)
-        # self.soundmixes = defaultdict(list)
-        # self.directors = defaultdict(list)
-        # self.keywords = defaultdict(list)
-        # self.type = defaultdict(list)
-        # self.writers = defaultdict(list)
-        # self.composers = defaultdict(list)
-        # self.editors = defaultdict(list)
-        # self.producers = defaultdict(list)
-        # self.cast = defaultdict(list)
 
         # TODO
         # Cast Image
 
 
-
-
     def certainResponse(self, container, curr_class, curr_str):
-        # res = defaultdict(str)
         res = []
         if curr_str == 'runtime':
             temp = container.p.find(curr_class, class_ = curr_str)
@@ -113,7 +95,6 @@ class webScraping:
 
 
     def getCrew(self,container,curr_class,curr_id):
-        # res = []
         crew_ = container.find(curr_class,attrs={'class':"dataHeaderWithBorder",'id':curr_id})
         if crew_ == None:
             return None
@@ -128,12 +109,10 @@ class webScraping:
                     name_ = i.find('a').text.replace('\n','')
                     cr_list.append(name_)
 
-            # res[curr_id] = cr_list
             return cr_list
     
 
     def geCast(self,container,curr_class):
-        # res_cast = defaultdict(dict)
         cast_list = []
         for i in container:
             act_ = defaultdict(str)
@@ -141,7 +120,7 @@ class webScraping:
             act_['actor'] = i.find(curr_class, attrs={'data-testid':'title-cast-item__actor'}).text
             char_['role'] = i.find(curr_class,attrs={'data-testid':'cast-item-characters-link'}).span.text
             cast_list.append((act_, char_))
-        # res_cast['credit'] = cast_list
+
         return cast_list
     
 
@@ -163,7 +142,6 @@ class webScraping:
             curr_info['title'] = container.h3.a.text
             curr_info['year'] = container.h3.find('span', class_ = 'lister-item-year text-muted unbold').text.replace('(', '').replace(')', '')
             curr_info['runningtimes'] = self.certainResponse(container,'span','runtime')
-            # curr_info['certificates'] = self.certainResponse(container,'span','certificate')
             curr_info['genres'] = self.certainResponse(container,'span','genre')
             all_in_text_muted = container.find_all('p', class_ = 'text-muted')
             curr_info['plot'] = all_in_text_muted[1].text.replace('\n', '') if len(all_in_text_muted) >1 else '*****'
@@ -267,11 +245,6 @@ class webScraping:
 
 
 
-
-
-
-
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--url', type=str, help='URL')
@@ -280,9 +253,9 @@ if __name__ == '__main__':
     webScrap = webScraping(args.url, args.url_baseline)
 
     webScrap.getResponse()
-    webScrap.dict2XML()
+    # webScrap.dict2XML()
 
 
 # command line: 
-# python3 webScrap.py --url https://www.imdb.com/search/title/\?release_date\=2010-01-01,2023-01-01 --url_baseline https://www.imdb.com 
+# python3 webScrap.py --url https://www.imdb.com/search/title/?release_date=2010-01-01,2023-01-01 --url_baseline https://www.imdb.com 
     
