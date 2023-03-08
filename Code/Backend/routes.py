@@ -92,6 +92,11 @@ def testQuery():
 def getMovie(id):
     print(id)
     response = moviedict[id]
+    title = moviedict[id]['title']
+    print(title)
+    url = Util.return_image(title)
+    print(url)
+    response['img'] = url
     print(response)
     return jsonify(response)
 
@@ -278,10 +283,11 @@ def searchQuery():
     ed_cpu = time.process_time()
 
     response = {
-        'results': reslist,
+        'results': reslist[:500],
         'ids': id_res,
         'wallT': round((ed-st)*1000, 6),
         'cpuT': round((ed_cpu-st_cpu)*1000, 6),
+        'total': len(reslist)
     }
     
     #print('data: ', data)

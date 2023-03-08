@@ -19,7 +19,7 @@
         <p>Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
       </div>
       <div class="big-title">
-        <p> <i> {{ movieList.rel.length }} </i> results are found.</p>
+        <p> <i> {{ totalNum }} </i> results are found. Show {{ movieList.rel.length }} only</p>
       </div>
       <el-radio-group v-model="sort_by">
         <el-radio :label="1">By Relevance</el-radio>
@@ -70,6 +70,7 @@ let movieList = reactive({value:[],show:[], rel:[]})
 let spellchecked = reactive({value:[]})
 let wallTime = ref('')
 let cpuTime = ref('')
+let totalNum = ref('')
 const relevence_ids = ref([])
 
 let hasCorrected = ref(true)
@@ -80,7 +81,7 @@ console.log(route.query)
 const state = reactive({
   currentPage:1,
   total:1000,
-  pageSize:25
+  pageSize:10
 })
 
 const sort_by = ref(1)
@@ -141,6 +142,7 @@ const getData=async()=>{
       cpuTime.value = res.data.cpuT
 
       movieList.show = movieList.rel.slice()
+      totalNum.value = res.data.total
       //console.log(movieList[0])
       //console.log(spellchecked)
      })

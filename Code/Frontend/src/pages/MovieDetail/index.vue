@@ -7,37 +7,40 @@
           <el-container class="body">
               <el-main class="movieBody">
               <h1 class="title">{{info.title}}</h1>
-              <el-space spacer="|">
-                  <div><el-icon><Calendar /></el-icon></div>{{ info.year }}
-                  <el-icon><Location /></el-icon>
-                  <div v-for= "(c, index) in info.countries" :key="index">
+                <el-space spacer="|">
+                    <div><el-icon><Calendar /></el-icon></div>{{ info.year }}
+                    <el-icon><Location /></el-icon>
+                    <div v-for= "(c, index) in info.countries" :key="index">
+                        {{ c }} 
+                    </div>
+                </el-space>
+                <el-space spacer="|">
+                    <el-icon><CollectionTag /></el-icon>
+                    <div v-for="(genre, index) in info.genres" :key="index">
+                        {{ genre }} 
+                    </div>
+                </el-space>
+                <el-space spacer="|">
+                  <el-icon><VideoCameraFilled /></el-icon>
+                  <div v-for="(c, index) in info.colorinfos" :key="index">
                       {{ c }} 
                   </div>
-              </el-space>
-              <el-space spacer="|">
-                  <el-icon><CollectionTag /></el-icon>
-                  <div v-for="(genre, index) in info.genres" :key="index">
-                      {{ genre }} 
+                </el-space>
+                <el-space spacer="|">
+                  <el-icon><Stopwatch /></el-icon>
+                  <div v-for="(r, index) in info.runningtimes" :key="index">
+                      {{ r[0] }}: {{ r[1] }} mins
                   </div>
-              </el-space>
-              <el-space spacer="|">
-                <el-icon><VideoCameraFilled /></el-icon>
-                <div v-for="(c, index) in info.colorinfos" :key="index">
-                    {{ c }} 
-                </div>
-              </el-space>
-              <el-space spacer="|">
-                <el-icon><Stopwatch /></el-icon>
-                <div v-for="(r, index) in info.runningtimes" :key="index">
-                    {{ r[0] }}: {{ r[1] }} mins
-                </div>
-              </el-space>
-              <el-space spacer="|">
-                <el-icon><ChatDotSquare /></el-icon>
-                <div v-for="(l, index) in info.languages" :key="index">
-                    {{ l }}
-                </div>
-              </el-space>
+                </el-space>
+                <el-space spacer="|">
+                  <el-icon><ChatDotSquare /></el-icon>
+                  <div v-for="(l, index) in info.languages" :key="index">
+                      {{ l }}
+                  </div>
+                </el-space>
+              <div class="poster">
+                <el-image style="width: 300px; height: 300px" :src="info.img" :fit='contain'></el-image>
+              </div>
               <div class="fields">  
                   <h2>Description</h2>
                   <p>{{info.plot}}</p>
@@ -112,7 +115,6 @@
 <script setup>
 import KeyWordsBar from './KeyWordsBar.vue';
 import SearchBar from './SearchBar.vue';
-import {ref} from 'vue';
 import { reactive, getCurrentInstance, onBeforeMount} from "vue";
 import { useRoute } from 'vue-router'
  
@@ -136,7 +138,8 @@ var info = reactive({
   title:"",
   type:"",
   writers:[],
-  year:""})
+  year:"",
+  img: ""})
 
 const route = useRoute()
 proxy.$http
@@ -164,6 +167,7 @@ proxy.$http
        info.runningtimes=JSON.parse(JSON.stringify(res.data.runningtimes));
        info.soundmixes=JSON.parse(JSON.stringify(res.data.soundmixes))
        info.writers = JSON.parse(JSON.stringify(res.data.writers))
+       info.img = res.data.img
 
        
        //info.genres.push(...res.data.genres)
