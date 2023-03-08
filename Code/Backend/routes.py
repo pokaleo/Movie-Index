@@ -94,7 +94,10 @@ def getMovie(id):
     response = moviedict[id]
     title = moviedict[id]['title']
     print(title)
-    url = Util.return_image(title)
+    try:
+        url = Util.return_image(title)
+    except:
+        url = ""
     print(url)
     response['img'] = url
     print(response)
