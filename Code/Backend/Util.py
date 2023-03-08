@@ -100,7 +100,7 @@ def return_image(title):
         String -> Image url
 
     """
-    encode_title = urllib.parse.quote(title.text)
+    encode_title = urllib.parse.quote(title)
     url_baseline = 'https://www.imdb.com'
     curr_url = url_baseline + '/find/?q='+ encode_title + '&ref_=nv_sr_sm'
     req = requests.get(url= curr_url, headers={'User-Agent': 'Mozilla/5.0'}).text
