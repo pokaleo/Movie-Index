@@ -12,7 +12,7 @@ import Query
 import Spellcheck
 import JSONParser
 import Util
-# ../TestDataset  ../Dataset/IMDB Movie Info
+# ../TestDataset  ../Dataset/IMDB Movie Info ../Dataset/IMDB TestData
 
 """
 Providing possibility of export and import for the processed data
@@ -331,4 +331,4 @@ def spell():
     return jsonify(response)
 
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0',port=8800)
+    app.run(debug=False, host='0.0.0.0',port=8800)

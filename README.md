@@ -12,7 +12,9 @@ This is an implementation of a simple search engine acting as the fulfilment of 
 
 pip install -r Code/requirements.txt
 
-Code/Backend gunicorn --bind 0.0.0.0:8800 WSGI:app
+chmod 755 /PATH_TO_THIS_PROJECT
+
+gunicorn --bind 0.0.0.0:8800 --timeout 600 WSGI:app
 
 Code/Frontend npm dev run
 
