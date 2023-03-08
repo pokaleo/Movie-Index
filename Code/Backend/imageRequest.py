@@ -52,34 +52,6 @@ class imageRequest:
             imageInfo[k] = one_image
         return imageInfo
     
-    def return_image(self,title):
-        """
-        Return image url by giving the corresponding title
-
-        Args:
-            title: String -> a title
-
-        Returns:
-            String -> Image url
-
-        """
-        encode_title = urllib.parse.quote(title)
-        url_baseline = 'https://www.imdb.com'
-        curr_url = url_baseline + '/find/?q='+ encode_title + '&ref_=nv_sr_sm'
-        req = requests.get(url= curr_url, headers={'User-Agent': 'Mozilla/5.0'}).text
-        curr_page = BeautifulSoup(req,'html.parser')
-        
-        search_access = curr_page.find('div', attrs={'class':'sc-17bafbdb-2 ffAEHI'})
-        response_href = search_access.find('li').a['href']
-        
-        target_url = url_baseline + response_href
-        target_req = requests.get(url= target_url, headers={'User-Agent': 'Mozilla/5.0'}).text
-        target_page = BeautifulSoup(target_req,'html.parser')
-
-        opt_data = target_page.find('div', attrs={'class':"ipc-media ipc-media--poster-27x40 ipc-image-media-ratio--poster-27x40 ipc-media--baseAlt ipc-media--poster-l ipc-poster__poster-image ipc-media__img"})
-        print(opt_data.img['src'])
-        return opt_data.img['src']
-    
         
 
 if __name__ == '__main__':
@@ -89,9 +61,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
     imageR = imageRequest(args.url_baseline, args.file_path)
 
-    # imageR.get_movie_info()
-    # imageR.getResponse()
-    imageR.return_image('Aftersun')
+    imageR.get_movie_info()
+    imageR.getResponse()
 
 
 # command line: 
