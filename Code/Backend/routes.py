@@ -67,6 +67,21 @@ elif mode == "export":
     processed_query_data_file.close()
     print("Successfully exported the processed data")
 
+def formatRes(id):
+    '''
+    params: id: str movie id
+    return: doc, a dict contain movie description 
+    '''
+    doc = {
+        "id": id,
+        "movieName": moviedict[id]['title'],
+        "description": moviedict[id]['plot'],
+        "director": moviedict[id]['directors'],
+        "year": moviedict[id]['year'],
+        "country": moviedict[id]['countries'],
+        "runtime": moviedict[id]['runningtimes']
+    }
+    return doc
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True)
@@ -115,44 +130,10 @@ def searchQuery():
     else:
         data = request.args
 
-    '''
-    parse the data
-    parsed_args = {'queryMsg':"",
-            'by':"", # a str for search category, i.e. title, any, genres, keywords, proximity
-            'need_check':False, # for debug only
-            'color':"", # a str in ["all", "bw", "color"]
-            'from':0, # int or None
-            'to':9999, # int or None
-            'additionQ':True, # a boolean value to check whether it is advanced search or not
-            'moreQueries':[] # list of tuples (bool_type,by, query), i.e. ('and','title', "Vincent") bool_type in ['and','or','not']
-        }
-    '''
     parsed_args = JSONParser.dataParse(data, request.method)
     print(parsed_args)
-
-   
-    #function to wrap up
-    def formatRes(id):
-        doc = {
-            "id": id,
-            "movieName": moviedict[id]['title'],
-            "description": moviedict[id]['plot'],
-            "director": moviedict[id]['directors'],
-            "year": moviedict[id]['year'],
-            "country": moviedict[id]['countries'],
-            "runtime": moviedict[id]['runningtimes']
-        }
-        return doc
     
     #Add function for extract results
-    search_method = {
-        'title': query.by_title,
-        'keywords': query.by_keywords,
-        'genres': query.by_genres,
-        'proximity': query.proximity_search,
-        'any': query.by_general
-        }
-    
     queryMsg=parsed_args['queryMsg']   
     if parsed_args['by'] == 'proximity':
         dist, w1, w2 = queryMsg.split()
@@ -286,16 +267,27 @@ def searchQuery():
     ed_cpu = time.process_time()
 
     response = {
-        'results': reslist[:500],
+        'results': reslist[:200],
         'ids': id_res,
         'wallT': round((ed-st)*1000, 6),
         'cpuT': round((ed_cpu-st_cpu)*1000, 6),
         'total': len(reslist)
     }
-    
-    #print('data: ', data)
-    #print()
-    #return jsonify({})
+    return jsonify(response)
+
+@app.route('/fetchmore', methods=['GET','POST'])
+def fetchmore():
+    if request.method == 'POST':
+        data = request.get_json()
+    else:
+        data = request.args
+    id_list = JSONParser.listParse(data, request.method)
+    reslist = []
+    for mid in id_list:
+        reslist.append(formatRes(mid))
+    response = {
+        'results': reslist
+    }
     return jsonify(response)
 
 @app.route('/spellcheck', methods=['GET','POST'])

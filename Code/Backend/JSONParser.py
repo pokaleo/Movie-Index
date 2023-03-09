@@ -1,6 +1,21 @@
 import json
 
 def dataParse(data, method):
+    '''
+    parse the data
+    Args: data: args from json, method, "GET" or "POST"
+
+    Return : parsed_args = {'queryMsg':"",
+                'by':"", # a str for search category, i.e. title, any, genres, keywords, proximity
+                'need_check':False, # for debug only
+                'color':"", # a str in ["all", "bw", "color"]
+                'from':0, # int or None
+                'to':9999, # int or None
+                'additionQ':True, # a boolean value to check whether it is advanced search or not
+                'moreQueries':[] # list of tuples (bool_type,by, query), i.e. ('and','title', "Vincent") bool_type in ['and','or','not']
+        }
+
+    '''
     print("Data",data)
     res = {
             'queryMsg':None, # a str or (w1, w2, d)
@@ -82,4 +97,24 @@ def dataParse(data, method):
                         category = None
                     msg = q[-1]
                 res['moreQueries'].append((bool_name,category,msg))
+    return res
+
+def listParse(data, method):
+    '''
+    parse the data
+    Args: data: args from json, 
+          method, "GET" or "POST"
+    Return : res, a list of str
+    '''
+    res = []
+    if method == 'GET':
+        res = data.get('ids')
+        if res == None or res == 0 or res == '[]':
+            print("Empty id list was posted by frontend!")
+        else:
+            res = json.loads(res)
+            if isinstance(res, str):
+                res = [res]
+    #print(len(res))
+    #print(res)
     return res

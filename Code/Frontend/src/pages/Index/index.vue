@@ -19,7 +19,11 @@
         <p>Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
       </div>
       <div class="big-title">
-        <p> <i> {{ totalNum }} </i> results are found. Show {{ movieList.rel.length }} only</p>
+        <p> <i> {{ totalNum }} </i> results are found. Show Top {{ movieList.rel.length }} only. 
+          <el-button @click="handleFetchMore" v-if="movieList.rel.length < totalNum && movieList.rel.length != 0" text>
+            Show more?
+          </el-button>
+        </p> 
       </div>
       <el-radio-group v-model="sort_by">
         <el-radio :label="1">By Relevance</el-radio>
@@ -59,8 +63,8 @@
 
 <script setup>
 import { reactive,watch,getCurrentInstance, ref, h,computed} from 'vue';
-import { useRouter,useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from "vue-router"
-import { ElNotification } from 'element-plus'
+import { useRouter,useRoute} from "vue-router"
+import { ElNotification, ElMessageBox} from 'element-plus'
 import SearchBar from '../MovieDetail/SearchBar.vue';
 // import http from "@/util/http"
 const router = useRouter()
@@ -71,9 +75,9 @@ let spellchecked = reactive({value:[]})
 let wallTime = ref('')
 let cpuTime = ref('')
 let totalNum = ref('')
+let chunck_id = ref(0)
 const relevence_ids = ref([])
 
-let hasCorrected = ref(true)
 let q = ref(route.query.q)
 let t = ref(route.query.t)
 console.log(route.query)
@@ -133,27 +137,45 @@ const getData=async()=>{
       movieList.rel = JSON.parse(JSON.stringify(res.data.results))
       state.total = movieList.rel.length
       if(movieList.rel.length > state.pageSize){
-        movieList.value = movieList.rel.slice(0,25)
+        movieList.value = movieList.rel.slice(0,state.pageSize)
       }
       else{
         movieList.value = movieList.rel.slice()
       }
+      movieList.show = movieList.rel.slice()
+
+      totalNum.value = res.data.total
       wallTime.value = res.data.wallT
       cpuTime.value = res.data.cpuT
-
-      movieList.show = movieList.rel.slice()
-      totalNum.value = res.data.total
-      //console.log(movieList[0])
-      //console.log(spellchecked)
+      relevence_ids.value = JSON.parse(JSON.stringify(res.data.ids))
+      console.log(relevence_ids.value)
+      console.timeEnd("getData");
      })
      .catch(function(error) {
       console.log(error);
       //console.log(additions);
     })
 };
-console.time("getData");
-getData()
-console.timeLog("getData");
+
+const getMoreData=async()=>{
+  await proxy.$http
+     .get('/api/fetchmore',
+     {params:
+      {
+        ids:JSON.stringify(relevence_ids.value.slice(chunck_id.value*200, chunck_id.value*200+200)),
+      }
+    })
+     .then(function(res){
+      console.log(res)
+      movieList.rel = movieList.rel.concat(JSON.parse(JSON.stringify(res.data.results)))
+      state.total = movieList.rel.length
+      movieList.show = movieList.rel.slice()
+      console.log(movieList.rel.length)
+     })
+     .catch(function(error) {
+      console.log(error);
+    })
+};
 
 const getSpellCheck=async()=>{
   await proxy.$http
@@ -164,18 +186,15 @@ const getSpellCheck=async()=>{
     console.log(res)
     spellchecked.value = JSON.parse(JSON.stringify(res.data.corrected))
     console.log(spellchecked)
+    console.timeEnd("getSpellCheck");
   }).catch(function(error){
     console.log(error)
   })
 }
 
-console.time("getSpellCheck");
-
-if(route.query.pro == 'false')
-  getSpellCheck()
-
-console.timeLog("getSpellCheck");
-
+/**
+ *  watch the sort method
+ */
 watch(sort_by, (new_data, old_data)=>{
   if(new_data == 1){
     ElNotification({
@@ -216,18 +235,24 @@ watch(sort_by, (new_data, old_data)=>{
   }
 })
 
+/**
+ * jump to the new page
+ * @param {*} val 
+ */
 const handleCurrentChange=(val)=>{
   state.currentPage = val
   movieList.value = movieList.show.slice((val-1)*state.pageSize,val*state.pageSize)
 }
 
 const sliceStr= computed(()=>{
+  // to slice a simple discription (no more than 500 chars)
   return function (val,len){
     return val.length>len?val.slice(0,len)+"...":val
   }
 })
 
 const arrEtc= computed(()=>{
+  // add etc. after long array
   return function (arr,len){
     if(arr.length == 0)
       return "Unknown"
@@ -235,12 +260,39 @@ const arrEtc= computed(()=>{
   }
 })
 
-/*
-onMounted(() => {
-  console.log(route.params.query)
-  
-})
-*/
+const handleFetchMore = () =>{
+  ElMessageBox.confirm(
+    'Do you want to fetch more? The results will be sorted by relevance.',
+    'Search More?',
+    {
+      confirmButtonText: 'YES',
+      cancelButtonText: 'Cancel',
+      type: 'info',
+    }
+  ).then(()=>{
+    ElNotification({
+      title: 'Fetch more',
+      message: "Fetch next 200 results (if exist) and the result will be sorted by relevance",
+    })
+    sort_by.value = 1
+    chunck_id.value++
+    getMoreData()
+    console.log(chunck_id.value)
+  })
+  .catch(()=>{
+    console.log("Cancelled fetch more!")
+  })
+}
+
+console.time("getData");
+getData()
+
+if(route.query.pro == 'false')
+{
+  console.time("getSpellCheck");
+  getSpellCheck()
+}
+
 </script>
 
 <style scoped lang="less">
