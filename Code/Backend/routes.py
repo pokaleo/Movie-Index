@@ -107,6 +107,11 @@ def testQuery():
 def getMovie(id):
     print(id)
     response = moviedict[id]
+    print(response)
+    return jsonify(response)
+
+@app.route('/img/<id>',methods=["GET"])
+def getImg(id):
     title = moviedict[id]['title']
     print(title)
     try:
@@ -114,9 +119,9 @@ def getMovie(id):
     except:
         url = ""
     print(url)
-    response['img'] = url
-    print(response)
+    response = {'img':url}
     return jsonify(response)
+
 
 @app.route('/search', methods=['GET','POST'])
 def searchQuery():
