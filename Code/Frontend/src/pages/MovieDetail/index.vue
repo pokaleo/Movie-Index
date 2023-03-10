@@ -2,10 +2,17 @@
 <template>
   <div class="MovieView">
       <el-container class = page>
-          <el-header class="header">
+          <el-header class="header"> 
             <SearchBar class="searchbar"/>
           </el-header>
-
+          <el-row class="go">
+          <el-button  text>
+              <el-icon @click="jumpBack" color="black" size="25"><Back /></el-icon>
+            </el-button>
+            <el-button text>
+              <el-icon @click="jumpHome" color="black" size="25"><HomeFilled /></el-icon>
+            </el-button>
+          </el-row>
           <el-container class="body">
               <el-main class="movieBody">
                 <div class="brief">
@@ -33,7 +40,7 @@
                     </el-space>
                     <el-space spacer="|">
                         <el-icon><CollectionTag /></el-icon>
-                        <div v-for="(genre, index) in info.genres" :key="index">
+                        <div v-for="(genre, index) in info.genres" :key="index" @click="jumpLink(genre)">
                             {{ genre }} 
                         </div>
                         <div v-if="info.genres.length==0">Unknown</div>
@@ -119,7 +126,7 @@
                     <el-scrollbar class="srollbar" v-if="info.composers.length>0" always>
                       <el-space spacer='|'>
                         <div v-for="(composer, index) in info.composers" :key="index">
-                          <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ composer}}
+                          <el-icon style='padding-right: 10px'><Avatar /></el-icon>{{ composer }}
                         </div>
                       </el-space>
                     </el-scrollbar>
@@ -147,10 +154,12 @@
 import KeyWordsBar from './KeyWordsBar.vue';
 import SearchBar from './SearchBar.vue';
 import { reactive, getCurrentInstance} from "vue";
-import { useRoute } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router';
+import { ElMessageBox} from 'element-plus'
  
 let { proxy } = getCurrentInstance();
 let hasCast = true;
+const router = useRouter()
 var info = reactive({
   cast:{},
   certificates:	[],
@@ -214,6 +223,35 @@ const fetchImg=async()=>{
     })
 }
 
+/**
+ * jump to genre results
+ * @param genre 
+ */
+ const jumpLink = (genre) => {
+  ElMessageBox.confirm(
+          'Do you want to search results of "'+genre+'"?',
+          'Search',
+          {
+            confirmButtonText: 'YES',
+            cancelButtonText: 'Cancel',
+            type: 'info',
+          })
+          .then(()=>{
+            router.push({path:"/search",query:{q:genre, t:"genre", pro:false, check:false}})
+          })
+          .catch(()=>{
+            console.log("Jump Cancel!")
+          })
+}
+
+const jumpBack=()=>{
+  router.back()
+}
+
+const jumpHome=()=>{
+  router.push({name:"Start"})
+}
+
 fetchData()
 fetchImg()
 
@@ -232,13 +270,19 @@ fetchImg()
   align-items: flex-start;
 }
 .header{
-  background-color: black;
   text-align: center;
+  background-color: black;
   z-index: 100;
 }
 
-.searchbar{
+.header .searchbar{
   margin-top: 12px;
+}
+
+.go{
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 
 .movieBody{

@@ -29,22 +29,20 @@ const routes: Array<RouteRecordRaw> = [
   },
 ]
 
-// 创建路由
+// create router
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL), // vite中使用 import.meta.env.BASE_URL
+  history: createWebHistory(import.meta.env.BASE_URL), // use import.meta.env.BASE_URL in vite
   routes,
 })
 
 /**
- * @description: 全局后置路由守卫————初始化的时候被调用、每次路由切换之后被调用
- * @param {*} to 进入到哪个路由去
- * @param {*} from 从哪个路由离开
+ * @description: called when router change
+ * @param {*} to 
+ * @param {*} from 
  */
 router.afterEach((to, from) => {
   // @ts-ignore
   document.title = to.meta.title
 })
 
-
-// 暴露路由
 export default router

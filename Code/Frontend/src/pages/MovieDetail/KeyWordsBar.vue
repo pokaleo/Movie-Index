@@ -14,6 +14,7 @@
                 class="tag"
                 v-for="keyword in keywords"
                 :key="keyword"
+                @click="jumpLink(keyword)"
             >
             {{keyword}}
             </el-tag>
@@ -26,13 +27,32 @@
 </template>
 
 <script>
+import { ElMessageBox} from 'element-plus'
+import { useRouter } from "vue-router";
 export default{
     name: "KeyWordsBar",
     props:['keywords'],
-    data() {
-        return{
-            //keywords: ['keyword1','keyword2', 'keyword3']
-        }
+    setup(){
+      const router = useRouter()
+      const jumpLink=(keyword)=>{
+        ElMessageBox.confirm(
+          'Do you want to search results of "'+keyword+'"?',
+          'Search',
+          {
+            confirmButtonText: 'YES',
+            cancelButtonText: 'Cancel',
+            type: 'info',
+          })
+          .then(()=>{
+            router.push({path:"/search",query:{q:keyword, t:"keywords", pro:false, check:false}})
+          })
+          .catch(()=>{
+            console.log("Jump Cancel!")
+          })
+      }
+      return{
+        jumpLink
+      }
     }
 }
 </script>

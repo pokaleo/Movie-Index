@@ -287,10 +287,14 @@ const handleFetchMore = () =>{
 console.time("getData");
 getData()
 
-if(route.query.pro == 'false')
+if(route.query.pro == 'false' && route.query.check != 'false')
 {
   console.time("getSpellCheck");
+  console.log("SpellCheck");
   getSpellCheck()
+}
+else{
+  console.log("notSpellCheck");
 }
 
 </script>
