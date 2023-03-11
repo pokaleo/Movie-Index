@@ -33,28 +33,28 @@ class TestSearch(unittest.TestCase):
 
     def test_keywords_search(self, query_params, docid, year1=None, year2=None, not_ranking=False):
             start = time.time()
-            results = query.by_general(query_params, year1=None, year2=None, not_ranking=False)
+            results = query.by_keywords(query_params, year1=None, year2=None, not_ranking=False)
             end = time.time()
             print("Basic {:.4f} s".format(end-start), results)
             self.assertIn(docid, results)
         
     def test_title_search(self, query_params, docid, year1=None, year2=None, not_ranking=False):
             start = time.time()
-            results = query.by_general(query_params, year1=None, year2=None, not_ranking=False)
+            results = query.by_title(query_params, year1=None, year2=None, not_ranking=False)
             end = time.time()
             print("Basic {:.4f} s".format(end-start), results)
             self.assertIn(docid, results)
         
     def test_language_search(self, query_params, docid, year1=None, year2=None, not_ranking=False):
             start = time.time()
-            results = query.by_general(query_params, year1=None, year2=None, not_ranking=False)
+            results = query.by_language(query_params, year1=None, year2=None, not_ranking=False)
             end = time.time()
             print("Basic {:.4f} s".format(end-start), results)
             self.assertIn(docid, results)
         
     def test_genres_search(self, query_params, docid, year1=None, year2=None, not_ranking=False):
             start = time.time()
-            results = query.by_general(query_params, year1=None, year2=None, not_ranking=False)
+            results = query.by_genres(query_params, year1=None, year2=None, not_ranking=False)
             end = time.time()
             print("Basic {:.4f} s".format(end-start), results)
             self.assertIn(docid, results)
