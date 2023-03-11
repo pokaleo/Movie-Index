@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
 <title>Backend.Util API documentation</title>
-<meta name="description" content="Author: Leo LI
+<meta name="description" content="Author: Leo LI, Yvonne Ding
 Date: 28th Feb 2023
 Description: Utility functions providing useful static
 methods" />
@@ -26,7 +26,7 @@ methods" />
 </header>
 <section id="section-intro">
 <hr>
-<p>Author: Leo LI
+<p>Author: Leo LI, Yvonne Ding
 Date: 28th Feb 2023
 Description: Utility functions providing useful static
 methods</p>
@@ -37,7 +37,7 @@ methods</p>
 </summary>
 <pre><code class="python">&#34;&#34;&#34;
 ------------------------------------------------------------
-Author: Leo LI
+Author: Leo LI, Yvonne Ding
 Date: 28th Feb 2023
 Description: Utility functions providing useful static
 methods
@@ -45,6 +45,9 @@ methods
 &#34;&#34;&#34;
 from string import punctuation
 from nltk.stem.snowball import SnowballStemmer
+import urllib.parse
+import requests
+from bs4 import BeautifulSoup
 
 
 def to_lowercase(term):
@@ -121,7 +124,35 @@ def remove_stop_words(query, stop_words):
     for token in query:
         if token not in stop_words:
             temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
-    return temp_list</code></pre>
+    return temp_list
+
+def return_image(title):
+    &#34;&#34;&#34;
+    Return image url by giving the corresponding title
+
+    Args:
+        title: String -&gt; a title
+
+    Returns:
+        String -&gt; Image url
+
+    &#34;&#34;&#34;
+    encode_title = urllib.parse.quote(title)
+    url_baseline = &#39;https://www.imdb.com&#39;
+    curr_url = url_baseline + &#39;/find/?q=&#39;+ encode_title + &#39;&amp;ref_=nv_sr_sm&#39;
+    req = requests.get(url= curr_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
+    curr_page = BeautifulSoup(req,&#39;html.parser&#39;)
+    
+    search_access = curr_page.find(&#39;div&#39;, attrs={&#39;class&#39;:&#39;sc-17bafbdb-2 ffAEHI&#39;})
+    response_href = search_access.find(&#39;li&#39;).a[&#39;href&#39;]
+    
+    target_url = url_baseline + response_href
+    target_req = requests.get(url= target_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
+    target_page = BeautifulSoup(target_req,&#39;html.parser&#39;)
+
+    opt_data = target_page.find(&#39;div&#39;, attrs={&#39;class&#39;:&#34;ipc-media ipc-media--poster-27x40 ipc-image-media-ratio--poster-27x40 ipc-media--baseAlt ipc-media--poster-l ipc-poster__poster-image ipc-media__img&#34;})
+    return opt_data.img[&#39;src&#39;]
+    </code></pre>
 </details>
 </section>
 <section>
@@ -234,6 +265,50 @@ def remove_stop_words(query, stop_words):
     return temp_list</code></pre>
 </details>
 </dd>
+<dt id="Backend.Util.return_image"><code class="name flex">
+<span>def <span class="ident">return_image</span></span>(<span>title)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Return image url by giving the corresponding title</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>title</code></strong></dt>
+<dd>String -&gt; a title</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>String -&gt; Image url</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def return_image(title):
+    &#34;&#34;&#34;
+    Return image url by giving the corresponding title
+
+    Args:
+        title: String -&gt; a title
+
+    Returns:
+        String -&gt; Image url
+
+    &#34;&#34;&#34;
+    encode_title = urllib.parse.quote(title)
+    url_baseline = &#39;https://www.imdb.com&#39;
+    curr_url = url_baseline + &#39;/find/?q=&#39;+ encode_title + &#39;&amp;ref_=nv_sr_sm&#39;
+    req = requests.get(url= curr_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
+    curr_page = BeautifulSoup(req,&#39;html.parser&#39;)
+    
+    search_access = curr_page.find(&#39;div&#39;, attrs={&#39;class&#39;:&#39;sc-17bafbdb-2 ffAEHI&#39;})
+    response_href = search_access.find(&#39;li&#39;).a[&#39;href&#39;]
+    
+    target_url = url_baseline + response_href
+    target_req = requests.get(url= target_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
+    target_page = BeautifulSoup(target_req,&#39;html.parser&#39;)
+
+    opt_data = target_page.find(&#39;div&#39;, attrs={&#39;class&#39;:&#34;ipc-media ipc-media--poster-27x40 ipc-image-media-ratio--poster-27x40 ipc-media--baseAlt ipc-media--poster-l ipc-poster__poster-image ipc-media__img&#34;})
+    return opt_data.img[&#39;src&#39;]</code></pre>
+</details>
+</dd>
 <dt id="Backend.Util.stem_data"><code class="name flex">
 <span>def <span class="ident">stem_data</span></span>(<span>term)</span>
 </code></dt>
@@ -309,10 +384,11 @@ def remove_stop_words(query, stop_words):
 </ul>
 </li>
 <li><h3><a href="#header-functions">Functions</a></h3>
-<ul class="">
+<ul class="two-column">
 <li><code><a title="Backend.Util.is_phrase_search" href="#Backend.Util.is_phrase_search">is_phrase_search</a></code></li>
 <li><code><a title="Backend.Util.remove_punctuation" href="#Backend.Util.remove_punctuation">remove_punctuation</a></code></li>
 <li><code><a title="Backend.Util.remove_stop_words" href="#Backend.Util.remove_stop_words">remove_stop_words</a></code></li>
+<li><code><a title="Backend.Util.return_image" href="#Backend.Util.return_image">return_image</a></code></li>
 <li><code><a title="Backend.Util.stem_data" href="#Backend.Util.stem_data">stem_data</a></code></li>
 <li><code><a title="Backend.Util.to_lowercase" href="#Backend.Util.to_lowercase">to_lowercase</a></code></li>
 </ul>

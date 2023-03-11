@@ -48,6 +48,9 @@ import Util
 
 
 class Query:
+    &#34;&#34;&#34;
+    Class handling the query request and providing APIs
+    &#34;&#34;&#34;
     def __init__(self, dataset):
         self.__dataset = dataset.get_data()
         self.__index_general = dataset.get_index()
@@ -625,12 +628,15 @@ class Query:
 <span>(</span><span>dataset)</span>
 </code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>Class handling the query request and providing APIs</p></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">class Query:
+    &#34;&#34;&#34;
+    Class handling the query request and providing APIs
+    &#34;&#34;&#34;
     def __init__(self, dataset):
         self.__dataset = dataset.get_data()
         self.__index_general = dataset.get_index()

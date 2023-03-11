@@ -11,6 +11,9 @@ import Util
 
 
 class Query:
+    """
+    Class handling the query request and providing APIs
+    """
     def __init__(self, dataset):
         self.__dataset = dataset.get_data()
         self.__index_general = dataset.get_index()

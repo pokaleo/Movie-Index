@@ -28,18 +28,39 @@
 </summary>
 <pre><code class="python">import json
 
+
 def dataParse(data, method):
-    print(&#34;Data&#34;,data)
+    &#39;&#39;&#39;
+    parse the data
+
+    Args:
+        data: args from json, method, &#34;GET&#34; or &#34;POST&#34;
+
+    Returns:
+        parsed_args:
+                {&#39;queryMsg&#39;:&#34;&#34;,
+                &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, any, genres, keywords, proximity
+                &#39;need_check&#39;:False, # for debug only
+                &#39;color&#39;:&#34;&#34;, # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
+                &#39;from&#39;:0, # int or None
+                &#39;to&#39;:9999, # int or None
+                &#39;additionQ&#39;:True, # a boolean value to check whether it is advanced search or not
+                &#39;moreQueries&#39;:[] # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+        }
+
+    &#39;&#39;&#39;
+    print(&#34;Data&#34;, data)
     res = {
-            &#39;queryMsg&#39;:None, # a str or (w1, w2, d)
-            &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, genre, keywords, proximity, None
-            &#39;need_check&#39;:False, # for debug only
-            &#39;color&#39;:&#34;&#34;, # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
-            &#39;from&#39;:0, # int or None
-            &#39;to&#39;:9999, # int or None
-            &#39;additionQ&#39;:True, # a boolean value to check whether it is advanced search or not
-            &#39;moreQueries&#39;:[] # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
-            }
+        &#39;queryMsg&#39;: None,  # a str or (w1, w2, d)
+        &#39;by&#39;: &#34;&#34;,  # a str for search category, i.e. title, genre, keywords, proximity, None
+        &#39;need_check&#39;: False,  # for debug only
+        &#39;color&#39;: &#34;&#34;,  # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
+        &#39;from&#39;: 0,  # int or None
+        &#39;to&#39;: 9999,  # int or None
+        &#39;additionQ&#39;: True,  # a boolean value to check whether it is advanced search or not
+        &#39;moreQueries&#39;: []
+        # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+    }
     if data.get(&#39;pro&#39;) == &#39;true&#39;:
         res[&#39;by&#39;] = &#39;proximity&#39;
         msg = data.get(&#39;query&#39;)
@@ -47,26 +68,26 @@ def dataParse(data, method):
         word1 = q[0]
         word2 = q[1]
         d = q[2]
-        res[&#39;queryMsg&#39;] = d+&#39; &#39;+word1+&#39; &#39;+word2
+        res[&#39;queryMsg&#39;] = d + &#39; &#39; + word1 + &#39; &#39; + word2
     else:
         res[&#39;queryMsg&#39;] = data.get(&#39;query&#39;)
-        res[&#39;by&#39;]=data.get(&#39;by&#39;)
+        res[&#39;by&#39;] = data.get(&#39;by&#39;)
         if res[&#39;by&#39;] == &#39;any&#39;:
             res[&#39;by&#39;] = None
 
     if method == &#39;GET&#39;:
-        res[&#39;need_check&#39;] = data.get(&#39;need_check&#39;,type=bool)
+        res[&#39;need_check&#39;] = data.get(&#39;need_check&#39;, type=bool)
         if data.get(&#39;pro&#39;) == &#39;true&#39;:
             res[&#39;need_check&#39;] = False
 
-        res[&#39;from&#39;] = data.get(&#39;from&#39;,type=int)
-        res[&#39;to&#39;] = data.get(&#39;to&#39;,type=int)
-        colorlist =  data.get(&#39;color&#39;)
+        res[&#39;from&#39;] = data.get(&#39;from&#39;, type=int)
+        res[&#39;to&#39;] = data.get(&#39;to&#39;, type=int)
+        colorlist = data.get(&#39;color&#39;)
         if colorlist == None or len(colorlist) == 0 or colorlist == &#39;[]&#39;:
             res[&#39;color&#39;] = &#39;all&#39;
         else:
             colorlist = json.loads(colorlist)
-            
+
             if isinstance(colorlist, str):
                 colorlist = [colorlist]
             if len(colorlist) == 2:
@@ -79,37 +100,62 @@ def dataParse(data, method):
         print(&#34;colorlist&#34;, colorlist)
 
         otherQueries = data.get(&#39;additions&#39;)
-        #print(otherQueries[0])
+        # print(otherQueries[0])
         if otherQueries == None or len(otherQueries) == 0 or otherQueries == &#39;[]&#39;:
             res[&#39;additionQ&#39;] = False
         else:
             res[&#39;additionQ&#39;] = True
             otherQueries = json.loads(otherQueries)
-            if isinstance(otherQueries,str):
+            if isinstance(otherQueries, str):
                 otherQueries = [otherQueries]
-            print(&#34;other&#34;,otherQueries)
+            print(&#34;other&#34;, otherQueries)
             for item in otherQueries:
                 q = item.split(&#34;,&#34;)
                 bool_type = q[0]
-                category = q[1] # title, genres, proximity...
-                bool_name =&#39;&#39;
+                category = q[1]  # title, genres, proximity...
+                bool_name = &#39;&#39;
                 if bool_type == &#39;1&#39;:
                     bool_name = &#39;and&#39;
                 elif bool_type == &#39;2&#39;:
-                    bool_name=&#39;or&#39;
+                    bool_name = &#39;or&#39;
                 else:
-                    bool_name=&#39;not&#39;
+                    bool_name = &#39;not&#39;
                 msg = &#39;&#39;
                 if category == &#39;proximity&#39;:
                     word1 = q[2]
                     word2 = q[3]
                     d = q[4]
-                    msg = &#39;#&#39;+d+&#39; &#39;+word1+&#39; &#39;+word2
+                    msg = &#39;#&#39; + d + &#39; &#39; + word1 + &#39; &#39; + word2
                 else:
                     if category == &#39;any&#39;:
                         category = None
                     msg = q[-1]
-                res[&#39;moreQueries&#39;].append((bool_name,category,msg))
+                res[&#39;moreQueries&#39;].append((bool_name, category, msg))
+    return res
+
+
+def listParse(data, method):
+    &#34;&#34;&#34;
+    parse the data
+
+    Args:
+        data: args from json,
+        method: &#34;GET&#34; or &#34;POST&#34;
+
+    Returns:
+        res: a list of str
+    &#34;&#34;&#34;
+    res = []
+    if method == &#39;GET&#39;:
+        res = data.get(&#39;ids&#39;)
+        if res == None or res == 0 or res == &#39;[]&#39;:
+            print(&#34;Empty id list was posted by frontend!&#34;)
+        else:
+            res = json.loads(res)
+            if isinstance(res, str):
+                res = [res]
+    # print(len(res))
+    # print(res)
     return res</code></pre>
 </details>
 </section>
@@ -124,23 +170,59 @@ def dataParse(data, method):
 <span>def <span class="ident">dataParse</span></span>(<span>data, method)</span>
 </code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>parse the data</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>data</code></strong></dt>
+<dd>args from json, method, "GET" or "POST"</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>parsed_args:
+{'queryMsg':"",
+'by':"", # a str for search category, i.e. title, any, genres, keywords, proximity
+'need_check':False, # for debug only
+'color':"", # a str in ["all", "bw", "color"]
+'from':0, # int or None
+'to':9999, # int or None
+'additionQ':True, # a boolean value to check whether it is advanced search or not
+'moreQueries':[] # list of tuples (bool_type,by, query), i.e. ('and','title', "Vincent") bool_type in ['and','or','not']
+}</p></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">def dataParse(data, method):
-    print(&#34;Data&#34;,data)
+    &#39;&#39;&#39;
+    parse the data
+
+    Args:
+        data: args from json, method, &#34;GET&#34; or &#34;POST&#34;
+
+    Returns:
+        parsed_args:
+                {&#39;queryMsg&#39;:&#34;&#34;,
+                &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, any, genres, keywords, proximity
+                &#39;need_check&#39;:False, # for debug only
+                &#39;color&#39;:&#34;&#34;, # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
+                &#39;from&#39;:0, # int or None
+                &#39;to&#39;:9999, # int or None
+                &#39;additionQ&#39;:True, # a boolean value to check whether it is advanced search or not
+                &#39;moreQueries&#39;:[] # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+        }
+
+    &#39;&#39;&#39;
+    print(&#34;Data&#34;, data)
     res = {
-            &#39;queryMsg&#39;:None, # a str or (w1, w2, d)
-            &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, genre, keywords, proximity, None
-            &#39;need_check&#39;:False, # for debug only
-            &#39;color&#39;:&#34;&#34;, # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
-            &#39;from&#39;:0, # int or None
-            &#39;to&#39;:9999, # int or None
-            &#39;additionQ&#39;:True, # a boolean value to check whether it is advanced search or not
-            &#39;moreQueries&#39;:[] # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
-            }
+        &#39;queryMsg&#39;: None,  # a str or (w1, w2, d)
+        &#39;by&#39;: &#34;&#34;,  # a str for search category, i.e. title, genre, keywords, proximity, None
+        &#39;need_check&#39;: False,  # for debug only
+        &#39;color&#39;: &#34;&#34;,  # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
+        &#39;from&#39;: 0,  # int or None
+        &#39;to&#39;: 9999,  # int or None
+        &#39;additionQ&#39;: True,  # a boolean value to check whether it is advanced search or not
+        &#39;moreQueries&#39;: []
+        # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+    }
     if data.get(&#39;pro&#39;) == &#39;true&#39;:
         res[&#39;by&#39;] = &#39;proximity&#39;
         msg = data.get(&#39;query&#39;)
@@ -148,26 +230,26 @@ def dataParse(data, method):
         word1 = q[0]
         word2 = q[1]
         d = q[2]
-        res[&#39;queryMsg&#39;] = d+&#39; &#39;+word1+&#39; &#39;+word2
+        res[&#39;queryMsg&#39;] = d + &#39; &#39; + word1 + &#39; &#39; + word2
     else:
         res[&#39;queryMsg&#39;] = data.get(&#39;query&#39;)
-        res[&#39;by&#39;]=data.get(&#39;by&#39;)
+        res[&#39;by&#39;] = data.get(&#39;by&#39;)
         if res[&#39;by&#39;] == &#39;any&#39;:
             res[&#39;by&#39;] = None
 
     if method == &#39;GET&#39;:
-        res[&#39;need_check&#39;] = data.get(&#39;need_check&#39;,type=bool)
+        res[&#39;need_check&#39;] = data.get(&#39;need_check&#39;, type=bool)
         if data.get(&#39;pro&#39;) == &#39;true&#39;:
             res[&#39;need_check&#39;] = False
 
-        res[&#39;from&#39;] = data.get(&#39;from&#39;,type=int)
-        res[&#39;to&#39;] = data.get(&#39;to&#39;,type=int)
-        colorlist =  data.get(&#39;color&#39;)
+        res[&#39;from&#39;] = data.get(&#39;from&#39;, type=int)
+        res[&#39;to&#39;] = data.get(&#39;to&#39;, type=int)
+        colorlist = data.get(&#39;color&#39;)
         if colorlist == None or len(colorlist) == 0 or colorlist == &#39;[]&#39;:
             res[&#39;color&#39;] = &#39;all&#39;
         else:
             colorlist = json.loads(colorlist)
-            
+
             if isinstance(colorlist, str):
                 colorlist = [colorlist]
             if len(colorlist) == 2:
@@ -180,37 +262,83 @@ def dataParse(data, method):
         print(&#34;colorlist&#34;, colorlist)
 
         otherQueries = data.get(&#39;additions&#39;)
-        #print(otherQueries[0])
+        # print(otherQueries[0])
         if otherQueries == None or len(otherQueries) == 0 or otherQueries == &#39;[]&#39;:
             res[&#39;additionQ&#39;] = False
         else:
             res[&#39;additionQ&#39;] = True
             otherQueries = json.loads(otherQueries)
-            if isinstance(otherQueries,str):
+            if isinstance(otherQueries, str):
                 otherQueries = [otherQueries]
-            print(&#34;other&#34;,otherQueries)
+            print(&#34;other&#34;, otherQueries)
             for item in otherQueries:
                 q = item.split(&#34;,&#34;)
                 bool_type = q[0]
-                category = q[1] # title, genres, proximity...
-                bool_name =&#39;&#39;
+                category = q[1]  # title, genres, proximity...
+                bool_name = &#39;&#39;
                 if bool_type == &#39;1&#39;:
                     bool_name = &#39;and&#39;
                 elif bool_type == &#39;2&#39;:
-                    bool_name=&#39;or&#39;
+                    bool_name = &#39;or&#39;
                 else:
-                    bool_name=&#39;not&#39;
+                    bool_name = &#39;not&#39;
                 msg = &#39;&#39;
                 if category == &#39;proximity&#39;:
                     word1 = q[2]
                     word2 = q[3]
                     d = q[4]
-                    msg = &#39;#&#39;+d+&#39; &#39;+word1+&#39; &#39;+word2
+                    msg = &#39;#&#39; + d + &#39; &#39; + word1 + &#39; &#39; + word2
                 else:
                     if category == &#39;any&#39;:
                         category = None
                     msg = q[-1]
-                res[&#39;moreQueries&#39;].append((bool_name,category,msg))
+                res[&#39;moreQueries&#39;].append((bool_name, category, msg))
+    return res</code></pre>
+</details>
+</dd>
+<dt id="Backend.JSONParser.listParse"><code class="name flex">
+<span>def <span class="ident">listParse</span></span>(<span>data, method)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>parse the data</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>data</code></strong></dt>
+<dd>args from json,</dd>
+<dt><strong><code>method</code></strong></dt>
+<dd>"GET" or "POST"</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<dl>
+<dt><code>res</code></dt>
+<dd>a list of str</dd>
+</dl></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def listParse(data, method):
+    &#34;&#34;&#34;
+    parse the data
+
+    Args:
+        data: args from json,
+        method: &#34;GET&#34; or &#34;POST&#34;
+
+    Returns:
+        res: a list of str
+    &#34;&#34;&#34;
+    res = []
+    if method == &#39;GET&#39;:
+        res = data.get(&#39;ids&#39;)
+        if res == None or res == 0 or res == &#39;[]&#39;:
+            print(&#34;Empty id list was posted by frontend!&#34;)
+        else:
+            res = json.loads(res)
+            if isinstance(res, str):
+                res = [res]
+    # print(len(res))
+    # print(res)
     return res</code></pre>
 </details>
 </dd>
@@ -233,6 +361,7 @@ def dataParse(data, method):
 <li><h3><a href="#header-functions">Functions</a></h3>
 <ul class="">
 <li><code><a title="Backend.JSONParser.dataParse" href="#Backend.JSONParser.dataParse">dataParse</a></code></li>
+<li><code><a title="Backend.JSONParser.listParse" href="#Backend.JSONParser.listParse">listParse</a></code></li>
 </ul>
 </li>
 </ul>

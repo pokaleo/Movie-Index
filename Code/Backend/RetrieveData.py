@@ -11,14 +11,15 @@ import os
 import re
 import xml.etree.ElementTree as ET
 
-# ==============================================================================
 
-"""
-Class handling the interaction with the dataset
-"""
+# ==============================================================================
 
 
 class MovieInfo:
+    """
+    Class handling the interaction with the dataset
+    """
+
     # Check if the filepath is empty
     def __init__(self, file_path):
         self.file_path = file_path
