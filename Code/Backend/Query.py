@@ -20,9 +20,14 @@ class Query:
         self.__index_title = dataset.get_index_title()
         self.__index_keyword = dataset.get_index_keywords()
         self.__index_genre = dataset.get_index_genre()
+        self.__index_language = dataset.get_index_language()
         self.__average_number_of_terms = self.__cal_average_number_of_terms()
         self.__number_of_docs = len(self.__dataset.keys())
-        self.stop_words = dataset.get_stop_words()
+        self.__stop_words = dataset.get_stop_words()
+        self.__number_of_terms_dict = {}
+        for docid in self.__dataset:
+            self.__number_of_terms_dict[docid] = self.__number_of_terms(docid)
+
 
     # providing util method for proper prickling
     def __getstate__(self):
@@ -32,9 +37,11 @@ class Query:
             "index_title": self.__index_title,
             "index_keyword": self.__index_keyword,
             "index_genre": self.__index_genre,
+            "index_language": self.__index_language,
             "average_number_of_terms": self.__average_number_of_terms,
             "number_of_docs": self.__number_of_docs,
-            "stop_words": self.stop_words,
+            "stop_words": self.__stop_words,
+            "number_of_terms": self.__number_of_terms_dict
         }
 
     def __setstate__(self, state):
@@ -45,7 +52,9 @@ class Query:
         self.__index_genre = state["index_genre"]
         self.__average_number_of_terms = state["average_number_of_terms"]
         self.__number_of_docs = state["number_of_docs"]
-        self.stop_words = state["stop_words"]
+        self.__stop_words = state["stop_words"]
+        self.__index_language = state["index_language"]
+        self.__number_of_terms_dict = state["number_of_terms"]
 
     def by_title(self, keywords, year1=None, year2=None, not_ranking=False):
         """
@@ -155,6 +164,42 @@ class Query:
             return result
         return self.bm25_ranking(keywords, result)
 
+    def by_language(self, keywords, year1=None, year2=None, not_ranking=False):
+        """
+        Search by language
+
+        Args:
+            keywords: String - query contents
+            year1: Integer -> year filter - published later than...
+            year2: Integer -> year filter - published earlier than...
+            not_ranking: Bool -> switch for applying BM25 ranking
+
+        Returns:
+            List -> A list of relevant docids
+
+        Raises:
+            Exception: If keywords is empty
+        """
+        result = []
+        if keywords:
+            keywords = keywords.split()
+            # if search for a single word
+            if len(keywords) == 1:
+                result = self.__plain_search(keywords[0].lower(), "language")
+            else:
+                for keyword in keywords:
+                    result += self.__plain_search(keyword.lower(), "language")
+                result = list(dict.fromkeys(result))
+        else:
+            raise Exception("Keywords is empty!")
+        if year1:
+            result = self.__filter_year(year1, 1, result)
+        if year2:
+            result = self.__filter_year(year2, 2, result)
+        if not_ranking:
+            return result
+        return self.bm25_ranking(keywords, result)
+
     def by_general(self, keywords, year1=None, year2=None, not_ranking=False):
         """
         Perform general queries
@@ -240,6 +285,10 @@ class Query:
                 if word_to_be_queried in self.__index_genre:
                     for docid, position in self.__index_genre[word_to_be_queried][1].items():
                         result.append(docid)
+            if attributes == "language":
+                if word_to_be_queried in self.__index_language:
+                    for docid, position in self.__index_language[word_to_be_queried][1].items():
+                        result.append(docid)
         # Use general research if no attribute input 
         else:
             if word_to_be_queried in self.__index_general:
@@ -282,6 +331,8 @@ class Query:
             search_field = self.__index_keyword
         elif attribute == "genre":
             search_field = self.__index_genre
+        elif attribute == "language":
+            search_field = self.__index_language
         if word_to_be_queried in search_field:
             for docid, position in search_field[word_to_be_queried][1].items():
                 if docid not in result:
@@ -346,6 +397,8 @@ class Query:
                         return self.by_keywords(keywords, year1, year2, not_ranking)
                     elif attribute == "genre":
                         return self.by_genres(keywords, year1, year2, not_ranking)
+                    elif attribute == "language":
+                        return self.by_language(keywords, year1, year2, not_ranking)
                 keywords = keywords.split()
                 keywords[0] = keywords[0][1:]
                 keywords[len(keywords) - 1] = keywords[len(keywords) - 1][:-1]
@@ -359,8 +412,8 @@ class Query:
             result = list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
-        if not result and not attribute:
-            return self.phrase_search_handler(Util.remove_stop_words(keywords, self.stop_words),
+        if not result:
+            return self.phrase_search_handler(Util.remove_stop_words(keywords, self.__stop_words),
                                               year1, year2, not_ranking, attribute, True)
         if year1:
             result = self.__filter_year(year1, 1, result)
@@ -447,8 +500,7 @@ class Query:
             return (len(self.__index_general[word_to_be_queried][1][docid]) - appearance_in_cast * 0.5 +
                     appearance_in_title * 3.5 + appearance_in_spot * 1.8 + appearance_in_keywords * 2.3)
         else:
-            # TODO should it be 0 instead of 0.1?
-            return 0.1
+            return 0
 
     def __document_frequency(self, word_to_be_queried):
         """
@@ -511,7 +563,7 @@ class Query:
             return 0
         document_frequency = self.__document_frequency(word_to_be_queried)
         term_frequency = self.__term_frequency(word_to_be_queried, docid)
-        L_division = self.__number_of_terms(docid) / self.__average_number_of_terms
+        L_division = self.__number_of_terms_dict[docid] / self.__average_number_of_terms
         log_value = (self.__number_of_docs - document_frequency + 0.5) / \
                     (document_frequency + 0.5)
         w_td = format((term_frequency / (k * L_division + term_frequency + 0.5))

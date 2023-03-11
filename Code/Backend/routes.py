@@ -19,7 +19,7 @@ normal: for one time / live data processing
 import: load the pickle file for previously processed data
 export: pickling the processed data and export them as files
 """
-mode = "normal"
+mode = "import"
 dataset_path = "../Dataset/IMDB Movie Info"
 
 if mode == "normal":
@@ -37,7 +37,6 @@ if mode == "normal":
     print("Successfully processed the dataset")
 elif mode == "import":
     import pickle
-
     movie_dict_file = open('../Dataset/movie_dict.pickle', 'rb')
     moviedict = pickle.load(movie_dict_file)
     movie_dict_file.close()
@@ -158,10 +157,10 @@ def searchQuery():
             res = []
             print(e)
         queryMsg = w1 + " " + w2  # to handle keywords in additions
-        print("By proximity", res)
+        # print("By proximity", res)
     else:
         try:
-            print("phrase handle", queryMsg)
+            # print("phrase handle", queryMsg)
             res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'], year2=parsed_args['to'],
                                               not_ranking=parsed_args['additionQ'], attribute=parsed_args['by'])
         except Exception as e:
@@ -180,7 +179,7 @@ def searchQuery():
             search_in = a_query[1]
             queryMsg = a_query[2]
             if bool_type == 'and':
-                print("AND query", search_in, queryMsg)
+                # print("AND query", search_in, queryMsg)
                 if search_in != 'proximity':
                     new_keywords = list(queryMsg.lower().split())
                     try:
@@ -203,7 +202,7 @@ def searchQuery():
                 keywords.extend(new_keywords)
                 current_res = [mid for mid in current_res if mid in set(new_res)]
             elif bool_type == 'not':
-                print("NOT query", search_in, queryMsg)
+                # print("NOT query", search_in, queryMsg)
                 if search_in != 'proximity':
                     try:
                         new_res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'],
@@ -228,9 +227,9 @@ def searchQuery():
                 total_keywords.append(keywords)
                 total_res.append(current_res)
 
-                print("prev keywords", total_keywords)
+                # print("prev keywords", total_keywords)
 
-                print("OR query", search_in, queryMsg)
+                # print("OR query", search_in, queryMsg)
                 if search_in != 'proximity':
                     new_keywords = list(queryMsg.lower().split())
                     try:
@@ -257,8 +256,8 @@ def searchQuery():
         total_keywords.append(keywords)
         total_res.append(current_res)
 
-        print(total_keywords)
-        print(total_res)
+        print("Searched for: ", total_keywords)
+        # print(total_res)
 
         docid_list = []
         bm25score_list = []
@@ -270,19 +269,26 @@ def searchQuery():
         res = list(dict.fromkeys(res))
 
     res = list(res)
-    print(res)
+    #print(res)
     reslist = []
     id_res = []
     # final_ses = []
-    for id in res:
-        if parsed_args['color'] == 'bw':
+    if parsed_args['color'] == 'bw':
+        for id in res:
             if 'Black and White' not in moviedict[id]['colorinfos']:
                 continue
-        elif parsed_args['color'] == 'color':
+            reslist.append(formatRes(id))
+            id_res.append(id)
+    elif parsed_args['color'] == 'color':
+        for id in res:
             if 'Color' not in moviedict[id]['colorinfos']:
                 continue
-        reslist.append(formatRes(id))
-        id_res.append(id)
+            reslist.append(formatRes(id))
+            id_res.append(id)
+    else:
+        id_res = res
+        for i in range(200):
+            reslist.append(formatRes(res[i]))
 
     ed = time.time()
     ed_cpu = time.process_time()
@@ -292,7 +298,7 @@ def searchQuery():
         'ids': id_res,
         'wallT': round((ed - st) * 1000, 6),
         'cpuT': round((ed_cpu - st_cpu) * 1000, 6),
-        'total': len(reslist)
+        'total': len(id_res)
     }
     return jsonify(response)
 
