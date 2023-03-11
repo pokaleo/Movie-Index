@@ -4,11 +4,35 @@ import RetrieveData
 import DataPreprocessing
 import Query
 import Util
+import os,random
+import xml.etree.ElementTree as ET
+
+"""
+Choose a specified number of files at random, then gather information at random
+
+Args:
+    path: String -> path to the target folder
+    num: Int -> the number of the chosen files
+
+    Returns:
+        String -> 
+"""
+def randomPick(data,num):
+    rand = random.sample(list(data.items()), k=num)
+    for f in rand:
+        a = random.choice(list(f[1].keys()))
+        # print(a)
+        # print(f[1].get(a))
+        return f[1].get(a)
+
 
 movies = RetrieveData.MovieInfo("../TestDataset")
 # movies = RetrieveData.MovieInfo("../Dataset/TestData")
 movies.read_files()
-movies.get_movie_info()
+all_info = movies.get_movie_info()
+
+randomPick(all_info, num=4)
+
 
 processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
 processed_data.tokenise()
@@ -35,6 +59,7 @@ query = Query.Query(processed_data)
 # keywords = "#400 work richard"
 # print(query.bm25_ranking(keywords,docid_list,stemming = True))
 # print(query.alphabet_ranking(docid_list))
+
 query_tokens = "\"monotonous and passionless marriage\""
 query_tokens2 = "\"1st Person Shooter\""
 print("test result: ")
