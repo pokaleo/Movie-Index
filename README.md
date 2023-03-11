@@ -14,7 +14,10 @@ pip install -r Code/requirements.txt
 
 chmod 755 /PATH_TO_THIS_PROJECT
 
-gunicorn --bind 0.0.0.0:8800 --timeout 600 WSGI:app
+gunicorn --bind 0.0.0.0:8800 --timeout 600 WSGI:app --preload -k gevent -c ../Configs/GunicornConf.py
+gunicorn --bind 0.0.0.0:8800 -c ../Configs/GunicornConf.py WSGI:app
+
+
 
 Code/Frontend npm dev run
 

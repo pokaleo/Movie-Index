@@ -16,12 +16,11 @@ import Util
 
 # ==============================================================================
 
-"""
-Class handling the preprocessing for the read-in data
-"""
-
 
 class PreProcessing:
+    """
+    Class handling the preprocessing for the read-in data
+    """
     def __init__(self, dataset):
         # Check if the dataset is empty
         self.__index = {}
