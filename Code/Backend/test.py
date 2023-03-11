@@ -19,11 +19,13 @@ Args:
 """
 def randomPick(data,num):
     rand = random.sample(list(data.items()), k=num)
+    res = []
     for f in rand:
         a = random.choice(list(f[1].keys()))
         # print(a)
         # print(f[1].get(a))
-        return f[1].get(a)
+        res.append(f[1].get(a))
+    return res
 
 
 movies = RetrieveData.MovieInfo("../TestDataset")
@@ -31,7 +33,8 @@ movies = RetrieveData.MovieInfo("../TestDataset")
 movies.read_files()
 all_info = movies.get_movie_info()
 
-randomPick(all_info, num=4)
+test_data = randomPick(all_info, num=4)
+print(test_data)
 
 
 processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
