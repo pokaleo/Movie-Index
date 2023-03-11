@@ -68,6 +68,7 @@
                     <el-option label="Title" value="title"/>
                     <el-option label="Keywords" value="keywords"/>
                     <el-option label="Genres" value="genre"/>
+                    <el-option label="Language" value="language"/>
                   </el-select>
                 </template>
               </el-input>
@@ -161,24 +162,6 @@
                   </template>
                 </el-input>
               </el-col>
-            </el-form-item>
-            <el-form-item class="demonstration" label="Language">
-              <el-select
-                v-model="lang"
-                multiple
-                collapse-tags
-                collapse-tags-tooltip
-                clearable
-                placeholder="Select"
-                style="width: 240px"
-              >
-                <el-option
-                  v-for="item in options"
-                  :key="item.value"
-                  :label="item.label"
-                  :value="item.value"
-                />
-              </el-select>
             </el-form-item>
             <el-form-item class="demonstration" label="Film Color">
               <el-checkbox-group v-model="form.color">
@@ -287,30 +270,6 @@ export default defineComponent({
         additions.pop()
       }
     }
-
-    const lang = ref([])
-    const options = [
-      {
-        value: 'Option1',
-        label: 'Option1',
-      },
-      {
-        value: 'Option2',
-        label: 'Option2',
-      },
-      {
-        value: 'Option3',
-        label: 'Option3',
-      },
-      {
-        value: 'Option4',
-        label: 'Option4',
-      },
-      {
-        value: 'Option5',
-        label: 'Option5',
-      },
-    ]
     
     function goSearchResult(){
       router.push({path:"/search",query:{q:query.queryMsg, t:"any", pro:false}})
@@ -333,8 +292,6 @@ export default defineComponent({
       form,
       onSubmit,
       maxAdditionsNum,
-      lang,
-      options,
       proximity
     }
 

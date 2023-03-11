@@ -27,6 +27,7 @@ class PreProcessing:
         self.__index_title = {}
         self.__index_keywords = {}
         self.__index_genre = {}
+        self.__index_language = {}
         if dataset:
             self.__dataset = copy.deepcopy(dataset)
         else:
@@ -297,6 +298,14 @@ class PreProcessing:
                     else:
                         self.__index[token][1][docid] = ["language"]
                         self.__index[token][0] += 1
+                if token not in self.__index_language:
+                    self.__index_language[token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index_language[token][1]:
+                        self.__index_language[token][1][docid].append(str(i))
+                    else:
+                        self.__index_language[token][1][docid] = [str(i)]
+                        self.__index_language[token][0] += 1
             for i in range(len(info["soundmixes"])):
                 token = info["soundmixes"][i]
                 if token not in self.__index:
@@ -485,6 +494,21 @@ class PreProcessing:
         """
         if self.__index_genre:
             return self.__index_genre
+        else:
+            raise Exception("The index is empty!")
+
+    def get_index_language(self):
+        """
+        Getters for the indices
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -> A dict of inverted positional index for language info only
+        """
+        if self.__index_genre:
+            return self.__index_language
         else:
             raise Exception("The index is empty!")
 
