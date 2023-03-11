@@ -287,7 +287,7 @@ def searchQuery():
             id_res.append(id)
     else:
         id_res = res
-        for i in min(range(200), len(id_res)):
+        for i in range(min(200, len(id_res))):
             reslist.append(formatRes(id_res[i]))
 
     ed = time.time()
