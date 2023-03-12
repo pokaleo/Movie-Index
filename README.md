@@ -11,13 +11,13 @@ This is an implementation of a simple search engine acting as the fulfilment of 
 ## Naive version of the instruction of deployment(TODO to be completed):
 
 ### for Debian11:
-apt update
+apt update\
 curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash -\
 apt install nodejs python3-pip git screen\
 mkdir /var/www\
 chmod 755 /var/www\
 cd /var/www\
-git clone https://github.com/pokaleo/Movie-Index.git\
+git clone https://github.com/pokaleo/Movie-Index.git \
 cd Movie-Index/Code\
 pip install -r requirements.txt\
 mv Configs/gunicorn.service /etc/systemd/system/gunicorn.service\
