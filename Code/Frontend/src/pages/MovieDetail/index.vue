@@ -40,8 +40,15 @@
                     </el-space>
                     <el-space spacer="|">
                         <el-icon><CollectionTag /></el-icon>
-                        <div v-for="(genre, index) in info.genres" :key="index" @click="jumpLink(genre)">
-                            {{ genre }} 
+                        <div 
+                            v-for="(genre, index) in info.genres" 
+                            :key="index" 
+                            @click="jumpLink(genre)"
+                            @mouseover="handleHoverStart(genre)"
+                            @mouseleave="handleHoverLeft()"
+                            style="text-decoration: underline;"
+                            >
+                            <div :class="{active: genre==hover}">{{ genre }} </div>
                         </div>
                         <div v-if="info.genres.length==0">Unknown</div>
                     </el-space>
@@ -153,12 +160,13 @@
 <script setup>
 import KeyWordsBar from './KeyWordsBar.vue';
 import SearchBar from './SearchBar.vue';
-import { reactive, getCurrentInstance} from "vue";
+import { reactive, getCurrentInstance,ref} from "vue";
 import { useRoute, useRouter } from 'vue-router';
 import { ElMessageBox} from 'element-plus'
  
 let { proxy } = getCurrentInstance();
 let hasCast = true;
+let hover = ref("");
 const router = useRouter()
 var info = reactive({
   cast:{},
@@ -250,6 +258,14 @@ const jumpBack=()=>{
 
 const jumpHome=()=>{
   router.push({name:"Start"})
+}
+
+function handleHoverStart(genre){
+  hover.value=genre
+}
+
+function handleHoverLeft(){
+  hover.value=""
 }
 
 fetchData()
@@ -345,6 +361,11 @@ color: black;
 .brief .text{
   display: flex;
   flex-direction: column;
+}
+
+.active{
+  background-color:rgb(114, 217, 254);
+  font-style: italic;
 }
 
 </style>

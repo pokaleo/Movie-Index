@@ -347,12 +347,13 @@ def spell():
 
     try:
         translist = Spellcheck.deepl_trans(list(sentences))
+        print("deepl",translist)
     except Exception as e:
         for sen in sentences:
             trans = Spellcheck.trans_api(sen)
             if isinstance(trans, str):
                 translist.append(trans)
-        print(e)
+        print(e,translist)
 
     translist = set(translist)
     final_res = translist.union(sentences)

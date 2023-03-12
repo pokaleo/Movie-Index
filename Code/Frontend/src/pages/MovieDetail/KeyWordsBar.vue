@@ -10,14 +10,16 @@
           <div class="sidebar-body">
             <el-scrollbar height="450px" always>
             <el-space direction="vertical">
-            <el-tag
+            <el-button
                 class="tag"
                 v-for="keyword in keywords"
                 :key="keyword"
+                color="BBEAFF"
                 @click="jumpLink(keyword)"
+                round
             >
             {{keyword}}
-            </el-tag>
+            </el-button>
           </el-space>
           </el-scrollbar>
           </div>
@@ -79,12 +81,9 @@ p{
     flex-wrap: wrap;
 }
 .tag{
-    background-color: whitesmoke;
-    border-radius: 10px;
     margin-top: 10px;
     margin: 5px;
     color: black;
     font-size: small;
-    border-color: darkgray;
 }
 </style>
