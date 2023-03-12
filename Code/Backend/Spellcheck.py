@@ -51,9 +51,11 @@ def local_spellcheck(string):
         for word in words:
             if word in misspelled:
                 new_word = checker.correction(word)
-                if new_word != None:
+                if new_word != None and new_word != word:
                     new_words.append(new_word)
             else:
                 new_words.append(word)
         res.append(" ".join(new_words))
+        new_words = []
+    res = list(set(res))
     return res

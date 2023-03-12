@@ -336,6 +336,7 @@ def spell():
         corrected = Spellcheck.local_spellcheck(msg)
         print("except", corrected)
         print(e)
+
     print(corrected)
     sentences = corrected
     sentences.append(msg)
@@ -356,6 +357,7 @@ def spell():
     translist = set(translist)
     final_res = translist.union(sentences)
     final_res.remove(msg)
+    final_res.remove('')
     response = {
         'corrected': list(final_res),
     }
