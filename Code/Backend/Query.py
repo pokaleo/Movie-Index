@@ -319,6 +319,7 @@ class Query:
             List -> A list of relevant docids
         """
         result = {}
+        print("test: ", word_to_be_queried)
         stemmed = Util.stem_data(word_to_be_queried)
         punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
         punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
@@ -419,21 +420,12 @@ class Query:
                     result = list(set(result) & set(new_result))
                 if not result:
                     break
-            result = list(dict.fromkeys(result))
+            print("1st res: ", result)
+            if not is_list:
+                keywords_plot = Util.remove_stop_words(keywords, self.__stop_words)
+                result += self.phrase_search_handler(keywords_plot, year1, year2, not_ranking, attribute, True)
         else:
             raise Exception("Keywords is empty!")
-        if not result and not is_list and not attribute:
-            keywords_plot = []
-            keywords_without_punctuation = []
-            Util.remove_stop_words(keywords, self.__stop_words)
-            for keyword in keywords:
-                keywords_plot.append(Util.stem_data(Util.remove_punctuation(keyword, True)))
-            keywords_plot = Util.remove_punctuation(keywords_plot)
-            for keyword in keywords:
-                keywords_without_punctuation.append(Util.remove_punctuation(keyword))
-            result = \
-                self.phrase_search_handler(keywords_plot, year1, year2, not_ranking, attribute, True) \
-                + self.phrase_search_handler(keywords_without_punctuation, year1, year2, not_ranking, attribute, True)
         if year1:
             result = self.__filter_year(year1, 1, result)
         if year2:
