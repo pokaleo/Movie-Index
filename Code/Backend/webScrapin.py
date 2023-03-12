@@ -5,7 +5,7 @@ Date: 7th March 2023
 Description: Web-scraping IMDb info and convert to XML format
 methods
 Usage example:
-python3 webScrap.py --url https://www.imdb.com/search/title/?release_date=2010-01-01,2023-01-01 --url_baseline
+python3 webScrapin.py --url https://www.imdb.com/search/title/?release_date=2010-01-01,2023-01-01 --url_baseline
 https://www.imdb.com
 ------------------------------------------------------------
 """

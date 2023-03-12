@@ -10,9 +10,41 @@ This is an implementation of a simple search engine acting as the fulfilment of 
 
 ## Naive version of the instruction of deployment(TODO to be completed):
 
-pip install -r Code/requirements.txt
+### for Debian11:
+apt update
+curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash -\
+apt install nodejs python3-pip git screen\
+mkdir /var/www\
+chmod 755 /var/www\
+cd /var/www\
+git clone https://github.com/pokaleo/Movie-Index.git\
+cd Movie-Index/Code\
+pip install -r requirements.txt\
+mv Configs/gunicorn.service /etc/systemd/system/gunicorn.service\
+systemctl daemon-reload\
+systemctl start gunicorn\
+cd Frontend\
+npm install\
+screen -d -m npm run dev\
+**Now the service should be able to be accessed via ip:3000**
 
-chmod 755 /PATH_TO_THIS_PROJECT
+***Optional**: Use nginx as a reverse proxy and enable SSL for the site:*
+apt install nginx
+mv ../Configs/search-engine.conf /etc/nginx/sites-enabled/search-engine.conf\
+mv ../Configs/doc.conf /etc/nginx/sites-enabled/doc.conf\
+pip install pyopenssl --upgrade\
+apt install certbot python3-certbot-nginx\
+certbot --nginx -d movieindex.me -d www.movieindex.me\
+certbot --nginx -d doc.movieindex.me
+systemctl restart nginx\
+
+
+
+
+
+
+
+
 
 gunicorn --bind 0.0.0.0:8800 --timeout 600 WSGI:app --preload -k gevent -c ../Configs/GunicornConf.py
 gunicorn --bind 0.0.0.0:8800 -c ../Configs/GunicornConf.py WSGI:app
