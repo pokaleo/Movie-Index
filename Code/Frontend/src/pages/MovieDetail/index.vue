@@ -139,14 +139,15 @@
                     </el-scrollbar>
                     <p v-else>Unknown</p>
                   <h2>Certificates</h2>
-                  <div v-for="item in info.certificates" :key="item">
+                  <div v-for="item in info.certificates" v-if="info.certificates.length>0" :key="item">
                       <p>{{item[0]}}: {{ item[1]}}</p>
                   </div>
+                  <p v-else>Unknown</p>
                   <h2>Release Dates</h2>
-                  <div v-for="item in info.releasedates" :key="item">
+                  <div v-for="item in info.releasedates" v-if="info.releasedates.length>0" :key="item">
                       <p>{{item[0]}}: {{ item[1]}}</p>
                   </div>
-
+                  <p v-else>Unknown</p>
               </div> 
                   <el-divider><h2 class="end">END</h2></el-divider>
               </el-main>
