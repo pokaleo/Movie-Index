@@ -97,7 +97,7 @@ def dataParse(data, method):
                     word1 = q[2]
                     word2 = q[3]
                     d = q[4]
-                    msg = '#' + d + ' ' + word1 + ' ' + word2
+                    msg = d + ' ' + word1 + ' ' + word2
                 else:
                     if category == 'any':
                         category = None
