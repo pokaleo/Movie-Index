@@ -28,7 +28,6 @@ class Query:
         for docid in self.__dataset:
             self.__number_of_terms_dict[docid] = self.__number_of_terms(docid)
 
-
     # providing util method for proper prickling
     def __getstate__(self):
         return {
@@ -335,28 +334,36 @@ class Query:
             search_field = self.__index_language
         if word_to_be_queried in search_field:
             for docid, position in search_field[word_to_be_queried][1].items():
-                if docid not in result:
-                    result[docid] = position
-                else:
-                    result[docid] += position
+                position_list = [x for x in position if x.isnumeric()]
+                if position_list:
+                    if docid not in result:
+                        result[docid] = position_list
+                    else:
+                        result[docid] += position_list
         if stemmed in search_field:
             for docid, position in search_field[stemmed][1].items():
-                if docid not in result:
-                    result[docid] = position
-                else:
-                    result[docid] += position
+                position_list = [x for x in position if x.isnumeric()]
+                if position_list:
+                    if docid not in result:
+                        result[docid] = position_list
+                    else:
+                        result[docid] += position_list
         if punctuationRemoved1 in search_field:
             for docid, position in search_field[punctuationRemoved1][1].items():
-                if docid not in result:
-                    result[docid] = position
-                else:
-                    result[docid] += position
+                position_list = [x for x in position if x.isnumeric()]
+                if position_list:
+                    if docid not in result:
+                        result[docid] = position_list
+                    else:
+                        result[docid] += position_list
         if punctuationRemoved2 in search_field:
             for docid, position in search_field[punctuationRemoved2][1].items():
-                if docid not in result:
-                    result[docid] = position
-                else:
-                    result[docid] += position
+                position_list = [x for x in position if x.isnumeric()]
+                if position_list:
+                    if docid not in result:
+                        result[docid] = position_list
+                    else:
+                        result[docid] += position_list
         # remove duplicate
         for key in result:
             new_list = []
@@ -404,17 +411,29 @@ class Query:
                 keywords[len(keywords) - 1] = keywords[len(keywords) - 1][:-1]
             for i in range(1, len(keywords)):
                 if i == 1:
-                    result += self.proximity_search(keywords[i - 1].lower(), keywords[i].lower(), 1, True, attribute)
+                    result += self.proximity_search(keywords[i - 1].lower(), keywords[i].lower(), 1, True, attribute,
+                                                    False, None, None, True)
                 else:
-                    result = list(set(result) &
-                                  set(self.proximity_search(keywords[i - 1].lower(),
-                                                            keywords[i].lower(), 1, True, attribute)))
+                    new_result = self.proximity_search(keywords[i - 1].lower(), keywords[i].lower(), 1, True, attribute,
+                                                       False, None, None, True)
+                    result = list(set(result) & set(new_result))
+                if not result:
+                    break
             result = list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
-        if not result:
-            return self.phrase_search_handler(Util.remove_stop_words(keywords, self.__stop_words),
-                                              year1, year2, not_ranking, attribute, True)
+        if not result and not is_list and not attribute:
+            keywords_plot = []
+            keywords_without_punctuation = []
+            Util.remove_stop_words(keywords, self.__stop_words)
+            for keyword in keywords:
+                keywords_plot.append(Util.stem_data(Util.remove_punctuation(keyword, True)))
+            keywords_plot = Util.remove_punctuation(keywords_plot)
+            for keyword in keywords:
+                keywords_without_punctuation.append(Util.remove_punctuation(keyword))
+            result = \
+                self.phrase_search_handler(keywords_plot, year1, year2, not_ranking, attribute, True) \
+                + self.phrase_search_handler(keywords_without_punctuation, year1, year2, not_ranking, attribute, True)
         if year1:
             result = self.__filter_year(year1, 1, result)
         if year2:
@@ -447,20 +466,29 @@ class Query:
             word1_result = self.__position_search(word1, attribute)
             word2_result = self.__position_search(word2, attribute)
             common_result = set(word1_result.keys()) & set(word2_result.keys())
+            # print("gogogo", common_result)
             if common_result:
                 for docid in common_result:
-                    for position1 in word1_result[docid]:
-                        if not position1.isnumeric():
-                            continue
-                        for position2 in word2_result[docid]:
-                            if not position2.isnumeric():
-                                continue
-                            if phrase_search:
-                                if int(position2) - int(position1) == 1:
+                    # print("docid: ", docid)
+                    position_1 = word1_result[docid]
+                    # print(word1, " : ", position_1)
+                    position_2 = word2_result[docid]
+                    # print(word2, " : ", position_2)
+                    positions = position_1 + position_2
+                    # print("Merge: ", positions)
+                    if phrase_search:
+                        for i in range(len(position_1)):
+                            for j in range(len(position_1), len(positions)):
+                                # print("position at the doc: ", positions[i], int(positions[j]))
+                                if int(positions[i]) - int(positions[j]) == -1 or \
+                                        int(positions[i]) - int(positions[j]) == 0:
                                     result.append(docid)
-                            else:
-                                if abs(int(position1) - int(position2)) <= distance:
+                    else:
+                        for i in range(len(position_1)):
+                            for j in range(len(position_1), len(positions)):
+                                if abs(int(positions[i]) - int(positions[j])) <= distance:
                                     result.append(docid)
+                    # print("result: ", result)
         if direct_call:
             if year1:
                 result = self.__filter_year(year1, 1, result)
