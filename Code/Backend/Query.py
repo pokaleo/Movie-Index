@@ -424,7 +424,7 @@ class Query:
             if not is_list:
                 keywords_plot = Util.remove_stop_words(keywords, self.__stop_words)
                 result += self.phrase_search_handler(keywords_plot, year1, year2, not_ranking, attribute, True)
-                list(dict.fromkeys(result))
+                result = list(dict.fromkeys(result))
         else:
             raise Exception("Keywords is empty!")
         if year1:
