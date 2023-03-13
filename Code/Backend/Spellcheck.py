@@ -21,15 +21,25 @@ def spellcheck(string):
     params = {
         "q": string,
         "gl": "us",
-        "api_key": 'c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e'
+        "api_key": 'c',
+        "num": "1"
+
     }
 
+    spell_corrected = []
+    related_queries = []
+    related = []
     search = GoogleSearch(params)
     results = search.get_dict()
-    results = results["search_information"]
-    if 'spelling_fix' in results.keys():
-        return results['spelling_fix']
-    return string
+    search_result = results["search_information"]
+    if "related_searches" in results.keys():
+        related = results["related_searches"]
+    if 'spelling_fix' in search_result.keys():
+        spell_corrected.append(search_result['spelling_fix'])
+    if related is not None:
+        for query in related:
+            related_queries.append(query["query"])
+    return spell_corrected, related_queries
 
 
 def local_spellcheck(string):

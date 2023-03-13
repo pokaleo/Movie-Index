@@ -1,3 +1,5 @@
+import traceback
+
 from flask import Flask
 from flask import jsonify
 from flask import request
@@ -20,8 +22,8 @@ normal: for one time / live data processing
 import: load the pickle file for previously processed data
 export: pickling the processed data and export them as files
 """
-mode = "import"
-dataset_path = "../Dataset/IMDB Movie Info"
+mode = "normal"
+dataset_path = "../TestDataset"
 
 if mode == "normal":
     movies = RetrieveData.MovieInfo(dataset_path)
@@ -331,39 +333,42 @@ def spell():
     msg = data.get('input')
     corrected = []
     try:
-        correct = Spellcheck.spellcheck(msg)
-        if isinstance(correct, str):
-            corrected.append(correct)
-        print("try", corrected)
-    except Exception as e:
+        correct, query_suggestion = Spellcheck.spellcheck(msg)
+        if correct:
+            corrected = correct
+    except Exception:
+        print("serpApi failed")
         corrected = Spellcheck.local_spellcheck(msg)
-        print("except", corrected)
-        print(e)
+        print(traceback.format_exc())
 
-    print(corrected)
     sentences = corrected
     sentences.append(msg)
-    print("test1", sentences)
     sentences = set(sentences)
-    print("test2", sentences)
+    print("corrected spelling", sentences)
     translist = []
 
     try:
         translist = Spellcheck.deepl_trans(list(sentences))
-        print("deepl",translist)
+        print("deepl", translist)
     except Exception as e:
+        print("deepl api failed, using local translator")
         for sen in sentences:
             trans = Spellcheck.trans_api(sen)
             if isinstance(trans, str):
                 translist.append(trans)
-        print(e,translist)
+        print(traceback.format_exc())
 
     translist = set(translist)
+
     final_res = translist.union(sentences)
     final_res.remove(msg)
-    final_res.remove('')
+    try:
+        final_res = list(filter(None, final_res))
+    except Exception:
+        print(traceback.format_exc())
     response = {
         'corrected': list(final_res),
+        'suggestion': list(query_suggestion)
     }
     print(response)
     return jsonify(response)

@@ -22,6 +22,14 @@
           </el-button>
         </el-space>?
       </div>
+      <div class="big-title" v-if="querySuggestion.value.length>0">
+        You might also like:
+        <el-space spacer="or ">
+          <el-button v-for="(text, index) in querySuggestion.value" :key="index" @click="$event => goCorrectedPage(text)" text>
+            {{ text }}
+          </el-button>
+        </el-space>
+      </div>
       <div class="big-title">
         <p>Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
       </div>
@@ -79,6 +87,7 @@ const route = useRoute()
 
 let movieList = reactive({value:[],show:[], rel:[]})
 let spellchecked = reactive({value:[]})
+let querySuggestion = reactive({value:[]})
 let wallTime = ref('')
 let cpuTime = ref('')
 let totalNum = ref('')
@@ -193,6 +202,7 @@ const getSpellCheck=async()=>{
     console.log("Spellcheck!")
     console.log(res)
     spellchecked.value = JSON.parse(JSON.stringify(res.data.corrected))
+    querySuggestion.value = JSON.parse(JSON.stringify(res.data.suggestion))
     console.log(spellchecked)
     console.timeEnd("getSpellCheck");
   }).catch(function(error){

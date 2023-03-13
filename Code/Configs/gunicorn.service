@@ -10,8 +10,6 @@ WorkingDirectory = /var/www/Movie-Index/Code/Backend
 ExecStart = /usr/local/bin/gunicorn --bind 0.0.0.0:8800 -c ../Configs/GunicornConf.py WSGI:app
 ExecReload = /bin/kill -s HUP $MAINPID
 ExecStop = /bin/kill -s TERM $MAINPID
-KillMode=mixed
-TimeoutStopSec=5
 PrivateTmp = true
 
 [Install]
