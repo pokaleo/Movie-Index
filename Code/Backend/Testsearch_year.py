@@ -24,11 +24,11 @@ class TestSearch_year(unittest.TestCase):
 
     def test_general_search_year(self):
         start = time.time()
-        results = query2.by_general("charitable work", year1 = 1946, year2 = 1948)
+        results = query2.by_general("nineteen-knot stirring", year1 = 1900, year2 = 1902)
         end = time.time()
         print("Basic {:.4f} s".format(end-start))
-        self.assertIn("000007", results[:15]) # Monsieur Vincent should not be among musical movies
-        self.assertEqual("375972", results[0]) # Monsieur Vincent should be the top result
+        self.assertIn("000167", results[:15]) # 'Columbia' and 'Shamrock II' Finishing Second Race
+        self.assertNotIn("000208", results[0]) # 'Columbia' and 'Shamrock II' Finishing Second Race should in this result
     
     def test_keywords_search_year(self):
         start = time.time()
