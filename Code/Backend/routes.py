@@ -2,6 +2,7 @@ from flask import Flask
 from flask import jsonify
 from flask import request
 from flask_cors import CORS
+#from werkzeug.middleware.profiler import ProfilerMiddleware
 import time
 import RetrieveData
 import DataPreprocessing
@@ -85,6 +86,7 @@ def formatRes(id):
 
 
 app = Flask(__name__)
+#app.wsgi_app = ProfilerMiddleware(app.wsgi_app,restrictions=('routes.py',))
 CORS(app, supports_credentials=True)
 
 
@@ -147,10 +149,10 @@ def searchQuery():
 
     # Add function for extract results
     queryMsg = parsed_args['queryMsg']
-    if parsed_args['by'] == 'proximity':
+    if parsed_args['proximity']:
         dist, w1, w2 = queryMsg.split()
         try:
-            res = query.proximity_search(w1, w2, int(dist), direct_call=True,
+            res = query.proximity_search(w1, w2, int(dist),attribute=parsed_args['by'], direct_call=True,
                                          year1=parsed_args['from'], year2=parsed_args['to'],
                                          not_ranking=parsed_args['additionQ'])
         except Exception as e:
@@ -176,11 +178,12 @@ def searchQuery():
         keywords = list(queryMsg.lower().split())
         for a_query in parsed_args['moreQueries']:
             bool_type = a_query[0]
-            search_in = a_query[1]
-            queryMsg = a_query[2]
+            is_proximity = a_query[1]
+            search_in = a_query[2]
+            queryMsg = a_query[3]
             if bool_type == 'and':
                 # print("AND query", search_in, queryMsg)
-                if search_in != 'proximity':
+                if not is_proximity:
                     new_keywords = list(queryMsg.lower().split())
                     try:
                         new_res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'],
@@ -193,7 +196,7 @@ def searchQuery():
                     dist, w1, w2 = queryMsg.split()
                     new_keywords = [w1.lower(), w2.lower()]
                     try:
-                        new_res = query.proximity_search(w1, w2, int(dist), direct_call=True,
+                        new_res = query.proximity_search(w1, w2, int(dist),attribute=search_in, direct_call=True,
                                                          year1=parsed_args['from'], year2=parsed_args['to'],
                                                          not_ranking=parsed_args['additionQ'])
                     except Exception as e:
@@ -203,7 +206,7 @@ def searchQuery():
                 current_res = [mid for mid in current_res if mid in set(new_res)]
             elif bool_type == 'not':
                 # print("NOT query", search_in, queryMsg)
-                if search_in != 'proximity':
+                if not is_proximity:
                     try:
                         new_res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'],
                                                               year2=parsed_args['to'],
@@ -214,7 +217,7 @@ def searchQuery():
                 else:  # proximity query
                     dist, w1, w2 = queryMsg.split()
                     try:
-                        new_res = query.proximity_search(w1, w2, int(dist), direct_call=True,
+                        new_res = query.proximity_search(w1, w2, int(dist),attribute=search_in, direct_call=True,
                                                          year1=parsed_args['from'], year2=parsed_args['to'],
                                                          not_ranking=parsed_args['additionQ'])
                     except Exception as e:
@@ -230,7 +233,7 @@ def searchQuery():
                 # print("prev keywords", total_keywords)
 
                 # print("OR query", search_in, queryMsg)
-                if search_in != 'proximity':
+                if not is_proximity:
                     new_keywords = list(queryMsg.lower().split())
                     try:
                         new_res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'],
@@ -243,7 +246,7 @@ def searchQuery():
                     dist, w1, w2 = queryMsg.split()
                     new_keywords = [w1.lower(), w2.lower()]
                     try:
-                        new_res = query.proximity_search(w1, w2, int(dist), direct_call=True,
+                        new_res = query.proximity_search(w1, w2, int(dist),attribute=search_in, direct_call=True,
                                                          year1=parsed_args['from'], year2=parsed_args['to'],
                                                          not_ranking=parsed_args['additionQ'])
                     except Exception as e:

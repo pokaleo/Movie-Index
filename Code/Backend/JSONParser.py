@@ -11,13 +11,14 @@ def dataParse(data, method):
     Returns:
         parsed_args:
                 {'queryMsg':"",
-                'by':"", # a str for search category, i.e. title, any, genres, keywords, proximity
+                'by':"", # a str for search category, i.e. title, any, genres, keywords
+                'proximity':boolean
                 'need_check':False, # for debug only
                 'color':"", # a str in ["all", "bw", "color"]
                 'from':0, # int or None
                 'to':9999, # int or None
                 'additionQ':True, # a boolean value to check whether it is advanced search or not
-                'moreQueries':[] # list of tuples (bool_type,by, query), i.e. ('and','title', "Vincent") bool_type in ['and','or','not']
+                'moreQueries':[] # list of tuples (bool_type,proximity,by, query), i.e. ('and',true,'title', "Vincent") bool_type in ['and','or','not']
         }
 
     '''
@@ -26,15 +27,16 @@ def dataParse(data, method):
         'queryMsg': None,  # a str or (w1, w2, d)
         'by': "",  # a str for search category, i.e. title, genre, keywords, proximity, None
         'need_check': False,  # for debug only
+        'proximity':False,
         'color': "",  # a str in ["all", "bw", "color"]
         'from': 0,  # int or None
         'to': 9999,  # int or None
         'additionQ': True,  # a boolean value to check whether it is advanced search or not
         'moreQueries': []
-        # list of tuples (bool_type,by, query), i.e. ('and','title', "Vincent") bool_type in ['and','or','not']
+        # list of tuples (bool_type,proximity,by, query), i.e. ('and',true,'title', "Vincent") bool_type in ['and','or','not']
     }
     if data.get('pro') == 'true':
-        res['by'] = 'proximity'
+        res['proximity'] = True
         msg = data.get('query')
         q = msg.split("+")
         word1 = q[0]
@@ -42,10 +44,12 @@ def dataParse(data, method):
         d = q[2]
         res['queryMsg'] = d + ' ' + word1 + ' ' + word2
     else:
+        res['proximity'] = False
         res['queryMsg'] = data.get('query')
-        res['by'] = data.get('by')
-        if res['by'] == 'any':
-            res['by'] = None
+    
+    res['by'] = data.get('by')
+    if res['by'] == 'any':
+        res['by'] = None
 
     if method == 'GET':
         res['need_check'] = data.get('need_check', type=bool)
@@ -68,7 +72,6 @@ def dataParse(data, method):
                 res['color'] = 'bw'
             else:
                 res['color'] = 'color'
-
         print("colorlist", colorlist)
 
         otherQueries = data.get('additions')
@@ -84,7 +87,6 @@ def dataParse(data, method):
             for item in otherQueries:
                 q = item.split(",")
                 bool_type = q[0]
-                category = q[1]  # title, genres, proximity...
                 bool_name = ''
                 if bool_type == '1':
                     bool_name = 'and'
@@ -92,17 +94,27 @@ def dataParse(data, method):
                     bool_name = 'or'
                 else:
                     bool_name = 'not'
+
+                is_proximity = q[1]
+                if is_proximity == "true":
+                    is_proximity = True
+                else:
+                    is_proximity = False
+
+                category = q[2]  # title, genres...
+                if category == 'any':
+                    category = None
+
                 msg = ''
-                if category == 'proximity':
-                    word1 = q[2]
-                    word2 = q[3]
-                    d = q[4]
+                if is_proximity:
+                    temp = q[-1].split("+")
+                    word1 = temp[0]
+                    word2 = temp[1]
+                    d = temp[2]
                     msg = d + ' ' + word1 + ' ' + word2
                 else:
-                    if category == 'any':
-                        category = None
                     msg = q[-1]
-                res['moreQueries'].append((bool_name, category, msg))
+                res['moreQueries'].append((bool_name,is_proximity,category,msg))
     return res
 
 

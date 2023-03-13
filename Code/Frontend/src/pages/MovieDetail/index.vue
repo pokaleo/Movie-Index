@@ -9,9 +9,11 @@
           <el-button  text>
               <el-icon @click="jumpBack" color="black" size="25"><Back /></el-icon>
             </el-button>
-            <el-button text>
-              <el-icon @click="jumpHome" color="black" size="25"><HomeFilled /></el-icon>
-            </el-button>
+            <router-link to="/">
+              <el-button text>
+                <el-icon color="black" size="25"><HomeFilled /></el-icon>
+              </el-button>
+            </router-link>
           </el-row>
           <el-container class="body">
               <el-main class="movieBody">
@@ -255,10 +257,6 @@ const fetchImg=async()=>{
 
 const jumpBack=()=>{
   router.back()
-}
-
-const jumpHome=()=>{
-  router.push({name:"Start"})
 }
 
 function handleHoverStart(genre){

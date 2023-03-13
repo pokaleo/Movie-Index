@@ -3,10 +3,17 @@
   <div class='container'>
     <div class="header">
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
-      <SearchBar :q=q :t=t :key=q />
+      <SearchBar :q=q :t=t :key=q :pro=pro />
     </div>
     
     <div class="content">
+      <div class="homebtn">
+        <router-link to="/">
+          <el-button text>
+            Home <el-icon style="margin-left: 10px;" color="black" size="25"><HomeFilled /></el-icon>
+          </el-button>
+        </router-link>
+      </div>
       <div class="big-title" v-if="spellchecked.value.length>0">
         Do you mean: 
         <el-space spacer="or ">
@@ -80,6 +87,7 @@ const relevence_ids = ref([])
 
 let q = ref(route.query.q)
 let t = ref(route.query.t)
+let pro = ref(Boolean(route.query.pro=='true'))
 console.log(route.query)
 //alert("loading!") //for debug
 const state = reactive({
@@ -323,6 +331,10 @@ else{
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+
+  .homebtn{
+    align-self: flex-end;
+  }
 
   .big-title {
     font-weight: bold;
