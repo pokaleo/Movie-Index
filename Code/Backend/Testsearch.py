@@ -10,100 +10,100 @@ import xml.etree.ElementTree as ET
 import argparse
 import sys
 
-movies = RetrieveData.MovieInfo("../TestDataset")
-movies.read_files()
-# movies = RetrieveData.MovieInfo("../Code/TestDataset")
+# movies from web crawler
+# movies = RetrieveData.MovieInfo("../TestDataset")
+movies1 = RetrieveData.MovieInfo("../Dataset/IMDB TestData/")
+movies1.read_files()
+processed_data1 = DataPreprocessing.PreProcessing(movies1.get_movie_info())
+processed_data1.tokenise()
+processed_data1.to_lowercase()
+processed_data1.remove_punctuation()
+processed_data1.stem_data()
+processed_data1.remove_stopwords()
+processed_data1.create_index()
+query1 = Query.Query(processed_data1)
 
-
-processed_data = DataPreprocessing.PreProcessing(movies.get_movie_info())
-processed_data.tokenise()
-processed_data.to_lowercase()
-processed_data.remove_punctuation()
-processed_data.stem_data()
-processed_data.remove_stopwords()
-processed_data.create_index()
-query = Query.Query(processed_data)
-
-def randomPick(data,num):
-    rand = random.sample(list(data.items()), k=num)
-    res = []
-    for f in rand:
-        a = random.choice(list(f[1].keys()))
-        # print(a)
-        # print(f[1].get(a))
-        res.append(f[1].get(a))
-    return res
+# movies from original dataset
+movies2 = RetrieveData.MovieInfo("../TestDataset/")
+movies2.read_files()
+processed_data2 = DataPreprocessing.PreProcessing(movies2.get_movie_info())
+processed_data2.tokenise()
+processed_data2.to_lowercase()
+processed_data2.remove_punctuation()
+processed_data2.stem_data()
+processed_data2.remove_stopwords()
+processed_data2.create_index()
+query2 = Query.Query(processed_data2)
 
 
 class TestSearch(unittest.TestCase):
-    def __init__(self, testname,query_params, docid, year1,year2):
-        super(TestSearch, self).__init__(testname)
-        self.query_params = query_params
-        self.docid = docid
-        self.year1 = year1
-        self.year2 = year2
-
     def test_general_search(self):
-            start = time.time()
-            results = query.by_general(query_params, int(year1), int(year2), not_ranking=False)
-            end = time.time()
-            print("Basic {:.4f} s".format(end-start), results)
-            self.assertIn(docid, results)
+        start = time.time()
+        results = query1.by_general("fairy rekindle")
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn("tt0489974", results[:15])
 
     def test_keywords_search(self):
-            start = time.time()
-            results = query.by_keywords(query_params, year1=None, year2=None, not_ranking=False)
-            end = time.time()
-            print("Basic {:.4f} s".format(end-start), results)
-            self.assertIn(docid, results)
+        start = time.time()
+        results = query1.by_keywords("necromancy racist police")
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('tt0489974', results[:15])
         
     def test_title_search(self):
-            start = time.time()
-            results = query.by_title(query_params, year1=None, year2=None, not_ranking=False)
-            end = time.time()
-            print("Basic {:.4f} s".format(end-start), results)
-            self.assertIn(docid, results)
+        start = time.time()
+        results = query1.by_title("Carnival Row")
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('tt0489974', results[:15])
         
     def test_language_search(self):
-            start = time.time()
-            results = query.by_language(query_params, year1=None, year2=None, not_ranking=False)
-            end = time.time()
-            print("Basic {:.4f} s".format(end-start), results)
-            self.assertIn(docid, results)
+        start = time.time()
+        results = query1.by_language("English")
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('tt0489974', results[:15])
         
     def test_genres_search(self):
-            start = time.time()
-            results = query.by_genres(query_params, year1=None, year2=None, not_ranking=False)
-            end = time.time()
-            print("Basic {:.4f} s".format(end-start), results)
-            self.assertIn(docid, results)
-        
+        start = time.time()
+        results = query1.by_genres("Fantasy Drama")
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('tt0489974', results[:15])
+
+    def test_phrase_search(self):
+        start = time.time()
+        results = query1.phrase_search_handler("monster Unimaginable")
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('tt0489974', results[:15]) 
+
+    def test_phrase_search_keys(self):
+        start = time.time()
+        results = query1.phrase_search_handler("mythical creature", attribute="keywords")
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('tt0489974', results[:15]) 
+
+    def test_proximity_search(self):
+        start = time.time()
+        results = query1.proximity_search("Eren","Titans", distance = 15)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('tt2560140', results[:15])  
+
+# Below are the tests with year filter
+
+    def test_general_search_year(self):
+        start = time.time()
+        results = query2.by_general("charitable work", year1 = 1946, year2 = 1948)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn("000007", results[:15]) # Monsieur Vincent should not be among musical movies
+        self.assertEqual("375972", results[0]) # Monsieur Vincent should be the top result
+
 if __name__ == '__main__':
-    query_params = sys.argv[1]
-    docid = sys.argv[2]
-    year1 = sys.argv[3]
-    year2 = sys.argv[4]
+    unittest.main()
 
-    test_loader = unittest.TestLoader()
-    test_names = test_loader.getTestCaseNames(TestSearch)
-
-    suite = unittest.TestSuite()
-    for test_name in test_names:
-        suite.addTest(TestSearch(test_name, query_params, docid, year1,year2))
-
-    result = unittest.TextTestRunner().run(suite)
-    sys.exit(not result.wasSuccessful())
-
-
-# Command line: python3 Testsearch.py 'peace and harmony' 375972 1900 2020
-
-
-
-# testsearch = TestSearch()
-# print('test: ', testsearch)
-# print(testsearch.test_general_search(query_params="peace and harmony",docid="375972",year1=1900, year2=2020, not_ranking=False))    
-# print(testsearch.test_title_search("Monsieur Vincent",1900,2020,False)) 
-# print(testsearch.test_keywords_search("poverty arrest",1900,2020,False))
-# print(testsearch.test_genres_search("Monsieur Vincent",1900,2020,False)) 
-# print(testsearch.test_language_search("French",1900,2020,False))
-
+testsearch = TestSearch()
