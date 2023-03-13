@@ -1,0 +1,76 @@
+import time
+import unittest
+import RetrieveData
+import json
+import DataPreprocessing
+import Query
+import Util
+import os,random
+import xml.etree.ElementTree as ET
+
+# movies from original dataset
+movies2 = RetrieveData.MovieInfo("../Dataset/IMDB Movie Info")
+movies2.read_files()
+processed_data2 = DataPreprocessing.PreProcessing(movies2.get_movie_info())
+processed_data2.tokenise()
+processed_data2.to_lowercase()
+processed_data2.remove_punctuation()
+processed_data2.stem_data()
+processed_data2.remove_stopwords()
+processed_data2.create_index()
+query2 = Query.Query(processed_data2)
+
+class TestSearch_year(unittest.TestCase):
+
+    def test_general_search_year(self):
+        start = time.time()
+        results = query2.by_general("charitable work", year1 = 1946, year2 = 1948)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn("000007", results[:15]) # Monsieur Vincent should not be among musical movies
+        self.assertEqual("375972", results[0]) # Monsieur Vincent should be the top result
+    
+    def test_keywords_search_year(self):
+        start = time.time()
+        results = query2.by_keywords("selfishness prank", year1 = 2000, year2 = 2005)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('000030', results[:15])
+        
+    def test_title_search_year(self):
+        start = time.time()
+        results = query2.by_title("Qian zuo guai", year1 = 1977, year2 = 1982)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertEqual('450459', results[0])
+        
+    def test_language_search_year(self):
+        start = time.time()
+        results = query2.by_language("Mandarin", year1 = 1976, year2 = 1978)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('450602', results)
+        
+    def test_genres_search_year(self):
+        start = time.time()
+        results = query2.by_genres("Animation Music", year1 = 1948, year2 = 1951)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('593372', results)
+
+    def test_phrase_search_year(self):
+        start = time.time()
+        results = query2.phrase_search_handler("University Rhodes", year1 = 1997, year2 = 2000)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('593603', results[:15]) 
+
+    def test_proximity_search_year(self):
+        start = time.time()
+        results = query2.proximity_search("climaxes","Mandela", distance = 15, year1 = 2008, year2 = 2012)
+        end = time.time()
+        print("Basic {:.4f} s".format(end-start))
+        self.assertIn('231891', results[:15])  
+
+if __name__ == '__main__':
+    unittest.main()
