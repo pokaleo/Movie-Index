@@ -74,3 +74,5 @@ class TestSearch_year(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    
+# TO DO: test color, AND OR NOT in Web
