@@ -1,11 +1,11 @@
 <template>
   <div id="SearchBar" class="searchbar">
-      
+
       <el-input
         class="text"
         placeholder="Please enter a search term"
         v-model="query.queryMsg"
-        style="width: 50%"
+        style="width: 100%"
         v-if="!filterTrigger.clickT"
         clearable>
         <template #append>
@@ -20,11 +20,11 @@
         </template>
       </el-input>
 
-      <el-button class='advanced' @click="() => toggleBotton('clickT')">
+      <el-button color="#5A6794" class='advanced' @click="() => toggleBotton('clickT')">
         ADVANCED SEARCH
       </el-button>
       <!--Advanced search panel-->
-      <el-card class="card" v-if="filterTrigger.clickT">
+      <el-card class="card" v-if="filterTrigger.clickT" >
         <template #header>
           <div class="card-header">
             <span>Search Filters</span>
@@ -32,43 +32,47 @@
         </template>
         <el-scrollbar always>
           <!--form of additions information, includes categories, AND/NOT search, time filter and color filter-->
-          <el-form :model="form" label-width="120px">
+          <el-form class="queryForm" :model="form" label-width=auto :label-position="'left'" :size="'default'">
             <!--Basic query with a search category default is "By General"-->
             <el-form-item class="demonstration" label="Proximity Search">
               <el-switch v-model="query.proximity"/>
             </el-form-item>
             <el-form-item class="demonstration" label="Proximity Query" v-if="query.proximity">
-              <el-col :span="1">
-                <span class="text-gray-500">In</span>
-              </el-col>
-              <el-col :span="2">
-                <el-select class="selectNot" v-model="query.by" placeholder="Any" style="width: 115px">
-                    <el-option label="Any" value="any"/>
-                    <el-option label="Title" value="title"/>
-                    <el-option label="Keywords" value="keywords"/>
-                    <el-option label="Genres" value="genre"/>
-                </el-select>
-              </el-col>
-              <el-col :span="2" class="text-center">
-                <span class="text-gray-500">First word</span>
-              </el-col>
-              <el-col :span="5">
-                <el-input v-model="query.word1" placeholder="1st word" clearable />
-              </el-col>
-              <el-col :span="2" class="text-center">
-                <span class="text-gray-500">Second word</span>
-              </el-col>
-              <el-col :span="5">
-                <el-input v-model="query.word2" placeholder="2nd word" clearable />
-              </el-col>
-              <el-col :span="2" class="text-center">
-                  <span class="text-gray-500">Distance</span>
-              </el-col>
-              <el-col :span="5">
-                <el-input-number v-model="query.dist" placeholder="distance" :min="1" controls-position="right" />
-              </el-col>
+              <el-row>
+                <el-col :span="5">
+                  <span class="text-gray-500">In</span>
+                </el-col>
+                <el-col :span="16">
+                  <el-select class="selectNot" v-model="query.by" placeholder="Any" style="width: 115px">
+                      <el-option label="Any" value="any"/>
+                      <el-option label="Title" value="title"/>
+                      <el-option label="Keywords" value="keywords"/>
+                      <el-option label="Genres" value="genre"/>
+                  </el-select>
+                </el-col>
+              </el-row>
+              <el-row class="row-bg" gutter="2">
+                <el-col :span="2.5" class="text-center">
+                  <span class="text-gray-500">First word</span>
+                </el-col>
+                <el-col :span="5">
+                  <el-input v-model="query.word1" placeholder="1st word" clearable />
+                </el-col>
+                <el-col :span="3.5" class="text-center">
+                  <span class="text-gray-500">Second word</span>
+                </el-col>
+                <el-col :span="5">
+                  <el-input v-model="query.word2" placeholder="2nd word" clearable />
+                </el-col>
+                <el-col :span="3" class="text-center">
+                    <span class="text-gray-500">Distance</span>
+                </el-col>
+                <el-col :span="1">
+                  <el-input-number v-model="query.dist" placeholder="distance" :min="1" controls-position="right" />
+                </el-col>
+              </el-row>
             </el-form-item>
-            <el-form-item class="demonstration" label="Browse By" v-else>
+            <el-form-item class="demonstration" label="Search By" v-else>
               <el-input
                 v-model="query.queryMsg"
                 placeholder="Please enter a search term"
@@ -88,45 +92,52 @@
             </el-form-item>
 
             <!--Additions and/not/or search or proximity search-->
-            <div v-for="item in count" :key="item">
+            <div v-for="item in count" :key="item" class="proximityContainer">
               <el-form-item class="demonstration" label="Alternatives">
                 <el-switch v-model="additions[item-1].proximity" active-text="Proximity Search"/>
               </el-form-item>
               <el-form-item class="demonstration" label="Query" v-if="additions[item-1].proximity">
-                <el-col :span="3">
-                  <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" style="width: 50%" >
+                <el-row :gutter="20">
+                  <el-col :span="12">
+                    <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" >
                       <el-option label="AND" value="1" />
                       <el-option label="OR" value="2" />
                       <el-option label="NOT" value="3" />
                   </el-select>
-                  <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" style="width: 50%" >
+                  </el-col>
+                  <el-col :span="12">
+                    <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" >
                     <el-option label="Any" value="any"/>
                     <el-option label="Title" value="title"/>
                     <el-option label="Keywords" value="keywords"/>
                     <el-option label="Genres" value="genre"/>
                   </el-select>
-                </el-col>
-                <el-col :span="2" class="text-center">
-                  <span class="text-gray-500">First</span>
-                </el-col>
-                <el-col :span="5">
-                  <el-input v-model="additions[item-1].word1" placeholder="1st word" clearable>
-                  </el-input>
-                </el-col>
-                <el-col :span="2" class="text-center">
-                  <span class="text-gray-500">Last</span>
-                </el-col>
-                <el-col :span="5">
-                  <el-input v-model="additions[item-1].word2" placeholder="2nd word" clearable>
-                  </el-input>
-                </el-col>
-                <el-col :span="2" class="text-center">
-                  <span class="text-gray-500">Distance</span>
-                </el-col>
-                <el-col :span="5">
-                  <el-input-number v-model="additions[item-1].dist" :min="1" controls-position="right" />
-                </el-col>
+                  </el-col>
+                </el-row>
+                <el-row style="margin-bottom: 3px">
+                  <el-col :span="2" class="text-center">
+                    <span class="text-gray-500">First</span>
+                  </el-col>
+                  <el-col :span="5">
+                    <el-input v-model="additions[item-1].word1" placeholder="1st word" clearable>
+                    </el-input>
+                  </el-col>
+                  <el-col :span="2" class="text-center">
+                    <span class="text-gray-500">Last</span>
+                  </el-col>
+                  <el-col :span="5">
+                    <el-input v-model="additions[item-1].word2" placeholder="2nd word" clearable>
+                    </el-input>
+                  </el-col>
+                  <el-col :span="3" class="text-center">
+                    <span class="text-gray-500">Distance</span>
+                  </el-col>
+                  <el-col :span="5">
+                    <el-input-number v-model="additions[item-1].dist" :min="1" controls-position="right" />
+                  </el-col>
+                </el-row>
               </el-form-item>
+
               <el-form-item class="demonstration" label="Query" v-else>
                 <el-input
                   v-model="additions[item-1].q"
@@ -135,12 +146,12 @@
                   clearable
                 >
                   <template #prepend>
-                    <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" style="width: 95px" >
+                    <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" style="width: 80px; margin-right: 20px"  >
                       <el-option label="AND" value="1" />
                       <el-option label="OR" value="2" />
                       <el-option label="NOT" value="3" />
                     </el-select>
-                    <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" style="width: 95px" >
+                    <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" style="width: 80px" >
                       <el-option label="Any" value="any"/>
                       <el-option label="Title" value="title"/>
                       <el-option label="Keywords" value="keywords"/>
@@ -151,8 +162,8 @@
               </el-form-item>
             </div>
 
-            <el-button class="AlterButton" @click="add" v-if="count<maxAdditionsNum">Add A New Request Line</el-button>
-            <el-button class="AlterButton" @click="onDelete" v-if="count>0">Delete A Line</el-button>
+            <el-button color="#5A6794" class="AlterButton" @click="add" v-if="count<maxAdditionsNum">Add A New Request Line</el-button>
+            <el-button color="#5A6794" class="AlterButton" @click="onDelete" v-if="count>0">Delete A Line</el-button>
             <el-form-item class="demonstration" label="Year Range">
               <el-col :span="2" class="text-center">
                 <span class="text-gray-500">From</span>
@@ -189,8 +200,8 @@
               </el-checkbox-group>
             </el-form-item>
             <el-form-item>
-              <el-button class="Advancedbutton" type="primary" @click="onSubmit">SEARCH</el-button>
-              <el-button class="Advancedbutton" @click="resetForm" >CLEAR</el-button>
+              <el-button color="#5A6794" class="Advancedbutton" @click="onSubmit" style="margin-left: 10%">SEARCH</el-button>
+              <el-button color="#a6a7ab" class="Advancedbutton" @click="resetForm" style="margin-right: 10%">CLEAR</el-button>
             </el-form-item>
           </el-form>
         </el-scrollbar>
@@ -216,7 +227,7 @@ export default defineComponent({
     const router = useRouter()
 
     var query = reactive({
-      queryMsg:null, by:"any", 
+      queryMsg:null, by:"any",
       proximity:false, word1:null, word2:null, dist:1})
 
     var additions = reactive([{
@@ -224,9 +235,9 @@ export default defineComponent({
       proximity:false, word1:"", word2:"", dist:1
     }])
 
-    var form = reactive({color:[], 
+    var form = reactive({color:[],
       time:{from:null, to:null}})
-    
+
     const maxAdditionsNum = ref(5)
 
     const filterTrigger = ref({
@@ -255,21 +266,21 @@ export default defineComponent({
                                                           [additions[i].by],
                                                           [([additions[i].word1,additions[i].word2,additions[i].dist]).join('+')]))
         }
-        else if(additions[i].q != "") 
+        else if(additions[i].q != "")
           additionalStr.push([additions[i].type].concat([additions[i].by], [additions[i].q]))
       }
       console.log(additionalStr)
       const passedQuery = {
-        q:query.queryMsg, 
-        t:query.by, 
-        from: form.time.from, 
+        q:query.queryMsg,
+        t:query.by,
+        from: form.time.from,
         to: form.time.to,
         c:form.color, //array
         more: additionalStr,
         pro: query.proximity
       } //array
       router.push({path:"/search",
-        query:passedQuery, 
+        query:passedQuery,
         params:
           {w1:query.word1,
           w2:query.word2,
@@ -307,7 +318,7 @@ export default defineComponent({
       form.time.from=null
       form.time.to=null
     }
-    
+
     function goSearchResult(){
       router.push({path:"/search",query:{q:query.queryMsg, t:"any", pro:false}})
     }
@@ -333,7 +344,7 @@ export default defineComponent({
       maxAdditionsNum,
     }
 
-    
+
   }
 });
 </script>
@@ -353,20 +364,36 @@ export default defineComponent({
   width: 60px;
 }
 
+.searchButton:hover {
+  -moz-box-shadow:2px 2px 10px #1C2135;
+  -webkit-box-shadow:2px 2px 10px #1C2135;
+  box-shadow:2px 2px 10px #1C2135;
+}
+
+.searchbar{
+  width: 58%;
+  -moz-box-shadow:2px 2px 10px rgba(46, 53, 59, 0.34);
+  -webkit-box-shadow:2px 2px 10px rgba(46, 53, 59, 0.34);
+  box-shadow:2px 2px 10px rgba(46, 53, 59, 0.34);
+  justify-content: center;
+  margin: 0 auto;
+}
+
 
 img{
   width: 20px;
 }
 
 .card{
-  background-color: white;
+  background-color: #E7E9EE;
 }
 
 .demonstration{
   font-size: 18px;
   font-style: oblique;
   font-weight: bold;
-  margin-right: 10px;
+  margin-left: 0;
+  padding-bottom: 5px;
 }
 
 .AlterButton{
@@ -401,6 +428,10 @@ img{
   font-style:oblique;
   font-weight: bold;
 }
-
+.proximityContainer {
+  -moz-box-shadow:2px 2px 10px #8794C0;
+  -webkit-box-shadow:2px 2px 10px #8794C0;
+  box-shadow:2px 2px 10px #8794C0;
+}
 
 </style>

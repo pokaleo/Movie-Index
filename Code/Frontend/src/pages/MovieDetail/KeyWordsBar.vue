@@ -14,7 +14,7 @@
                 class="tag"
                 v-for="keyword in keywords"
                 :key="keyword"
-                color="BBEAFF"
+                color="#8794c0"
                 @click="jumpLink(keyword)"
                 round
             >
@@ -38,7 +38,7 @@ export default{
       const router = useRouter()
       const jumpLink=(keyword)=>{
         ElMessageBox.confirm(
-          'Do you want to search results of "'+keyword+'"?',
+          'Do you want to see all other movies including the keyword of "'+keyword+'" ?',
           'Search',
           {
             confirmButtonText: 'YES',

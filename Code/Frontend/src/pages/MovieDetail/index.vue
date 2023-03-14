@@ -2,19 +2,23 @@
 <template>
   <div class="MovieView">
       <el-container class = page>
-          <el-header class="header"> 
-            <SearchBar class="searchbar"/>
-          </el-header>
-          <el-row class="go">
-          <el-button  text>
-              <el-icon @click="jumpBack" color="black" size="25"><Back /></el-icon>
-            </el-button>
-            <router-link to="/">
-              <el-button text>
-                <el-icon color="black" size="25"><HomeFilled /></el-icon>
+          <el-header class="header">
+            <div>
+              <el-button color="#8794c0" style="margin-right: 20px">
+                <el-icon @click="jumpBack" color="#1c2135" size="25"><Back /></el-icon>
               </el-button>
-            </router-link>
-          </el-row>
+              <router-link to="/">
+                <el-button color="#8794c0">
+                  <el-icon color="#1c2135" size="25"><HomeFilled /></el-icon>
+                </el-button>
+              </router-link>
+            </div>
+
+            <SearchBar class="searchbar"/>
+
+          </el-header>
+
+          <div style="background:linear-gradient(to left,#e7e9ee,#5a6794,#e7e9ee);height:2px;margin-top: 2%"></div>
           <el-container class="body">
               <el-main class="movieBody">
                 <div class="brief">
@@ -77,20 +81,20 @@
                     </el-space>
                   </div>
                 </div>
-              <div class="fields">  
-                  <h2>Description</h2>
-                  <p>{{info.plot}}</p>
+              <div class="fields">
 
+                  <h2>Description</h2>
+
+                    <p>{{info.plot}}</p>
                   <h2>Directors</h2>
                   <el-scrollbar class="srollbar" v-if="info.directors.length>0" always>
                     <el-space spacer='|'>
                       <div v-for="(director, index) in info.directors" :key="index">
-                        <el-icon style='padding-right:10px'><Avatar /></el-icon>{{ director }} 
+                        <el-icon style='padding-right:10px'><Avatar /></el-icon>{{ director }}
                       </div>
                     </el-space>
                   </el-scrollbar>
                   <p v-else>Unknown</p>
-
                   <h2>Writers</h2>
                   <el-scrollbar class="srollbar" v-if="info.writers.length>0"  always>
                     <el-space spacer='|'>
@@ -100,7 +104,6 @@
                     </el-space>
                   </el-scrollbar>
                   <p v-else>Unknown</p>
-
                   <h2>Editors</h2>
                     <el-scrollbar class="srollbar" v-if="info.editors.length>0" always>
                       <el-space spacer='|'>
@@ -150,8 +153,9 @@
                       <p>{{item[0]}}: {{ item[1]}}</p>
                   </div>
                   <p v-else>Unknown</p>
+
               </div> 
-                  <el-divider><h2 class="end">END</h2></el-divider>
+                  <div style="background:linear-gradient(to left,#e7e9ee,#5a6794,#e7e9ee);height:2px;margin-top: 2%"></div>
               </el-main>
               <el-aside><KeyWordsBar class="sidebar" :keywords="info.keywords" v-if="info.keywords.length>0"/></el-aside>
           </el-container>
@@ -240,7 +244,7 @@ const fetchImg=async()=>{
  */
  const jumpLink = (genre) => {
   ElMessageBox.confirm(
-          'Do you want to search results of "'+genre+'"?',
+          'Do you want to see all other films in the "'+genre+'" genre?',
           'Search',
           {
             confirmButtonText: 'YES',
@@ -285,13 +289,23 @@ fetchImg()
   align-items: flex-start;
 }
 .header{
+  background-color: transparent;
   text-align: center;
-  background-color: black;
-  z-index: 100;
+  margin-top: 3%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .header .searchbar{
   margin-top: 12px;
+}
+
+.searchbar {
+  position: absolute;
+  top: 7%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .go{
@@ -309,6 +323,7 @@ fetchImg()
 
 .fields{
   text-align: left;
+  padding: 2em;
 }
 
 .sidebar{
@@ -345,6 +360,7 @@ color: black;
 
 .end{
   font-family: cursive;
+  background-color: #e7e9ee;
 }
 
 .txt{
@@ -355,16 +371,46 @@ color: black;
   display: flex;
   flex-direction: row;
   align-items: stretch;
+  border-radius: 8% / 50%;
+  /*background-color: #5a6794;*/
+  background-color: rgba(90, 103, 148, 0.3);
+  padding: 1px 3% 1px 7%;
+  margin-top: 10px;
+  -moz-box-shadow:20px 2px 10px #5a6794;
+  -webkit-box-shadow:20px 2px 10px #5a6794;
+  box-shadow:5px 5px 10px #5a6794;
 }
 
 .brief .text{
   display: flex;
   flex-direction: column;
+
 }
 
 .active{
-  background-color:rgb(114, 217, 254);
+  background-color:#5a6794;
   font-style: italic;
+  cursor: pointer;
 }
 
+@keyframes animated-border {
+  0% {
+    box-shadow: 0 0 0 0 #3c4564;
+  }
+  100% {
+     box-shadow: 0 0 0 15px rgba(255,255,255,0);
+  }
+}
+.fields{
+  animation: animated-border 1.5s infinite;
+  margin-top: 20px;
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: bold;
+  color: #1C2135;
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 15px;
+}
 </style>

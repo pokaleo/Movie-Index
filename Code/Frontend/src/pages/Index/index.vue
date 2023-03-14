@@ -3,21 +3,26 @@
   <div class='container'>
     <div class="header">
       <!--input class="iconfont search_input " type="text" placeholder="search"-->
+      <div class="logo-container">
+        <img src="@/assets/logo.png" alt="logo" class="logo"/>
+      </div>
       <SearchBar :q=q :t=t :key=q :pro=pro />
-    </div>
-    
-    <div class="content">
       <div class="homebtn">
         <router-link to="/">
-          <el-button text>
-            Home <el-icon style="margin-left: 10px;" color="black" size="25"><HomeFilled /></el-icon>
+          <el-button color="#5a6794">
+            Home <el-icon style=" margin-left: 10px" color="#e7e9ee" size="35"><HomeFilled /></el-icon>
           </el-button>
         </router-link>
       </div>
+    </div>
+
+    <div style="background:linear-gradient(to left,#e7e9ee,#5a6794,#e7e9ee);height:2px;margin-top: 2%"></div>
+    
+    <div class="content">
       <div class="big-title" v-if="spellchecked.value.length>0">
         Do you mean: 
         <el-space spacer="or ">
-          <el-button v-for="(text, index) in spellchecked.value" :key="index" @click="$event => goCorrectedPage(text)" text>
+          <el-button color="#5a6794" v-for="(text, index) in spellchecked.value" :key="index" @click="$event => goCorrectedPage(text)">
             {{ text }}
           </el-button>
         </el-space>?
@@ -25,13 +30,13 @@
       <div class="big-title" v-if="querySuggestion.value.length>0">
         You might also like:
         <el-space spacer="or ">
-          <el-button v-for="(text, index) in querySuggestion.value" :key="index" @click="$event => goCorrectedPage(text)" text>
+          <el-button color="#5a6794" v-for="(text, index) in querySuggestion.value" :key="index" @click="$event => goCorrectedPage(text)">
             {{ text }}
           </el-button>
         </el-space>
       </div>
       <div class="big-title">
-        <p>Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
+        <p>Time consumed: Wall time in sever side: <i> {{ wallTime }} ms</i>. CPU time in sever side: <i> {{ cpuTime }} ms</i>.</p>
       </div>
       <div class="big-title">
         <p> <i> {{ totalNum }} </i> results are found. Show Top {{ movieList.rel.length }} only. 
@@ -40,13 +45,13 @@
           </el-button>
         </p> 
       </div>
-      <el-radio-group v-model="sort_by">
-        <el-radio :label="1">By Relevance</el-radio>
-        <el-radio :label="2">By Time (New to Old)</el-radio>
-        <el-radio :label="3">By Time (Old to New)</el-radio>
-        <el-radio :label="4">By Alphabet(A to Z)</el-radio>
-        <el-radio :label="5">By Alphabet(Z to A)</el-radio>
-      </el-radio-group>
+      <van-radio-group class="radioBtn" direction="horizontal" v-model="sort_by" >
+        <van-radio name="1" checked-color="#333c60">By Relevance</van-radio>
+        <van-radio name="2" checked-color="#333c60">By Time (New to Old)</van-radio>
+        <van-radio name="3" checked-color="#333c60">By Time (Old to New)</van-radio>
+        <van-radio name="4" checked-color="#333c60">By Alphabet(A to Z)</van-radio>
+        <van-radio name="5" checked-color="#333c60">By Alphabet(Z to A)</van-radio>
+      </van-radio-group>
       <!--el-scrollbar-->
         <div class="movie-list">
           <div class="movie-item" v-for="(item, index) in movieList.value" :key="index" @click="goMovieDetailPage(item.id)">
@@ -327,9 +332,25 @@ else{
   flex-direction: column;
 }
 .header{
-  background-color: black;
+  background-color: transparent;
   text-align: center;
+  margin-top: 3%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
+.homebtn {
+  background-color: #5a6794;
+  margin-right: 8%;
+  border: 1.5px solid #8794c0;
+  border-radius: 5px;
+  padding: 5px 10px;
+  -moz-box-shadow:2px 2px 10px rgba(46, 53, 59, 0.2);
+  -webkit-box-shadow:2px 2px 10px rgba(46, 53, 59, 0.2);
+  box-shadow:2px 2px 10px rgba(46, 53, 59, 0.2);
+}
+
 
 .content {
   width: 100%;
@@ -352,7 +373,7 @@ else{
     box-sizing: border-box;
 
     i {
-      color: blue;
+      color: #5a6794;
     }
   }
 
@@ -360,24 +381,32 @@ else{
     overflow-y: auto;
 
     .movie-item {
-      border: 1px solid #000;
+      //border: 1px solid gray;
       padding: 10px 24px;
       border-radius: 10px;
       box-sizing: border-box;
-      margin: 10px 0;
-      // background-color: #eee;
+      margin-bottom: 15px;
+      margin-top: 15px;
+      margin-right: 15px;
+      //background-color: #eee;
       cursor: pointer;
+      padding: 20px;
+      box-shadow:
+       inset 0 -3em 5em rgba(94, 70, 70, 0.1),
+             0.3em 0.3em 0.3em rgba(90, 103, 148, 0.63);
+
 
       .movie-name {
-        color: black;
         font-size: 25px;
         font-weight: bold;
+        color: #1c2135;
       }
 
       .movie-description {
         font-size: 12px;
         min-height: 50px;
         padding: 2px 0;
+        color: #1c2135;
       }
 
       .movie-info {
@@ -385,7 +414,38 @@ else{
         font-size: 12px;
       }
     }
+
+    .movie-item:hover {
+      background-color: #8794c0;
+    }
   }
 
+}
+.logo{
+  height: 70px;
+  display: inline-block;
+}
+.logo-container{
+  margin-left: 8%;
+  width: 8%;
+}
+@media only screen and (max-width: 767px) {
+  .header {
+    align-items: flex-start;
+    flex-direction: column-reverse;
+  }
+
+  .homebtn {
+    margin: 2% auto;
+  }
+  .logo-container {
+    order: 2;
+    margin-top: 10px;
+  }
+
+  .search-bar-container {
+    order: 1;
+    margin-bottom: 10px;
+  }
 }
 </style>
