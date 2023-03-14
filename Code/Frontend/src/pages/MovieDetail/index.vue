@@ -23,6 +23,7 @@
       <el-container class = page>
         <el-container class="body">
           <el-main class="movieBody">
+            
             <div class="brief">
               <div class="poster">
                 <el-image style="height: 384px; width:290px;padding-right: 30px;" :src="info.img" fit="contain" >
@@ -158,9 +159,14 @@
             </div>
             <div style="background:linear-gradient(to left,#e7e9ee,#5a6794,#e7e9ee);height:2px;margin-top: 2%"></div>
           </el-main>
-          <el-aside><KeyWordsBar class="sidebar" :keywords="info.keywords" v-if="info.keywords.length>0"/></el-aside>
         </el-container>
       </el-container>
+      <KeyWordsBar class="footer" :keywords="info.keywords" v-if="info.keywords.length>0"/>
+      <div style="background:linear-gradient(to left,#e7e9ee,#5a6794,#e7e9ee);
+                  height:2px;
+                  margin-top: 2%;
+                  margin-bottom: 3%;" 
+            v-if="info.keywords.length>0"></div>
     </div>
   </div>
 </template>
@@ -283,12 +289,14 @@ fetchImg()
   padding-top: 0px;
   box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+  flex-direction: column;;
 }
 .MovieView{
   top: 0px;
-  align-items: flex-start;
-  align-content: flex-start;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  
 }
 .body{
   align-items: flex-start;
@@ -304,8 +312,6 @@ fetchImg()
 .movieBody{
   display: flex;
   flex-direction: column;
-  margin-left: 5%;
-  margin-right: 5%;
 }
 .homebtn {
   background-color: #5a6794;
@@ -316,11 +322,6 @@ fetchImg()
   -moz-box-shadow:2px 2px 10px rgba(46, 53, 59, 0.2);
   -webkit-box-shadow:2px 2px 10px rgba(46, 53, 59, 0.2);
   box-shadow:2px 2px 10px rgba(46, 53, 59, 0.2);
-}
-.go{
-  margin-left: 5%;
-  margin-top: 2%;
-  margin-bottom: 2%;
 }
 .page{
   padding-top: 0%;
@@ -423,11 +424,9 @@ fetchImg()
   font-size: 48px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.sidebar{
+.footer{
   display: flex;
-  flex-direction: column;
-  margin-top: 10%;
-  margin-right: 5%;
+  text-align: center;
 }
 .srollbar{
   height: auto;
@@ -455,10 +454,11 @@ color: black;
   display: flex;
   flex-direction: row;
   align-items: stretch;
+  flex-wrap: wrap;
   border-radius: 8% / 50%;
   /*background-color: #5a6794;*/
   background-color: rgba(90, 103, 148, 0.3);
-  padding: 1px 3% 1px 7%;
+  padding: 5px 3% 5px 7%;
   margin-top: 10px;
   -moz-box-shadow:20px 2px 10px #5a6794;
   -webkit-box-shadow:20px 2px 10px #5a6794;

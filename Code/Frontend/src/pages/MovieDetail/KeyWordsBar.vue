@@ -1,27 +1,32 @@
 <template>
     <div id="KeyWordsBar">
-      <div class="sidebar">
+      <div class="footer">
         <div class="sidebar-content">
           <div class="sidebar-header">
-            <p>Keywords</p>
+            <p>Keywords <i class="count">{{ keywords.length }} Total</i></p>
           </div>
-          {{ keywords.length }} Total
           <el-divider class="sidebar-divider"/>
-          <div class="sidebar-body">
-            <el-scrollbar height="450px" always>
-            <el-space direction="vertical">
-            <el-button
+          <div>
+
+            <el-space class="sidebar-body" wrap>
+              <el-button
+                  class="tag"
+                  v-for="keyword in collapse()"
+                  :key="keyword"
+                  color="#8794c0"
+                  @click="jumpLink(keyword)"
+                  round
+              >
+              {{keyword}}
+              </el-button>
+              <el-button 
                 class="tag"
-                v-for="keyword in keywords"
-                :key="keyword"
-                color="#8794c0"
-                @click="jumpLink(keyword)"
+                color="#d2d5e9"
+                v-if="keywords.length > 5"
+                @click="showAll"
                 round
-            >
-            {{keyword}}
-            </el-button>
-          </el-space>
-          </el-scrollbar>
+              >{{ instruction() }}</el-button>
+            </el-space>
           </div>
         </div>
       </div>
@@ -31,11 +36,14 @@
 <script>
 import { ElMessageBox} from 'element-plus'
 import { useRouter } from "vue-router";
+import {ref,computed} from "vue";
 export default{
     name: "KeyWordsBar",
     props:['keywords'],
-    setup(){
+    setup(props){
       const router = useRouter()
+      const leng = ref(5)
+      const isShow = ref(false)
       const jumpLink=(keyword)=>{
         ElMessageBox.confirm(
           'Do you want to see all other movies including the keyword of "'+keyword+'" ?',
@@ -52,8 +60,40 @@ export default{
             console.log("Jump Cancel!")
           })
       }
+      const showAll=()=>{
+        if (isShow.value){
+          leng.value = 5
+          isShow.value = false
+        }
+        else{
+          leng.value = props.keywords.length
+          isShow.value = true
+        }
+        console.log("Showall")
+      }
+
+      const collapse= computed(()=>{
+        return function (){
+          return props.keywords.slice(0,leng.value)
+        }
+      })
+
+      const instruction= computed(()=>{
+        return function (){
+          if (props.keywords.length > 5 ){
+            if( isShow.value)
+              return 'Show Less'
+            else
+              return '+ '+ (props.keywords.length - leng.value)
+          }
+          return ""
+        }
+      })
       return{
-        jumpLink
+        jumpLink,
+        collapse,
+        showAll,
+        instruction
       }
     }
 }
@@ -61,14 +101,24 @@ export default{
 
 <style scoped>
 
-.sidebar{
+.footer{
     display: flex;
     flex-direction: column;
-    width: 200px;
-    justify-items: center;
+    width: 100%;
     align-items: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+}
+
+
+.sidebar-body{
+  justify-content: space-around;
+  
+}
+
+.sidebar-body::after {
+    content: '';
+    flex: auto;  
 }
 
 p{
@@ -76,14 +126,13 @@ p{
     font-size: x-large;
     font-weight:200;
 }
-.sidebar-body{
-    flex-direction: column;
-    flex-wrap: wrap;
-}
 .tag{
-    margin-top: 10px;
-    margin: 5px;
+    margin-top: 2px;
     color: black;
     font-size: small;
+}
+
+.count{
+  font-size: large;
 }
 </style>
