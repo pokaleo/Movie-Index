@@ -22,7 +22,7 @@ normal: for one time / live data processing
 import: load the pickle file for previously processed data
 export: pickling the processed data and export them as files
 """
-mode = "normal"
+mode = "import"
 dataset_path = "../TestDataset"
 
 if mode == "normal":
@@ -126,9 +126,9 @@ def getImg(id):
     print(title)
     try:
         url = Util.return_image(title)
-    except Exception as e:
+    except Exception:
         url = ""
-        print(e)
+        print(traceback.format_exc())
     print(url)
     response = {'img': url}
     return jsonify(response)
@@ -157,20 +157,19 @@ def searchQuery():
             res = query.proximity_search(w1, w2, int(dist),attribute=parsed_args['by'], direct_call=True,
                                          year1=parsed_args['from'], year2=parsed_args['to'],
                                          not_ranking=parsed_args['additionQ'])
-        except Exception as e:
+        except Exception:
             res = []
-            print(e)
+            print(traceback.format_exc())
         queryMsg = w1 + " " + w2  # to handle keywords in additions
         # print("By proximity", res)
     else:
         try:
-            # print("phrase handle", queryMsg)
+            print("phrase handle", queryMsg)
             res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'], year2=parsed_args['to'],
                                               not_ranking=parsed_args['additionQ'], attribute=parsed_args['by'])
-        except Exception as e:
+        except Exception:
             res = []
-            print("phrase handle except", queryMsg)
-            print(e)
+            print(traceback.format_exc())
 
     if parsed_args['additionQ']:
         total_res = []
@@ -191,9 +190,9 @@ def searchQuery():
                         new_res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'],
                                                               year2=parsed_args['to'],
                                                               not_ranking=parsed_args['additionQ'], attribute=search_in)
-                    except Exception as e:
+                    except Exception:
                         new_res = []
-                        print(e)
+                        print(traceback.format_exc())
                 else:  # proximity query
                     dist, w1, w2 = queryMsg.split()
                     new_keywords = [w1.lower(), w2.lower()]
@@ -201,9 +200,9 @@ def searchQuery():
                         new_res = query.proximity_search(w1, w2, int(dist),attribute=search_in, direct_call=True,
                                                          year1=parsed_args['from'], year2=parsed_args['to'],
                                                          not_ranking=parsed_args['additionQ'])
-                    except Exception as e:
+                    except Exception:
                         new_res = []
-                        print(e)
+                        print(traceback.format_exc())
                 keywords.extend(new_keywords)
                 current_res = [mid for mid in current_res if mid in set(new_res)]
             elif bool_type == 'not':
@@ -213,18 +212,18 @@ def searchQuery():
                         new_res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'],
                                                               year2=parsed_args['to'],
                                                               not_ranking=parsed_args['additionQ'], attribute=search_in)
-                    except Exception as e:
+                    except Exception:
                         new_res = []
-                        print(e)
+                        print(traceback.format_exc())
                 else:  # proximity query
                     dist, w1, w2 = queryMsg.split()
                     try:
                         new_res = query.proximity_search(w1, w2, int(dist),attribute=search_in, direct_call=True,
                                                          year1=parsed_args['from'], year2=parsed_args['to'],
                                                          not_ranking=parsed_args['additionQ'])
-                    except Exception as e:
+                    except Exception:
                         new_res = []
-                        print(e)
+                        print(traceback.format_exc())
                 current_res = [mid for mid in current_res if mid not in new_res]
             elif bool_type == 'or':
                 count += 1
@@ -241,9 +240,9 @@ def searchQuery():
                         new_res = query.phrase_search_handler(queryMsg, year1=parsed_args['from'],
                                                               year2=parsed_args['to'],
                                                               not_ranking=parsed_args['additionQ'], attribute=search_in)
-                    except Exception as e:
+                    except Exception:
                         new_res = []
-                        print(e)
+                        print(traceback.format_exc())
                 else:  # proximity query
                     dist, w1, w2 = queryMsg.split()
                     new_keywords = [w1.lower(), w2.lower()]
@@ -251,9 +250,9 @@ def searchQuery():
                         new_res = query.proximity_search(w1, w2, int(dist),attribute=search_in, direct_call=True,
                                                          year1=parsed_args['from'], year2=parsed_args['to'],
                                                          not_ranking=parsed_args['additionQ'])
-                    except Exception as e:
+                    except Exception:
                         new_res = []
-                        print(e)
+                        print(traceback.format_exc())
                 # print(new_res)
                 keywords = new_keywords.copy()
                 current_res = new_res.copy()
@@ -351,7 +350,7 @@ def spell():
     try:
         translist = Spellcheck.deepl_trans(list(sentences))
         print("deepl", translist)
-    except Exception as e:
+    except Exception:
         print("deepl api failed, using local translator")
         for sen in sentences:
             trans = Spellcheck.trans_api(sen)
