@@ -31,7 +31,10 @@ def spellcheck(string):
     related = []
     search = GoogleSearch(params)
     results = search.get_dict()
-    search_result = results["search_information"]
+    if results:
+        search_result = results
+    else:
+        results =[]
     if "related_searches" in results.keys():
         related = results["related_searches"]
     if 'spelling_fix' in search_result.keys():

@@ -332,6 +332,7 @@ def spell():
     data = request.args
     msg = data.get('input')
     corrected = []
+    query_suggestion = []
     try:
         correct, query_suggestion = Spellcheck.spellcheck(msg)
         if correct:
