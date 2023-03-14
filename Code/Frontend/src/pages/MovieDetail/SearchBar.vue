@@ -7,7 +7,9 @@
         v-model="query.queryMsg"
         style="width: 100%"
         v-if="!filterTrigger.clickT"
-        clearable>
+        clearable
+        @keyup.enter.native="goSearchResult"
+      >
         <template #append>
           <!--router-link :to="'/result/'+selected+'/'+query"-->
           <el-button
