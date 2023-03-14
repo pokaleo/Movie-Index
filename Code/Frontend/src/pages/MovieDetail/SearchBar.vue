@@ -45,10 +45,10 @@
             </el-form-item>
             <el-form-item class="demonstration" label="Proximity Query" v-if="query.proximity">
               <el-row>
-                <el-col :span="5" :xs="24">
+                <el-col :span="5" :xs="4">
                   <span class="text-gray-500">In</span>
                 </el-col>
-                <el-col :span="16" :xs="24">
+                <el-col :span="16" :xs="20">
                   <el-select class="selectNot" v-model="query.by" placeholder="Any" style="width: 115px">
                       <el-option label="Any" value="any"/>
                       <el-option label="Title" value="title"/>
@@ -64,13 +64,13 @@
                 <el-col :span="5" :xs="24">
                   <el-input v-model="query.word1" placeholder="1st word" clearable />
                 </el-col>
-                <el-col :span="3.5" class="text-center" :xs="24">
+                <el-col :span="3.5" class="text-center">
                   <span class="text-gray-500">Second word</span>
                 </el-col>
                 <el-col :span="5" :xs="24">
                   <el-input v-model="query.word2" placeholder="2nd word" clearable />
                 </el-col>
-                <el-col :span="3" class="text-center" :xs="24">
+                <el-col :span="3" class="text-center">
                     <span class="text-gray-500">Distance</span>
                 </el-col>
                 <el-col :span="1" :xs="24">
@@ -79,22 +79,24 @@
               </el-row>
             </el-form-item>
             <el-form-item class="demonstration" label="Search By" v-else>
-              <el-input
-                v-model="query.queryMsg"
-                placeholder="Please enter a search term"
-                class="input-with-select"
-                clearable
-              >
-                <template #prepend>
-                  <el-select class="selectNot" v-model="query.by" placeholder="Any" style="width: 115px">
+              <el-col :span="4" :xs="24">
+                <el-select class="selectNot" v-model="query.by" placeholder="Any">
                     <el-option label="Any" value="any"/>
                     <el-option label="Title" value="title"/>
                     <el-option label="Keywords" value="keywords"/>
                     <el-option label="Genres" value="genre"/>
                     <el-option label="Language" value="language"/>
                   </el-select>
-                </template>
-              </el-input>
+              </el-col>
+              <el-col :span="20" :xs="24">
+                <el-input
+                  v-model="query.queryMsg"
+                  placeholder="Please enter a search term"
+                  class="input-with-select"
+                  clearable
+                >
+                </el-input>
+            </el-col>
             </el-form-item>
 
             <!--Additions and/not/or search or proximity search-->
@@ -128,14 +130,14 @@
                     <el-input v-model="additions[item-1].word1" placeholder="1st word" clearable>
                     </el-input>
                   </el-col>
-                  <el-col :span="2" class="text-center" :xs="24">
+                  <el-col :span="2" class="text-center">
                     <span class="text-gray-500">Last</span>
                   </el-col>
                   <el-col :span="5" :xs="24">
                     <el-input v-model="additions[item-1].word2" placeholder="2nd word" clearable>
                     </el-input>
                   </el-col>
-                  <el-col :span="3" class="text-center" :xs="24">
+                  <el-col :span="3" class="text-center">
                     <span class="text-gray-500">Distance</span>
                   </el-col>
                   <el-col :span="5" :xs="24">
@@ -145,27 +147,31 @@
               </el-form-item>
 
               <el-form-item class="demonstration" label="Query" v-else>
-                <el-input
-                  v-model="additions[item-1].q"
-                  placeholder="Please enter a search term"
-                  class="input-with-select"
-                  clearable
-                >
-                  <template #prepend>
-                    <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" style="width: 80px; margin-right: 20px"  >
-                      <el-option label="AND" value="1" />
-                      <el-option label="OR" value="2" />
-                      <el-option label="NOT" value="3" />
-                    </el-select>
-                    <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" style="width: 80px" >
-                      <el-option label="Any" value="any"/>
-                      <el-option label="Title" value="title"/>
-                      <el-option label="Keywords" value="keywords"/>
-                      <el-option label="Genres" value="genre"/>
-                      <el-option label="Language" value="language"/>
-                    </el-select>
-                  </template>
-                </el-input>
+                <el-col :span="3" :xs="12">
+                  <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND">
+                    <el-option label="AND" value="1" />
+                    <el-option label="OR" value="2" />
+                    <el-option label="NOT" value="3" />
+                  </el-select>
+                </el-col>
+                <el-col :span="3" :xs="12">
+                  <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" >
+                    <el-option label="Any" value="any"/>
+                    <el-option label="Title" value="title"/>
+                    <el-option label="Keywords" value="keywords"/>
+                    <el-option label="Genres" value="genre"/>
+                    <el-option label="Language" value="language"/>
+                  </el-select>
+                </el-col>
+                <el-col :span="18" :xs="24">
+                  <el-input
+                    v-model="additions[item-1].q"
+                    placeholder="Please enter a search term"
+                    class="input-with-select"
+                    clearable
+                  >
+                  </el-input>
+                </el-col>
               </el-form-item>
             </div>
 
