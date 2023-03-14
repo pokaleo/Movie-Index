@@ -34,17 +34,21 @@
         </template>
         <el-scrollbar always>
           <!--form of additions information, includes categories, AND/NOT search, time filter and color filter-->
-          <el-form class="queryForm" :model="form" label-width=auto :label-position="'left'" :size="'default'">
+          <el-form class="queryForm" 
+            :model="form" 
+            label-width=auto 
+            :label-position="'top'" 
+            :size="'default'">
             <!--Basic query with a search category default is "By General"-->
             <el-form-item class="demonstration" label="Proximity Search">
               <el-switch v-model="query.proximity"/>
             </el-form-item>
             <el-form-item class="demonstration" label="Proximity Query" v-if="query.proximity">
               <el-row>
-                <el-col :span="5">
+                <el-col :span="5" :xs="24">
                   <span class="text-gray-500">In</span>
                 </el-col>
-                <el-col :span="16">
+                <el-col :span="16" :xs="24">
                   <el-select class="selectNot" v-model="query.by" placeholder="Any" style="width: 115px">
                       <el-option label="Any" value="any"/>
                       <el-option label="Title" value="title"/>
@@ -57,19 +61,19 @@
                 <el-col :span="2.5" class="text-center">
                   <span class="text-gray-500">First word</span>
                 </el-col>
-                <el-col :span="5">
+                <el-col :span="5" :xs="24">
                   <el-input v-model="query.word1" placeholder="1st word" clearable />
                 </el-col>
-                <el-col :span="3.5" class="text-center">
+                <el-col :span="3.5" class="text-center" :xs="24">
                   <span class="text-gray-500">Second word</span>
                 </el-col>
-                <el-col :span="5">
+                <el-col :span="5" :xs="24">
                   <el-input v-model="query.word2" placeholder="2nd word" clearable />
                 </el-col>
-                <el-col :span="3" class="text-center">
+                <el-col :span="3" class="text-center" :xs="24">
                     <span class="text-gray-500">Distance</span>
                 </el-col>
-                <el-col :span="1">
+                <el-col :span="1" :xs="24">
                   <el-input-number v-model="query.dist" placeholder="distance" :min="1" controls-position="right" />
                 </el-col>
               </el-row>
@@ -100,14 +104,14 @@
               </el-form-item>
               <el-form-item class="demonstration" label="Query" v-if="additions[item-1].proximity">
                 <el-row :gutter="20">
-                  <el-col :span="12">
+                  <el-col :span="12" :xs="24">
                     <el-select class="selectNot" v-model="additions[item-1].type" placeholder="AND" >
                       <el-option label="AND" value="1" />
                       <el-option label="OR" value="2" />
                       <el-option label="NOT" value="3" />
                   </el-select>
                   </el-col>
-                  <el-col :span="12">
+                  <el-col :span="12" :xs="24">
                     <el-select class="selected" v-model="additions[item-1].by" placeholder="Any" >
                     <el-option label="Any" value="any"/>
                     <el-option label="Title" value="title"/>
@@ -116,25 +120,25 @@
                   </el-select>
                   </el-col>
                 </el-row>
-                <el-row style="margin-bottom: 3px">
+                <el-row style="margin-bottom: 3px" :xs="24">
                   <el-col :span="2" class="text-center">
                     <span class="text-gray-500">First</span>
                   </el-col>
-                  <el-col :span="5">
+                  <el-col :span="5" :xs="24">
                     <el-input v-model="additions[item-1].word1" placeholder="1st word" clearable>
                     </el-input>
                   </el-col>
-                  <el-col :span="2" class="text-center">
+                  <el-col :span="2" class="text-center" :xs="24">
                     <span class="text-gray-500">Last</span>
                   </el-col>
-                  <el-col :span="5">
+                  <el-col :span="5" :xs="24">
                     <el-input v-model="additions[item-1].word2" placeholder="2nd word" clearable>
                     </el-input>
                   </el-col>
-                  <el-col :span="3" class="text-center">
+                  <el-col :span="3" class="text-center" :xs="24">
                     <span class="text-gray-500">Distance</span>
                   </el-col>
-                  <el-col :span="5">
+                  <el-col :span="5" :xs="24">
                     <el-input-number v-model="additions[item-1].dist" :min="1" controls-position="right" />
                   </el-col>
                 </el-row>
@@ -158,6 +162,7 @@
                       <el-option label="Title" value="title"/>
                       <el-option label="Keywords" value="keywords"/>
                       <el-option label="Genres" value="genre"/>
+                      <el-option label="Language" value="language"/>
                     </el-select>
                   </template>
                 </el-input>
@@ -167,10 +172,10 @@
             <el-button color="#5A6794" class="AlterButton" @click="add" v-if="count<maxAdditionsNum">Add A New Request Line</el-button>
             <el-button color="#5A6794" class="AlterButton" @click="onDelete" v-if="count>0">Delete A Line</el-button>
             <el-form-item class="demonstration" label="Year Range">
-              <el-col :span="2" class="text-center">
+              <el-col :span="2" class="text-center" :xs="24">
                 <span class="text-gray-500">From</span>
               </el-col>
-              <el-col :span="10">
+              <el-col :span="10" :xs="24">
                 <el-input-number
                   v-model="form.time.from"
                   placeholder="YYYY"
@@ -181,10 +186,10 @@
                   >
                 </el-input-number>
               </el-col>
-              <el-col :span="2" class="text-center">
+              <el-col :span="2" class="text-center" :xs="24">
                 <span class="text-gray-500">TO</span>
               </el-col>
-              <el-col :span="10">
+              <el-col :span="10" :xs="24">
                 <el-input-number
                   v-model="form.time.to"
                   placeholder="YYYY"
