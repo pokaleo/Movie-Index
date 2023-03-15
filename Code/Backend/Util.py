@@ -66,7 +66,8 @@ def is_phrase_search(query):
     Returns:
         Bool -> True if it's phrase search, vice versa
     """
-    if query.startswith("\"") and query.endswith("\"") and len(query.split()) > 1:
+    if ((query.startswith("\"") and query.endswith("\"")) or (query.startswith("“") and query.endswith("”"))) \
+            and len(query.split()) > 1:
         return True
     else:
         return False
