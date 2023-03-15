@@ -250,12 +250,14 @@ class Query:
         result = []
         if position == 1:
             for docid in docids:
-                if int(self.__dataset[docid]["year"]) > year:
-                    result.append(docid)
+                if self.__dataset[docid]["year"]:
+                    if int(self.__dataset[docid]["year"]) > year:
+                        result.append(docid)
         else:
             for docid in docids:
-                if int(self.__dataset[docid]["year"]) < year:
-                    result.append(docid)
+                if self.__dataset[docid]["year"]:
+                    if int(self.__dataset[docid]["year"]) < year:
+                        result.append(docid)
         return result
 
     def __plain_search(self, word_to_be_queried, attributes=None):
