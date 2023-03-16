@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<doc id="tt10577736">
+	<docid>tt10577736</docid>
+	<title>Tehran</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWUxYWY1YTctYjVmMi00MmJiLWE3NzktZmM4YzliOGE1ZmE2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A Mossad agent embarks on her first mission as a computer hacker in her home town of Tehran.</plot>
+	<countries>
+		<country>Israel</country>
+	</countries>
+	<languages>
+		<language>Persian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Niv Sultan</actor>
+			<role>Tamar Rabinyan</role>
+		</credit>
+		<credit>
+			<actor>Shaun Toub</actor>
+			<role>Faraz Kamali</role>
+		</credit>
+		<credit>
+			<actor>Shervin Alenabi</actor>
+			<role>Milad Kahani</role>
+		</credit>
+		<credit>
+			<actor>Shila Ommi</actor>
+			<role>Nahid Kamali</role>
+		</credit>
+		<credit>
+			<actor>Arash Marandi</actor>
+			<role>Ali Aghazadeh</role>
+		</credit>
+		<credit>
+			<actor>Vassilis Koukalani</actor>
+			<role>Qasem Mohammadi</role>
+		</credit>
+		<credit>
+			<actor>Tamir Ginsburg</actor>
+			<role>Tamir</role>
+		</credit>
+		<credit>
+			<actor>Menashe Noy</actor>
+			<role>Meir Gorev</role>
+		</credit>
+		<credit>
+			<actor>Liraz Charhi</actor>
+			<role>Yael Kadosh</role>
+		</credit>
+		<credit>
+			<actor>Darius Homayoun</actor>
+			<role>Peyman Mohammadi</role>
+		</credit>
+		<credit>
+			<actor>Navid Negahban</actor>
+			<role>Masoud Tabrizi</role>
+		</credit>
+		<credit>
+			<actor>Glenn Close</actor>
+			<role>Marjan Montazeri</role>
+		</credit>
+		<credit>
+			<actor>Bahador Foladi</actor>
+			<role>Amir</role>
+		</credit>
+		<credit>
+			<actor>Shayan Tnp</actor>
+			<role>Hasan</role>
+		</credit>
+		<credit>
+			<actor>Sara von Schwarze</actor>
+			<role>Yulia Magen</role>
+		</credit>
+		<credit>
+			<actor>Nofar Boker</actor>
+			<role>Mossad Agent</role>
+		</credit>
+		<credit>
+			<actor>Sia Alipour</actor>
+			<role>Vahid Nemati</role>
+		</credit>
+		<credit>
+			<actor>Reza Diako</actor>
+			<role>Shahin</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Israel">June 22 2020</releasedate>
+		<releasedate country="United Arab Emirates">September 25 2020</releasedate>
+		<releasedate country="Argentina">September 25 2020</releasedate>
+		<releasedate country="Australia">September 25 2020</releasedate>
+		<releasedate country="Brazil">September 25 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="Ecuador">C</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Israel">18</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">18</certificate>
+		<certificate country="Mexico">15+</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">SPG</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15+</certificate>
+		<certificate country="Taiwan">PG-15</certificate>
+		<certificate country="Thailand">5</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>iran israel relations</keyword>
+		<keyword>computer</keyword>
+		<keyword>mossad agent</keyword>
+		<keyword>mossad</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>tehran iran</keyword>
+		<keyword>islamic revolutionary guard corps</keyword>
+		<keyword>dictatorship</keyword>
+		<keyword>refrence to islamic dictatorship of iran</keyword>
+		<keyword>anti semitic ideology</keyword>
+		<keyword>reference to iran nuclear deal</keyword>
+		<keyword>nuclear weapon</keyword>
+		<keyword>persian jews</keyword>
+		<keyword>place name in title</keyword>
+		<keyword>spy thriller</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>iran</keyword>
+		<keyword>israel</keyword>
+		<keyword>islam</keyword>
+		<keyword>judaism</keyword>
+		<keyword>persian</keyword>
+		<keyword>political drama</keyword>
+		<keyword>organized crime</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Syrkin</director>
+	</directors>
+	<composers>
+		<composer> Mark Eliyahu</composer>
+	</composers>
+	<producers>
+		<producer> Alon Aranya</producer>
+		<producer> Hadar Ben-Menashe</producer>
+		<producer> Fenia Cossovitsa</producer>
+		<producer> Dana Eden</producer>
+		<producer> Peter Emerson</producer>
+		<producer> Eldad Koblenz</producer>
+		<producer> Eran Kotzki</producer>
+		<producer> Elias Ledakis</producer>
+		<producer> Julien Leroux</producer>
+		<producer> Tal Leviathan</producer>
+		<producer> Dimitris Michalakis</producer>
+		<producer> Shula Spiegel</producer>
+		<producer> Moshe Zonder</producer>
+		<producer> Itamar Eden</producer>
+		<producer> Donna Hacohen</producer>
+		<producer> Michal Wintroib</producer>
+		<producer> Asaf Korman</producer>
+		<producer> Gal Kotzki</producer>
+		<producer> Elinor Levi</producer>
+		<producer> Dari Shai</producer>
+		<producer> Omri Shenhar</producer>
+		<producer> Daniel Syrkin</producer>
+	</producers>
+	<writers>
+		<writer> Dana Eden</writer>
+		<writer> Maor Kohn</writer>
+		<writer> Omri Shenhar</writer>
+		<writer> Omri Shenhar</writer>
+		<writer> Omri Shenhar</writer>
+		<writer> Daniel Syrkin</writer>
+		<writer> Daniel Syrkin</writer>
+		<writer> Daniel Syrkin</writer>
+		<writer> Moshe Zonder</writer>
+		<writer> Moshe Zonder</writer>
+		<writer> Moshe Zonder</writer>
+		<writer> Marc Grey</writer>
+		<writer> Marc Grey</writer>
+		<writer> Omri van Essen</writer>
+		<writer> Assaf Beiser</writer>
+		<writer> Assaf Beiser</writer>
+		<writer> Lee Gilat</writer>
+		<writer> Lee Gilat</writer>
+		<writer> Natalie Marcus</writer>
+		<writer> Natalie Marcus</writer>
+		<writer> Roy Iddan</writer>
+		<writer> Roy Iddan</writer>
+		<writer> Tony Saint</writer>
+	</writers>
+	<editors>
+		<editor> Roni Klimowski</editor>
+		<editor> Dana Yardeni Lichter</editor>
+		<editor> Yoav Shafir</editor>
+		<editor> Amir Winkler</editor>
+		<editor> Boaz Leon</editor>
+	</editors>
+</doc>

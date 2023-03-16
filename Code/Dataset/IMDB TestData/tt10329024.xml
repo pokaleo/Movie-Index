@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<doc id="tt10329024">
+	<docid>tt10329024</docid>
+	<title>Bob Hearts Abishola</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGEzOTc3MTctY2ExZi00MDViLWFkYTQtN2Y2MDFmN2NhZTI4XkEyXkFqcGdeQXVyNjc0MjkzNjc@._V1_QL75_UX190_CR0,28,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">21</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>An American guy falls in love with his Nigerian nurse.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Billy Gardell</actor>
+			<role>Bob</role>
+		</credit>
+		<credit>
+			<actor>Folake Olowofoyeku</actor>
+			<role>Abishola</role>
+		</credit>
+		<credit>
+			<actor>Christine Ebersole</actor>
+			<role>Dottie</role>
+		</credit>
+		<credit>
+			<actor>Gina Yashere</actor>
+			<role>Kemi</role>
+		</credit>
+		<credit>
+			<actor>Matt Jones</actor>
+			<role>Douglas</role>
+		</credit>
+		<credit>
+			<actor>Shola Adewusi</actor>
+			<role>Olu</role>
+		</credit>
+		<credit>
+			<actor>Barry Shabaka Henley</actor>
+			<role>Tunde</role>
+		</credit>
+		<credit>
+			<actor>Maribeth Monroe</actor>
+			<role>Christina</role>
+		</credit>
+		<credit>
+			<actor>Vernee Watson</actor>
+			<role>Gloria</role>
+		</credit>
+		<credit>
+			<actor>Bayo Akinfemi</actor>
+			<role>Goodwin</role>
+		</credit>
+		<credit>
+			<actor>Anthony Okungbowa</actor>
+			<role>Kofo</role>
+		</credit>
+		<credit>
+			<actor>Travis Wolfe Jr.</actor>
+			<role>Dele</role>
+		</credit>
+		<credit>
+			<actor>Saidah Arrika Ekulona</actor>
+			<role>Ebunoluwa</role>
+		</credit>
+		<credit>
+			<actor>Tony Tambi</actor>
+			<role>Chukwuemeka</role>
+		</credit>
+		<credit>
+			<actor>Kimberly Scott</actor>
+			<role>Ogechi</role>
+		</credit>
+		<credit>
+			<actor>Dayo Ade</actor>
+			<role>Tayo</role>
+		</credit>
+		<credit>
+			<actor>Tori Danner</actor>
+			<role>Morenike</role>
+		</credit>
+		<credit>
+			<actor>Joe O'Connell</actor>
+			<role>Jerry</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">September 23 2019</releasedate>
+		<releasedate country="Germany">September 23 2019</releasedate>
+		<releasedate country="France">September 23 2019</releasedate>
+		<releasedate country="Turkey">September 23 2019</releasedate>
+		<releasedate country="United States">September 23 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>love</keyword>
+		<keyword>laugh track</keyword>
+	</keywords>
+	<directors>
+		<director> Beth McCarthy-Miller</director>
+		<director> Kristy Cecil</director>
+		<director> Nikki Lorre</director>
+		<director> Bayo Akinfemi</director>
+		<director> Rhiannon O'Harra</director>
+	</directors>
+	<composers>
+		<composer> Sola Akingbola</composer>
+	</composers>
+	<producers>
+		<producer> Alan J. Higgins</producer>
+		<producer> Chuck Lorre</producer>
+		<producer> Isabelle Bright</producer>
+		<producer> Justin D. Hetzel</producer>
+		<producer> Peter Chakos</producer>
+		<producer> Kristy Cecil</producer>
+		<producer> Carla Filisha</producer>
+		<producer> Robinson Green</producer>
+		<producer> Matt Ross</producer>
+		<producer> Gina Yashere</producer>
+		<producer> Charles Back</producer>
+		<producer> Ryan Berdan</producer>
+		<producer> Nathan Chetty</producer>
+		<producer> Niko Mason</producer>
+		<producer> Beth McCarthy-Miller</producer>
+		<producer> Nick Bakay</producer>
+		<producer> Warren Bell</producer>
+		<producer> David Goetsch</producer>
+		<producer> Alexandra Barbone</producer>
+		<producer> Gloria Bigelow</producer>
+		<producer> Marla DuMont</producer>
+		<producer> Ibet Inyang</producer>
+		<producer> Michael Collier</producer>
+		<producer> Eddie Gorodetsky</producer>
+		<producer> Toti Levine</producer>
+		<producer> Carol Anne Miller</producer>
+	</producers>
+	<writers>
+		<writer> Eddie Gorodetsky</writer>
+		<writer> Eddie Gorodetsky</writer>
+		<writer> Alan J. Higgins</writer>
+		<writer> Alan J. Higgins</writer>
+		<writer> Alan J. Higgins</writer>
+		<writer> Alan J. Higgins</writer>
+		<writer> Chuck Lorre</writer>
+		<writer> Chuck Lorre</writer>
+		<writer> Chuck Lorre</writer>
+		<writer> Chuck Lorre</writer>
+		<writer> Chuck Lorre</writer>
+		<writer> Gina Yashere</writer>
+		<writer> Gina Yashere</writer>
+		<writer> Gina Yashere</writer>
+		<writer> Gina Yashere</writer>
+		<writer> Gina Yashere</writer>
+		<writer> Gina Yashere</writer>
+		<writer> Ibet Inyang</writer>
+		<writer> Ibet Inyang</writer>
+		<writer> Ibet Inyang</writer>
+		<writer> Ibet Inyang</writer>
+		<writer> Matt Ross</writer>
+		<writer> Matt Ross</writer>
+		<writer> Matt Ross</writer>
+		<writer> Gloria Bigelow</writer>
+		<writer> Gloria Bigelow</writer>
+		<writer> Gloria Bigelow</writer>
+		<writer> Gloria Bigelow</writer>
+		<writer> Marla DuMont</writer>
+		<writer> Marla DuMont</writer>
+		<writer> Marla DuMont</writer>
+		<writer> Marla DuMont</writer>
+		<writer> Carla Filisha</writer>
+		<writer> Carla Filisha</writer>
+		<writer> Nathan Chetty</writer>
+		<writer> Nathan Chetty</writer>
+		<writer> Dave Pilson</writer>
+		<writer> Dave Pilson</writer>
+		<writer> Dave Pilson</writer>
+		<writer> Jamarcus Turner</writer>
+		<writer> Jamarcus Turner</writer>
+		<writer> Jamarcus Turner</writer>
+		<writer> David Goetsch</writer>
+		<writer> Sam Elhindi</writer>
+		<writer> Jesse Jensen</writer>
+		<writer> Kelly Farrell</writer>
+	</writers>
+	<editors>
+		<editor> Peter Chakos</editor>
+	</editors>
+</doc>

@@ -1,0 +1,294 @@
+<?xml version="1.0" ?>
+<doc id="tt2359704">
+	<docid>tt2359704</docid>
+	<title>JoJo's Bizarre Adventure</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDc3NGQ3ZWQtYjNkOC00MjhiLTg2N2YtNmZlOGNiZTFkOWNhXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">24</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>The story of the Joestar family, who are possessed with intense psychic strength, and the adventures each member encounters throughout their lives.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>Japanese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>David Vincent</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Matthew Mercer</actor>
+			<role>Jotaro Kujo</role>
+		</credit>
+		<credit>
+			<actor>Daisuke Ono</actor>
+			<role>Jotaro Kujo</role>
+		</credit>
+		<credit>
+			<actor>Unshô Ishizuka</actor>
+			<role>Joseph Joestar</role>
+		</credit>
+		<credit>
+			<actor>Tôru Ohkawa</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Fuminori Komatsu</actor>
+			<role>Jean-Pierre Polnareff</role>
+		</credit>
+		<credit>
+			<actor>Richard Epcar</actor>
+			<role>Joseph Joestar</role>
+		</credit>
+		<credit>
+			<actor>Phillip Reich</actor>
+			<role>Giorno Giovanna</role>
+		</credit>
+		<credit>
+			<actor>Kira Buckland</actor>
+			<role>Jolyne</role>
+		</credit>
+		<credit>
+			<actor>Kenshô Ono</actor>
+			<role>Giorno Giovanna</role>
+		</credit>
+		<credit>
+			<actor>Yûichi Nakamura</actor>
+			<role>Bruno Bucciarati</role>
+		</credit>
+		<credit>
+			<actor>Yuki Ono</actor>
+			<role>Josuke Higashikata</role>
+		</credit>
+		<credit>
+			<actor>Doug Erholtz</actor>
+			<role>Jean-Pierre Polnareff</role>
+		</credit>
+		<credit>
+			<actor>Fairouz Ai</actor>
+			<role>Jolyne Cujoh</role>
+		</credit>
+		<credit>
+			<actor>Patrick Seitz</actor>
+			<role>Dio</role>
+		</credit>
+		<credit>
+			<actor>Jun'ichi Suwabe</actor>
+			<role>Leone Abbacchio</role>
+		</credit>
+		<credit>
+			<actor>Kyle Hebert</actor>
+			<role>Noriaki Kakyoin</role>
+		</credit>
+		<credit>
+			<actor>Daisuke Hirakawa</actor>
+			<role>Noriaki Kakyoin</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Japan">October 2012</releasedate>
+		<releasedate country="United States">October 4 2012</releasedate>
+		<releasedate country="Japan">October 5 2012</releasedate>
+		<releasedate country="Turkey">October 5 2012</releasedate>
+		<releasedate country="Brazil">October 31 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on manga</keyword>
+		<keyword>violence</keyword>
+		<keyword>gore</keyword>
+		<keyword>shounen</keyword>
+		<keyword>anime</keyword>
+		<keyword>camp</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>power</keyword>
+		<keyword>ultimate</keyword>
+		<keyword>fight</keyword>
+		<keyword>blood</keyword>
+		<keyword>fighter</keyword>
+		<keyword>boy</keyword>
+		<keyword>girl</keyword>
+		<keyword>combat</keyword>
+		<keyword>gang</keyword>
+		<keyword>exploration</keyword>
+		<keyword>stone</keyword>
+		<keyword>strong</keyword>
+		<keyword>group</keyword>
+		<keyword>crew</keyword>
+		<keyword>city</keyword>
+		<keyword>maximum</keyword>
+		<keyword>murder</keyword>
+		<keyword>boss</keyword>
+		<keyword>anime animation</keyword>
+		<keyword>brutality</keyword>
+		<keyword>timeframe 19th century</keyword>
+		<keyword>timeframe 1930s</keyword>
+		<keyword>timeframe 1990s</keyword>
+		<keyword>timeframe 20th century</keyword>
+		<keyword>timeframe 2000s</keyword>
+		<keyword>superhero</keyword>
+		<keyword>1990s</keyword>
+		<keyword>2000s</keyword>
+		<keyword>year 1999</keyword>
+		<keyword>year 2001</keyword>
+		<keyword>isekai</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>brief female full frontal nudity</keyword>
+		<keyword>mature animation</keyword>
+		<keyword>for grown ups animation</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>reboot</keyword>
+		<keyword>reference to tarot cards</keyword>
+	</keywords>
+	<directors>
+		<director> Naokatsu Tsuda</director>
+		<director> Kenichi Suzuki</director>
+		<director> Toshiyuki Kato</director>
+		<director> Yasufumi Soejima</director>
+		<director> Jirô Fujimoto</director>
+		<director> Hitomi Ezoe</director>
+		<director> Yuta Takamura</director>
+		<director> Shunsuke Machitani</director>
+		<director> Eri Nagata</director>
+		<director> Shigatsu Yoshikawa</director>
+		<director> Yukihiko Asaki</director>
+		<director> Hikaru Murata</director>
+		<director> Mitsuhiro Yoneda</director>
+		<director> Taisuke Mamori</director>
+		<director> Satoshi Osedo</director>
+		<director> Kim Min-Sun</director>
+		<director> Masashi Abe</director>
+		<director> Hitomi Efuku</director>
+		<director> Shingo Uchida</director>
+		<director> Jin Tamamura</director>
+		<director> Hirofumi Ogura</director>
+		<director> Sang-yong Eum</director>
+		<director> Keisuke Nishijima</director>
+		<director> Futoshi Higashide</director>
+		<director> Takahiro Majima</director>
+		<director> Yukio Nishimoto</director>
+		<director> Kôta Okuno</director>
+		<director> Yasuhiro Minami</director>
+		<director> Naomi Nakayama</director>
+		<director> Masaya Sasaki</director>
+		<director> Kôtarô Togoshi</director>
+		<director> Hirokazu Yamada</director>
+		<director> Kentarô Fujita</director>
+		<director> Yasuo Ejima</director>
+		<director> Jun Fujiwara</director>
+		<director> Masami Hata</director>
+		<director> Yoriyasu Kogawa</director>
+		<director> Fumiaki Kota</director>
+		<director> Tadahito Matsubayashi</director>
+		<director> Noriyoshi Sasaki</director>
+		<director> Soichi Shimada</director>
+		<director> Takahiko Yoshida</director>
+	</directors>
+	<composers>
+		<composer> Yûgo Kanno</composer>
+		<composer> Taku Iwasaki</composer>
+		<composer> Hayato Matsuo</composer>
+	</composers>
+	<producers>
+		<producer> Satoshi Adachi</producer>
+		<producer> Jun Fukuda</producer>
+		<producer> Chidori Hayashi</producer>
+		<producer> Toshiyasu Hayashi</producer>
+		<producer> Hiroshi Kajita</producer>
+		<producer> Hisataka Kasama</producer>
+		<producer> Akihiro Kawamura</producer>
+		<producer> Ryôsuke Mori</producer>
+		<producer> Hiroyuki Omori</producer>
+		<producer> Tsuneo Takechi</producer>
+		<producer> Junpei Mizusaki</producer>
+	</producers>
+	<writers>
+		<writer> Hirohiko Araki</writer>
+		<writer> Yasuko Kobayashi</writer>
+		<writer> Yasuko Kobayashi</writer>
+		<writer> Jalen K. Cassell</writer>
+		<writer> Ryan Raydarke</writer>
+		<writer> Shogo Yasukawa</writer>
+		<writer> Michael McConnohie</writer>
+		<writer> Tony Oliver</writer>
+		<writer> Patrick Seitz</writer>
+		<writer> Kazuyuki Fudeyasu</writer>
+		<writer> Josh Grelle</writer>
+		<writer> Shinichi Inozume</writer>
+		<writer> Rachel Robinson</writer>
+		<writer> Tyson Rinehart</writer>
+		<writer> Kenichi Suzuki</writer>
+		<writer> Nico Danilovich</writer>
+		<writer> Naokatsu Tsuda</writer>
+	</writers>
+	<editors>
+		<editor> Kiyoshi Hirose</editor>
+	</editors>
+</doc>

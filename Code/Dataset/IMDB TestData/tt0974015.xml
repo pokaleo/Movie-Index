@@ -1,0 +1,808 @@
+<?xml version="1.0" ?>
+<doc id="tt0974015">
+	<docid>tt0974015</docid>
+	<title>Justice League</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDgwNjMwNjM1OV5BMl5BanBnXkFtZTgwNjA2Njk5MzI@._V1_QL75_UX190_CR0,6,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his new-found ally, Diana Prince, to face an even greater enemy.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ben Affleck</actor>
+			<role>Batman</role>
+		</credit>
+		<credit>
+			<actor>Gal Gadot</actor>
+			<role>Wonder Woman</role>
+		</credit>
+		<credit>
+			<actor>Jason Momoa</actor>
+			<role>Aquaman</role>
+		</credit>
+		<credit>
+			<actor>Ezra Miller</actor>
+			<role>The Flash</role>
+		</credit>
+		<credit>
+			<actor>Henry Cavill</actor>
+			<role>Superman</role>
+		</credit>
+		<credit>
+			<actor>Amy Adams</actor>
+			<role>Lois Lane</role>
+		</credit>
+		<credit>
+			<actor>Ray Fisher</actor>
+			<role>Cyborg</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Irons</actor>
+			<role>Alfred</role>
+		</credit>
+		<credit>
+			<actor>Diane Lane</actor>
+			<role>Martha Kent</role>
+		</credit>
+		<credit>
+			<actor>Connie Nielsen</actor>
+			<role>Queen Hippolyta</role>
+		</credit>
+		<credit>
+			<actor>J.K. Simmons</actor>
+			<role>Commissioner Gordon</role>
+		</credit>
+		<credit>
+			<actor>Ciarán Hinds</actor>
+			<role>Steppenwolf</role>
+		</credit>
+		<credit>
+			<actor>Amber Heard</actor>
+			<role>Mera</role>
+		</credit>
+		<credit>
+			<actor>Joe Morton</actor>
+			<role>Silas Stone</role>
+		</credit>
+		<credit>
+			<actor>Lisa Loven Kongsli</actor>
+			<role>Menalippe</role>
+		</credit>
+		<credit>
+			<actor>Ingvar Sigurdsson</actor>
+			<role>Mayor</role>
+		</credit>
+		<credit>
+			<actor>David Thewlis</actor>
+			<role>Ares</role>
+		</credit>
+		<credit>
+			<actor>Sergi Constance</actor>
+			<role>Zeus</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="China">October 26 2017</releasedate>
+		<releasedate country="United States">November 13 2017</releasedate>
+		<releasedate country="Argentina">November 14 2017</releasedate>
+		<releasedate country="Spain">November 14 2017</releasedate>
+		<releasedate country="Belgium">November 15 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lebanon">(Banned)</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>justice league</keyword>
+		<keyword>superhero team</keyword>
+		<keyword>superhero</keyword>
+		<keyword>dc extended universe</keyword>
+		<keyword>comicbook movie</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>atlantis</keyword>
+		<keyword>batcave</keyword>
+		<keyword>gotham city</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>green power ring</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>wonder woman character</keyword>
+		<keyword>recruitment</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>amazon woman</keyword>
+		<keyword>amazon warrior</keyword>
+		<keyword>green blood</keyword>
+		<keyword>bat signal</keyword>
+		<keyword>superhuman speed</keyword>
+		<keyword>scantily clad female</keyword>
+		<keyword>amazon queen</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>saving the world</keyword>
+		<keyword>metal hand</keyword>
+		<keyword>robotic hand</keyword>
+		<keyword>african american</keyword>
+		<keyword>grave digging</keyword>
+		<keyword>alien superhero</keyword>
+		<keyword>flying superhero</keyword>
+		<keyword>male atlantean</keyword>
+		<keyword>female atlantean</keyword>
+		<keyword>kryptonian</keyword>
+		<keyword>male kryptonian</keyword>
+		<keyword>cyborg character</keyword>
+		<keyword>digging up a grave</keyword>
+		<keyword>bare midriff</keyword>
+		<keyword>dodging bullets</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>aquaman character</keyword>
+		<keyword>barry allen character</keyword>
+		<keyword>batman character</keyword>
+		<keyword>bruce wayne character</keyword>
+		<keyword>clark kent character</keyword>
+		<keyword>diana prince character</keyword>
+		<keyword>superman character</keyword>
+		<keyword>superhero team up</keyword>
+		<keyword>the flash character</keyword>
+		<keyword>two word title</keyword>
+		<keyword>metropolis the city</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>super speed</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>batmobile</keyword>
+		<keyword>amazon</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>superhuman</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>alien invasion</keyword>
+		<keyword>battle</keyword>
+		<keyword>alien threat</keyword>
+		<keyword>costumed vigilante</keyword>
+		<keyword>themyscira</keyword>
+		<keyword>island</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>face mask</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>human alien</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>alien</keyword>
+		<keyword>warlord</keyword>
+		<keyword>creature</keyword>
+		<keyword>monster</keyword>
+		<keyword>giant</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>alien monster</keyword>
+		<keyword>helmet</keyword>
+		<keyword>crown</keyword>
+		<keyword>queen</keyword>
+		<keyword>prince</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>trident</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>ambush</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>chase</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>gadget</keyword>
+		<keyword>gadgetry</keyword>
+		<keyword>explosive</keyword>
+		<keyword>cave</keyword>
+		<keyword>central city</keyword>
+		<keyword>smallville</keyword>
+		<keyword>london england</keyword>
+		<keyword>tower bridge london</keyword>
+		<keyword>russia</keyword>
+		<keyword>norway</keyword>
+		<keyword>flying</keyword>
+		<keyword>levitation</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>martial artist</keyword>
+		<keyword>martial arts master</keyword>
+		<keyword>mutation</keyword>
+		<keyword>metahuman</keyword>
+		<keyword>x rayed skeleton</keyword>
+		<keyword>laser vision</keyword>
+		<keyword>laser</keyword>
+		<keyword>hologram</keyword>
+		<keyword>super breath</keyword>
+		<keyword>super hearing</keyword>
+		<keyword>hearing voices</keyword>
+		<keyword>cape</keyword>
+		<keyword>tiara</keyword>
+		<keyword>lasso of truth</keyword>
+		<keyword>benefactor</keyword>
+		<keyword>immortality</keyword>
+		<keyword>heir to throne</keyword>
+		<keyword>alien technology</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>mother box</keyword>
+		<keyword>widow</keyword>
+		<keyword>reference to david bowie</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>photograph</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>tragic hero</keyword>
+		<keyword>outcast</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>world domination</keyword>
+		<keyword>terraforming</keyword>
+		<keyword>cube</keyword>
+		<keyword>lightning</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>robotic arm</keyword>
+		<keyword>metal arm</keyword>
+		<keyword>robot as pathos</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>wayne manor</keyword>
+		<keyword>mansion</keyword>
+		<keyword>manor house</keyword>
+		<keyword>lake house</keyword>
+		<keyword>abandoned city</keyword>
+		<keyword>secret hideout</keyword>
+		<keyword>warehouse</keyword>
+		<keyword>nuclear power station</keyword>
+		<keyword>revolver</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>silencer</keyword>
+		<keyword>cannon</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>rocket</keyword>
+		<keyword>missile</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police car</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>warrior race</keyword>
+		<keyword>axe</keyword>
+		<keyword>axe throwing</keyword>
+		<keyword>sword</keyword>
+		<keyword>swordswoman</keyword>
+		<keyword>shield</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>rope</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>portal</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>car accident</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>force field</keyword>
+		<keyword>swimming</keyword>
+		<keyword>race against time</keyword>
+		<keyword>mission</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>underwater fight</keyword>
+		<keyword>ocean</keyword>
+		<keyword>sea</keyword>
+		<keyword>water</keyword>
+		<keyword>flood</keyword>
+		<keyword>torture</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>scientist</keyword>
+		<keyword>soldier</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>disguise</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>drawing</keyword>
+		<keyword>fear</keyword>
+		<keyword>hope</keyword>
+		<keyword>courage</keyword>
+		<keyword>bravery</keyword>
+		<keyword>fisherman</keyword>
+		<keyword>fishing boat</keyword>
+		<keyword>bar</keyword>
+		<keyword>tavern</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>pier</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>kingdom</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>mountain</keyword>
+		<keyword>police station</keyword>
+		<keyword>body armor</keyword>
+		<keyword>police commissioner</keyword>
+		<keyword>horse</keyword>
+		<keyword>mustache</keyword>
+		<keyword>knight</keyword>
+		<keyword>ship</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>airplane</keyword>
+		<keyword>private jet</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>flaming arrow</keyword>
+		<keyword>news report</keyword>
+		<keyword>fire</keyword>
+		<keyword>army</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>swarm</keyword>
+		<keyword>ancient race</keyword>
+		<keyword>insect spray</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>general</keyword>
+		<keyword>parademon</keyword>
+		<keyword>death of loved one</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>one against many</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>bracelet</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>robber</keyword>
+		<keyword>backflip</keyword>
+		<keyword>hanging upside down</keyword>
+		<keyword>humor</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>chaos</keyword>
+		<keyword>destruction</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>adoptive mother</keyword>
+		<keyword>twenty something</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>funeral</keyword>
+		<keyword>memorial</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>social decay</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>single parent</keyword>
+		<keyword>death of superman</keyword>
+		<keyword>goggles</keyword>
+		<keyword>single father</keyword>
+		<keyword>coffin</keyword>
+		<keyword>graveyard</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>female reporter</keyword>
+		<keyword>reporter</keyword>
+		<keyword>journalist</keyword>
+		<keyword>heroism</keyword>
+		<keyword>bank foreclosure</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>farm</keyword>
+		<keyword>kansas</keyword>
+		<keyword>christ allegory</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>voice changer</keyword>
+		<keyword>statue</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>janitor</keyword>
+		<keyword>bleeped dialogue</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>apartment</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>power outage</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>metal detector</keyword>
+		<keyword>van</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>prison</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>race</keyword>
+		<keyword>yacht</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>boat</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>tower</keyword>
+		<keyword>video footage</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>justice</keyword>
+		<keyword>bald man</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>hostile takeover</keyword>
+		<keyword>scar</keyword>
+		<keyword>redemption</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>map</keyword>
+		<keyword>c4 explosives</keyword>
+		<keyword>bomb</keyword>
+		<keyword>suitcase bomb</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>military officer</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>robotics</keyword>
+		<keyword>cybernetics</keyword>
+		<keyword>siege</keyword>
+		<keyword>village</keyword>
+		<keyword>investigation</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>king</keyword>
+		<keyword>prologue</keyword>
+		<keyword>loner</keyword>
+		<keyword>abandoned facility</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>amnesia</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>arkham asylum</keyword>
+		<keyword>impostor</keyword>
+		<keyword>escaped prisoner</keyword>
+		<keyword>abandoned building</keyword>
+		<keyword>transformation</keyword>
+		<keyword>drone</keyword>
+		<keyword>hive</keyword>
+		<keyword>mind control</keyword>
+		<keyword>batarang</keyword>
+		<keyword>car set on fire</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>part of series</keyword>
+		<keyword>cgi</keyword>
+		<keyword>garden</keyword>
+		<keyword>flower</keyword>
+		<keyword>horde</keyword>
+		<keyword>pigeon</keyword>
+		<keyword>birdcage</keyword>
+		<keyword>abandoned factory</keyword>
+		<keyword>vault</keyword>
+		<keyword>olympian</keyword>
+		<keyword>harbor</keyword>
+		<keyword>bank robber</keyword>
+		<keyword>bank</keyword>
+		<keyword>assassin</keyword>
+		<keyword>leader</keyword>
+		<keyword>product placement</keyword>
+		<keyword>screaming</keyword>
+		<keyword>artifact</keyword>
+		<keyword>crowbar</keyword>
+		<keyword>police officer killed by silenced gun</keyword>
+		<keyword>police officer shot in the head</keyword>
+		<keyword>hell on earth</keyword>
+		<keyword>science fantasy</keyword>
+		<keyword>burglar</keyword>
+		<keyword>water tower</keyword>
+		<keyword>underwater city</keyword>
+		<keyword>deathstroke character</keyword>
+		<keyword>female archer</keyword>
+		<keyword>humanoid alien</keyword>
+		<keyword>caped superhero</keyword>
+		<keyword>atlantean</keyword>
+		<keyword>hydrokinesis</keyword>
+		<keyword>power ring</keyword>
+		<keyword>energy construct</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>alien supervillain</keyword>
+		<keyword>speedster metahuman</keyword>
+		<keyword>humanoid cyborg</keyword>
+		<keyword>flying cyborg</keyword>
+		<keyword>magical ring</keyword>
+		<keyword>camera focus on female butt</keyword>
+		<keyword>tv news</keyword>
+		<keyword>superhero fight</keyword>
+		<keyword>super villain</keyword>
+		<keyword>recruiting</keyword>
+		<keyword>good man</keyword>
+		<keyword>good woman</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>tough woman</keyword>
+		<keyword>earth in jeopardy</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>shooting a police officer</keyword>
+		<keyword>alfred pennyworth character</keyword>
+		<keyword>james gordon character</keyword>
+		<keyword>lex luthor character</keyword>
+		<keyword>lois lane character</keyword>
+		<keyword>martha kent character</keyword>
+		<keyword>green lantern character</keyword>
+		<keyword>mera character</keyword>
+		<keyword>extraterrestrial man</keyword>
+		<keyword>extraterrestrial superhero</keyword>
+		<keyword>extraterrestrial human</keyword>
+		<keyword>car</keyword>
+		<keyword>extraterrestrial being</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>new gods</keyword>
+		<keyword>reference to greek mythology</keyword>
+		<keyword>reference to ares the greek deity</keyword>
+		<keyword>reference to zeus the greek deity</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>male cyborg</keyword>
+		<keyword>2010s</keyword>
+		<keyword>hippolyta character</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>action girl</keyword>
+		<keyword>legion of doom</keyword>
+		<keyword>antiope character</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>bullet dodging</keyword>
+		<keyword>brunette</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>wall painting</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>animal</keyword>
+		<keyword>jet aircraft</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>weapon</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>parent</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>throwing weapon</keyword>
+		<keyword>gull wing door car</keyword>
+		<keyword>mother</keyword>
+		<keyword>city</keyword>
+		<keyword>battleaxe</keyword>
+		<keyword>firearm</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>steppenwolf character</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>x ray vision</keyword>
+		<keyword>motor truck</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>child</keyword>
+		<keyword>transport aircraft</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>superhero versus superhero</keyword>
+		<keyword>girl</keyword>
+		<keyword>jet aeroplane</keyword>
+		<keyword>touchscreen</keyword>
+		<keyword>night</keyword>
+		<keyword>aircraft cabin</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>gun</keyword>
+		<keyword>bow the weapon</keyword>
+		<keyword>two door car</keyword>
+		<keyword>arthur curry character</keyword>
+		<keyword>grapnel gun</keyword>
+		<keyword>advanced technology</keyword>
+		<keyword>color photograph</keyword>
+		<keyword>extraterrestrial supervillain</keyword>
+		<keyword>single cab pickup truck</keyword>
+		<keyword>victor stone character</keyword>
+		<keyword>mercedes benz motor vehicle</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>hairy chested man</keyword>
+		<keyword>man with long hair</keyword>
+		<keyword>woman with long hair</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>theft</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>campy</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>eye patch</keyword>
+		<keyword>cadillac automobile</keyword>
+		<keyword>cadillac escalade</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>chevrolet camaro</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>ford crown victoria</keyword>
+		<keyword>dodge the car</keyword>
+		<keyword>lincoln motor company</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>mitsubishi</keyword>
+		<keyword>women army</keyword>
+		<keyword>crime fighter</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>sequel</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>warrior</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>action hero</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>costume</keyword>
+		<keyword>masked vigilante</keyword>
+		<keyword>masked man</keyword>
+		<keyword>explosion</keyword>
+		<keyword>armored car</keyword>
+		<keyword>gadget car</keyword>
+		<keyword>butler</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>princess</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>warrior princess</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>heroine</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>time freeze</keyword>
+		<keyword>storm at sea</keyword>
+		<keyword>snow</keyword>
+		<keyword>ice</keyword>
+		<keyword>museum</keyword>
+		<keyword>beard</keyword>
+		<keyword>troubled production</keyword>
+		<keyword>lifting someone into the air</keyword>
+	</keywords>
+	<directors>
+		<director> Zack Snyder</director>
+	</directors>
+	<composers>
+		<composer> Danny Elfman</composer>
+	</composers>
+	<producers>
+		<producer> Ben Affleck</producer>
+		<producer> Madison Ainley</producer>
+		<producer> Jon Berg</producer>
+		<producer> Wesley Coller</producer>
+		<producer> Marianne Jenkins</producer>
+		<producer> Finni Johannsson</producer>
+		<producer> Geoff Johns</producer>
+		<producer> Daniel S. Kaminsky</producer>
+		<producer> Curt Kanemoto</producer>
+		<producer> Benjamin Melniker</producer>
+		<producer> Christopher Nolan</producer>
+		<producer> Charles Roven</producer>
+		<producer> Jim Rowe</producer>
+		<producer> Deborah Snyder</producer>
+		<producer> Chris Terrio</producer>
+		<producer> Emma Thomas</producer>
+		<producer> Michael E. Uslan</producer>
+		<producer> Madison Weireter</producer>
+		<producer> Andrea Wertheim</producer>
+		<producer> Gregor Wilson</producer>
+	</producers>
+	<writers>
+		<writer> Jerry Siegel</writer>
+		<writer> Joe Shuster</writer>
+		<writer> Chris Terrio</writer>
+		<writer> Zack Snyder</writer>
+		<writer> Chris Terrio</writer>
+		<writer> Joss Whedon</writer>
+		<writer> Gardner Fox</writer>
+		<writer> Bob Kane</writer>
+		<writer> Bill Finger</writer>
+		<writer> William Moulton Marston</writer>
+		<writer> Jack Kirby</writer>
+	</writers>
+	<editors>
+		<editor> David Brenner</editor>
+		<editor> Richard Pearson</editor>
+		<editor> Martin Walsh</editor>
+	</editors>
+</doc>

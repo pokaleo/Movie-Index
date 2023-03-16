@@ -1,0 +1,368 @@
+<?xml version="1.0" ?>
+<doc id="tt2334649">
+	<docid>tt2334649</docid>
+	<title>Fruitvale Station</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTQ0OTU1MDkxMF5BMl5BanBnXkFtZTcwNjI5OTA3OQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">85</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The story of Oscar Grant III, a 22-year-old Bay Area resident, who crosses paths with friends, enemies, family, and strangers on the last day of 2008.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Michael B. Jordan</actor>
+			<role>Oscar Grant</role>
+		</credit>
+		<credit>
+			<actor>Melonie Diaz</actor>
+			<role>Sophina</role>
+		</credit>
+		<credit>
+			<actor>Octavia Spencer</actor>
+			<role>Wanda</role>
+		</credit>
+		<credit>
+			<actor>Kevin Durand</actor>
+			<role>Officer Caruso</role>
+		</credit>
+		<credit>
+			<actor>Chad Michael Murray</actor>
+			<role>Officer Ingram</role>
+		</credit>
+		<credit>
+			<actor>Ahna O'Reilly</actor>
+			<role>Katie</role>
+		</credit>
+		<credit>
+			<actor>Ariana Neal</actor>
+			<role>Tatiana</role>
+		</credit>
+		<credit>
+			<actor>Keenan Coogler</actor>
+			<role>Cato</role>
+		</credit>
+		<credit>
+			<actor>Trestin George</actor>
+			<role>Brandon</role>
+		</credit>
+		<credit>
+			<actor>Joey Oglesby</actor>
+			<role>Cale</role>
+		</credit>
+		<credit>
+			<actor>Michael James</actor>
+			<role>Carlos</role>
+		</credit>
+		<credit>
+			<actor>Marjorie Crump-Shears</actor>
+			<role>Grandma Bonnie</role>
+		</credit>
+		<credit>
+			<actor>Destiny Ekwueme</actor>
+			<role>Chantay</role>
+		</credit>
+		<credit>
+			<actor>Bianca Rodriguez III</actor>
+			<role>Vanessa</role>
+		</credit>
+		<credit>
+			<actor>Julian Keyes</actor>
+			<role>Kris</role>
+		</credit>
+		<credit>
+			<actor>Kenny Grimm</actor>
+			<role>Jason</role>
+		</credit>
+		<credit>
+			<actor>Tommy Wright</actor>
+			<role>Tim</role>
+		</credit>
+		<credit>
+			<actor>Jemal McNeil</actor>
+			<role>Cephus</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 19 2013</releasedate>
+		<releasedate country="France">May 16 2013</releasedate>
+		<releasedate country="United States">June 17 2013</releasedate>
+		<releasedate country="United States">June 20 2013</releasedate>
+		<releasedate country="United States">June 21 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder of an innocent person</keyword>
+		<keyword>family tragedy</keyword>
+		<keyword>racism</keyword>
+		<keyword>police brutality</keyword>
+		<keyword>gay</keyword>
+		<keyword>friendship</keyword>
+		<keyword>ex convict</keyword>
+		<keyword>officer</keyword>
+		<keyword>ring</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>flirting</keyword>
+		<keyword>hug</keyword>
+		<keyword>intensive care unit</keyword>
+		<keyword>killing an animal</keyword>
+		<keyword>pantyhose</keyword>
+		<keyword>preschool</keyword>
+		<keyword>roughhousing</keyword>
+		<keyword>spaniard</keyword>
+		<keyword>barbershop</keyword>
+		<keyword>partygoer</keyword>
+		<keyword>shrimp</keyword>
+		<keyword>seafood</keyword>
+		<keyword>day care</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>low budget film</keyword>
+		<keyword>hood</keyword>
+		<keyword>the weinstein company</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>reference to chuck e. cheese</keyword>
+		<keyword>fight in a train</keyword>
+		<keyword>fight on a train</keyword>
+		<keyword>21st century</keyword>
+		<keyword>true crime</keyword>
+		<keyword>birthday</keyword>
+		<keyword>police officer</keyword>
+		<keyword>new year's eve</keyword>
+		<keyword>written by director</keyword>
+		<keyword>female cinematographer</keyword>
+		<keyword>videotaping on cell phone</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>death of a dog</keyword>
+		<keyword>brutality</keyword>
+		<keyword>reference to the food network</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>gun</keyword>
+		<keyword>san quentin federal penitentiary</keyword>
+		<keyword>hit in the face</keyword>
+		<keyword>gang</keyword>
+		<keyword>south hayward california</keyword>
+		<keyword>highland hospital oakland</keyword>
+		<keyword>west oakland california</keyword>
+		<keyword>web design company</keyword>
+		<keyword>catfish</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>uncle niece relationship</keyword>
+		<keyword>new year's countdown</keyword>
+		<keyword>facial injury</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>sleep</keyword>
+		<keyword>video camera</keyword>
+		<keyword>theft</keyword>
+		<keyword>surgery</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>group prayer</keyword>
+		<keyword>internal bleeding</keyword>
+		<keyword>silent scene</keyword>
+		<keyword>blood transfusion</keyword>
+		<keyword>dead body</keyword>
+		<keyword>bay area rapid transit</keyword>
+		<keyword>candle</keyword>
+		<keyword>blowing out candles on a birthday cake</keyword>
+		<keyword>code 3</keyword>
+		<keyword>emergency room</keyword>
+		<keyword>removing a bullet</keyword>
+		<keyword>first degree murder</keyword>
+		<keyword>manslaughter</keyword>
+		<keyword>bloody mouth</keyword>
+		<keyword>protest</keyword>
+		<keyword>demonstration</keyword>
+		<keyword>riot</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>cooking</keyword>
+		<keyword>text on screen</keyword>
+		<keyword>shooting</keyword>
+		<keyword>street life</keyword>
+		<keyword>rap music</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>year 2007</keyword>
+		<keyword>strip search</keyword>
+		<keyword>undressing</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>nudity</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>flashback</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>mirror</keyword>
+		<keyword>lie</keyword>
+		<keyword>dancing</keyword>
+		<keyword>dancer</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>san francisco skyline</keyword>
+		<keyword>escalator</keyword>
+		<keyword>urination</keyword>
+		<keyword>celebration</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>marriage</keyword>
+		<keyword>teacher</keyword>
+		<keyword>prayer</keyword>
+		<keyword>race relations</keyword>
+		<keyword>asian american</keyword>
+		<keyword>fear</keyword>
+		<keyword>sleeplessness</keyword>
+		<keyword>marijuana</keyword>
+		<keyword>photograph</keyword>
+		<keyword>card trick</keyword>
+		<keyword>fish fry</keyword>
+		<keyword>death</keyword>
+		<keyword>dying</keyword>
+		<keyword>kicking</keyword>
+		<keyword>fight</keyword>
+		<keyword>playground</keyword>
+		<keyword>dreadlocks</keyword>
+		<keyword>lesbian</keyword>
+		<keyword>jumping a subway turnstile</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>little girl</keyword>
+		<keyword>train</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>shower</keyword>
+		<keyword>n word</keyword>
+		<keyword>f word</keyword>
+		<keyword>birthday card</keyword>
+		<keyword>grandmother grandson relationship</keyword>
+		<keyword>losing a job</keyword>
+		<keyword>unemployment</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>telephone</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>drug deal</keyword>
+		<keyword>police car</keyword>
+		<keyword>blood</keyword>
+		<keyword>dog hit by a car</keyword>
+		<keyword>san rafael california</keyword>
+		<keyword>adultery</keyword>
+		<keyword>hayward california</keyword>
+		<keyword>shooting an unarmed man</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>anger</keyword>
+		<keyword>violence</keyword>
+		<keyword>death of boyfriend</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>police harassment</keyword>
+		<keyword>racial tension</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>murder</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>taser</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>homicide</keyword>
+		<keyword>prison visit</keyword>
+		<keyword>grocery store</keyword>
+		<keyword>arrest</keyword>
+		<keyword>subway train</keyword>
+		<keyword>liquor store</keyword>
+		<keyword>hospital</keyword>
+		<keyword>correctional officer</keyword>
+		<keyword>san leandro california</keyword>
+		<keyword>witness</keyword>
+		<keyword>pistol</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>subway station</keyword>
+		<keyword>officer involved shooting</keyword>
+		<keyword>year 2008</keyword>
+		<keyword>public transportation</keyword>
+		<keyword>year 2009</keyword>
+		<keyword>new year's day</keyword>
+		<keyword>police shooting</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>oakland california</keyword>
+		<keyword>african american</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>death of son</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>bra and panties</keyword>
+		<keyword>brassiere</keyword>
+		<keyword>friend</keyword>
+		<keyword>underwear</keyword>
+		<keyword>mother and daughter share a shower</keyword>
+		<keyword>crying</keyword>
+		<keyword>thief</keyword>
+		<keyword>kiss</keyword>
+		<keyword>money</keyword>
+		<keyword>sex</keyword>
+	</keywords>
+	<directors>
+		<director> Ryan Coogler</director>
+	</directors>
+	<composers>
+		<composer> Ludwig Göransson</composer>
+	</composers>
+	<producers>
+		<producer> Nina Yang Bongiovi</producer>
+		<producer> Richard J. Bosner</producer>
+		<producer> Michael Y. Chow</producer>
+		<producer> Lisa Kleiner-Chanoff</producer>
+		<producer> John Kwok</producer>
+		<producer> Gerard McMurray</producer>
+		<producer> Sev Ohanian</producer>
+		<producer> Haroula Rose</producer>
+		<producer> Octavia Spencer</producer>
+		<producer> Ephraim Walker</producer>
+		<producer> Forest Whitaker</producer>
+	</producers>
+	<writers>
+		<writer> Ryan Coogler</writer>
+	</writers>
+	<editors>
+		<editor> Claudia Castello</editor>
+		<editor> Michael P. Shawver</editor>
+	</editors>
+</doc>

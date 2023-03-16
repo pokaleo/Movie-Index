@@ -1,0 +1,956 @@
+<?xml version="1.0" ?>
+<doc id="tt0451279">
+	<docid>tt0451279</docid>
+	<title>Wonder Woman</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjg0OTkyZjItNTY5YS00YzhmLTg1YTMtNGVlOWVhZTc2NTI5XkEyXkFqcGdeQXVyMTI0NTE1Njg4._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">141</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Gal Gadot</actor>
+			<role>Diana</role>
+		</credit>
+		<credit>
+			<actor>Chris Pine</actor>
+			<role>Steve Trevor</role>
+		</credit>
+		<credit>
+			<actor>Robin Wright</actor>
+			<role>Antiope</role>
+		</credit>
+		<credit>
+			<actor>Lucy Davis</actor>
+			<role>Etta</role>
+		</credit>
+		<credit>
+			<actor>Connie Nielsen</actor>
+			<role>Hippolyta</role>
+		</credit>
+		<credit>
+			<actor>Danny Huston</actor>
+			<role>Ludendorff</role>
+		</credit>
+		<credit>
+			<actor>David Thewlis</actor>
+			<role>Sir Patrick</role>
+		</credit>
+		<credit>
+			<actor>Saïd Taghmaoui</actor>
+			<role>Sameer</role>
+		</credit>
+		<credit>
+			<actor>Ewen Bremner</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Eugene Brave Rock</actor>
+			<role>The Chief</role>
+		</credit>
+		<credit>
+			<actor>Elena Anaya</actor>
+			<role>Dr. Maru</role>
+		</credit>
+		<credit>
+			<actor>Lilly Aspell</actor>
+			<role>Diana - Age 8</role>
+		</credit>
+		<credit>
+			<actor>Lisa Loven Kongsli</actor>
+			<role>Menalippe</role>
+		</credit>
+		<credit>
+			<actor>Ann Wolfe</actor>
+			<role>Artemis</role>
+		</credit>
+		<credit>
+			<actor>Ann Ogbomo</actor>
+			<role>Philippus</role>
+		</credit>
+		<credit>
+			<actor>Emily Carey</actor>
+			<role>Diana - Age 12</role>
+		</credit>
+		<credit>
+			<actor>James Cosmo</actor>
+			<role>Field Marshall Haig</role>
+		</credit>
+		<credit>
+			<actor>Wolf Kahler</actor>
+			<role>German Commander</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="China">May 15 2017</releasedate>
+		<releasedate country="United States">May 25 2017</releasedate>
+		<releasedate country="Hong Kong">May 30 2017</releasedate>
+		<releasedate country="Taiwan">May 30 2017</releasedate>
+		<releasedate country="Colombia">May 31 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">10</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">(Banned)</certificate>
+		<certificate country="Lebanon">(Banned)</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>anti war</keyword>
+		<keyword>superhero</keyword>
+		<keyword>world war one</keyword>
+		<keyword>historical fiction</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>warrior race</keyword>
+		<keyword>god</keyword>
+		<keyword>matriarchy</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>greek myth</keyword>
+		<keyword>warrior</keyword>
+		<keyword>1910s</keyword>
+		<keyword>church</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>airplane chase</keyword>
+		<keyword>wartime</keyword>
+		<keyword>superhuman speed</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>mission</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>princess</keyword>
+		<keyword>dc extended universe</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>wonder woman character</keyword>
+		<keyword>pilot</keyword>
+		<keyword>destiny</keyword>
+		<keyword>paradise</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>amazon woman</keyword>
+		<keyword>year 1918</keyword>
+		<keyword>chemical weapons</keyword>
+		<keyword>kingdom</keyword>
+		<keyword>smuggler</keyword>
+		<keyword>end of war</keyword>
+		<keyword>ancient god</keyword>
+		<keyword>evil god</keyword>
+		<keyword>bracelet</keyword>
+		<keyword>chemical weapon</keyword>
+		<keyword>war god</keyword>
+		<keyword>fight</keyword>
+		<keyword>island paradise</keyword>
+		<keyword>rescue</keyword>
+		<keyword>mad doctor</keyword>
+		<keyword>gas grenade</keyword>
+		<keyword>anecdote</keyword>
+		<keyword>german</keyword>
+		<keyword>bullet</keyword>
+		<keyword>paris france</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>warrior woman</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>amazon</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>island</keyword>
+		<keyword>army</keyword>
+		<keyword>warrior princess</keyword>
+		<keyword>statue</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>2010s</keyword>
+		<keyword>sadism</keyword>
+		<keyword>sadist</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>love</keyword>
+		<keyword>epic</keyword>
+		<keyword>human experiment</keyword>
+		<keyword>smoke signal</keyword>
+		<keyword>fake identity</keyword>
+		<keyword>prequel and sequel</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>animated sequence</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>sword and fantasy</keyword>
+		<keyword>old photograph</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>laboratory notebook</keyword>
+		<keyword>paradise island</keyword>
+		<keyword>british flag</keyword>
+		<keyword>male general</keyword>
+		<keyword>diana prince character</keyword>
+		<keyword>shoulder pad</keyword>
+		<keyword>mist</keyword>
+		<keyword>turkish flag</keyword>
+		<keyword>living god</keyword>
+		<keyword>female empowerment</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>insanity</keyword>
+		<keyword>saving the world</keyword>
+		<keyword>intelligence officer</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>action hero</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>double entendre</keyword>
+		<keyword>massacre</keyword>
+		<keyword>assumed identity</keyword>
+		<keyword>following someone</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>distrust</keyword>
+		<keyword>native american</keyword>
+		<keyword>immortality</keyword>
+		<keyword>idealism</keyword>
+		<keyword>british intelligence</keyword>
+		<keyword>military jeep</keyword>
+		<keyword>lasso of truth</keyword>
+		<keyword>suit of armor</keyword>
+		<keyword>one against many</keyword>
+		<keyword>world domination</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>tower bridge london</keyword>
+		<keyword>eiffel tower paris</keyword>
+		<keyword>behind enemy lines</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>sword</keyword>
+		<keyword>armor</keyword>
+		<keyword>hidden island</keyword>
+		<keyword>trench warfare</keyword>
+		<keyword>london england</keyword>
+		<keyword>origin of heroine</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>f rated</keyword>
+		<keyword>sultan</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>secretary</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>violence</keyword>
+		<keyword>villainess</keyword>
+		<keyword>amazon warrior</keyword>
+		<keyword>amazon tribe</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>girl power</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>female archer</keyword>
+		<keyword>tough woman</keyword>
+		<keyword>amazon queen</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>city of women</keyword>
+		<keyword>brunette</keyword>
+		<keyword>brunette woman</keyword>
+		<keyword>train</keyword>
+		<keyword>bayonet</keyword>
+		<keyword>watchtower</keyword>
+		<keyword>tower</keyword>
+		<keyword>crown</keyword>
+		<keyword>chaos</keyword>
+		<keyword>darkness</keyword>
+		<keyword>hijacking</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>corruption</keyword>
+		<keyword>secret</keyword>
+		<keyword>chosen one</keyword>
+		<keyword>bomber</keyword>
+		<keyword>casualty of war</keyword>
+		<keyword>mass death</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>honor</keyword>
+		<keyword>party</keyword>
+		<keyword>escalation</keyword>
+		<keyword>impostor</keyword>
+		<keyword>factory</keyword>
+		<keyword>warehouse</keyword>
+		<keyword>machine gun nest</keyword>
+		<keyword>gurney</keyword>
+		<keyword>gunpowder</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>ottoman empire</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>half brother</keyword>
+		<keyword>justice</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>smoke</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>flaming arrow</keyword>
+		<keyword>sharpshooter</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>sequel</keyword>
+		<keyword>prequel</keyword>
+		<keyword>desperation</keyword>
+		<keyword>flashback within a flashback</keyword>
+		<keyword>flashback</keyword>
+		<keyword>race against time</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>open ended</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>moroccan</keyword>
+		<keyword>campfire</keyword>
+		<keyword>chase</keyword>
+		<keyword>map</keyword>
+		<keyword>translator</keyword>
+		<keyword>notebook</keyword>
+		<keyword>earth viewed from space</keyword>
+		<keyword>armistice</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>revenge</keyword>
+		<keyword>screaming</keyword>
+		<keyword>corpse</keyword>
+		<keyword>tank</keyword>
+		<keyword>politician</keyword>
+		<keyword>photographer</keyword>
+		<keyword>e mail</keyword>
+		<keyword>vault</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>loss of sister</keyword>
+		<keyword>fratricide</keyword>
+		<keyword>death of aunt</keyword>
+		<keyword>queen</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>bravery</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>fake accent</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>sniper</keyword>
+		<keyword>rifle</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>revolver</keyword>
+		<keyword>pistol</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>caucasian</keyword>
+		<keyword>greek mythology</keyword>
+		<keyword>poison gas</keyword>
+		<keyword>two word title</keyword>
+		<keyword>female director</keyword>
+		<keyword>aunt niece relationship</keyword>
+		<keyword>armored car</keyword>
+		<keyword>shooting three arrows at once</keyword>
+		<keyword>armadillo</keyword>
+		<keyword>death of a god</keyword>
+		<keyword>amulet</keyword>
+		<keyword>sparring</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>cliff diving</keyword>
+		<keyword>volley of arrows</keyword>
+		<keyword>shot in the belly</keyword>
+		<keyword>bullet in flight</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>infiltrator</keyword>
+		<keyword>woman with a facial scar</keyword>
+		<keyword>aerial bombardment</keyword>
+		<keyword>engraved sword</keyword>
+		<keyword>reference to paul von hindenburg</keyword>
+		<keyword>skiff</keyword>
+		<keyword>sleeping in a boat</keyword>
+		<keyword>trying on clothes</keyword>
+		<keyword>cyanide capsule</keyword>
+		<keyword>ice cream cone</keyword>
+		<keyword>walking wounded</keyword>
+		<keyword>mortar</keyword>
+		<keyword>group photograph</keyword>
+		<keyword>chemical warfare</keyword>
+		<keyword>male captain</keyword>
+		<keyword>disfigured face</keyword>
+		<keyword>male pilot</keyword>
+		<keyword>female chemist</keyword>
+		<keyword>reference to kaiser wilhelm</keyword>
+		<keyword>red herring</keyword>
+		<keyword>louvre museum paris</keyword>
+		<keyword>grey animal</keyword>
+		<keyword>whereabouts unknown</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>sailor</keyword>
+		<keyword>admiral</keyword>
+		<keyword>war ship</keyword>
+		<keyword>seat belt</keyword>
+		<keyword>wreckage</keyword>
+		<keyword>swimmer</keyword>
+		<keyword>swimming</keyword>
+		<keyword>bubble</keyword>
+		<keyword>sunlight</keyword>
+		<keyword>insignia</keyword>
+		<keyword>black gloves</keyword>
+		<keyword>gloves</keyword>
+		<keyword>cut arm</keyword>
+		<keyword>arm cut</keyword>
+		<keyword>jumping off a cliff</keyword>
+		<keyword>cliff</keyword>
+		<keyword>catching a bullet</keyword>
+		<keyword>shooter</keyword>
+		<keyword>rowing</keyword>
+		<keyword>rower</keyword>
+		<keyword>fog</keyword>
+		<keyword>misty</keyword>
+		<keyword>search and rescue</keyword>
+		<keyword>vase</keyword>
+		<keyword>pushed to the ground</keyword>
+		<keyword>thrown to the ground</keyword>
+		<keyword>death on the beach</keyword>
+		<keyword>unknown beings</keyword>
+		<keyword>ponytail</keyword>
+		<keyword>practice</keyword>
+		<keyword>white horse</keyword>
+		<keyword>cushion</keyword>
+		<keyword>collection</keyword>
+		<keyword>neck tie</keyword>
+		<keyword>spotlight</keyword>
+		<keyword>microscope</keyword>
+		<keyword>vintage weaponry</keyword>
+		<keyword>myth</keyword>
+		<keyword>braid</keyword>
+		<keyword>world</keyword>
+		<keyword>environment</keyword>
+		<keyword>environmental</keyword>
+		<keyword>environmental destruction</keyword>
+		<keyword>pyramid</keyword>
+		<keyword>social concern</keyword>
+		<keyword>armored truck</keyword>
+		<keyword>truck</keyword>
+		<keyword>guard</keyword>
+		<keyword>briefcase</keyword>
+		<keyword>environmental damage</keyword>
+		<keyword>leather</keyword>
+		<keyword>leather boots</keyword>
+		<keyword>heels</keyword>
+		<keyword>vintage</keyword>
+		<keyword>black and white photograph</keyword>
+		<keyword>bomber jacket</keyword>
+		<keyword>ivy</keyword>
+		<keyword>river</keyword>
+		<keyword>top of a hill</keyword>
+		<keyword>bust</keyword>
+		<keyword>collective</keyword>
+		<keyword>new outlook</keyword>
+		<keyword>polytheism</keyword>
+		<keyword>carving</keyword>
+		<keyword>cobblestone</keyword>
+		<keyword>gate</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>waves</keyword>
+		<keyword>flag</keyword>
+		<keyword>ashore</keyword>
+		<keyword>sand</keyword>
+		<keyword>black woman</keyword>
+		<keyword>open shirt</keyword>
+		<keyword>battle scar</keyword>
+		<keyword>casualty</keyword>
+		<keyword>leather strap</keyword>
+		<keyword>bandage</keyword>
+		<keyword>spa</keyword>
+		<keyword>cavern</keyword>
+		<keyword>disobedience</keyword>
+		<keyword>engraving</keyword>
+		<keyword>fur pelt</keyword>
+		<keyword>moonlight</keyword>
+		<keyword>chastity</keyword>
+		<keyword>lantern</keyword>
+		<keyword>feather in hat</keyword>
+		<keyword>wagon</keyword>
+		<keyword>cyanide</keyword>
+		<keyword>suicide by pills</keyword>
+		<keyword>three piece suit</keyword>
+		<keyword>bartender</keyword>
+		<keyword>recruitment</keyword>
+		<keyword>steam boiler</keyword>
+		<keyword>chant</keyword>
+		<keyword>nurse</keyword>
+		<keyword>bridge</keyword>
+		<keyword>footbridge</keyword>
+		<keyword>dissent</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>closing a door</keyword>
+		<keyword>dance lesson</keyword>
+		<keyword>jumping out a window</keyword>
+		<keyword>running on roof</keyword>
+		<keyword>typewriter</keyword>
+		<keyword>turtleneck</keyword>
+		<keyword>jumping out window</keyword>
+		<keyword>town square</keyword>
+		<keyword>armored personnel carrier</keyword>
+		<keyword>surrounded</keyword>
+		<keyword>dreaming</keyword>
+		<keyword>talking in one's sleep</keyword>
+		<keyword>fountain</keyword>
+		<keyword>snow on hair</keyword>
+		<keyword>villager</keyword>
+		<keyword>gift</keyword>
+		<keyword>invitation</keyword>
+		<keyword>chauffeur</keyword>
+		<keyword>cracked glass</keyword>
+		<keyword>jumping out of a window</keyword>
+		<keyword>pine</keyword>
+		<keyword>tent</keyword>
+		<keyword>german beer</keyword>
+		<keyword>running on a roof</keyword>
+		<keyword>kilt</keyword>
+		<keyword>reference to william s. burroughs</keyword>
+		<keyword>animal cruelty</keyword>
+		<keyword>refugee</keyword>
+		<keyword>leg blown off</keyword>
+		<keyword>small town</keyword>
+		<keyword>blue dress</keyword>
+		<keyword>horse chase</keyword>
+		<keyword>philosophy</keyword>
+		<keyword>philosophical discussion</keyword>
+		<keyword>barbed wire</keyword>
+		<keyword>impaled by a sword</keyword>
+		<keyword>duality of human nature</keyword>
+		<keyword>bullseye</keyword>
+		<keyword>no entry sign</keyword>
+		<keyword>tarmac</keyword>
+		<keyword>hijacker</keyword>
+		<keyword>war of the gods</keyword>
+		<keyword>ancient gods</keyword>
+		<keyword>gods plan</keyword>
+		<keyword>dawn</keyword>
+		<keyword>union jack</keyword>
+		<keyword>celebration</keyword>
+		<keyword>french kiss</keyword>
+		<keyword>chasing an airplane</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>desktop monitor</keyword>
+		<keyword>mission trip</keyword>
+		<keyword>secret mission</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>superhero crying</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>murderess</keyword>
+		<keyword>magical sword</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>talking about marriage</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>covered male frontal nudity</keyword>
+		<keyword>hand over penis</keyword>
+		<keyword>reference to bruce wayne</keyword>
+		<keyword>no man's land</keyword>
+		<keyword>steve trevor character</keyword>
+		<keyword>siblings raising child together</keyword>
+		<keyword>bare shoulders</keyword>
+		<keyword>feminism</keyword>
+		<keyword>lasso</keyword>
+		<keyword>braces</keyword>
+		<keyword>tiara</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>cult film</keyword>
+		<keyword>famous scene</keyword>
+		<keyword>famous score</keyword>
+		<keyword>bayonet charge</keyword>
+		<keyword>bayonet fight</keyword>
+		<keyword>english bobby</keyword>
+		<keyword>reference to ares the greek deity</keyword>
+		<keyword>reference to zeus the greek deity</keyword>
+		<keyword>man wears an earring</keyword>
+		<keyword>themyscira</keyword>
+		<keyword>hippolyta character</keyword>
+		<keyword>greek deity</keyword>
+		<keyword>girl</keyword>
+		<keyword>action girl</keyword>
+		<keyword>demigoddess</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>superheroine origin</keyword>
+		<keyword>propeller aeroplane</keyword>
+		<keyword>antiope character</keyword>
+		<keyword>shoreline</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>propeller aircraft</keyword>
+		<keyword>doctor</keyword>
+		<keyword>gun</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>watercraft</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>male versus female</keyword>
+		<keyword>military vehicle</keyword>
+		<keyword>weapon</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>night</keyword>
+		<keyword>evil deity</keyword>
+		<keyword>male spy</keyword>
+		<keyword>view through rifle scope</keyword>
+		<keyword>bar</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>warplane</keyword>
+		<keyword>handgun</keyword>
+		<keyword>scoped rifle</keyword>
+		<keyword>amazon princess</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>firearm</keyword>
+		<keyword>german general</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>adult daughter</keyword>
+		<keyword>propeller airplane</keyword>
+		<keyword>car</keyword>
+		<keyword>motor truck</keyword>
+		<keyword>battle tank</keyword>
+		<keyword>daughter</keyword>
+		<keyword>military aircraft</keyword>
+		<keyword>paris skyline</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>first part</keyword>
+		<keyword>man uses a wheelchair</keyword>
+		<keyword>shooting a woman</keyword>
+		<keyword>war zone</keyword>
+		<keyword>an aesop</keyword>
+		<keyword>military airplane</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>man uses a cane</keyword>
+		<keyword>entering through a window</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>murder of aunt</keyword>
+		<keyword>murder of a woman</keyword>
+		<keyword>matriarchal society</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>female filmmaker</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>horse and carriage</keyword>
+		<keyword>flight</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>rolls royce</keyword>
+		<keyword>fictional country</keyword>
+		<keyword>fictional island</keyword>
+		<keyword>horn the musical instrument</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>women army</keyword>
+		<keyword>fate</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>part of series</keyword>
+		<keyword>poison</keyword>
+		<keyword>alliteration in title</keyword>
+		<keyword>drinking</keyword>
+		<keyword>drink</keyword>
+		<keyword>dancer</keyword>
+		<keyword>singing</keyword>
+		<keyword>singer</keyword>
+		<keyword>scotsman</keyword>
+		<keyword>turk</keyword>
+		<keyword>fez</keyword>
+		<keyword>cyanide pill</keyword>
+		<keyword>single mother</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>walking stick</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>revolving door</keyword>
+		<keyword>army base</keyword>
+		<keyword>photograph</keyword>
+		<keyword>invasion</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>loss of aunt</keyword>
+		<keyword>death of sister</keyword>
+		<keyword>death of mentor</keyword>
+		<keyword>mentor</keyword>
+		<keyword>loss of brother</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>humor</keyword>
+		<keyword>beating</keyword>
+		<keyword>pub</keyword>
+		<keyword>piano</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>scottish accent</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>love interest</keyword>
+		<keyword>snow</keyword>
+		<keyword>dancing</keyword>
+		<keyword>beer</keyword>
+		<keyword>bell tower</keyword>
+		<keyword>village</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>military</keyword>
+		<keyword>bowler hat</keyword>
+		<keyword>german spy</keyword>
+		<keyword>german army</keyword>
+		<keyword>soldier</keyword>
+		<keyword>captain</keyword>
+		<keyword>destruction</keyword>
+		<keyword>costume</keyword>
+		<keyword>heroism</keyword>
+		<keyword>courage</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>lightning bolt</keyword>
+		<keyword>lightning</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>hatred</keyword>
+		<keyword>anger</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>undercover</keyword>
+		<keyword>spy</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>biplane</keyword>
+		<keyword>airplane</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>horse</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>scar</keyword>
+		<keyword>face mask</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>bomb</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>pool</keyword>
+		<keyword>torture</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>trench</keyword>
+		<keyword>cave</keyword>
+		<keyword>obsession</keyword>
+		<keyword>hope</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>fear</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>culture clash</keyword>
+		<keyword>fish out of water</keyword>
+		<keyword>department store</keyword>
+		<keyword>beach</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>painting</keyword>
+		<keyword>training</keyword>
+		<keyword>backflip</keyword>
+		<keyword>rope</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>montage</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>alley fight</keyword>
+		<keyword>alley</keyword>
+		<keyword>pipe smoking</keyword>
+		<keyword>disguise</keyword>
+		<keyword>gala</keyword>
+		<keyword>cannon</keyword>
+		<keyword>hydrogen</keyword>
+		<keyword>mustard gas</keyword>
+		<keyword>gas attack</keyword>
+		<keyword>knife</keyword>
+		<keyword>chemist</keyword>
+		<keyword>scientist</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>castle</keyword>
+		<keyword>boat</keyword>
+		<keyword>ship</keyword>
+		<keyword>force field</keyword>
+		<keyword>helmet</keyword>
+		<keyword>archery</keyword>
+		<keyword>archer</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>spear throwing</keyword>
+		<keyword>spear</keyword>
+		<keyword>axe throwing</keyword>
+		<keyword>axe</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>explosion</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>thrown from height</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>revelation</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>evil man</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>showdown</keyword>
+		<keyword>levitation</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>big ben london</keyword>
+		<keyword>van</keyword>
+		<keyword>antique dealer</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>battle</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>escape</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>brutality</keyword>
+		<keyword>belgium</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>heroine</keyword>
+		<keyword>shield</keyword>
+		<keyword>fire</keyword>
+		<keyword>flame</keyword>
+		<keyword>general</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>western front</keyword>
+		<keyword>train station</keyword>
+		<keyword>female general</keyword>
+		<keyword>returning actress with different character</keyword>
+		<keyword>invisibility cloak</keyword>
+		<keyword>mustache</keyword>
+		<keyword>shootout on a beach</keyword>
+		<keyword>anti aircraft fire</keyword>
+		<keyword>dock</keyword>
+		<keyword>goggles</keyword>
+		<keyword>female bartender</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>inhaling</keyword>
+		<keyword>sliding</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>misery</keyword>
+		<keyword>female ninja</keyword>
+		<keyword>steampunk</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>bar fight</keyword>
+		<keyword>sailboat</keyword>
+		<keyword>mythology</keyword>
+	</keywords>
+	<directors>
+		<director> Patty Jenkins</director>
+	</directors>
+	<composers>
+		<composer> Rupert Gregson-Williams</composer>
+	</composers>
+	<producers>
+		<producer> Jon Berg</producer>
+		<producer> Wesley Coller</producer>
+		<producer> Tommy Gormley</producer>
+		<producer> Geoff Johns</producer>
+		<producer> Stephen Jones</producer>
+		<producer> Curt Kanemoto</producer>
+		<producer> Steven Mnuchin</producer>
+		<producer> Rebecca Steel Roven Oakley</producer>
+		<producer> Charles Roven</producer>
+		<producer> Enzo Sisti</producer>
+		<producer> Deborah Snyder</producer>
+		<producer> Zack Snyder</producer>
+		<producer> Richard Suckle</producer>
+	</producers>
+	<writers>
+		<writer> Allan Heinberg</writer>
+		<writer> Zack Snyder</writer>
+		<writer> Allan Heinberg</writer>
+		<writer> Jason Fuchs</writer>
+		<writer> William Moulton Marston</writer>
+		<writer> Harry G. Peter</writer>
+	</writers>
+	<editors>
+		<editor> Martin Walsh</editor>
+	</editors>
+</doc>

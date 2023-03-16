@@ -1,0 +1,531 @@
+<?xml version="1.0" ?>
+<doc id="tt3532216">
+	<docid>tt3532216</docid>
+	<title>American Made</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTUxNzUwMjk1Nl5BMl5BanBnXkFtZTgwNDkwODI1MjI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">115</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Cruise</actor>
+			<role>Barry Seal</role>
+		</credit>
+		<credit>
+			<actor>Domhnall Gleeson</actor>
+			<role>Monty 'Schafer'</role>
+		</credit>
+		<credit>
+			<actor>Sarah Wright</actor>
+			<role>Lucy Seal</role>
+		</credit>
+		<credit>
+			<actor>Jesse Plemons</actor>
+			<role>Sheriff Downing</role>
+		</credit>
+		<credit>
+			<actor>Caleb Landry Jones</actor>
+			<role>JB</role>
+		</credit>
+		<credit>
+			<actor>Lola Kirke</actor>
+			<role>Judy Downing</role>
+		</credit>
+		<credit>
+			<actor>Jayma Mays</actor>
+			<role>Dana Sibota</role>
+		</credit>
+		<credit>
+			<actor>Alejandro Edda</actor>
+			<role>Jorge Ochoa</role>
+		</credit>
+		<credit>
+			<actor>Benito Martinez</actor>
+			<role>James Rangel</role>
+		</credit>
+		<credit>
+			<actor>E. Roger Mitchell</actor>
+			<role>Agent Craig McCall</role>
+		</credit>
+		<credit>
+			<actor>Jed Rees</actor>
+			<role>Louis Finkle</role>
+		</credit>
+		<credit>
+			<actor>Fredy Yate</actor>
+			<role>Carlos Lehder</role>
+		</credit>
+		<credit>
+			<actor>Mauricio Mejía</actor>
+			<role>Pablo Escobar</role>
+		</credit>
+		<credit>
+			<actor>Robert Farrior</actor>
+			<role>Oliver North</role>
+		</credit>
+		<credit>
+			<actor>Morgan Hinkleman</actor>
+			<role>Christina</role>
+		</credit>
+		<credit>
+			<actor>Alberto Ospino</actor>
+			<role>Manuel Noriega</role>
+		</credit>
+		<credit>
+			<actor>Felipe Bernedette</actor>
+			<role>Translator</role>
+		</credit>
+		<credit>
+			<actor>Daniel Lugo</actor>
+			<role>Adolfo Calero</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Egypt">August 23 2017</releasedate>
+		<releasedate country="Slovenia">August 23 2017</releasedate>
+		<releasedate country="Australia">August 24 2017</releasedate>
+		<releasedate country="Czech Republic">August 24 2017</releasedate>
+		<releasedate country="Denmark">August 24 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">21+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on real person</keyword>
+		<keyword>year 1978</keyword>
+		<keyword>colombia</keyword>
+		<keyword>1980s</keyword>
+		<keyword>airplane pilot</keyword>
+		<keyword>twa</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>pablo escobar</keyword>
+		<keyword>reference to pablo escobar</keyword>
+		<keyword>money</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>arrest</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>trial</keyword>
+		<keyword>jewels</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>videotape</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>drugs</keyword>
+		<keyword>pilot</keyword>
+		<keyword>iran contra</keyword>
+		<keyword>mena</keyword>
+		<keyword>latin america</keyword>
+		<keyword>dea agent</keyword>
+		<keyword>cocaine</keyword>
+		<keyword>airplane</keyword>
+		<keyword>hiding money</keyword>
+		<keyword>explosion</keyword>
+		<keyword>money laundering</keyword>
+		<keyword>bag of money</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>aviator sunglasses</keyword>
+		<keyword>landing an airplane on a city street</keyword>
+		<keyword>medellin cartel</keyword>
+		<keyword>cult film</keyword>
+		<keyword>quaalude</keyword>
+		<keyword>central america</keyword>
+		<keyword>drug smuggling</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>ass</keyword>
+		<keyword>butt</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>police arrest</keyword>
+		<keyword>george w. bush character</keyword>
+		<keyword>nicaragua</keyword>
+		<keyword>counter revolutionary</keyword>
+		<keyword>f word</keyword>
+		<keyword>reference to ibm</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>drug trafficking</keyword>
+		<keyword>atf</keyword>
+		<keyword>atf agent</keyword>
+		<keyword>montage</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>drug cartel</keyword>
+		<keyword>colombian drug cartel</keyword>
+		<keyword>sex in a car</keyword>
+		<keyword>sex in a shower</keyword>
+		<keyword>panama</keyword>
+		<keyword>el salvador</keyword>
+		<keyword>shower</keyword>
+		<keyword>south america</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>childbirth</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>uzi</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>silencer</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>split screen</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>louisiana</keyword>
+		<keyword>arkansas</keyword>
+		<keyword>small town</keyword>
+		<keyword>hangar</keyword>
+		<keyword>map</keyword>
+		<keyword>journey shown on map</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>airport</keyword>
+		<keyword>year 1980</keyword>
+		<keyword>year 1982</keyword>
+		<keyword>year 1984</keyword>
+		<keyword>year 1985</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>airfield</keyword>
+		<keyword>diner</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>bar</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>state police</keyword>
+		<keyword>barbecue</keyword>
+		<keyword>baseball</keyword>
+		<keyword>product placement</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>party</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>little boy</keyword>
+		<keyword>little girl</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>c word</keyword>
+		<keyword>police raid</keyword>
+		<keyword>profanity</keyword>
+		<keyword>office</keyword>
+		<keyword>top secret</keyword>
+		<keyword>reconnaisance</keyword>
+		<keyword>photograph</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>news report</keyword>
+		<keyword>hidden camera</keyword>
+		<keyword>freedom fighter</keyword>
+		<keyword>guerilla army</keyword>
+		<keyword>army</keyword>
+		<keyword>soldier</keyword>
+		<keyword>corruption</keyword>
+		<keyword>bank</keyword>
+		<keyword>bank vault</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>police</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>courthouse</keyword>
+		<keyword>court</keyword>
+		<keyword>airplane accident</keyword>
+		<keyword>judge</keyword>
+		<keyword>attorney general</keyword>
+		<keyword>answering machine</keyword>
+		<keyword>pager</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>motel</keyword>
+		<keyword>beard</keyword>
+		<keyword>jewelry</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>airplane chase</keyword>
+		<keyword>oil rig</keyword>
+		<keyword>radar</keyword>
+		<keyword>jungle</keyword>
+		<keyword>runway</keyword>
+		<keyword>unsubtitled foreign language</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>murder</keyword>
+		<keyword>assassination</keyword>
+		<keyword>revenge</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>chase</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>lightning</keyword>
+		<keyword>running out of fuel</keyword>
+		<keyword>police station</keyword>
+		<keyword>smuggler</keyword>
+		<keyword>arms smuggling</keyword>
+		<keyword>target practice</keyword>
+		<keyword>shooting range</keyword>
+		<keyword>colonel</keyword>
+		<keyword>general</keyword>
+		<keyword>rogue soldier</keyword>
+		<keyword>period piece</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>swamp</keyword>
+		<keyword>interview</keyword>
+		<keyword>secret service agent</keyword>
+		<keyword>blonde</keyword>
+		<keyword>government agent</keyword>
+		<keyword>horse</keyword>
+		<keyword>stable</keyword>
+		<keyword>necklace</keyword>
+		<keyword>smuggling</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>palm tree</keyword>
+		<keyword>beach</keyword>
+		<keyword>baseball bat used as a weapon</keyword>
+		<keyword>playing soccer</keyword>
+		<keyword>covert mission</keyword>
+		<keyword>bribe</keyword>
+		<keyword>hundred dollar bill</keyword>
+		<keyword>nation building</keyword>
+		<keyword>alenia c 27a spartan</keyword>
+		<keyword>dumbfounded</keyword>
+		<keyword>cigar smuggling</keyword>
+		<keyword>check list</keyword>
+		<keyword>walking off the job</keyword>
+		<keyword>wheel block</keyword>
+		<keyword>autopilot</keyword>
+		<keyword>little league baseball</keyword>
+		<keyword>cold war</keyword>
+		<keyword>aerial surveillance</keyword>
+		<keyword>woman in labor</keyword>
+		<keyword>bag man</keyword>
+		<keyword>new car</keyword>
+		<keyword>money counter</keyword>
+		<keyword>cocaine smuggling</keyword>
+		<keyword>eurocopter as350 squirrel</keyword>
+		<keyword>air drop</keyword>
+		<keyword>wheelbarrow</keyword>
+		<keyword>cross pendant</keyword>
+		<keyword>dirt runway</keyword>
+		<keyword>short runway</keyword>
+		<keyword>radar screen</keyword>
+		<keyword>flying below radar</keyword>
+		<keyword>tooth knocked out</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>presidential speech</keyword>
+		<keyword>sandanista</keyword>
+		<keyword>contras</keyword>
+		<keyword>drug bust</keyword>
+		<keyword>incarceration</keyword>
+		<keyword>millionaire</keyword>
+		<keyword>gulfstream 150 business jet</keyword>
+		<keyword>moving</keyword>
+		<keyword>station wagon</keyword>
+		<keyword>burying money</keyword>
+		<keyword>pilot sleeping</keyword>
+		<keyword>private airport</keyword>
+		<keyword>vault</keyword>
+		<keyword>army boots</keyword>
+		<keyword>beeper</keyword>
+		<keyword>confederate flag</keyword>
+		<keyword>destroying evidence</keyword>
+		<keyword>uh 1 huey helicopter</keyword>
+		<keyword>handcuffed</keyword>
+		<keyword>back in business</keyword>
+		<keyword>grumman albatross</keyword>
+		<keyword>flying through a thunderstorm</keyword>
+		<keyword>practical joke</keyword>
+		<keyword>stack of quarters</keyword>
+		<keyword>diamond ring</keyword>
+		<keyword>diamond bracelet</keyword>
+		<keyword>diamond necklace</keyword>
+		<keyword>baton rouge louisiana</keyword>
+		<keyword>court ordered community service</keyword>
+		<keyword>starting a car</keyword>
+		<keyword>iran contra affair</keyword>
+		<keyword>rise and fall</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>flight</keyword>
+		<keyword>plane</keyword>
+		<keyword>fur coat</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>colombian cocaine</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>risk</keyword>
+		<keyword>suspense</keyword>
+		<keyword>talking to the camera</keyword>
+		<keyword>true crime</keyword>
+		<keyword>clandestine</keyword>
+		<keyword>clandestine operation</keyword>
+		<keyword>reference to iran contra affair</keyword>
+		<keyword>reference to the contras of nicaragua</keyword>
+		<keyword>iran contra scandal</keyword>
+		<keyword>reference to oliver north</keyword>
+		<keyword>reference to the iran contra scandal</keyword>
+		<keyword>vietnam war veteran</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>handcuffed man</keyword>
+		<keyword>woman wears lingerie</keyword>
+		<keyword>woman wears a string bikini</keyword>
+		<keyword>drug running</keyword>
+		<keyword>drug runner</keyword>
+		<keyword>cocaine smuggler</keyword>
+		<keyword>1970s</keyword>
+		<keyword>airline pilot</keyword>
+		<keyword>covert operation</keyword>
+		<keyword>flying</keyword>
+		<keyword>aerial photo</keyword>
+		<keyword>reference to manuel noriega</keyword>
+		<keyword>bagman</keyword>
+		<keyword>losing a tooth</keyword>
+		<keyword>front company</keyword>
+		<keyword>gun running</keyword>
+		<keyword>gun runner</keyword>
+		<keyword>year 1981</keyword>
+		<keyword>year 1986</keyword>
+		<keyword>mile high club</keyword>
+		<keyword>year 1983</keyword>
+		<keyword>gulf of mexico</keyword>
+		<keyword>payphone</keyword>
+		<keyword>car bomb</keyword>
+		<keyword>sentencing</keyword>
+		<keyword>community service</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>dea drug enforcement administration</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>timeframe 1970s</keyword>
+		<keyword>timeframe 1980s</keyword>
+		<keyword>drug crime</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>brief female full frontal nudity</keyword>
+	</keywords>
+	<directors>
+		<director> Doug Liman</director>
+	</directors>
+	<composers>
+		<composer> Christophe Beck</composer>
+	</composers>
+	<producers>
+		<producer> Jill Ahrens</producer>
+		<producer> Ryan Ahrens</producer>
+		<producer> Brandt Andersen</producer>
+		<producer> Ray Angelic</producer>
+		<producer> Michael Bassick</producer>
+		<producer> Andrés Calderón</producer>
+		<producer> Ray Chen</producer>
+		<producer> Doug Davison</producer>
+		<producer> Jean-Luc De Fanti</producer>
+		<producer> Terry Dougas</producer>
+		<producer> Michael Finley</producer>
+		<producer> Juliana Florez</producer>
+		<producer> Brian Grazer</producer>
+		<producer> Eric Greenfeld</producer>
+		<producer> Paris Kassidokostas-Latsis</producer>
+		<producer> Daniel Lanmi</producer>
+		<producer> Beely Lee</producer>
+		<producer> Johnny Lin</producer>
+		<producer> Allen Liu</producer>
+		<producer> Philip Moross</producer>
+		<producer> Brian Oliver</producer>
+		<producer> James H. Pang</producer>
+		<producer> Michael Plank</producer>
+		<producer> Kim Roth</producer>
+		<producer> Jason Seagraves</producer>
+		<producer> Lauren Selig</producer>
+		<producer> Joshua Skurla</producer>
+		<producer> Gary Spinelli</producer>
+		<producer> Marcos Tellechea</producer>
+		<producer> Tyler Thompson</producer>
+		<producer> Alison Winter</producer>
+		<producer> Christopher Woodrow</producer>
+		<producer> Leo Shi Young</producer>
+	</producers>
+	<writers>
+		<writer> Gary Spinelli</writer>
+	</writers>
+	<editors>
+		<editor> Andrew Mondshein</editor>
+	</editors>
+</doc>

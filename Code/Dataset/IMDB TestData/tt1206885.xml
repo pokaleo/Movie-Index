@@ -1,0 +1,647 @@
+<?xml version="1.0" ?>
+<doc id="tt1206885">
+	<docid>tt1206885</docid>
+	<title>Rambo: Last Blood</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">89</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sylvester Stallone</actor>
+			<role>John Rambo</role>
+		</credit>
+		<credit>
+			<actor>Paz Vega</actor>
+			<role>Carmen Delgado</role>
+		</credit>
+		<credit>
+			<actor>Sergio Peris-Mencheta</actor>
+			<role>Hugo Martinez</role>
+		</credit>
+		<credit>
+			<actor>Adriana Barraza</actor>
+			<role>Maria Beltran</role>
+		</credit>
+		<credit>
+			<actor>Yvette Monreal</actor>
+			<role>Gabriela</role>
+		</credit>
+		<credit>
+			<actor>Genie Kim</actor>
+			<role>Bar Patron</role>
+		</credit>
+		<credit>
+			<actor>Joaquín Cosio</actor>
+			<role>Don Manuel</role>
+		</credit>
+		<credit>
+			<actor>Pascacio López</actor>
+			<role>El Flaco</role>
+		</credit>
+		<credit>
+			<actor>Óscar Jaenada</actor>
+			<role>Victor Martinez</role>
+		</credit>
+		<credit>
+			<actor>Alexander Dimitrov</actor>
+			<role>Heli Pilot</role>
+		</credit>
+		<credit>
+			<actor>Aaron Cohen</actor>
+			<role>State Police Captain</role>
+		</credit>
+		<credit>
+			<actor>Nick Wittman</actor>
+			<role>Male Hiker</role>
+		</credit>
+		<credit>
+			<actor>Jessica Madsen</actor>
+			<role>Becky</role>
+		</credit>
+		<credit>
+			<actor>Louis Mandylor</actor>
+			<role>Sheriff</role>
+		</credit>
+		<credit>
+			<actor>Owen Davis</actor>
+			<role>Rescue Worker</role>
+		</credit>
+		<credit>
+			<actor>Jamieson Urquhart</actor>
+			<role>Young Man (Party)</role>
+		</credit>
+		<credit>
+			<actor>Brayden Pindur</actor>
+			<role>Young Man (Party)</role>
+		</credit>
+		<credit>
+			<actor>Fenessa Pineda</actor>
+			<role>Gizelle</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Indonesia">September 18 2019</releasedate>
+		<releasedate country="United Arab Emirates">September 19 2019</releasedate>
+		<releasedate country="Australia">September 19 2019</releasedate>
+		<releasedate country="Brazil">September 19 2019</releasedate>
+		<releasedate country="Czech Republic">September 19 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">18</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Finland">K-18</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">A-18</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">18</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">18</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R18</certificate>
+		<certificate country="Nigeria">18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fifth part</keyword>
+		<keyword>one man army</keyword>
+		<keyword>vigilante justice</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>rambo</keyword>
+		<keyword>sequel</keyword>
+		<keyword>cartel</keyword>
+		<keyword>u.s. mexico border</keyword>
+		<keyword>rape and revenge</keyword>
+		<keyword>forced prostitution</keyword>
+		<keyword>implied rape</keyword>
+		<keyword>slave trade</keyword>
+		<keyword>sex trafficking</keyword>
+		<keyword>mexican stereotype</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>one against many</keyword>
+		<keyword>sadism</keyword>
+		<keyword>drugged drink</keyword>
+		<keyword>prostitution</keyword>
+		<keyword>sex slave</keyword>
+		<keyword>human trafficking</keyword>
+		<keyword>human trafficker</keyword>
+		<keyword>cowboy hat</keyword>
+		<keyword>sawed off shotgun</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>head blown off</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>coming out of retirement</keyword>
+		<keyword>stereotype</keyword>
+		<keyword>cultural stereotype</keyword>
+		<keyword>virgin</keyword>
+		<keyword>trafficking victim</keyword>
+		<keyword>mexican cartel</keyword>
+		<keyword>lever action rifle</keyword>
+		<keyword>winchester rifle</keyword>
+		<keyword>capitalist</keyword>
+		<keyword>american in mexico</keyword>
+		<keyword>turning the tables</keyword>
+		<keyword>loss of virginity</keyword>
+		<keyword>loss of innocence</keyword>
+		<keyword>rape of a virgin</keyword>
+		<keyword>modern western</keyword>
+		<keyword>rapist</keyword>
+		<keyword>rape victim</keyword>
+		<keyword>date rape</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>neo western</keyword>
+		<keyword>contemporary western</keyword>
+		<keyword>bowie arizona</keyword>
+		<keyword>sonora mexico</keyword>
+		<keyword>sonora</keyword>
+		<keyword>mexico</keyword>
+		<keyword>chihuahua mexico</keyword>
+		<keyword>chihuahua</keyword>
+		<keyword>arizona territory</keyword>
+		<keyword>arizona</keyword>
+		<keyword>arizona desert</keyword>
+		<keyword>half breed</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>gore</keyword>
+		<keyword>gory violence</keyword>
+		<keyword>extreme violence</keyword>
+		<keyword>exploitation</keyword>
+		<keyword>gunpowder</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>bomb</keyword>
+		<keyword>explosive</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>collapsing tunnel</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>showdown</keyword>
+		<keyword>vietnam flashback</keyword>
+		<keyword>ambush</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>battle</keyword>
+		<keyword>old age</keyword>
+		<keyword>combat</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>war hero</keyword>
+		<keyword>old man</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>montage</keyword>
+		<keyword>revenge</keyword>
+		<keyword>man with a ponytail</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>evil man</keyword>
+		<keyword>sadist</keyword>
+		<keyword>snorting cocaine</keyword>
+		<keyword>heroin</keyword>
+		<keyword>drugs</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>drugged</keyword>
+		<keyword>drug overdose</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>drug cartel</keyword>
+		<keyword>mexican drug cartel</keyword>
+		<keyword>mexican</keyword>
+		<keyword>crime lord</keyword>
+		<keyword>sex trafficker</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>gangster</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>henchman</keyword>
+		<keyword>thug</keyword>
+		<keyword>hitman</keyword>
+		<keyword>assassin</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>gang</keyword>
+		<keyword>brothel</keyword>
+		<keyword>pimp</keyword>
+		<keyword>hammer</keyword>
+		<keyword>beard</keyword>
+		<keyword>cowboy shirt</keyword>
+		<keyword>driving licence</keyword>
+		<keyword>apartment</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>torture</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>kicking in a door</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>pistol</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>rifle</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>hit with a hammer</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>impalement</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>death trap</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>pit</keyword>
+		<keyword>falling through the floor</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>body count</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>stabbed through the neck</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the groin</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>massacre</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>beating</keyword>
+		<keyword>chase</keyword>
+		<keyword>car chase</keyword>
+		<keyword>following someone</keyword>
+		<keyword>bar</keyword>
+		<keyword>product placement</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>car theft</keyword>
+		<keyword>severed foot</keyword>
+		<keyword>severed head</keyword>
+		<keyword>farmhouse</keyword>
+		<keyword>police car</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>heart ripped out</keyword>
+		<keyword>heart in hand</keyword>
+		<keyword>stable</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>housekeeper</keyword>
+		<keyword>teenager</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>party</keyword>
+		<keyword>photograph</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>burial</keyword>
+		<keyword>barbed wire</keyword>
+		<keyword>uncle niece relationship</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>race against time</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>target practice</keyword>
+		<keyword>archery</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>axe</keyword>
+		<keyword>knife throwing</keyword>
+		<keyword>knife in chest</keyword>
+		<keyword>corpse</keyword>
+		<keyword>ranch</keyword>
+		<keyword>barn</keyword>
+		<keyword>horse</keyword>
+		<keyword>scar</keyword>
+		<keyword>extreme close up</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>panic</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>loss of brother</keyword>
+		<keyword>death of niece</keyword>
+		<keyword>loss of niece</keyword>
+		<keyword>spike</keyword>
+		<keyword>shovel</keyword>
+		<keyword>tripwire</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>armory</keyword>
+		<keyword>journalist</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>investigative journalist</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>doctor</keyword>
+		<keyword>facial cut</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>intimidation</keyword>
+		<keyword>famous score</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>retirement</keyword>
+		<keyword>shanty town</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>hit in the head</keyword>
+		<keyword>evil</keyword>
+		<keyword>darkness</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>hacksaw</keyword>
+		<keyword>chainsaw</keyword>
+		<keyword>suspense</keyword>
+		<keyword>machete</keyword>
+		<keyword>grief</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>justice</keyword>
+		<keyword>medal</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>desert</keyword>
+		<keyword>crushed head</keyword>
+		<keyword>cave</keyword>
+		<keyword>cave in</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>knocked out with a gun butt</keyword>
+		<keyword>church</keyword>
+		<keyword>gash in the face</keyword>
+		<keyword>mexican woman</keyword>
+		<keyword>reporter</keyword>
+		<keyword>santa muerte</keyword>
+		<keyword>grave</keyword>
+		<keyword>landmine</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>search and rescue</keyword>
+		<keyword>flash flood</keyword>
+		<keyword>farm</keyword>
+		<keyword>underground tunnel</keyword>
+		<keyword>horse training</keyword>
+		<keyword>crossing the border</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>betrayed</keyword>
+		<keyword>tortured</keyword>
+		<keyword>stabbed</keyword>
+		<keyword>beaten</keyword>
+		<keyword>death by drug overdose</keyword>
+		<keyword>disfigured face</keyword>
+		<keyword>leg chopped off</keyword>
+		<keyword>gunshot wound</keyword>
+		<keyword>wound</keyword>
+		<keyword>letter opener</keyword>
+		<keyword>forge</keyword>
+		<keyword>bracelet</keyword>
+		<keyword>decapitated body</keyword>
+		<keyword>decapitated head</keyword>
+		<keyword>foot cut off</keyword>
+		<keyword>hammer as weapon</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>night</keyword>
+		<keyword>ford pickup truck</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>physical torture</keyword>
+		<keyword>motor truck</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>car</keyword>
+		<keyword>ford motor vehicle</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>weapon</keyword>
+		<keyword>handgun</keyword>
+		<keyword>firearm</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>gun</keyword>
+		<keyword>land rover motor vehicle</keyword>
+		<keyword>color photograph</keyword>
+		<keyword>reflection in sideview mirror</keyword>
+		<keyword>driver's license</keyword>
+		<keyword>veteran</keyword>
+		<keyword>independent journalist</keyword>
+		<keyword>villain</keyword>
+		<keyword>hypodermic syringe</keyword>
+		<keyword>suv</keyword>
+		<keyword>injured male</keyword>
+		<keyword>hand tool</keyword>
+		<keyword>bow the weapon</keyword>
+		<keyword>father daughter reunion</keyword>
+		<keyword>metal working</keyword>
+		<keyword>single cab pickup truck</keyword>
+		<keyword>mercedes benz suv</keyword>
+		<keyword>injured man</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>minivan</keyword>
+		<keyword>male veteran</keyword>
+		<keyword>arizona driver license</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>mercedes benz motor vehicle</keyword>
+		<keyword>pump action shotgun</keyword>
+		<keyword>headless corpse</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>double barreled shotgun</keyword>
+		<keyword>headless body</keyword>
+		<keyword>three word title</keyword>
+		<keyword>war veteran</keyword>
+		<keyword>surname in title</keyword>
+		<keyword>sport utility vehicle</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>greed</keyword>
+		<keyword>businessman</keyword>
+		<keyword>brunette</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>tattooed thug</keyword>
+		<keyword>tattooed hand</keyword>
+		<keyword>tattooed arm</keyword>
+		<keyword>cityscape</keyword>
+		<keyword>teenage prostitute</keyword>
+		<keyword>hammer to the head</keyword>
+		<keyword>hammer to knee</keyword>
+		<keyword>hammer blow to the head</keyword>
+		<keyword>hoop earrings</keyword>
+		<keyword>fence</keyword>
+		<keyword>dump</keyword>
+		<keyword>driving at night</keyword>
+		<keyword>lionsgate</keyword>
+		<keyword>automatic weapon</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford f 150</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>driving</keyword>
+		<keyword>u.s. car</keyword>
+		<keyword>ford car</keyword>
+		<keyword>japanese car</keyword>
+		<keyword>honda</keyword>
+		<keyword>honda civic the car</keyword>
+		<keyword>honda motor vehicle</keyword>
+		<keyword>honda civic</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>vietnam war veteran</keyword>
+		<keyword>gritty</keyword>
+		<keyword>man with long hair</keyword>
+		<keyword>murder of a man</keyword>
+		<keyword>shooting a man</keyword>
+		<keyword>john rambo character</keyword>
+		<keyword>ranged weapon</keyword>
+		<keyword>reference to bowie arizona</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>navajo indian</keyword>
+		<keyword>navajo</keyword>
+	</keywords>
+	<directors>
+		<director> Adrian Grunberg</director>
+	</directors>
+	<composers>
+		<composer> Brian Tyler</composer>
+	</composers>
+	<producers>
+		<producer> Louis Arriola</producer>
+		<producer> Christa Campbell</producer>
+		<producer> Allen Dam</producer>
+		<producer> Boaz Davidson</producer>
+		<producer> Valentin Dimitrov</producer>
+		<producer> Claiton Fernandes</producer>
+		<producer> Vladimir Fernandes</producer>
+		<producer> Andrey Georgiev</producer>
+		<producer> Jeffrey Greenstein</producer>
+		<producer> Lati Grobman</producer>
+		<producer> Jeff Gum</producer>
+		<producer> Samuel Hadida</producer>
+		<producer> Victor Hadida</producer>
+		<producer> Avi Lerner</producer>
+		<producer> Yariv Lerner</producer>
+		<producer> Rong Liu</producer>
+		<producer> Elijah Long</producer>
+		<producer> Elena Melamed</producer>
+		<producer> Balan Melarkode</producer>
+		<producer> Anthony Muir</producer>
+		<producer> Euzebio Munhoz Jr.</producer>
+		<producer> Matthew O'Toole</producer>
+		<producer> Peter Possne</producer>
+		<producer> Damaine Radcliff</producer>
+		<producer> Lonnie Ramati</producer>
+		<producer> Jiewen Tam</producer>
+		<producer> Kevin King Templeton</producer>
+		<producer> Robert Van Norden</producer>
+		<producer> Ariel Vromen</producer>
+		<producer> Les Weldon</producer>
+		<producer> Sean Wheelan</producer>
+		<producer> Jonathan Yunger</producer>
+		<producer> Qun Zhang</producer>
+	</producers>
+	<writers>
+		<writer> Matthew Cirulnick</writer>
+		<writer> Sylvester Stallone</writer>
+		<writer> Dan Gordon</writer>
+		<writer> Sylvester Stallone</writer>
+		<writer> David Morrell</writer>
+	</writers>
+	<editors>
+		<editor> Carsten Kurpanek</editor>
+		<editor> Todd E. Miller</editor>
+	</editors>
+</doc>

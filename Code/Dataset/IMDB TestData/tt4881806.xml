@@ -1,0 +1,761 @@
+<?xml version="1.0" ?>
+<doc id="tt4881806">
+	<docid>tt4881806</docid>
+	<title>Jurassic World: Fallen Kingdom</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTc3Nzc3OTgxMl5BMl5BanBnXkFtZTgwNzgzNzk2MjI@._V1_QL75_UX190_CR0,10,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">128</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Chris Pratt</actor>
+			<role>Owen Grady</role>
+		</credit>
+		<credit>
+			<actor>Bryce Dallas Howard</actor>
+			<role>Claire Dearing</role>
+		</credit>
+		<credit>
+			<actor>Rafe Spall</actor>
+			<role>Eli Mills</role>
+		</credit>
+		<credit>
+			<actor>Justice Smith</actor>
+			<role>Franklin Webb</role>
+		</credit>
+		<credit>
+			<actor>Daniella Pineda</actor>
+			<role>Zia Rodriguez</role>
+		</credit>
+		<credit>
+			<actor>James Cromwell</actor>
+			<role>Benjamin Lockwood</role>
+		</credit>
+		<credit>
+			<actor>Toby Jones</actor>
+			<role>Mr. Eversoll</role>
+		</credit>
+		<credit>
+			<actor>Ted Levine</actor>
+			<role>Ken Wheatley</role>
+		</credit>
+		<credit>
+			<actor>Jeff Goldblum</actor>
+			<role>Ian Malcolm</role>
+		</credit>
+		<credit>
+			<actor>BD Wong</actor>
+			<role>Dr. Wu</role>
+		</credit>
+		<credit>
+			<actor>Geraldine Chaplin</actor>
+			<role>Iris</role>
+		</credit>
+		<credit>
+			<actor>Isabella Sermon</actor>
+			<role>Maisie Lockwood</role>
+		</credit>
+		<credit>
+			<actor>Robert Emms</actor>
+			<role>Tech Merc</role>
+		</credit>
+		<credit>
+			<actor>Peter Jason</actor>
+			<role>Senator Sherwood</role>
+		</credit>
+		<credit>
+			<actor>Kevin Layne</actor>
+			<role>Sub Pilot</role>
+		</credit>
+		<credit>
+			<actor>John Schwab</actor>
+			<role>Tech Operator</role>
+		</credit>
+		<credit>
+			<actor>Sam Redford</actor>
+			<role>Helicopter Pilot</role>
+		</credit>
+		<credit>
+			<actor>Charlie Rawes</actor>
+			<role>Lead Mercenary</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Spain">May 21 2018</releasedate>
+		<releasedate country="Switzerland">June 5 2018</releasedate>
+		<releasedate country="Belgium">June 6 2018</releasedate>
+		<releasedate country="Germany">June 6 2018</releasedate>
+		<releasedate country="France">June 6 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">u 13+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dinosaur</keyword>
+		<keyword>island</keyword>
+		<keyword>sequel</keyword>
+		<keyword>clone</keyword>
+		<keyword>tyrannosaurus rex</keyword>
+		<keyword>jurassic park</keyword>
+		<keyword>volcanic eruption</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>museum</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>velociraptor</keyword>
+		<keyword>fifth part</keyword>
+		<keyword>active volcano</keyword>
+		<keyword>dinosaur stampede</keyword>
+		<keyword>part of series</keyword>
+		<keyword>monster fight</keyword>
+		<keyword>sea creature</keyword>
+		<keyword>rescue</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>monster</keyword>
+		<keyword>indoraptor</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>shot with a tranquilizer dart</keyword>
+		<keyword>volcano</keyword>
+		<keyword>lava</keyword>
+		<keyword>blood</keyword>
+		<keyword>bullet extraction</keyword>
+		<keyword>grandfather granddaughter relationship</keyword>
+		<keyword>dumbwaiter</keyword>
+		<keyword>photograph</keyword>
+		<keyword>monster movie</keyword>
+		<keyword>greed</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>little girl</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>injection</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>special forces</keyword>
+		<keyword>commando</keyword>
+		<keyword>mission</keyword>
+		<keyword>murder</keyword>
+		<keyword>violence</keyword>
+		<keyword>double cross</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>panic</keyword>
+		<keyword>cargo ship</keyword>
+		<keyword>submersible</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>manor house</keyword>
+		<keyword>redhead</keyword>
+		<keyword>bipedal dinosaur</keyword>
+		<keyword>human clone</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>girl</keyword>
+		<keyword>authentication</keyword>
+		<keyword>animal cruelty</keyword>
+		<keyword>column of smoke</keyword>
+		<keyword>animal enslavement</keyword>
+		<keyword>animal in a cage</keyword>
+		<keyword>isla nublar</keyword>
+		<keyword>cgi animal in live action title</keyword>
+		<keyword>dinosaur feature</keyword>
+		<keyword>cgi</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>rexy character</keyword>
+		<keyword>bar</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>senate</keyword>
+		<keyword>u.s. senate</keyword>
+		<keyword>tranquilizer gun</keyword>
+		<keyword>stampede</keyword>
+		<keyword>boat</keyword>
+		<keyword>cage</keyword>
+		<keyword>wound</keyword>
+		<keyword>estate</keyword>
+		<keyword>locked in</keyword>
+		<keyword>escape</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>auction</keyword>
+		<keyword>elevator</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>las vegas nevada</keyword>
+		<keyword>race against time</keyword>
+		<keyword>intrigue</keyword>
+		<keyword>suspense</keyword>
+		<keyword>animal attack</keyword>
+		<keyword>goat</keyword>
+		<keyword>sheep</keyword>
+		<keyword>lion</keyword>
+		<keyword>zoo</keyword>
+		<keyword>russian</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>veterinarian</keyword>
+		<keyword>doctor</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>crooked businessman</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>cover up</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>gothic</keyword>
+		<keyword>lightning</keyword>
+		<keyword>prologue</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>lava flow</keyword>
+		<keyword>lava bomb</keyword>
+		<keyword>pyroclastic flow</keyword>
+		<keyword>running</keyword>
+		<keyword>screaming</keyword>
+		<keyword>survival</keyword>
+		<keyword>set up</keyword>
+		<keyword>death</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>deception</keyword>
+		<keyword>scientist</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>knife</keyword>
+		<keyword>tooth ripped out</keyword>
+		<keyword>hologram</keyword>
+		<keyword>geneticist</keyword>
+		<keyword>revelation</keyword>
+		<keyword>genetics</keyword>
+		<keyword>cloning</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>blood sample</keyword>
+		<keyword>blood transfusion</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>disguise</keyword>
+		<keyword>truck</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>chase</keyword>
+		<keyword>explosion</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>beating</keyword>
+		<keyword>one against many</keyword>
+		<keyword>skull</keyword>
+		<keyword>ship</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>human in a cage</keyword>
+		<keyword>montage</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>climbing out a window</keyword>
+		<keyword>showdown</keyword>
+		<keyword>prototype</keyword>
+		<keyword>flood</keyword>
+		<keyword>elevator shaft</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>painting</keyword>
+		<keyword>rampage</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>video recording</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>power outage</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>money</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>taser</keyword>
+		<keyword>fire</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>stupid victim</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>jungle</keyword>
+		<keyword>outrunning explosion</keyword>
+		<keyword>bone saw</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>ambush</keyword>
+		<keyword>news report</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>protest</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>impalement</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>long take</keyword>
+		<keyword>water</keyword>
+		<keyword>toupee</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>gas explosion</keyword>
+		<keyword>destruction</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>senator</keyword>
+		<keyword>congressman</keyword>
+		<keyword>maid</keyword>
+		<keyword>beach</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>hiding under a bed</keyword>
+		<keyword>pier</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>escape from jail</keyword>
+		<keyword>map</keyword>
+		<keyword>trailer home</keyword>
+		<keyword>airplane</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>lighthouse</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>open ended</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>mansion</keyword>
+		<keyword>limousine</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>evil businessman</keyword>
+		<keyword>holding cell</keyword>
+		<keyword>female clone</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>human versus dinosaur</keyword>
+		<keyword>giant dinosaur</keyword>
+		<keyword>dinosaur versus dinosaur</keyword>
+		<keyword>dinosaur attack</keyword>
+		<keyword>stygimoloch</keyword>
+		<keyword>female dinosaur</keyword>
+		<keyword>baryonyx</keyword>
+		<keyword>carnotaurus</keyword>
+		<keyword>brachiosaurus</keyword>
+		<keyword>pteranodon</keyword>
+		<keyword>horned dinosaur</keyword>
+		<keyword>quad bike</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>gun</keyword>
+		<keyword>propeller aircraft</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>dinosaur skeleton</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>touchscreen</keyword>
+		<keyword>predator</keyword>
+		<keyword>carnivore</keyword>
+		<keyword>arm bitten off</keyword>
+		<keyword>firearm</keyword>
+		<keyword>propeller airplane</keyword>
+		<keyword>handgun</keyword>
+		<keyword>herbivore</keyword>
+		<keyword>metal cage</keyword>
+		<keyword>stegosaurus</keyword>
+		<keyword>baby dinosaur</keyword>
+		<keyword>ankylosaurus</keyword>
+		<keyword>allosaurus</keyword>
+		<keyword>single engine airplane</keyword>
+		<keyword>compsognathus</keyword>
+		<keyword>triceratops</keyword>
+		<keyword>dinosaur skull</keyword>
+		<keyword>sinoceratops</keyword>
+		<keyword>parasaurolophus</keyword>
+		<keyword>carnivorous dinosaur</keyword>
+		<keyword>weapon</keyword>
+		<keyword>killer dinosaur</keyword>
+		<keyword>mosasaurus</keyword>
+		<keyword>ian malcolm character</keyword>
+		<keyword>raptor dinosaur</keyword>
+		<keyword>female veterinarian</keyword>
+		<keyword>animal cage</keyword>
+		<keyword>human dinosaur relationship</keyword>
+		<keyword>gallimimus</keyword>
+		<keyword>henry wu character</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>extinction</keyword>
+		<keyword>sedative</keyword>
+		<keyword>tooth</keyword>
+		<keyword>one liner</keyword>
+		<keyword>wreckage</keyword>
+		<keyword>animal</keyword>
+		<keyword>feeding an animal</keyword>
+		<keyword>video</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>computer</keyword>
+		<keyword>notebook computer</keyword>
+		<keyword>lobbying</keyword>
+		<keyword>air strip</keyword>
+		<keyword>black man</keyword>
+		<keyword>duffel bag</keyword>
+		<keyword>recluse</keyword>
+		<keyword>camouflage</keyword>
+		<keyword>rich man</keyword>
+		<keyword>expedition</keyword>
+		<keyword>old man</keyword>
+		<keyword>exhibit</keyword>
+		<keyword>reading in bed</keyword>
+		<keyword>television</keyword>
+		<keyword>tv news</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>mobile phone</keyword>
+		<keyword>valley</keyword>
+		<keyword>looking out a window</keyword>
+		<keyword>mud</keyword>
+		<keyword>abandoned area</keyword>
+		<keyword>vest</keyword>
+		<keyword>safari outfit</keyword>
+		<keyword>rural road</keyword>
+		<keyword>armoured personnel carrier</keyword>
+		<keyword>natural disaster</keyword>
+		<keyword>mist</keyword>
+		<keyword>misty day</keyword>
+		<keyword>bullet</keyword>
+		<keyword>jarhead</keyword>
+		<keyword>chair</keyword>
+		<keyword>tattooed arm</keyword>
+		<keyword>nickname</keyword>
+		<keyword>interrupted telephone call</keyword>
+		<keyword>keyboard</keyword>
+		<keyword>unconscious man</keyword>
+		<keyword>tracking</keyword>
+		<keyword>species</keyword>
+		<keyword>u.s. government</keyword>
+		<keyword>flashing light</keyword>
+		<keyword>knapsack</keyword>
+		<keyword>ex girlfriend ex boyfriend relationship</keyword>
+		<keyword>forest</keyword>
+		<keyword>wooded area</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>abandoned vehicle</keyword>
+		<keyword>avian</keyword>
+		<keyword>talking to an animal</keyword>
+		<keyword>sleeves rolled up</keyword>
+		<keyword>sliding door</keyword>
+		<keyword>shaft</keyword>
+		<keyword>dead animal</keyword>
+		<keyword>smoke</keyword>
+		<keyword>cloud of smoke</keyword>
+		<keyword>running man</keyword>
+		<keyword>running woman</keyword>
+		<keyword>capitalist</keyword>
+		<keyword>pod</keyword>
+		<keyword>capitalism</keyword>
+		<keyword>cliff</keyword>
+		<keyword>pedal to the metal</keyword>
+		<keyword>fright</keyword>
+		<keyword>frightened man</keyword>
+		<keyword>fireball</keyword>
+		<keyword>underwater rescue</keyword>
+		<keyword>businessman</keyword>
+		<keyword>swimming to the surface</keyword>
+		<keyword>petting an animal</keyword>
+		<keyword>animal torture</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sadistic man</keyword>
+		<keyword>animal attacks another animal</keyword>
+		<keyword>knocked to the ground</keyword>
+		<keyword>thrown to the ground</keyword>
+		<keyword>rubble</keyword>
+		<keyword>putting animal to sleep</keyword>
+		<keyword>plot</keyword>
+		<keyword>blood smeared on face</keyword>
+		<keyword>lab</keyword>
+		<keyword>double helix dna</keyword>
+		<keyword>research</keyword>
+		<keyword>jaw</keyword>
+		<keyword>blood spatter on face</keyword>
+		<keyword>tanker</keyword>
+		<keyword>accelerator</keyword>
+		<keyword>medical care</keyword>
+		<keyword>adult not believing a child</keyword>
+		<keyword>whispering</keyword>
+		<keyword>access code</keyword>
+		<keyword>video footage</keyword>
+		<keyword>surgery</keyword>
+		<keyword>operation</keyword>
+		<keyword>turtleneck</keyword>
+		<keyword>asian man</keyword>
+		<keyword>locking a child in</keyword>
+		<keyword>spotlight</keyword>
+		<keyword>illegal activity</keyword>
+		<keyword>hiding</keyword>
+		<keyword>rope</keyword>
+		<keyword>impersonation</keyword>
+		<keyword>hiding under a vehicle</keyword>
+		<keyword>murder by smothering with a pillow</keyword>
+		<keyword>glass shattered</keyword>
+		<keyword>employee murders employer</keyword>
+		<keyword>training a gun on someone</keyword>
+		<keyword>prison</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>walking on a ledge</keyword>
+		<keyword>entering through a window</keyword>
+		<keyword>mistaking a dead man for sleeping</keyword>
+		<keyword>nanny</keyword>
+		<keyword>domestic help</keyword>
+		<keyword>firing an employee</keyword>
+		<keyword>cell mate</keyword>
+		<keyword>chute</keyword>
+		<keyword>prehistoric creature</keyword>
+		<keyword>sneakers</keyword>
+		<keyword>introduction</keyword>
+		<keyword>walking on a roof</keyword>
+		<keyword>lectern</keyword>
+		<keyword>rail</keyword>
+		<keyword>hitting head against a pillar</keyword>
+		<keyword>pillar</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>scared girl</keyword>
+		<keyword>sneaking</keyword>
+		<keyword>presentation</keyword>
+		<keyword>living weapon</keyword>
+		<keyword>russian accent</keyword>
+		<keyword>electric switch</keyword>
+		<keyword>mayhem</keyword>
+		<keyword>pandemonium</keyword>
+		<keyword>chaos</keyword>
+		<keyword>tattooed head</keyword>
+		<keyword>lever</keyword>
+		<keyword>pretending to be asleep</keyword>
+		<keyword>thrown into the air</keyword>
+		<keyword>briefcase</keyword>
+		<keyword>rich person</keyword>
+		<keyword>thrown through the air</keyword>
+		<keyword>blocking a door</keyword>
+		<keyword>barricading a door</keyword>
+		<keyword>latex glove</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>handcuffed woman</keyword>
+		<keyword>staircase</keyword>
+		<keyword>balcony</keyword>
+		<keyword>closed circuit tv surveilance</keyword>
+		<keyword>corridor</keyword>
+		<keyword>running down hall</keyword>
+		<keyword>running up stairs</keyword>
+		<keyword>four poster bed</keyword>
+		<keyword>closed circuit tv</keyword>
+		<keyword>closed circuit television</keyword>
+		<keyword>rotary saw</keyword>
+		<keyword>uh 1 huey helicopter</keyword>
+		<keyword>injection in neck</keyword>
+		<keyword>close up of a claw</keyword>
+		<keyword>sea gate</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>mount sibo</keyword>
+		<keyword>apatosaurus</keyword>
+		<keyword>mechanical claw</keyword>
+		<keyword>licked by a dinosaur</keyword>
+		<keyword>gas leak</keyword>
+		<keyword>laboratory explosion</keyword>
+		<keyword>diorama</keyword>
+		<keyword>bush plane</keyword>
+		<keyword>scenic beauty</keyword>
+		<keyword>abandonned ecological park</keyword>
+		<keyword>armored truck</keyword>
+		<keyword>pterosaur</keyword>
+		<keyword>screaming in fear</keyword>
+		<keyword>climbing a ladder</keyword>
+		<keyword>escape hatch</keyword>
+		<keyword>removing a bullet</keyword>
+		<keyword>eaten by a dinosaur</keyword>
+		<keyword>roll on roll off shipping</keyword>
+		<keyword>running for one's life</keyword>
+		<keyword>fire bomb</keyword>
+		<keyword>tooth extraction</keyword>
+		<keyword>teeth collection</keyword>
+		<keyword>captivity</keyword>
+		<keyword>jumping a truck</keyword>
+		<keyword>left behind</keyword>
+		<keyword>electrical switch box</keyword>
+		<keyword>picking a lock</keyword>
+		<keyword>locked in a cage</keyword>
+		<keyword>pachycephalosaurus</keyword>
+		<keyword>dinosaur whisperer</keyword>
+		<keyword>extreme close up</keyword>
+		<keyword>testifying at a hearing</keyword>
+		<keyword>vise grip locking pliers</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>trampled</keyword>
+		<keyword>handcuffed to a pole</keyword>
+		<keyword>smothered with a pillow</keyword>
+		<keyword>downpour</keyword>
+		<keyword>discussion</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>man in a bed</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>disaster film</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>killing an animal</keyword>
+		<keyword>killing</keyword>
+		<keyword>lifting someone into the air</keyword>
+		<keyword>four word title</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>bad guys win</keyword>
+		<keyword>man uses a wheelchair</keyword>
+		<keyword>woman rests her head on a man's shoulder</keyword>
+		<keyword>herbivorous dinosaur</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>armoured vehicle</keyword>
+		<keyword>night</keyword>
+		<keyword>waterborne ship</keyword>
+		<keyword>predatory dinosaur</keyword>
+		<keyword>hand tool</keyword>
+		<keyword>motor truck</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>propeller aeroplane</keyword>
+		<keyword>quadrupedal dinosaur</keyword>
+		<keyword>tandem rotor helicopter</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>darted in the neck</keyword>
+		<keyword>minivan</keyword>
+		<keyword>implied murder</keyword>
+		<keyword>electric prod</keyword>
+		<keyword>computer technician</keyword>
+		<keyword>incubating an egg</keyword>
+		<keyword>hybrid dinosaur</keyword>
+		<keyword>egg</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>furry</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>sea vessel</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>rescue from drowning</keyword>
+		<keyword>spying</keyword>
+		<keyword>dinosaur adventure</keyword>
+		<keyword>biotech sci fi</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>northern california</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>second part</keyword>
+		<keyword>owen grady character</keyword>
+		<keyword>claire dearing character</keyword>
+		<keyword>child abuse</keyword>
+		<keyword>cgi animal</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>falling into water</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>riding in a dumbwaiter</keyword>
+		<keyword>sinister</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>full moon</keyword>
+		<keyword>villain</keyword>
+		<keyword>point a gun at someone</keyword>
+	</keywords>
+	<directors>
+		<director> J.A. Bayona</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Belén Atienza</producer>
+		<producer> Patrick Crowley</producer>
+		<producer> Thomas Hayslip</producer>
+		<producer> Frank Marshall</producer>
+		<producer> Robin Mulcahy Fisichella</producer>
+		<producer> Steven Spielberg</producer>
+		<producer> Colin Trevorrow</producer>
+	</producers>
+	<writers>
+		<writer> Derek Connolly</writer>
+		<writer> Colin Trevorrow</writer>
+		<writer> Michael Crichton</writer>
+	</writers>
+	<editors>
+		<editor> Bernat Vilaplana</editor>
+	</editors>
+</doc>

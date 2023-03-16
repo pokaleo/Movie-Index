@@ -1,0 +1,601 @@
+<?xml version="1.0" ?>
+<doc id="tt3062096">
+	<docid>tt3062096</docid>
+	<title>Inferno</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2016</year>
+	<runningtimes>
+		<runningtime country="default">121</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>When Robert Langdon wakes up in an Italian hospital with amnesia, he teams up with Dr. Sienna Brooks and they race across Europe together against the clock to foil a deadly global plot.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Hanks</actor>
+			<role>Robert Langdon</role>
+		</credit>
+		<credit>
+			<actor>Felicity Jones</actor>
+			<role>Sienna Brooks</role>
+		</credit>
+		<credit>
+			<actor>Irrfan Khan</actor>
+			<role>Harry Sims</role>
+		</credit>
+		<credit>
+			<actor>Ben Foster</actor>
+			<role>Bertrand Zobrist</role>
+		</credit>
+		<credit>
+			<actor>Omar Sy</actor>
+			<role>Christoph Bouchard</role>
+		</credit>
+		<credit>
+			<actor>Sidse Babett Knudsen</actor>
+			<role>Elizabeth Sinskey</role>
+		</credit>
+		<credit>
+			<actor>Ana Ularu</actor>
+			<role>Vayentha</role>
+		</credit>
+		<credit>
+			<actor>Ida Darvish</actor>
+			<role>Marta Alvarez</role>
+		</credit>
+		<credit>
+			<actor>Paolo Antonio Simioni</actor>
+			<role>Dr. Marconi</role>
+		</credit>
+		<credit>
+			<actor>Alessandro Grimaldi</actor>
+			<role>Florence Hospital Taxi Driver</role>
+		</credit>
+		<credit>
+			<actor>Fausto Maria Sciarappa</actor>
+			<role>Parker</role>
+		</credit>
+		<credit>
+			<actor>Robin Mugnaini</actor>
+			<role>Apartment Carabinieri Captain</role>
+		</credit>
+		<credit>
+			<actor>Paul Ritter</actor>
+			<role>CRC Tech Arbogast</role>
+		</credit>
+		<credit>
+			<actor>Vincenzo Tanassi</actor>
+			<role>Boboli Gardens Policeman</role>
+		</credit>
+		<credit>
+			<actor>Alessandro Fabrizi</actor>
+			<role>Gallery Guard</role>
+		</credit>
+		<credit>
+			<actor>Simone Mariani</actor>
+			<role>Security Director</role>
+		</credit>
+		<credit>
+			<actor>Gábor Urmai</actor>
+			<role>Ignazio Busoni</role>
+		</credit>
+		<credit>
+			<actor>Jon Donahue</actor>
+			<role>Richard</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">October 8 2016</releasedate>
+		<releasedate country="Indonesia">October 12 2016</releasedate>
+		<releasedate country="Philippines">October 12 2016</releasedate>
+		<releasedate country="Taiwan">October 12 2016</releasedate>
+		<releasedate country="United Arab Emirates">October 13 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>amnesia</keyword>
+		<keyword>church</keyword>
+		<keyword>museum</keyword>
+		<keyword>police</keyword>
+		<keyword>virus</keyword>
+		<keyword>professor</keyword>
+		<keyword>europe</keyword>
+		<keyword>world health organization</keyword>
+		<keyword>hunt</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>mural</keyword>
+		<keyword>famous painting</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>basilica cistern</keyword>
+		<keyword>hagia sophia</keyword>
+		<keyword>art</keyword>
+		<keyword>baptistry</keyword>
+		<keyword>head injury</keyword>
+		<keyword>plague</keyword>
+		<keyword>reference to dante's inferno</keyword>
+		<keyword>mask of death</keyword>
+		<keyword>college professor</keyword>
+		<keyword>short term memory loss</keyword>
+		<keyword>danger</keyword>
+		<keyword>concert</keyword>
+		<keyword>wet t shirt</keyword>
+		<keyword>female killer</keyword>
+		<keyword>chase</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>sequel</keyword>
+		<keyword>suicide</keyword>
+		<keyword>female partner</keyword>
+		<keyword>hell</keyword>
+		<keyword>bullet</keyword>
+		<keyword>sinner</keyword>
+		<keyword>message</keyword>
+		<keyword>secret</keyword>
+		<keyword>question</keyword>
+		<keyword>pain</keyword>
+		<keyword>engineer</keyword>
+		<keyword>protection</keyword>
+		<keyword>safety</keyword>
+		<keyword>turkey the country</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>plastic bag</keyword>
+		<keyword>clue</keyword>
+		<keyword>ceo</keyword>
+		<keyword>super weapon</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>assassin</keyword>
+		<keyword>latex gloves</keyword>
+		<keyword>letter</keyword>
+		<keyword>phrase</keyword>
+		<keyword>lie</keyword>
+		<keyword>telling a lie</keyword>
+		<keyword>jumping from a bell tower</keyword>
+		<keyword>secret door</keyword>
+		<keyword>head twisted backwards</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>head wound</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>close up of mouth</keyword>
+		<keyword>river of blood</keyword>
+		<keyword>voice recording</keyword>
+		<keyword>mickey mouse watch</keyword>
+		<keyword>snake bite on neck</keyword>
+		<keyword>rash</keyword>
+		<keyword>map of hell</keyword>
+		<keyword>reference to dante alighieri</keyword>
+		<keyword>reference to sandro boticelli</keyword>
+		<keyword>freighter</keyword>
+		<keyword>altered photograph</keyword>
+		<keyword>boboli gardens</keyword>
+		<keyword>german shepherd</keyword>
+		<keyword>aerial surveillance drone</keyword>
+		<keyword>vasari corridor</keyword>
+		<keyword>ponte vecchio</keyword>
+		<keyword>palazzo vecchio</keyword>
+		<keyword>injection in neck</keyword>
+		<keyword>body bag</keyword>
+		<keyword>reference to beatrice portinari</keyword>
+		<keyword>death mask</keyword>
+		<keyword>acrophobia</keyword>
+		<keyword>baptismal font</keyword>
+		<keyword>abduction</keyword>
+		<keyword>hit with a fire extinguisher</keyword>
+		<keyword>caught in the rain</keyword>
+		<keyword>turkish flag</keyword>
+		<keyword>bell tolling</keyword>
+		<keyword>puzzle</keyword>
+		<keyword>standing in the rain</keyword>
+		<keyword>dagger</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>tomb of enrico dandolo</keyword>
+		<keyword>cistern</keyword>
+		<keyword>sunken palace</keyword>
+		<keyword>stabbed multiple times</keyword>
+		<keyword>blood red water</keyword>
+		<keyword>acoustics</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>detonator</keyword>
+		<keyword>turkish police</keyword>
+		<keyword>tubi tv</keyword>
+		<keyword>music by hans zimmer</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>injured head</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>wounded head</keyword>
+		<keyword>gun</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>robert langdon character</keyword>
+		<keyword>firearm</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>intercom</keyword>
+		<keyword>handgun</keyword>
+		<keyword>weapon</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>long haired female</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>aerial drone</keyword>
+		<keyword>male professor</keyword>
+		<keyword>painting as art</keyword>
+		<keyword>hypodermic syringe</keyword>
+		<keyword>long haired woman</keyword>
+		<keyword>american man abroad</keyword>
+		<keyword>youtube video</keyword>
+		<keyword>woman killed</keyword>
+		<keyword>semi automatic pistol</keyword>
+		<keyword>passenger compartment</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>animal</keyword>
+		<keyword>american man</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>audiovisual recording</keyword>
+		<keyword>canine</keyword>
+		<keyword>semi automatic weapon</keyword>
+		<keyword>jet aeroplane</keyword>
+		<keyword>aircraft cabin</keyword>
+		<keyword>panel van</keyword>
+		<keyword>night</keyword>
+		<keyword>injected in neck</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>mickey mouse merchandise</keyword>
+		<keyword>car</keyword>
+		<keyword>mercedes benz motor vehicle</keyword>
+		<keyword>murder of a man</keyword>
+		<keyword>shooting a man</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>columbia tristar</keyword>
+		<keyword>third in series</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>female uniformed police officer</keyword>
+		<keyword>woman wears a uniform</keyword>
+		<keyword>police uniform</keyword>
+		<keyword>woman wears gloves</keyword>
+		<keyword>female police officer wears raid jacket</keyword>
+		<keyword>uniform windbreaker raid jacket</keyword>
+		<keyword>woman wears boots</keyword>
+		<keyword>gloves</keyword>
+		<keyword>american in europe</keyword>
+		<keyword>bathroom</keyword>
+		<keyword>sony smartphone</keyword>
+		<keyword>mercedes benz car</keyword>
+		<keyword>american man in europe</keyword>
+		<keyword>subterfuge</keyword>
+		<keyword>fiat motor vehicle</keyword>
+		<keyword>villain</keyword>
+		<keyword>bespectacled male</keyword>
+		<keyword>american in italy</keyword>
+		<keyword>mobile telephone</keyword>
+		<keyword>carabinieri</keyword>
+		<keyword>emergency response vehicle</keyword>
+		<keyword>american man in italy</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>bespectacled man</keyword>
+		<keyword>villainess</keyword>
+		<keyword>vision</keyword>
+		<keyword>map</keyword>
+		<keyword>italian</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>italy</keyword>
+		<keyword>faraday pointer</keyword>
+		<keyword>on the run</keyword>
+		<keyword>code</keyword>
+		<keyword>tourist sites</keyword>
+		<keyword>reference to palazzo vecchio</keyword>
+		<keyword>mural painting</keyword>
+		<keyword>reference to famous painting</keyword>
+		<keyword>end of mankind</keyword>
+		<keyword>hell on earth</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>visionary</keyword>
+		<keyword>traitor</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>explosive</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>violinist</keyword>
+		<keyword>translator</keyword>
+		<keyword>riddle</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>infection</keyword>
+		<keyword>hidden message</keyword>
+		<keyword>improvised weapon</keyword>
+		<keyword>claustrophobic</keyword>
+		<keyword>secret message</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>car accident</keyword>
+		<keyword>blockade</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>no cell phone signal</keyword>
+		<keyword>police car</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>coffee</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>bazaar</keyword>
+		<keyword>statue</keyword>
+		<keyword>bribery</keyword>
+		<keyword>flashback</keyword>
+		<keyword>e mail</keyword>
+		<keyword>indian</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>scar</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>taxi driver</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>painting</keyword>
+		<keyword>rain</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>reference to google</keyword>
+		<keyword>cover up</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>police dog</keyword>
+		<keyword>airplane</keyword>
+		<keyword>train</keyword>
+		<keyword>retrograde amnesia</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>panic</keyword>
+		<keyword>fear</keyword>
+		<keyword>secret passageway</keyword>
+		<keyword>motorcycle cop</keyword>
+		<keyword>impersonating a police officer</keyword>
+		<keyword>swat team</keyword>
+		<keyword>soldier</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>commando</keyword>
+		<keyword>van</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>suspense</keyword>
+		<keyword>overpopulation</keyword>
+		<keyword>disease</keyword>
+		<keyword>race against time</keyword>
+		<keyword>bioterrorism</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>video message</keyword>
+		<keyword>beard</keyword>
+		<keyword>biologist</keyword>
+		<keyword>bio engineer</keyword>
+		<keyword>scientist</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>adriatic sea</keyword>
+		<keyword>ship</keyword>
+		<keyword>boat</keyword>
+		<keyword>secret organization</keyword>
+		<keyword>female agent</keyword>
+		<keyword>government agent</keyword>
+		<keyword>actress</keyword>
+		<keyword>actor</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>security camera</keyword>
+		<keyword>security guard</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>drone</keyword>
+		<keyword>corpse</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>love</keyword>
+		<keyword>blood</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>drowning</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>tube</keyword>
+		<keyword>photograph</keyword>
+		<keyword>biohazard</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>axe</keyword>
+		<keyword>istanbul turkey</keyword>
+		<keyword>florence italy</keyword>
+		<keyword>venice italy</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>double cross</keyword>
+		<keyword>deception</keyword>
+		<keyword>battle</keyword>
+		<keyword>death</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>bomb</keyword>
+		<keyword>cell phone detonator</keyword>
+		<keyword>underwater fight</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>water</keyword>
+		<keyword>one against many</keyword>
+		<keyword>woman kills a man</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>showdown</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fight</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>faked death</keyword>
+		<keyword>blood pack</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>explosion</keyword>
+		<keyword>underwater explosion</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>third part</keyword>
+		<keyword>religion</keyword>
+		<keyword>expert</keyword>
+		<keyword>female detective</keyword>
+		<keyword>symbology</keyword>
+		<keyword>historical fiction</keyword>
+		<keyword>based on bestseller</keyword>
+		<keyword>murder</keyword>
+		<keyword>one word title</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>doctor</keyword>
+		<keyword>hospital</keyword>
+		<keyword>apartment</keyword>
+		<keyword>geneticist</keyword>
+		<keyword>escape</keyword>
+		<keyword>tourist guide</keyword>
+		<keyword>manhunt</keyword>
+		<keyword>reference to botticelli</keyword>
+		<keyword>ghostly vision</keyword>
+		<keyword>genocide</keyword>
+		<keyword>protest</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>suicide by cop</keyword>
+		<keyword>private jet</keyword>
+		<keyword>ex lover</keyword>
+		<keyword>treasure hunt</keyword>
+		<keyword>hit on the head</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>fear of heights</keyword>
+		<keyword>old flame</keyword>
+		<keyword>car crash</keyword>
+		<keyword>hidden door</keyword>
+		<keyword>police raid</keyword>
+		<keyword>cell phone trace</keyword>
+		<keyword>bombmaker</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>sole black character dies cliche</keyword>
+		<keyword>disguise</keyword>
+		<keyword>revelation</keyword>
+		<keyword>frenchman</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>necklace</keyword>
+		<keyword>falling through the floor</keyword>
+		<keyword>taxi</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>injection</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>youtube</keyword>
+		<keyword>hotel</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>dog</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>golf club</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>airport</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>nurse</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>violin</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>based on book</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Ron Howard</director>
+	</directors>
+	<composers>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> Dan Brown</producer>
+		<producer> William M. Connor</producer>
+		<producer> Anna Culp</producer>
+		<producer> Brian Grazer</producer>
+		<producer> Diloy Gülün</producer>
+		<producer> David B. Householter</producer>
+		<producer> Ron Howard</producer>
+		<producer> Jody Johnson</producer>
+		<producer> Ute Leonhardt</producer>
+		<producer> Ben Waisbren</producer>
+	</producers>
+	<writers>
+		<writer> Dan Brown</writer>
+		<writer> David Koepp</writer>
+	</writers>
+	<editors>
+		<editor> Tom Elkins</editor>
+		<editor> Daniel P. Hanley</editor>
+	</editors>
+</doc>

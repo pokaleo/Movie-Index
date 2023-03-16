@@ -1,0 +1,778 @@
+<?xml version="1.0" ?>
+<doc id="tt3315342">
+	<docid>tt3315342</docid>
+	<title>Logan</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">137</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Hugh Jackman</actor>
+			<role>Logan</role>
+		</credit>
+		<credit>
+			<actor>Patrick Stewart</actor>
+			<role>Charles</role>
+		</credit>
+		<credit>
+			<actor>Dafne Keen</actor>
+			<role>Laura</role>
+		</credit>
+		<credit>
+			<actor>Boyd Holbrook</actor>
+			<role>Pierce</role>
+		</credit>
+		<credit>
+			<actor>Stephen Merchant</actor>
+			<role>Caliban</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Rodriguez</actor>
+			<role>Gabriela</role>
+		</credit>
+		<credit>
+			<actor>Richard E. Grant</actor>
+			<role>Dr. Rice</role>
+		</credit>
+		<credit>
+			<actor>Eriq La Salle</actor>
+			<role>Will Munson</role>
+		</credit>
+		<credit>
+			<actor>Elise Neal</actor>
+			<role>Kathryn Munson</role>
+		</credit>
+		<credit>
+			<actor>Quincy Fouse</actor>
+			<role>Nate Munson</role>
+		</credit>
+		<credit>
+			<actor>Al Coronel</actor>
+			<role>Federale Commander</role>
+		</credit>
+		<credit>
+			<actor>Frank Gallegos</actor>
+			<role>Federale Lieutenant</role>
+		</credit>
+		<credit>
+			<actor>Anthony Escobar</actor>
+			<role>Federale</role>
+		</credit>
+		<credit>
+			<actor>Reynaldo Gallegos</actor>
+			<role>Rey</role>
+		</credit>
+		<credit>
+			<actor>Krzysztof Soszynski</actor>
+			<role>Mohawk</role>
+		</credit>
+		<credit>
+			<actor>Stephen Dunlevy</actor>
+			<role>Macon</role>
+		</credit>
+		<credit>
+			<actor>Daniel Bernhardt</actor>
+			<role>Bone Breaker</role>
+		</credit>
+		<credit>
+			<actor>Ryan Sturz</actor>
+			<role>Pretty Boy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">February 17 2017</releasedate>
+		<releasedate country="United States">February 24 2017</releasedate>
+		<releasedate country="Taiwan">February 28 2017</releasedate>
+		<releasedate country="Belgium">March 1 2017</releasedate>
+		<releasedate country="Colombia">March 1 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="China">17</certificate>
+		<certificate country="China">17</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">15+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+R</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>marvel comics</keyword>
+		<keyword>x men</keyword>
+		<keyword>mutant</keyword>
+		<keyword>superhero</keyword>
+		<keyword>on the road</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>north dakota</keyword>
+		<keyword>feral child</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>child soldier</keyword>
+		<keyword>mutants</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>neo western</keyword>
+		<keyword>third part</keyword>
+		<keyword>sequel</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>professor</keyword>
+		<keyword>near future</keyword>
+		<keyword>canadian</keyword>
+		<keyword>future</keyword>
+		<keyword>telescope</keyword>
+		<keyword>child assassin</keyword>
+		<keyword>yelling</keyword>
+		<keyword>sadism</keyword>
+		<keyword>rage</keyword>
+		<keyword>harpoon</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>torture</keyword>
+		<keyword>happy birthday to you</keyword>
+		<keyword>road trip</keyword>
+		<keyword>killer child</keyword>
+		<keyword>u.s. canadian border</keyword>
+		<keyword>u.s. mexico border</keyword>
+		<keyword>border patrol</keyword>
+		<keyword>mexico</keyword>
+		<keyword>oklahoma city</keyword>
+		<keyword>el paso texas</keyword>
+		<keyword>juarez mexico</keyword>
+		<keyword>old age</keyword>
+		<keyword>mutant child</keyword>
+		<keyword>tied feet</keyword>
+		<keyword>claw fight</keyword>
+		<keyword>extreme violence</keyword>
+		<keyword>blood</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>nudity</keyword>
+		<keyword>pringles potato chips</keyword>
+		<keyword>spitting blood</keyword>
+		<keyword>bar</keyword>
+		<keyword>cowboy hat</keyword>
+		<keyword>profanity</keyword>
+		<keyword>f word</keyword>
+		<keyword>sequel to spin off</keyword>
+		<keyword>dark future</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>one word title</keyword>
+		<keyword>begging for help</keyword>
+		<keyword>injection in chest</keyword>
+		<keyword>strike force</keyword>
+		<keyword>self injection</keyword>
+		<keyword>prosthetic hand</keyword>
+		<keyword>harpooned</keyword>
+		<keyword>pump action shotgun</keyword>
+		<keyword>shackled</keyword>
+		<keyword>stretcher</keyword>
+		<keyword>aerial drone</keyword>
+		<keyword>trimming beard</keyword>
+		<keyword>tripod mounted binoculars</keyword>
+		<keyword>humvee</keyword>
+		<keyword>logan character</keyword>
+		<keyword>professor charles xavier character</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>solidarity</keyword>
+		<keyword>aging</keyword>
+		<keyword>chair</keyword>
+		<keyword>incognito</keyword>
+		<keyword>wound</keyword>
+		<keyword>ancient</keyword>
+		<keyword>chief</keyword>
+		<keyword>major</keyword>
+		<keyword>rip</keyword>
+		<keyword>bolt</keyword>
+		<keyword>wrench</keyword>
+		<keyword>alloy</keyword>
+		<keyword>party</keyword>
+		<keyword>partying</keyword>
+		<keyword>teen partying</keyword>
+		<keyword>booze</keyword>
+		<keyword>liquor</keyword>
+		<keyword>chauffeured limousine</keyword>
+		<keyword>abuse</keyword>
+		<keyword>limousine chase</keyword>
+		<keyword>bunker</keyword>
+		<keyword>shadow</keyword>
+		<keyword>sun</keyword>
+		<keyword>hot</keyword>
+		<keyword>ability</keyword>
+		<keyword>laceration</keyword>
+		<keyword>face</keyword>
+		<keyword>grooming</keyword>
+		<keyword>hair</keyword>
+		<keyword>black limousine</keyword>
+		<keyword>villain</keyword>
+		<keyword>child murders an adult</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>girl</keyword>
+		<keyword>child</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>graphic violence</keyword>
+		<keyword>stretch limousine</keyword>
+		<keyword>chrysler</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford bronco</keyword>
+		<keyword>driving</keyword>
+		<keyword>weapon</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>laura kinney character</keyword>
+		<keyword>wolverine character</keyword>
+		<keyword>x 23 character</keyword>
+		<keyword>telepath</keyword>
+		<keyword>dementia</keyword>
+		<keyword>medication</keyword>
+		<keyword>loss of powers</keyword>
+		<keyword>double</keyword>
+		<keyword>doppelganger</keyword>
+		<keyword>healing factor</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>modern western</keyword>
+		<keyword>man wears a tank top</keyword>
+		<keyword>woman flashes a man</keyword>
+		<keyword>murder of a child</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>fighting with oneself</keyword>
+		<keyword>lifting a female into the air</keyword>
+		<keyword>lifting someone into the air</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>f bomb</keyword>
+		<keyword>s word</keyword>
+		<keyword>weakness</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>2020s</keyword>
+		<keyword>wolverine</keyword>
+		<keyword>actor plays a dual role</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>murder of an innocent person</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>knocked unconscious with a gun butt</keyword>
+		<keyword>child versus adult</keyword>
+		<keyword>gritty</keyword>
+		<keyword>biopunk</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>older person</keyword>
+		<keyword>clone daughter</keyword>
+		<keyword>evil clone</keyword>
+		<keyword>old man</keyword>
+		<keyword>prosthetic arm</keyword>
+		<keyword>one person army action</keyword>
+		<keyword>road trip adventure</keyword>
+		<keyword>quest adventure</keyword>
+		<keyword>epic drama</keyword>
+		<keyword>dystopian sci fi</keyword>
+		<keyword>epic sci fi</keyword>
+		<keyword>contemporary western</keyword>
+		<keyword>chauffeur</keyword>
+		<keyword>claws</keyword>
+		<keyword>death of title character</keyword>
+		<keyword>knife in shoe</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>amateur radio</keyword>
+		<keyword>ham radio</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>driving in reverse</keyword>
+		<keyword>drawing</keyword>
+		<keyword>hit with a car door</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>virus</keyword>
+		<keyword>tied up</keyword>
+		<keyword>hands tied</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>bald man</keyword>
+		<keyword>sadist</keyword>
+		<keyword>marvel entertainment</keyword>
+		<keyword>written by director</keyword>
+		<keyword>secret hideout</keyword>
+		<keyword>police car</keyword>
+		<keyword>police</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>assassin</keyword>
+		<keyword>hired killer</keyword>
+		<keyword>hidden camera</keyword>
+		<keyword>secret filming</keyword>
+		<keyword>drone</keyword>
+		<keyword>stalking</keyword>
+		<keyword>melodrama</keyword>
+		<keyword>abandoned building</keyword>
+		<keyword>convoy</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>combat</keyword>
+		<keyword>epic</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>car theft</keyword>
+		<keyword>valet</keyword>
+		<keyword>survival</keyword>
+		<keyword>suspense</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>fear</keyword>
+		<keyword>dinner table</keyword>
+		<keyword>bully comeuppance</keyword>
+		<keyword>bully</keyword>
+		<keyword>race against time</keyword>
+		<keyword>car crash</keyword>
+		<keyword>fish out of water</keyword>
+		<keyword>mirror</keyword>
+		<keyword>sword</keyword>
+		<keyword>gas station</keyword>
+		<keyword>car thief</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>gang</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>tire iron</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>hit in the groin</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fight</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>mission</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>commando</keyword>
+		<keyword>evil man</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>burned face</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>photograph</keyword>
+		<keyword>money</keyword>
+		<keyword>motel</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>car hit by a train</keyword>
+		<keyword>hit by a train</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>long take</keyword>
+		<keyword>serum</keyword>
+		<keyword>injection</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>rampage</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>car motorcycle chase</keyword>
+		<keyword>car chase</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>farmer</keyword>
+		<keyword>murder of a family</keyword>
+		<keyword>death of family</keyword>
+		<keyword>orphan</keyword>
+		<keyword>video recording</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>showdown</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>barbed wire</keyword>
+		<keyword>wire cutters</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>revolver</keyword>
+		<keyword>pistol</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>crushed by a car</keyword>
+		<keyword>impalement</keyword>
+		<keyword>running</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>dog tag</keyword>
+		<keyword>train</keyword>
+		<keyword>female topless nudity</keyword>
+		<keyword>canyon</keyword>
+		<keyword>desert</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>armored car</keyword>
+		<keyword>car dealership</keyword>
+		<keyword>albino</keyword>
+		<keyword>desperation</keyword>
+		<keyword>hospital</keyword>
+		<keyword>business card</keyword>
+		<keyword>product placement</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>junkie</keyword>
+		<keyword>drug addict</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>graveyard</keyword>
+		<keyword>burial</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>funeral</keyword>
+		<keyword>montage</keyword>
+		<keyword>seizure</keyword>
+		<keyword>alzheimer's disease</keyword>
+		<keyword>hotel</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>redneck</keyword>
+		<keyword>reference to freddy krueger</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>cover up</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>corruption</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>corporate corruption</keyword>
+		<keyword>corporate conspiracy</keyword>
+		<keyword>experiment gone wrong</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>doctor</keyword>
+		<keyword>nurse</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>cloning</keyword>
+		<keyword>clone</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>scientist</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>corporate crime</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>megacorporation</keyword>
+		<keyword>time freeze</keyword>
+		<keyword>year 2029</keyword>
+		<keyword>army</keyword>
+		<keyword>soldier</keyword>
+		<keyword>metal hand</keyword>
+		<keyword>special forces</keyword>
+		<keyword>swat team</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>van</keyword>
+		<keyword>casino</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>on the run</keyword>
+		<keyword>protector</keyword>
+		<keyword>father figure</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>freeze to death</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>mind control</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>water tower</keyword>
+		<keyword>corpse</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>thug</keyword>
+		<keyword>henchman</keyword>
+		<keyword>invincible henchman</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>scar</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>water pump</keyword>
+		<keyword>farmhouse</keyword>
+		<keyword>farm</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>poisoning</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>self healing</keyword>
+		<keyword>immortality</keyword>
+		<keyword>massacre</keyword>
+		<keyword>one against many</keyword>
+		<keyword>revenge</keyword>
+		<keyword>redemption</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>tragic hero</keyword>
+		<keyword>warrior</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>one man army</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>action hero</keyword>
+		<keyword>stabbed through the chest</keyword>
+		<keyword>stabbed through the head</keyword>
+		<keyword>bullet</keyword>
+		<keyword>adamantium</keyword>
+		<keyword>claw</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>comic book</keyword>
+		<keyword>christ allegory</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>hope</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>little boy</keyword>
+		<keyword>11 year old</keyword>
+		<keyword>little girl</keyword>
+		<keyword>mute</keyword>
+		<keyword>hatred</keyword>
+		<keyword>anger</keyword>
+		<keyword>body count</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>gore</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>brutality</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>severed head</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the foot</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the hand</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the neck</keyword>
+		<keyword>shot in the throat</keyword>
+		<keyword>head blown off</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>stabbed in the foot</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed through the chin</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>stabbed in the forehead</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>limo</keyword>
+		<keyword>test subject</keyword>
+		<keyword>involuntary experiment subject</keyword>
+		<keyword>violent child</keyword>
+		<keyword>gun violence</keyword>
+		<keyword>decapitated head</keyword>
+		<keyword>dismemberment</keyword>
+		<keyword>gun</keyword>
+		<keyword>medicine</keyword>
+		<keyword>pills</keyword>
+		<keyword>breaking a gun</keyword>
+		<keyword>driving a car into a field</keyword>
+		<keyword>bloodshed</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>flashing breasts</keyword>
+		<keyword>nipples</keyword>
+		<keyword>caught in the rain</keyword>
+		<keyword>coin operated pony ride</keyword>
+		<keyword>shot multiple times</keyword>
+		<keyword>out of ammunition</keyword>
+		<keyword>hoist</keyword>
+		<keyword>grave of stones</keyword>
+		<keyword>tank top</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>elder wisdom</keyword>
+		<keyword>superior</keyword>
+		<keyword>patriarch</keyword>
+		<keyword>older man younger man relationship</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>car</keyword>
+		<keyword>fierceness</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>screaming</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>darkness</keyword>
+		<keyword>driver</keyword>
+		<keyword>axe</keyword>
+		<keyword>whistleblower</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>car trouble</keyword>
+		<keyword>existentialism</keyword>
+		<keyword>nihilist</keyword>
+		<keyword>nihilism</keyword>
+		<keyword>gold tooth</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>car accident</keyword>
+		<keyword>horse</keyword>
+		<keyword>dog</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>truck</keyword>
+		<keyword>fire</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>limousine driver</keyword>
+		<keyword>limousine</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>prescription drugs</keyword>
+		<keyword>cyberpunk</keyword>
+		<keyword>corn</keyword>
+		<keyword>bridesmaid</keyword>
+	</keywords>
+	<directors>
+		<director> James Mangold</director>
+	</directors>
+	<composers>
+		<composer> Marco Beltrami</composer>
+	</composers>
+	<producers>
+		<producer> Joseph M. Caracciolo Jr.</producer>
+		<producer> Simon Kinberg</producer>
+		<producer> Stan Lee</producer>
+		<producer> James Mangold</producer>
+		<producer> Josh McLaglen</producer>
+		<producer> Hutch Parker</producer>
+		<producer> Dana Robin</producer>
+		<producer> Lauren Shuler Donner</producer>
+		<producer> Kurt Williams</producer>
+	</producers>
+	<writers>
+		<writer> James Mangold</writer>
+		<writer> Scott Frank</writer>
+		<writer> James Mangold</writer>
+		<writer> Michael Green</writer>
+		<writer> John Romita Sr.</writer>
+		<writer> Roy Thomas</writer>
+		<writer> Len Wein</writer>
+		<writer> Herb Trimpe</writer>
+		<writer> Mark Millar</writer>
+		<writer> Steven McNiven</writer>
+	</writers>
+	<editors>
+		<editor> Michael McCusker</editor>
+		<editor> Dirk Westervelt</editor>
+	</editors>
+</doc>

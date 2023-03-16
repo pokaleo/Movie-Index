@@ -1,0 +1,564 @@
+<?xml version="1.0" ?>
+<doc id="tt6823368">
+	<docid>tt6823368</docid>
+	<title>Glass</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">129</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>James McAvoy</actor>
+			<role>Patricia</role>
+		</credit>
+		<credit>
+			<actor>Bruce Willis</actor>
+			<role>David Dunn</role>
+		</credit>
+		<credit>
+			<actor>Samuel L. Jackson</actor>
+			<role>Elijah Price</role>
+		</credit>
+		<credit>
+			<actor>Anya Taylor-Joy</actor>
+			<role>Casey Cooke</role>
+		</credit>
+		<credit>
+			<actor>Sarah Paulson</actor>
+			<role>Dr. Ellie Staple</role>
+		</credit>
+		<credit>
+			<actor>Spencer Treat Clark</actor>
+			<role>Joseph Dunn</role>
+		</credit>
+		<credit>
+			<actor>Charlayne Woodard</actor>
+			<role>Mrs. Price</role>
+		</credit>
+		<credit>
+			<actor>Luke Kirby</actor>
+			<role>Pierce</role>
+		</credit>
+		<credit>
+			<actor>Adam David Thompson</actor>
+			<role>Daryl</role>
+		</credit>
+		<credit>
+			<actor>M. Night Shyamalan</actor>
+			<role>Jai, Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Shannon Destiny Ryan</actor>
+			<role>Cheerleading Girl</role>
+		</credit>
+		<credit>
+			<actor>Diana Silvers</actor>
+			<role>Cheerleading Girl</role>
+		</credit>
+		<credit>
+			<actor>Nina Wisner</actor>
+			<role>Cheerleading Girl</role>
+		</credit>
+		<credit>
+			<actor>Kyli Zion</actor>
+			<role>Cheerleading Girl</role>
+		</credit>
+		<credit>
+			<actor>Serge Didenko</actor>
+			<role>Ronald, Powerful Young Man</role>
+		</credit>
+		<credit>
+			<actor>Russell Posner</actor>
+			<role>T, Skinny Camera Kid</role>
+		</credit>
+		<credit>
+			<actor>Kimberly S. Fairbanks</actor>
+			<role>Assistant Principal</role>
+		</credit>
+		<credit>
+			<actor>Rosemary Howard</actor>
+			<role>Penelope Crumb</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">January 7 2019</releasedate>
+		<releasedate country="France">January 16 2019</releasedate>
+		<releasedate country="Indonesia">January 16 2019</releasedate>
+		<releasedate country="Philippines">January 16 2019</releasedate>
+		<releasedate country="Taiwan">January 16 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-15</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>glass</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>dissociative identity disorder</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>violence</keyword>
+		<keyword>flashback</keyword>
+		<keyword>comic book store</keyword>
+		<keyword>comic book</keyword>
+		<keyword>comic book shop</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>cheerleader</keyword>
+		<keyword>third part</keyword>
+		<keyword>super villain</keyword>
+		<keyword>evil mastermind</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>water</keyword>
+		<keyword>video surveillance</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>view through video camera</keyword>
+		<keyword>video footage</keyword>
+		<keyword>train station</keyword>
+		<keyword>villain as protagonist</keyword>
+		<keyword>widower</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>tragic villain</keyword>
+		<keyword>murder of son</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>director cameo</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>drowned man</keyword>
+		<keyword>murder by drowning</keyword>
+		<keyword>villain</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>reference to hello kitty</keyword>
+		<keyword>superhero origin</keyword>
+		<keyword>throat cut with a shard of glass</keyword>
+		<keyword>clover leaf tattoo</keyword>
+		<keyword>secret society</keyword>
+		<keyword>sniper</keyword>
+		<keyword>bullying</keyword>
+		<keyword>murder of father</keyword>
+		<keyword>christmas decoration</keyword>
+		<keyword>christmas tree</keyword>
+		<keyword>roller skates</keyword>
+		<keyword>psychiatric hospital</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>non comic book superhero</keyword>
+		<keyword>unchained</keyword>
+		<keyword>scream</keyword>
+		<keyword>transformation</keyword>
+		<keyword>shop</keyword>
+		<keyword>intruder</keyword>
+		<keyword>lights off</keyword>
+		<keyword>corner store</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>bound in chains</keyword>
+		<keyword>woman bound in chains</keyword>
+		<keyword>rescue</keyword>
+		<keyword>gps</keyword>
+		<keyword>electronic monitoring</keyword>
+		<keyword>frightened girl</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>homeless man</keyword>
+		<keyword>criminal</keyword>
+		<keyword>shutter</keyword>
+		<keyword>urchin</keyword>
+		<keyword>customer</keyword>
+		<keyword>industrial area</keyword>
+		<keyword>bald man</keyword>
+		<keyword>old man</keyword>
+		<keyword>cloak</keyword>
+		<keyword>undressing</keyword>
+		<keyword>dancing</keyword>
+		<keyword>man dancing</keyword>
+		<keyword>dancing in the street</keyword>
+		<keyword>barrel</keyword>
+		<keyword>barrel fire</keyword>
+		<keyword>pain</keyword>
+		<keyword>man in pain</keyword>
+		<keyword>growling</keyword>
+		<keyword>fight</keyword>
+		<keyword>scuffle</keyword>
+		<keyword>brawl</keyword>
+		<keyword>justice</keyword>
+		<keyword>closed circuit television camera</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security guard</keyword>
+		<keyword>institution</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>name tag</keyword>
+		<keyword>office</keyword>
+		<keyword>working at night</keyword>
+		<keyword>x ray</keyword>
+		<keyword>student</keyword>
+		<keyword>closed circuit tv surveilance</keyword>
+		<keyword>closed circuit tv</keyword>
+		<keyword>speaking with an accent</keyword>
+		<keyword>psycho</keyword>
+		<keyword>insane person</keyword>
+		<keyword>black woman</keyword>
+		<keyword>black girl</keyword>
+		<keyword>bookshelf</keyword>
+		<keyword>food tray</keyword>
+		<keyword>generator</keyword>
+		<keyword>survivor</keyword>
+		<keyword>sanitarium</keyword>
+		<keyword>water pipe</keyword>
+		<keyword>sanitorium</keyword>
+		<keyword>sanitarium nurse</keyword>
+		<keyword>boarded up window</keyword>
+		<keyword>blocked memory</keyword>
+		<keyword>sprint</keyword>
+		<keyword>introduction</keyword>
+		<keyword>falling through a window</keyword>
+		<keyword>van</keyword>
+		<keyword>microphone</keyword>
+		<keyword>hospital</keyword>
+		<keyword>hospitalization</keyword>
+		<keyword>papadum</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>holding someone's arm</keyword>
+		<keyword>victim</keyword>
+		<keyword>doctor patient</keyword>
+		<keyword>technician</keyword>
+		<keyword>prognosis</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>bridge</keyword>
+		<keyword>cityscape</keyword>
+		<keyword>city view</keyword>
+		<keyword>gym</keyword>
+		<keyword>explanation</keyword>
+		<keyword>rationalization</keyword>
+		<keyword>blank stare</keyword>
+		<keyword>lifting a car</keyword>
+		<keyword>riot squad</keyword>
+		<keyword>black gloves</keyword>
+		<keyword>pushing</keyword>
+		<keyword>dying words</keyword>
+		<keyword>last words</keyword>
+		<keyword>last words before dying</keyword>
+		<keyword>corpse</keyword>
+		<keyword>saying last words before dying</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>gasping for breath</keyword>
+		<keyword>blue eyes</keyword>
+		<keyword>kiss on the forehead</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>crashing through glass</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>homelessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>man wears a suit and tie</keyword>
+		<keyword>fear</keyword>
+		<keyword>talking to the camera</keyword>
+		<keyword>screaming woman</keyword>
+		<keyword>weightlifting</keyword>
+		<keyword>train</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>suspense</keyword>
+		<keyword>maniac</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>insanity</keyword>
+		<keyword>bus</keyword>
+		<keyword>schizophrenic</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>dutch angle</keyword>
+		<keyword>snorricam</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>audio begins before video</keyword>
+		<keyword>hooded figure</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>laser</keyword>
+		<keyword>homeless person</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>basketball</keyword>
+		<keyword>reference to superman</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>british actress playing american character</keyword>
+		<keyword>loss of son</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>crime fighter</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>female psychiatrist</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>vigilante justice</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>internet</keyword>
+		<keyword>paraplegic</keyword>
+		<keyword>news report</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>faith</keyword>
+		<keyword>doubt</keyword>
+		<keyword>revelation</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>light</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>glass shard</keyword>
+		<keyword>victim of abuse</keyword>
+		<keyword>abusive mother</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>delusion</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>photograph</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>water tank</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>race against time</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>drowning</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>vision</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>high school</keyword>
+		<keyword>subway</keyword>
+		<keyword>construction worker</keyword>
+		<keyword>subway station</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>storage room</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>panic</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>security camera</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>map</keyword>
+		<keyword>security expert</keyword>
+		<keyword>following someone</keyword>
+		<keyword>headphones</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>abandoned factory</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>handcuffed to a pipe</keyword>
+		<keyword>irish accent</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>climbing up a wall</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>police officer killed</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>death</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>nurse</keyword>
+		<keyword>hostage</keyword>
+		<keyword>disguise</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>ambush</keyword>
+		<keyword>fairground</keyword>
+		<keyword>heroism</keyword>
+		<keyword>cover up</keyword>
+		<keyword>interview</keyword>
+		<keyword>mental illness</keyword>
+		<keyword>psychiatric patient</keyword>
+		<keyword>police</keyword>
+		<keyword>police car</keyword>
+		<keyword>swat team</keyword>
+		<keyword>shield</keyword>
+		<keyword>elevator</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>one against many</keyword>
+		<keyword>massacre</keyword>
+		<keyword>broken back</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>reflection in eye</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>death threat</keyword>
+		<keyword>christmas</keyword>
+		<keyword>crowbar</keyword>
+		<keyword>mri scan</keyword>
+		<keyword>police brutality</keyword>
+		<keyword>compassion</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>little boy</keyword>
+		<keyword>deeply disturbed person</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>confinement</keyword>
+		<keyword>african american</keyword>
+		<keyword>intercom</keyword>
+		<keyword>basement</keyword>
+		<keyword>medication</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>american flag</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>microscope</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>reference to drake</keyword>
+		<keyword>reference to nicki minaj</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>single father</keyword>
+		<keyword>letter opener</keyword>
+		<keyword>self referential</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>indian</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>split personality</keyword>
+		<keyword>crossover</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>child abuse</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>roller skating</keyword>
+		<keyword>man uses a wheelchair</keyword>
+		<keyword>part of trilogy</keyword>
+		<keyword>third in trilogy</keyword>
+		<keyword>bare chested male fighting</keyword>
+		<keyword>death of male protagonist</keyword>
+		<keyword>supernatural thriller</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>supervillain origin</keyword>
+		<keyword>superhero horror</keyword>
+		<keyword>insane man</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>blonde cheerleader</keyword>
+		<keyword>sequel</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>philadelphia pennsylvania</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>human monster</keyword>
+		<keyword>multiple personality disorder</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>written by director</keyword>
+		<keyword>superhero</keyword>
+		<keyword>death of son</keyword>
+		<keyword>death of father</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>man wears a skirt</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>plot twist</keyword>
+	</keywords>
+	<directors>
+		<director> M. Night Shyamalan</director>
+	</directors>
+	<composers>
+		<composer> West Dylan Thordson</composer>
+	</composers>
+	<producers>
+		<producer> Gary Barber</producer>
+		<producer> Marc Bienstock</producer>
+		<producer> Roger Birnbaum</producer>
+		<producer> Jason Blum</producer>
+		<producer> Dom Catanzarite</producer>
+		<producer> Kevin Scott Frakes</producer>
+		<producer> Ashwin Rajan</producer>
+		<producer> John Rusk</producer>
+		<producer> Steven Schneider</producer>
+		<producer> M. Night Shyamalan</producer>
+	</producers>
+	<writers>
+		<writer> M. Night Shyamalan</writer>
+	</writers>
+	<editors>
+		<editor> Luke Ciarrocchi</editor>
+		<editor> Blu Murray</editor>
+	</editors>
+</doc>

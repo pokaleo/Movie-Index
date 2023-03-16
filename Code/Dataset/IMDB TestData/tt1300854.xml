@@ -1,0 +1,769 @@
+<?xml version="1.0" ?>
+<doc id="tt1300854">
+	<docid>tt1300854</docid>
+	<title>Iron Man Three</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Robert Downey Jr.</actor>
+			<role>Tony Stark</role>
+		</credit>
+		<credit>
+			<actor>Guy Pearce</actor>
+			<role>Aldrich Killian</role>
+		</credit>
+		<credit>
+			<actor>Gwyneth Paltrow</actor>
+			<role>Pepper Potts</role>
+		</credit>
+		<credit>
+			<actor>Don Cheadle</actor>
+			<role>Colonel James Rhodes</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Hall</actor>
+			<role>Maya Hansen</role>
+		</credit>
+		<credit>
+			<actor>Jon Favreau</actor>
+			<role>Happy Hogan</role>
+		</credit>
+		<credit>
+			<actor>Ben Kingsley</actor>
+			<role>Trevor Slattery</role>
+		</credit>
+		<credit>
+			<actor>James Badge Dale</actor>
+			<role>Savin</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Szostak</actor>
+			<role>Brandt</role>
+		</credit>
+		<credit>
+			<actor>Paul Bettany</actor>
+			<role>JARVIS</role>
+		</credit>
+		<credit>
+			<actor>William Sadler</actor>
+			<role>President Ellis</role>
+		</credit>
+		<credit>
+			<actor>Dale Dickey</actor>
+			<role>Mrs. Davis</role>
+		</credit>
+		<credit>
+			<actor>Ty Simpkins</actor>
+			<role>Harley Keener</role>
+		</credit>
+		<credit>
+			<actor>Miguel Ferrer</actor>
+			<role>Vice President Rodriguez</role>
+		</credit>
+		<credit>
+			<actor>Xueqi Wang</actor>
+			<role>Doctor Wu</role>
+		</credit>
+		<credit>
+			<actor>Shaun Toub</actor>
+			<role>Ho Yinsen</role>
+		</credit>
+		<credit>
+			<actor>Matthew Sterling Nye</actor>
+			<role>Annoying Conference Guy</role>
+		</credit>
+		<credit>
+			<actor>Pat Kiernan</actor>
+			<role>Pat Kiernan</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">April 14 2013</releasedate>
+		<releasedate country="United Kingdom">April 18 2013</releasedate>
+		<releasedate country="Australia">April 24 2013</releasedate>
+		<releasedate country="Belgium">April 24 2013</releasedate>
+		<releasedate country="Finland">April 24 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">12</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>terrorist</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>human bomb</keyword>
+		<keyword>superhero</keyword>
+		<keyword>armor</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>rescue</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>grauman's chinese theater</keyword>
+		<keyword>explosion</keyword>
+		<keyword>missile attack</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>hostage</keyword>
+		<keyword>airforce one</keyword>
+		<keyword>pirate broadcasting</keyword>
+		<keyword>christmas</keyword>
+		<keyword>terrorist bombing</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>pepper potts character</keyword>
+		<keyword>tony stark character</keyword>
+		<keyword>jarvis character</keyword>
+		<keyword>iron man character</keyword>
+		<keyword>red herring</keyword>
+		<keyword>col. james 'rhodey' rhodes character</keyword>
+		<keyword>happy hogan character</keyword>
+		<keyword>iron patriot character</keyword>
+		<keyword>mandarin character</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>mansion</keyword>
+		<keyword>malibu california</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>new year's eve</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>redheaded woman</keyword>
+		<keyword>bechdel test passed</keyword>
+		<keyword>missing limb</keyword>
+		<keyword>speedboat</keyword>
+		<keyword>air force one</keyword>
+		<keyword>metal in a microwave oven</keyword>
+		<keyword>water tower collapse</keyword>
+		<keyword>helicopter attack</keyword>
+		<keyword>burned in effigy</keyword>
+		<keyword>anxiety attack</keyword>
+		<keyword>power armor</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>surgery</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>corrupt politician</keyword>
+		<keyword>deception</keyword>
+		<keyword>amputee</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>memorial</keyword>
+		<keyword>shootout</keyword>
+		<keyword>inventor</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>one man army</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>actor</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>final battle</keyword>
+		<keyword>extremis</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>beauty contest</keyword>
+		<keyword>dunce cap</keyword>
+		<keyword>begins with a quotation</keyword>
+		<keyword>year 1999</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>torture</keyword>
+		<keyword>action hero</keyword>
+		<keyword>third part</keyword>
+		<keyword>microwave oven</keyword>
+		<keyword>snow</keyword>
+		<keyword>bruce banner character</keyword>
+		<keyword>male computer voice</keyword>
+		<keyword>film starts with a quote</keyword>
+		<keyword>implied sex</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>head of security</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>jet aircraft</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>female computer voice</keyword>
+		<keyword>oil tanker</keyword>
+		<keyword>loading dock</keyword>
+		<keyword>female botanist</keyword>
+		<keyword>view through video camera</keyword>
+		<keyword>firearm</keyword>
+		<keyword>falling into fire</keyword>
+		<keyword>male president</keyword>
+		<keyword>misfit</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>handgun</keyword>
+		<keyword>ear piece</keyword>
+		<keyword>bare chested man</keyword>
+		<keyword>jet plane</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>headgear</keyword>
+		<keyword>thumbs up gesture</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>screwdriver</keyword>
+		<keyword>law enforcement officer</keyword>
+		<keyword>armour</keyword>
+		<keyword>male sheriff</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>stuffed animal</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>male friendship</keyword>
+		<keyword>grauman's chinese theatre los angeles</keyword>
+		<keyword>flaming debris</keyword>
+		<keyword>body armor</keyword>
+		<keyword>firing squad</keyword>
+		<keyword>child's drawing</keyword>
+		<keyword>reading forbes magazine</keyword>
+		<keyword>giant stuffed bunny toy</keyword>
+		<keyword>chewing gum</keyword>
+		<keyword>dora the explorer wristwatch</keyword>
+		<keyword>pump action shotgun</keyword>
+		<keyword>beauty pageant</keyword>
+		<keyword>celebrity tattoo</keyword>
+		<keyword>regrowing an arm</keyword>
+		<keyword>laboratory explosion</keyword>
+		<keyword>facial cut</keyword>
+		<keyword>home made gun</keyword>
+		<keyword>suspended by arms</keyword>
+		<keyword>glowing skin</keyword>
+		<keyword>teddy bear</keyword>
+		<keyword>hiding under a desk</keyword>
+		<keyword>kidnapping a president</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>organization</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>infinity saga</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>handcuffed man</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>revenge plot</keyword>
+		<keyword>action girl</keyword>
+		<keyword>california</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>reporter</keyword>
+		<keyword>female reporter</keyword>
+		<keyword>high tech suit</keyword>
+		<keyword>implant</keyword>
+		<keyword>condominium</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>body enhancement</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>beard</keyword>
+		<keyword>fire breathing</keyword>
+		<keyword>war veteran</keyword>
+		<keyword>nurse</keyword>
+		<keyword>collapsing house</keyword>
+		<keyword>self healing</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>reference to scott baio</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>world domination</keyword>
+		<keyword>human experiment</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>year 2012</keyword>
+		<keyword>panic attack</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>reference to werner von braun</keyword>
+		<keyword>gymnasium</keyword>
+		<keyword>workshop</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>senator</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>politician</keyword>
+		<keyword>telephone</keyword>
+		<keyword>corrupt official</keyword>
+		<keyword>switzerland</keyword>
+		<keyword>trailer home</keyword>
+		<keyword>water</keyword>
+		<keyword>dog</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>van</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>stan lee cameo</keyword>
+		<keyword>gun</keyword>
+		<keyword>bauble</keyword>
+		<keyword>reference to laurence olivier</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>reference to thor</keyword>
+		<keyword>reference to muammar gaddafi</keyword>
+		<keyword>reference to osama bin laden</keyword>
+		<keyword>ship</keyword>
+		<keyword>desperation</keyword>
+		<keyword>tied up</keyword>
+		<keyword>syringe</keyword>
+		<keyword>free fall</keyword>
+		<keyword>boat</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>reference to meryl streep</keyword>
+		<keyword>impalement</keyword>
+		<keyword>experimental technology</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>female ceo</keyword>
+		<keyword>heroism</keyword>
+		<keyword>hero</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>sports car</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>tank top</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>construction worker</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>airplane</keyword>
+		<keyword>boy wears eyeglasses</keyword>
+		<keyword>male wears eyeglasses</keyword>
+		<keyword>male superhero</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>male hero</keyword>
+		<keyword>heroine</keyword>
+		<keyword>title directed by man</keyword>
+		<keyword>title directed by male</keyword>
+		<keyword>title written by male</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>african american hero</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>air to surface attack</keyword>
+		<keyword>night</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>audi motor vehicle</keyword>
+		<keyword>weapon</keyword>
+		<keyword>jet aeroplane</keyword>
+		<keyword>north america</keyword>
+		<keyword>timepiece</keyword>
+		<keyword>watercraft</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>car</keyword>
+		<keyword>tablet computer</keyword>
+		<keyword>garage</keyword>
+		<keyword>motorboat</keyword>
+		<keyword>aerial explosion</keyword>
+		<keyword>musical instrument</keyword>
+		<keyword>vice president of the united states of america</keyword>
+		<keyword>tandem rotor helicopter</keyword>
+		<keyword>male colonel</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>fortune cookie</keyword>
+		<keyword>african american superhero</keyword>
+		<keyword>child</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>exploding aircraft</keyword>
+		<keyword>advanced weaponry</keyword>
+		<keyword>male vice president</keyword>
+		<keyword>stage actor</keyword>
+		<keyword>holographic projection</keyword>
+		<keyword>african american man</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>dog tags</keyword>
+		<keyword>murderess</keyword>
+		<keyword>girl uses a wheelchair</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>murder of an innocent person</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>biotech sci fi</keyword>
+		<keyword>trevor slattery character</keyword>
+		<keyword>marvel</keyword>
+		<keyword>supervillain origin</keyword>
+		<keyword>bern switzerland</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>windows 98</keyword>
+		<keyword>reference to westworld</keyword>
+		<keyword>christmas movie</keyword>
+		<keyword>prototype</keyword>
+		<keyword>tennessee</keyword>
+		<keyword>terror attack</keyword>
+		<keyword>one night stand</keyword>
+		<keyword>small town</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>fight</keyword>
+		<keyword>scientist</keyword>
+		<keyword>asking for autograph</keyword>
+		<keyword>romantic relationship</keyword>
+		<keyword>begins with quotation</keyword>
+		<keyword>terrorist act</keyword>
+		<keyword>man shoots a woman</keyword>
+		<keyword>cold blooded killer</keyword>
+		<keyword>villainess</keyword>
+		<keyword>narrated by title character</keyword>
+		<keyword>gym</keyword>
+		<keyword>vice president</keyword>
+		<keyword>president</keyword>
+		<keyword>friendship between men</keyword>
+		<keyword>starts with narration</keyword>
+		<keyword>ends with narration</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>spontaneous combustion</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>helmet</keyword>
+		<keyword>technology</keyword>
+		<keyword>table tennis</keyword>
+		<keyword>beating</keyword>
+		<keyword>little boy</keyword>
+		<keyword>child genius</keyword>
+		<keyword>product placement</keyword>
+		<keyword>visionary</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>taser</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>gadgetry</keyword>
+		<keyword>gadget</keyword>
+		<keyword>injection</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>black eye</keyword>
+		<keyword>swat team</keyword>
+		<keyword>fear</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>breathing fire</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>invincible henchman</keyword>
+		<keyword>race against time</keyword>
+		<keyword>flying</keyword>
+		<keyword>destruction</keyword>
+		<keyword>ambush</keyword>
+		<keyword>written by director</keyword>
+		<keyword>revenge</keyword>
+		<keyword>friendship</keyword>
+		<keyword>think tank</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>army</keyword>
+		<keyword>secret service agent</keyword>
+		<keyword>u.s. secret service</keyword>
+		<keyword>montage</keyword>
+		<keyword>high tech</keyword>
+		<keyword>u.s. vice president</keyword>
+		<keyword>flood</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>assassination plot</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>gas explosion</keyword>
+		<keyword>henchman</keyword>
+		<keyword>experiment gone wrong</keyword>
+		<keyword>henchwoman</keyword>
+		<keyword>man with a ponytail</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>brutality</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>evil man</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>hardware store</keyword>
+		<keyword>stewardess</keyword>
+		<keyword>latex gloves</keyword>
+		<keyword>operating room</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>flying man</keyword>
+		<keyword>flying superhero</keyword>
+		<keyword>sweatshop</keyword>
+		<keyword>bad tattoo</keyword>
+		<keyword>three word title</keyword>
+		<keyword>reference to wernher von braun</keyword>
+		<keyword>end credits roll call</keyword>
+		<keyword>numbered sequel</keyword>
+		<keyword>redhead</keyword>
+		<keyword>kiss</keyword>
+		<keyword>love interest</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>machismo</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>lieutenant colonel</keyword>
+		<keyword>marvel cinematic universe</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>ch 47 chinook helicopter</keyword>
+		<keyword>screaming in pain</keyword>
+		<keyword>tattoo on face</keyword>
+		<keyword>air to surface missile</keyword>
+		<keyword>blown off feet</keyword>
+		<keyword>bell 206 jet ranger helicopter</keyword>
+		<keyword>reference to albert einstein</keyword>
+		<keyword>newscast</keyword>
+		<keyword>narrated by character</keyword>
+		<keyword>gearing up</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>power suit</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>terrorist cell</keyword>
+		<keyword>tied feet</keyword>
+		<keyword>finger gun</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>one liner</keyword>
+		<keyword>cameo</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>old flame</keyword>
+		<keyword>mutation</keyword>
+		<keyword>showdown</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>arrest</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>cover up</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>regret</keyword>
+		<keyword>motel</keyword>
+		<keyword>revelation</keyword>
+		<keyword>drug addict</keyword>
+		<keyword>axe</keyword>
+		<keyword>knife</keyword>
+		<keyword>grenade</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>water tower</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>scar</keyword>
+		<keyword>gash in the face</keyword>
+		<keyword>hand through chest</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>diner</keyword>
+		<keyword>bar</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>boy</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>limousine</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>mob of reporters</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>fire</keyword>
+		<keyword>hospital</keyword>
+		<keyword>pakistan</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>colonel</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>disguise</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security camera</keyword>
+		<keyword>hologram</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>miami florida</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>christmas tree</keyword>
+		<keyword>battle</keyword>
+		<keyword>combat</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>crutches</keyword>
+		<keyword>hotel</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>cure</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>security guard</keyword>
+		<keyword>stun gun</keyword>
+		<keyword>toy gun</keyword>
+		<keyword>news report</keyword>
+		<keyword>engineer</keyword>
+		<keyword>playboy</keyword>
+		<keyword>ceo</keyword>
+		<keyword>warrior</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>fake accent</keyword>
+		<keyword>investigation</keyword>
+		<keyword>botanist</keyword>
+		<keyword>virus</keyword>
+		<keyword>party</keyword>
+		<keyword>media manipulation</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>assassin</keyword>
+		<keyword>soldier</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>flashback</keyword>
+		<keyword>prologue</keyword>
+		<keyword>mind control</keyword>
+		<keyword>transformation</keyword>
+		<keyword>super strength</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>explosive decompression</keyword>
+		<keyword>airplane hijacking</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>missile</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>uzi</keyword>
+		<keyword>pistol</keyword>
+		<keyword>exploding house</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>head mounted display</keyword>
+		<keyword>sequel</keyword>
+		<keyword>marvel entertainment</keyword>
+		<keyword>death of son</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>1990s</keyword>
+		<keyword>2010s</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>oil rig</keyword>
+		<keyword>robot suit</keyword>
+		<keyword>robot</keyword>
+		<keyword>babe scientist</keyword>
+		<keyword>elevator</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>nanotechnology</keyword>
+	</keywords>
+	<directors>
+		<director> Shane Black</director>
+	</directors>
+	<composers>
+		<composer> Brian Tyler</composer>
+	</composers>
+	<producers>
+		<producer> Victoria Alonso</producer>
+		<producer> Mitchell Bell</producer>
+		<producer> Stephen Broussard</producer>
+		<producer> Louis D'Esposito</producer>
+		<producer> Jon Favreau</producer>
+		<producer> Kevin Feige</producer>
+		<producer> Alan Fine</producer>
+		<producer> Stan Lee</producer>
+		<producer> Dan Mintz</producer>
+		<producer> Charles Newirth</producer>
+		<producer> Brad Winderbaum</producer>
+		<producer> Lars P. Winther</producer>
+		<producer> Bing Wu</producer>
+		<producer> Wen-ge Xiao</producer>
+	</producers>
+	<writers>
+		<writer> Drew Pearce</writer>
+		<writer> Shane Black</writer>
+		<writer> Stan Lee</writer>
+		<writer> Don Heck</writer>
+		<writer> Larry Lieber</writer>
+		<writer> Jack Kirby</writer>
+		<writer> Warren Ellis</writer>
+		<writer> Adi Granov</writer>
+	</writers>
+	<editors>
+		<editor> Peter S. Elliot</editor>
+		<editor> Jeffrey Ford</editor>
+	</editors>
+</doc>

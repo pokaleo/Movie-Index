@@ -1,0 +1,767 @@
+<?xml version="1.0" ?>
+<doc id="tt2379713">
+	<docid>tt2379713</docid>
+	<title>Spectre</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2015</year>
+	<runningtimes>
+		<runningtime country="default">148</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A cryptic message from James Bond's past sends him on a trail to uncover the existence of a sinister organisation named SPECTRE. With a new threat dawning, Bond learns the terrible truth about the author of all his pain in his most recent missions.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Daniel Craig</actor>
+			<role>James Bond</role>
+		</credit>
+		<credit>
+			<actor>Christoph Waltz</actor>
+			<role>Blofeld</role>
+		</credit>
+		<credit>
+			<actor>Léa Seydoux</actor>
+			<role>Madeleine</role>
+		</credit>
+		<credit>
+			<actor>Ralph Fiennes</actor>
+			<role>M</role>
+		</credit>
+		<credit>
+			<actor>Monica Bellucci</actor>
+			<role>Lucia</role>
+		</credit>
+		<credit>
+			<actor>Ben Whishaw</actor>
+			<role>Q</role>
+		</credit>
+		<credit>
+			<actor>Naomie Harris</actor>
+			<role>Moneypenny</role>
+		</credit>
+		<credit>
+			<actor>Dave Bautista</actor>
+			<role>Hinx</role>
+		</credit>
+		<credit>
+			<actor>Andrew Scott</actor>
+			<role>C</role>
+		</credit>
+		<credit>
+			<actor>Rory Kinnear</actor>
+			<role>Tanner</role>
+		</credit>
+		<credit>
+			<actor>Jesper Christensen</actor>
+			<role>Mr. White</role>
+		</credit>
+		<credit>
+			<actor>Alessandro Cremona</actor>
+			<role>Marco Sciarra</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Sigman</actor>
+			<role>Estrella</role>
+		</credit>
+		<credit>
+			<actor>Tenoch Huerta</actor>
+			<role>Mexican Man in Lift</role>
+		</credit>
+		<credit>
+			<actor>Adriana Paz</actor>
+			<role>Mexican Woman in Lift</role>
+		</credit>
+		<credit>
+			<actor>Domenico Fortunato</actor>
+			<role>Gallo</role>
+		</credit>
+		<credit>
+			<actor>Marco Zingaro</actor>
+			<role>Gallo's Accomplice</role>
+		</credit>
+		<credit>
+			<actor>Stefano Elfi DiClaudia</actor>
+			<role>Gallo's Accomplice</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">October 26 2015</releasedate>
+		<releasedate country="United Kingdom">October 26 2015</releasedate>
+		<releasedate country="Ireland">October 26 2015</releasedate>
+		<releasedate country="Netherlands">October 29 2015</releasedate>
+		<releasedate country="Denmark">October 30 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">D</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>spy</keyword>
+		<keyword>boat chase</keyword>
+		<keyword>sahara desert</keyword>
+		<keyword>secret society</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>espionage</keyword>
+		<keyword>bomb</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>father daughter estrangement</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>action hero</keyword>
+		<keyword>widow</keyword>
+		<keyword>sequel</keyword>
+		<keyword>official james bond series</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>adopted brother</keyword>
+		<keyword>james bond character</keyword>
+		<keyword>love interest</keyword>
+		<keyword>2010s</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>spectre</keyword>
+		<keyword>spectre the organization</keyword>
+		<keyword>white suit</keyword>
+		<keyword>ring</keyword>
+		<keyword>sinister</keyword>
+		<keyword>assassin</keyword>
+		<keyword>fear</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>parade</keyword>
+		<keyword>mission</keyword>
+		<keyword>blood</keyword>
+		<keyword>escape</keyword>
+		<keyword>death</keyword>
+		<keyword>fight</keyword>
+		<keyword>car</keyword>
+		<keyword>kiss</keyword>
+		<keyword>gun</keyword>
+		<keyword>needle</keyword>
+		<keyword>latex gloves</keyword>
+		<keyword>visionary</keyword>
+		<keyword>aston martin</keyword>
+		<keyword>mask</keyword>
+		<keyword>day of the dead</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>chaos</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>fake identity</keyword>
+		<keyword>bag over head</keyword>
+		<keyword>gadgetry</keyword>
+		<keyword>arrest</keyword>
+		<keyword>bridge</keyword>
+		<keyword>armored car</keyword>
+		<keyword>thrown through a windshield</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>orphan</keyword>
+		<keyword>chauffeur</keyword>
+		<keyword>butler</keyword>
+		<keyword>secret lair</keyword>
+		<keyword>satellite</keyword>
+		<keyword>knocked out with a gun butt</keyword>
+		<keyword>survival</keyword>
+		<keyword>one against many</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>injection</keyword>
+		<keyword>barn</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>cable car</keyword>
+		<keyword>secret past</keyword>
+		<keyword>snowmobile</keyword>
+		<keyword>airplane</keyword>
+		<keyword>bartender</keyword>
+		<keyword>suicide</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>mountain</keyword>
+		<keyword>snow</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>cabin in the woods</keyword>
+		<keyword>burn victim</keyword>
+		<keyword>car set on fire</keyword>
+		<keyword>sadism</keyword>
+		<keyword>sadist</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>chess</keyword>
+		<keyword>parachute</keyword>
+		<keyword>ejection seat</keyword>
+		<keyword>car in water</keyword>
+		<keyword>storm drain</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>news report</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>interview</keyword>
+		<keyword>brutality</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>intrigue</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>impostor</keyword>
+		<keyword>seduction</keyword>
+		<keyword>mansion</keyword>
+		<keyword>terminal illness</keyword>
+		<keyword>voyeurism</keyword>
+		<keyword>voyeur</keyword>
+		<keyword>fake passport</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>boat</keyword>
+		<keyword>hummer</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>x rayed skeleton</keyword>
+		<keyword>nanotechnology</keyword>
+		<keyword>e mail</keyword>
+		<keyword>secretary</keyword>
+		<keyword>shooting range</keyword>
+		<keyword>abandoned hotel</keyword>
+		<keyword>abandoned building</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>safe house</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>north africa</keyword>
+		<keyword>desert</keyword>
+		<keyword>train</keyword>
+		<keyword>photograph</keyword>
+		<keyword>map</keyword>
+		<keyword>cat</keyword>
+		<keyword>lizard</keyword>
+		<keyword>hidden room</keyword>
+		<keyword>hidden door</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>breaking a bottle over someone's head</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>bar</keyword>
+		<keyword>vintage car</keyword>
+		<keyword>apartment</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>psychologist</keyword>
+		<keyword>fire</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>scar</keyword>
+		<keyword>eye gouging</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>thrown from height</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>helicopter pilot</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>assassination</keyword>
+		<keyword>big ben london</keyword>
+		<keyword>corrupt official</keyword>
+		<keyword>corrupt politician</keyword>
+		<keyword>politician</keyword>
+		<keyword>infiltration</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>silencer</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>elevator</keyword>
+		<keyword>dancing</keyword>
+		<keyword>hotel</keyword>
+		<keyword>long take</keyword>
+		<keyword>masked man</keyword>
+		<keyword>festival</keyword>
+		<keyword>strapped to a bomb</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>faked death</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>austria</keyword>
+		<keyword>flare gun</keyword>
+		<keyword>rome italy</keyword>
+		<keyword>tokyo japan</keyword>
+		<keyword>london england</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>secret mission</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>undercover</keyword>
+		<keyword>rogue agent</keyword>
+		<keyword>psychological torture</keyword>
+		<keyword>torture</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>evil man</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>world domination</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>criminal organization</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>race against time</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>ambush</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>gadget</keyword>
+		<keyword>gadget car</keyword>
+		<keyword>car accident</keyword>
+		<keyword>car crash</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>invincible henchman</keyword>
+		<keyword>security guard</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>showdown</keyword>
+		<keyword>swat team</keyword>
+		<keyword>henchman</keyword>
+		<keyword>mute</keyword>
+		<keyword>thug</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>crater</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>security camera</keyword>
+		<keyword>investigation</keyword>
+		<keyword>spy hero</keyword>
+		<keyword>warrior</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>one man army</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>revenge</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>double cross</keyword>
+		<keyword>deception</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>rescue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>murder</keyword>
+		<keyword>violence</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>car chase</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>british intelligence</keyword>
+		<keyword>british secret service</keyword>
+		<keyword>bond girl</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>meteor</keyword>
+		<keyword>mysterious villain</keyword>
+		<keyword>funeral</keyword>
+		<keyword>suspense</keyword>
+		<keyword>one word title</keyword>
+		<keyword>death of father</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>casual sex</keyword>
+		<keyword>sex on a train</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>official bond film</keyword>
+		<keyword>quitting a job</keyword>
+		<keyword>unsubtitled foreign language</keyword>
+		<keyword>airplane accident</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>videotape</keyword>
+		<keyword>rat</keyword>
+		<keyword>politics</keyword>
+		<keyword>reference to mickey mouse</keyword>
+		<keyword>miss moneypenny character</keyword>
+		<keyword>ernst stavro blofeld character</keyword>
+		<keyword>bill tanner character</keyword>
+		<keyword>major boothroyd character</keyword>
+		<keyword>m character</keyword>
+		<keyword>torture device</keyword>
+		<keyword>vodka martini</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>outrunning explosion</keyword>
+		<keyword>merger</keyword>
+		<keyword>reference to british home secretary</keyword>
+		<keyword>reference to felix leiter character</keyword>
+		<keyword>reference to tunisia</keyword>
+		<keyword>reference to judi dench</keyword>
+		<keyword>airplane chase</keyword>
+		<keyword>traveling by boat</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>military intelligence 6</keyword>
+		<keyword>reference to vesper lynd character</keyword>
+		<keyword>reference to jaws character</keyword>
+		<keyword>secret room</keyword>
+		<keyword>stolen car</keyword>
+		<keyword>stolen airplane</keyword>
+		<keyword>license to kill</keyword>
+		<keyword>reference to 009</keyword>
+		<keyword>secret service</keyword>
+		<keyword>driving to rome italy</keyword>
+		<keyword>reference to all previous james bond films to date</keyword>
+		<keyword>reference to orphaned child</keyword>
+		<keyword>top hat</keyword>
+		<keyword>walther ppk</keyword>
+		<keyword>profanity</keyword>
+		<keyword>reference to george orwell's 1984</keyword>
+		<keyword>tuxedo</keyword>
+		<keyword>professional killer</keyword>
+		<keyword>reference to mountain climbing accident</keyword>
+		<keyword>aston martin db5</keyword>
+		<keyword>fiat 500</keyword>
+		<keyword>right hand driving car</keyword>
+		<keyword>loss of wings</keyword>
+		<keyword>range rover</keyword>
+		<keyword>board of directors</keyword>
+		<keyword>multiple passports</keyword>
+		<keyword>radioactive poisoning</keyword>
+		<keyword>suicide by gun</keyword>
+		<keyword>reference to le chiffre character</keyword>
+		<keyword>tearing down a building</keyword>
+		<keyword>new building</keyword>
+		<keyword>rubble</keyword>
+		<keyword>veil</keyword>
+		<keyword>face paint</keyword>
+		<keyword>couch</keyword>
+		<keyword>flower</keyword>
+		<keyword>flower vendor</keyword>
+		<keyword>conference</keyword>
+		<keyword>english in mexico</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>briton in mexico</keyword>
+		<keyword>englishman in mexico</keyword>
+		<keyword>dance</keyword>
+		<keyword>dancer</keyword>
+		<keyword>flag</keyword>
+		<keyword>mexican flag</keyword>
+		<keyword>stage</keyword>
+		<keyword>pilot</keyword>
+		<keyword>public square</keyword>
+		<keyword>headlock</keyword>
+		<keyword>latina</keyword>
+		<keyword>hanging from a helicopter</keyword>
+		<keyword>bloodied hand</keyword>
+		<keyword>falling from a building</keyword>
+		<keyword>ejected without parachute</keyword>
+		<keyword>joystick</keyword>
+		<keyword>spying</keyword>
+		<keyword>overhearing a coversation</keyword>
+		<keyword>conference table</keyword>
+		<keyword>city view</keyword>
+		<keyword>cityscape</keyword>
+		<keyword>sweating</keyword>
+		<keyword>illegality</keyword>
+		<keyword>outlaw</keyword>
+		<keyword>inscription</keyword>
+		<keyword>double breasted suit</keyword>
+		<keyword>gate</keyword>
+		<keyword>black woman</keyword>
+		<keyword>flat</keyword>
+		<keyword>remote control</keyword>
+		<keyword>footage</keyword>
+		<keyword>television</keyword>
+		<keyword>flat screen television</keyword>
+		<keyword>former boss</keyword>
+		<keyword>boss</keyword>
+		<keyword>manager</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>african british</keyword>
+		<keyword>boulevard</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>watch</keyword>
+		<keyword>product placement</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>ferris wheel</keyword>
+		<keyword>thank you gift</keyword>
+		<keyword>champagne</keyword>
+		<keyword>cross</keyword>
+		<keyword>crucifix</keyword>
+		<keyword>priest</keyword>
+		<keyword>crucifix mounted on a wall</keyword>
+		<keyword>catholic church</keyword>
+		<keyword>villa</keyword>
+		<keyword>brunette woman</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>awaiting execution</keyword>
+		<keyword>kiss on the cheek</keyword>
+		<keyword>undressing a woman</keyword>
+		<keyword>driving at night</keyword>
+		<keyword>three piece suit</keyword>
+		<keyword>danger</keyword>
+		<keyword>grounded</keyword>
+		<keyword>horniness</keyword>
+		<keyword>secret meeting</keyword>
+		<keyword>gathering</keyword>
+		<keyword>fellowship</keyword>
+		<keyword>identity revealed</keyword>
+		<keyword>silhouette</keyword>
+		<keyword>black man</keyword>
+		<keyword>panel</keyword>
+		<keyword>multiracial gathering</keyword>
+		<keyword>beard</keyword>
+		<keyword>true identity revealed</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>cobblestone</keyword>
+		<keyword>racing at night</keyword>
+		<keyword>view in rearview mirror</keyword>
+		<keyword>airbag</keyword>
+		<keyword>rome at night</keyword>
+		<keyword>filmed at night</keyword>
+		<keyword>at night</keyword>
+		<keyword>mouse</keyword>
+		<keyword>corkboard</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>love making</keyword>
+		<keyword>wagon</keyword>
+		<keyword>q character</keyword>
+		<keyword>reference to mi5</keyword>
+		<keyword>italy</keyword>
+		<keyword>mexico</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>cobbled street</keyword>
+		<keyword>organization</keyword>
+		<keyword>skyfall</keyword>
+		<keyword>blofeld's cat</keyword>
+		<keyword>shaken not stirred</keyword>
+		<keyword>briton in italy</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>sweaty man</keyword>
+		<keyword>man wears a suit and tie</keyword>
+		<keyword>woman has sex while in mourning</keyword>
+		<keyword>woman in a bed</keyword>
+		<keyword>woman visits a man</keyword>
+		<keyword>italian woman</keyword>
+		<keyword>man wears a tuxedo</keyword>
+		<keyword>mexico city</keyword>
+		<keyword>blonde</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>briton</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>suv</keyword>
+		<keyword>propeller airplane</keyword>
+		<keyword>firearm</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>sport utility vehicle</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>propeller aircraft</keyword>
+		<keyword>handgun</keyword>
+		<keyword>view in sideview mirror</keyword>
+		<keyword>computer</keyword>
+		<keyword>propeller aeroplane</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>bald man</keyword>
+		<keyword>reference to the cia</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>mousehole</keyword>
+		<keyword>skull mask</keyword>
+		<keyword>building collapse</keyword>
+		<keyword>out of control vehicle</keyword>
+		<keyword>falling out of a helicopter</keyword>
+		<keyword>international incident</keyword>
+		<keyword>video message</keyword>
+		<keyword>national security</keyword>
+		<keyword>going rogue</keyword>
+		<keyword>secret organization</keyword>
+		<keyword>reference to the world health organization</keyword>
+		<keyword>ejector seat</keyword>
+		<keyword>vote</keyword>
+		<keyword>car crashing into a river</keyword>
+		<keyword>secret door</keyword>
+		<keyword>basement</keyword>
+		<keyword>thalium poisoning</keyword>
+		<keyword>human trafficking</keyword>
+		<keyword>mountaintop</keyword>
+		<keyword>health resort</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>wiretapping</keyword>
+		<keyword>reference to oxford university</keyword>
+		<keyword>reference to the sorbonne</keyword>
+		<keyword>reference to doctors without borders</keyword>
+		<keyword>tiber river</keyword>
+		<keyword>gondola lift</keyword>
+		<keyword>syringe</keyword>
+		<keyword>punching through a wall</keyword>
+		<keyword>vhs tape</keyword>
+		<keyword>video cassette</keyword>
+		<keyword>out of bullets</keyword>
+		<keyword>rope</keyword>
+		<keyword>beer keg</keyword>
+		<keyword>african desert</keyword>
+		<keyword>rolls royce car</keyword>
+		<keyword>meteorite</keyword>
+		<keyword>modernization</keyword>
+		<keyword>surveillance video</keyword>
+		<keyword>health clinic</keyword>
+		<keyword>facial scar</keyword>
+		<keyword>building demolition</keyword>
+		<keyword>time bomb detonation</keyword>
+		<keyword>net</keyword>
+		<keyword>death trap</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>austrian alps</keyword>
+		<keyword>helicopter stunt</keyword>
+		<keyword>person thought dead is alive</keyword>
+		<keyword>jaguar car</keyword>
+		<keyword>car stunt</keyword>
+		<keyword>morocco</keyword>
+		<keyword>hero villain relationship</keyword>
+		<keyword>spy action</keyword>
+		<keyword>globetrotting adventure</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>abduction</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>breaking through a wall</keyword>
+		<keyword>british agent</keyword>
+		<keyword>secret service agent</keyword>
+		<keyword>agent</keyword>
+		<keyword>man wears sunglasses</keyword>
+		<keyword>reflection in a rearview mirror</keyword>
+		<keyword>british</keyword>
+		<keyword>british spy</keyword>
+		<keyword>martini</keyword>
+		<keyword>silver dress</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>intelligence</keyword>
+		<keyword>costume</keyword>
+		<keyword>intelligence agent</keyword>
+		<keyword>intelligence agency</keyword>
+		<keyword>intelligence service</keyword>
+		<keyword>spy mission</keyword>
+		<keyword>twenty fourth part</keyword>
+		<keyword>weapon</keyword>
+		<keyword>007</keyword>
+		<keyword>tangier morocco</keyword>
+		<keyword>skeleton costume</keyword>
+		<keyword>colosseum</keyword>
+		<keyword>reference to george orwell</keyword>
+		<keyword>quartermaster</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>texting</keyword>
+		<keyword>car theft</keyword>
+	</keywords>
+	<directors>
+		<director> Sam Mendes</director>
+	</directors>
+	<composers>
+		<composer> Thomas Newman</composer>
+	</composers>
+	<producers>
+		<producer> Zakaria Alaoui</producer>
+		<producer> Barbara Broccoli</producer>
+		<producer> Daniel Craig</producer>
+		<producer> Roberto Malerba</producer>
+		<producer> Callum McDougall</producer>
+		<producer> Andrew Noakes</producer>
+		<producer> Stacy Perskie</producer>
+		<producer> David Pope</producer>
+		<producer> Wolfgang Ramml</producer>
+		<producer> Jayne-Ann Tenggren</producer>
+		<producer> Gregg Wilson</producer>
+		<producer> Michael G. Wilson</producer>
+	</producers>
+	<writers>
+		<writer> John Logan</writer>
+		<writer> Neal Purvis</writer>
+		<writer> Robert Wade</writer>
+		<writer> Jez Butterworth</writer>
+		<writer> John Logan</writer>
+		<writer> Neal Purvis</writer>
+		<writer> Robert Wade</writer>
+		<writer> Ian Fleming</writer>
+	</writers>
+	<editors>
+		<editor> Lee Smith</editor>
+	</editors>
+</doc>

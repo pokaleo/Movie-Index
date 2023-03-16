@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<doc id="tt1273235">
+	<docid>tt1273235</docid>
+	<title>A Serbian Film</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTU2NzI3OTk4M15BMl5BanBnXkFtZTcwMTEyNzIxNA@@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">104</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An aging porn star agrees to participate in an &quot;art film&quot; in order to make a clean break from the business, only to discover that he has been drafted into making a pedophilia and necrophilia themed snuff film.</plot>
+	<countries>
+		<country>Serbia</country>
+	</countries>
+	<languages>
+		<language>Serbian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Srdjan 'Zika' Todorovic</actor>
+			<role>Milos</role>
+		</credit>
+		<credit>
+			<actor>Sergej Trifunovic</actor>
+			<role>Vukmir</role>
+		</credit>
+		<credit>
+			<actor>Jelena Gavrilovic</actor>
+			<role>Marija</role>
+		</credit>
+		<credit>
+			<actor>Slobodan Bestic</actor>
+			<role>Marko</role>
+		</credit>
+		<credit>
+			<actor>Katarina Zutic</actor>
+			<role>Lejla</role>
+		</credit>
+		<credit>
+			<actor>Luka Mijatovic</actor>
+			<role>Stefan</role>
+		</credit>
+		<credit>
+			<actor>Ana Sakic</actor>
+			<role>Jecina majka</role>
+		</credit>
+		<credit>
+			<actor>Lena Bogdanovic</actor>
+			<role>Doktorka</role>
+		</credit>
+		<credit>
+			<actor>Miodrag Krcmarik</actor>
+			<role>Rasa</role>
+		</credit>
+		<credit>
+			<actor>Nenad Herakovic</actor>
+			<role>Cuvar 1</role>
+		</credit>
+		<credit>
+			<actor>Carni Djeric</actor>
+			<role>Cuvar 2</role>
+		</credit>
+		<credit>
+			<actor>Andela Nenadovic</actor>
+			<role>Jeca</role>
+		</credit>
+		<credit>
+			<actor>Tanja Divnic</actor>
+			<role>Vaspitacica</role>
+		</credit>
+		<credit>
+			<actor>Lidija Pletl</actor>
+			<role>Jecina baka</role>
+		</credit>
+		<credit>
+			<actor>Marina Savic</actor>
+			<role>Prostitutka</role>
+		</credit>
+		<credit>
+			<actor>Natasa Aksentijevic</actor>
+			<role>Porodilja</role>
+		</credit>
+		<credit>
+			<actor>Goran Macura</actor>
+			<role>Mangup 2</role>
+		</credit>
+		<credit>
+			<actor>Miss Mici</actor>
+			<role>Devojka u bazenu 1</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">January 6 2010</releasedate>
+		<releasedate country="United States">March 15 2010</releasedate>
+		<releasedate country="Belgium">April 16 2010</releasedate>
+		<releasedate country="Estonia">April 24 2010</releasedate>
+		<releasedate country="Philippines">June 16 2010</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Australia">RC</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Belgium">18</certificate>
+		<certificate country="Brazil">(Banned)</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Canada">R</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="China">(Banned)</certificate>
+		<certificate country="China">17</certificate>
+		<certificate country="Colombia">18</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Denmark">(Banned)</certificate>
+		<certificate country="Finland">K-18</certificate>
+		<certificate country="France">Unrated</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Germany">(Banned)</certificate>
+		<certificate country="Greece">A-18</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">21+</certificate>
+		<certificate country="Italy">VM18</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Japan">Unrated</certificate>
+		<certificate country="Kuwait">(Banned)</certificate>
+		<certificate country="Malaysia">(Banned)</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+R</certificate>
+		<certificate country="Mexico">D</certificate>
+		<certificate country="Netherlands">18</certificate>
+		<certificate country="New Zealand">Objectionable</certificate>
+		<certificate country="Norway">Banned</certificate>
+		<certificate country="Norway">18</certificate>
+		<certificate country="Philippines">(Banned)</certificate>
+		<certificate country="Philippines">R-18</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Portugal">M/18</certificate>
+		<certificate country="Romania">I.M.-18</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">(Banned)</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">(Banned)</certificate>
+		<certificate country="South Korea">19</certificate>
+		<certificate country="South Korea">Limited</certificate>
+		<certificate country="Spain">(Banned)</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">18</certificate>
+		<certificate country="Thailand">20</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">NC-17</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>incest rape</keyword>
+		<keyword>graphic violence</keyword>
+		<keyword>snuff film</keyword>
+		<keyword>depravity</keyword>
+		<keyword>rape of a child</keyword>
+		<keyword>controversy</keyword>
+		<keyword>sexual violence</keyword>
+		<keyword>sexual cruelty</keyword>
+		<keyword>child abuse</keyword>
+		<keyword>necrophilia</keyword>
+		<keyword>sexual torture</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>suicide</keyword>
+		<keyword>camera crew</keyword>
+		<keyword>pornography director</keyword>
+		<keyword>rape</keyword>
+		<keyword>anal rape</keyword>
+		<keyword>forced sexual contact</keyword>
+		<keyword>oral sex</keyword>
+		<keyword>extreme sexual content</keyword>
+		<keyword>film within a film</keyword>
+		<keyword>transgressive film</keyword>
+		<keyword>rape and revenge</keyword>
+		<keyword>perversity</keyword>
+		<keyword>brutality</keyword>
+		<keyword>dead child</keyword>
+		<keyword>semen</keyword>
+		<keyword>shooting</keyword>
+		<keyword>pornographer</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>sexual sadism</keyword>
+		<keyword>bondage</keyword>
+		<keyword>corruption</keyword>
+		<keyword>threat</keyword>
+		<keyword>underground</keyword>
+		<keyword>desperation</keyword>
+		<keyword>painful sex</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>rough sex</keyword>
+		<keyword>underground pornography</keyword>
+		<keyword>sex with a minor</keyword>
+		<keyword>sex with the dead</keyword>
+		<keyword>homosexual rape</keyword>
+		<keyword>fellatio</keyword>
+		<keyword>ejaculation</keyword>
+		<keyword>evil man</keyword>
+		<keyword>perversion</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>handcuffed to a bed</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>pedophilia</keyword>
+		<keyword>child pornography</keyword>
+		<keyword>extreme film</keyword>
+		<keyword>porn performer</keyword>
+		<keyword>beheaded</keyword>
+		<keyword>tooth extraction</keyword>
+		<keyword>asphyxiation by fellatio</keyword>
+		<keyword>choking</keyword>
+		<keyword>crying</keyword>
+		<keyword>decadence</keyword>
+		<keyword>watching a video</keyword>
+		<keyword>deviant sex</keyword>
+		<keyword>pervert</keyword>
+		<keyword>masked killer</keyword>
+		<keyword>degradation</keyword>
+		<keyword>fight</keyword>
+		<keyword>sexual abuse</keyword>
+		<keyword>meta film</keyword>
+		<keyword>film crew</keyword>
+		<keyword>con artist</keyword>
+		<keyword>drugged drink</keyword>
+		<keyword>watching pornography</keyword>
+		<keyword>porn director</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>sadism</keyword>
+		<keyword>driven insane</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>gore</keyword>
+		<keyword>murder</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>psychological torment</keyword>
+		<keyword>abduction</keyword>
+		<keyword>masturbation</keyword>
+		<keyword>erection</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>snuff video</keyword>
+		<keyword>torture</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>male full frontal nudity</keyword>
+		<keyword>antisocial personality disorder</keyword>
+		<keyword>murder of a nude woman</keyword>
+		<keyword>suffering</keyword>
+		<keyword>deception</keyword>
+		<keyword>caught watching porn</keyword>
+		<keyword>clothes ripping</keyword>
+		<keyword>decapitated during sex</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>fornication</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>pornography performer</keyword>
+		<keyword>fear</keyword>
+		<keyword>drug injection</keyword>
+		<keyword>marriage</keyword>
+		<keyword>metaphor</keyword>
+		<keyword>masked man</keyword>
+		<keyword>mysterious man</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>gun</keyword>
+		<keyword>underworld</keyword>
+		<keyword>money</keyword>
+		<keyword>dead girl</keyword>
+		<keyword>claustrophobia</keyword>
+		<keyword>mirror</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>obsession</keyword>
+		<keyword>mask</keyword>
+		<keyword>bar</keyword>
+		<keyword>nervous breakdown</keyword>
+		<keyword>shower</keyword>
+		<keyword>pretension</keyword>
+		<keyword>flashback</keyword>
+		<keyword>secret</keyword>
+		<keyword>darkness</keyword>
+		<keyword>video camera</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>sodomy</keyword>
+		<keyword>one eyed man</keyword>
+		<keyword>impalement</keyword>
+		<keyword>impaled through the head</keyword>
+		<keyword>gay rape</keyword>
+		<keyword>bitten in the neck</keyword>
+		<keyword>asphyxiation</keyword>
+		<keyword>oral rape</keyword>
+		<keyword>sicko</keyword>
+		<keyword>insanity</keyword>
+		<keyword>mutilation</keyword>
+		<keyword>fetishism</keyword>
+		<keyword>victim</keyword>
+		<keyword>mistreatment</keyword>
+		<keyword>evil</keyword>
+		<keyword>atrocity</keyword>
+		<keyword>sexual perversion</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>psychological torture</keyword>
+		<keyword>macabre</keyword>
+		<keyword>tortured to death</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>machete</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>childbirth</keyword>
+		<keyword>independent film</keyword>
+		<keyword>panties pulled down</keyword>
+		<keyword>woman tied to a bed nude</keyword>
+		<keyword>rape of a baby</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>sleaze</keyword>
+		<keyword>brainwashing</keyword>
+		<keyword>masochist</keyword>
+		<keyword>sadomasochism</keyword>
+		<keyword>eye socket</keyword>
+		<keyword>newborn baby</keyword>
+		<keyword>newborn</keyword>
+		<keyword>death in childbirth</keyword>
+		<keyword>s&amp;m</keyword>
+		<keyword>bruised face</keyword>
+		<keyword>doggy style sex</keyword>
+		<keyword>adult slaps child</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>crotch grab</keyword>
+		<keyword>spanking during sex</keyword>
+		<keyword>suspended by arms</keyword>
+		<keyword>kicked over and over</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>serbian horror</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>choking to death</keyword>
+		<keyword>unhappy ending</keyword>
+		<keyword>ends with death</keyword>
+		<keyword>masochism</keyword>
+		<keyword>gibberish</keyword>
+		<keyword>pain</keyword>
+		<keyword>sadist</keyword>
+		<keyword>balloon</keyword>
+		<keyword>vagina</keyword>
+	</keywords>
+	<directors>
+		<director> Srdjan Spasojevic</director>
+	</directors>
+	<composers>
+		<composer> Sky Wikluh</composer>
+	</composers>
+	<producers>
+		<producer> Nikola Pantelic</producer>
+		<producer> Srdjan Spasojevic</producer>
+		<producer> Dragoljub Vojnov</producer>
+	</producers>
+	<writers>
+		<writer> Aleksandar Radivojevic</writer>
+		<writer> Srdjan Spasojevic</writer>
+	</writers>
+	<editors>
+		<editor> Darko Simic</editor>
+	</editors>
+</doc>

@@ -1,0 +1,593 @@
+<?xml version="1.0" ?>
+<doc id="tt7097896">
+	<docid>tt7097896</docid>
+	<title>Venom: Let There Be Carnage</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Hardy</actor>
+			<role>Eddie Brock</role>
+		</credit>
+		<credit>
+			<actor>Woody Harrelson</actor>
+			<role>Cletus Kasady</role>
+		</credit>
+		<credit>
+			<actor>Michelle Williams</actor>
+			<role>Anne Weying</role>
+		</credit>
+		<credit>
+			<actor>Naomie Harris</actor>
+			<role>Frances Barrison</role>
+		</credit>
+		<credit>
+			<actor>Reid Scott</actor>
+			<role>Dr. Dan Lewis</role>
+		</credit>
+		<credit>
+			<actor>Stephen Graham</actor>
+			<role>Detective Mulligan</role>
+		</credit>
+		<credit>
+			<actor>Peggy Lu</actor>
+			<role>Mrs. Chen</role>
+		</credit>
+		<credit>
+			<actor>Sian Webber</actor>
+			<role>Dr. Pazzo</role>
+		</credit>
+		<credit>
+			<actor>Michelle Greenidge</actor>
+			<role>Mugging Victim</role>
+		</credit>
+		<credit>
+			<actor>Rob Bowen</actor>
+			<role>Beaten Mugger</role>
+		</credit>
+		<credit>
+			<actor>Laurence Spellman</actor>
+			<role>Psycho Patient</role>
+		</credit>
+		<credit>
+			<actor>Little Simz</actor>
+			<role>Little Simz</role>
+		</credit>
+		<credit>
+			<actor>Jack Bandeira</actor>
+			<role>Young Cletus</role>
+		</credit>
+		<credit>
+			<actor>Olumide Olorunfemi</actor>
+			<role>Young Shriek</role>
+		</credit>
+		<credit>
+			<actor>Scroobius Pip</actor>
+			<role>Siegfried</role>
+		</credit>
+		<credit>
+			<actor>Amrou Al-Kadhi</actor>
+			<role>Host Two</role>
+		</credit>
+		<credit>
+			<actor>Beau Sargent</actor>
+			<role>Host Three</role>
+		</credit>
+		<credit>
+			<actor>Brian Copeland</actor>
+			<role>Rodeo Beach Reporter</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">September 14 2021</releasedate>
+		<releasedate country="Georgia">September 30 2021</releasedate>
+		<releasedate country="Kazakhstan">September 30 2021</releasedate>
+		<releasedate country="Russia">September 30 2021</releasedate>
+		<releasedate country="Canada">October 1 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">Sin Calificación</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">R13+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Saudi Arabia">PG12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">u 13+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on comic</keyword>
+		<keyword>superhero</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>sequel</keyword>
+		<keyword>second part</keyword>
+		<keyword>venom character</keyword>
+		<keyword>carnage character</keyword>
+		<keyword>villain</keyword>
+		<keyword>alien</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>cletus kasady character</keyword>
+		<keyword>redhead</keyword>
+		<keyword>evil redhead</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>interview</keyword>
+		<keyword>escape</keyword>
+		<keyword>mexico</keyword>
+		<keyword>maniac</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>alien monster</keyword>
+		<keyword>creature</keyword>
+		<keyword>monster</keyword>
+		<keyword>super villain</keyword>
+		<keyword>evil</keyword>
+		<keyword>journalist</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>golden gate bridge</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>california</keyword>
+		<keyword>beach</keyword>
+		<keyword>hotel</keyword>
+		<keyword>bar</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>revenge</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hero</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>eddie brock character</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>symbiote</keyword>
+		<keyword>alien symbiote</keyword>
+		<keyword>sony spiderverse</keyword>
+		<keyword>sequel to spin off</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>written by star</keyword>
+		<keyword>prison</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>failed execution</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>evil man</keyword>
+		<keyword>evil woman</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>news report</keyword>
+		<keyword>j. jonah jameson character</keyword>
+		<keyword>spider man character</keyword>
+		<keyword>death of villain</keyword>
+		<keyword>san quentin</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>telenovela</keyword>
+		<keyword>iguana</keyword>
+		<keyword>gay subtext</keyword>
+		<keyword>homoeroticism</keyword>
+		<keyword>homoerotic</keyword>
+		<keyword>mexican beach</keyword>
+		<keyword>mexican</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>alley</keyword>
+		<keyword>2020s</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>chicken</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>one man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>product placement</keyword>
+		<keyword>screaming</keyword>
+		<keyword>alien parasite</keyword>
+		<keyword>parasite</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>body snatching</keyword>
+		<keyword>rampage</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>supersonic scream</keyword>
+		<keyword>criminal</keyword>
+		<keyword>human monster</keyword>
+		<keyword>showdown</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>prologue</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>year 1996</keyword>
+		<keyword>1990s</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>flashback</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>reference to pablo picasso</keyword>
+		<keyword>reference to harry houdini</keyword>
+		<keyword>reference to sonny and cher</keyword>
+		<keyword>investigative journalist</keyword>
+		<keyword>news reporter</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>animated sequence</keyword>
+		<keyword>drawing</keyword>
+		<keyword>chinese woman</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>gas station</keyword>
+		<keyword>sports car</keyword>
+		<keyword>car theft</keyword>
+		<keyword>apartment</keyword>
+		<keyword>blender</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>camp</keyword>
+		<keyword>psychiatric hospital</keyword>
+		<keyword>orphanage</keyword>
+		<keyword>fire</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>blowtorch</keyword>
+		<keyword>jackhammer</keyword>
+		<keyword>church</keyword>
+		<keyword>priest</keyword>
+		<keyword>wedding</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sadism</keyword>
+		<keyword>female psychopath</keyword>
+		<keyword>female sociopath</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>engagement ring</keyword>
+		<keyword>ex boyfriend ex girlfriend relationship</keyword>
+		<keyword>old flame</keyword>
+		<keyword>fiance fiancee relationship</keyword>
+		<keyword>party</keyword>
+		<keyword>rave</keyword>
+		<keyword>cameo</keyword>
+		<keyword>eyes different color</keyword>
+		<keyword>dreadlocks</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>sole black character dies cliche</keyword>
+		<keyword>villainess</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>transformation</keyword>
+		<keyword>gothic</keyword>
+		<keyword>love interest</keyword>
+		<keyword>anger</keyword>
+		<keyword>deeply disturbed person</keyword>
+		<keyword>dark past</keyword>
+		<keyword>secret</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>police</keyword>
+		<keyword>police car</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police officer killed</keyword>
+		<keyword>police station</keyword>
+		<keyword>police detective</keyword>
+		<keyword>detective</keyword>
+		<keyword>bitten in the finger</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>escaped prisoner</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>mutation</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>prison warden</keyword>
+		<keyword>insanity</keyword>
+		<keyword>corpse</keyword>
+		<keyword>massacre</keyword>
+		<keyword>hanging upside down</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>jumping from a rooftop</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>helmet</keyword>
+		<keyword>bell tower</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>profanity</keyword>
+		<keyword>head bitten off</keyword>
+		<keyword>execution</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>death row</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>public execution</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>ambush</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>urban gothic</keyword>
+		<keyword>body in a trunk</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>female lawyer</keyword>
+		<keyword>singing</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>buried alive</keyword>
+		<keyword>toilet</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>car chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>tentacle</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>van</keyword>
+		<keyword>letter</keyword>
+		<keyword>spider</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>explosion</keyword>
+		<keyword>beard</keyword>
+		<keyword>one liner</keyword>
+		<keyword>manhunt</keyword>
+		<keyword>darkness</keyword>
+		<keyword>impalement</keyword>
+		<keyword>knife</keyword>
+		<keyword>shot in the eye</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>fight</keyword>
+		<keyword>photograph</keyword>
+		<keyword>coffin</keyword>
+		<keyword>palm tree</keyword>
+		<keyword>cathedral</keyword>
+		<keyword>carving</keyword>
+		<keyword>long tongue</keyword>
+		<keyword>tooth knocked out</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>car falling off a bridge</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>lifting someone into the air</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>love</keyword>
+		<keyword>mutant</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>alien shapeshifter</keyword>
+		<keyword>five word title</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>reform school</keyword>
+		<keyword>argument</keyword>
+		<keyword>sonic scream</keyword>
+		<keyword>lights out</keyword>
+		<keyword>ability to manipulate sound</keyword>
+		<keyword>san quentin prison</keyword>
+		<keyword>death row convict</keyword>
+		<keyword>public toilet</keyword>
+		<keyword>wearing a motorcycle helmet</keyword>
+		<keyword>interviewee</keyword>
+		<keyword>interviewer</keyword>
+		<keyword>character says awkward</keyword>
+		<keyword>talking monster</keyword>
+		<keyword>biting someone</keyword>
+		<keyword>ex fiancee</keyword>
+		<keyword>character says congratulations</keyword>
+		<keyword>reading a letter</keyword>
+		<keyword>character says excuse me</keyword>
+		<keyword>biting someone's hand</keyword>
+		<keyword>jail visit</keyword>
+		<keyword>visiting a prisoner</keyword>
+		<keyword>chase</keyword>
+		<keyword>timeframe 1990s</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>shriek character</keyword>
+		<keyword>prison visit</keyword>
+		<keyword>reference to area 51</keyword>
+		<keyword>reference to barry manilow</keyword>
+		<keyword>tv news</keyword>
+		<keyword>flattery</keyword>
+		<keyword>reference to the internet</keyword>
+		<keyword>reading a newspaper</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>police van</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>gun</keyword>
+		<keyword>animal</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>bird</keyword>
+		<keyword>weapon</keyword>
+		<keyword>handgun</keyword>
+		<keyword>firearm</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>male serial killer</keyword>
+		<keyword>extraterrestrial creature</keyword>
+		<keyword>night</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>jewelry</keyword>
+		<keyword>dwelling</keyword>
+		<keyword>execution by lethal injection</keyword>
+		<keyword>north america</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>mobile telephone</keyword>
+		<keyword>male police detective</keyword>
+		<keyword>computer</keyword>
+		<keyword>lavatory</keyword>
+		<keyword>car</keyword>
+		<keyword>toilet stall</keyword>
+		<keyword>male prison warden</keyword>
+		<keyword>city</keyword>
+		<keyword>air to surface attack</keyword>
+		<keyword>audi motor vehicle</keyword>
+		<keyword>public lavatory</keyword>
+		<keyword>male detective</keyword>
+		<keyword>exploding aircraft</keyword>
+		<keyword>sonic attack</keyword>
+		<keyword>bridge</keyword>
+		<keyword>male prison guard</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>grand theft auto</keyword>
+		<keyword>stealing a vehicle</keyword>
+		<keyword>hand tool</keyword>
+		<keyword>ring</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>deceased</keyword>
+		<keyword>superhero horror</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>british actress playing american character</keyword>
+		<keyword>woman with long hair</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>marvel entertainment</keyword>
+		<keyword>letter writing</keyword>
+		<keyword>audi</keyword>
+		<keyword>bmw</keyword>
+		<keyword>cadillac automobile</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>dodge the car</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>ford mustang</keyword>
+		<keyword>ford crown victoria</keyword>
+		<keyword>honda</keyword>
+		<keyword>kia</keyword>
+		<keyword>mazda</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>nissan</keyword>
+		<keyword>toyota</keyword>
+		<keyword>toyota camry</keyword>
+		<keyword>volkswagen</keyword>
+		<keyword>man</keyword>
+		<keyword>woman</keyword>
+		<keyword>u.s. car</keyword>
+		<keyword>convertible</keyword>
+		<keyword>convertible car</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford motor vehicle</keyword>
+		<keyword>ford car</keyword>
+		<keyword>ford convertible</keyword>
+		<keyword>ford mustang convertible</keyword>
+		<keyword>strong language</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Andy Serkis</director>
+	</directors>
+	<composers>
+		<composer> Marco Beltrami</composer>
+	</composers>
+	<producers>
+		<producer> Avi Arad</producer>
+		<producer> Jonathan Cavendish</producer>
+		<producer> Ruben Fleischer</producer>
+		<producer> Tom Hardy</producer>
+		<producer> Barrie Hemsley</producer>
+		<producer> K.C. Hodenfield</producer>
+		<producer> Caroline Levy</producer>
+		<producer> Kelly Marcel</producer>
+		<producer> Angus More Gordon</producer>
+		<producer> Hutch Parker</producer>
+		<producer> Amy Pascal</producer>
+		<producer> Matt Tolmach</producer>
+		<producer> Barry H. Waldman</producer>
+	</producers>
+	<writers>
+		<writer> Kelly Marcel</writer>
+		<writer> Tom Hardy</writer>
+		<writer> Kelly Marcel</writer>
+	</writers>
+	<editors>
+		<editor> Maryann Brandon</editor>
+		<editor> Stan Salfas</editor>
+	</editors>
+</doc>

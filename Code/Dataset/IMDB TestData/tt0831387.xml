@@ -1,0 +1,559 @@
+<?xml version="1.0" ?>
+<doc id="tt0831387">
+	<docid>tt0831387</docid>
+	<title>Godzilla</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDFmYTM4NzAtNWM0ZC00MGJlLWEyYzQtYzA3ZTFiNzc1YjllXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">123</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Aaron Taylor-Johnson</actor>
+			<role>Ford Brody</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Olsen</actor>
+			<role>Elle Brody</role>
+		</credit>
+		<credit>
+			<actor>Bryan Cranston</actor>
+			<role>Joe Brody</role>
+		</credit>
+		<credit>
+			<actor>Ken Watanabe</actor>
+			<role>Dr. Ishiro Serizawa</role>
+		</credit>
+		<credit>
+			<actor>CJ Adams</actor>
+			<role>Young Ford</role>
+		</credit>
+		<credit>
+			<actor>Carson Bolde</actor>
+			<role>Sam Brody</role>
+		</credit>
+		<credit>
+			<actor>Sally Hawkins</actor>
+			<role>Vivienne Graham</role>
+		</credit>
+		<credit>
+			<actor>Juliette Binoche</actor>
+			<role>Sandra Brody</role>
+		</credit>
+		<credit>
+			<actor>David Strathairn</actor>
+			<role>Admiral William Stenz</role>
+		</credit>
+		<credit>
+			<actor>Richard T. Jones</actor>
+			<role>Captain Russell Hampton</role>
+		</credit>
+		<credit>
+			<actor>Victor Rasuk</actor>
+			<role>Sergeant Tre Morales</role>
+		</credit>
+		<credit>
+			<actor>Patrick Sabongui</actor>
+			<role>Lieutenant Commander Marcus Waltz</role>
+		</credit>
+		<credit>
+			<actor>Jared Keeso</actor>
+			<role>Jump Master</role>
+		</credit>
+		<credit>
+			<actor>Luc Roderique</actor>
+			<role>Bomb Tracker</role>
+		</credit>
+		<credit>
+			<actor>James Pizzinato</actor>
+			<role>HALO Jumper</role>
+		</credit>
+		<credit>
+			<actor>Catherine Lough Haggquist</actor>
+			<role>PO #1 Martinez</role>
+		</credit>
+		<credit>
+			<actor>Eric Keenleyside</actor>
+			<role>Boyd</role>
+		</credit>
+		<credit>
+			<actor>Primo Allon</actor>
+			<role>Mine Team Member</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">May 8 2014</releasedate>
+		<releasedate country="Argentina">May 14 2014</releasedate>
+		<releasedate country="Belgium">May 14 2014</releasedate>
+		<releasedate country="Switzerland">May 14 2014</releasedate>
+		<releasedate country="Egypt">May 14 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">13+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">R</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">Not Rated</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>godzilla</keyword>
+		<keyword>radiation</keyword>
+		<keyword>atomic breath</keyword>
+		<keyword>halo parachute jump</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>u.s. navy</keyword>
+		<keyword>hawaii</keyword>
+		<keyword>destruction of city</keyword>
+		<keyword>professor</keyword>
+		<keyword>combat</keyword>
+		<keyword>monster versus monster</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>nuclear power plant</keyword>
+		<keyword>creature</keyword>
+		<keyword>japan</keyword>
+		<keyword>tsunami</keyword>
+		<keyword>disaster</keyword>
+		<keyword>monsterverse</keyword>
+		<keyword>godzilla character</keyword>
+		<keyword>nuclear</keyword>
+		<keyword>engineer</keyword>
+		<keyword>nevada</keyword>
+		<keyword>ocean</keyword>
+		<keyword>monster</keyword>
+		<keyword>apex predator</keyword>
+		<keyword>flying monster</keyword>
+		<keyword>m1 abrams tank</keyword>
+		<keyword>devastation</keyword>
+		<keyword>cvn 88 uss saratoga</keyword>
+		<keyword>medivac</keyword>
+		<keyword>commuter train</keyword>
+		<keyword>creature attack</keyword>
+		<keyword>railroad bridge</keyword>
+		<keyword>sea monster</keyword>
+		<keyword>humanity in peril</keyword>
+		<keyword>final battle</keyword>
+		<keyword>japanese scientist</keyword>
+		<keyword>quarantine zone</keyword>
+		<keyword>zip disk</keyword>
+		<keyword>zip drive</keyword>
+		<keyword>pocket watch</keyword>
+		<keyword>nest</keyword>
+		<keyword>conspiracy theorist</keyword>
+		<keyword>crater</keyword>
+		<keyword>floppy disk</keyword>
+		<keyword>bus driver</keyword>
+		<keyword>school bus</keyword>
+		<keyword>ghost town</keyword>
+		<keyword>aircraft carrier</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>stadium</keyword>
+		<keyword>military</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>bridge</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>chaos</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>mushroom cloud</keyword>
+		<keyword>nuclear bomb</keyword>
+		<keyword>bomb disposal</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>rampage</keyword>
+		<keyword>power station</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>tidal wave</keyword>
+		<keyword>submarine</keyword>
+		<keyword>tank</keyword>
+		<keyword>scientist</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>golden gate bridge</keyword>
+		<keyword>honolulu hawaii</keyword>
+		<keyword>echolocation</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>night vision</keyword>
+		<keyword>disaster film</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>lieutenant</keyword>
+		<keyword>birthday</keyword>
+		<keyword>hazmat suit</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>tokyo japan</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>philippines</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>nuclear explosion</keyword>
+		<keyword>winged creature</keyword>
+		<keyword>fossil</keyword>
+		<keyword>diskette</keyword>
+		<keyword>nuclear leak</keyword>
+		<keyword>bomb defusal</keyword>
+		<keyword>bomb</keyword>
+		<keyword>nuclear reactor</keyword>
+		<keyword>pulse</keyword>
+		<keyword>skydiving</keyword>
+		<keyword>mating</keyword>
+		<keyword>warhead</keyword>
+		<keyword>railway</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>chopper</keyword>
+		<keyword>battleship</keyword>
+		<keyword>radioactive</keyword>
+		<keyword>destruction</keyword>
+		<keyword>soldier</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>death of father</keyword>
+		<keyword>monstrous creature</keyword>
+		<keyword>operation monarch</keyword>
+		<keyword>sea creature</keyword>
+		<keyword>giant</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>male soldier</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>bipedal monster</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>remake</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>animal character name as title</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>canine</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>reboot of series</keyword>
+		<keyword>abandoned city</keyword>
+		<keyword>remake of cult favorite</keyword>
+		<keyword>remake of asian film</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>ham radio</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>cult film</keyword>
+		<keyword>beach</keyword>
+		<keyword>monster fight</keyword>
+		<keyword>monster movie</keyword>
+		<keyword>suspense</keyword>
+		<keyword>amateur radio</keyword>
+		<keyword>mission</keyword>
+		<keyword>sea</keyword>
+		<keyword>water</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>secret government organization</keyword>
+		<keyword>sonar</keyword>
+		<keyword>two way mirror</keyword>
+		<keyword>drawing</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>armored car</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>train derailment</keyword>
+		<keyword>airplane</keyword>
+		<keyword>photograph</keyword>
+		<keyword>cargo plane</keyword>
+		<keyword>panic</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>abandoned power plant</keyword>
+		<keyword>helicopter pilot</keyword>
+		<keyword>violence</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>escape</keyword>
+		<keyword>widower</keyword>
+		<keyword>loss of wife</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>body bag</keyword>
+		<keyword>prologue</keyword>
+		<keyword>little boy</keyword>
+		<keyword>paramedic</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>nuclear weapons</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>woman wears a gas mask</keyword>
+		<keyword>reboot</keyword>
+		<keyword>naval warship</keyword>
+		<keyword>night</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>male lieutenant</keyword>
+		<keyword>military vehicle</keyword>
+		<keyword>firearm</keyword>
+		<keyword>animal</keyword>
+		<keyword>waterborne ship</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>monster attack</keyword>
+		<keyword>city</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>u.s.s. saratoga</keyword>
+		<keyword>tandem rotor helicopter</keyword>
+		<keyword>gun</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>battle tank</keyword>
+		<keyword>suspension bridge</keyword>
+		<keyword>car</keyword>
+		<keyword>sea vessel</keyword>
+		<keyword>emergency response vehicle</keyword>
+		<keyword>original story</keyword>
+		<keyword>reference to gareth edwards</keyword>
+		<keyword>female antagonist</keyword>
+		<keyword>mammal</keyword>
+		<keyword>adult son</keyword>
+		<keyword>furry</keyword>
+		<keyword>giant monster sci fi</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>disaster action</keyword>
+		<keyword>3d</keyword>
+		<keyword>quarantine</keyword>
+		<keyword>warship</keyword>
+		<keyword>ship</keyword>
+		<keyword>weapon</keyword>
+		<keyword>automatic weapon</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>death</keyword>
+		<keyword>winged monster</keyword>
+		<keyword>human versus monster</keyword>
+		<keyword>humvee</keyword>
+		<keyword>lockheed martin boeing f 22 raptor</keyword>
+		<keyword>pilot bails out</keyword>
+		<keyword>oakland california</keyword>
+		<keyword>ch 47 chinook helicopter</keyword>
+		<keyword>traffic jam</keyword>
+		<keyword>m35 two and a half ton cargo truck</keyword>
+		<keyword>c 17 globemaster</keyword>
+		<keyword>uh 1 huey helicopter</keyword>
+		<keyword>f 18 hornet</keyword>
+		<keyword>chameleon</keyword>
+		<keyword>sikorsky sh 60 seahawk</keyword>
+		<keyword>cockroach</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>building collapse</keyword>
+		<keyword>centipede</keyword>
+		<keyword>running for one's life</keyword>
+		<keyword>some scenes in black and white</keyword>
+		<keyword>boxer dog</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>train station</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>fireball</keyword>
+		<keyword>cave</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>commando</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>broken jaw</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>epic</keyword>
+		<keyword>battle</keyword>
+		<keyword>product placement</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>survival</keyword>
+		<keyword>broken leg</keyword>
+		<keyword>sniper</keyword>
+		<keyword>quarry</keyword>
+		<keyword>race against time</keyword>
+		<keyword>chinatown</keyword>
+		<keyword>bridge collapse</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>missile</keyword>
+		<keyword>parachute</keyword>
+		<keyword>jumping from an airplane</keyword>
+		<keyword>giant wave</keyword>
+		<keyword>fishing boat</keyword>
+		<keyword>desert</keyword>
+		<keyword>stopwatch</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>rescue</keyword>
+		<keyword>axe</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>dog</keyword>
+		<keyword>geiger counter</keyword>
+		<keyword>flood</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>japanese</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>jungle</keyword>
+		<keyword>california</keyword>
+		<keyword>arrest</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>severed head</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>blockade</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>special forces</keyword>
+		<keyword>flare</keyword>
+		<keyword>earthquake</keyword>
+		<keyword>fire</keyword>
+		<keyword>gas explosion</keyword>
+		<keyword>power outage</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>el train</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding boat</keyword>
+		<keyword>dinosaur</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>cover up</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>police station</keyword>
+		<keyword>bitten in the neck</keyword>
+		<keyword>corpse</keyword>
+		<keyword>sergeant</keyword>
+		<keyword>head ripped off</keyword>
+		<keyword>fire breathing</keyword>
+		<keyword>news report</keyword>
+		<keyword>rain</keyword>
+		<keyword>nurse</keyword>
+		<keyword>hospital</keyword>
+		<keyword>egg</keyword>
+		<keyword>nuclear weapon</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>las vegas nevada</keyword>
+		<keyword>drowning</keyword>
+		<keyword>airport</keyword>
+		<keyword>train</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>explosion</keyword>
+		<keyword>admiral</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>golden gate</keyword>
+		<keyword>transamerica pyramid</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>1990s</keyword>
+		<keyword>2010s</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>subaru forester</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>one word title</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>parasite</keyword>
+		<keyword>year 2014</keyword>
+		<keyword>year 1999</keyword>
+		<keyword>monorail</keyword>
+		<keyword>remake of japanese film</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Gareth Edwards</director>
+	</directors>
+	<composers>
+		<composer> Alexandre Desplat</composer>
+	</composers>
+	<producers>
+		<producer> Yoshimitsu Banno</producer>
+		<producer> Martin Cohen</producer>
+		<producer> Bob Ducsay</producer>
+		<producer> Alex Garcia</producer>
+		<producer> Jon Jashni</producer>
+		<producer> Kenji Okuhira</producer>
+		<producer> Mary Parent</producer>
+		<producer> Brian Rogers</producer>
+		<producer> Jim Rowe</producer>
+		<producer> Leeann Stonebreaker</producer>
+		<producer> Shannon Triplett</producer>
+		<producer> Thomas Tull</producer>
+		<producer> Patricia Whitcher</producer>
+	</producers>
+	<writers>
+		<writer> Ishirô Honda</writer>
+		<writer> Takeo Murata</writer>
+		<writer> Shigeru Kayama</writer>
+		<writer> Dave Callaham</writer>
+		<writer> Max Borenstein</writer>
+		<writer> Frank Darabont</writer>
+		<writer> David S. Goyer</writer>
+	</writers>
+	<editors>
+		<editor> Bob Ducsay</editor>
+	</editors>
+</doc>

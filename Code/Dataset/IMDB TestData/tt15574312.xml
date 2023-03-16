@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<doc id="tt15574312">
+	<docid>tt15574312</docid>
+	<title>The Patient</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDA4MzE3NGItNTk0Yi00OTYyLWFmOWQtYjc2NjlhOTAzN2RlXkEyXkFqcGdeQXVyMTgxNDgxOQ@@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">300</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A psychotherapist finds himself held prisoner by a serial killer who demands he help him curb his homicidal urges.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Steve Carell</actor>
+			<role>Alan Strauss</role>
+		</credit>
+		<credit>
+			<actor>Domhnall Gleeson</actor>
+			<role>Sam Fortner</role>
+		</credit>
+		<credit>
+			<actor>Laura Niemi</actor>
+			<role>Beth Strauss</role>
+		</credit>
+		<credit>
+			<actor>Andrew Leeds</actor>
+			<role>Ezra Strauss</role>
+		</credit>
+		<credit>
+			<actor>Linda Emond</actor>
+			<role>Candace Fortner</role>
+		</credit>
+		<credit>
+			<actor>Amy Handelman</actor>
+			<role>Chava</role>
+		</credit>
+		<credit>
+			<actor>Alex Rich</actor>
+			<role>Elias</role>
+		</credit>
+		<credit>
+			<actor>Renata Friedman</actor>
+			<role>Shoshana Cohen</role>
+		</credit>
+		<credit>
+			<actor>David Alan Grier</actor>
+			<role>Charlie Addison</role>
+		</credit>
+		<credit>
+			<actor>Luke Patrick Dodge</actor>
+			<role>Menachem Strauss</role>
+		</credit>
+		<credit>
+			<actor>Paxton Booth</actor>
+			<role>Dov Strauss</role>
+		</credit>
+		<credit>
+			<actor>Alan Blumenfeld</actor>
+			<role>Chaim Benjamin</role>
+		</credit>
+		<credit>
+			<actor>Jake Broder</actor>
+			<role>Rebbe</role>
+		</credit>
+		<credit>
+			<actor>Josh Covitt</actor>
+			<role>Tom Cohen</role>
+		</credit>
+		<credit>
+			<actor>Levi Allen</actor>
+			<role>(Aiden (Shoshana Child #2)</role>
+		</credit>
+		<credit>
+			<actor>Lila Karp-Ziring</actor>
+			<role>Lindsey Cohen</role>
+		</credit>
+		<credit>
+			<actor>Lee Bachrach</actor>
+			<role>Yudit (Ezra Child #3)</role>
+		</credit>
+		<credit>
+			<actor>Emily Davis</actor>
+			<role>Mary</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">2022</releasedate>
+		<releasedate country="Japan">2022</releasedate>
+		<releasedate country="Japan">2022</releasedate>
+		<releasedate country="Mexico">2022</releasedate>
+		<releasedate country="Mexico">2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Thailand">15+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>serial killer</keyword>
+		<keyword>psychological drama</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>fx</keyword>
+		<keyword>murder</keyword>
+		<keyword>secret</keyword>
+		<keyword>violence</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>hulu</keyword>
+	</keywords>
+	<directors>
+		<director> Chris Long</director>
+		<director> Kevin Bray</director>
+		<director> Gwyneth Horder-Payton</director>
+	</directors>
+	<composers>
+		<composer> Nathan Barr</composer>
+		<composer> Justin Caine Burnett</composer>
+	</composers>
+	<producers>
+		<producer> Steve Carell</producer>
+		<producer> Joel Fields</producer>
+		<producer> Victor Hsu</producer>
+		<producer> Chris Long</producer>
+		<producer> Michael Maccarone</producer>
+		<producer> Nicole McCormick</producer>
+		<producer> Caroline Moore</producer>
+		<producer> Jillian Nordby</producer>
+		<producer> Dennis Palumbo</producer>
+		<producer> Justin Weinberger</producer>
+		<producer> Joseph Weisberg</producer>
+	</producers>
+	<writers>
+		<writer> Joel Fields</writer>
+		<writer> Joel Fields</writer>
+		<writer> Joseph Weisberg</writer>
+		<writer> Joseph Weisberg</writer>
+	</writers>
+	<editors>
+		<editor> Amanda Pollack</editor>
+		<editor> Kate Sanford</editor>
+		<editor> Daniel A. Valverde</editor>
+	</editors>
+</doc>

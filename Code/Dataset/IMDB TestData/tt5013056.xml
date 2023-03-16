@@ -1,0 +1,666 @@
+<?xml version="1.0" ?>
+<doc id="tt5013056">
+	<docid>tt5013056</docid>
+	<title>Dunkirk</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Sonics-DDP</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Fionn Whitehead</actor>
+			<role>Tommy</role>
+		</credit>
+		<credit>
+			<actor>Barry Keoghan</actor>
+			<role>George</role>
+		</credit>
+		<credit>
+			<actor>Mark Rylance</actor>
+			<role>Mr. Dawson</role>
+		</credit>
+		<credit>
+			<actor>Tom Hardy</actor>
+			<role>Farrier</role>
+		</credit>
+		<credit>
+			<actor>Damien Bonnard</actor>
+			<role>French Soldier</role>
+		</credit>
+		<credit>
+			<actor>Aneurin Barnard</actor>
+			<role>Gibson</role>
+		</credit>
+		<credit>
+			<actor>Lee Armstrong</actor>
+			<role>Grenadier</role>
+		</credit>
+		<credit>
+			<actor>James Bloor</actor>
+			<role>Irate Soldier</role>
+		</credit>
+		<credit>
+			<actor>Tom Glynn-Carney</actor>
+			<role>Peter</role>
+		</credit>
+		<credit>
+			<actor>Jack Lowden</actor>
+			<role>Collins</role>
+		</credit>
+		<credit>
+			<actor>Luke Thompson</actor>
+			<role>Warrant Officer</role>
+		</credit>
+		<credit>
+			<actor>Michel Biel</actor>
+			<role>French Soldier 2</role>
+		</credit>
+		<credit>
+			<actor>Constantin Balsan</actor>
+			<role>French Soldier 3</role>
+		</credit>
+		<credit>
+			<actor>Billy Howle</actor>
+			<role>Petty Officer</role>
+		</credit>
+		<credit>
+			<actor>Mikey Collins</actor>
+			<role>Soldier</role>
+		</credit>
+		<credit>
+			<actor>Callum Blake</actor>
+			<role>Stretcher Bearer</role>
+		</credit>
+		<credit>
+			<actor>Dean Ridge</actor>
+			<role>Soldier at the Gap</role>
+		</credit>
+		<credit>
+			<actor>Bobby Lockwood</actor>
+			<role>Able Seaman</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">July 13 2017</releasedate>
+		<releasedate country="Ireland">July 16 2017</releasedate>
+		<releasedate country="Belgium">July 19 2017</releasedate>
+		<releasedate country="Finland">July 19 2017</releasedate>
+		<releasedate country="France">July 19 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>world war two</keyword>
+		<keyword>1940s</keyword>
+		<keyword>soldier</keyword>
+		<keyword>beach</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>military</keyword>
+		<keyword>spitfire</keyword>
+		<keyword>world war two in france</keyword>
+		<keyword>air attack</keyword>
+		<keyword>yacht</keyword>
+		<keyword>sinking ship</keyword>
+		<keyword>survival</keyword>
+		<keyword>shell shock</keyword>
+		<keyword>england</keyword>
+		<keyword>army</keyword>
+		<keyword>france</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>year 1940</keyword>
+		<keyword>airforce pilot</keyword>
+		<keyword>military officer</keyword>
+		<keyword>royal air force</keyword>
+		<keyword>royal navy</keyword>
+		<keyword>rescue</keyword>
+		<keyword>bravery</keyword>
+		<keyword>general</keyword>
+		<keyword>english channel</keyword>
+		<keyword>very little dialogue</keyword>
+		<keyword>aerial combat</keyword>
+		<keyword>fighter plane</keyword>
+		<keyword>confusion</keyword>
+		<keyword>combat</keyword>
+		<keyword>fate</keyword>
+		<keyword>epic</keyword>
+		<keyword>pilot</keyword>
+		<keyword>surrounded</keyword>
+		<keyword>british soldier</keyword>
+		<keyword>boat</keyword>
+		<keyword>german army</keyword>
+		<keyword>heinkel he 111 bomber</keyword>
+		<keyword>messerschmitt me 109</keyword>
+		<keyword>british military</keyword>
+		<keyword>rescue attempt</keyword>
+		<keyword>british navy</keyword>
+		<keyword>running out of fuel</keyword>
+		<keyword>jumping off a ship</keyword>
+		<keyword>death notice</keyword>
+		<keyword>fighter pilot</keyword>
+		<keyword>one word title</keyword>
+		<keyword>ship</keyword>
+		<keyword>coast</keyword>
+		<keyword>trapped</keyword>
+		<keyword>desperation</keyword>
+		<keyword>sea</keyword>
+		<keyword>make shift pier</keyword>
+		<keyword>torpedoed</keyword>
+		<keyword>strafing</keyword>
+		<keyword>stretcher bearer</keyword>
+		<keyword>supermarine spitfire</keyword>
+		<keyword>defeat</keyword>
+		<keyword>retreat</keyword>
+		<keyword>ship sinking</keyword>
+		<keyword>stranded</keyword>
+		<keyword>place name in title</keyword>
+		<keyword>operation dynamo</keyword>
+		<keyword>trapped underwater</keyword>
+		<keyword>head trauma</keyword>
+		<keyword>forced landing</keyword>
+		<keyword>city name in title</keyword>
+		<keyword>historical fiction</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>dorset england</keyword>
+		<keyword>dover england</keyword>
+		<keyword>disaster</keyword>
+		<keyword>blindness</keyword>
+		<keyword>oil fire</keyword>
+		<keyword>assumed identity</keyword>
+		<keyword>casualty of war</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>hope</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>oil spill</keyword>
+		<keyword>aerial battle</keyword>
+		<keyword>dogfight</keyword>
+		<keyword>multiple storylines</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>torpedo</keyword>
+		<keyword>fishing boat</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>panic</keyword>
+		<keyword>fear</keyword>
+		<keyword>british army</keyword>
+		<keyword>train</keyword>
+		<keyword>death by drowning</keyword>
+		<keyword>goggles</keyword>
+		<keyword>aviator</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>battleship</keyword>
+		<keyword>destiny</keyword>
+		<keyword>british history</keyword>
+		<keyword>swimming for one's life</keyword>
+		<keyword>naval officer</keyword>
+		<keyword>british royal air force</keyword>
+		<keyword>abandoned boat</keyword>
+		<keyword>abandoned ship</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>capsizing ship</keyword>
+		<keyword>rudder</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>stealing from the dead</keyword>
+		<keyword>floating corpse</keyword>
+		<keyword>aerial shot</keyword>
+		<keyword>british</keyword>
+		<keyword>french soldier</keyword>
+		<keyword>battle</keyword>
+		<keyword>dunkirk france</keyword>
+		<keyword>squadron</keyword>
+		<keyword>bomb</keyword>
+		<keyword>commander</keyword>
+		<keyword>fuel</keyword>
+		<keyword>prisoner of war</keyword>
+		<keyword>reading a newspaper aloud</keyword>
+		<keyword>capsize</keyword>
+		<keyword>ditching at sea</keyword>
+		<keyword>junkers ju 87 stuka</keyword>
+		<keyword>winston churchill quotation</keyword>
+		<keyword>swimming for your life</keyword>
+		<keyword>warplane</keyword>
+		<keyword>allies</keyword>
+		<keyword>seaside</keyword>
+		<keyword>briton abroad</keyword>
+		<keyword>french military</keyword>
+		<keyword>target practice</keyword>
+		<keyword>fatal injury</keyword>
+		<keyword>accidental death</keyword>
+		<keyword>burning airplane</keyword>
+		<keyword>rope ladder</keyword>
+		<keyword>destruction</keyword>
+		<keyword>malfunction</keyword>
+		<keyword>survivor</keyword>
+		<keyword>cannon</keyword>
+		<keyword>teenager</keyword>
+		<keyword>against the odds</keyword>
+		<keyword>courage</keyword>
+		<keyword>shipwreck</keyword>
+		<keyword>oil slick</keyword>
+		<keyword>bullet hole</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>flotilla</keyword>
+		<keyword>mole</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>french army</keyword>
+		<keyword>scottish accent</keyword>
+		<keyword>stowaway</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>dutchman</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>train station</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>air strike</keyword>
+		<keyword>air raid</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>nurse</keyword>
+		<keyword>sailor</keyword>
+		<keyword>life jacket</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>escape</keyword>
+		<keyword>race against time</keyword>
+		<keyword>colonel</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>young soldier</keyword>
+		<keyword>surviving</keyword>
+		<keyword>airman</keyword>
+		<keyword>sailing</keyword>
+		<keyword>lifesaver</keyword>
+		<keyword>cheering</keyword>
+		<keyword>stretcher</keyword>
+		<keyword>bomber plane</keyword>
+		<keyword>pier</keyword>
+		<keyword>military film</keyword>
+		<keyword>sand</keyword>
+		<keyword>canteen</keyword>
+		<keyword>barricade</keyword>
+		<keyword>claustrophobic</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>thirst</keyword>
+		<keyword>siege</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>warship</keyword>
+		<keyword>claustrophobia</keyword>
+		<keyword>abandoned town</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>garden</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>blind man</keyword>
+		<keyword>machine gun nest</keyword>
+		<keyword>oxygen mask</keyword>
+		<keyword>backpack</keyword>
+		<keyword>flyer</keyword>
+		<keyword>trash</keyword>
+		<keyword>german in france</keyword>
+		<keyword>uniform</keyword>
+		<keyword>waves</keyword>
+		<keyword>dying</keyword>
+		<keyword>door to door</keyword>
+		<keyword>litter</keyword>
+		<keyword>air force</keyword>
+		<keyword>water hose</keyword>
+		<keyword>low flying</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>attack</keyword>
+		<keyword>guard</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>shot</keyword>
+		<keyword>fleeing</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>union jack</keyword>
+		<keyword>man running</keyword>
+		<keyword>running man</keyword>
+		<keyword>bench</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>dune</keyword>
+		<keyword>fisherman</keyword>
+		<keyword>boots</keyword>
+		<keyword>sleeves rolled up</keyword>
+		<keyword>urination</keyword>
+		<keyword>vest</keyword>
+		<keyword>injured man</keyword>
+		<keyword>supplies</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>airplane</keyword>
+		<keyword>interloper</keyword>
+		<keyword>bullseye</keyword>
+		<keyword>regiment</keyword>
+		<keyword>briton</keyword>
+		<keyword>crash</keyword>
+		<keyword>gauge</keyword>
+		<keyword>dead son</keyword>
+		<keyword>soaked clothes</keyword>
+		<keyword>wetness</keyword>
+		<keyword>turtleneck</keyword>
+		<keyword>man swimming</keyword>
+		<keyword>swimming underwater</keyword>
+		<keyword>oil and water</keyword>
+		<keyword>tide</keyword>
+		<keyword>red cross</keyword>
+		<keyword>merchant navy</keyword>
+		<keyword>seat belt</keyword>
+		<keyword>submarine</keyword>
+		<keyword>climbing</keyword>
+		<keyword>stuck</keyword>
+		<keyword>bomber jacket</keyword>
+		<keyword>impostor</keyword>
+		<keyword>food</keyword>
+		<keyword>tea</keyword>
+		<keyword>blanket</keyword>
+		<keyword>man wrapped in a blanket</keyword>
+		<keyword>deck</keyword>
+		<keyword>out of fuel</keyword>
+		<keyword>sustenance</keyword>
+		<keyword>line up</keyword>
+		<keyword>queue</keyword>
+		<keyword>oil on water</keyword>
+		<keyword>gasping for air</keyword>
+		<keyword>capacity</keyword>
+		<keyword>fight</keyword>
+		<keyword>disagreement</keyword>
+		<keyword>gasping for breath</keyword>
+		<keyword>dead</keyword>
+		<keyword>boy</keyword>
+		<keyword>coasting</keyword>
+		<keyword>tracks</keyword>
+		<keyword>covered in oil</keyword>
+		<keyword>captured</keyword>
+		<keyword>touching face</keyword>
+		<keyword>reference to winston churchill</keyword>
+		<keyword>rifle pointed at head</keyword>
+		<keyword>bulletin board</keyword>
+		<keyword>hat</keyword>
+		<keyword>applause</keyword>
+		<keyword>class photograph</keyword>
+		<keyword>newspaper office</keyword>
+		<keyword>wound</keyword>
+		<keyword>united kingdom</keyword>
+		<keyword>british empire</keyword>
+		<keyword>sealift</keyword>
+		<keyword>flight</keyword>
+		<keyword>plane</keyword>
+		<keyword>firearm</keyword>
+		<keyword>embroidery</keyword>
+		<keyword>loosely based on historical events</keyword>
+		<keyword>shore</keyword>
+		<keyword>naval uniform</keyword>
+		<keyword>20th century</keyword>
+		<keyword>world war two soldier</keyword>
+		<keyword>battle dress</keyword>
+		<keyword>salt water</keyword>
+		<keyword>automatic weapon</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>rearview mirror</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>world war two in europe</keyword>
+		<keyword>encirclement</keyword>
+		<keyword>epic war</keyword>
+		<keyword>epic history</keyword>
+		<keyword>epic action</keyword>
+		<keyword>historical drama</keyword>
+		<keyword>character appears in a newspaper</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>maximalism</keyword>
+		<keyword>injury</keyword>
+		<keyword>army uniform</keyword>
+		<keyword>cult film</keyword>
+		<keyword>tank</keyword>
+		<keyword>fighter aircraft</keyword>
+		<keyword>film begins with text</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>famous score</keyword>
+		<keyword>frenchman</keyword>
+		<keyword>white cliffs of dover</keyword>
+		<keyword>tension</keyword>
+		<keyword>aviation</keyword>
+		<keyword>scotsman</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>medical ship</keyword>
+		<keyword>war violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>ambush</keyword>
+		<keyword>battle tank</keyword>
+		<keyword>all male cast</keyword>
+		<keyword>harbor</keyword>
+		<keyword>danger</keyword>
+		<keyword>bombing</keyword>
+		<keyword>dead soldier</keyword>
+		<keyword>killed in action</keyword>
+		<keyword>running for one's life</keyword>
+		<keyword>begins with historical notes</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>crowd</keyword>
+		<keyword>military uniform</keyword>
+		<keyword>northern france</keyword>
+		<keyword>wehrmacht</keyword>
+		<keyword>shepard tone</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>flanders</keyword>
+		<keyword>military truck</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>capture</keyword>
+		<keyword>photograph</keyword>
+		<keyword>sole survivor</keyword>
+		<keyword>mute</keyword>
+		<keyword>u boat</keyword>
+		<keyword>chaos</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>rowboat</keyword>
+		<keyword>left for dead</keyword>
+		<keyword>wartime</keyword>
+		<keyword>dog tag</keyword>
+		<keyword>pocket watch</keyword>
+		<keyword>invasion</keyword>
+		<keyword>visceral</keyword>
+		<keyword>ship captain</keyword>
+		<keyword>oil</keyword>
+		<keyword>airplane accident</keyword>
+		<keyword>face mask</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>gurney</keyword>
+		<keyword>drowning</keyword>
+		<keyword>anti aircraft gun</keyword>
+		<keyword>montage</keyword>
+		<keyword>flare gun</keyword>
+		<keyword>rifle</keyword>
+		<keyword>suspense</keyword>
+		<keyword>double cross</keyword>
+		<keyword>deception</keyword>
+		<keyword>burial</keyword>
+		<keyword>violence</keyword>
+		<keyword>murder</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>army private</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>water</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>ocean</keyword>
+		<keyword>written by director</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>set on fire</keyword>
+		<keyword>burning</keyword>
+		<keyword>landing</keyword>
+		<keyword>sunset</keyword>
+		<keyword>reading</keyword>
+		<keyword>beer</keyword>
+		<keyword>notice</keyword>
+		<keyword>sleep</keyword>
+		<keyword>railroad</keyword>
+		<keyword>fire</keyword>
+		<keyword>insignia</keyword>
+		<keyword>swimming</keyword>
+		<keyword>death</keyword>
+		<keyword>drowned</keyword>
+		<keyword>bullet</keyword>
+		<keyword>ladder</keyword>
+		<keyword>chain</keyword>
+		<keyword>resting</keyword>
+		<keyword>bandage</keyword>
+		<keyword>knocked down</keyword>
+		<keyword>confrontation</keyword>
+		<keyword>valve</keyword>
+		<keyword>sinking</keyword>
+		<keyword>watch</keyword>
+		<keyword>bolt</keyword>
+		<keyword>meat</keyword>
+		<keyword>smoke</keyword>
+		<keyword>night</keyword>
+		<keyword>map</keyword>
+		<keyword>military vest</keyword>
+		<keyword>black soldier</keyword>
+		<keyword>carbine</keyword>
+		<keyword>captain</keyword>
+		<keyword>explosion</keyword>
+		<keyword>floating</keyword>
+		<keyword>rope</keyword>
+		<keyword>flag</keyword>
+		<keyword>reflection</keyword>
+		<keyword>plank</keyword>
+		<keyword>discussion</keyword>
+		<keyword>paramedic</keyword>
+		<keyword>medic</keyword>
+		<keyword>private</keyword>
+		<keyword>military weapon</keyword>
+		<keyword>corpse</keyword>
+		<keyword>burying</keyword>
+		<keyword>cover up</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>enemy fire</keyword>
+		<keyword>shooting</keyword>
+		<keyword>helmet</keyword>
+		<keyword>window</keyword>
+		<keyword>thirsty</keyword>
+		<keyword>platoon</keyword>
+		<keyword>hosepipe</keyword>
+		<keyword>hose</keyword>
+		<keyword>paper</keyword>
+		<keyword>empty street</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>biplane</keyword>
+		<keyword>water bottle</keyword>
+		<keyword>digging</keyword>
+		<keyword>truck</keyword>
+		<keyword>nazi occupied france</keyword>
+		<keyword>nazi soldier</keyword>
+		<keyword>hostage</keyword>
+		<keyword>admiral</keyword>
+		<keyword>flood</keyword>
+		<keyword>jumping</keyword>
+		<keyword>running</keyword>
+		<keyword>street</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Christopher Nolan</director>
+	</directors>
+	<composers>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> John Bernard</producer>
+		<producer> Erwin Godschalk</producer>
+		<producer> Jake Myers</producer>
+		<producer> Christopher Nolan</producer>
+		<producer> Maarten Swart</producer>
+		<producer> Emma Thomas</producer>
+		<producer> Andy Thompson</producer>
+	</producers>
+	<writers>
+		<writer> Christopher Nolan</writer>
+	</writers>
+	<editors>
+		<editor> Lee Smith</editor>
+	</editors>
+</doc>

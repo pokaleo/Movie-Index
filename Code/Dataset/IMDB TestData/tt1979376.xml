@@ -1,0 +1,503 @@
+<?xml version="1.0" ?>
+<doc id="tt1979376">
+	<docid>tt1979376</docid>
+	<title>Toy Story 4</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjU0NzAzMTQwN15BMl5BanBnXkFtZTgwNjU5NDQ3NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>When a new toy called &quot;Forky&quot; joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>IMAX 6-Track</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Hanks</actor>
+			<role>Woody</role>
+		</credit>
+		<credit>
+			<actor>Tim Allen</actor>
+			<role>Buzz Lightyear</role>
+		</credit>
+		<credit>
+			<actor>Annie Potts</actor>
+			<role>Bo Peep</role>
+		</credit>
+		<credit>
+			<actor>Tony Hale</actor>
+			<role>Forky</role>
+		</credit>
+		<credit>
+			<actor>Keegan-Michael Key</actor>
+			<role>Ducky</role>
+		</credit>
+		<credit>
+			<actor>Madeleine McGraw</actor>
+			<role>Bonnie</role>
+		</credit>
+		<credit>
+			<actor>Christina Hendricks</actor>
+			<role>Gabby Gabby</role>
+		</credit>
+		<credit>
+			<actor>Jordan Peele</actor>
+			<role>Bunny</role>
+		</credit>
+		<credit>
+			<actor>Keanu Reeves</actor>
+			<role>Duke Caboom</role>
+		</credit>
+		<credit>
+			<actor>Ally Maki</actor>
+			<role>Giggle McDimples</role>
+		</credit>
+		<credit>
+			<actor>Jay Hernandez</actor>
+			<role>Bonnie's Dad</role>
+		</credit>
+		<credit>
+			<actor>Lori Alan</actor>
+			<role>Bonnie's Mom</role>
+		</credit>
+		<credit>
+			<actor>Joan Cusack</actor>
+			<role>Jessie</role>
+		</credit>
+		<credit>
+			<actor>Bonnie Hunt</actor>
+			<role>Dolly</role>
+		</credit>
+		<credit>
+			<actor>Kristen Schaal</actor>
+			<role>Trixie</role>
+		</credit>
+		<credit>
+			<actor>Emily Davis</actor>
+			<role>Billy</role>
+		</credit>
+		<credit>
+			<actor>Wallace Shawn</actor>
+			<role>Rex</role>
+		</credit>
+		<credit>
+			<actor>John Ratzenberger</actor>
+			<role>Hamm</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">June 11 2019</releasedate>
+		<releasedate country="France">June 14 2019</releasedate>
+		<releasedate country="United Kingdom">June 16 2019</releasedate>
+		<releasedate country="United Arab Emirates">June 20 2019</releasedate>
+		<releasedate country="Argentina">June 20 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Bulgaria">B</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Luxembourg">A</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Maldives">PG</certificate>
+		<certificate country="Malta">U</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">G</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">0</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Portugal">M/3</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Romania">A.G.</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A/i</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">G</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">G</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">Not Rated</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sequel</keyword>
+		<keyword>toy</keyword>
+		<keyword>talking toy</keyword>
+		<keyword>buzz lightyear character</keyword>
+		<keyword>fourth part</keyword>
+		<keyword>toy story</keyword>
+		<keyword>road trip</keyword>
+		<keyword>dinosaur</keyword>
+		<keyword>antique shop</keyword>
+		<keyword>cartoon dog</keyword>
+		<keyword>toy comes to life</keyword>
+		<keyword>ventriloquist dummy</keyword>
+		<keyword>carnival</keyword>
+		<keyword>lost toy</keyword>
+		<keyword>carousel</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>space ranger</keyword>
+		<keyword>doll</keyword>
+		<keyword>cowboy</keyword>
+		<keyword>cowboy doll</keyword>
+		<keyword>spork</keyword>
+		<keyword>toy dog</keyword>
+		<keyword>porcelain</keyword>
+		<keyword>shepherdess</keyword>
+		<keyword>cowgirl</keyword>
+		<keyword>mr. potato head toy</keyword>
+		<keyword>toy dinosaur</keyword>
+		<keyword>mrs. potato head toy</keyword>
+		<keyword>mr. potato head character</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>anthropomorphic toy</keyword>
+		<keyword>numbered sequel</keyword>
+		<keyword>canadian abroad</keyword>
+		<keyword>motorcycle stunt driver</keyword>
+		<keyword>stuntman</keyword>
+		<keyword>voice box</keyword>
+		<keyword>motorcycle stunt</keyword>
+		<keyword>little girl</keyword>
+		<keyword>recreational vehicle</keyword>
+		<keyword>rag doll</keyword>
+		<keyword>inner voice</keyword>
+		<keyword>villainess</keyword>
+		<keyword>mr potato head</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>child</keyword>
+		<keyword>carnival game</keyword>
+		<keyword>prize</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>spaceman toy</keyword>
+		<keyword>stuffed rabbit</keyword>
+		<keyword>stuffed duck</keyword>
+		<keyword>stuffed animal</keyword>
+		<keyword>toy animal</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>three word title</keyword>
+		<keyword>horse</keyword>
+		<keyword>toy horse</keyword>
+		<keyword>alien</keyword>
+		<keyword>piggy bank</keyword>
+		<keyword>spacesuit</keyword>
+		<keyword>unicorn</keyword>
+		<keyword>action figure</keyword>
+		<keyword>toy unicorn</keyword>
+		<keyword>triceratops</keyword>
+		<keyword>road movie</keyword>
+		<keyword>duck</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>friendship</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>kindergarten</keyword>
+		<keyword>jumping out a window</keyword>
+		<keyword>jumping from a moving vehicle</keyword>
+		<keyword>bubble bath</keyword>
+		<keyword>stuffed toy porcupine</keyword>
+		<keyword>3 little aliens toy</keyword>
+		<keyword>rex toy</keyword>
+		<keyword>buzz lightyear toy</keyword>
+		<keyword>hamm toy</keyword>
+		<keyword>bullseye toy</keyword>
+		<keyword>jessie toy</keyword>
+		<keyword>slinky toy</keyword>
+		<keyword>plush toy</keyword>
+		<keyword>travel</keyword>
+		<keyword>space explorer</keyword>
+		<keyword>googly eye</keyword>
+		<keyword>toy motorcycle</keyword>
+		<keyword>road</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>dog</keyword>
+		<keyword>henchman</keyword>
+		<keyword>rv</keyword>
+		<keyword>dachshund</keyword>
+		<keyword>tyrannosaurus rex</keyword>
+		<keyword>french canadian</keyword>
+		<keyword>lost child</keyword>
+		<keyword>children</keyword>
+		<keyword>reunion</keyword>
+		<keyword>crying child</keyword>
+		<keyword>grandmother granddaughter relationship</keyword>
+		<keyword>crying</keyword>
+		<keyword>talking to a toy</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>on the road</keyword>
+		<keyword>flashback</keyword>
+		<keyword>backpack</keyword>
+		<keyword>character says it's raining cats and dogs</keyword>
+		<keyword>movie projector</keyword>
+		<keyword>locked cabinet</keyword>
+		<keyword>carnie</keyword>
+		<keyword>plastic knife</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>canadian toy</keyword>
+		<keyword>canadian</keyword>
+		<keyword>stand alone sequel</keyword>
+		<keyword>pixar</keyword>
+		<keyword>star died before release</keyword>
+		<keyword>first grade</keyword>
+		<keyword>barbie</keyword>
+		<keyword>cat</keyword>
+		<keyword>gps</keyword>
+		<keyword>tabby cat</keyword>
+		<keyword>porcelain figurine</keyword>
+		<keyword>figurine</keyword>
+		<keyword>yodeling cowgirl</keyword>
+		<keyword>old friends reunited</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>reference to boxing day</keyword>
+		<keyword>canadian immigrant</keyword>
+		<keyword>feline</keyword>
+		<keyword>red telephone</keyword>
+		<keyword>skunk</keyword>
+		<keyword>cartoon skunk</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>bad guy bar</keyword>
+		<keyword>action girl</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>repeat sequel</keyword>
+		<keyword>female villain</keyword>
+		<keyword>female antagonist</keyword>
+		<keyword>girl</keyword>
+		<keyword>mattel</keyword>
+		<keyword>stuffed frog toy</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police</keyword>
+		<keyword>part of tetralogy</keyword>
+		<keyword>part of series</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>timeframe 2000s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>family comedy</keyword>
+		<keyword>hugging</keyword>
+		<keyword>little bo peep character</keyword>
+		<keyword>sheriff woody character</keyword>
+		<keyword>slinky dog character</keyword>
+		<keyword>reference to the twilight zone living doll</keyword>
+		<keyword>reference to the godfather</keyword>
+		<keyword>reference to saved by the bell</keyword>
+		<keyword>swallowed whole</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>storm</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>jessie the yodeling cowgirl character</keyword>
+		<keyword>toy coming alive</keyword>
+		<keyword>prologue</keyword>
+		<keyword>saying goodbye</keyword>
+		<keyword>parting of ways</keyword>
+		<keyword>closet</keyword>
+		<keyword>trapped in a closet</keyword>
+		<keyword>sheriff's badge</keyword>
+		<keyword>dust bunny</keyword>
+		<keyword>dust</keyword>
+		<keyword>stowaway</keyword>
+		<keyword>first day of school</keyword>
+		<keyword>orientation day</keyword>
+		<keyword>kindergarten teacher</keyword>
+		<keyword>cubby</keyword>
+		<keyword>arts and crafts</keyword>
+		<keyword>garbage can</keyword>
+		<keyword>identity crisis</keyword>
+		<keyword>camper van</keyword>
+		<keyword>homemade</keyword>
+		<keyword>rv park</keyword>
+		<keyword>mail slot</keyword>
+		<keyword>ventriloquist's dummy</keyword>
+		<keyword>talking doll</keyword>
+		<keyword>pull string doll</keyword>
+		<keyword>baby carriage</keyword>
+		<keyword>voicebox</keyword>
+		<keyword>captured</keyword>
+		<keyword>carnival ride</keyword>
+		<keyword>vintage toy</keyword>
+		<keyword>vintage doll</keyword>
+		<keyword>old flame</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>reference to little bo peep</keyword>
+		<keyword>reference to he man</keyword>
+		<keyword>stuffed toy animal</keyword>
+		<keyword>stuffed toy rabbit</keyword>
+		<keyword>stuffed duck toy</keyword>
+		<keyword>stuffed animal toy</keyword>
+		<keyword>flat tire</keyword>
+		<keyword>hostage</keyword>
+		<keyword>rabbit stuffed animal toy</keyword>
+		<keyword>lamp</keyword>
+		<keyword>sheep</keyword>
+		<keyword>pipe cleaner</keyword>
+		<keyword>speakeasy</keyword>
+		<keyword>pinball machine</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>pep talk</keyword>
+		<keyword>bobblehead</keyword>
+		<keyword>key</keyword>
+		<keyword>stealth mission</keyword>
+		<keyword>antiques</keyword>
+		<keyword>antique toy</keyword>
+		<keyword>broken toy</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>traveling carnival</keyword>
+		<keyword>remote control car</keyword>
+		<keyword>remote controlled toy car</keyword>
+		<keyword>operation</keyword>
+		<keyword>organ transplant</keyword>
+		<keyword>merry go round</keyword>
+		<keyword>refurbished</keyword>
+		<keyword>ferris wheel</keyword>
+		<keyword>toy soldier</keyword>
+		<keyword>soldier action figure</keyword>
+		<keyword>change of plans</keyword>
+		<keyword>mid credits scene</keyword>
+		<keyword>carnival prize</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>shooting lasers from eyes</keyword>
+		<keyword>kindergartener</keyword>
+		<keyword>first grader</keyword>
+		<keyword>organ donor</keyword>
+		<keyword>surgery</keyword>
+		<keyword>cowboy toy</keyword>
+		<keyword>cowgirl toy</keyword>
+		<keyword>high five</keyword>
+		<keyword>clock</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>new life</keyword>
+		<keyword>reunion of old friends</keyword>
+		<keyword>daredevil</keyword>
+		<keyword>passage of time</keyword>
+		<keyword>naivete</keyword>
+		<keyword>motorcycle jump</keyword>
+		<keyword>toy frog</keyword>
+		<keyword>reference to kermit the frog</keyword>
+		<keyword>barbie doll</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>spaceman</keyword>
+		<keyword>awning</keyword>
+		<keyword>unicorn stuffed animal</keyword>
+		<keyword>stuffed unicorn toy</keyword>
+		<keyword>favorite toy</keyword>
+		<keyword>school</keyword>
+		<keyword>stuffed toy</keyword>
+		<keyword>toy alien</keyword>
+		<keyword>end of an era</keyword>
+		<keyword>going separate ways</keyword>
+		<keyword>stuffing</keyword>
+		<keyword>stepping on a toy</keyword>
+		<keyword>tv commercial</keyword>
+		<keyword>jumping from moving vehicle</keyword>
+		<keyword>man overboard</keyword>
+		<keyword>reunited</keyword>
+		<keyword>reference to obi wan kenobi</keyword>
+		<keyword>dance party</keyword>
+		<keyword>reference to the oakland a's</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>love at first sight</keyword>
+		<keyword>toy elephant</keyword>
+		<keyword>toy rhinoceros</keyword>
+		<keyword>chair</keyword>
+		<keyword>inferiority complex</keyword>
+		<keyword>anxiety</keyword>
+		<keyword>sewn together</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>hugging one's friend</keyword>
+		<keyword>playground</keyword>
+		<keyword>existential crisis</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>rain</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>trash</keyword>
+		<keyword>mission</keyword>
+		<keyword>rainstorm</keyword>
+	</keywords>
+	<directors>
+		<director> Josh Cooley</director>
+	</directors>
+	<composers>
+		<composer> Randy Newman</composer>
+	</composers>
+	<producers>
+		<producer> Pete Docter</producer>
+		<producer> Mark Nielsen</producer>
+		<producer> Denise Ream</producer>
+		<producer> Jonas Rivera</producer>
+		<producer> Katherine Sarafian</producer>
+		<producer> Andrew Stanton</producer>
+		<producer> Rosana Sullivan</producer>
+		<producer> Galyn Susman</producer>
+		<producer> Lee Unkrich</producer>
+	</producers>
+	<writers>
+		<writer> John Lasseter</writer>
+		<writer> Andrew Stanton</writer>
+		<writer> Josh Cooley</writer>
+		<writer> Valerie LaPointe</writer>
+		<writer> Rashida Jones</writer>
+		<writer> Will McCormack</writer>
+		<writer> Martin Hynes</writer>
+		<writer> Stephany Folsom</writer>
+		<writer> Andrew Stanton</writer>
+		<writer> Stephany Folsom</writer>
+	</writers>
+	<editors>
+		<editor> Axel Geddes</editor>
+	</editors>
+</doc>

@@ -1,0 +1,275 @@
+<?xml version="1.0" ?>
+<doc id="tt9208876">
+	<docid>tt9208876</docid>
+	<title>The Falcon and the Winter Soldier</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Anthony Mackie</actor>
+			<role>Falcon</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Stan</actor>
+			<role>Bucky Barnes</role>
+		</credit>
+		<credit>
+			<actor>Wyatt Russell</actor>
+			<role>John Walker</role>
+		</credit>
+		<credit>
+			<actor>Erin Kellyman</actor>
+			<role>Karli Morgenthau</role>
+		</credit>
+		<credit>
+			<actor>Desmond Chiam</actor>
+			<role>Dovich</role>
+		</credit>
+		<credit>
+			<actor>Dani Deetté</actor>
+			<role>Gigi</role>
+		</credit>
+		<credit>
+			<actor>Indya Bussey</actor>
+			<role>DeeDee</role>
+		</credit>
+		<credit>
+			<actor>Daniel Brühl</actor>
+			<role>Baron Zemo</role>
+		</credit>
+		<credit>
+			<actor>Danny Ramirez</actor>
+			<role>Joaquin Torres</role>
+		</credit>
+		<credit>
+			<actor>Adepero Oduye</actor>
+			<role>Sarah Wilson</role>
+		</credit>
+		<credit>
+			<actor>Renes Rivera</actor>
+			<role>Lennox</role>
+		</credit>
+		<credit>
+			<actor>Tyler Dean Flores</actor>
+			<role>Diego</role>
+		</credit>
+		<credit>
+			<actor>Emily VanCamp</actor>
+			<role>Sharon Carter</role>
+		</credit>
+		<credit>
+			<actor>Clé Bennett</actor>
+			<role>Battlestar</role>
+		</credit>
+		<credit>
+			<actor>Noah Mills</actor>
+			<role>Nico</role>
+		</credit>
+		<credit>
+			<actor>Florence Kasumba</actor>
+			<role>Ayo</role>
+		</credit>
+		<credit>
+			<actor>Carl Lumbly</actor>
+			<role>Isaiah Bradley</role>
+		</credit>
+		<credit>
+			<actor>Georges St-Pierre</actor>
+			<role>Georges Batroc</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">March 19 2021</releasedate>
+		<releasedate country="Austria">March 19 2021</releasedate>
+		<releasedate country="Australia">March 19 2021</releasedate>
+		<releasedate country="Belgium">March 19 2021</releasedate>
+		<releasedate country="Bolivia">March 19 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">14</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">TV-14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Egypt">13+</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">12+</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Japan">15</certificate>
+		<certificate country="Mexico">13</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">12+</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>marvel cinematic universe</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>marvel</keyword>
+		<keyword>spin off</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>superhero</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>disney</keyword>
+		<keyword>disney plus</keyword>
+		<keyword>disney marvel</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>two protagonists</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>action hero</keyword>
+		<keyword>two man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>black hero</keyword>
+		<keyword>black superhero</keyword>
+		<keyword>world war two veteran</keyword>
+		<keyword>sequel</keyword>
+		<keyword>mission</keyword>
+		<keyword>racism</keyword>
+		<keyword>african american</keyword>
+		<keyword>wingsuit</keyword>
+		<keyword>flying</keyword>
+		<keyword>shield</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>female agent</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>female terrorist</keyword>
+		<keyword>anarchist</keyword>
+		<keyword>anarchism</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>female sociopath</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>female psychopath</keyword>
+		<keyword>violence</keyword>
+		<keyword>explosion</keyword>
+		<keyword>politics</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sadism</keyword>
+		<keyword>destruction</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>afghanistan war veteran</keyword>
+		<keyword>team up</keyword>
+		<keyword>legacy</keyword>
+		<keyword>patriotism</keyword>
+		<keyword>legacy character</keyword>
+		<keyword>revolutionary group</keyword>
+		<keyword>radical</keyword>
+		<keyword>u.s. military</keyword>
+		<keyword>symbol</keyword>
+		<keyword>reference to captain america</keyword>
+		<keyword>vibranium</keyword>
+		<keyword>buddy comedy</keyword>
+		<keyword>underground movement</keyword>
+		<keyword>global</keyword>
+		<keyword>race relations</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>black american</keyword>
+		<keyword>cybernetic arm</keyword>
+		<keyword>wings</keyword>
+		<keyword>reference to the avengers</keyword>
+		<keyword>buddy movie</keyword>
+		<keyword>u.s. agent character</keyword>
+		<keyword>bucky barnes character</keyword>
+		<keyword>sam wilson character</keyword>
+		<keyword>sharon carter character</keyword>
+		<keyword>baron zemo character</keyword>
+		<keyword>falcon character</keyword>
+		<keyword>centenarian</keyword>
+		<keyword>winter soldier character</keyword>
+		<keyword>reference to steve rogers</keyword>
+		<keyword>captain america character</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>character name in series title</keyword>
+		<keyword>villain</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Kari Skogland</director>
+	</directors>
+	<composers>
+		<composer> Henry Jackman</composer>
+	</composers>
+	<producers>
+		<producer> Victoria Alonso</producer>
+		<producer> Ariella Blejer</producer>
+		<producer> Louis D'Esposito</producer>
+		<producer> Kevin Feige</producer>
+		<producer> Sarah Finn</producer>
+		<producer> Dawn Kamoche</producer>
+		<producer> Derek Kolstad</producer>
+		<producer> David Minkowski</producer>
+		<producer> Nate Moore</producer>
+		<producer> Zoie Nagelhout</producer>
+		<producer> Helen Pollak</producer>
+		<producer> Kari Skogland</producer>
+		<producer> Malcolm Spellman</producer>
+		<producer> Matthew Stillman</producer>
+		<producer> Trevor Waterson</producer>
+	</producers>
+	<writers>
+		<writer> Ed Brubaker</writer>
+		<writer> Gene Colan</writer>
+		<writer> Steve Epting</writer>
+		<writer> Jack Kirby</writer>
+		<writer> Jack Kirby</writer>
+		<writer> Malcolm Spellman</writer>
+		<writer> Malcolm Spellman</writer>
+		<writer> Malcolm Spellman</writer>
+		<writer> Stan Lee</writer>
+		<writer> Joe Simon</writer>
+		<writer> Joe Simon</writer>
+		<writer> Michael Kastelein</writer>
+		<writer> Michael Kastelein</writer>
+		<writer> Derek Kolstad</writer>
+		<writer> Dalan Musson</writer>
+		<writer> Dalan Musson</writer>
+		<writer> Josef Sawyer</writer>
+	</writers>
+	<editors>
+		<editor> Jeffrey Ford</editor>
+		<editor> Todd Desrosiers</editor>
+		<editor> Kelley Dixon</editor>
+		<editor> Rosanne Tan</editor>
+	</editors>
+</doc>

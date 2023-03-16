@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<doc id="tt10399608">
+	<docid>tt10399608</docid>
+	<title>Piggy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZWM0NTM1NjgtNDk5ZS00ZjM5LWIwODItZTUzNmEwM2I0ZjgyXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">99</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An overweight teen is bullied by a clique of cool girls poolside while holidaying in her village. The long walk home will change the rest of her life.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Laura Galán</actor>
+			<role>Sara</role>
+		</credit>
+		<credit>
+			<actor>Richard Holmes</actor>
+			<role>Desconocido</role>
+		</credit>
+		<credit>
+			<actor>Carmen Machi</actor>
+			<role>Madre de Sara</role>
+		</credit>
+		<credit>
+			<actor>Irene Ferreiro</actor>
+			<role>Claudia</role>
+		</credit>
+		<credit>
+			<actor>Camille Aguilar</actor>
+			<role>Roci</role>
+		</credit>
+		<credit>
+			<actor>Claudia Salas</actor>
+			<role>Maca</role>
+		</credit>
+		<credit>
+			<actor>José Pastor</actor>
+			<role>Pedro</role>
+		</credit>
+		<credit>
+			<actor>Fernando Delgado-Hierro</actor>
+			<role>Juancarlitos</role>
+		</credit>
+		<credit>
+			<actor>Julián Valcárcel</actor>
+			<role>Padre de Sara</role>
+		</credit>
+		<credit>
+			<actor>Amets Otxoa</actor>
+			<role>Hermano de Sara</role>
+		</credit>
+		<credit>
+			<actor>Pilar Castro</actor>
+			<role>Elena</role>
+		</credit>
+		<credit>
+			<actor>Chema del Barco</actor>
+			<role>Juan Carlos</role>
+		</credit>
+		<credit>
+			<actor>Fred Tatien</actor>
+			<role>Padre Roci</role>
+		</credit>
+		<credit>
+			<actor>Stéphanie Magnin</actor>
+			<role>Rosa (Camarera)</role>
+		</credit>
+		<credit>
+			<actor>Malena Gutiérrez</actor>
+			<role>Señora María</role>
+		</credit>
+		<credit>
+			<actor>Calero</actor>
+			<role>Macarra 1</role>
+		</credit>
+		<credit>
+			<actor>Jarfaiter</actor>
+			<role>Macarra 2</role>
+		</credit>
+		<credit>
+			<actor>José Luis Cantón</actor>
+			<role>Macarra 3</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 25 2022</releasedate>
+		<releasedate country="United States">April 15 2022</releasedate>
+		<releasedate country="Argentina">April 25 2022</releasedate>
+		<releasedate country="Romania">June 17 2022</releasedate>
+		<releasedate country="Poland">July 23 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Mexico">13</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">15+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>home</keyword>
+		<keyword>slasher horror</keyword>
+		<keyword>slasher</keyword>
+		<keyword>village</keyword>
+		<keyword>fatphobia</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>bullying</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>one word title</keyword>
+		<keyword>title directed by female</keyword>
+	</keywords>
+	<directors>
+		<director> Carlota Pereda</director>
+	</directors>
+	<composers>
+		<composer> Olivier Arson</composer>
+	</composers>
+	<producers>
+		<producer> Jean-Baptiste Babin</producer>
+		<producer> Pilar Benito</producer>
+		<producer> Merry Colomer</producer>
+		<producer> David Atlan Jackson</producer>
+		<producer> María López Soler</producer>
+		<producer> Joel Thibout</producer>
+	</producers>
+	<writers>
+		<writer> Carlota Pereda</writer>
+	</writers>
+	<editors>
+		<editor> David Pelegrín</editor>
+	</editors>
+</doc>

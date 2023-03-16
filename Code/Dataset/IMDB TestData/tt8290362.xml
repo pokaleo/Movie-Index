@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<doc id="tt8290362">
+	<docid>tt8290362</docid>
+	<title>The Head</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzEyZmVkMTUtODc4YS00NWI3LWIyMDEtMzUyNjAyNWY3OWNhXkEyXkFqcGdeQXVyMTE3MTk3NDk0._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes/>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Winter has fallen on the South Pole. A small team, known as the Winterers, will remain at the Polaris VI Antarctic Research Station to continue their innovative research, a crucial part in the fight against climate change.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>John Lynch</actor>
+			<role>Dr. Arthur Wilde</role>
+		</credit>
+		<credit>
+			<actor>Katharine O'Donnelly</actor>
+			<role>Dr. Maggie Mitchell</role>
+		</credit>
+		<credit>
+			<actor>Tomohisa Yamashita</actor>
+			<role>Aki</role>
+		</credit>
+		<credit>
+			<actor>Olivia Morris</actor>
+			<role>Rachel Russo</role>
+		</credit>
+		<credit>
+			<actor>Alexandre Willaume</actor>
+			<role>Johan Berg</role>
+		</credit>
+		<credit>
+			<actor>Moe Dunford</actor>
+			<role>Alec Kurtz</role>
+		</credit>
+		<credit>
+			<actor>Richard Sammel</actor>
+			<role>Erik Osterland</role>
+		</credit>
+		<credit>
+			<actor>Josefin Neldén</actor>
+			<role>Amy</role>
+		</credit>
+		<credit>
+			<actor>Hovik Keuchkerian</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Laura Bach</actor>
+			<role>Dr. Annika Lundqvist</role>
+		</credit>
+		<credit>
+			<actor>Sôta Fukushi</actor>
+			<role>Yuto</role>
+		</credit>
+		<credit>
+			<actor>Álvaro Morte</actor>
+			<role>Ramón Lázaro</role>
+		</credit>
+		<credit>
+			<actor>Thierry Godard</actor>
+			<role>Captain Jacques Renaud</role>
+		</credit>
+		<credit>
+			<actor>Ibrahim Koma</actor>
+			<role>Wil</role>
+		</credit>
+		<credit>
+			<actor>Tania Watson</actor>
+			<role>Erika Fisher</role>
+		</credit>
+		<credit>
+			<actor>Sandra Andreis</actor>
+			<role>Ebba Ullman</role>
+		</credit>
+		<credit>
+			<actor>Hannes Fohlin</actor>
+			<role>Gustav Dolberg</role>
+		</credit>
+		<credit>
+			<actor>Nora Rios</actor>
+			<role>Gloria</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brunei">June 12 2020</releasedate>
+		<releasedate country="Spain">June 12 2020</releasedate>
+		<releasedate country="Indonesia">June 12 2020</releasedate>
+		<releasedate country="Italy">June 12 2020</releasedate>
+		<releasedate country="Japan">June 12 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="India">15+</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Japan">Unrated</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>climate change</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>antarctica</keyword>
+	</keywords>
+	<directors>
+		<director> Jorge Dorado</director>
+	</directors>
+	<composers>
+		<composer> Federico Jusid</composer>
+	</composers>
+	<producers>
+		<producer> Jorge Dorado</producer>
+		<producer> Ran Tellem</producer>
+		<producer> Mariano Baselga</producer>
+		<producer> Bernat Elias</producer>
+		<producer> Javier Méndez</producer>
+		<producer> Laura Fernández Espeso</producer>
+		<producer> Kazufumi Nagasawa</producer>
+		<producer> David Pastor</producer>
+		<producer> Àlex Pastor</producer>
+		<producer> Lilja Ósk Snorradóttir</producer>
+		<producer> Anna Vilella</producer>
+		<producer> Patrick Nebout</producer>
+	</producers>
+	<writers>
+		<writer> David Pastor</writer>
+		<writer> David Pastor</writer>
+		<writer> Àlex Pastor</writer>
+		<writer> Àlex Pastor</writer>
+		<writer> David Troncoso</writer>
+		<writer> David Troncoso</writer>
+		<writer> Isaac Sastre</writer>
+		<writer> Isaac Sastre</writer>
+		<writer> Mariano Baselga</writer>
+		<writer> Mariano Baselga</writer>
+		<writer> Jordi Galceran</writer>
+	</writers>
+	<editors>
+		<editor> Pablo Zumárraga</editor>
+		<editor> Carlos Egea</editor>
+		<editor> Javi Frutos</editor>
+		<editor> Josu Martínez</editor>
+	</editors>
+</doc>

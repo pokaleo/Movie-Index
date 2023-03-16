@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc id="tt11897688">
+	<docid>tt11897688</docid>
+	<title>The Resort</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZWY0ODY4MjEtM2Q2Ni00Y2YxLTk0Y2ItODIyNTg0ODdiMmZiXkEyXkFqcGdeQXVyMTAxMjU5NDUz._V1_QL75_UY281_CR46,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">35</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Exploring love and the weird things we do in the name of it, encased in an elaborate true-crime conspiracy.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Cristin Milioti</actor>
+			<role>Emma</role>
+		</credit>
+		<credit>
+			<actor>William Jackson Harper</actor>
+			<role>Noah</role>
+		</credit>
+		<credit>
+			<actor>Luis Gerardo Méndez</actor>
+			<role>Baltasar Frías</role>
+		</credit>
+		<credit>
+			<actor>Skyler Gisondo</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Nina Bloomgarden</actor>
+			<role>Violet Thompson</role>
+		</credit>
+		<credit>
+			<actor>Gabriela Cartol</actor>
+			<role>Luna</role>
+		</credit>
+		<credit>
+			<actor>Nick Offerman</actor>
+			<role>Murray Thompson</role>
+		</credit>
+		<credit>
+			<actor>Becky Ann Baker</actor>
+			<role>Jan</role>
+		</credit>
+		<credit>
+			<actor>Dylan Baker</actor>
+			<role>Carl</role>
+		</credit>
+		<credit>
+			<actor>Debby Ryan</actor>
+			<role>Hanna</role>
+		</credit>
+		<credit>
+			<actor>Gisela Rosario Ramos</actor>
+			<role>Abigail</role>
+		</credit>
+		<credit>
+			<actor>Ben Sinclair</actor>
+			<role>Alex</role>
+		</credit>
+		<credit>
+			<actor>Carlos Rivera Marchand</actor>
+			<role>Edwin</role>
+		</credit>
+		<credit>
+			<actor>Ricardo Laboy</actor>
+			<role>Oliver</role>
+		</credit>
+		<credit>
+			<actor>Parvesh Cheena</actor>
+			<role>Ted</role>
+		</credit>
+		<credit>
+			<actor>Michael Hitchcock</actor>
+			<role>Ted</role>
+		</credit>
+		<credit>
+			<actor>Amber Rivera</actor>
+			<role>Patricia</role>
+		</credit>
+		<credit>
+			<actor>Xavier Reyes</actor>
+			<role>Alonso</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">July 22 2022</releasedate>
+		<releasedate country="United States">July 23 2022</releasedate>
+		<releasedate country="France">July 28 2022</releasedate>
+		<releasedate country="United States">July 28 2022</releasedate>
+		<releasedate country="Australia">July 29 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>conspiracy</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>love</keyword>
+	</keywords>
+	<directors>
+		<director> Ben Sinclair</director>
+		<director> Rania Attieh</director>
+		<director> Daniel Garcia</director>
+		<director> Ariel Kleiman</director>
+	</directors>
+	<composers>
+		<composer> Andrew Carroll</composer>
+	</composers>
+	<producers>
+		<producer> Dagny Looper</producer>
+		<producer> Dana Scott</producer>
+		<producer> Sam Esmail</producer>
+		<producer> Mara Vargas Jackson</producer>
+		<producer> Manuel Alcalá</producer>
+		<producer> Chad Hamilton</producer>
+		<producer> Frances Lausell</producer>
+		<producer> Sarah Matte</producer>
+		<producer> Allison Miller</producer>
+		<producer> Andy Siara</producer>
+		<producer> Ben Sinclair</producer>
+		<producer> Gregg Tilson</producer>
+		<producer> Chad Hamilton</producer>
+		<producer> Adam Haracz</producer>
+		<producer> Allison Miller</producer>
+	</producers>
+	<writers>
+		<writer> Vivian Barnes</writer>
+		<writer> Vivian Barnes</writer>
+		<writer> Derek Pastuszek</writer>
+		<writer> Derek Pastuszek</writer>
+		<writer> Andy Siara</writer>
+		<writer> Andy Siara</writer>
+		<writer> Joey Siara</writer>
+		<writer> Joey Siara</writer>
+		<writer> Manuel Alcalá</writer>
+		<writer> Dagny Looper</writer>
+		<writer> Allison Miller</writer>
+		<writer> Allison Miller</writer>
+		<writer> Mara Vargas Jackson</writer>
+		<writer> Sam Esmail</writer>
+	</writers>
+	<editors>
+		<editor> Taichi Erskine</editor>
+		<editor> Henk Van Eeghen</editor>
+		<editor> Erick Fefferman</editor>
+	</editors>
+</doc>

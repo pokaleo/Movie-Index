@@ -1,0 +1,539 @@
+<?xml version="1.0" ?>
+<doc id="tt2316204">
+	<docid>tt2316204</docid>
+	<title>Alien: Covenant</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjJiZTEzOGMtNGFlYS00YzUyLWE4ZmMtZDFiOTk1ZDBkYmVhXkEyXkFqcGdeQXVyMTk1MDM0OTc@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">122</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Michael Fassbender</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Katherine Waterston</actor>
+			<role>Daniels</role>
+		</credit>
+		<credit>
+			<actor>Billy Crudup</actor>
+			<role>Oram</role>
+		</credit>
+		<credit>
+			<actor>Danny McBride</actor>
+			<role>Tennessee</role>
+		</credit>
+		<credit>
+			<actor>Demián Bichir</actor>
+			<role>Lope</role>
+		</credit>
+		<credit>
+			<actor>Carmen Ejogo</actor>
+			<role>Karine</role>
+		</credit>
+		<credit>
+			<actor>Jussie Smollett</actor>
+			<role>Ricks</role>
+		</credit>
+		<credit>
+			<actor>Callie Hernandez</actor>
+			<role>Upworth</role>
+		</credit>
+		<credit>
+			<actor>Amy Seimetz</actor>
+			<role>Faris</role>
+		</credit>
+		<credit>
+			<actor>Nathaniel Dean</actor>
+			<role>Hallett</role>
+		</credit>
+		<credit>
+			<actor>Alexander England</actor>
+			<role>Ankor</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Rigby</actor>
+			<role>Ledward</role>
+		</credit>
+		<credit>
+			<actor>Uli Latukefu</actor>
+			<role>Cole</role>
+		</credit>
+		<credit>
+			<actor>Tess Haubrich</actor>
+			<role>Rosenthal</role>
+		</credit>
+		<credit>
+			<actor>Lorelei King</actor>
+			<role>Voice of 'Mother'</role>
+		</credit>
+		<credit>
+			<actor>Goran D. Kleut</actor>
+			<role>Xenomorph</role>
+		</credit>
+		<credit>
+			<actor>Andrew Crawford</actor>
+			<role>Neomorph</role>
+		</credit>
+		<credit>
+			<actor>Javier Botet</actor>
+			<role>Xenomorph</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">May 4 2017</releasedate>
+		<releasedate country="Ukraine">May 7 2017</releasedate>
+		<releasedate country="France">May 8 2017</releasedate>
+		<releasedate country="South Korea">May 9 2017</releasedate>
+		<releasedate country="France">May 10 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Serbia">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>xenomorph</keyword>
+		<keyword>android</keyword>
+		<keyword>alien</keyword>
+		<keyword>future</keyword>
+		<keyword>stasis</keyword>
+		<keyword>alien technology</keyword>
+		<keyword>scientist</keyword>
+		<keyword>sequel</keyword>
+		<keyword>space travel</keyword>
+		<keyword>outer space</keyword>
+		<keyword>sequel to prequel</keyword>
+		<keyword>second part</keyword>
+		<keyword>planet</keyword>
+		<keyword>deception</keyword>
+		<keyword>terraforming</keyword>
+		<keyword>spacesuit</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>prequel and sequel</keyword>
+		<keyword>prequel</keyword>
+		<keyword>robot</keyword>
+		<keyword>gun</keyword>
+		<keyword>blood</keyword>
+		<keyword>violence</keyword>
+		<keyword>trapped in space</keyword>
+		<keyword>archaeologist</keyword>
+		<keyword>reference to michelangelo's david</keyword>
+		<keyword>same actor playing two characters simultaneously on screen</keyword>
+		<keyword>expedition</keyword>
+		<keyword>mission</keyword>
+		<keyword>gay</keyword>
+		<keyword>egg</keyword>
+		<keyword>suffocated to death</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>biological weapon</keyword>
+		<keyword>sole survivor</keyword>
+		<keyword>medical bay</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>suspended animation</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>futuristic</keyword>
+		<keyword>fear</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>signal</keyword>
+		<keyword>insanity</keyword>
+		<keyword>spacewalk</keyword>
+		<keyword>actor playing multiple roles</keyword>
+		<keyword>pathogen</keyword>
+		<keyword>alien parasite</keyword>
+		<keyword>parasite</keyword>
+		<keyword>sequel to cult favorite</keyword>
+		<keyword>embryo</keyword>
+		<keyword>colonization</keyword>
+		<keyword>space exploration</keyword>
+		<keyword>reference to john denver</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>bullet</keyword>
+		<keyword>latex gloves</keyword>
+		<keyword>two word title</keyword>
+		<keyword>interrupted sex</keyword>
+		<keyword>partial female nudity</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>secret room</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>homosexual couple</keyword>
+		<keyword>lovecraftian</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>bad guy wins</keyword>
+		<keyword>punctuation in title</keyword>
+		<keyword>dual role</keyword>
+		<keyword>reference to piero della francesca</keyword>
+		<keyword>spaceship name in title</keyword>
+		<keyword>grand piano</keyword>
+		<keyword>woman wears a tank top</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>year 2104</keyword>
+		<keyword>alien spacecraft</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>robot kisses human</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>cult film</keyword>
+		<keyword>furry</keyword>
+		<keyword>biopunk</keyword>
+		<keyword>monster horror</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>deep trauma</keyword>
+		<keyword>paramedic</keyword>
+		<keyword>surgical stapler</keyword>
+		<keyword>intestine</keyword>
+		<keyword>cadaver</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>epic sci fi</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>characters killed one by one</keyword>
+		<keyword>nude woman killed</keyword>
+		<keyword>killed in a shower</keyword>
+		<keyword>2100s</keyword>
+		<keyword>22nd century</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>cryogenics</keyword>
+		<keyword>gay subtext</keyword>
+		<keyword>homoerotic</keyword>
+		<keyword>male male kiss</keyword>
+		<keyword>gay kiss</keyword>
+		<keyword>homoeroticism</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>tank top</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>rampage</keyword>
+		<keyword>dereliction of duty</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>hole in chest</keyword>
+		<keyword>sadism</keyword>
+		<keyword>sadist</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>severed head</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>biohazard</keyword>
+		<keyword>radio</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>ecologist</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>quarantine</keyword>
+		<keyword>neutrino</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>cult director</keyword>
+		<keyword>scroll</keyword>
+		<keyword>training</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>video recording</keyword>
+		<keyword>blood vomiting</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>scar</keyword>
+		<keyword>burned face</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>fire</keyword>
+		<keyword>female topless nudity</keyword>
+		<keyword>rear nudity</keyword>
+		<keyword>sex in a shower</keyword>
+		<keyword>body horror</keyword>
+		<keyword>infection</keyword>
+		<keyword>flare gun</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fight</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>super strength</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>mountain</keyword>
+		<keyword>river</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>hurricane</keyword>
+		<keyword>lightning</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>anger</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>explosive decompression</keyword>
+		<keyword>bulldozer</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>urination</keyword>
+		<keyword>stupid victim</keyword>
+		<keyword>sergeant</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>female mechanic</keyword>
+		<keyword>engineer</keyword>
+		<keyword>doctor</keyword>
+		<keyword>ship captain</keyword>
+		<keyword>captain</keyword>
+		<keyword>pilot</keyword>
+		<keyword>female mercenary</keyword>
+		<keyword>biologist</keyword>
+		<keyword>armory</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>pistol</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>acid</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>humanoid</keyword>
+		<keyword>mass grave</keyword>
+		<keyword>impalement</keyword>
+		<keyword>disembowelment</keyword>
+		<keyword>grave</keyword>
+		<keyword>genocide</keyword>
+		<keyword>massacre</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>chase</keyword>
+		<keyword>screaming</keyword>
+		<keyword>distrust</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>survival</keyword>
+		<keyword>gore</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>suspense</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>infirmary</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>laser</keyword>
+		<keyword>cowboy hat</keyword>
+		<keyword>cutting one's own hair</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>corpse</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>f word</keyword>
+		<keyword>faith</keyword>
+		<keyword>science versus religion</keyword>
+		<keyword>creationism</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>explosion</keyword>
+		<keyword>death</keyword>
+		<keyword>shockwave</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>interracial marriage</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>widower</keyword>
+		<keyword>widow</keyword>
+		<keyword>helmet camera</keyword>
+		<keyword>camera</keyword>
+		<keyword>helmet</keyword>
+		<keyword>photograph</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>prologue</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>robot as pathos</keyword>
+		<keyword>robot as menace</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>reference to valhalla</keyword>
+		<keyword>recorder</keyword>
+		<keyword>space western</keyword>
+		<keyword>reference to michaelangelo</keyword>
+		<keyword>ceo</keyword>
+		<keyword>flashback</keyword>
+		<keyword>virus</keyword>
+		<keyword>neomorph</keyword>
+		<keyword>monster</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>creature</keyword>
+		<keyword>space colonization</keyword>
+		<keyword>camera shot from inside human body</keyword>
+		<keyword>death of loved one</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>loss of wife</keyword>
+		<keyword>loss of husband</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>reference to richard wagner</keyword>
+		<keyword>reference to john milton</keyword>
+		<keyword>reference to lord byron</keyword>
+		<keyword>reference to percy bysshe shelley</keyword>
+		<keyword>exploding spaceship</keyword>
+		<keyword>singing in a spaceship</keyword>
+		<keyword>race against time</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>killed during sex</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>axe</keyword>
+		<keyword>fire extinguisher</keyword>
+		<keyword>funeral</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>super computer</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>beard</keyword>
+		<keyword>shaving</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>shower</keyword>
+		<keyword>chest ripped open</keyword>
+		<keyword>security camera</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>mexican</keyword>
+		<keyword>soldier</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>sniper</keyword>
+		<keyword>mechanic</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>armored car</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>knife</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>head blown off</keyword>
+		<keyword>cave</keyword>
+		<keyword>human alien</keyword>
+		<keyword>wheat</keyword>
+		<keyword>hologram</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>painting</keyword>
+		<keyword>statue</keyword>
+		<keyword>barefoot male</keyword>
+		<keyword>babe scientist</keyword>
+	</keywords>
+	<directors>
+		<director> Ridley Scott</director>
+	</directors>
+	<composers>
+		<composer> Jed Kurzel</composer>
+	</composers>
+	<producers>
+		<producer> David Giler</producer>
+		<producer> Amy Greene</producer>
+		<producer> Walter Hill</producer>
+		<producer> Mark Huffam</producer>
+		<producer> Hannah Ireland</producer>
+		<producer> Teresa Kelly</producer>
+		<producer> Michael Schaefer</producer>
+		<producer> Ridley Scott</producer>
+	</producers>
+	<writers>
+		<writer> Dan O'Bannon</writer>
+		<writer> Ronald Shusett</writer>
+		<writer> Jack Paglen</writer>
+		<writer> Michael Green</writer>
+		<writer> John Logan</writer>
+		<writer> Dante Harper</writer>
+	</writers>
+	<editors>
+		<editor> Pietro Scalia</editor>
+	</editors>
+</doc>

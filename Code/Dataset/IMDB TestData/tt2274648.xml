@@ -1,0 +1,931 @@
+<?xml version="1.0" ?>
+<doc id="tt2274648">
+	<docid>tt2274648</docid>
+	<title>Hellboy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Caught between the worlds of the supernatural and human, Hellboy battles an ancient sorceress bent on revenge.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>David Harbour</actor>
+			<role>Hellboy</role>
+		</credit>
+		<credit>
+			<actor>Milla Jovovich</actor>
+			<role>Nimue</role>
+		</credit>
+		<credit>
+			<actor>Ian McShane</actor>
+			<role>Professor Broom</role>
+		</credit>
+		<credit>
+			<actor>Sasha Lane</actor>
+			<role>Alice Monaghan</role>
+		</credit>
+		<credit>
+			<actor>Mark Stanley</actor>
+			<role>Arthur</role>
+		</credit>
+		<credit>
+			<actor>Brian Gleeson</actor>
+			<role>Merlin</role>
+		</credit>
+		<credit>
+			<actor>Nadya Keranova</actor>
+			<role>Sister</role>
+		</credit>
+		<credit>
+			<actor>Maria Tepavicharova</actor>
+			<role>Sister</role>
+		</credit>
+		<credit>
+			<actor>Ana Tabakova</actor>
+			<role>Sister</role>
+		</credit>
+		<credit>
+			<actor>Penelope Mitchell</actor>
+			<role>Ganeida</role>
+		</credit>
+		<credit>
+			<actor>Terry Randal</actor>
+			<role>Priest</role>
+		</credit>
+		<credit>
+			<actor>Mario de la Rosa</actor>
+			<role>Esteban Ruiz</role>
+		</credit>
+		<credit>
+			<actor>Christopher Mata</actor>
+			<role>Referee</role>
+		</credit>
+		<credit>
+			<actor>Atanas Srebrev</actor>
+			<role>Agent Madison</role>
+		</credit>
+		<credit>
+			<actor>Dawn Sherrer</actor>
+			<role>Agent Strode</role>
+		</credit>
+		<credit>
+			<actor>Michael Heath</actor>
+			<role>Butler</role>
+		</credit>
+		<credit>
+			<actor>Alistair Petrie</actor>
+			<role>Lord Adam Glaren</role>
+		</credit>
+		<credit>
+			<actor>Rick Warden</actor>
+			<role>Dr. Edwin Carp</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Israel">April 9 2019</releasedate>
+		<releasedate country="United States">April 9 2019</releasedate>
+		<releasedate country="Belgium">April 10 2019</releasedate>
+		<releasedate country="Egypt">April 10 2019</releasedate>
+		<releasedate country="Indonesia">April 10 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-15</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Indonesia">21+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Nigeria">18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">Not Rated</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>demon</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>superhero</keyword>
+		<keyword>magic</keyword>
+		<keyword>baba yaga</keyword>
+		<keyword>sorceress</keyword>
+		<keyword>death</keyword>
+		<keyword>wizard</keyword>
+		<keyword>reboot</keyword>
+		<keyword>based on graphic novel</keyword>
+		<keyword>violence</keyword>
+		<keyword>merlin character</keyword>
+		<keyword>witch</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>troubled production</keyword>
+		<keyword>london england</keyword>
+		<keyword>year 1992</keyword>
+		<keyword>evil woman</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>monster</keyword>
+		<keyword>bar</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>excalibur</keyword>
+		<keyword>showdown</keyword>
+		<keyword>revenge</keyword>
+		<keyword>fate</keyword>
+		<keyword>destiny</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>baby</keyword>
+		<keyword>orphan</keyword>
+		<keyword>identity</keyword>
+		<keyword>ghost</keyword>
+		<keyword>sword</keyword>
+		<keyword>vampire</keyword>
+		<keyword>plague</keyword>
+		<keyword>year 1944</keyword>
+		<keyword>parallel world</keyword>
+		<keyword>hero</keyword>
+		<keyword>year 517</keyword>
+		<keyword>graphic violence</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>dark horse comics</keyword>
+		<keyword>f word</keyword>
+		<keyword>friendship</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>one word title</keyword>
+		<keyword>paranormal investigation team</keyword>
+		<keyword>invasion</keyword>
+		<keyword>church</keyword>
+		<keyword>hellboy character</keyword>
+		<keyword>hell</keyword>
+		<keyword>devil</keyword>
+		<keyword>military</keyword>
+		<keyword>broom character</keyword>
+		<keyword>female villain</keyword>
+		<keyword>action hero</keyword>
+		<keyword>ben daimio character</keyword>
+		<keyword>witchcraft</keyword>
+		<keyword>gore</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>hacking off limbs</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>jaffa cakes</keyword>
+		<keyword>irishman</keyword>
+		<keyword>american actress playing british character</keyword>
+		<keyword>sword and sorcery</keyword>
+		<keyword>paranormal phenomenon</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>son</keyword>
+		<keyword>fallen angel</keyword>
+		<keyword>koschei</keyword>
+		<keyword>mystical ritual</keyword>
+		<keyword>occultist</keyword>
+		<keyword>world</keyword>
+		<keyword>result</keyword>
+		<keyword>advantage</keyword>
+		<keyword>third reich</keyword>
+		<keyword>gain</keyword>
+		<keyword>fascist</keyword>
+		<keyword>plan</keyword>
+		<keyword>reality</keyword>
+		<keyword>demon from hell</keyword>
+		<keyword>protecting the world</keyword>
+		<keyword>mysterious threat</keyword>
+		<keyword>face to face</keyword>
+		<keyword>blood queen</keyword>
+		<keyword>battle</keyword>
+		<keyword>army</keyword>
+		<keyword>ideal soldier</keyword>
+		<keyword>black magic</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>chandelier</keyword>
+		<keyword>mage</keyword>
+		<keyword>black veil</keyword>
+		<keyword>bartender</keyword>
+		<keyword>male bartender</keyword>
+		<keyword>fang</keyword>
+		<keyword>spotlight</keyword>
+		<keyword>poster</keyword>
+		<keyword>bowtie</keyword>
+		<keyword>club</keyword>
+		<keyword>globe</keyword>
+		<keyword>pocket squares</keyword>
+		<keyword>secret door</keyword>
+		<keyword>secret passageway</keyword>
+		<keyword>oven</keyword>
+		<keyword>corridor</keyword>
+		<keyword>cane</keyword>
+		<keyword>dog</keyword>
+		<keyword>display case</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>pearl necklace</keyword>
+		<keyword>gray hair</keyword>
+		<keyword>soothsayer</keyword>
+		<keyword>fur coat</keyword>
+		<keyword>secret chamber</keyword>
+		<keyword>walking with a cane</keyword>
+		<keyword>ritual</keyword>
+		<keyword>bearded bald man</keyword>
+		<keyword>drawing a sword</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>pulling a knife</keyword>
+		<keyword>chest</keyword>
+		<keyword>superstition</keyword>
+		<keyword>rural area</keyword>
+		<keyword>rural road</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>impalement</keyword>
+		<keyword>body part</keyword>
+		<keyword>long haired woman</keyword>
+		<keyword>woman with long hair</keyword>
+		<keyword>betrayer</keyword>
+		<keyword>flesh eating</keyword>
+		<keyword>attack</keyword>
+		<keyword>assault</keyword>
+		<keyword>fight</keyword>
+		<keyword>tusk</keyword>
+		<keyword>stench</keyword>
+		<keyword>reek</keyword>
+		<keyword>murderous scheme</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>green car</keyword>
+		<keyword>beads</keyword>
+		<keyword>braids</keyword>
+		<keyword>breakfast</keyword>
+		<keyword>red eyes</keyword>
+		<keyword>crystal ball</keyword>
+		<keyword>woman makes food</keyword>
+		<keyword>rifle</keyword>
+		<keyword>prophecy</keyword>
+		<keyword>reunion</keyword>
+		<keyword>raid</keyword>
+		<keyword>broken glass</keyword>
+		<keyword>apartment</keyword>
+		<keyword>apartment building</keyword>
+		<keyword>apartment block</keyword>
+		<keyword>full moon</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>hand holding</keyword>
+		<keyword>injection</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>blood</keyword>
+		<keyword>creature</keyword>
+		<keyword>drinking from a bottle</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>woman cooks breakfast</keyword>
+		<keyword>murder</keyword>
+		<keyword>reference to hellboy</keyword>
+		<keyword>late antiquity</keyword>
+		<keyword>early middle ages</keyword>
+		<keyword>cleavage</keyword>
+		<keyword>gruesome</keyword>
+		<keyword>psychic</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>ripped in half</keyword>
+		<keyword>dark ages</keyword>
+		<keyword>tijuana mexico</keyword>
+		<keyword>rock music</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>colorado</keyword>
+		<keyword>profanity</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>england</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>open ended</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>midnight movie</keyword>
+		<keyword>campy</keyword>
+		<keyword>machismo</keyword>
+		<keyword>pulp fiction</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>reboot of series</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>arthurian legend</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>sorcerer</keyword>
+		<keyword>flashback</keyword>
+		<keyword>splatter</keyword>
+		<keyword>lovecraftian</keyword>
+		<keyword>lovecraftian horror</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>prologue</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>tower bridge london</keyword>
+		<keyword>st paul's cathedral</keyword>
+		<keyword>chase</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>one against many</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>one liner</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>secret headquarters</keyword>
+		<keyword>secret government organization</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>paranormal investigator</keyword>
+		<keyword>government agent</keyword>
+		<keyword>female agent</keyword>
+		<keyword>tree</keyword>
+		<keyword>occult</keyword>
+		<keyword>reference to the beatles</keyword>
+		<keyword>reference to alice in wonderland</keyword>
+		<keyword>nazi</keyword>
+		<keyword>swastika</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>nazi hunter</keyword>
+		<keyword>monster hunter</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>race against time</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>villainess</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>evil sorceress</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>major</keyword>
+		<keyword>evil queen</keyword>
+		<keyword>evil</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>world domination</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>goblin</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>brass knuckles</keyword>
+		<keyword>giant</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>parallel dimension</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>long take</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>soldier</keyword>
+		<keyword>special forces</keyword>
+		<keyword>glass ball</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>curse</keyword>
+		<keyword>double cross</keyword>
+		<keyword>mutation</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>transformation</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>body count</keyword>
+		<keyword>bullet</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>housing estate</keyword>
+		<keyword>crypt</keyword>
+		<keyword>dreadlocks</keyword>
+		<keyword>product placement</keyword>
+		<keyword>professor</keyword>
+		<keyword>news report</keyword>
+		<keyword>mountain</keyword>
+		<keyword>island</keyword>
+		<keyword>scotland</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>van</keyword>
+		<keyword>swat team</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>elevator</keyword>
+		<keyword>scar</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>blindness</keyword>
+		<keyword>seer</keyword>
+		<keyword>fortune teller</keyword>
+		<keyword>premonition</keyword>
+		<keyword>vision</keyword>
+		<keyword>flaming sword</keyword>
+		<keyword>seeing the future</keyword>
+		<keyword>skull</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>dark past</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>siberia</keyword>
+		<keyword>abandoned factory</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>gunsmith</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>branding</keyword>
+		<keyword>poison</keyword>
+		<keyword>cave</keyword>
+		<keyword>reanimated corpse</keyword>
+		<keyword>corpse</keyword>
+		<keyword>maggot</keyword>
+		<keyword>crow</keyword>
+		<keyword>horse</keyword>
+		<keyword>bridge</keyword>
+		<keyword>river</keyword>
+		<keyword>irish</keyword>
+		<keyword>country manor</keyword>
+		<keyword>manor house</keyword>
+		<keyword>mansion</keyword>
+		<keyword>hunter</keyword>
+		<keyword>hunt</keyword>
+		<keyword>secret society</keyword>
+		<keyword>photograph</keyword>
+		<keyword>abbey</keyword>
+		<keyword>photographer</keyword>
+		<keyword>camera</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>sawed off shotgun</keyword>
+		<keyword>monk</keyword>
+		<keyword>masked man</keyword>
+		<keyword>face mask</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>lord</keyword>
+		<keyword>monastery</keyword>
+		<keyword>armory</keyword>
+		<keyword>spear</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>portal</keyword>
+		<keyword>buried alive</keyword>
+		<keyword>decomposing body</keyword>
+		<keyword>disembodied head</keyword>
+		<keyword>severed head</keyword>
+		<keyword>mexican</keyword>
+		<keyword>horseshoe</keyword>
+		<keyword>iron</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>massacre</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>wrestling</keyword>
+		<keyword>wrestling match</keyword>
+		<keyword>wrestling ring</keyword>
+		<keyword>wrestler</keyword>
+		<keyword>luchador</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>monster fight</keyword>
+		<keyword>cheetah</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>tongue ripped out</keyword>
+		<keyword>body cut in two</keyword>
+		<keyword>head ripped off</keyword>
+		<keyword>dismemberment</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>impaled through eye</keyword>
+		<keyword>eyeball</keyword>
+		<keyword>eye gouging</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>stabbed through the head</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed through the throat</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>sword and fantasy</keyword>
+		<keyword>dragon</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>rampage</keyword>
+		<keyword>chaos</keyword>
+		<keyword>destruction</keyword>
+		<keyword>crucifix</keyword>
+		<keyword>necklace</keyword>
+		<keyword>knight</keyword>
+		<keyword>distrust</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>darkness</keyword>
+		<keyword>hill</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>immortality</keyword>
+		<keyword>healing</keyword>
+		<keyword>texting</keyword>
+		<keyword>father figure</keyword>
+		<keyword>dark magic</keyword>
+		<keyword>crown</keyword>
+		<keyword>knife</keyword>
+		<keyword>healing power</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>fire</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>world war two</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>montage</keyword>
+		<keyword>beach</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>taser</keyword>
+		<keyword>exploitation</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>police</keyword>
+		<keyword>gun hidden under table</keyword>
+		<keyword>mission</keyword>
+		<keyword>saving the world mission</keyword>
+		<keyword>saving the world</keyword>
+		<keyword>heroism</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>vintage car</keyword>
+		<keyword>panther</keyword>
+		<keyword>reference to twitter</keyword>
+		<keyword>trenchcoat</keyword>
+		<keyword>gory violence</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>brutal violence</keyword>
+		<keyword>extreme violence</keyword>
+		<keyword>ambush</keyword>
+		<keyword>scorpion</keyword>
+		<keyword>gothic</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>american actor with bad british accent</keyword>
+		<keyword>crow eating the eye of a dead body</keyword>
+		<keyword>some scenes in black and white</keyword>
+		<keyword>dismembered</keyword>
+		<keyword>pendle hill england</keyword>
+		<keyword>impaled by a spear</keyword>
+		<keyword>betrayed</keyword>
+		<keyword>scorpion sting</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>scorpion crawling on arm</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>tiajuana mexico</keyword>
+		<keyword>double barreled pistol</keyword>
+		<keyword>drunken monster</keyword>
+		<keyword>breaking a cellphone</keyword>
+		<keyword>professional wrestling match</keyword>
+		<keyword>uh 60 blackhawk helicopter</keyword>
+		<keyword>superhero origin</keyword>
+		<keyword>shadow</keyword>
+		<keyword>impaled on a post</keyword>
+		<keyword>color highlight</keyword>
+		<keyword>chalkboard</keyword>
+		<keyword>osiris club</keyword>
+		<keyword>rolls royce</keyword>
+		<keyword>vow of silence</keyword>
+		<keyword>torn limb from limb</keyword>
+		<keyword>mp 40 machine gun</keyword>
+		<keyword>fire fight</keyword>
+		<keyword>shot in the face point blank</keyword>
+		<keyword>human branding</keyword>
+		<keyword>toungue ripped out</keyword>
+		<keyword>trunk wrapped with chain</keyword>
+		<keyword>electrified spear</keyword>
+		<keyword>channel surfing</keyword>
+		<keyword>head cleaved in two</keyword>
+		<keyword>tarot card</keyword>
+		<keyword>shotgun under the table</keyword>
+		<keyword>psychic migraine</keyword>
+		<keyword>broken neck</keyword>
+		<keyword>self injection</keyword>
+		<keyword>flash back</keyword>
+		<keyword>changeling</keyword>
+		<keyword>secret entrance</keyword>
+		<keyword>fish and chips</keyword>
+		<keyword>reattached head</keyword>
+		<keyword>monster gobbles up people</keyword>
+		<keyword>sickle</keyword>
+		<keyword>icthyo sapien</keyword>
+		<keyword>eye hanging from eye socket</keyword>
+		<keyword>rapid healing</keyword>
+		<keyword>half human</keyword>
+		<keyword>human skull</keyword>
+		<keyword>sword in stone</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>fissure</keyword>
+		<keyword>flaming crown</keyword>
+		<keyword>demon falling from the sky</keyword>
+		<keyword>manhole</keyword>
+		<keyword>breaking a horn</keyword>
+		<keyword>cast into hell</keyword>
+		<keyword>infant monster</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>king arthur character</keyword>
+		<keyword>reference to uber</keyword>
+		<keyword>reference to humpty dumpty</keyword>
+		<keyword>title spoken in foreign language</keyword>
+		<keyword>reference to winston churchill</keyword>
+		<keyword>grigori rasputin character</keyword>
+		<keyword>graveyard</keyword>
+		<keyword>baba yaga character</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>magical sword</keyword>
+		<keyword>death of adoptive father</keyword>
+		<keyword>man uses a cane</keyword>
+		<keyword>medieval fantasy</keyword>
+		<keyword>fantasy world</keyword>
+		<keyword>medieval times</keyword>
+		<keyword>long haired female</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>humanoid</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>firearm</keyword>
+		<keyword>gun</keyword>
+		<keyword>child</keyword>
+		<keyword>male professor</keyword>
+		<keyword>sport utility vehicle</keyword>
+		<keyword>grave</keyword>
+		<keyword>beheading</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>supervillainess</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>mercedes benz motor vehicle</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>half human half demon</keyword>
+		<keyword>animal</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>suv</keyword>
+		<keyword>handgun</keyword>
+		<keyword>humanoid monster</keyword>
+		<keyword>ungulate</keyword>
+		<keyword>impaled through the shoulder</keyword>
+		<keyword>long haired male</keyword>
+		<keyword>weapon</keyword>
+		<keyword>mammal</keyword>
+		<keyword>human demon hybrid</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>night</keyword>
+		<keyword>jungle</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>werejaguar</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>bipedal monster</keyword>
+		<keyword>hidden gun</keyword>
+		<keyword>male human demon hybrid</keyword>
+		<keyword>talking monster</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>winged creature</keyword>
+		<keyword>hidden weapon</keyword>
+		<keyword>human versus monster</keyword>
+		<keyword>monster attack</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>horn the musical instrument</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>severed body part</keyword>
+		<keyword>united kingdom</keyword>
+		<keyword>nazi occultism</keyword>
+		<keyword>falling through a window</keyword>
+		<keyword>bookshelf</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>superhero horror</keyword>
+		<keyword>humanity in jeopardy</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>bureau for paranormal research and defense</keyword>
+		<keyword>adoptive father adopted son relationship</keyword>
+		<keyword>government agency</keyword>
+		<keyword>son of the devil</keyword>
+		<keyword>son of satan</keyword>
+		<keyword>devil horns</keyword>
+		<keyword>paranormal creature</keyword>
+		<keyword>supernatural creature</keyword>
+		<keyword>demon spawn</keyword>
+		<keyword>sixteenth century</keyword>
+		<keyword>descendant</keyword>
+		<keyword>sword in the stone</keyword>
+		<keyword>heir</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>reference to abe sapien</keyword>
+		<keyword>jaguar</keyword>
+		<keyword>belize</keyword>
+		<keyword>mexico</keyword>
+		<keyword>mexican wrestling</keyword>
+		<keyword>masked wrestler</keyword>
+		<keyword>cottage</keyword>
+		<keyword>bargain</keyword>
+		<keyword>kiss on the mouth</keyword>
+		<keyword>hag</keyword>
+		<keyword>reference to osiris the egyptian deity</keyword>
+		<keyword>reference to the egyptian sun god ra</keyword>
+		<keyword>reference to the egyptian god osiris</keyword>
+		<keyword>reference to osiris the egyptian god</keyword>
+		<keyword>talking severed head</keyword>
+		<keyword>brought back to life</keyword>
+		<keyword>lobster johnson character</keyword>
+		<keyword>branded</keyword>
+		<keyword>origin</keyword>
+		<keyword>hunting party</keyword>
+		<keyword>spirit medium</keyword>
+		<keyword>psychic medium</keyword>
+		<keyword>facial scar</keyword>
+		<keyword>mid credits scene</keyword>
+		<keyword>post credits scene</keyword>
+		<keyword>another dimension</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>death of father figure</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>one eyed</keyword>
+		<keyword>peg leg</keyword>
+		<keyword>eating children</keyword>
+		<keyword>pestilence</keyword>
+		<keyword>tv news</keyword>
+		<keyword>apocalyptic vision</keyword>
+		<keyword>half demon</keyword>
+		<keyword>fairy</keyword>
+		<keyword>faerie</keyword>
+		<keyword>reference to through the looking glass</keyword>
+		<keyword>trench coat</keyword>
+		<keyword>denver colorado</keyword>
+		<keyword>headquarters</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>iron metal</keyword>
+		<keyword>st. paul's cathedral london</keyword>
+		<keyword>tomb</keyword>
+		<keyword>monster slayer</keyword>
+		<keyword>giant killer</keyword>
+		<keyword>slowed aging process</keyword>
+		<keyword>international cooperation</keyword>
+		<keyword>cathedral</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>severed limb</keyword>
+		<keyword>reattaching a limb</keyword>
+		<keyword>boar</keyword>
+		<keyword>carnage</keyword>
+		<keyword>poisoned thorn</keyword>
+		<keyword>thorn</keyword>
+		<keyword>help from beyond the grave</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>death of father</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>snow</keyword>
+		<keyword>armored car</keyword>
+		<keyword>helmet</keyword>
+		<keyword>police car</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>destroyed bridge</keyword>
+		<keyword>zombie</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>tommy gun</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>dhampir</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>fish tank</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>hummer</keyword>
+		<keyword>hidden door</keyword>
+		<keyword>reference to a seance</keyword>
+		<keyword>death of friend</keyword>
+	</keywords>
+	<directors>
+		<director> Neil Marshall</director>
+	</directors>
+	<composers>
+		<composer> Benjamin Wallfisch</composer>
+	</composers>
+	<producers>
+		<producer> Martin Bernfeld</producer>
+		<producer> Christa Campbell</producer>
+		<producer> Lawrence Gordon</producer>
+		<producer> Jeffrey Greenstein</producer>
+		<producer> Lati Grobman</producer>
+		<producer> Carl Hampe</producer>
+		<producer> Marc Helwig</producer>
+		<producer> Avi Lerner</producer>
+		<producer> Yariv Lerner</producer>
+		<producer> Lloyd Levin</producer>
+		<producer> Elena Melamed</producer>
+		<producer> Mike Mignola</producer>
+		<producer> Matthew O'Toole</producer>
+		<producer> Lonnie Ramati</producer>
+		<producer> Mike Richardson</producer>
+		<producer> Trevor Short</producer>
+		<producer> John Thompson</producer>
+		<producer> Les Weldon</producer>
+		<producer> Philip Westgren</producer>
+	</producers>
+	<writers>
+		<writer> Andrew Cosby</writer>
+		<writer> Mike Mignola</writer>
+	</writers>
+	<editors>
+		<editor> Martin Bernfeld</editor>
+	</editors>
+</doc>

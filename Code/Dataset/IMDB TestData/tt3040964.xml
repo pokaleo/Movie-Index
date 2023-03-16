@@ -1,0 +1,466 @@
+<?xml version="1.0" ?>
+<doc id="tt3040964">
+	<docid>tt3040964</docid>
+	<title>The Jungle Book</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Neel Sethi</actor>
+			<role>Mowgli</role>
+		</credit>
+		<credit>
+			<actor>Bill Murray</actor>
+			<role>Baloo</role>
+		</credit>
+		<credit>
+			<actor>Ben Kingsley</actor>
+			<role>Bagheera</role>
+		</credit>
+		<credit>
+			<actor>Idris Elba</actor>
+			<role>Shere Khan</role>
+		</credit>
+		<credit>
+			<actor>Lupita Nyong'o</actor>
+			<role>Raksha</role>
+		</credit>
+		<credit>
+			<actor>Scarlett Johansson</actor>
+			<role>Kaa</role>
+		</credit>
+		<credit>
+			<actor>Giancarlo Esposito</actor>
+			<role>Akela</role>
+		</credit>
+		<credit>
+			<actor>Christopher Walken</actor>
+			<role>King Louie</role>
+		</credit>
+		<credit>
+			<actor>Garry Shandling</actor>
+			<role>Ikki</role>
+		</credit>
+		<credit>
+			<actor>Brighton Rose Favreau</actor>
+			<role>Gray</role>
+		</credit>
+		<credit>
+			<actor>Emjay Anthony</actor>
+			<role>Young Wolf</role>
+		</credit>
+		<credit>
+			<actor>Max Favreau</actor>
+			<role>Young Wolf</role>
+		</credit>
+		<credit>
+			<actor>Chloe Hechter</actor>
+			<role>Young Wolf</role>
+		</credit>
+		<credit>
+			<actor>Asher Blinkoff</actor>
+			<role>Young Wolf</role>
+		</credit>
+		<credit>
+			<actor>Knox Gagnon</actor>
+			<role>Young Wolf</role>
+		</credit>
+		<credit>
+			<actor>Sasha Schreiber</actor>
+			<role>Young Wolf</role>
+		</credit>
+		<credit>
+			<actor>Kai Schreiber</actor>
+			<role>Young Wolf</role>
+		</credit>
+		<credit>
+			<actor>Jon Favreau</actor>
+			<role>Pygmy Hog</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">April 4 2016</releasedate>
+		<releasedate country="Argentina">April 7 2016</releasedate>
+		<releasedate country="Australia">April 7 2016</releasedate>
+		<releasedate country="Azerbaijan">April 7 2016</releasedate>
+		<releasedate country="Bolivia">April 7 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K-8</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="Iceland">10</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-7</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">12+</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">A/i</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">8</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">G</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>jungle</keyword>
+		<keyword>human animal relationship</keyword>
+		<keyword>tiger</keyword>
+		<keyword>wolf</keyword>
+		<keyword>black panther</keyword>
+		<keyword>fire</keyword>
+		<keyword>raised by animals</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>remake</keyword>
+		<keyword>bee sting</keyword>
+		<keyword>wild animal</keyword>
+		<keyword>bear</keyword>
+		<keyword>python</keyword>
+		<keyword>live action remake</keyword>
+		<keyword>friendship</keyword>
+		<keyword>courage</keyword>
+		<keyword>bare chested boy</keyword>
+		<keyword>baby elephant</keyword>
+		<keyword>human bear relationship</keyword>
+		<keyword>buffalo</keyword>
+		<keyword>squirrel</keyword>
+		<keyword>wildfire</keyword>
+		<keyword>orangutan</keyword>
+		<keyword>friends who live together</keyword>
+		<keyword>hypnosis</keyword>
+		<keyword>wildlife</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>bee</keyword>
+		<keyword>abduction</keyword>
+		<keyword>climbing a cliff</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>disney live action remake of animated film</keyword>
+		<keyword>cgi animal in live action title</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>india</keyword>
+		<keyword>boy</keyword>
+		<keyword>three word title</keyword>
+		<keyword>motion capture</keyword>
+		<keyword>king</keyword>
+		<keyword>talking to an animal</keyword>
+		<keyword>child protagonist</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>human animal friendship</keyword>
+		<keyword>interspecies friendship</keyword>
+		<keyword>interspecies relationship</keyword>
+		<keyword>final battle</keyword>
+		<keyword>climbing a tree</keyword>
+		<keyword>man cub</keyword>
+		<keyword>panther</keyword>
+		<keyword>journey</keyword>
+		<keyword>orphan</keyword>
+		<keyword>man village</keyword>
+		<keyword>giant ape</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>luring</keyword>
+		<keyword>injured by an animal</keyword>
+		<keyword>animal companion</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>flashback</keyword>
+		<keyword>wild pig</keyword>
+		<keyword>howling</keyword>
+		<keyword>bowing</keyword>
+		<keyword>ingenuity</keyword>
+		<keyword>torch</keyword>
+		<keyword>stampede</keyword>
+		<keyword>river</keyword>
+		<keyword>singing</keyword>
+		<keyword>deer</keyword>
+		<keyword>cave</keyword>
+		<keyword>bell</keyword>
+		<keyword>tree</keyword>
+		<keyword>vine</keyword>
+		<keyword>giant snake</keyword>
+		<keyword>monkey</keyword>
+		<keyword>elephant</keyword>
+		<keyword>porcupine</keyword>
+		<keyword>revenge</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>time lapse photography</keyword>
+		<keyword>avalanche</keyword>
+		<keyword>temple</keyword>
+		<keyword>papaya</keyword>
+		<keyword>animal</keyword>
+		<keyword>virtual set</keyword>
+		<keyword>narrated by character</keyword>
+		<keyword>pangolin</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>animal villain</keyword>
+		<keyword>unconsciousness</keyword>
+		<keyword>rampage</keyword>
+		<keyword>loincloth</keyword>
+		<keyword>live action cgi hybrid</keyword>
+		<keyword>wolf pack</keyword>
+		<keyword>village</keyword>
+		<keyword>based on book</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>rhinoceros</keyword>
+		<keyword>bonfire</keyword>
+		<keyword>honey</keyword>
+		<keyword>honeycomb</keyword>
+		<keyword>musical number</keyword>
+		<keyword>vulture</keyword>
+		<keyword>star died before release</keyword>
+		<keyword>computer generated imagery</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>based on cartoon</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>gigantopithecus</keyword>
+		<keyword>live action adaptation</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>mowgli character</keyword>
+		<keyword>baloo character</keyword>
+		<keyword>shere khan character</keyword>
+		<keyword>kaa character</keyword>
+		<keyword>jungle book</keyword>
+		<keyword>bagheera character</keyword>
+		<keyword>furry</keyword>
+		<keyword>king louie character</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>feral child</keyword>
+		<keyword>jungle adventure</keyword>
+		<keyword>boy wears a loincloth</keyword>
+		<keyword>black haired boy</keyword>
+		<keyword>deception</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>shedding skin</keyword>
+		<keyword>barefoot</keyword>
+		<keyword>determination</keyword>
+		<keyword>boy in jeopardy</keyword>
+		<keyword>snake</keyword>
+		<keyword>hypnotism</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>threat</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>laziness</keyword>
+		<keyword>ruthlessness</keyword>
+		<keyword>epic</keyword>
+		<keyword>battle</keyword>
+		<keyword>showdown</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>animal that acts human</keyword>
+		<keyword>greed</keyword>
+		<keyword>hypnotic eye</keyword>
+		<keyword>jazz music</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>indian</keyword>
+		<keyword>warning</keyword>
+		<keyword>burning</keyword>
+		<keyword>trick</keyword>
+		<keyword>sloth bear</keyword>
+		<keyword>bengal tiger</keyword>
+		<keyword>secret</keyword>
+		<keyword>asia</keyword>
+		<keyword>pygmy hog</keyword>
+		<keyword>water</keyword>
+		<keyword>animal human communication</keyword>
+		<keyword>fight</keyword>
+		<keyword>barefoot boy</keyword>
+		<keyword>barefoot child</keyword>
+		<keyword>cgi animal</keyword>
+		<keyword>narrator</keyword>
+		<keyword>adoptive family</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>hatred</keyword>
+		<keyword>giant animal</keyword>
+		<keyword>cub</keyword>
+		<keyword>parkour</keyword>
+		<keyword>mentor</keyword>
+		<keyword>self discovery</keyword>
+		<keyword>orphan boy</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>nature</keyword>
+		<keyword>rain</keyword>
+		<keyword>scene during closing credits</keyword>
+		<keyword>book</keyword>
+		<keyword>collapsing</keyword>
+		<keyword>herd</keyword>
+		<keyword>trap</keyword>
+		<keyword>rescue</keyword>
+		<keyword>protector</keyword>
+		<keyword>attempted revenge</keyword>
+		<keyword>revenge motive</keyword>
+		<keyword>revenge seeker</keyword>
+		<keyword>maniac</keyword>
+		<keyword>villain</keyword>
+		<keyword>hero</keyword>
+		<keyword>heroism</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>egomaniac</keyword>
+		<keyword>vow of revenge</keyword>
+		<keyword>revenge plot</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>bravery</keyword>
+		<keyword>escape</keyword>
+		<keyword>orphan child</keyword>
+		<keyword>jump scare</keyword>
+		<keyword>literature on screen</keyword>
+		<keyword>friend</keyword>
+		<keyword>abuse</keyword>
+		<keyword>photorealistic</keyword>
+		<keyword>truce</keyword>
+		<keyword>law of the jungle</keyword>
+		<keyword>mother wolf</keyword>
+		<keyword>gang</keyword>
+		<keyword>leader</keyword>
+		<keyword>befriending</keyword>
+		<keyword>speciesism</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>survival</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>mother</keyword>
+		<keyword>father</keyword>
+		<keyword>adopted son</keyword>
+		<keyword>indian elephant</keyword>
+		<keyword>capture</keyword>
+		<keyword>captured</keyword>
+		<keyword>night</keyword>
+		<keyword>child</keyword>
+		<keyword>climbing</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>title same as book</keyword>
+		<keyword>adoptive mother adopted son relationship</keyword>
+		<keyword>adoptive father adopted son relationship</keyword>
+		<keyword>adoptive parent</keyword>
+		<keyword>mind control</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>live action</keyword>
+		<keyword>arrogance</keyword>
+		<keyword>guardian</keyword>
+		<keyword>child hero</keyword>
+		<keyword>safety</keyword>
+		<keyword>attack</keyword>
+		<keyword>boy hero</keyword>
+		<keyword>raised by wolves</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>eye</keyword>
+		<keyword>hypnotic trance</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>backstabbing</keyword>
+		<keyword>mauled by a tiger</keyword>
+		<keyword>book with the same title as the film</keyword>
+		<keyword>payback</keyword>
+		<keyword>man fights a tiger</keyword>
+		<keyword>talking down to someone</keyword>
+		<keyword>rescuing an animal</keyword>
+		<keyword>death fall trap</keyword>
+		<keyword>protection</keyword>
+		<keyword>reimagining</keyword>
+		<keyword>gritty</keyword>
+		<keyword>character says tell the truth</keyword>
+		<keyword>counterpart</keyword>
+		<keyword>filmed entirely in studio</keyword>
+		<keyword>green screen effects</keyword>
+		<keyword>cash grab</keyword>
+		<keyword>retro version of studio logo</keyword>
+		<keyword>death of adoptive father</keyword>
+		<keyword>bittersweet</keyword>
+		<keyword>intense</keyword>
+		<keyword>tearful goodbye</keyword>
+		<keyword>fully reimagined</keyword>
+		<keyword>character tell someone to get out of his life</keyword>
+		<keyword>shocking</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>based on adaptation</keyword>
+		<keyword>dry season</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>fighting back</keyword>
+		<keyword>treetop</keyword>
+	</keywords>
+	<directors>
+		<director> Jon Favreau</director>
+	</directors>
+	<composers>
+		<composer> John Debney</composer>
+	</composers>
+	<producers>
+		<producer> Molly Allen</producer>
+		<producer> John Bartnicki</producer>
+		<producer> Joyce Cox</producer>
+		<producer> Jon Favreau</producer>
+		<producer> Karen Gilchrist</producer>
+		<producer> Brigham Taylor</producer>
+		<producer> Peter M. Tobyansen</producer>
+	</producers>
+	<writers>
+		<writer> Justin Marks</writer>
+		<writer> Rudyard Kipling</writer>
+	</writers>
+	<editors>
+		<editor> Adam Gerstel</editor>
+		<editor> Mark Livolsi</editor>
+	</editors>
+</doc>

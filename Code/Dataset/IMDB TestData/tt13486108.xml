@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<doc id="tt13486108">
+	<docid>tt13486108</docid>
+	<title>Requiem</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>II 2021</year>
+	<runningtimes>
+		<runningtime country="default">25</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Requiem is set in 1605, against the backdrop of the witch trials. It's a coming of age story, following Evelyn as she engages in a game of cat and mouse against her father, Minister Gilbert, in order to be with Mary, the woman she loves.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Bella Ramsey</actor>
+			<role>Evelyn</role>
+		</credit>
+		<credit>
+			<actor>Safia Oakley-Green</actor>
+			<role>Mary</role>
+		</credit>
+		<credit>
+			<actor>Simon Balcon</actor>
+			<role>Minister Gilbert</role>
+		</credit>
+		<credit>
+			<actor>Sean Buchanan</actor>
+			<role>Magistrate Shorter</role>
+		</credit>
+		<credit>
+			<actor>Jack Norris</actor>
+			<role>Matthew Shorter</role>
+		</credit>
+		<credit>
+			<actor>Juliet Dante</actor>
+			<role>Agnes</role>
+		</credit>
+		<credit>
+			<actor>Jack Condon</actor>
+			<role>Abe</role>
+		</credit>
+		<credit>
+			<actor>Jason Adam</actor>
+			<role>Josiah</role>
+		</credit>
+		<credit>
+			<actor>Christine English</actor>
+			<role>Woman</role>
+		</credit>
+		<credit>
+			<actor>Stacey Edward Harris</actor>
+			<role>Woman</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">May 27 2021</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Emma J. Gilbertson</director>
+	</directors>
+	<composers>
+		<composer> Madison Willing</composer>
+	</composers>
+	<producers>
+		<producer> Michelle Brøndum</producer>
+	</producers>
+	<writers>
+		<writer> Laura Jayne Tunbridge</writer>
+	</writers>
+	<editors>
+		<editor> Oli Bauer</editor>
+	</editors>
+</doc>

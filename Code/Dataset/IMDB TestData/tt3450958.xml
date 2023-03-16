@@ -1,0 +1,517 @@
+<?xml version="1.0" ?>
+<doc id="tt3450958">
+	<docid>tt3450958</docid>
+	<title>War for the Planet of the Apes</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDNmYTQzMDEtMmY0MS00OTNjLTk4MjItMDZhMzkzOGI3MzA0XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">140</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Andy Serkis</actor>
+			<role>Caesar</role>
+		</credit>
+		<credit>
+			<actor>Woody Harrelson</actor>
+			<role>The Colonel</role>
+		</credit>
+		<credit>
+			<actor>Steve Zahn</actor>
+			<role>Bad Ape</role>
+		</credit>
+		<credit>
+			<actor>Karin Konoval</actor>
+			<role>Maurice</role>
+		</credit>
+		<credit>
+			<actor>Amiah Miller</actor>
+			<role>Nova</role>
+		</credit>
+		<credit>
+			<actor>Terry Notary</actor>
+			<role>Rocket</role>
+		</credit>
+		<credit>
+			<actor>Ty Olsson</actor>
+			<role>Red Donkey</role>
+		</credit>
+		<credit>
+			<actor>Michael Adamthwaite</actor>
+			<role>Luca</role>
+		</credit>
+		<credit>
+			<actor>Toby Kebbell</actor>
+			<role>Koba</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Chavarria</actor>
+			<role>Preacher</role>
+		</credit>
+		<credit>
+			<actor>Judy Greer</actor>
+			<role>Cornelia</role>
+		</credit>
+		<credit>
+			<actor>Sara Canning</actor>
+			<role>Lake</role>
+		</credit>
+		<credit>
+			<actor>Devyn Dalton</actor>
+			<role>Cornelius</role>
+		</credit>
+		<credit>
+			<actor>Aleks Paunovic</actor>
+			<role>Winter</role>
+		</credit>
+		<credit>
+			<actor>Alessandro Juliani</actor>
+			<role>Spear</role>
+		</credit>
+		<credit>
+			<actor>Max Lloyd-Jones</actor>
+			<role>Blue Eyes</role>
+		</credit>
+		<credit>
+			<actor>Timothy Webber</actor>
+			<role>Ape Elder</role>
+		</credit>
+		<credit>
+			<actor>Lauro David Chartrand-DelValle</actor>
+			<role>Look Out Ape</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">July 7 2017</releasedate>
+		<releasedate country="United States">July 10 2017</releasedate>
+		<releasedate country="United Kingdom">July 11 2017</releasedate>
+		<releasedate country="Ireland">July 11 2017</releasedate>
+		<releasedate country="Belgium">July 12 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>ape</keyword>
+		<keyword>planet of the apes</keyword>
+		<keyword>slave labour</keyword>
+		<keyword>battle</keyword>
+		<keyword>journey</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>third part</keyword>
+		<keyword>future war</keyword>
+		<keyword>simian fiction</keyword>
+		<keyword>prequel and sequel</keyword>
+		<keyword>blonde girl</keyword>
+		<keyword>mutation</keyword>
+		<keyword>species extinction</keyword>
+		<keyword>global extinction</keyword>
+		<keyword>post apocalypse</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>american flag</keyword>
+		<keyword>loss of wife</keyword>
+		<keyword>virus</keyword>
+		<keyword>animal attack</keyword>
+		<keyword>chimpanzee</keyword>
+		<keyword>forced labor</keyword>
+		<keyword>mute child</keyword>
+		<keyword>escape</keyword>
+		<keyword>cage</keyword>
+		<keyword>death of son</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>quest</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>trilogy</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>archery</keyword>
+		<keyword>military officer</keyword>
+		<keyword>marriage</keyword>
+		<keyword>key</keyword>
+		<keyword>snowstorm</keyword>
+		<keyword>theft</keyword>
+		<keyword>huffing</keyword>
+		<keyword>mare</keyword>
+		<keyword>catapult</keyword>
+		<keyword>pity</keyword>
+		<keyword>sunset</keyword>
+		<keyword>sunrise</keyword>
+		<keyword>dusk</keyword>
+		<keyword>war paint</keyword>
+		<keyword>endemic</keyword>
+		<keyword>epidemic</keyword>
+		<keyword>backpack</keyword>
+		<keyword>battle fatigue</keyword>
+		<keyword>combat fatigue</keyword>
+		<keyword>target</keyword>
+		<keyword>showdown</keyword>
+		<keyword>show down</keyword>
+		<keyword>compound</keyword>
+		<keyword>army barracks</keyword>
+		<keyword>embrace</keyword>
+		<keyword>sortie</keyword>
+		<keyword>crawl</keyword>
+		<keyword>running in the forest</keyword>
+		<keyword>traitor</keyword>
+		<keyword>collaborator</keyword>
+		<keyword>horseback</keyword>
+		<keyword>tracer</keyword>
+		<keyword>shelter</keyword>
+		<keyword>hidden by the waterfall</keyword>
+		<keyword>battle injury</keyword>
+		<keyword>dead son</keyword>
+		<keyword>dead brother</keyword>
+		<keyword>battle scene</keyword>
+		<keyword>cavern</keyword>
+		<keyword>mud</keyword>
+		<keyword>trailer</keyword>
+		<keyword>truck</keyword>
+		<keyword>hut</keyword>
+		<keyword>shack</keyword>
+		<keyword>camp fire</keyword>
+		<keyword>trash</keyword>
+		<keyword>shelf</keyword>
+		<keyword>putting one's hand over someone's mouth</keyword>
+		<keyword>scared animal</keyword>
+		<keyword>turning one's back on someone</keyword>
+		<keyword>spying on someone</keyword>
+		<keyword>dishes</keyword>
+		<keyword>washer</keyword>
+		<keyword>kitchen helper</keyword>
+		<keyword>two on a horse</keyword>
+		<keyword>thief</keyword>
+		<keyword>surrender</keyword>
+		<keyword>buried in snow</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>comrade in arms</keyword>
+		<keyword>ski lift</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>decal</keyword>
+		<keyword>jacket</keyword>
+		<keyword>blanket</keyword>
+		<keyword>memory</keyword>
+		<keyword>blossom</keyword>
+		<keyword>wearing a flower in one's hair</keyword>
+		<keyword>crying girl</keyword>
+		<keyword>heaving to</keyword>
+		<keyword>slope</keyword>
+		<keyword>near death</keyword>
+		<keyword>slavery</keyword>
+		<keyword>speech</keyword>
+		<keyword>almost dead</keyword>
+		<keyword>lights</keyword>
+		<keyword>incarceration</keyword>
+		<keyword>falling onto the ground</keyword>
+		<keyword>sleeping on the ground</keyword>
+		<keyword>marching</keyword>
+		<keyword>battalion</keyword>
+		<keyword>mickey</keyword>
+		<keyword>punching the air</keyword>
+		<keyword>turtleneck</keyword>
+		<keyword>propane grill</keyword>
+		<keyword>gas grill</keyword>
+		<keyword>combat knife</keyword>
+		<keyword>clarity</keyword>
+		<keyword>learning from experience</keyword>
+		<keyword>chained</keyword>
+		<keyword>hole in the ground</keyword>
+		<keyword>winter jacket</keyword>
+		<keyword>ladder</keyword>
+		<keyword>pat on the head</keyword>
+		<keyword>decoy</keyword>
+		<keyword>shooting into the ground</keyword>
+		<keyword>unity</keyword>
+		<keyword>strength through unity</keyword>
+		<keyword>burrowing animal</keyword>
+		<keyword>shimmering water</keyword>
+		<keyword>counting steps</keyword>
+		<keyword>hidden entrance</keyword>
+		<keyword>army boots</keyword>
+		<keyword>splashed with mud</keyword>
+		<keyword>pulled underground</keyword>
+		<keyword>sneaking around</keyword>
+		<keyword>operation rescue</keyword>
+		<keyword>train track</keyword>
+		<keyword>father hugs son</keyword>
+		<keyword>skull</keyword>
+		<keyword>photo of son</keyword>
+		<keyword>trigger</keyword>
+		<keyword>suicide by gun</keyword>
+		<keyword>firearm</keyword>
+		<keyword>animal virus</keyword>
+		<keyword>throwing a grenade</keyword>
+		<keyword>shot at close range</keyword>
+		<keyword>shoot at close range</keyword>
+		<keyword>animal attacks another animal</keyword>
+		<keyword>crucifixion</keyword>
+		<keyword>prisoner of war camp raid</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>man wears an undershirt</keyword>
+		<keyword>astronomical object in title</keyword>
+		<keyword>murder</keyword>
+		<keyword>furry</keyword>
+		<keyword>gritty</keyword>
+		<keyword>biopunk</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>campfire</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>motion capture</keyword>
+		<keyword>colonel</keyword>
+		<keyword>self redemption</keyword>
+		<keyword>mute girl</keyword>
+		<keyword>snow</keyword>
+		<keyword>albino gorilla</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>bittersweet ending</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>tyrant</keyword>
+		<keyword>suffocated to death</keyword>
+		<keyword>orangutan</keyword>
+		<keyword>3d</keyword>
+		<keyword>army</keyword>
+		<keyword>assisted suicide</keyword>
+		<keyword>tribe</keyword>
+		<keyword>obsession</keyword>
+		<keyword>oasis</keyword>
+		<keyword>redemption</keyword>
+		<keyword>underground tunnel</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>brawl</keyword>
+		<keyword>behind enemy lines</keyword>
+		<keyword>captive</keyword>
+		<keyword>starvation</keyword>
+		<keyword>barricade</keyword>
+		<keyword>border</keyword>
+		<keyword>body bag</keyword>
+		<keyword>left for dead</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>village</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>hermit</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>burial</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>murder of a family</keyword>
+		<keyword>loss of family</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>leadership</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>map</keyword>
+		<keyword>star spangled banner</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>revenge</keyword>
+		<keyword>beach</keyword>
+		<keyword>desert</keyword>
+		<keyword>secret tunnel</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>loss of son</keyword>
+		<keyword>whip</keyword>
+		<keyword>slave labor</keyword>
+		<keyword>prisoner of war camp</keyword>
+		<keyword>army base</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercy killing</keyword>
+		<keyword>rescue</keyword>
+		<keyword>orphan</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>corpse</keyword>
+		<keyword>guerilla warfare</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>knife</keyword>
+		<keyword>doll</keyword>
+		<keyword>panic</keyword>
+		<keyword>axe</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>commando</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>special forces</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>fear</keyword>
+		<keyword>military</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>double cross</keyword>
+		<keyword>abandoned building</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>armored car</keyword>
+		<keyword>pistol</keyword>
+		<keyword>suspense</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>sign language</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the side</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>darwinism</keyword>
+		<keyword>sniper</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>combat</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>animal killing</keyword>
+		<keyword>tank</keyword>
+		<keyword>torture</keyword>
+		<keyword>avalanche</keyword>
+		<keyword>final battle</keyword>
+		<keyword>suicide</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>valley</keyword>
+		<keyword>crucifix</keyword>
+		<keyword>rpg</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>alarm</keyword>
+		<keyword>beret</keyword>
+		<keyword>fight</keyword>
+		<keyword>animal fight</keyword>
+		<keyword>pickaxe</keyword>
+		<keyword>counting down</keyword>
+		<keyword>invasion</keyword>
+		<keyword>razor</keyword>
+		<keyword>flag</keyword>
+		<keyword>shaving</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>last words</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>flower</keyword>
+		<keyword>chase</keyword>
+		<keyword>blood</keyword>
+		<keyword>blizzard</keyword>
+		<keyword>dream</keyword>
+		<keyword>warehouse</keyword>
+		<keyword>cliff</keyword>
+		<keyword>baby</keyword>
+		<keyword>surprise attack</keyword>
+		<keyword>torch</keyword>
+		<keyword>cave</keyword>
+		<keyword>laser</keyword>
+		<keyword>fire</keyword>
+		<keyword>tree</keyword>
+		<keyword>hostage</keyword>
+		<keyword>smoke</keyword>
+		<keyword>horse</keyword>
+		<keyword>fern</keyword>
+		<keyword>rifle sight</keyword>
+		<keyword>hammer</keyword>
+		<keyword>jungle</keyword>
+		<keyword>soldier</keyword>
+		<keyword>spear</keyword>
+		<keyword>helmet</keyword>
+		<keyword>crossbow</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>handgun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>machete</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>christ allegory</keyword>
+		<keyword>impalement</keyword>
+	</keywords>
+	<directors>
+		<director> Matt Reeves</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Mark Bomback</producer>
+		<producer> Peter Chernin</producer>
+		<producer> Dylan Clark</producer>
+		<producer> Rick Jaffa</producer>
+		<producer> Mary McLaglen</producer>
+		<producer> Amanda Silver</producer>
+		<producer> Ryan Stafford</producer>
+		<producer> Jenno Topping</producer>
+	</producers>
+	<writers>
+		<writer> Mark Bomback</writer>
+		<writer> Matt Reeves</writer>
+		<writer> Rick Jaffa</writer>
+		<writer> Amanda Silver</writer>
+		<writer> Pierre Boulle</writer>
+	</writers>
+	<editors>
+		<editor> William Hoy</editor>
+		<editor> Stan Salfas</editor>
+	</editors>
+</doc>

@@ -1,0 +1,427 @@
+<?xml version="1.0" ?>
+<doc id="tt2948356">
+	<docid>tt2948356</docid>
+	<title>Zootropolis</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDUyMzI2NDQxMF5BMl5BanBnXkFtZTgwNDEyMTY5NTE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ginnifer Goodwin</actor>
+			<role>Judy Hopps</role>
+		</credit>
+		<credit>
+			<actor>Jason Bateman</actor>
+			<role>Nick Wilde</role>
+		</credit>
+		<credit>
+			<actor>Idris Elba</actor>
+			<role>Chief Bogo</role>
+		</credit>
+		<credit>
+			<actor>Jenny Slate</actor>
+			<role>Bellwether</role>
+		</credit>
+		<credit>
+			<actor>Nate Torrence</actor>
+			<role>Clawhauser</role>
+		</credit>
+		<credit>
+			<actor>Bonnie Hunt</actor>
+			<role>Bonnie Hopps</role>
+		</credit>
+		<credit>
+			<actor>Don Lake</actor>
+			<role>Stu Hopps</role>
+		</credit>
+		<credit>
+			<actor>Tommy Chong</actor>
+			<role>Yax</role>
+		</credit>
+		<credit>
+			<actor>J.K. Simmons</actor>
+			<role>Mayor Lionheart</role>
+		</credit>
+		<credit>
+			<actor>Octavia Spencer</actor>
+			<role>Mrs. Otterton</role>
+		</credit>
+		<credit>
+			<actor>Alan Tudyk</actor>
+			<role>Duke Weaselton</role>
+		</credit>
+		<credit>
+			<actor>Shakira</actor>
+			<role>Gazelle</role>
+		</credit>
+		<credit>
+			<actor>Raymond S. Persi</actor>
+			<role>Flash</role>
+		</credit>
+		<credit>
+			<actor>Della Saba</actor>
+			<role>Young Hopps</role>
+		</credit>
+		<credit>
+			<actor>Maurice LaMarche</actor>
+			<role>Mr. Big</role>
+		</credit>
+		<credit>
+			<actor>Phil Johnston</actor>
+			<role>Gideon Grey</role>
+		</credit>
+		<credit>
+			<actor>Fuschia!</actor>
+			<role>Drill Sergeant</role>
+		</credit>
+		<credit>
+			<actor>John DiMaggio</actor>
+			<role>Jerry Jumbeaux Jr.</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Belgium">February 10 2016</releasedate>
+		<releasedate country="Denmark">February 11 2016</releasedate>
+		<releasedate country="Spain">February 12 2016</releasedate>
+		<releasedate country="Belgium">February 13 2016</releasedate>
+		<releasedate country="Switzerland">February 17 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">PG</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-7</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">12+</certificate>
+		<certificate country="Mexico">AA</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A/i</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">G</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">7A</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">G</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>con artist</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>police</keyword>
+		<keyword>furry</keyword>
+		<keyword>mammal</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>injustice</keyword>
+		<keyword>fox</keyword>
+		<keyword>naturist club</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>otter</keyword>
+		<keyword>polar bear</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>lion</keyword>
+		<keyword>crying</keyword>
+		<keyword>blueberry</keyword>
+		<keyword>naturist</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>ice</keyword>
+		<keyword>bridge</keyword>
+		<keyword>sloth</keyword>
+		<keyword>bullying</keyword>
+		<keyword>disney</keyword>
+		<keyword>tv news</keyword>
+		<keyword>evil genius</keyword>
+		<keyword>jaguar</keyword>
+		<keyword>sheep</keyword>
+		<keyword>idealism</keyword>
+		<keyword>chase</keyword>
+		<keyword>thief</keyword>
+		<keyword>bear</keyword>
+		<keyword>carrot</keyword>
+		<keyword>audio recording</keyword>
+		<keyword>district</keyword>
+		<keyword>face scratch</keyword>
+		<keyword>wedding dress</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>explosion</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>train station</keyword>
+		<keyword>train fire</keyword>
+		<keyword>train crashes into a train station</keyword>
+		<keyword>train</keyword>
+		<keyword>train ride</keyword>
+		<keyword>exploding laboratory</keyword>
+		<keyword>laboratory accident</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>fennec fox</keyword>
+		<keyword>buffalo</keyword>
+		<keyword>weasel</keyword>
+		<keyword>savage</keyword>
+		<keyword>apology</keyword>
+		<keyword>ice cream</keyword>
+		<keyword>secret revealed</keyword>
+		<keyword>beast fable</keyword>
+		<keyword>parking ticket</keyword>
+		<keyword>mysterious villain</keyword>
+		<keyword>female villain</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>mob boss</keyword>
+		<keyword>mobster</keyword>
+		<keyword>police chief</keyword>
+		<keyword>police officer</keyword>
+		<keyword>city</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>elephant</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>thoughtless prejudice</keyword>
+		<keyword>thoughtlessness</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>hugging</keyword>
+		<keyword>black jaguar</keyword>
+		<keyword>pig</keyword>
+		<keyword>guard</keyword>
+		<keyword>telephone</keyword>
+		<keyword>iphone</keyword>
+		<keyword>sniper</keyword>
+		<keyword>chemist</keyword>
+		<keyword>yoga</keyword>
+		<keyword>yak</keyword>
+		<keyword>badger</keyword>
+		<keyword>armadillo</keyword>
+		<keyword>leopard</keyword>
+		<keyword>tiger</keyword>
+		<keyword>dance</keyword>
+		<keyword>scratch</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>con game</keyword>
+		<keyword>wedding party</keyword>
+		<keyword>wedding</keyword>
+		<keyword>villainess</keyword>
+		<keyword>bully</keyword>
+		<keyword>reconciliation</keyword>
+		<keyword>faked death</keyword>
+		<keyword>disillusionment</keyword>
+		<keyword>dvd</keyword>
+		<keyword>victim</keyword>
+		<keyword>newscast</keyword>
+		<keyword>poison</keyword>
+		<keyword>meter maid</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>concert</keyword>
+		<keyword>gangster</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>mafia</keyword>
+		<keyword>criminal</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>prison uniform</keyword>
+		<keyword>hideout</keyword>
+		<keyword>farm</keyword>
+		<keyword>corrupt official</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>red fox</keyword>
+		<keyword>predator</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>cheetah</keyword>
+		<keyword>jungle</keyword>
+		<keyword>rhinoceros</keyword>
+		<keyword>hippopotamus</keyword>
+		<keyword>buddy cop</keyword>
+		<keyword>animal protagonist</keyword>
+		<keyword>forgiveness</keyword>
+		<keyword>wolf</keyword>
+		<keyword>giraffe</keyword>
+		<keyword>gazelle</keyword>
+		<keyword>heroine</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>strong female lead</keyword>
+		<keyword>angry mob</keyword>
+		<keyword>phone video</keyword>
+		<keyword>one word title</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>antidote</keyword>
+		<keyword>criminal hero</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>nudist</keyword>
+		<keyword>elephant in the room</keyword>
+		<keyword>onion</keyword>
+		<keyword>flower</keyword>
+		<keyword>product placement</keyword>
+		<keyword>police interrogation</keyword>
+		<keyword>poison ivy</keyword>
+		<keyword>hysteria</keyword>
+		<keyword>mass hysteria</keyword>
+		<keyword>skunk</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>street life</keyword>
+		<keyword>mafia boss</keyword>
+		<keyword>birthday</keyword>
+		<keyword>action girl</keyword>
+		<keyword>anthropomorphic animal as protagonist</keyword>
+		<keyword>anthropomorphic weasel</keyword>
+		<keyword>anthropomorphic badger</keyword>
+		<keyword>blue flower</keyword>
+		<keyword>anthropomorphic rhino</keyword>
+		<keyword>anthropomorphic mammal</keyword>
+		<keyword>anthropomorphic pig</keyword>
+		<keyword>anthropomorphic hippo</keyword>
+		<keyword>snow leopard</keyword>
+		<keyword>anthropomorphic moose</keyword>
+		<keyword>anthropomorphic tiger</keyword>
+		<keyword>female antagonist</keyword>
+		<keyword>female hero female villain</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>swinging on a vine</keyword>
+		<keyword>alternate universe</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>disney animated canon</keyword>
+		<keyword>dance party ending</keyword>
+		<keyword>doughnut</keyword>
+		<keyword>pie</keyword>
+		<keyword>metropolis</keyword>
+		<keyword>utopia</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>family farm</keyword>
+		<keyword>shrew</keyword>
+		<keyword>mouse</keyword>
+		<keyword>moose</keyword>
+		<keyword>pop star</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>police comedy</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>urban adventure</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>giant panda</keyword>
+		<keyword>panda</keyword>
+		<keyword>anthropomorphic panda</keyword>
+		<keyword>ipod shuffle</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>rookie</keyword>
+		<keyword>rookie cop</keyword>
+		<keyword>theft</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>buddy movie</keyword>
+		<keyword>reference to the godfather</keyword>
+		<keyword>reference to csi miami</keyword>
+		<keyword>interspecies friendship</keyword>
+		<keyword>forensic accounting</keyword>
+		<keyword>ignorance</keyword>
+		<keyword>social exclusion</keyword>
+		<keyword>anthropomorphic mouse</keyword>
+		<keyword>anthropomorphic wolf</keyword>
+		<keyword>anthropomorphic giraffe</keyword>
+		<keyword>anthropomorphic otter</keyword>
+		<keyword>anthropomorphic gazelle</keyword>
+		<keyword>anthropomorphic yak</keyword>
+		<keyword>anthropomorphic elephant</keyword>
+		<keyword>anthropomorphic sloth</keyword>
+		<keyword>anthropomorphic rhinoceros</keyword>
+		<keyword>anthropomorphic bear</keyword>
+		<keyword>anthropomorphic polar bear</keyword>
+		<keyword>anthropomorphic sheep</keyword>
+		<keyword>anthropomorphic lion</keyword>
+		<keyword>anthropomorphic fox</keyword>
+		<keyword>anthropomorphic rabbit</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>villain</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>department of motor vehicles</keyword>
+		<keyword>revenge</keyword>
+	</keywords>
+	<directors>
+		<director> Byron Howard</director>
+		<director> Rich Moore</director>
+		<director> Jared Bush</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Monica Lago-Kaytis</producer>
+		<producer> John Lasseter</producer>
+		<producer> Brad Simonsen</producer>
+		<producer> Clark Spencer</producer>
+	</producers>
+	<writers>
+		<writer> Byron Howard</writer>
+		<writer> Rich Moore</writer>
+		<writer> Jared Bush</writer>
+		<writer> Jim Reardon</writer>
+		<writer> Josie Trinidad</writer>
+		<writer> Phil Johnston</writer>
+		<writer> Jennifer Lee</writer>
+		<writer> Jared Bush</writer>
+		<writer> Phil Johnston</writer>
+		<writer> Kellie D. Lewis</writer>
+	</writers>
+	<editors>
+		<editor> Jeremy Milton</editor>
+		<editor> Fabienne Rawley</editor>
+	</editors>
+</doc>

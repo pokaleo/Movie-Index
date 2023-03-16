@@ -1,0 +1,645 @@
+<?xml version="1.0" ?>
+<doc id="tt1677720">
+	<docid>tt1677720</docid>
+	<title>Ready Player One</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">140</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tye Sheridan</actor>
+			<role>Parzival</role>
+		</credit>
+		<credit>
+			<actor>Olivia Cooke</actor>
+			<role>Art3mis</role>
+		</credit>
+		<credit>
+			<actor>Ben Mendelsohn</actor>
+			<role>Sorrento</role>
+		</credit>
+		<credit>
+			<actor>Lena Waithe</actor>
+			<role>Aech</role>
+		</credit>
+		<credit>
+			<actor>T.J. Miller</actor>
+			<role>I-R0k</role>
+		</credit>
+		<credit>
+			<actor>Simon Pegg</actor>
+			<role>Curator</role>
+		</credit>
+		<credit>
+			<actor>Mark Rylance</actor>
+			<role>Anorak</role>
+		</credit>
+		<credit>
+			<actor>Philip Zhao</actor>
+			<role>Sho</role>
+		</credit>
+		<credit>
+			<actor>Win Morisaki</actor>
+			<role>Daito</role>
+		</credit>
+		<credit>
+			<actor>Hannah John-Kamen</actor>
+			<role>F'Nale Zandor</role>
+		</credit>
+		<credit>
+			<actor>Ralph Ineson</actor>
+			<role>Rick</role>
+		</credit>
+		<credit>
+			<actor>Susan Lynch</actor>
+			<role>Alice</role>
+		</credit>
+		<credit>
+			<actor>Clare Higgins</actor>
+			<role>Mrs. Gilmore</role>
+		</credit>
+		<credit>
+			<actor>Laurence Spellman</actor>
+			<role>Lame Tattoo Guy (Reb)</role>
+		</credit>
+		<credit>
+			<actor>Perdita Weeks</actor>
+			<role>Kira</role>
+		</credit>
+		<credit>
+			<actor>Joel MacCormack</actor>
+			<role>Sixer #6655</role>
+		</credit>
+		<credit>
+			<actor>Kit Connor</actor>
+			<role>Reb Kid</role>
+		</credit>
+		<credit>
+			<actor>Leo Heller</actor>
+			<role>Reb Kid</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 11 2018</releasedate>
+		<releasedate country="United Kingdom">March 19 2018</releasedate>
+		<releasedate country="Spain">March 22 2018</releasedate>
+		<releasedate country="United States">March 26 2018</releasedate>
+		<releasedate country="Colombia">March 28 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">6+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>virtual reality</keyword>
+		<keyword>player</keyword>
+		<keyword>screenplay adapted by author</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>future</keyword>
+		<keyword>reference to 1980s popular culture</keyword>
+		<keyword>love interest</keyword>
+		<keyword>reference to the shining</keyword>
+		<keyword>teenage protagonist</keyword>
+		<keyword>dystopian future</keyword>
+		<keyword>year 2045</keyword>
+		<keyword>easter egg</keyword>
+		<keyword>battle</keyword>
+		<keyword>inside a movie</keyword>
+		<keyword>three word title</keyword>
+		<keyword>based on young adult novel</keyword>
+		<keyword>columbus ohio</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>racing</keyword>
+		<keyword>key</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>fight</keyword>
+		<keyword>drone</keyword>
+		<keyword>friendship</keyword>
+		<keyword>love</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>nerd</keyword>
+		<keyword>geek</keyword>
+		<keyword>ceo</keyword>
+		<keyword>prize money</keyword>
+		<keyword>reality</keyword>
+		<keyword>pop culture</keyword>
+		<keyword>pop culture reference</keyword>
+		<keyword>cyberpunk</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>evil businessman</keyword>
+		<keyword>1980s culture</keyword>
+		<keyword>cyberpunk sci fi</keyword>
+		<keyword>dystopian sci fi</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>cgi</keyword>
+		<keyword>based on book</keyword>
+		<keyword>pac man</keyword>
+		<keyword>reward</keyword>
+		<keyword>outcast</keyword>
+		<keyword>contest</keyword>
+		<keyword>eccentric millionaire</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>reference to peter parker</keyword>
+		<keyword>reference to clark kent</keyword>
+		<keyword>gun</keyword>
+		<keyword>abuse</keyword>
+		<keyword>kiss</keyword>
+		<keyword>playing a video game</keyword>
+		<keyword>reference to john hughes</keyword>
+		<keyword>avatar</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>race</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>villain</keyword>
+		<keyword>explosion</keyword>
+		<keyword>motion capture</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>epic game</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>dance</keyword>
+		<keyword>dancing</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>sword</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>ninja</keyword>
+		<keyword>ninja sword</keyword>
+		<keyword>samurai</keyword>
+		<keyword>samurai sword</keyword>
+		<keyword>katana sword</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>epic</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>showdown</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>combat</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>duel</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>motorcycle chase</keyword>
+		<keyword>car chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>teenager fighting adult</keyword>
+		<keyword>teenage hero</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>hero</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>cameo</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>redhead</keyword>
+		<keyword>violence</keyword>
+		<keyword>technology</keyword>
+		<keyword>gear</keyword>
+		<keyword>equipment</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>high rise</keyword>
+		<keyword>container</keyword>
+		<keyword>apartment</keyword>
+		<keyword>billboard</keyword>
+		<keyword>advertisement</keyword>
+		<keyword>advertising</keyword>
+		<keyword>commercial</keyword>
+		<keyword>antenna</keyword>
+		<keyword>flying car</keyword>
+		<keyword>wreck</keyword>
+		<keyword>backpack</keyword>
+		<keyword>knapsack</keyword>
+		<keyword>glasses</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>trash heap</keyword>
+		<keyword>car</keyword>
+		<keyword>travel</keyword>
+		<keyword>unhappy with oneself</keyword>
+		<keyword>inferiority complex</keyword>
+		<keyword>computer</keyword>
+		<keyword>voice</keyword>
+		<keyword>female computer voice</keyword>
+		<keyword>computer monitor</keyword>
+		<keyword>businessman</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>employee</keyword>
+		<keyword>mission</keyword>
+		<keyword>american flag</keyword>
+		<keyword>flag of hate</keyword>
+		<keyword>reference to war and peace</keyword>
+		<keyword>product placement</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>tattooed arm</keyword>
+		<keyword>aunt</keyword>
+		<keyword>nephew</keyword>
+		<keyword>aunt nephew conflict</keyword>
+		<keyword>prize</keyword>
+		<keyword>body suit</keyword>
+		<keyword>corporation</keyword>
+		<keyword>management</keyword>
+		<keyword>tabbouleh salad</keyword>
+		<keyword>orb</keyword>
+		<keyword>riddle</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>newspaper clip</keyword>
+		<keyword>news clipping</keyword>
+		<keyword>fan</keyword>
+		<keyword>adulation</keyword>
+		<keyword>magazine clipping</keyword>
+		<keyword>revelation</keyword>
+		<keyword>date</keyword>
+		<keyword>disco</keyword>
+		<keyword>discotheque</keyword>
+		<keyword>greed</keyword>
+		<keyword>turtleneck</keyword>
+		<keyword>birth mark</keyword>
+		<keyword>corporate spying</keyword>
+		<keyword>corporate dystopia</keyword>
+		<keyword>river of blood</keyword>
+		<keyword>typewriter</keyword>
+		<keyword>eye popping out</keyword>
+		<keyword>rain</keyword>
+		<keyword>technology used for evil</keyword>
+		<keyword>tattoo on face</keyword>
+		<keyword>dumpster</keyword>
+		<keyword>chinese character</keyword>
+		<keyword>corporate enslavement</keyword>
+		<keyword>enslavement</keyword>
+		<keyword>corporate sell out</keyword>
+		<keyword>unreal</keyword>
+		<keyword>artificial</keyword>
+		<keyword>strap</keyword>
+		<keyword>wired</keyword>
+		<keyword>sticky note</keyword>
+		<keyword>sticky note with password on it</keyword>
+		<keyword>japanese</keyword>
+		<keyword>near future</keyword>
+		<keyword>high tech</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>megacorporation</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>millionaire</keyword>
+		<keyword>british actress playing american character</keyword>
+		<keyword>founder</keyword>
+		<keyword>inventor</keyword>
+		<keyword>revenge</keyword>
+		<keyword>resistance</keyword>
+		<keyword>resistance fighter</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>van</keyword>
+		<keyword>african american</keyword>
+		<keyword>greenhouse</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>little boy</keyword>
+		<keyword>car truck chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>little girl</keyword>
+		<keyword>car motorcycle chase</keyword>
+		<keyword>rival</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding trailer</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>car race</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car accident</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>train</keyword>
+		<keyword>train derailment</keyword>
+		<keyword>el train</keyword>
+		<keyword>wrecking ball</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>orphan</keyword>
+		<keyword>aunt nephew relationship</keyword>
+		<keyword>death of aunt</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>casino</keyword>
+		<keyword>planet</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>security guard</keyword>
+		<keyword>magic spell</keyword>
+		<keyword>portal</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>hologram</keyword>
+		<keyword>force field</keyword>
+		<keyword>shield</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security camera</keyword>
+		<keyword>video footage</keyword>
+		<keyword>curator</keyword>
+		<keyword>museum</keyword>
+		<keyword>journal</keyword>
+		<keyword>library</keyword>
+		<keyword>quest</keyword>
+		<keyword>hunt</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>golden egg</keyword>
+		<keyword>crooked businessman</keyword>
+		<keyword>corporate corruption</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>corporate crime</keyword>
+		<keyword>police</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>henchwoman</keyword>
+		<keyword>army</keyword>
+		<keyword>destruction</keyword>
+		<keyword>chaos</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>ambush</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>boardroom</keyword>
+		<keyword>empire state building manhattan new york city</keyword>
+		<keyword>new york city</keyword>
+		<keyword>central park manhattan new york city</keyword>
+		<keyword>racetrack</keyword>
+		<keyword>driving in reverse</keyword>
+		<keyword>reference to batman</keyword>
+		<keyword>reference to lex luthor</keyword>
+		<keyword>castle</keyword>
+		<keyword>reference to superman</keyword>
+		<keyword>reference to duran duran</keyword>
+		<keyword>reference to michael jackson</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>reference to star trek</keyword>
+		<keyword>reference to the millenium falcon</keyword>
+		<keyword>reference to star wars</keyword>
+		<keyword>reference to king kong</keyword>
+		<keyword>reference to godzilla</keyword>
+		<keyword>reference to halo</keyword>
+		<keyword>reference to stephen king</keyword>
+		<keyword>reference to bill and ted</keyword>
+		<keyword>dinosaur</keyword>
+		<keyword>reference to james bond</keyword>
+		<keyword>levitation</keyword>
+		<keyword>giant robot</keyword>
+		<keyword>slave labor</keyword>
+		<keyword>videotape</keyword>
+		<keyword>robot</keyword>
+		<keyword>slum</keyword>
+		<keyword>consumerism</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>hotel</keyword>
+		<keyword>elevator</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>photograph</keyword>
+		<keyword>workshop</keyword>
+		<keyword>maze</keyword>
+		<keyword>axe</keyword>
+		<keyword>mountain</keyword>
+		<keyword>snow</keyword>
+		<keyword>volcano</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>mercy killing</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>power outage</keyword>
+		<keyword>mechanic</keyword>
+		<keyword>prologue</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>trailer</keyword>
+		<keyword>trailer home</keyword>
+		<keyword>trailer park</keyword>
+		<keyword>junkyard</keyword>
+		<keyword>disguise</keyword>
+		<keyword>nostalgia</keyword>
+		<keyword>treadmill</keyword>
+		<keyword>headset</keyword>
+		<keyword>falling through ice</keyword>
+		<keyword>montage</keyword>
+		<keyword>giant</keyword>
+		<keyword>competition</keyword>
+		<keyword>reference to mortal kombat</keyword>
+		<keyword>challenge</keyword>
+		<keyword>contract</keyword>
+		<keyword>hall of records</keyword>
+		<keyword>hunter</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>bomb</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>plunger detonator</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>rubik's cube</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>redemption</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>dark past</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>warrior</keyword>
+		<keyword>heroism</keyword>
+		<keyword>courage</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>loss of aunt</keyword>
+		<keyword>desperation</keyword>
+		<keyword>cyberspace</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>fire breathing</keyword>
+		<keyword>fire</keyword>
+		<keyword>rebel</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>coin flip</keyword>
+		<keyword>coin</keyword>
+		<keyword>credits as currency</keyword>
+		<keyword>power</keyword>
+		<keyword>laser</keyword>
+		<keyword>silencer</keyword>
+		<keyword>clue</keyword>
+		<keyword>uniformed police officer</keyword>
+		<keyword>man wears a suit and tie</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>tough woman</keyword>
+		<keyword>reference to spider man</keyword>
+		<keyword>video game world</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>reference to they live</keyword>
+		<keyword>reference to virtual reality game</keyword>
+		<keyword>virtual world</keyword>
+		<keyword>reference to war of the worlds</keyword>
+		<keyword>reference to back to the future</keyword>
+		<keyword>fake identical world</keyword>
+		<keyword>bloodstream</keyword>
+		<keyword>magic item</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>crossover</keyword>
+		<keyword>1980s nostalgia</keyword>
+		<keyword>king kong character</keyword>
+		<keyword>mechagodzilla character</keyword>
+		<keyword>the iron giant character</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>outer space</keyword>
+		<keyword>battletoads</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>chucky character</keyword>
+		<keyword>twin ghosts</keyword>
+		<keyword>teenager</keyword>
+		<keyword>quest adventure</keyword>
+		<keyword>21st century</keyword>
+		<keyword>teen adventure</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>reference to sonic the hedgehog</keyword>
+		<keyword>sonic the hedgehog character</keyword>
+		<keyword>reference to teenage mutant ninja turtles</keyword>
+		<keyword>reference to the iron giant</keyword>
+		<keyword>villainess</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>brief female rear nudity</keyword>
+		<keyword>reference to chuck e. cheese</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>reference to bruce banner</keyword>
+		<keyword>reference to the hulk</keyword>
+		<keyword>marvin the martian character</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>race against time</keyword>
+		<keyword>police car</keyword>
+		<keyword>police officer</keyword>
+		<keyword>arrest</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>zombie</keyword>
+		<keyword>airplane</keyword>
+	</keywords>
+	<directors>
+		<director> Steven Spielberg</director>
+	</directors>
+	<composers>
+		<composer> Alan Silvestri</composer>
+	</composers>
+	<producers>
+		<producer> Bruce Berman</producer>
+		<producer> Rick Carter</producer>
+		<producer> Ernest Cline</producer>
+		<producer> Donald De Line</producer>
+		<producer> Christopher DeFaria</producer>
+		<producer> Dan Farah</producer>
+		<producer> Daniel Lupi</producer>
+		<producer> Kristie Macosko Krieger</producer>
+		<producer> Jennifer Meislohn</producer>
+		<producer> Adam Somner</producer>
+		<producer> Steven Spielberg</producer>
+	</producers>
+	<writers>
+		<writer> Zak Penn</writer>
+		<writer> Ernest Cline</writer>
+		<writer> Ernest Cline</writer>
+	</writers>
+	<editors>
+		<editor> Sarah Broshar</editor>
+		<editor> Michael Kahn</editor>
+	</editors>
+</doc>

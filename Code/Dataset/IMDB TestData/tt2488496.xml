@@ -1,0 +1,709 @@
+<?xml version="1.0" ?>
+<doc id="tt2488496">
+	<docid>tt2488496</docid>
+	<title>Star Wars: Episode VII - The Force Awakens</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">138</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>12-Track Digital Sound</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Daisy Ridley</actor>
+			<role>Rey</role>
+		</credit>
+		<credit>
+			<actor>John Boyega</actor>
+			<role>Finn</role>
+		</credit>
+		<credit>
+			<actor>Oscar Isaac</actor>
+			<role>Poe Dameron</role>
+		</credit>
+		<credit>
+			<actor>Domhnall Gleeson</actor>
+			<role>General Hux</role>
+		</credit>
+		<credit>
+			<actor>Harrison Ford</actor>
+			<role>Han Solo</role>
+		</credit>
+		<credit>
+			<actor>Mark Hamill</actor>
+			<role>Luke Skywalker</role>
+		</credit>
+		<credit>
+			<actor>Carrie Fisher</actor>
+			<role>Princess Leia</role>
+		</credit>
+		<credit>
+			<actor>Adam Driver</actor>
+			<role>Kylo Ren</role>
+		</credit>
+		<credit>
+			<actor>Lupita Nyong'o</actor>
+			<role>Maz Kanata</role>
+		</credit>
+		<credit>
+			<actor>Andy Serkis</actor>
+			<role>Supreme Leader Snoke</role>
+		</credit>
+		<credit>
+			<actor>Anthony Daniels</actor>
+			<role>C-3PO</role>
+		</credit>
+		<credit>
+			<actor>Max von Sydow</actor>
+			<role>Lor San Tekka</role>
+		</credit>
+		<credit>
+			<actor>Peter Mayhew</actor>
+			<role>Chewbacca</role>
+		</credit>
+		<credit>
+			<actor>Gwendoline Christie</actor>
+			<role>Captain Phasma</role>
+		</credit>
+		<credit>
+			<actor>Joonas Suotamo</actor>
+			<role>Chewbacca Double</role>
+		</credit>
+		<credit>
+			<actor>Pip Andersen</actor>
+			<role>Lead Stormtrooper</role>
+		</credit>
+		<credit>
+			<actor>Simon Pegg</actor>
+			<role>Unkar Plutt</role>
+		</credit>
+		<credit>
+			<actor>Kiran Shah</actor>
+			<role>Teedo</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">December 14 2015</releasedate>
+		<releasedate country="Indonesia">December 15 2015</releasedate>
+		<releasedate country="Australia">December 16 2015</releasedate>
+		<releasedate country="Belgium">December 16 2015</releasedate>
+		<releasedate country="Bahrain">December 16 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">10</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malta">PG</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">G</certificate>
+		<certificate country="Vietnam">P</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>crash landing</keyword>
+		<keyword>reboot</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>hatred</keyword>
+		<keyword>death</keyword>
+		<keyword>super weapon</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>cloning</keyword>
+		<keyword>scavenger</keyword>
+		<keyword>sanitation employee</keyword>
+		<keyword>torture</keyword>
+		<keyword>duel</keyword>
+		<keyword>massacre</keyword>
+		<keyword>destruction of planet</keyword>
+		<keyword>scrap merchant</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>han solo character</keyword>
+		<keyword>reference to darth vader</keyword>
+		<keyword>exploding planet</keyword>
+		<keyword>droid</keyword>
+		<keyword>patricide</keyword>
+		<keyword>fictional planet</keyword>
+		<keyword>forest</keyword>
+		<keyword>desert</keyword>
+		<keyword>rage</keyword>
+		<keyword>starkiller base</keyword>
+		<keyword>stormtrooper</keyword>
+		<keyword>sewage cleaner</keyword>
+		<keyword>death of hero</keyword>
+		<keyword>tentacled creature</keyword>
+		<keyword>destiny</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>number in character's name</keyword>
+		<keyword>jedi knight</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>mass murder</keyword>
+		<keyword>violent outburst</keyword>
+		<keyword>hologram</keyword>
+		<keyword>thirst</keyword>
+		<keyword>mind control</keyword>
+		<keyword>telepathy</keyword>
+		<keyword>village</keyword>
+		<keyword>scrap dealer</keyword>
+		<keyword>escape</keyword>
+		<keyword>death of father</keyword>
+		<keyword>star wars</keyword>
+		<keyword>outer space</keyword>
+		<keyword>lightsaber</keyword>
+		<keyword>space opera</keyword>
+		<keyword>battle</keyword>
+		<keyword>sewer cleaner</keyword>
+		<keyword>orphan</keyword>
+		<keyword>pilot</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>world destruction</keyword>
+		<keyword>weapon of mass destruction</keyword>
+		<keyword>millennium falcon</keyword>
+		<keyword>soldier</keyword>
+		<keyword>snow</keyword>
+		<keyword>the force</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>luke skywalker character</keyword>
+		<keyword>jedi</keyword>
+		<keyword>abandoned ship</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>masked man</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>desert planet</keyword>
+		<keyword>talking robot</keyword>
+		<keyword>robot</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>hyperspace</keyword>
+		<keyword>fear</keyword>
+		<keyword>spaceship crash</keyword>
+		<keyword>princess leia organa character</keyword>
+		<keyword>c 3po character</keyword>
+		<keyword>chewbacca character</keyword>
+		<keyword>opening crawl</keyword>
+		<keyword>part of trilogy</keyword>
+		<keyword>legend</keyword>
+		<keyword>poe dameron character</keyword>
+		<keyword>bb 8 character</keyword>
+		<keyword>kylo ren character</keyword>
+		<keyword>rey character</keyword>
+		<keyword>finn character</keyword>
+		<keyword>admiral ackbar character</keyword>
+		<keyword>jakku the planet</keyword>
+		<keyword>reference to anakin skywalker</keyword>
+		<keyword>maz kanata character</keyword>
+		<keyword>takodana the planet</keyword>
+		<keyword>captain phasma character</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>strong female protagonist</keyword>
+		<keyword>disney star wars</keyword>
+		<keyword>starship</keyword>
+		<keyword>resistance</keyword>
+		<keyword>map</keyword>
+		<keyword>smuggler</keyword>
+		<keyword>clone soldier</keyword>
+		<keyword>x wing starfighter</keyword>
+		<keyword>scavenging for parts</keyword>
+		<keyword>deserter</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>crisis of conscience</keyword>
+		<keyword>goggles</keyword>
+		<keyword>junkyard</keyword>
+		<keyword>destruction</keyword>
+		<keyword>space station</keyword>
+		<keyword>space fleet</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>bar</keyword>
+		<keyword>mind reading</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>dogfight</keyword>
+		<keyword>turncoat</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>redemption</keyword>
+		<keyword>resistance fighter</keyword>
+		<keyword>space travel</keyword>
+		<keyword>crossbow</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>one against many</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>humanoid robot</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>humanoid alien</keyword>
+		<keyword>alien</keyword>
+		<keyword>tie fighter</keyword>
+		<keyword>shooting</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>gun</keyword>
+		<keyword>written by director</keyword>
+		<keyword>creature</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>violence</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>chase</keyword>
+		<keyword>anger</keyword>
+		<keyword>coercive persuasion</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>space battle</keyword>
+		<keyword>sequel</keyword>
+		<keyword>science fantasy</keyword>
+		<keyword>starfighter pilot</keyword>
+		<keyword>quicksand</keyword>
+		<keyword>man with no name</keyword>
+		<keyword>race against time</keyword>
+		<keyword>deception</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>female general</keyword>
+		<keyword>astromech droid</keyword>
+		<keyword>produced by director</keyword>
+		<keyword>wookiee</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>obi wan kenobi character</keyword>
+		<keyword>r2 d2 character</keyword>
+		<keyword>yoda character</keyword>
+		<keyword>humanoid droid</keyword>
+		<keyword>heroine</keyword>
+		<keyword>hero</keyword>
+		<keyword>villain</keyword>
+		<keyword>girl spy</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>one liner</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>lifting someone into the air</keyword>
+		<keyword>repair</keyword>
+		<keyword>escapee</keyword>
+		<keyword>talking to a robot</keyword>
+		<keyword>theft</keyword>
+		<keyword>thief</keyword>
+		<keyword>robbery</keyword>
+		<keyword>robber</keyword>
+		<keyword>shut down</keyword>
+		<keyword>star</keyword>
+		<keyword>cockpit</keyword>
+		<keyword>gate</keyword>
+		<keyword>hiding</keyword>
+		<keyword>compartment</keyword>
+		<keyword>owner</keyword>
+		<keyword>ownership</keyword>
+		<keyword>blast</keyword>
+		<keyword>sweating</keyword>
+		<keyword>sweating man</keyword>
+		<keyword>levitation</keyword>
+		<keyword>angry man</keyword>
+		<keyword>choking</keyword>
+		<keyword>beast</keyword>
+		<keyword>thirsty</keyword>
+		<keyword>oxygen mask</keyword>
+		<keyword>girl</keyword>
+		<keyword>machine</keyword>
+		<keyword>machinery</keyword>
+		<keyword>liar</keyword>
+		<keyword>man lying down</keyword>
+		<keyword>pretense</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>old man</keyword>
+		<keyword>holster</keyword>
+		<keyword>intruder</keyword>
+		<keyword>pointing finger</keyword>
+		<keyword>antenna</keyword>
+		<keyword>torch</keyword>
+		<keyword>steam</keyword>
+		<keyword>closed circuit tv surveilance</keyword>
+		<keyword>jaw</keyword>
+		<keyword>fang</keyword>
+		<keyword>corridor</keyword>
+		<keyword>running away</keyword>
+		<keyword>growl</keyword>
+		<keyword>devouring</keyword>
+		<keyword>running</keyword>
+		<keyword>girl running</keyword>
+		<keyword>running girl</keyword>
+		<keyword>search</keyword>
+		<keyword>closed circuit television camera</keyword>
+		<keyword>closed circuit tv</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>microphone</keyword>
+		<keyword>coincidence</keyword>
+		<keyword>accident</keyword>
+		<keyword>slashing</keyword>
+		<keyword>smash</keyword>
+		<keyword>payment</keyword>
+		<keyword>wicket</keyword>
+		<keyword>confusion</keyword>
+		<keyword>control</keyword>
+		<keyword>chain of command</keyword>
+		<keyword>living legend</keyword>
+		<keyword>throne</keyword>
+		<keyword>parent child relationship</keyword>
+		<keyword>leak</keyword>
+		<keyword>game</keyword>
+		<keyword>3d game</keyword>
+		<keyword>recruitment</keyword>
+		<keyword>bunk bed</keyword>
+		<keyword>bed</keyword>
+		<keyword>brunette</keyword>
+		<keyword>lake</keyword>
+		<keyword>greenery</keyword>
+		<keyword>chest</keyword>
+		<keyword>basement</keyword>
+		<keyword>proprietor</keyword>
+		<keyword>proprietress</keyword>
+		<keyword>spy</keyword>
+		<keyword>old woman</keyword>
+		<keyword>small business owner</keyword>
+		<keyword>band</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>stairwell</keyword>
+		<keyword>seeing past self</keyword>
+		<keyword>the past</keyword>
+		<keyword>tears</keyword>
+		<keyword>crying girl</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>general hux character</keyword>
+		<keyword>supreme leader snoke character</keyword>
+		<keyword>lightsaber duel</keyword>
+		<keyword>spacecraft wreckage</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>sci fi western</keyword>
+		<keyword>son murders father</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>deep voice</keyword>
+		<keyword>lucasfilm</keyword>
+		<keyword>weapon</keyword>
+		<keyword>bad robot productions</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>music by john williams</keyword>
+		<keyword>action girl</keyword>
+		<keyword>liar revealed</keyword>
+		<keyword>repeat sequel</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>male villain</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>headphones</keyword>
+		<keyword>white female lead in a diverse cast</keyword>
+		<keyword>title directed by male</keyword>
+		<keyword>title directed by man</keyword>
+		<keyword>title written by male</keyword>
+		<keyword>requel</keyword>
+		<keyword>astronomical object in title</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>space adventure</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>epic adventure</keyword>
+		<keyword>space opera sci fi</keyword>
+		<keyword>lie</keyword>
+		<keyword>sadness</keyword>
+		<keyword>thumbs up gesture</keyword>
+		<keyword>first of trilogy</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>first order</keyword>
+		<keyword>gonk droid</keyword>
+		<keyword>ahch to the planet</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>crying</keyword>
+		<keyword>disney</keyword>
+		<keyword>the dark side</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>cgi</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>cold weather</keyword>
+		<keyword>male wookiee</keyword>
+		<keyword>space vessel</keyword>
+		<keyword>blaster fire</keyword>
+		<keyword>ranged weapon</keyword>
+		<keyword>humanoid</keyword>
+		<keyword>bipedal droid</keyword>
+		<keyword>shot in the torso</keyword>
+		<keyword>talking droid</keyword>
+		<keyword>bipedal robot</keyword>
+		<keyword>repulsorlift vehicle</keyword>
+		<keyword>escape from captivity</keyword>
+		<keyword>repulsorcraft</keyword>
+		<keyword>planet</keyword>
+		<keyword>hope</keyword>
+		<keyword>on the run</keyword>
+		<keyword>general</keyword>
+		<keyword>mon calamari</keyword>
+		<keyword>blaster pistol</keyword>
+		<keyword>crashed starship</keyword>
+		<keyword>protocol droid</keyword>
+		<keyword>female starfighter pilot</keyword>
+		<keyword>spacecraft cockpit</keyword>
+		<keyword>human in outer space</keyword>
+		<keyword>battlecruiser starship</keyword>
+		<keyword>battlecruiser</keyword>
+		<keyword>bipedal alien</keyword>
+		<keyword>advanced technology</keyword>
+		<keyword>masked villain</keyword>
+		<keyword>outnumbered</keyword>
+		<keyword>remote detonator</keyword>
+		<keyword>lightsaber battle</keyword>
+		<keyword>seven word title</keyword>
+		<keyword>planetary destruction</keyword>
+		<keyword>rationing</keyword>
+		<keyword>handheld detonator</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>arrest</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>admiral</keyword>
+		<keyword>little person</keyword>
+		<keyword>commander</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>space western</keyword>
+		<keyword>key</keyword>
+		<keyword>nurse</keyword>
+		<keyword>prosthetic limb</keyword>
+		<keyword>robotic arm</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>cellar</keyword>
+		<keyword>bartender</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>henchman</keyword>
+		<keyword>shipwreck</keyword>
+		<keyword>asteroid belt</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>skull</keyword>
+		<keyword>air strike</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>saga</keyword>
+		<keyword>spear</keyword>
+		<keyword>power outage</keyword>
+		<keyword>scottish accent</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>adventure hero</keyword>
+		<keyword>female pilot</keyword>
+		<keyword>detonator</keyword>
+		<keyword>explosive</keyword>
+		<keyword>co pilot</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>vision</keyword>
+		<keyword>woods</keyword>
+		<keyword>ambush</keyword>
+		<keyword>prisoner of war</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>island</keyword>
+		<keyword>blood</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>tentacle</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>elevator</keyword>
+		<keyword>murder</keyword>
+		<keyword>monster</keyword>
+		<keyword>female spy</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>fire</keyword>
+		<keyword>cape</keyword>
+		<keyword>tent</keyword>
+		<keyword>flamethrower</keyword>
+		<keyword>missing person</keyword>
+		<keyword>assassin</keyword>
+		<keyword>bounty hunter</keyword>
+		<keyword>rescue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>army</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>hostage</keyword>
+		<keyword>humor</keyword>
+		<keyword>lieutenant</keyword>
+		<keyword>captain</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>revenge</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>long take</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>famous score</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>laser</keyword>
+		<keyword>cannon</keyword>
+		<keyword>laser cannon</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>explosion</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>woman hits a man</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>chaos</keyword>
+		<keyword>warp speed</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>warrior</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>one man army</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>action hero</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>stabbed through the chest</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>starship bridge</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>shootout</keyword>
+		<keyword>seventh part</keyword>
+		<keyword>man sweating</keyword>
+		<keyword>philosophy</keyword>
+		<keyword>male soldier</keyword>
+		<keyword>open ended</keyword>
+		<keyword>male female hug</keyword>
+		<keyword>food shortage</keyword>
+		<keyword>tentacled alien</keyword>
+		<keyword>attack</keyword>
+		<keyword>danger</keyword>
+		<keyword>outpost</keyword>
+		<keyword>major</keyword>
+		<keyword>gang</keyword>
+		<keyword>epic</keyword>
+		<keyword>blizzard</keyword>
+		<keyword>hearing voices</keyword>
+		<keyword>courage</keyword>
+		<keyword>mission</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>quest</keyword>
+		<keyword>water</keyword>
+		<keyword>survival</keyword>
+		<keyword>sun</keyword>
+		<keyword>giant</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>fight</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>starfighter</keyword>
+		<keyword>star destroyer</keyword>
+		<keyword>snowy landscape</keyword>
+		<keyword>showdown</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>five word title</keyword>
+		<keyword>plasma</keyword>
+		<keyword>roman numbered sequel</keyword>
+		<keyword>roman numeral in title</keyword>
+	</keywords>
+	<directors>
+		<director> J.J. Abrams</director>
+	</directors>
+	<composers>
+		<composer> John Williams</composer>
+	</composers>
+	<producers>
+		<producer> J.J. Abrams</producer>
+		<producer> Pippa Anderson</producer>
+		<producer> Michael Arndt</producer>
+		<producer> Bryan Burk</producer>
+		<producer> Leifur B. Dagfinnsson</producer>
+		<producer> Tommy Gormley</producer>
+		<producer> Tommy Harper</producer>
+		<producer> Lawrence Kasdan</producer>
+		<producer> Kathleen Kennedy</producer>
+		<producer> Jason McGatlin</producer>
+		<producer> Michelle Rejwan</producer>
+		<producer> Ben Rosenblatt</producer>
+		<producer> John Swartz</producer>
+		<producer> Susan Towner</producer>
+	</producers>
+	<writers>
+		<writer> Lawrence Kasdan</writer>
+		<writer> J.J. Abrams</writer>
+		<writer> Michael Arndt</writer>
+		<writer> George Lucas</writer>
+	</writers>
+	<editors>
+		<editor> Maryann Brandon</editor>
+		<editor> Mary Jo Markey</editor>
+	</editors>
+</doc>

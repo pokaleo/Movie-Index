@@ -1,0 +1,685 @@
+<?xml version="1.0" ?>
+<doc id="tt1321510">
+	<docid>tt1321510</docid>
+	<title>In the Heights</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzM1ZDY0YTktZTYzZi00MjZjLTllMDMtMmNlMmM5NmY4ZjllXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">143</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Musical</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A film version of the Broadway musical in which Usnavi, a sympathetic New York bodega owner, saves every penny every day as he imagines and sings about a better life.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Anthony Ramos</actor>
+			<role>Usnavi</role>
+		</credit>
+		<credit>
+			<actor>Corey Hawkins</actor>
+			<role>Benny</role>
+		</credit>
+		<credit>
+			<actor>Leslie Grace</actor>
+			<role>Nina Rosario</role>
+		</credit>
+		<credit>
+			<actor>Melissa Barrera</actor>
+			<role>Vanessa</role>
+		</credit>
+		<credit>
+			<actor>Olga Merediz</actor>
+			<role>Abuela Claudia</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Smits</actor>
+			<role>Kevin Rosario</role>
+		</credit>
+		<credit>
+			<actor>Gregory Diaz IV</actor>
+			<role>Sonny</role>
+		</credit>
+		<credit>
+			<actor>Daphne Rubin-Vega</actor>
+			<role>Daniela</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Beatriz</actor>
+			<role>Carla</role>
+		</credit>
+		<credit>
+			<actor>Dascha Polanco</actor>
+			<role>Cuca</role>
+		</credit>
+		<credit>
+			<actor>Noah Catala</actor>
+			<role>Graffiti Pete</role>
+		</credit>
+		<credit>
+			<actor>Lin-Manuel Miranda</actor>
+			<role>Piragüero</role>
+		</credit>
+		<credit>
+			<actor>Mateo Gómez</actor>
+			<role>Alejandro</role>
+		</credit>
+		<credit>
+			<actor>Marc Anthony</actor>
+			<role>Gapo</role>
+		</credit>
+		<credit>
+			<actor>Patrick Page</actor>
+			<role>Pike Phillips</role>
+		</credit>
+		<credit>
+			<actor>Olivia Perez</actor>
+			<role>Iris</role>
+		</credit>
+		<credit>
+			<actor>Analia Gomez</actor>
+			<role>Rosa</role>
+		</credit>
+		<credit>
+			<actor>Dean Scott Vazquez</actor>
+			<role>Sedo</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Indonesia">June 9 2021</releasedate>
+		<releasedate country="Iceland">June 9 2021</releasedate>
+		<releasedate country="United States">June 9 2021</releasedate>
+		<releasedate country="Portugal">June 10 2021</releasedate>
+		<releasedate country="Ukraine">June 10 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Egypt">E</certificate>
+		<certificate country="Finland">S</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="India">UA 16+</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Saudi Arabia">R15</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Taiwan">6+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>reference to frida kahlo</keyword>
+		<keyword>reference to sonia sotomayor</keyword>
+		<keyword>singing</keyword>
+		<keyword>dancing</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>dance</keyword>
+		<keyword>celebration</keyword>
+		<keyword>mashup</keyword>
+		<keyword>height</keyword>
+		<keyword>childhood</keyword>
+		<keyword>friend</keyword>
+		<keyword>boy</keyword>
+		<keyword>girl</keyword>
+		<keyword>building</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>washington heights manhattan new york city</keyword>
+		<keyword>new york city</keyword>
+		<keyword>bodega</keyword>
+		<keyword>puerto rican in new york city</keyword>
+		<keyword>dominican in usa</keyword>
+		<keyword>dominican in new york</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>beauty parlor</keyword>
+		<keyword>reference to carmen miranda</keyword>
+		<keyword>reference to tiger woods</keyword>
+		<keyword>public pool</keyword>
+		<keyword>lottery</keyword>
+		<keyword>shaved ice</keyword>
+		<keyword>fire hydrant</keyword>
+		<keyword>dancing on a wall</keyword>
+		<keyword>blackout</keyword>
+		<keyword>gentrification</keyword>
+		<keyword>street vendor</keyword>
+		<keyword>mexican</keyword>
+		<keyword>dominican</keyword>
+		<keyword>puerto rican</keyword>
+		<keyword>cuban</keyword>
+		<keyword>mexican flag</keyword>
+		<keyword>puerto rican flag</keyword>
+		<keyword>dominican republic flag</keyword>
+		<keyword>latino</keyword>
+		<keyword>illegal immigrant</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>mexican immigrant</keyword>
+		<keyword>cuban immigrant</keyword>
+		<keyword>puerto rican immigrant</keyword>
+		<keyword>dominican immigrant</keyword>
+		<keyword>reference to lord of the rings</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>first generation immigrant</keyword>
+		<keyword>second generation immigrant</keyword>
+		<keyword>undocumented immigrant</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>latina</keyword>
+		<keyword>reference to chita rivera</keyword>
+		<keyword>reference to rita moreno</keyword>
+		<keyword>reference to obi wan kenobi</keyword>
+		<keyword>reference to frodo baggins</keyword>
+		<keyword>reference to cole porter</keyword>
+		<keyword>beauty salon</keyword>
+		<keyword>neighborhood</keyword>
+		<keyword>dancing in the streets</keyword>
+		<keyword>breaking into song</keyword>
+		<keyword>immigrant community</keyword>
+		<keyword>latino community</keyword>
+		<keyword>hispanic community</keyword>
+		<keyword>summer</keyword>
+		<keyword>businessman</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>entrepreneur</keyword>
+		<keyword>taxi dispatcher</keyword>
+		<keyword>romantic crush</keyword>
+		<keyword>public swimming pool</keyword>
+		<keyword>dominican american</keyword>
+		<keyword>puerto rican american</keyword>
+		<keyword>cuban american</keyword>
+		<keyword>corner store</keyword>
+		<keyword>shop owner</keyword>
+		<keyword>lottery ticket</keyword>
+		<keyword>winning lottery ticket</keyword>
+		<keyword>following one's dream</keyword>
+		<keyword>college student</keyword>
+		<keyword>storefront</keyword>
+		<keyword>dispatch</keyword>
+		<keyword>microphone</keyword>
+		<keyword>park</keyword>
+		<keyword>basketball court</keyword>
+		<keyword>sung dialogue</keyword>
+		<keyword>fingernails</keyword>
+		<keyword>ambition</keyword>
+		<keyword>fashion designer</keyword>
+		<keyword>elevated train</keyword>
+		<keyword>valedictorian</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>fire escape</keyword>
+		<keyword>gossip</keyword>
+		<keyword>fiesta</keyword>
+		<keyword>power outage</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>navy ship</keyword>
+		<keyword>artist</keyword>
+		<keyword>graffiti artist</keyword>
+		<keyword>reference to pinocchio</keyword>
+		<keyword>barrio</keyword>
+		<keyword>latino culture</keyword>
+		<keyword>moving</keyword>
+		<keyword>paint</keyword>
+		<keyword>mural</keyword>
+		<keyword>star crossed lovers</keyword>
+		<keyword>apartment</keyword>
+		<keyword>subway train</keyword>
+		<keyword>spray paint</keyword>
+		<keyword>artistic inspiration</keyword>
+		<keyword>renting an apartment</keyword>
+		<keyword>selling a business</keyword>
+		<keyword>ice cream truck</keyword>
+		<keyword>ice cream man</keyword>
+		<keyword>city bus</keyword>
+		<keyword>laundry service</keyword>
+		<keyword>dry cleaning</keyword>
+		<keyword>chain link fence</keyword>
+		<keyword>feeling like a failure</keyword>
+		<keyword>dropping out of college</keyword>
+		<keyword>george washington bridge</keyword>
+		<keyword>napkin</keyword>
+		<keyword>abuela</keyword>
+		<keyword>hat</keyword>
+		<keyword>protest</keyword>
+		<keyword>political protest</keyword>
+		<keyword>dreamer</keyword>
+		<keyword>dinner</keyword>
+		<keyword>romantic tension</keyword>
+		<keyword>calling 911</keyword>
+		<keyword>playing a record</keyword>
+		<keyword>college tuition</keyword>
+		<keyword>dance club</keyword>
+		<keyword>matriarch</keyword>
+		<keyword>electrical generator</keyword>
+		<keyword>playing bingo</keyword>
+		<keyword>dumpster diving</keyword>
+		<keyword>cleaning lady</keyword>
+		<keyword>subway tunnel</keyword>
+		<keyword>light at the end of the tunnel</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>candlelight vigil</keyword>
+		<keyword>self doubt</keyword>
+		<keyword>high school dropout</keyword>
+		<keyword>political rally</keyword>
+		<keyword>activist</keyword>
+		<keyword>real estate agent</keyword>
+		<keyword>broken refrigerator</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>bottle of champagne</keyword>
+		<keyword>change of plans</keyword>
+		<keyword>home</keyword>
+		<keyword>post credits scene</keyword>
+		<keyword>unreliable narrator</keyword>
+		<keyword>home from college</keyword>
+		<keyword>back home</keyword>
+		<keyword>nail salon</keyword>
+		<keyword>embroidered handkerchief</keyword>
+		<keyword>embroidery</keyword>
+		<keyword>hometown</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>hair salon</keyword>
+		<keyword>spanglish</keyword>
+		<keyword>racial profiling</keyword>
+		<keyword>community</keyword>
+		<keyword>hispanic</keyword>
+		<keyword>ethnic neighborhood</keyword>
+		<keyword>american dream</keyword>
+		<keyword>dinner party</keyword>
+		<keyword>drop cloth</keyword>
+		<keyword>photograph</keyword>
+		<keyword>sour milk</keyword>
+		<keyword>manhole cover</keyword>
+		<keyword>dancing in the street</keyword>
+		<keyword>waxing eyebrow</keyword>
+		<keyword>wig</keyword>
+		<keyword>mannequin head</keyword>
+		<keyword>realtor</keyword>
+		<keyword>fabric</keyword>
+		<keyword>hip hop</keyword>
+		<keyword>city block</keyword>
+		<keyword>using a cell phone as a flashlight</keyword>
+		<keyword>cell phone light</keyword>
+		<keyword>mantra</keyword>
+		<keyword>taking out the trash</keyword>
+		<keyword>reference to juan luis guerra</keyword>
+		<keyword>skipping record</keyword>
+		<keyword>car service</keyword>
+		<keyword>based on stage musical</keyword>
+		<keyword>beach towel</keyword>
+		<keyword>go getter</keyword>
+		<keyword>workaholic</keyword>
+		<keyword>date</keyword>
+		<keyword>bar</keyword>
+		<keyword>drinking shots</keyword>
+		<keyword>no electricity</keyword>
+		<keyword>spoiled milk</keyword>
+		<keyword>coffee</keyword>
+		<keyword>flag</keyword>
+		<keyword>heritage</keyword>
+		<keyword>reference to david ortiz</keyword>
+		<keyword>rapping</keyword>
+		<keyword>death</keyword>
+		<keyword>over achiever</keyword>
+		<keyword>college scholarship</keyword>
+		<keyword>identity crisis</keyword>
+		<keyword>new hairstyle</keyword>
+		<keyword>activism</keyword>
+		<keyword>motto</keyword>
+		<keyword>rental application</keyword>
+		<keyword>bigger dreams</keyword>
+		<keyword>bingo</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>candle</keyword>
+		<keyword>gay character</keyword>
+		<keyword>neighbor neighbor relationship</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>undocumented teenager</keyword>
+		<keyword>song</keyword>
+		<keyword>dancer</keyword>
+		<keyword>bodega owner</keyword>
+		<keyword>dominican republic</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>taxi</keyword>
+		<keyword>taxi company</keyword>
+		<keyword>heat the temperature</keyword>
+		<keyword>aspiring fashion designer</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>demonstration</keyword>
+		<keyword>childhood friend</keyword>
+		<keyword>party</keyword>
+		<keyword>promise</keyword>
+		<keyword>cuba</keyword>
+		<keyword>puerto rico</keyword>
+		<keyword>daca deferred action for childhood arrivals</keyword>
+		<keyword>kiss</keyword>
+		<keyword>graffiti</keyword>
+		<keyword>mister softee truck</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>piragua</keyword>
+		<keyword>beach</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>man wears boxer shorts</keyword>
+		<keyword>flashback</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>street life</keyword>
+		<keyword>alarm clock</keyword>
+		<keyword>sleep</keyword>
+		<keyword>prologue</keyword>
+		<keyword>the best day of one's life</keyword>
+		<keyword>old woman</keyword>
+		<keyword>stepping in chewing gum</keyword>
+		<keyword>rap music</keyword>
+		<keyword>camera shot from inside a refrigerator</keyword>
+		<keyword>milk carton</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>camera shot from inside a sink</keyword>
+		<keyword>looking at the camera</keyword>
+		<keyword>talking to the camera</keyword>
+		<keyword>singing to the camera</keyword>
+		<keyword>map on a cell phone</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>181st street manhattan new york city</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>clothesline</keyword>
+		<keyword>split screen</keyword>
+		<keyword>flirting</keyword>
+		<keyword>condom</keyword>
+		<keyword>maxi pad</keyword>
+		<keyword>hip hop music</keyword>
+		<keyword>bus</keyword>
+		<keyword>barber shop</keyword>
+		<keyword>mopping a floor</keyword>
+		<keyword>black american</keyword>
+		<keyword>african american</keyword>
+		<keyword>reflection in a window</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>welder</keyword>
+		<keyword>haircut</keyword>
+		<keyword>old man</keyword>
+		<keyword>woman wears high heels</keyword>
+		<keyword>nickname</keyword>
+		<keyword>venetian blinds</keyword>
+		<keyword>female female embrace</keyword>
+		<keyword>in love with the boss's daughter</keyword>
+		<keyword>hug in the middle of the street</keyword>
+		<keyword>handshake</keyword>
+		<keyword>shoplifter</keyword>
+		<keyword>theft</keyword>
+		<keyword>running teenage boy</keyword>
+		<keyword>food</keyword>
+		<keyword>dead mother</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>embroidered napkin</keyword>
+		<keyword>dignity</keyword>
+		<keyword>street musician</keyword>
+		<keyword>street singer</keyword>
+		<keyword>guitarist</keyword>
+		<keyword>female flute player</keyword>
+		<keyword>looking out a window</keyword>
+		<keyword>folding fan</keyword>
+		<keyword>cooking</keyword>
+		<keyword>money</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>eating</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>diversity</keyword>
+		<keyword>racial prejudice</keyword>
+		<keyword>financial problems</keyword>
+		<keyword>old woman wears eyeglasses</keyword>
+		<keyword>29 year old</keyword>
+		<keyword>sitting on steps</keyword>
+		<keyword>survival</keyword>
+		<keyword>airplane</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>memory</keyword>
+		<keyword>black and white photograph</keyword>
+		<keyword>ship</keyword>
+		<keyword>montage</keyword>
+		<keyword>u.s. navy</keyword>
+		<keyword>telephone</keyword>
+		<keyword>subway</keyword>
+		<keyword>false fingernails</keyword>
+		<keyword>reflection in a mirror</keyword>
+		<keyword>bronx new york city</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>fist bump</keyword>
+		<keyword>hair dryer</keyword>
+		<keyword>reference to celia cruz</keyword>
+		<keyword>mirror</keyword>
+		<keyword>animated sequence</keyword>
+		<keyword>subway station</keyword>
+		<keyword>machismo</keyword>
+		<keyword>alleyway</keyword>
+		<keyword>potato chips</keyword>
+		<keyword>drawing on window steam</keyword>
+		<keyword>reference to dolores huerta</keyword>
+		<keyword>magic marker</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>running woman</keyword>
+		<keyword>hispanic heritage</keyword>
+		<keyword>swimming</keyword>
+		<keyword>reference to isabel allende</keyword>
+		<keyword>reference to sandra cisneros</keyword>
+		<keyword>reference to julia alvarez</keyword>
+		<keyword>reference to rogoberta menchu</keyword>
+		<keyword>profit sharing</keyword>
+		<keyword>braggadocio</keyword>
+		<keyword>man wears a swimsuit</keyword>
+		<keyword>woman wears a swimsuit</keyword>
+		<keyword>woman wears a black bikini</keyword>
+		<keyword>hypothetical</keyword>
+		<keyword>teenage boy wears a swimsuit</keyword>
+		<keyword>merry christmas</keyword>
+		<keyword>diving</keyword>
+		<keyword>immigration</keyword>
+		<keyword>racism</keyword>
+		<keyword>ghetto</keyword>
+		<keyword>downtown manhattan new york city</keyword>
+		<keyword>respect</keyword>
+		<keyword>locker room</keyword>
+		<keyword>inner tube</keyword>
+		<keyword>swimming pool float</keyword>
+		<keyword>debt</keyword>
+		<keyword>suenito</keyword>
+		<keyword>truck</keyword>
+		<keyword>grand opening sign</keyword>
+		<keyword>breakup</keyword>
+		<keyword>running man</keyword>
+		<keyword>soccer</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>hopscotch</keyword>
+		<keyword>playground</keyword>
+		<keyword>bench</keyword>
+		<keyword>basketball</keyword>
+		<keyword>jumping rope</keyword>
+		<keyword>walking on one's hands</keyword>
+		<keyword>acrobat</keyword>
+		<keyword>dancing in a park</keyword>
+		<keyword>dominos</keyword>
+		<keyword>game playing</keyword>
+		<keyword>pride</keyword>
+		<keyword>welcome home</keyword>
+		<keyword>cafe con leche</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>watching baseball on tv</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>tattooed man</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>beer</keyword>
+		<keyword>dating</keyword>
+		<keyword>dream come true</keyword>
+		<keyword>recording</keyword>
+		<keyword>record player</keyword>
+		<keyword>doorbell</keyword>
+		<keyword>hand palm slap</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>laughter</keyword>
+		<keyword>singer</keyword>
+		<keyword>maracas</keyword>
+		<keyword>tapping a wine glass</keyword>
+		<keyword>dead wife</keyword>
+		<keyword>false accusation of theft</keyword>
+		<keyword>apology</keyword>
+		<keyword>revenge</keyword>
+		<keyword>female drummer</keyword>
+		<keyword>trumpet player</keyword>
+		<keyword>trombone player</keyword>
+		<keyword>amaretto sour</keyword>
+		<keyword>name calling</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>giving a toast</keyword>
+		<keyword>l'chaim</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>sparkler</keyword>
+		<keyword>panic</keyword>
+		<keyword>generator</keyword>
+		<keyword>happy birthday</keyword>
+		<keyword>sewing machine</keyword>
+		<keyword>year 1943</keyword>
+		<keyword>poverty</keyword>
+		<keyword>heartbreak</keyword>
+		<keyword>bird figurine</keyword>
+		<keyword>stairway</keyword>
+		<keyword>crying man</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>male male embrace</keyword>
+		<keyword>grief</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>little boy</keyword>
+		<keyword>little girl</keyword>
+		<keyword>tambourine</keyword>
+		<keyword>aunt niece relationship</keyword>
+		<keyword>earphones</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>shame</keyword>
+		<keyword>calculator</keyword>
+		<keyword>boricua</keyword>
+		<keyword>nuyoricua</keyword>
+		<keyword>man spits</keyword>
+		<keyword>tonteria</keyword>
+		<keyword>carnaval</keyword>
+		<keyword>dominican cuban</keyword>
+		<keyword>chile domini curican</keyword>
+		<keyword>love</keyword>
+		<keyword>powerlessness</keyword>
+		<keyword>foreigner</keyword>
+		<keyword>electricity</keyword>
+		<keyword>waving goodbye</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>jewelry box</keyword>
+		<keyword>dancing on a window</keyword>
+		<keyword>pigeon</keyword>
+		<keyword>sundown</keyword>
+		<keyword>stubbornness</keyword>
+		<keyword>shell jewelry box</keyword>
+		<keyword>drinking from a bottle</keyword>
+		<keyword>empty apartment</keyword>
+		<keyword>lateness</keyword>
+		<keyword>green card</keyword>
+		<keyword>reference to wonder woman character</keyword>
+		<keyword>trust fund</keyword>
+		<keyword>painter</keyword>
+		<keyword>garbage truck</keyword>
+		<keyword>the best days of one's life</keyword>
+		<keyword>stuck recording</keyword>
+		<keyword>recording scratch</keyword>
+		<keyword>audio montage</keyword>
+		<keyword>legacy</keyword>
+		<keyword>island</keyword>
+		<keyword>mannequin</keyword>
+		<keyword>mom and pop store</keyword>
+		<keyword>audio flashback</keyword>
+		<keyword>patience</keyword>
+		<keyword>faith</keyword>
+		<keyword>title song</keyword>
+		<keyword>photographs during closing credits</keyword>
+		<keyword>scene after closing credits</keyword>
+		<keyword>pop musical</keyword>
+		<keyword>2020s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>deceased mother</keyword>
+		<keyword>deceased wife</keyword>
+		<keyword>coaster</keyword>
+		<keyword>crab</keyword>
+		<keyword>star</keyword>
+		<keyword>statue of liberty new york city</keyword>
+		<keyword>based on broadway musical</keyword>
+		<keyword>reference to john wick</keyword>
+		<keyword>waiting tables</keyword>
+		<keyword>awakening</keyword>
+		<keyword>power blackout</keyword>
+		<keyword>black out</keyword>
+		<keyword>father kisses his daughter on the top of her head</keyword>
+	</keywords>
+	<directors>
+		<director> Jon M. Chu</director>
+	</directors>
+	<composers>
+		<composer> Alex Lacamoire</composer>
+		<composer> Lin-Manuel Miranda</composer>
+		<composer> Bill Sherman</composer>
+	</composers>
+	<producers>
+		<producer> Anthony Bregman</producer>
+		<producer> Jill Furman</producer>
+		<producer> Quiara Alegría Hudes</producer>
+		<producer> Mara Jacobs</producer>
+		<producer> Kevin McCollum</producer>
+		<producer> Kevin McCormick</producer>
+		<producer> Lin-Manuel Miranda</producer>
+		<producer> David Nicksay</producer>
+		<producer> Joseph P. Reidy</producer>
+		<producer> Scott Sanders</producer>
+		<producer> Jeffrey Seller</producer>
+		<producer> Gregory Zuk</producer>
+	</producers>
+	<writers>
+		<writer> Quiara Alegría Hudes</writer>
+		<writer> Lin-Manuel Miranda</writer>
+		<writer> Quiara Alegría Hudes</writer>
+		<writer> Lin-Manuel Miranda</writer>
+	</writers>
+	<editors>
+		<editor> Myron Kerstein</editor>
+	</editors>
+</doc>

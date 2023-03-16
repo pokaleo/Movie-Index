@@ -1,0 +1,477 @@
+<?xml version="1.0" ?>
+<doc id="tt5886046">
+	<docid>tt5886046</docid>
+	<title>Escape Room</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjQ2NDMwMTY3MF5BMl5BanBnXkFtZTgwNDg5OTc1NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2019</year>
+	<runningtimes>
+		<runningtime country="default">99</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Six strangers find themselves in a maze of deadly mystery rooms and must use their wits to survive.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Taylor Russell</actor>
+			<role>Zoey Davis</role>
+		</credit>
+		<credit>
+			<actor>Logan Miller</actor>
+			<role>Ben Miller</role>
+		</credit>
+		<credit>
+			<actor>Jay Ellis</actor>
+			<role>Jason Walker</role>
+		</credit>
+		<credit>
+			<actor>Tyler Labine</actor>
+			<role>Mike Nolan</role>
+		</credit>
+		<credit>
+			<actor>Deborah Ann Woll</actor>
+			<role>Amanda Harper</role>
+		</credit>
+		<credit>
+			<actor>Nik Dodani</actor>
+			<role>Danny Khan</role>
+		</credit>
+		<credit>
+			<actor>Yorick van Wageningen</actor>
+			<role>Games Master WooTan Yu</role>
+		</credit>
+		<credit>
+			<actor>Cornelius Geaney Jr.</actor>
+			<role>College Professor</role>
+		</credit>
+		<credit>
+			<actor>Russell Crous</actor>
+			<role>Charlie - Jason's Assistant</role>
+		</credit>
+		<credit>
+			<actor>Bart Fouche</actor>
+			<role>Gary - Ben's Boss</role>
+		</credit>
+		<credit>
+			<actor>Jessica Sutton</actor>
+			<role>Allison - Zoey's Roommate</role>
+		</credit>
+		<credit>
+			<actor>Paul Hampshire</actor>
+			<role>Hazmat One</role>
+		</credit>
+		<credit>
+			<actor>Vere Tindale</actor>
+			<role>Minos Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Kenneth Fok</actor>
+			<role>Detective Li</role>
+		</credit>
+		<credit>
+			<actor>Caely-Jo Levy</actor>
+			<role>Nurse</role>
+		</credit>
+		<credit>
+			<actor>Jamie-Lee Money</actor>
+			<role>Rosa</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Boado</actor>
+			<role>Business Passenger</role>
+		</credit>
+		<credit>
+			<actor>Inge Beckmann</actor>
+			<role>2nd Flight Attendant</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Greece">January 3 2019</releasedate>
+		<releasedate country="Hungary">January 3 2019</releasedate>
+		<releasedate country="Slovakia">January 3 2019</releasedate>
+		<releasedate country="Canada">January 4 2019</releasedate>
+		<releasedate country="Estonia">January 4 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Mongolia">PG</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Romania">I.C.-14</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Saudi Arabia">R15</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>escape room</keyword>
+		<keyword>puzzle</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>clue</keyword>
+		<keyword>code</keyword>
+		<keyword>box</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>reference to fahrenheit 451</keyword>
+		<keyword>chicago illinois</keyword>
+		<keyword>trapped under ice</keyword>
+		<keyword>parka</keyword>
+		<keyword>compass</keyword>
+		<keyword>mysterious box</keyword>
+		<keyword>glass of water</keyword>
+		<keyword>fire</keyword>
+		<keyword>key</keyword>
+		<keyword>fishing rod</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>billiards</keyword>
+		<keyword>survivor</keyword>
+		<keyword>oxygen mask</keyword>
+		<keyword>falling through ice</keyword>
+		<keyword>quantum zeno effect</keyword>
+		<keyword>screwdriver</keyword>
+		<keyword>reference to rudolph the red nosed reindeer</keyword>
+		<keyword>sliding puzzle</keyword>
+		<keyword>reference to one direction</keyword>
+		<keyword>eight ball</keyword>
+		<keyword>pool table</keyword>
+		<keyword>smashing a surveillence camera</keyword>
+		<keyword>defibrillator</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>flashback</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>drowning</keyword>
+		<keyword>telephone</keyword>
+		<keyword>snowing</keyword>
+		<keyword>snow</keyword>
+		<keyword>magnet</keyword>
+		<keyword>poison</keyword>
+		<keyword>reference to m. c. escher</keyword>
+		<keyword>waking up from a nightmare</keyword>
+		<keyword>puzzle box</keyword>
+		<keyword>confiscating a phone</keyword>
+		<keyword>crawling through an air shaft</keyword>
+		<keyword>flask</keyword>
+		<keyword>christmas carol</keyword>
+		<keyword>climbing a tree</keyword>
+		<keyword>electrocardiogram</keyword>
+		<keyword>survival</keyword>
+		<keyword>game</keyword>
+		<keyword>airplane</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>redheaded woman</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>elevator</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>breaking through ice</keyword>
+		<keyword>closed door</keyword>
+		<keyword>moving wall</keyword>
+		<keyword>death</keyword>
+		<keyword>heat</keyword>
+		<keyword>cold</keyword>
+		<keyword>ice</keyword>
+		<keyword>waiting room</keyword>
+		<keyword>reference to judi dench</keyword>
+		<keyword>reference to twister the game</keyword>
+		<keyword>water cooler</keyword>
+		<keyword>thermometer</keyword>
+		<keyword>sole survivor</keyword>
+		<keyword>x ray</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>hazmat suit</keyword>
+		<keyword>garrote</keyword>
+		<keyword>gun</keyword>
+		<keyword>shy girl</keyword>
+		<keyword>loner</keyword>
+		<keyword>antidote</keyword>
+		<keyword>riddle</keyword>
+		<keyword>fire extinguisher</keyword>
+		<keyword>hidden key</keyword>
+		<keyword>mannequin</keyword>
+		<keyword>trauma</keyword>
+		<keyword>invisible barrier</keyword>
+		<keyword>scarred neck</keyword>
+		<keyword>sign language</keyword>
+		<keyword>heart attack</keyword>
+		<keyword>death by heart attack</keyword>
+		<keyword>gas poisoning</keyword>
+		<keyword>escape</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>thanksgiving</keyword>
+		<keyword>lighting a cigarette</keyword>
+		<keyword>gamer</keyword>
+		<keyword>walls close in</keyword>
+		<keyword>banker</keyword>
+		<keyword>cube</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>reference to google</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>ringing telephone</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>escher stairway</keyword>
+		<keyword>reference to jason bourne</keyword>
+		<keyword>assumed dead</keyword>
+		<keyword>in medias res</keyword>
+		<keyword>voucher</keyword>
+		<keyword>pressure plate</keyword>
+		<keyword>secret passageway</keyword>
+		<keyword>narrow escape</keyword>
+		<keyword>fishing hole</keyword>
+		<keyword>safe</keyword>
+		<keyword>cleavage</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>thinking outside the box</keyword>
+		<keyword>freezing</keyword>
+		<keyword>locked in</keyword>
+		<keyword>locked door</keyword>
+		<keyword>reading a book</keyword>
+		<keyword>scream</keyword>
+		<keyword>screaming man</keyword>
+		<keyword>trap</keyword>
+		<keyword>trapped</keyword>
+		<keyword>riding a motorcycle</keyword>
+		<keyword>reference to pat morita</keyword>
+		<keyword>watching a movie</keyword>
+		<keyword>long haired male</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>lock</keyword>
+		<keyword>sudoku</keyword>
+		<keyword>reference to ray bradbury</keyword>
+		<keyword>bad dream</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>watching a video</keyword>
+		<keyword>worker</keyword>
+		<keyword>passive aggressive man</keyword>
+		<keyword>invitation</keyword>
+		<keyword>passive aggressive behavior</keyword>
+		<keyword>knocking on a glass door</keyword>
+		<keyword>arrogant man</keyword>
+		<keyword>reading a newspaper</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>headline</keyword>
+		<keyword>truck driver</keyword>
+		<keyword>reference to ray bradbury's fahrenheit 451</keyword>
+		<keyword>falling down an elevator shaft</keyword>
+		<keyword>jigsaw</keyword>
+		<keyword>patronizing</keyword>
+		<keyword>reference to petula clark</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>panic</keyword>
+		<keyword>hidden passage</keyword>
+		<keyword>push button</keyword>
+		<keyword>air shaft</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>elevator music</keyword>
+		<keyword>traumatized woman</keyword>
+		<keyword>traumatic memory</keyword>
+		<keyword>room on fire</keyword>
+		<keyword>reference to abraham lincoln</keyword>
+		<keyword>singing along</keyword>
+		<keyword>password</keyword>
+		<keyword>camera shot of feet</keyword>
+		<keyword>camera shot from inside mouth</keyword>
+		<keyword>jukebox</keyword>
+		<keyword>scarred back</keyword>
+		<keyword>falling into water</keyword>
+		<keyword>death by drowning</keyword>
+		<keyword>elevator shaft</keyword>
+		<keyword>drowned man</keyword>
+		<keyword>murder by drowning</keyword>
+		<keyword>war veteran</keyword>
+		<keyword>explosion</keyword>
+		<keyword>upside down camera shot</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>climbing a wall</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>crying female</keyword>
+		<keyword>heavy smoker</keyword>
+		<keyword>hospital room</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>fight</keyword>
+		<keyword>fight between friends</keyword>
+		<keyword>orphan</keyword>
+		<keyword>death by gunshot</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>threatened with a gun</keyword>
+		<keyword>heart massage</keyword>
+		<keyword>narcissistic man</keyword>
+		<keyword>traumatized man</keyword>
+		<keyword>murder</keyword>
+		<keyword>murder of friend</keyword>
+		<keyword>injection</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>giving oneself an injection</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>mistaken belief that someone is dead</keyword>
+		<keyword>male female fight</keyword>
+		<keyword>leg injury</keyword>
+		<keyword>strangling</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>smashing a bottle over someone's head</keyword>
+		<keyword>breaking a bottle over someone's head</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>limping</keyword>
+		<keyword>limping man</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>investigation</keyword>
+		<keyword>anagram</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>simulation</keyword>
+		<keyword>animated credits</keyword>
+		<keyword>animated end credits</keyword>
+		<keyword>open ending</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>man reads a book</keyword>
+		<keyword>girl in jeopardy</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>male star appears shirtless</keyword>
+		<keyword>reference to fatal plane crash</keyword>
+		<keyword>oven</keyword>
+		<keyword>cabin</keyword>
+		<keyword>triage</keyword>
+		<keyword>reference to vietnam</keyword>
+		<keyword>reference to sailing accident</keyword>
+		<keyword>begins with an ending scene</keyword>
+		<keyword>reference to cave in</keyword>
+		<keyword>reference to carbon monoxide poisoning</keyword>
+		<keyword>hallucinogen</keyword>
+		<keyword>game master</keyword>
+		<keyword>police</keyword>
+		<keyword>no way out</keyword>
+		<keyword>time jump</keyword>
+		<keyword>sales associate</keyword>
+		<keyword>flight simulator</keyword>
+		<keyword>military veteran</keyword>
+		<keyword>hypothermia</keyword>
+		<keyword>college professor</keyword>
+		<keyword>reward money advertised</keyword>
+		<keyword>college student</keyword>
+		<keyword>taxidermied animal</keyword>
+		<keyword>based on game</keyword>
+		<keyword>snowglobe</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>columbia tristar</keyword>
+		<keyword>game of death</keyword>
+		<keyword>iraq war veteran</keyword>
+		<keyword>female war veteran</keyword>
+		<keyword>broken neck</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>drink driving</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>university lecture</keyword>
+		<keyword>hallucinogenic</keyword>
+		<keyword>hallucinating</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>psychological horror</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>locked room mystery</keyword>
+		<keyword>downblouse</keyword>
+		<keyword>holiday horror</keyword>
+		<keyword>christmas horror</keyword>
+		<keyword>first of series</keyword>
+		<keyword>whodunnit mystery</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>two word title</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Adam Robitel</director>
+	</directors>
+	<composers>
+		<composer> John Carey</composer>
+		<composer> Brian Tyler</composer>
+	</composers>
+	<producers>
+		<producer> Ori Marmur</producer>
+		<producer> Neal H. Moritz</producer>
+		<producer> Karina Rahardja</producer>
+		<producer> Rebecca Rivo</producer>
+		<producer> Donovan Roberts-Baxter</producer>
+		<producer> Lynne-Anne Vosloo</producer>
+	</producers>
+	<writers>
+		<writer> Bragi F. Schut</writer>
+		<writer> Maria Melnik</writer>
+		<writer> Bragi F. Schut</writer>
+	</writers>
+	<editors>
+		<editor> Steve Mirkovich</editor>
+	</editors>
+</doc>

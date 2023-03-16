@@ -1,0 +1,867 @@
+<?xml version="1.0" ?>
+<doc id="tt1477834">
+	<docid>tt1477834</docid>
+	<title>Aquaman</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjEzMDY3MDYwMl5BMl5BanBnXkFtZTgwOTY3MDY3NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">143</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jason Momoa</actor>
+			<role>Arthur</role>
+		</credit>
+		<credit>
+			<actor>Amber Heard</actor>
+			<role>Mera</role>
+		</credit>
+		<credit>
+			<actor>Willem Dafoe</actor>
+			<role>Vulko</role>
+		</credit>
+		<credit>
+			<actor>Patrick Wilson</actor>
+			<role>King Orm</role>
+		</credit>
+		<credit>
+			<actor>Nicole Kidman</actor>
+			<role>Atlanna</role>
+		</credit>
+		<credit>
+			<actor>Dolph Lundgren</actor>
+			<role>King Nereus</role>
+		</credit>
+		<credit>
+			<actor>Yahya Abdul-Mateen II</actor>
+			<role>Manta</role>
+		</credit>
+		<credit>
+			<actor>Temuera Morrison</actor>
+			<role>Tom Curry</role>
+		</credit>
+		<credit>
+			<actor>Ludi Lin</actor>
+			<role>Captain Murk</role>
+		</credit>
+		<credit>
+			<actor>Michael Beach</actor>
+			<role>Jesse (Manta's Father)</role>
+		</credit>
+		<credit>
+			<actor>Randall Park</actor>
+			<role>Dr. Stephen Shin</role>
+		</credit>
+		<credit>
+			<actor>Graham McTavish</actor>
+			<role>King Atlan</role>
+		</credit>
+		<credit>
+			<actor>Leigh Whannell</actor>
+			<role>Cargo Pilot</role>
+		</credit>
+		<credit>
+			<actor>Tainui Kirkwood</actor>
+			<role>Young Arthur (Three Years Old)</role>
+		</credit>
+		<credit>
+			<actor>Tamor Kirkwood</actor>
+			<role>Young Arthur (Three Years Old)</role>
+		</credit>
+		<credit>
+			<actor>Denzel Quirke</actor>
+			<role>Young Arthur (Three Years Old)</role>
+		</credit>
+		<credit>
+			<actor>Kaan Guldur</actor>
+			<role>Young Arthur (Nine Years Old)</role>
+		</credit>
+		<credit>
+			<actor>Otis Dhanji</actor>
+			<role>Young Arthur (Thirteen Years Old)</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">November 26 2018</releasedate>
+		<releasedate country="Brazil">December 7 2018</releasedate>
+		<releasedate country="China">December 7 2018</releasedate>
+		<releasedate country="Argentina">December 11 2018</releasedate>
+		<releasedate country="United Kingdom">December 12 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Bulgaria">C</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">12A</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dc comics</keyword>
+		<keyword>aquaman character</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>ocean</keyword>
+		<keyword>king</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>atlantis</keyword>
+		<keyword>dc extended universe</keyword>
+		<keyword>superhero</keyword>
+		<keyword>heir to throne</keyword>
+		<keyword>showdown</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>hero</keyword>
+		<keyword>army</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>pirate</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>warrior princess</keyword>
+		<keyword>queen</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>hope</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>rescue</keyword>
+		<keyword>arena</keyword>
+		<keyword>underwater battle</keyword>
+		<keyword>desert</keyword>
+		<keyword>submarine</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>revenge</keyword>
+		<keyword>black manta character</keyword>
+		<keyword>super villain</keyword>
+		<keyword>one word title</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>action hero</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>redhead</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>costume</keyword>
+		<keyword>year 1985</keyword>
+		<keyword>1990s</keyword>
+		<keyword>2010s</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>prince</keyword>
+		<keyword>princess</keyword>
+		<keyword>heir</keyword>
+		<keyword>heiress</keyword>
+		<keyword>throne room</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>flashback</keyword>
+		<keyword>brawl</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>bravery</keyword>
+		<keyword>heroism</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>superhuman speed</keyword>
+		<keyword>metahuman</keyword>
+		<keyword>half brother</keyword>
+		<keyword>reference to archimedes</keyword>
+		<keyword>reference to hp lovecraft</keyword>
+		<keyword>reference to jules verne</keyword>
+		<keyword>reference to pinocchio</keyword>
+		<keyword>man with a ponytail</keyword>
+		<keyword>kingdom</keyword>
+		<keyword>mentor</keyword>
+		<keyword>atlantean</keyword>
+		<keyword>warrior race</keyword>
+		<keyword>spit take</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>sea</keyword>
+		<keyword>water</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>sea battle</keyword>
+		<keyword>swimming</keyword>
+		<keyword>creature</keyword>
+		<keyword>monster</keyword>
+		<keyword>sea creature</keyword>
+		<keyword>sea monster</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>fish</keyword>
+		<keyword>fishing boat</keyword>
+		<keyword>ship</keyword>
+		<keyword>shipwreck</keyword>
+		<keyword>quest</keyword>
+		<keyword>race against time</keyword>
+		<keyword>aquarium</keyword>
+		<keyword>fish tank</keyword>
+		<keyword>shark</keyword>
+		<keyword>whale</keyword>
+		<keyword>dolphin</keyword>
+		<keyword>giant crab</keyword>
+		<keyword>squid</keyword>
+		<keyword>octopus</keyword>
+		<keyword>tentacle</keyword>
+		<keyword>maine</keyword>
+		<keyword>indian ocean</keyword>
+		<keyword>north sea</keyword>
+		<keyword>flare</keyword>
+		<keyword>sahara desert</keyword>
+		<keyword>washing up onshore</keyword>
+		<keyword>lighthouse keeper</keyword>
+		<keyword>lightning</keyword>
+		<keyword>tidal wave</keyword>
+		<keyword>tsunami</keyword>
+		<keyword>wine cellar</keyword>
+		<keyword>harpoon</keyword>
+		<keyword>telepathy</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>science fantasy</keyword>
+		<keyword>toilet</keyword>
+		<keyword>sonar</keyword>
+		<keyword>little boy</keyword>
+		<keyword>long haired male</keyword>
+		<keyword>high tech suit</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>mera character</keyword>
+		<keyword>ocean master character</keyword>
+		<keyword>sicily</keyword>
+		<keyword>atlantean technology</keyword>
+		<keyword>male atlantean</keyword>
+		<keyword>tattooed man</keyword>
+		<keyword>beefcake</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>school of fish</keyword>
+		<keyword>amphibian</keyword>
+		<keyword>reference to romulus</keyword>
+		<keyword>human mermaid relationship</keyword>
+		<keyword>underwater city</keyword>
+		<keyword>bola</keyword>
+		<keyword>mosasaur</keyword>
+		<keyword>golden trident</keyword>
+		<keyword>walking through a waterfall</keyword>
+		<keyword>superhero origin</keyword>
+		<keyword>riding a shark</keyword>
+		<keyword>succession to the throne</keyword>
+		<keyword>hammerhead shark</keyword>
+		<keyword>hydro cannon</keyword>
+		<keyword>dry for wet</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>reference to poseidon the greek deity</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>half breed</keyword>
+		<keyword>hydrokinesis</keyword>
+		<keyword>wine</keyword>
+		<keyword>royal blood</keyword>
+		<keyword>person thought dead is alive</keyword>
+		<keyword>half brother half brother relationship</keyword>
+		<keyword>jumping out of a plane</keyword>
+		<keyword>red hair</keyword>
+		<keyword>ocean pollution</keyword>
+		<keyword>jumping from a plane without a parachute</keyword>
+		<keyword>powerful weapon</keyword>
+		<keyword>betrothed</keyword>
+		<keyword>arranged marriage</keyword>
+		<keyword>illegitimate son</keyword>
+		<keyword>command of the sea</keyword>
+		<keyword>crustacean</keyword>
+		<keyword>challenger to the throne</keyword>
+		<keyword>digital de aging</keyword>
+		<keyword>border patrol</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>torpedo attack</keyword>
+		<keyword>naval warship</keyword>
+		<keyword>multiple actors for one character</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>kingdom of atlantis</keyword>
+		<keyword>long haired man</keyword>
+		<keyword>brother versus brother</keyword>
+		<keyword>watercraft</keyword>
+		<keyword>walking on water</keyword>
+		<keyword>talking to a fish</keyword>
+		<keyword>redheaded woman</keyword>
+		<keyword>amphibious man</keyword>
+		<keyword>underwater world</keyword>
+		<keyword>falling into a hole</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>head in a toilet</keyword>
+		<keyword>1980s</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>underwater</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>mentor protege relationship</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>one man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>throne</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>battle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>prologue</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>duel</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>courage</keyword>
+		<keyword>world domination</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>one against many</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>rooftop chase</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>long take</keyword>
+		<keyword>mutation</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>impalement</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>brutality</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>colisseum</keyword>
+		<keyword>corpse</keyword>
+		<keyword>montage</keyword>
+		<keyword>workshop</keyword>
+		<keyword>boat</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>training</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>crab</keyword>
+		<keyword>jellyfish</keyword>
+		<keyword>seahorse</keyword>
+		<keyword>boston massachusetts</keyword>
+		<keyword>atlantic ocean</keyword>
+		<keyword>portal</keyword>
+		<keyword>sicily italy</keyword>
+		<keyword>beach</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>pier</keyword>
+		<keyword>lighthouse</keyword>
+		<keyword>storm at sea</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>hurricane</keyword>
+		<keyword>giant wave</keyword>
+		<keyword>flood</keyword>
+		<keyword>mermaid</keyword>
+		<keyword>fish out of water</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>bell tower</keyword>
+		<keyword>submersible</keyword>
+		<keyword>sailor</keyword>
+		<keyword>captain</keyword>
+		<keyword>russian</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>culture clash</keyword>
+		<keyword>lifeboat</keyword>
+		<keyword>hijacking</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>soldier</keyword>
+		<keyword>suit of armor</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>helmet</keyword>
+		<keyword>shield</keyword>
+		<keyword>spear</keyword>
+		<keyword>diving suit</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>baby</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>love</keyword>
+		<keyword>kiss</keyword>
+		<keyword>crown</keyword>
+		<keyword>beard</keyword>
+		<keyword>single father</keyword>
+		<keyword>single parent</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>dark past</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>royalty</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>lava</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>sinking</keyword>
+		<keyword>message in a bottle</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>sword</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>trident</keyword>
+		<keyword>screaming</keyword>
+		<keyword>news report</keyword>
+		<keyword>conspiracy theorist</keyword>
+		<keyword>marine biologist</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>knife throwing</keyword>
+		<keyword>superpower</keyword>
+		<keyword>ruins</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>mind reading</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>evil man</keyword>
+		<keyword>chaos</keyword>
+		<keyword>destruction</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>massacre</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>cape</keyword>
+		<keyword>coastal town</keyword>
+		<keyword>rock music</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>statue</keyword>
+		<keyword>artifact</keyword>
+		<keyword>relic</keyword>
+		<keyword>christ allegory</keyword>
+		<keyword>beer</keyword>
+		<keyword>bar</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>hologram</keyword>
+		<keyword>tomb</keyword>
+		<keyword>catacomb</keyword>
+		<keyword>warlord</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>death threat</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>assassin</keyword>
+		<keyword>laser</keyword>
+		<keyword>force field</keyword>
+		<keyword>revelation</keyword>
+		<keyword>mute</keyword>
+		<keyword>dog</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>jumping from a rooftop</keyword>
+		<keyword>jumping from an airplane</keyword>
+		<keyword>airplane</keyword>
+		<keyword>airplane pilot</keyword>
+		<keyword>pilot</keyword>
+		<keyword>goat</keyword>
+		<keyword>henchman</keyword>
+		<keyword>on the run</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>gold coin</keyword>
+		<keyword>bully</keyword>
+		<keyword>teenager</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>transformation</keyword>
+		<keyword>body armor</keyword>
+		<keyword>grenade</keyword>
+		<keyword>bomb</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>manta ray</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>insanity</keyword>
+		<keyword>ceremonial knife</keyword>
+		<keyword>lava bomb</keyword>
+		<keyword>island</keyword>
+		<keyword>magic</keyword>
+		<keyword>magical weapon</keyword>
+		<keyword>magical artifact</keyword>
+		<keyword>arrest</keyword>
+		<keyword>torpedo</keyword>
+		<keyword>strongman</keyword>
+		<keyword>muscleman</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>fan</keyword>
+		<keyword>photograph</keyword>
+		<keyword>rescue attempt</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>swarm</keyword>
+		<keyword>guard</keyword>
+		<keyword>challenge</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>ancient race</keyword>
+		<keyword>ancient city</keyword>
+		<keyword>fountain</keyword>
+		<keyword>little girl</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>gadget</keyword>
+		<keyword>map</keyword>
+		<keyword>italy</keyword>
+		<keyword>church</keyword>
+		<keyword>high tech weapon</keyword>
+		<keyword>cannon</keyword>
+		<keyword>laser cannon</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>special forces</keyword>
+		<keyword>military</keyword>
+		<keyword>pushed from height</keyword>
+		<keyword>power</keyword>
+		<keyword>sequel</keyword>
+		<keyword>part of series</keyword>
+		<keyword>council</keyword>
+		<keyword>underwater flare</keyword>
+		<keyword>torch</keyword>
+		<keyword>bridge</keyword>
+		<keyword>collapsing bridge</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>reference to king arthur</keyword>
+		<keyword>tunic</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>flower</keyword>
+		<keyword>rose</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>swashbuckler</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>eco terrorist</keyword>
+		<keyword>eco terrorism</keyword>
+		<keyword>jet pack</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>destroying a television</keyword>
+		<keyword>falling in love with a mermaid</keyword>
+		<keyword>saved by a mermaid</keyword>
+		<keyword>merman</keyword>
+		<keyword>woman with gills</keyword>
+		<keyword>man with gills</keyword>
+		<keyword>atlantean warrior</keyword>
+		<keyword>female atlantean</keyword>
+		<keyword>speaking atlantean</keyword>
+		<keyword>wound</keyword>
+		<keyword>blood</keyword>
+		<keyword>passage of time</keyword>
+		<keyword>son</keyword>
+		<keyword>blonde</keyword>
+		<keyword>nailed to a wall</keyword>
+		<keyword>impaler</keyword>
+		<keyword>stuck to the wall</keyword>
+		<keyword>man in distress</keyword>
+		<keyword>ale</keyword>
+		<keyword>drinking beer</keyword>
+		<keyword>selfie</keyword>
+		<keyword>drinking alcohol</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>celebrity</keyword>
+		<keyword>tv on the wall</keyword>
+		<keyword>bubble</keyword>
+		<keyword>female bartender</keyword>
+		<keyword>schoolgirl</keyword>
+		<keyword>overturned car</keyword>
+		<keyword>truck</keyword>
+		<keyword>skull cap</keyword>
+		<keyword>trash talk</keyword>
+		<keyword>waterproof cosmetics</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>eating a goldfish</keyword>
+		<keyword>stabbed through the chest</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>death of king</keyword>
+		<keyword>plasma gun</keyword>
+		<keyword>reference to marcus vipsanius agrippa</keyword>
+		<keyword>falling through a roof</keyword>
+		<keyword>wine shop</keyword>
+		<keyword>mid credits scene</keyword>
+		<keyword>tv news</keyword>
+		<keyword>360 degree pan</keyword>
+		<keyword>quicksand</keyword>
+		<keyword>drop of water</keyword>
+		<keyword>slide</keyword>
+		<keyword>flower stand</keyword>
+		<keyword>eating a flower</keyword>
+		<keyword>throwing a coin in a fountain</keyword>
+		<keyword>glass bottle</keyword>
+		<keyword>archeological ruin</keyword>
+		<keyword>energy beam weapon</keyword>
+		<keyword>sword held to throat</keyword>
+		<keyword>stabbed with a dagger</keyword>
+		<keyword>falling through a ceiling</keyword>
+		<keyword>energy pulse weapon</keyword>
+		<keyword>jumping between buildings</keyword>
+		<keyword>crashing through a wall</keyword>
+		<keyword>falling off a cliff</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>playing a wooden flute</keyword>
+		<keyword>pterosaur</keyword>
+		<keyword>cave</keyword>
+		<keyword>mobilizing for war</keyword>
+		<keyword>orca</keyword>
+		<keyword>walking on a pier</keyword>
+		<keyword>husband and wife reunited</keyword>
+		<keyword>puppy</keyword>
+		<keyword>storm</keyword>
+		<keyword>self imposed exile</keyword>
+		<keyword>home aquarium</keyword>
+		<keyword>injured woman</keyword>
+		<keyword>bandage</keyword>
+		<keyword>teddy bear</keyword>
+		<keyword>family portrait</keyword>
+		<keyword>father holding son</keyword>
+		<keyword>boston aquarium</keyword>
+		<keyword>outnumbered</keyword>
+		<keyword>impaled by a sword</keyword>
+		<keyword>shackled</keyword>
+		<keyword>hit with a door</keyword>
+		<keyword>blowing hatch</keyword>
+		<keyword>life raft</keyword>
+		<keyword>abandoning ship</keyword>
+		<keyword>explosive bullet</keyword>
+		<keyword>father son hug</keyword>
+		<keyword>battle for throne</keyword>
+		<keyword>riding a seahorse</keyword>
+		<keyword>underwater explosion</keyword>
+		<keyword>riding a mosasaur</keyword>
+		<keyword>drowned</keyword>
+		<keyword>swimming underwater</keyword>
+		<keyword>cliff diving</keyword>
+		<keyword>air pocket</keyword>
+		<keyword>disaster</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>man carries a woman</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>mother son reunion</keyword>
+		<keyword>weaponry</keyword>
+		<keyword>origin story</keyword>
+		<keyword>armor</keyword>
+		<keyword>worthiness</keyword>
+		<keyword>plasma weapon</keyword>
+		<keyword>false flag operation</keyword>
+		<keyword>breathing underwater</keyword>
+		<keyword>earth's core</keyword>
+		<keyword>giant squid</keyword>
+		<keyword>treasure hunt</keyword>
+		<keyword>power hungry</keyword>
+		<keyword>taking a selfie</keyword>
+		<keyword>vizier</keyword>
+		<keyword>advanced technology</keyword>
+		<keyword>jumping out of an airplane</keyword>
+		<keyword>stealing a boat</keyword>
+		<keyword>heir to the throne</keyword>
+		<keyword>dinosaur</keyword>
+		<keyword>piracy</keyword>
+		<keyword>treasure map</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mask</keyword>
+		<keyword>alliance</keyword>
+		<keyword>dock</keyword>
+		<keyword>gladiatorial combat</keyword>
+		<keyword>pollution</keyword>
+		<keyword>garbage</keyword>
+		<keyword>recorded message</keyword>
+		<keyword>treason</keyword>
+		<keyword>propeller</keyword>
+		<keyword>light sensitivity</keyword>
+		<keyword>customs agent</keyword>
+		<keyword>bouquet of roses</keyword>
+		<keyword>coliseum</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>cathode ray tube television set</keyword>
+		<keyword>vivarium</keyword>
+		<keyword>weapon</keyword>
+		<keyword>bare chested man</keyword>
+		<keyword>gun</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>firstborn</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>warship</keyword>
+		<keyword>thrash</keyword>
+		<keyword>firearm</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>firstborn son</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>animal</keyword>
+		<keyword>television</keyword>
+		<keyword>mobile telephone</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>man impaled</keyword>
+		<keyword>trapped underwater</keyword>
+		<keyword>talking to an animal</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>action girl</keyword>
+		<keyword>female martial artist</keyword>
+		<keyword>tough woman</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>heroine</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>climbing a dune</keyword>
+		<keyword>cult film</keyword>
+		<keyword>male female relationship</keyword>
+		<keyword>future father in law</keyword>
+		<keyword>running on the beach</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>rescue from drowning</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>sea adventure</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>timeframe 1980s</keyword>
+		<keyword>timeframe 1990s</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>triumph motor company</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>death of father</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>propaganda</keyword>
+		<keyword>armour</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> James Wan</director>
+	</directors>
+	<composers>
+		<composer> Rupert Gregson-Williams</composer>
+	</composers>
+	<producers>
+		<producer> Khadija Alami</producer>
+		<producer> Jon Berg</producer>
+		<producer> Rob Cowan</producer>
+		<producer> Walter Hamada</producer>
+		<producer> Geoff Johns</producer>
+		<producer> Mark O'Neill</producer>
+		<producer> Peter Safran</producer>
+		<producer> Enzo Sisti</producer>
+		<producer> Deborah Snyder</producer>
+		<producer> Zack Snyder</producer>
+	</producers>
+	<writers>
+		<writer> David Leslie Johnson-McGoldrick</writer>
+		<writer> Will Beall</writer>
+		<writer> Geoff Johns</writer>
+		<writer> James Wan</writer>
+		<writer> Will Beall</writer>
+		<writer> Paul Norris</writer>
+		<writer> Mort Weisinger</writer>
+	</writers>
+	<editors>
+		<editor> Kirk M. Morri</editor>
+	</editors>
+</doc>

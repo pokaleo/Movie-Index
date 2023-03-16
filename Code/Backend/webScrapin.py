@@ -193,7 +193,7 @@ class WebScraping:
         flag = True
         curr_url = self.url
         count = 0
-        while count <10:
+        while count <1:
             print(count)
             count += 1
             response = requests.get(curr_url)
@@ -242,12 +242,14 @@ class WebScraping:
                 curr_info['cast'] = self.geCast(data_cast, 'a')
 
                 data_type = curr_page.find('meta', attrs={'property': {'og:type'}})
-                curr_info['type'] = data_type['content'].split('.')[1]
+                if len(data_type['content'])==1:
+                    curr_info['type'] = data_type['content']
+                else:
+                    curr_info['type'] = data_type['content'].split('.')[1]
 
                 releaseInfo_ = self.url_baseline + '/title/' + curr_id + '/releaseinfo/?ref_=tt_dt_rdat'
                 req_re = requests.get(url=releaseInfo_, headers={'User-Agent': 'Mozilla/5.0'}).text
                 re_soup = BeautifulSoup(req_re, 'html.parser')
-                print(releaseInfo_)
                 curr_info['releasedates'] = self.certainResponse(re_soup, 'div', 'releasedate')
 
                 certificateInfo_ = self.url_baseline + '/title/' + curr_id + '/parentalguide?ref_=tt_stry_pg'

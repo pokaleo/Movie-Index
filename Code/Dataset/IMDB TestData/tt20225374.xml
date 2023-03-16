@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<doc id="tt20225374">
+	<docid>tt20225374</docid>
+	<title>Vesper</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTFhM2FkNDUtYzU1Mi00ZTUxLWE1MTMtYjMwOWU4YTZhZDVhXkEyXkFqcGdeQXVyMjQ1MzM3MDM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">114</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Struggling to survive with her father after the collapse of Earth's ecosystem, 13-year-old Vesper must use her wits, strength and bio-hacking abilities to fight for the future.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Raffiella Chapman</actor>
+			<role>Vesper</role>
+		</credit>
+		<credit>
+			<actor>Eddie Marsan</actor>
+			<role>Jonas</role>
+		</credit>
+		<credit>
+			<actor>Rosy McEwen</actor>
+			<role>Camellia</role>
+		</credit>
+		<credit>
+			<actor>Richard Brake</actor>
+			<role>Darius</role>
+		</credit>
+		<credit>
+			<actor>Melanie Gaydos</actor>
+			<role>Jug</role>
+		</credit>
+		<credit>
+			<actor>Edmund Dehn</actor>
+			<role>Elias</role>
+		</credit>
+		<credit>
+			<actor>Matvej Buravkov</actor>
+			<role>Boz</role>
+		</credit>
+		<credit>
+			<actor>Nojus Buslevicius</actor>
+			<role>Dink</role>
+		</credit>
+		<credit>
+			<actor>Marijus Demiskis</actor>
+			<role>Oed</role>
+		</credit>
+		<credit>
+			<actor>Markas Eimontas</actor>
+			<role>Mo</role>
+		</credit>
+		<credit>
+			<actor>Titas Rukas</actor>
+			<role>Beck</role>
+		</credit>
+		<credit>
+			<actor>Markas Sagaitis</actor>
+			<role>Fitz</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Czech Republic">July 2 2022</releasedate>
+		<releasedate country="Switzerland">July 3 2022</releasedate>
+		<releasedate country="South Korea">July 8 2022</releasedate>
+		<releasedate country="France">August 17 2022</releasedate>
+		<releasedate country="Hungary">September 9 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">Not Rated</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>post apocalypse</keyword>
+		<keyword>biohacking</keyword>
+		<keyword>dark future</keyword>
+		<keyword>cyberpunk sci fi</keyword>
+		<keyword>future</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>life form</keyword>
+		<keyword>biohacker</keyword>
+		<keyword>experiment</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>hunger</keyword>
+		<keyword>murder</keyword>
+		<keyword>dna</keyword>
+		<keyword>mask</keyword>
+		<keyword>tower</keyword>
+		<keyword>bio hacker</keyword>
+		<keyword>collapse of earths ecosystem</keyword>
+		<keyword>ecosystem collapse</keyword>
+		<keyword>epic adventure</keyword>
+		<keyword>wounded</keyword>
+		<keyword>explosion</keyword>
+	</keywords>
+	<directors>
+		<director> Kristina Buozyte</director>
+		<director> Bruno Samper</director>
+	</directors>
+	<composers>
+		<composer> Dan Levy</composer>
+	</composers>
+	<producers>
+		<producer> Jon Vangdal Aamaas</producer>
+		<producer> Louis Balsan</producer>
+		<producer> Kristina Buozyte</producer>
+		<producer> Arturas Dvinelis</producer>
+		<producer> Nick Ford</producer>
+		<producer> Cécile Gaget</producer>
+		<producer> Rj Hendricks</producer>
+		<producer> Daiva Jovaisiene</producer>
+		<producer> Asta Liukaityte</producer>
+		<producer> Guillaume Natas</producer>
+		<producer> Alexis Perrin</producer>
+		<producer> Sébastien Raybaud</producer>
+		<producer> Benoit Roland</producer>
+		<producer> Thomas Schober</producer>
+		<producer> Mike Shema</producer>
+		<producer> Florent Steiner</producer>
+		<producer> Nabil Ben Yadir</producer>
+		<producer> Vitalijus Zukas</producer>
+	</producers>
+	<writers>
+		<writer> Bruno Samper</writer>
+		<writer> Kristina Buozyte</writer>
+		<writer> Brian Clark</writer>
+		<writer> Bruno Samper</writer>
+		<writer> Kristina Buozyte</writer>
+	</writers>
+	<editors>
+		<editor> Suzanne Fenn</editor>
+		<editor> Justin MacKenzie Peers</editor>
+	</editors>
+</doc>

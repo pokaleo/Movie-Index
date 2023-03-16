@@ -1,0 +1,495 @@
+<?xml version="1.0" ?>
+<doc id="tt1213641">
+	<docid>tt1213641</docid>
+	<title>First Man</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX190_CR0,10,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">141</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ryan Gosling</actor>
+			<role>Neil Armstrong</role>
+		</credit>
+		<credit>
+			<actor>Claire Foy</actor>
+			<role>Janet Armstrong</role>
+		</credit>
+		<credit>
+			<actor>Jason Clarke</actor>
+			<role>Ed White</role>
+		</credit>
+		<credit>
+			<actor>Kyle Chandler</actor>
+			<role>Deke Slayton</role>
+		</credit>
+		<credit>
+			<actor>Corey Stoll</actor>
+			<role>Buzz Aldrin</role>
+		</credit>
+		<credit>
+			<actor>Patrick Fugit</actor>
+			<role>Elliot See</role>
+		</credit>
+		<credit>
+			<actor>Christopher Abbott</actor>
+			<role>Dave Scott</role>
+		</credit>
+		<credit>
+			<actor>Ciarán Hinds</actor>
+			<role>Bob Gilruth</role>
+		</credit>
+		<credit>
+			<actor>Olivia Hamilton</actor>
+			<role>Pat White</role>
+		</credit>
+		<credit>
+			<actor>Pablo Schreiber</actor>
+			<role>James Lovell</role>
+		</credit>
+		<credit>
+			<actor>Shea Whigham</actor>
+			<role>Gus Grissom</role>
+		</credit>
+		<credit>
+			<actor>Lukas Haas</actor>
+			<role>Mike Collins</role>
+		</credit>
+		<credit>
+			<actor>Ethan Embry</actor>
+			<role>Pete Conrad</role>
+		</credit>
+		<credit>
+			<actor>Brian d'Arcy James</actor>
+			<role>Joe Walker</role>
+		</credit>
+		<credit>
+			<actor>Cory Michael Smith</actor>
+			<role>Roger Chaffee</role>
+		</credit>
+		<credit>
+			<actor>Kris Rey</actor>
+			<role>Marilyn See</role>
+		</credit>
+		<credit>
+			<actor>Gavin Warren</actor>
+			<role>Young Rick Armstrong</role>
+		</credit>
+		<credit>
+			<actor>Luke Winters</actor>
+			<role>Older Rick Armstrong</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">August 29 2018</releasedate>
+		<releasedate country="United States">August 31 2018</releasedate>
+		<releasedate country="Canada">September 9 2018</releasedate>
+		<releasedate country="Spain">September 23 2018</releasedate>
+		<releasedate country="Israel">October 1 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">PG</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>moon landing</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>nasa</keyword>
+		<keyword>apollo program</keyword>
+		<keyword>loss of child</keyword>
+		<keyword>apollo 11</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>lunar mission</keyword>
+		<keyword>rocket</keyword>
+		<keyword>grief</keyword>
+		<keyword>u.s. space program</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>space race</keyword>
+		<keyword>moon</keyword>
+		<keyword>space exploration</keyword>
+		<keyword>neil armstrong character</keyword>
+		<keyword>outer space</keyword>
+		<keyword>male camaraderie</keyword>
+		<keyword>lunar landing</keyword>
+		<keyword>mission control</keyword>
+		<keyword>based on real person</keyword>
+		<keyword>buzz aldrin character</keyword>
+		<keyword>rocket launching</keyword>
+		<keyword>project gemini</keyword>
+		<keyword>rocket science</keyword>
+		<keyword>docking in outer space</keyword>
+		<keyword>year 1965</keyword>
+		<keyword>year 1969</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>marriage</keyword>
+		<keyword>loss of daughter</keyword>
+		<keyword>flight simulator</keyword>
+		<keyword>human in outer space</keyword>
+		<keyword>spaceflight</keyword>
+		<keyword>space mission</keyword>
+		<keyword>space travel</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>spacesuit</keyword>
+		<keyword>political protest</keyword>
+		<keyword>travel to the moon</keyword>
+		<keyword>moon walk</keyword>
+		<keyword>training facility</keyword>
+		<keyword>press conference</keyword>
+		<keyword>footprint</keyword>
+		<keyword>death of a friend</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>apollo 1</keyword>
+		<keyword>death of child</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>year 1961</keyword>
+		<keyword>year 1964</keyword>
+		<keyword>year 1966</keyword>
+		<keyword>year 1967</keyword>
+		<keyword>year 1968</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>death</keyword>
+		<keyword>courage</keyword>
+		<keyword>lunar module</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>extreme close up</keyword>
+		<keyword>fire</keyword>
+		<keyword>child cancer</keyword>
+		<keyword>year 1962</keyword>
+		<keyword>bracelet</keyword>
+		<keyword>funeral</keyword>
+		<keyword>flashback</keyword>
+		<keyword>reference to jules verne</keyword>
+		<keyword>reference to christopher columbus</keyword>
+		<keyword>based on book</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>gus grissom character</keyword>
+		<keyword>scott carpenter character</keyword>
+		<keyword>deke slayton character</keyword>
+		<keyword>gordon cooper character</keyword>
+		<keyword>ed white character</keyword>
+		<keyword>jim lovell character</keyword>
+		<keyword>john glenn character</keyword>
+		<keyword>chuck yeager character</keyword>
+		<keyword>wally schirra character</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>vomiting in a toilet</keyword>
+		<keyword>presidential speech</keyword>
+		<keyword>touching hands through a glass window</keyword>
+		<keyword>sick child</keyword>
+		<keyword>death of a child</keyword>
+		<keyword>x 15</keyword>
+		<keyword>lowering a casket into a grave</keyword>
+		<keyword>brain cancer</keyword>
+		<keyword>reference to wernher von braun</keyword>
+		<keyword>reference to sputnik</keyword>
+		<keyword>reference to yuri gagarin</keyword>
+		<keyword>reference to alexei leonov</keyword>
+		<keyword>jigsaw puzzle</keyword>
+		<keyword>space walk</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>year 1963</keyword>
+		<keyword>camera</keyword>
+		<keyword>training</keyword>
+		<keyword>job interview</keyword>
+		<keyword>altimeter</keyword>
+		<keyword>space shuttle</keyword>
+		<keyword>space rocket</keyword>
+		<keyword>rocket launch</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>little boy</keyword>
+		<keyword>little girl</keyword>
+		<keyword>space probe</keyword>
+		<keyword>space capsule</keyword>
+		<keyword>spacedock</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>factory</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>death of sister</keyword>
+		<keyword>loss of sister</keyword>
+		<keyword>parachute</keyword>
+		<keyword>loss of husband</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>death of loved one</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>explosion</keyword>
+		<keyword>desert</keyword>
+		<keyword>california</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>air force base</keyword>
+		<keyword>edwards air force base</keyword>
+		<keyword>pilot</keyword>
+		<keyword>test pilot</keyword>
+		<keyword>earth viewed from space</keyword>
+		<keyword>ejection seat</keyword>
+		<keyword>spacewalk</keyword>
+		<keyword>floating in space</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>helmet</keyword>
+		<keyword>beer</keyword>
+		<keyword>product placement</keyword>
+		<keyword>barbecue</keyword>
+		<keyword>news report</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>radio</keyword>
+		<keyword>protest</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>engineer</keyword>
+		<keyword>race against time</keyword>
+		<keyword>party</keyword>
+		<keyword>telephone</keyword>
+		<keyword>coffin</keyword>
+		<keyword>british actress playing american character</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>bravery</keyword>
+		<keyword>crater</keyword>
+		<keyword>farm</keyword>
+		<keyword>zero gravity</keyword>
+		<keyword>map</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>electrical fire</keyword>
+		<keyword>letter</keyword>
+		<keyword>mission</keyword>
+		<keyword>science</keyword>
+		<keyword>satellite</keyword>
+		<keyword>cold war</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>mri scan</keyword>
+		<keyword>hope</keyword>
+		<keyword>mob of reporters</keyword>
+		<keyword>drawing</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>dog</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>oxygen</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>mathematics</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>flight director</keyword>
+		<keyword>supersonic aircraft</keyword>
+		<keyword>supersonic speed</keyword>
+		<keyword>earth orbit</keyword>
+		<keyword>grounded</keyword>
+		<keyword>u.s. air force</keyword>
+		<keyword>supersonic flight</keyword>
+		<keyword>malfunction</keyword>
+		<keyword>ill child</keyword>
+		<keyword>terminal illness</keyword>
+		<keyword>brain tumor</keyword>
+		<keyword>cancer</keyword>
+		<keyword>cassette tape</keyword>
+		<keyword>hose</keyword>
+		<keyword>american history</keyword>
+		<keyword>bouncing off the atmosphere</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>waiting</keyword>
+		<keyword>husband kisses wife's hand</keyword>
+		<keyword>plate of cookies</keyword>
+		<keyword>grave side ceremony</keyword>
+		<keyword>countdown</keyword>
+		<keyword>reference to werner von braun</keyword>
+		<keyword>meeting</keyword>
+		<keyword>multi axis trainer facility</keyword>
+		<keyword>passed out</keyword>
+		<keyword>baby in a crib</keyword>
+		<keyword>raising an american flag</keyword>
+		<keyword>thumbs up gesture</keyword>
+		<keyword>tire swing</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>orbiting the earth</keyword>
+		<keyword>agena target vehicle</keyword>
+		<keyword>houston mission control</keyword>
+		<keyword>gemini capsule</keyword>
+		<keyword>docking in space</keyword>
+		<keyword>applause</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>hand cut</keyword>
+		<keyword>father playing with his children</keyword>
+		<keyword>swingset</keyword>
+		<keyword>cocktail party at the white house</keyword>
+		<keyword>killed in a fire</keyword>
+		<keyword>short circuit</keyword>
+		<keyword>pilot ejects</keyword>
+		<keyword>test vehicle</keyword>
+		<keyword>zippo lighter</keyword>
+		<keyword>human impact</keyword>
+		<keyword>black eye</keyword>
+		<keyword>saturn v launch</keyword>
+		<keyword>lunar orbit</keyword>
+		<keyword>sketching a portrait</keyword>
+		<keyword>lunar panorama</keyword>
+		<keyword>earth viewed from the moon</keyword>
+		<keyword>hopping on the moon</keyword>
+		<keyword>son</keyword>
+		<keyword>flight</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>jet</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>car</keyword>
+		<keyword>u.s. car</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>chevrolet motor vehicle</keyword>
+		<keyword>chevrolet impala</keyword>
+		<keyword>father and son shaking hands</keyword>
+		<keyword>tv news</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>man vomits</keyword>
+		<keyword>seat belt</keyword>
+		<keyword>acoustic guitar</keyword>
+		<keyword>piano</keyword>
+		<keyword>timeframe 1960s</keyword>
+		<keyword>hero</keyword>
+		<keyword>downpour</keyword>
+		<keyword>housefly</keyword>
+		<keyword>breaking a glass with one's hand</keyword>
+		<keyword>death of father</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>houston texas</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>american flag</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>fear</keyword>
+		<keyword>florida</keyword>
+		<keyword>telescope</keyword>
+		<keyword>mission director</keyword>
+		<keyword>packing a suitcase</keyword>
+		<keyword>space disaster</keyword>
+		<keyword>suspense</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>baby name bracelet</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>two word title</keyword>
+		<keyword>extra vehicular activity</keyword>
+		<keyword>crew cut haircut</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>children</keyword>
+		<keyword>earth</keyword>
+		<keyword>quarantine</keyword>
+		<keyword>anger</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>neighbor neighbor relationship</keyword>
+		<keyword>mojave desert</keyword>
+		<keyword>crying man</keyword>
+		<keyword>blackboard drawing</keyword>
+		<keyword>life magazine</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>cape kennedy</keyword>
+		<keyword>theremin</keyword>
+		<keyword>running out of fuel</keyword>
+		<keyword>reference to walter cronkite</keyword>
+		<keyword>reference to gilbert and sullivan</keyword>
+		<keyword>obsession</keyword>
+		<keyword>watching tv</keyword>
+	</keywords>
+	<directors>
+		<director> Damien Chazelle</director>
+	</directors>
+	<composers>
+		<composer> Justin Hurwitz</composer>
+	</composers>
+	<producers>
+		<producer> Marty Bowen</producer>
+		<producer> Damien Chazelle</producer>
+		<producer> Kevin Elam</producer>
+		<producer> Wyck Godfrey</producer>
+		<producer> James R. Hansen</producer>
+		<producer> Jeffrey Harlacker</producer>
+		<producer> Isaac Klausner</producer>
+		<producer> Adam Merims</producer>
+		<producer> Josh Singer</producer>
+		<producer> Steven Spielberg</producer>
+	</producers>
+	<writers>
+		<writer> Josh Singer</writer>
+		<writer> James R. Hansen</writer>
+	</writers>
+	<editors>
+		<editor> Tom Cross</editor>
+	</editors>
+</doc>

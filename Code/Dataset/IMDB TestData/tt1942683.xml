@@ -1,0 +1,457 @@
+<?xml version="1.0" ?>
+<doc id="tt1942683">
+	<docid>tt1942683</docid>
+	<title>The Amazing World of Gumball</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWU1YTA4OGUtNjcxMC00ZTllLTgxYWUtY2U5NmViZTU0MmNjXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">11</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Short</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>The life of a twelve-year-old boy who happens to be a blue cat as he lives with his family and other strange creatures.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dan Russell</actor>
+			<role>Richard Watterson</role>
+		</credit>
+		<credit>
+			<actor>Teresa Gallagher</actor>
+			<role>Nicole Watterson</role>
+		</credit>
+		<credit>
+			<actor>Kerry Shale</actor>
+			<role>Larry Needlemeyer</role>
+		</credit>
+		<credit>
+			<actor>Kyla Rae Kowalewski</actor>
+			<role>Anais Watterson</role>
+		</credit>
+		<credit>
+			<actor>Jacob Hopkins</actor>
+			<role>Gumball Watterson</role>
+		</credit>
+		<credit>
+			<actor>Terrell Ransom Jr.</actor>
+			<role>Darwin Watterson</role>
+		</credit>
+		<credit>
+			<actor>Hugo Harold-Harrison</actor>
+			<role>Tobias Wilson</role>
+		</credit>
+		<credit>
+			<actor>Mic Graves</actor>
+			<role>Banana Joe</role>
+		</credit>
+		<credit>
+			<actor>Sandra Dickinson</actor>
+			<role>Alison Sandra Gator</role>
+		</credit>
+		<credit>
+			<actor>Logan Grove</actor>
+			<role>Gumball Watterson</role>
+		</credit>
+		<credit>
+			<actor>Kwesi Boakye</actor>
+			<role>Darwin Watterson</role>
+		</credit>
+		<credit>
+			<actor>Jessica McDonald</actor>
+			<role>Carrie Krueger</role>
+		</credit>
+		<credit>
+			<actor>Nicolas Cantu</actor>
+			<role>Gumball Watterson</role>
+		</credit>
+		<credit>
+			<actor>Tony Hull</actor>
+			<role>Anton</role>
+		</credit>
+		<credit>
+			<actor>Steve Furst</actor>
+			<role>Principal Brown</role>
+		</credit>
+		<credit>
+			<actor>Adam Long</actor>
+			<role>Mr. Small</role>
+		</credit>
+		<credit>
+			<actor>Alex Jordan</actor>
+			<role>Business Ogre</role>
+		</credit>
+		<credit>
+			<actor>Alix Wilton Regan</actor>
+			<role>Carmen Verde</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">May 2 2011</releasedate>
+		<releasedate country="United States">May 3 2011</releasedate>
+		<releasedate country="United States">May 9 2011</releasedate>
+		<releasedate country="Italy">June 7 2011</releasedate>
+		<releasedate country="France">June 23 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Bulgaria">B</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">C8</certificate>
+		<certificate country="Chile">I</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">8+</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">S</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">KN</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Maldives">12+</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Mexico">N</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="New Zealand">G</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">T</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="South Korea">7</certificate>
+		<certificate country="Spain">TP</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Spain">TP</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="Turkey">G</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-Y7-FV</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>slapstick comedy</keyword>
+		<keyword>satire</keyword>
+		<keyword>absurd comedy</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>dysfunctional family</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>cat</keyword>
+		<keyword>goldfish</keyword>
+		<keyword>walking fish</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>mixed media</keyword>
+		<keyword>video game reference</keyword>
+		<keyword>crude humor</keyword>
+		<keyword>sarcasm</keyword>
+		<keyword>boy</keyword>
+		<keyword>child protagonist</keyword>
+		<keyword>animal character name in series title</keyword>
+		<keyword>gumball character</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>marriage</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>adoptive brother adopted brother relationship</keyword>
+		<keyword>tyrannosaurus rex</keyword>
+		<keyword>bully</keyword>
+		<keyword>anthropomorphic fish</keyword>
+		<keyword>suburb</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>banana</keyword>
+		<keyword>cloud</keyword>
+		<keyword>police officer</keyword>
+		<keyword>combined animation and live action</keyword>
+		<keyword>monkey</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>classmate</keyword>
+		<keyword>origami</keyword>
+		<keyword>best friends</keyword>
+		<keyword>janitor</keyword>
+		<keyword>flower</keyword>
+		<keyword>five word title</keyword>
+		<keyword>8 bit</keyword>
+		<keyword>clay</keyword>
+		<keyword>paper</keyword>
+		<keyword>sauropod</keyword>
+		<keyword>balloon</keyword>
+		<keyword>ice cream</keyword>
+		<keyword>cactus</keyword>
+		<keyword>overweight</keyword>
+		<keyword>slacker</keyword>
+		<keyword>2010s</keyword>
+		<keyword>british animation</keyword>
+		<keyword>suburbia</keyword>
+		<keyword>furry</keyword>
+		<keyword>anthropomorphic flower</keyword>
+		<keyword>cyberbullying</keyword>
+		<keyword>sitcom</keyword>
+		<keyword>anthropomorphic cactus</keyword>
+		<keyword>anthropomorphic cloud</keyword>
+		<keyword>human condition</keyword>
+		<keyword>philosophy</keyword>
+		<keyword>innuendo</keyword>
+		<keyword>pop culture</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>internet culture</keyword>
+		<keyword>cult tv</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>giant</keyword>
+		<keyword>anthropomorphic puppet</keyword>
+		<keyword>fairy</keyword>
+		<keyword>rainbow</keyword>
+		<keyword>animate origami</keyword>
+		<keyword>anthropomorphic robot</keyword>
+		<keyword>slug</keyword>
+		<keyword>school counselor</keyword>
+		<keyword>creature</keyword>
+		<keyword>baboon</keyword>
+		<keyword>chinface</keyword>
+		<keyword>classroom</keyword>
+		<keyword>student</keyword>
+		<keyword>house</keyword>
+		<keyword>schoolboy</keyword>
+		<keyword>schoolgirl</keyword>
+		<keyword>schoolteacher</keyword>
+		<keyword>hot dog</keyword>
+		<keyword>car</keyword>
+		<keyword>toast</keyword>
+		<keyword>potato</keyword>
+		<keyword>cartoon character</keyword>
+		<keyword>boom box</keyword>
+		<keyword>bear</keyword>
+		<keyword>clay ball</keyword>
+		<keyword>parent child relationship</keyword>
+		<keyword>sibling relationship</keyword>
+		<keyword>animal</keyword>
+		<keyword>police</keyword>
+		<keyword>stuffed animal</keyword>
+		<keyword>sun</keyword>
+		<keyword>anthropomorphic sun</keyword>
+		<keyword>food</keyword>
+		<keyword>dysfunctional marriage</keyword>
+		<keyword>stupidity</keyword>
+		<keyword>married couple</keyword>
+		<keyword>humor</keyword>
+		<keyword>witch</keyword>
+		<keyword>long running tv</keyword>
+		<keyword>pet goldfish</keyword>
+		<keyword>self referential humor</keyword>
+		<keyword>child</keyword>
+		<keyword>headmaster</keyword>
+		<keyword>pop culture reference</keyword>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>interspecies relationship</keyword>
+		<keyword>self referential</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>friend</keyword>
+		<keyword>12 year old</keyword>
+		<keyword>10 year old</keyword>
+		<keyword>teacher</keyword>
+		<keyword>animal protagonist</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>anthropomorphic rabbit</keyword>
+		<keyword>anthropomorphic cat</keyword>
+		<keyword>anthropomorphic food</keyword>
+		<keyword>middle school</keyword>
+		<keyword>cheerleader</keyword>
+		<keyword>school principal</keyword>
+		<keyword>stay at home dad</keyword>
+		<keyword>working mother</keyword>
+		<keyword>store clerk</keyword>
+		<keyword>children</keyword>
+		<keyword>troublemaker</keyword>
+		<keyword>ghost</keyword>
+		<keyword>talking food</keyword>
+		<keyword>part live action</keyword>
+		<keyword>fantasy world</keyword>
+		<keyword>doughnut</keyword>
+		<keyword>puppet</keyword>
+		<keyword>dinosaur</keyword>
+		<keyword>robot</keyword>
+		<keyword>school bully</keyword>
+		<keyword>laziness</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>grumpy neighbor</keyword>
+		<keyword>annoyed neighbor</keyword>
+		<keyword>crush</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>2d animation</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>friendship</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>obesity</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>school</keyword>
+	</keywords>
+	<directors>
+		<director> Mic Graves</director>
+		<director> Antoine Perez</director>
+		<director> Richard Overall</director>
+	</directors>
+	<composers>
+		<composer> Ben Locket</composer>
+		<composer> Richie Webb</composer>
+		<composer> Willie Dowling</composer>
+		<composer> Dustin Crenna</composer>
+	</composers>
+	<producers>
+		<producer> Daniel Lennard</producer>
+		<producer> Ellen Collins</producer>
+		<producer> Sarah Fell</producer>
+		<producer> Ben Bocquelet</producer>
+		<producer> Michael Carrington</producer>
+		<producer> Mike Rauch</producer>
+		<producer> Diara Jaye</producer>
+		<producer> Carsten Bunte</producer>
+		<producer> Jennifer Coatsworth</producer>
+		<producer> Joanna Beresford</producer>
+		<producer> Peter Lewis</producer>
+		<producer> Anne Tweedy</producer>
+		<producer> Tony Hull</producer>
+	</producers>
+	<writers>
+		<writer> Ben Bocquelet</writer>
+		<writer> Ben Bocquelet</writer>
+		<writer> Ben Bocquelet</writer>
+		<writer> Ben Bocquelet</writer>
+		<writer> Tobi Wilson</writer>
+		<writer> Tobi Wilson</writer>
+		<writer> Joe Parham</writer>
+		<writer> Joe Parham</writer>
+		<writer> Joe Parham</writer>
+		<writer> Mic Graves</writer>
+		<writer> Mic Graves</writer>
+		<writer> Mic Graves</writer>
+		<writer> Mic Graves</writer>
+		<writer> Joe Markham</writer>
+		<writer> Joe Markham</writer>
+		<writer> Joe Markham</writer>
+		<writer> Joe Markham</writer>
+		<writer> Jon Foster</writer>
+		<writer> Jon Foster</writer>
+		<writer> Jon Foster</writer>
+		<writer> Jon Foster</writer>
+		<writer> James Lamont</writer>
+		<writer> James Lamont</writer>
+		<writer> James Hamilton</writer>
+		<writer> James Hamilton</writer>
+		<writer> James Hamilton</writer>
+		<writer> James Hamilton</writer>
+		<writer> James Hamilton</writer>
+		<writer> Louise Coats</writer>
+		<writer> Louise Coats</writer>
+		<writer> Louise Coats</writer>
+		<writer> Jessica Ransom</writer>
+		<writer> Jessica Ransom</writer>
+		<writer> Jessica Ransom</writer>
+		<writer> Nathan Auerbach</writer>
+		<writer> Nathan Auerbach</writer>
+		<writer> Ciaran Murtagh</writer>
+		<writer> Ciaran Murtagh</writer>
+		<writer> Ciaran Murtagh</writer>
+		<writer> Guillaume Cassuto</writer>
+		<writer> Guillaume Cassuto</writer>
+		<writer> Guillaume Cassuto</writer>
+		<writer> Daniel Berg</writer>
+		<writer> Daniel Berg</writer>
+		<writer> Andrew Jones</writer>
+		<writer> Andrew Jones</writer>
+		<writer> Andrew Jones</writer>
+		<writer> James Huntrods</writer>
+		<writer> James Huntrods</writer>
+		<writer> James Huntrods</writer>
+		<writer> Tom Neenan</writer>
+		<writer> Tom Neenan</writer>
+		<writer> Jon Purkis</writer>
+		<writer> Jon Purkis</writer>
+		<writer> Jon Brittain</writer>
+		<writer> Tony Hull</writer>
+		<writer> Tony Hull</writer>
+		<writer> Timothy Mills</writer>
+		<writer> Timothy Mills</writer>
+		<writer> Tom Crowley</writer>
+		<writer> Richard Overall</writer>
+		<writer> Richard Overall</writer>
+		<writer> Sam Ward</writer>
+		<writer> Natasha Hodgson</writer>
+		<writer> Richard Preddy</writer>
+		<writer> Richard Preddy</writer>
+		<writer> Gemma Arrowsmith</writer>
+		<writer> Gemma Arrowsmith</writer>
+		<writer> David Cadji-Newby</writer>
+		<writer> Chris Garbutt</writer>
+		<writer> Andrew Brenner</writer>
+		<writer> Moray Hunter</writer>
+		<writer> Kent Osborne</writer>
+		<writer> Tommy Panays</writer>
+		<writer> Yann Benedi</writer>
+		<writer> Antoine Perez</writer>
+		<writer> Tim Allsop</writer>
+		<writer> Mark Evans</writer>
+		<writer> Phil Whelans</writer>
+		<writer> Andy Wolton</writer>
+		<writer> Rikke Asbjoern</writer>
+		<writer> Bec Hill</writer>
+		<writer> Joseph Pelling</writer>
+		<writer> Becky Sloan</writer>
+		<writer> Jonathan Leigh Wright</writer>
+		<writer> Jack Bernhardt</writer>
+		<writer> Eddie Robson</writer>
+	</writers>
+	<editors>
+		<editor> Tony Hull</editor>
+		<editor> Richard Overall</editor>
+	</editors>
+</doc>

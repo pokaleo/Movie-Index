@@ -1,0 +1,544 @@
+<?xml version="1.0" ?>
+<doc id="tt4172430">
+	<docid>tt4172430</docid>
+	<title>13 Hours</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjY0OWVjMGQtNTIzZi00OGU5LWI4N2EtMGU0YzQ4OWM4ZmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">144</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>During an attack on a U.S. compound in Libya, a security team struggles to make sense out of the chaos.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>John Krasinski</actor>
+			<role>Jack Silva</role>
+		</credit>
+		<credit>
+			<actor>Pablo Schreiber</actor>
+			<role>Kris 'Tanto' Paronto</role>
+		</credit>
+		<credit>
+			<actor>James Badge Dale</actor>
+			<role>Tyrone 'Rone' Woods</role>
+		</credit>
+		<credit>
+			<actor>David Denman</actor>
+			<role>Dave 'Boon' Benton</role>
+		</credit>
+		<credit>
+			<actor>Dominic Fumusa</actor>
+			<role>John 'Tig' Tiegen</role>
+		</credit>
+		<credit>
+			<actor>Max Martini</actor>
+			<role>Mark 'Oz' Geist</role>
+		</credit>
+		<credit>
+			<actor>Alexia Barlier</actor>
+			<role>Sona Jillani</role>
+		</credit>
+		<credit>
+			<actor>David Costabile</actor>
+			<role>Bob</role>
+		</credit>
+		<credit>
+			<actor>Payman Maadi</actor>
+			<role>Amahl</role>
+		</credit>
+		<credit>
+			<actor>Matt Letscher</actor>
+			<role>Ambassador Chris Stevens</role>
+		</credit>
+		<credit>
+			<actor>Toby Stephens</actor>
+			<role>Glen 'Bub' Doherty</role>
+		</credit>
+		<credit>
+			<actor>Demetrius Grosse</actor>
+			<role>DS Dave Ubben</role>
+		</credit>
+		<credit>
+			<actor>David Giuntoli</actor>
+			<role>DS Scott Wickland</role>
+		</credit>
+		<credit>
+			<actor>Kevin Kent</actor>
+			<role>DS Vincent</role>
+		</credit>
+		<credit>
+			<actor>David Furr</actor>
+			<role>DS Alec</role>
+		</credit>
+		<credit>
+			<actor>Mike Moriarty</actor>
+			<role>DS Wesley</role>
+		</credit>
+		<credit>
+			<actor>Freddie Stroma</actor>
+			<role>Brit Vayner</role>
+		</credit>
+		<credit>
+			<actor>Kenny Sheard</actor>
+			<role>Delta Operator</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 12 2016</releasedate>
+		<releasedate country="Poland">January 13 2016</releasedate>
+		<releasedate country="New Zealand">January 14 2016</releasedate>
+		<releasedate country="Panama">January 14 2016</releasedate>
+		<releasedate country="Peru">January 14 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">Sin Calificación</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>libya</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>u.s. ambassador</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>u.s. embassy</keyword>
+		<keyword>former navy seal</keyword>
+		<keyword>army ranger</keyword>
+		<keyword>soldier</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>pentagon</keyword>
+		<keyword>rpg</keyword>
+		<keyword>siege</keyword>
+		<keyword>heroism</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>militia</keyword>
+		<keyword>roadblock</keyword>
+		<keyword>reference to muammar gaddafi</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>mortar</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>fire</keyword>
+		<keyword>smoke inhalation</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>drone</keyword>
+		<keyword>night vision</keyword>
+		<keyword>armored car</keyword>
+		<keyword>year 2012</keyword>
+		<keyword>explosion</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>based on book</keyword>
+		<keyword>city name in title</keyword>
+		<keyword>molotov cocktail</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>translator</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>corpse</keyword>
+		<keyword>car chase</keyword>
+		<keyword>car crash</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>airport</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>langley virginia</keyword>
+		<keyword>stuttgart germany</keyword>
+		<keyword>pistol</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>pregnant wife</keyword>
+		<keyword>crushed by a car</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>coughing blood</keyword>
+		<keyword>shot through a door</keyword>
+		<keyword>shot through a wall</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>thrown from a rooftop</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>severed finger</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>exploding bus</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>ambush</keyword>
+		<keyword>car set on fire</keyword>
+		<keyword>death</keyword>
+		<keyword>automatic weapon</keyword>
+		<keyword>military propaganda</keyword>
+		<keyword>firearm</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>american flag</keyword>
+		<keyword>u.s. marine</keyword>
+		<keyword>unsubtitled foreign language</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>reference to captain america</keyword>
+		<keyword>reference to robert downey jr.</keyword>
+		<keyword>photograph</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>weapon</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>workout</keyword>
+		<keyword>man wears a swimsuit</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>building on fire</keyword>
+		<keyword>driving</keyword>
+		<keyword>car</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>physical harm</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>reference to muhammad</keyword>
+		<keyword>techno thriller</keyword>
+		<keyword>epic war</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>sweaty face</keyword>
+		<keyword>sweating</keyword>
+		<keyword>team action</keyword>
+		<keyword>oily skin</keyword>
+		<keyword>turkophobia</keyword>
+		<keyword>glorification</keyword>
+		<keyword>american culture</keyword>
+		<keyword>killing</keyword>
+		<keyword>automatic gunfire</keyword>
+		<keyword>contractor</keyword>
+		<keyword>ambassador</keyword>
+		<keyword>chaos</keyword>
+		<keyword>attack</keyword>
+		<keyword>tripping and falling</keyword>
+		<keyword>iraq war veteran</keyword>
+		<keyword>controversial</keyword>
+		<keyword>military contractor</keyword>
+		<keyword>terror attack</keyword>
+		<keyword>pregnant mother</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>revealing a secret</keyword>
+		<keyword>pregnancy announcement</keyword>
+		<keyword>contact lens</keyword>
+		<keyword>video clip</keyword>
+		<keyword>video chat</keyword>
+		<keyword>swimsuit</keyword>
+		<keyword>happy tears</keyword>
+		<keyword>happiness</keyword>
+		<keyword>dancing</keyword>
+		<keyword>bilingual</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>absence of father</keyword>
+		<keyword>absent father</keyword>
+		<keyword>disposing of a dead body</keyword>
+		<keyword>machete</keyword>
+		<keyword>knife</keyword>
+		<keyword>wedding ring</keyword>
+		<keyword>anger</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>riot</keyword>
+		<keyword>hit with a car door</keyword>
+		<keyword>thrown from height</keyword>
+		<keyword>street market</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>embassy</keyword>
+		<keyword>military base</keyword>
+		<keyword>van</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>house on fire</keyword>
+		<keyword>hope</keyword>
+		<keyword>honor</keyword>
+		<keyword>courage</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>undercover</keyword>
+		<keyword>social decay</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>water bottle</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>news report</keyword>
+		<keyword>tour</keyword>
+		<keyword>firecracker</keyword>
+		<keyword>race against time</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>praying</keyword>
+		<keyword>metal detector</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>dereliction of duty</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>insubordination</keyword>
+		<keyword>politics</keyword>
+		<keyword>geopolitics</keyword>
+		<keyword>surrender</keyword>
+		<keyword>punching bag</keyword>
+		<keyword>weightlifting</keyword>
+		<keyword>montage</keyword>
+		<keyword>spitting blood</keyword>
+		<keyword>female agent</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>body bag</keyword>
+		<keyword>sole black character dies cliche</keyword>
+		<keyword>air hostess</keyword>
+		<keyword>abandoned airplane</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>abandoned building</keyword>
+		<keyword>bomb</keyword>
+		<keyword>bus</keyword>
+		<keyword>fish out of water</keyword>
+		<keyword>police car</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>last stand</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>war wound</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>casualty of war</keyword>
+		<keyword>scar</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>camera</keyword>
+		<keyword>shepherd</keyword>
+		<keyword>sheep</keyword>
+		<keyword>aircraft carrier</keyword>
+		<keyword>arson</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>palm tree</keyword>
+		<keyword>silencer</keyword>
+		<keyword>satellite</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>night vision binoculars</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>map</keyword>
+		<keyword>security camera</keyword>
+		<keyword>security guard</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>general</keyword>
+		<keyword>helmet</keyword>
+		<keyword>videoconferencing</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>anti aircraft gun</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>private jet</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>airfield</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>press conference</keyword>
+		<keyword>armory</keyword>
+		<keyword>airplane</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>broken leg</keyword>
+		<keyword>leg wound</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>soccer</keyword>
+		<keyword>mansion</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>mission</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>run over by a car</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>male camaraderie</keyword>
+		<keyword>anti war</keyword>
+		<keyword>war violence</keyword>
+		<keyword>machismo</keyword>
+		<keyword>blood</keyword>
+		<keyword>government agent</keyword>
+		<keyword>outpost</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>destruction</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>survival</keyword>
+		<keyword>brutality</keyword>
+		<keyword>body count</keyword>
+		<keyword>violence</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>murder</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>suspense</keyword>
+		<keyword>reference to jason bourne</keyword>
+		<keyword>repeated line</keyword>
+		<keyword>bulldozer</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>car accident</keyword>
+		<keyword>chase</keyword>
+		<keyword>hostile takeover</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>ex marine</keyword>
+		<keyword>commando</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>special forces</keyword>
+		<keyword>pentagram</keyword>
+		<keyword>ends with historical notes</keyword>
+		<keyword>ends with biographical notes</keyword>
+		<keyword>c 130 hercules</keyword>
+		<keyword>convoy</keyword>
+		<keyword>partially severed arm</keyword>
+		<keyword>mortar attack</keyword>
+		<keyword>reloading a gun</keyword>
+		<keyword>bus explosion</keyword>
+		<keyword>flock of sheep</keyword>
+		<keyword>shooting an american flag</keyword>
+		<keyword>destroying a document</keyword>
+		<keyword>ch 47 chinook helicopter</keyword>
+		<keyword>building fire</keyword>
+		<keyword>smoke</keyword>
+		<keyword>zippo lighter</keyword>
+		<keyword>can of gasoline</keyword>
+		<keyword>tripoli libya</keyword>
+		<keyword>m14</keyword>
+		<keyword>rabbit sex</keyword>
+		<keyword>playing chess</keyword>
+		<keyword>video conference with family</keyword>
+		<keyword>hand gesture</keyword>
+		<keyword>trapped in a burning building</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>evasive driving</keyword>
+		<keyword>sa 7 grail</keyword>
+		<keyword>bluffing</keyword>
+		<keyword>benghazi libya</keyword>
+		<keyword>begins with text</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>year 2011</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>air strike</keyword>
+		<keyword>f word</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>embroidery</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>man wears shorts</keyword>
+		<keyword>american</keyword>
+		<keyword>crying</keyword>
+		<keyword>chess</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>bravery</keyword>
+		<keyword>massacre</keyword>
+		<keyword>female spy</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>fear</keyword>
+		<keyword>battle</keyword>
+		<keyword>firefight</keyword>
+		<keyword>gore</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Bay</director>
+	</directors>
+	<composers>
+		<composer> Lorne Balfe</composer>
+	</composers>
+	<producers>
+		<producer> Richard Abate</producer>
+		<producer> Jimmy Abounouom</producer>
+		<producer> Kenny Bates</producer>
+		<producer> Michael Bay</producer>
+		<producer> Matthew Cohan</producer>
+		<producer> Scott Gardenhour</producer>
+		<producer> Harry Humphries</producer>
+		<producer> Michael Kase</producer>
+		<producer> Erwin Stoff</producer>
+	</producers>
+	<writers>
+		<writer> Chuck Hogan</writer>
+		<writer> Mitchell Zuckoff</writer>
+	</writers>
+	<editors>
+		<editor> Michael McCusker</editor>
+		<editor> Pietro Scalia</editor>
+		<editor> Calvin Wimmer</editor>
+	</editors>
+</doc>

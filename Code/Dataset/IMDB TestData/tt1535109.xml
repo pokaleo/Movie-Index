@@ -1,0 +1,510 @@
+<?xml version="1.0" ?>
+<doc id="tt1535109">
+	<docid>tt1535109</docid>
+	<title>Captain Phillips</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODhiZWRhMjctNDUyMS00NmUwLTgwYmItMjJhOWNkZWQ3ZTQxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">134</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Biography</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>SDDS</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Hanks</actor>
+			<role>Captain Richard Phillips</role>
+		</credit>
+		<credit>
+			<actor>Barkhad Abdi</actor>
+			<role>Muse</role>
+		</credit>
+		<credit>
+			<actor>Barkhad Abdirahman</actor>
+			<role>Bilal</role>
+		</credit>
+		<credit>
+			<actor>Catherine Keener</actor>
+			<role>Andrea Phillips</role>
+		</credit>
+		<credit>
+			<actor>Faysal Ahmed</actor>
+			<role>Najee</role>
+		</credit>
+		<credit>
+			<actor>Mahat M. Ali</actor>
+			<role>Elmi</role>
+		</credit>
+		<credit>
+			<actor>Michael Chernus</actor>
+			<role>Shane Murphy</role>
+		</credit>
+		<credit>
+			<actor>David Warshofsky</actor>
+			<role>Mike Perry</role>
+		</credit>
+		<credit>
+			<actor>Corey Johnson</actor>
+			<role>Ken Quinn</role>
+		</credit>
+		<credit>
+			<actor>Chris Mulkey</actor>
+			<role>John Cronan</role>
+		</credit>
+		<credit>
+			<actor>Yul Vazquez</actor>
+			<role>Captain Frank Castellano</role>
+		</credit>
+		<credit>
+			<actor>Max Martini</actor>
+			<role>SEAL Commander</role>
+		</credit>
+		<credit>
+			<actor>Omar Berdouni</actor>
+			<role>Nemo</role>
+		</credit>
+		<credit>
+			<actor>Mohamed Ali</actor>
+			<role>Asad</role>
+		</credit>
+		<credit>
+			<actor>Issak Farah Samatar</actor>
+			<role>Hufan</role>
+		</credit>
+		<credit>
+			<actor>Thomas Grube</actor>
+			<role>Maersk Alabama Crew</role>
+		</credit>
+		<credit>
+			<actor>Mark Holden</actor>
+			<role>Maersk Alabama Crew</role>
+		</credit>
+		<credit>
+			<actor>San Shella</actor>
+			<role>Maersk Alabama Crew</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 27 2013</releasedate>
+		<releasedate country="United Kingdom">October 9 2013</releasedate>
+		<releasedate country="United Arab Emirates">October 10 2013</releasedate>
+		<releasedate country="Australia">October 10 2013</releasedate>
+		<releasedate country="Hong Kong">October 10 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="China">(Banned)</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">b.o.</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>ship</keyword>
+		<keyword>hostage</keyword>
+		<keyword>hijacking</keyword>
+		<keyword>somalia</keyword>
+		<keyword>lifeboat</keyword>
+		<keyword>somalian pirate</keyword>
+		<keyword>modern day pirate</keyword>
+		<keyword>bloodbath</keyword>
+		<keyword>in case i die letter</keyword>
+		<keyword>brutality</keyword>
+		<keyword>water rescue</keyword>
+		<keyword>medical exam</keyword>
+		<keyword>seaman</keyword>
+		<keyword>negotiator</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>power outage</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage situation</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>merchant marine</keyword>
+		<keyword>ship hijacking</keyword>
+		<keyword>ship captain</keyword>
+		<keyword>leader</keyword>
+		<keyword>money</keyword>
+		<keyword>ransom</keyword>
+		<keyword>safe</keyword>
+		<keyword>military negotiator</keyword>
+		<keyword>melon</keyword>
+		<keyword>reference to america</keyword>
+		<keyword>merchant vessel</keyword>
+		<keyword>main deck</keyword>
+		<keyword>manual</keyword>
+		<keyword>mother ship</keyword>
+		<keyword>middle aged man</keyword>
+		<keyword>holding a gun to someone's head</keyword>
+		<keyword>hose</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>homesickness</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>laser</keyword>
+		<keyword>loss of hearing</keyword>
+		<keyword>mutiny</keyword>
+		<keyword>driver</keyword>
+		<keyword>signal</keyword>
+		<keyword>risk</keyword>
+		<keyword>loudspeaker</keyword>
+		<keyword>hijacker</keyword>
+		<keyword>hostile takeover</keyword>
+		<keyword>race against time</keyword>
+		<keyword>hostage negotiator</keyword>
+		<keyword>bandaged hand</keyword>
+		<keyword>raft</keyword>
+		<keyword>cut hand</keyword>
+		<keyword>irish american</keyword>
+		<keyword>cat and mouse</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>special forces</keyword>
+		<keyword>infirmary</keyword>
+		<keyword>beating</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>thinness</keyword>
+		<keyword>blindfold</keyword>
+		<keyword>sickbay</keyword>
+		<keyword>military helicopter</keyword>
+		<keyword>hostage negotiation</keyword>
+		<keyword>piracy</keyword>
+		<keyword>sniper</keyword>
+		<keyword>duty</keyword>
+		<keyword>honor</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>u.s. navy</keyword>
+		<keyword>suspense</keyword>
+		<keyword>survivor</keyword>
+		<keyword>survival</keyword>
+		<keyword>sailor</keyword>
+		<keyword>racism</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>raid</keyword>
+		<keyword>black african</keyword>
+		<keyword>desperation</keyword>
+		<keyword>ship crew</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>packing a bag</keyword>
+		<keyword>boy</keyword>
+		<keyword>boss</keyword>
+		<keyword>rule</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>american dream</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>sharpshooter</keyword>
+		<keyword>sudden death</keyword>
+		<keyword>uniform</keyword>
+		<keyword>tow</keyword>
+		<keyword>emergency lighting</keyword>
+		<keyword>steering</keyword>
+		<keyword>night vision</keyword>
+		<keyword>reconnaissance</keyword>
+		<keyword>tired</keyword>
+		<keyword>walkthrough</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>maritime emergency</keyword>
+		<keyword>navy sea air and land force</keyword>
+		<keyword>columbia tristar</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>merchant sailor</keyword>
+		<keyword>sony</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 2000s</keyword>
+		<keyword>original author as character</keyword>
+		<keyword>true crime</keyword>
+		<keyword>hk 417</keyword>
+		<keyword>captain</keyword>
+		<keyword>crew</keyword>
+		<keyword>pirate</keyword>
+		<keyword>somali</keyword>
+		<keyword>cargo</keyword>
+		<keyword>water</keyword>
+		<keyword>american cargo ship</keyword>
+		<keyword>hiding</keyword>
+		<keyword>mv maersk alabama</keyword>
+		<keyword>container ship</keyword>
+		<keyword>bridge</keyword>
+		<keyword>vermont</keyword>
+		<keyword>maersk alabama</keyword>
+		<keyword>capture</keyword>
+		<keyword>cargo ship</keyword>
+		<keyword>course heading</keyword>
+		<keyword>rudder</keyword>
+		<keyword>full power</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>intercept</keyword>
+		<keyword>u.s.s. bainbridge</keyword>
+		<keyword>counter piracy task force</keyword>
+		<keyword>throttle</keyword>
+		<keyword>squawk box</keyword>
+		<keyword>shut off electricity</keyword>
+		<keyword>shouting</keyword>
+		<keyword>catwalk</keyword>
+		<keyword>commander</keyword>
+		<keyword>surrender</keyword>
+		<keyword>bad luck</keyword>
+		<keyword>number two</keyword>
+		<keyword>breakfast</keyword>
+		<keyword>vegetable room</keyword>
+		<keyword>cold storage</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>blueprint</keyword>
+		<keyword>ship schematic</keyword>
+		<keyword>bottled water</keyword>
+		<keyword>broken glass</keyword>
+		<keyword>cargo hold</keyword>
+		<keyword>computer</keyword>
+		<keyword>the grid</keyword>
+		<keyword>american ship</keyword>
+		<keyword>easterner</keyword>
+		<keyword>yankee irish</keyword>
+		<keyword>reference to al qaeda</keyword>
+		<keyword>ship's intercom</keyword>
+		<keyword>american dollars</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>courage</keyword>
+		<keyword>manager</keyword>
+		<keyword>bravado</keyword>
+		<keyword>limit</keyword>
+		<keyword>drill</keyword>
+		<keyword>coward</keyword>
+		<keyword>pipe wrench</keyword>
+		<keyword>reference to djibouti africa</keyword>
+		<keyword>skinny</keyword>
+		<keyword>salalah oman</keyword>
+		<keyword>writing home</keyword>
+		<keyword>tribal rivalry</keyword>
+		<keyword>nickname</keyword>
+		<keyword>intimacy</keyword>
+		<keyword>irish heritage</keyword>
+		<keyword>leadership</keyword>
+		<keyword>murder</keyword>
+		<keyword>fearless</keyword>
+		<keyword>starboard</keyword>
+		<keyword>planning</keyword>
+		<keyword>skiff</keyword>
+		<keyword>operations</keyword>
+		<keyword>muster station</keyword>
+		<keyword>emailing</keyword>
+		<keyword>emergency</keyword>
+		<keyword>foreshadowing</keyword>
+		<keyword>galley</keyword>
+		<keyword>fire hose</keyword>
+		<keyword>search</keyword>
+		<keyword>emergency generator</keyword>
+		<keyword>business</keyword>
+		<keyword>telephone receiver</keyword>
+		<keyword>automatic weapon</keyword>
+		<keyword>game</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>boarded</keyword>
+		<keyword>scaling ladder</keyword>
+		<keyword>route</keyword>
+		<keyword>pirate band</keyword>
+		<keyword>weapon</keyword>
+		<keyword>reference to the horn of africa</keyword>
+		<keyword>union</keyword>
+		<keyword>lockdown</keyword>
+		<keyword>double shift</keyword>
+		<keyword>procedure</keyword>
+		<keyword>hazard</keyword>
+		<keyword>meeting</keyword>
+		<keyword>head count</keyword>
+		<keyword>international trade</keyword>
+		<keyword>desperate</keyword>
+		<keyword>cylinder</keyword>
+		<keyword>security drill</keyword>
+		<keyword>deck station</keyword>
+		<keyword>siren</keyword>
+		<keyword>whistle</keyword>
+		<keyword>duty officer</keyword>
+		<keyword>radar</keyword>
+		<keyword>experienced</keyword>
+		<keyword>piracy warning</keyword>
+		<keyword>vessel</keyword>
+		<keyword>somali language</keyword>
+		<keyword>somali coastline</keyword>
+		<keyword>reference to somalia</keyword>
+		<keyword>reference to mombasa kenya</keyword>
+		<keyword>lock</keyword>
+		<keyword>security check</keyword>
+		<keyword>security</keyword>
+		<keyword>piston</keyword>
+		<keyword>pirate cage</keyword>
+		<keyword>foot injury</keyword>
+		<keyword>dangerous job</keyword>
+		<keyword>occupational hazard</keyword>
+		<keyword>2010s</keyword>
+		<keyword>translator</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>night vision camera</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>rope</keyword>
+		<keyword>culture clash</keyword>
+		<keyword>gash in the face</keyword>
+		<keyword>torture</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>escape</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>corpse</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>barefoot</keyword>
+		<keyword>engine room</keyword>
+		<keyword>map</keyword>
+		<keyword>knife</keyword>
+		<keyword>deception</keyword>
+		<keyword>flare</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>parachute</keyword>
+		<keyword>jumping from an airplane</keyword>
+		<keyword>airplane</keyword>
+		<keyword>commando</keyword>
+		<keyword>warlord</keyword>
+		<keyword>rescue</keyword>
+		<keyword>u boat</keyword>
+		<keyword>shaving</keyword>
+		<keyword>engineer</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>ocean</keyword>
+		<keyword>boat</keyword>
+		<keyword>nurse</keyword>
+		<keyword>aircraft carrier</keyword>
+		<keyword>admiral</keyword>
+		<keyword>silencer</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>brawl</keyword>
+		<keyword>beach</keyword>
+		<keyword>pistol</keyword>
+		<keyword>uzi</keyword>
+		<keyword>desert</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>letter</keyword>
+		<keyword>photograph</keyword>
+		<keyword>e mail</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>virginia</keyword>
+		<keyword>passport</keyword>
+		<keyword>port</keyword>
+		<keyword>shaky cam</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>male tied up</keyword>
+		<keyword>two word title</keyword>
+		<keyword>emotional shock</keyword>
+		<keyword>listening device</keyword>
+		<keyword>death threat</keyword>
+		<keyword>horn of africa</keyword>
+		<keyword>warship</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>grief</keyword>
+		<keyword>captive</keyword>
+		<keyword>poverty</keyword>
+		<keyword>fisherman</keyword>
+		<keyword>hero</keyword>
+		<keyword>heroism</keyword>
+		<keyword>fight</keyword>
+		<keyword>fear</keyword>
+		<keyword>anguish</keyword>
+		<keyword>year 2009</keyword>
+		<keyword>based on memoir</keyword>
+		<keyword>blood</keyword>
+		<keyword>extortion</keyword>
+		<keyword>kenya</keyword>
+		<keyword>oman</keyword>
+		<keyword>rifle</keyword>
+		<keyword>automatic rifle</keyword>
+		<keyword>based on book</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Paul Greengrass</director>
+	</directors>
+	<composers>
+		<composer> Henry Jackman</composer>
+	</composers>
+	<producers>
+		<producer> Khadija Alami</producer>
+		<producer> Michael Bronner</producer>
+		<producer> Dana Brunetti</producer>
+		<producer> Eli Bush</producer>
+		<producer> Michael De Luca</producer>
+		<producer> Gregory Goodman</producer>
+		<producer> Christopher Rouse</producer>
+		<producer> Scott Rudin</producer>
+		<producer> Kevin Spacey</producer>
+	</producers>
+	<writers>
+		<writer> Billy Ray</writer>
+		<writer> Richard Phillips</writer>
+		<writer> Stephan Talty</writer>
+	</writers>
+	<editors>
+		<editor> Christopher Rouse</editor>
+	</editors>
+</doc>

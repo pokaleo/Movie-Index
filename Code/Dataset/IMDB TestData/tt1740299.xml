@@ -1,0 +1,340 @@
+<?xml version="1.0" ?>
+<doc id="tt1740299">
+	<docid>tt1740299</docid>
+	<title>The Man in the High Castle</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTU0NTQ5NjU1MV5BMl5BanBnXkFtZTgwMzAxNjY5NjE@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Alexa Davalos</actor>
+			<role>Juliana Crain</role>
+		</credit>
+		<credit>
+			<actor>Luke Kleintank</actor>
+			<role>Joe Blake</role>
+		</credit>
+		<credit>
+			<actor>Rufus Sewell</actor>
+			<role>John Smith</role>
+		</credit>
+		<credit>
+			<actor>Rupert Evans</actor>
+			<role>Frank Frink</role>
+		</credit>
+		<credit>
+			<actor>Joel de la Fuente</actor>
+			<role>Inspector Kido</role>
+		</credit>
+		<credit>
+			<actor>Chelah Horsdal</actor>
+			<role>Helen Smith</role>
+		</credit>
+		<credit>
+			<actor>Brennan Brown</actor>
+			<role>Robert Childan</role>
+		</credit>
+		<credit>
+			<actor>DJ Qualls</actor>
+			<role>Ed McCarthy</role>
+		</credit>
+		<credit>
+			<actor>Cary-Hiroyuki Tagawa</actor>
+			<role>Nobusuke Tagomi</role>
+		</credit>
+		<credit>
+			<actor>Gracyn Shinyei</actor>
+			<role>Amy Smith</role>
+		</credit>
+		<credit>
+			<actor>Genea Charpentier</actor>
+			<role>Jennifer Smith</role>
+		</credit>
+		<credit>
+			<actor>Arnold Chun</actor>
+			<role>Kotomichi</role>
+		</credit>
+		<credit>
+			<actor>Quinn Lord</actor>
+			<role>Thomas Smith</role>
+		</credit>
+		<credit>
+			<actor>Jason O'Mara</actor>
+			<role>Wyatt Price</role>
+		</credit>
+		<credit>
+			<actor>Bella Heathcote</actor>
+			<role>Nicole Dörmer</role>
+		</credit>
+		<credit>
+			<actor>Rick Worthy</actor>
+			<role>Lem Washington</role>
+		</credit>
+		<credit>
+			<actor>Lee Shorten</actor>
+			<role>Sergeant Yoshida</role>
+		</credit>
+		<credit>
+			<actor>Kenneth Tigar</actor>
+			<role>Himmler</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Austria">January 13 2015</releasedate>
+		<releasedate country="Germany">January 13 2015</releasedate>
+		<releasedate country="Sweden">January 13 2015</releasedate>
+		<releasedate country="Brazil">January 15 2015</releasedate>
+		<releasedate country="Canada">January 15 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">18+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">18</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">18</certificate>
+		<certificate country="Netherlands">18</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16+</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">18+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>1960s</keyword>
+		<keyword>nazi</keyword>
+		<keyword>alternate history</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>based on book</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>espionage</keyword>
+		<keyword>kempeitai</keyword>
+		<keyword>third reich</keyword>
+		<keyword>national socialist</keyword>
+		<keyword>dictatorship</keyword>
+		<keyword>guerilla</keyword>
+		<keyword>freedom fighter</keyword>
+		<keyword>berlin germany</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>yakuza</keyword>
+		<keyword>time travel</keyword>
+		<keyword>sideways time travel</keyword>
+		<keyword>time traveler</keyword>
+		<keyword>dystopian sci fi</keyword>
+		<keyword>epic sci fi</keyword>
+		<keyword>imperial japan</keyword>
+		<keyword>imperial japanese army</keyword>
+		<keyword>wehrmacht</keyword>
+		<keyword>gestapo</keyword>
+		<keyword>parallel universe</keyword>
+		<keyword>spy</keyword>
+		<keyword>nazism</keyword>
+		<keyword>racism</keyword>
+		<keyword>occupation</keyword>
+		<keyword>detente</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>ss</keyword>
+		<keyword>secret police</keyword>
+		<keyword>adolf hitler character</keyword>
+		<keyword>trade minister</keyword>
+		<keyword>iron cross</keyword>
+		<keyword>german abroad</keyword>
+		<keyword>american nazi</keyword>
+		<keyword>cold war</keyword>
+		<keyword>interdimensional travel</keyword>
+		<keyword>neutral zone</keyword>
+		<keyword>japanese</keyword>
+		<keyword>new york city</keyword>
+		<keyword>year 1962</keyword>
+		<keyword>j. edgar hoover character</keyword>
+		<keyword>josef mengele character</keyword>
+		<keyword>japanese occupation</keyword>
+		<keyword>nazi occupation</keyword>
+		<keyword>nuclear explosion</keyword>
+		<keyword>nuclear test</keyword>
+		<keyword>seppuku</keyword>
+		<keyword>hara kiri</keyword>
+		<keyword>resistance</keyword>
+		<keyword>totalitarian</keyword>
+		<keyword>totalitarianism</keyword>
+		<keyword>banzai</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>male time traveler</keyword>
+		<keyword>antique dealer</keyword>
+		<keyword>repetition in title</keyword>
+		<keyword>six word title</keyword>
+		<keyword>timeframe 1960s</keyword>
+		<keyword>hirohito</keyword>
+		<keyword>dystopia</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Percival</director>
+		<director> John Fawcett</director>
+		<director> Nelson McCormick</director>
+		<director> Karyn Kusama</director>
+		<director> Alex Zakrzewski</director>
+		<director> Brad Anderson</director>
+		<director> Ken Olin</director>
+		<director> Michael Rymer</director>
+		<director> David Semel</director>
+		<director> Michael Slovis</director>
+		<director> Bryan Spicer</director>
+		<director> Colin Bucksey</director>
+		<director> Paul Holahan</director>
+		<director> Chris Long</director>
+		<director> David Petrarca</director>
+		<director> Daniel Sackheim</director>
+		<director> Deborah Chow</director>
+		<director> Ernest R. Dickerson</director>
+		<director> Jennifer Getzinger</director>
+		<director> Steph Green</director>
+		<director> Meera Menon</director>
+		<director> Charlotte Brändström</director>
+		<director> Richard Heus</director>
+		<director> Julie Hébert</director>
+		<director> Rachel Leiterman</director>
+		<director> Frederick E.O. Toye</director>
+	</directors>
+	<composers>
+		<composer> Dominic Lewis</composer>
+		<composer> Henry Jackman</composer>
+	</composers>
+	<producers>
+		<producer> Christian Baute</producer>
+		<producer> Isa Dick Hackett</producer>
+		<producer> Kalen Egan</producer>
+		<producer> Stewart Mackinnon</producer>
+		<producer> Ridley Scott</producer>
+		<producer> Jordan Sheehan</producer>
+		<producer> Frank Spotnitz</producer>
+		<producer> Christopher Tricarico</producer>
+		<producer> David W. Zucker</producer>
+		<producer> Richard Heus</producer>
+		<producer> Daniel Percival</producer>
+		<producer> Erin Smith</producer>
+		<producer> Judith Zaylor</producer>
+		<producer> Shawn Petersen</producer>
+		<producer> Wesley Strick</producer>
+		<producer> Marta Evry</producer>
+		<producer> Lisa Schomas</producer>
+		<producer> Rob Williams</producer>
+		<producer> Yvonne Melville</producer>
+		<producer> Chiara M. Rivera</producer>
+		<producer> Emma Hulme</producer>
+		<producer> Lindsey Molnar</producer>
+		<producer> Sharon Remmer</producer>
+		<producer> Rick Cleveland</producer>
+		<producer> Erik Oleson</producer>
+		<producer> Elizabeth Benjamin</producer>
+		<producer> Chris Collins</producer>
+		<producer> William N. Fordes</producer>
+		<producer> Eric Ellis Overmyer</producer>
+		<producer> Dre Ryan</producer>
+		<producer> Eric Simonson</producer>
+		<producer> Lolis Eric Elie</producer>
+		<producer> Julie Hébert</producer>
+		<producer> Mark Richard</producer>
+		<producer> David Scarpa</producer>
+		<producer> Robert Whiting</producer>
+		<producer> Sally Dixon</producer>
+		<producer> Emma Frost</producer>
+		<producer> Jace Richdale</producer>
+		<producer> Evan Wright</producer>
+		<producer> Michael Cedar</producer>
+		<producer> Jean Higgins</producer>
+		<producer> Mark L. Mitchell</producer>
+		<producer> Mathias Schwerbrock</producer>
+		<producer> David Semel</producer>
+	</producers>
+	<writers>
+		<writer> Philip K. Dick</writer>
+		<writer> Frank Spotnitz</writer>
+		<writer> Frank Spotnitz</writer>
+		<writer> Frank Spotnitz</writer>
+		<writer> Jihan Crowther</writer>
+		<writer> Jihan Crowther</writer>
+		<writer> Wesley Strick</writer>
+		<writer> Wesley Strick</writer>
+		<writer> Wesley Strick</writer>
+		<writer> Joe Kawasaki</writer>
+		<writer> Rob Williams</writer>
+		<writer> Erik Oleson</writer>
+		<writer> David Scarpa</writer>
+		<writer> Jace Richdale</writer>
+		<writer> Thomas Schnauz</writer>
+		<writer> Rick Cleveland</writer>
+		<writer> Kalen Egan</writer>
+		<writer> Chris Collins</writer>
+		<writer> Eric Ellis Overmyer</writer>
+		<writer> Eric Ellis Overmyer</writer>
+		<writer> Mark Richard</writer>
+		<writer> Emma Frost</writer>
+		<writer> Walon Green</writer>
+		<writer> Evan Wright</writer>
+		<writer> Francesca Gardiner</writer>
+		<writer> Elizabeth Benjamin</writer>
+		<writer> William N. Fordes</writer>
+		<writer> Dre Ryan</writer>
+		<writer> Eric Simonson</writer>
+		<writer> Chris Wu</writer>
+		<writer> Lolis Eric Elie</writer>
+		<writer> Julie Hébert</writer>
+	</writers>
+	<editors>
+		<editor> Jason Savage</editor>
+		<editor> Monty DeGraff</editor>
+		<editor> Marta Evry</editor>
+		<editor> Jon Dudkowski</editor>
+		<editor> Mark C. Baldwin</editor>
+		<editor> Joe Leonard</editor>
+		<editor> Dorian Harris</editor>
+		<editor> Jennifer Barbot</editor>
+		<editor> Julie Monroe</editor>
+		<editor> Sidney Wolinsky</editor>
+		<editor> Angela M. Catanzaro</editor>
+		<editor> Kathryn Himoff</editor>
+		<editor> Michael Kewley</editor>
+		<editor> Kaylee Colton</editor>
+		<editor> Kyle Loescher</editor>
+		<editor> Diva Magpayo</editor>
+	</editors>
+</doc>

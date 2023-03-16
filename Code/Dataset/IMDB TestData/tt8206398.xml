@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<doc id="tt8206398">
+	<docid>tt8206398</docid>
+	<title>The Magic Flute</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjg3MDY1N2ItMzZjZC00MTc0LThiYjYtYmFkNWNmODEyZDU0XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">115</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+		<genre>Musical</genre>
+	</genres>
+	<plot>Follows 17-year-old Tim Walker as he travels from London to the Austrian Alps to attend the legendary Mozart boarding school. There, he discovers a centuries-old forgotten passageway into the fantastic world of Mozart's &quot;The Magic Flute.&quot;</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>F. Murray Abraham</actor>
+			<role>Dr. Longbow</role>
+		</credit>
+		<credit>
+			<actor>Iwan Rheon</actor>
+			<role>Papageno</role>
+		</credit>
+		<credit>
+			<actor>Jeanne Goursaud</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Amir Wilson</actor>
+			<role>Anton Milanesi</role>
+		</credit>
+		<credit>
+			<actor>Jack Wolfe</actor>
+			<role>Tim Walker</role>
+		</credit>
+		<credit>
+			<actor>Stéfi Celma</actor>
+			<role>Papagena</role>
+		</credit>
+		<credit>
+			<actor>Niamh McCormack</actor>
+			<role>Sophiie</role>
+		</credit>
+		<credit>
+			<actor>Asha Banks</actor>
+			<role>Princess Pamina</role>
+		</credit>
+		<credit>
+			<actor>Luyanda Unati Lewis-Nyawo</actor>
+			<role>Nurse</role>
+		</credit>
+		<credit>
+			<actor>Ryan Hadaller</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Stefan Konarske</actor>
+			<role>Monostatos</role>
+		</credit>
+		<credit>
+			<actor>Wilson Gonzalez</actor>
+			<role>Priest</role>
+		</credit>
+		<credit>
+			<actor>Ellie Courtiour</actor>
+			<role>Paolo</role>
+		</credit>
+		<credit>
+			<actor>Noureddine Farihi</actor>
+			<role>Old Priest</role>
+		</credit>
+		<credit>
+			<actor>Jasmin Shakeri</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Waldemar Kobus</actor>
+			<role>Mr. Suessmayr</role>
+		</credit>
+		<credit>
+			<actor>Larissa Sirah Herden</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Steffen Mennekes</actor>
+			<role>Priest</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Switzerland">September 30 2022</releasedate>
+		<releasedate country="Germany">November 17 2022</releasedate>
+		<releasedate country="Hungary">December 29 2022</releasedate>
+		<releasedate country="United States">March 10 2023</releasedate>
+		<releasedate country="Poland">April 21 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Switzerland">8</certificate>
+	</certificates>
+	<keywords>
+		<keyword>passageway</keyword>
+		<keyword>school</keyword>
+	</keywords>
+	<directors>
+		<director> Florian Sigl</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Alexander Artopé</producer>
+		<producer> Sabrina Christoforidis</producer>
+		<producer> Peter Eiff</producer>
+		<producer> Roland Emmerich</producer>
+		<producer> Ulrike Fauth</producer>
+		<producer> Beatriz Fluxa</producer>
+		<producer> Theodor Gringel</producer>
+		<producer> Stefan Konarske</producer>
+		<producer> Christoph Malessa</producer>
+		<producer> Timm Oberwelland</producer>
+		<producer> Johannes Schwerdt</producer>
+		<producer> Tobias Alexander Seiffert</producer>
+		<producer> Dario Suter</producer>
+		<producer> Fabian Wolfart</producer>
+		<producer> Christopher Zwickler</producer>
+	</producers>
+	<writers>
+		<writer> Andrew Lowery</writer>
+		<writer> Florian Sigl</writer>
+		<writer> Jason Young</writer>
+		<writer> Christopher Zwickler</writer>
+	</writers>
+	<editors>
+		<editor> Alexander Dittner</editor>
+	</editors>
+</doc>

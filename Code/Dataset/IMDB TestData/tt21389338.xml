@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<doc id="tt21389338">
+	<docid>tt21389338</docid>
+	<title>Roost</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWE4MzQyMmItOTk1NS00ODliLTlkNWMtNjEwYzYxMDdmZWIzXkEyXkFqcGdeQXVyODk0MjQ2NzQ@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">85</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>In this immersive thriller directed by Amy Redford, a young love affair becomes a menacing game of cat and mouse. Nothing and no one are as they seem..</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Summer Phoenix</actor>
+			<role>Beth</role>
+		</credit>
+		<credit>
+			<actor>Grace Van Dien</actor>
+			<role>Anna</role>
+		</credit>
+		<credit>
+			<actor>Kyle Gallner</actor>
+			<role>Eric</role>
+		</credit>
+		<credit>
+			<actor>Jesse Garcia</actor>
+			<role>Tim</role>
+		</credit>
+		<credit>
+			<actor>Reina Hardesty</actor>
+			<role>Brit</role>
+		</credit>
+		<credit>
+			<actor>Sierra Nicole Rose</actor>
+			<role>Ashley</role>
+		</credit>
+		<credit>
+			<actor>Indiana Affleck</actor>
+			<role>Denny</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Monroe Eckert</actor>
+			<role>Leo</role>
+		</credit>
+		<credit>
+			<actor>Paul Tew</actor>
+			<role>Open House Guest</role>
+		</credit>
+		<credit>
+			<actor>Chase Voelker</actor>
+			<role>Open House Guest #2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 15 2022</releasedate>
+		<releasedate country="United States">September 30 2022</releasedate>
+		<releasedate country="Brazil">October 20 2022</releasedate>
+		<releasedate country="United States">October 20 2022</releasedate>
+		<releasedate country="United States">May 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Mexico">B15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Amy Redford</director>
+	</directors>
+	<composers>
+		<composer> Craig Wedren</composer>
+	</composers>
+	<producers>
+		<producer> Katy Drake Bettner</producer>
+		<producer> Geralyn White Dreyfous</producer>
+		<producer> Jeff Hays</producer>
+		<producer> Margaret Munzer Loeb</producer>
+		<producer> Scott Organ</producer>
+		<producer> Charlie Pigott</producer>
+		<producer> Amy Redford</producer>
+		<producer> Daren Smith</producer>
+		<producer> Diane Stewart</producer>
+		<producer> Lynda Weinman</producer>
+		<producer> Jamie Wolf</producer>
+		<producer> Eden Wurmfeld</producer>
+	</producers>
+	<writers>
+		<writer> Scott Organ</writer>
+		<writer> Scott Organ</writer>
+	</writers>
+	<editors>
+		<editor> Emelie Mahdavian</editor>
+	</editors>
+</doc>

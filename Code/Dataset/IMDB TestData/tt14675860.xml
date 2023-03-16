@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<doc id="tt14675860">
+	<docid>tt14675860</docid>
+	<title>Welcome to Chippendales</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGFjNjg3ODEtNzM3Ny00MDJmLThmM2MtZWQ4OTk3MGJhZWZiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,28,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The origin story of Somen &quot;Steve&quot; Banerjee, the Indian-American entrepreneur who started the stripper troupe Chippendales.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kumail Nanjiani</actor>
+			<role>Somen Banerjee</role>
+		</credit>
+		<credit>
+			<actor>Murray Bartlett</actor>
+			<role>Nick De Noia</role>
+		</credit>
+		<credit>
+			<actor>Zack Palmisano</actor>
+			<role>Bartender</role>
+		</credit>
+		<credit>
+			<actor>Felix Rossi</actor>
+			<role>Waiter</role>
+		</credit>
+		<credit>
+			<actor>Darren Lipari</actor>
+			<role>Bartender Bobby</role>
+		</credit>
+		<credit>
+			<actor>Annaleigh Ashford</actor>
+			<role>Irene</role>
+		</credit>
+		<credit>
+			<actor>Juliette Lewis</actor>
+			<role>Denise</role>
+		</credit>
+		<credit>
+			<actor>Daxton Bloomquist</actor>
+			<role>Chippendale Dancer</role>
+		</credit>
+		<credit>
+			<actor>Max Teboul</actor>
+			<role>Chippendale Dancer</role>
+		</credit>
+		<credit>
+			<actor>Michael Graceffa</actor>
+			<role>Richie</role>
+		</credit>
+		<credit>
+			<actor>Graham Selden</actor>
+			<role>The DJ</role>
+		</credit>
+		<credit>
+			<actor>Odette Tyler</actor>
+			<role>Club Patron</role>
+		</credit>
+		<credit>
+			<actor>Robin de Jesus</actor>
+			<role>Ray</role>
+		</credit>
+		<credit>
+			<actor>Adam Ray</actor>
+			<role>Larry</role>
+		</credit>
+		<credit>
+			<actor>Kevin Mylrea</actor>
+			<role>Chippendale Dancer</role>
+		</credit>
+		<credit>
+			<actor>Robert Allen Mukes</actor>
+			<role>Doorman Burt</role>
+		</credit>
+		<credit>
+			<actor>Andrew Rannells</actor>
+			<role>Bradford</role>
+		</credit>
+		<credit>
+			<actor>Spencer Boldman</actor>
+			<role>Lance</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">November 22 2022</releasedate>
+		<releasedate country="Australia">November 22 2022</releasedate>
+		<releasedate country="Brazil">November 22 2022</releasedate>
+		<releasedate country="Canada">November 22 2022</releasedate>
+		<releasedate country="Indonesia">November 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Italy">VM18</certificate>
+		<certificate country="Japan">18</certificate>
+		<certificate country="Mexico">18+</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Portugal">M/18</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>male stripper</keyword>
+		<keyword>cultural</keyword>
+		<keyword>indian american</keyword>
+		<keyword>hulu</keyword>
+		<keyword>based on real person</keyword>
+		<keyword>based on real people</keyword>
+		<keyword>reference to somen 'steve' banerjee</keyword>
+		<keyword>chippendale</keyword>
+		<keyword>life</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>dance troupe</keyword>
+		<keyword>business</keyword>
+		<keyword>career</keyword>
+		<keyword>dancer</keyword>
+		<keyword>docudrama drama</keyword>
+		<keyword>las vegas nevada</keyword>
+		<keyword>dance</keyword>
+		<keyword>city</keyword>
+		<keyword>job</keyword>
+		<keyword>club</keyword>
+		<keyword>dancing</keyword>
+		<keyword>founder</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>docudrama</keyword>
+		<keyword>strip club</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>murder suicide</keyword>
+		<keyword>murder plot</keyword>
+		<keyword>20th century</keyword>
+		<keyword>1970s</keyword>
+		<keyword>1980s</keyword>
+		<keyword>year 1979</keyword>
+		<keyword>year 1980</keyword>
+		<keyword>timeframe 1970s</keyword>
+		<keyword>timeframe 1980s</keyword>
+		<keyword>murder</keyword>
+		<keyword>playboy</keyword>
+		<keyword>secret</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>based on book</keyword>
+	</keywords>
+	<directors>
+		<director> Richard Shepard</director>
+		<director> Nisha Ganatra</director>
+		<director> Gwyneth Horder-Payton</director>
+		<director> Matt Shakman</director>
+	</directors>
+	<composers>
+		<composer> Siddhartha Khosla</composer>
+	</composers>
+	<producers>
+		<producer> David Dean</producer>
+		<producer> Jenni Konner</producer>
+		<producer> Robert Siegel</producer>
+		<producer> Katherine Belgrad</producer>
+		<producer> Michael C. Bolton</producer>
+		<producer> Jill Breitzman</producer>
+		<producer> Rajiv Joseph</producer>
+		<producer> Nora Neil</producer>
+		<producer> Richard H. Prince</producer>
+		<producer> Jacqui Rivera</producer>
+		<producer> Dylan Sellers</producer>
+		<producer> Matt Shakman</producer>
+		<producer> Nora Silver</producer>
+		<producer> Dara Weintraub</producer>
+		<producer> Annie Julia Wyman</producer>
+		<producer> Emily V. Gordon</producer>
+		<producer> Kumail Nanjiani</producer>
+		<producer> Mehar Sethi</producer>
+	</producers>
+	<writers>
+		<writer> K. Scot MacDonald</writer>
+		<writer> Patrick MontesDeOca</writer>
+		<writer> Robert Siegel</writer>
+		<writer> Robert Siegel</writer>
+		<writer> Rajiv Joseph</writer>
+		<writer> Annie Julia Wyman</writer>
+		<writer> Jenni Konner</writer>
+		<writer> Jacqui Rivera</writer>
+	</writers>
+	<editors>
+		<editor> David Dean</editor>
+		<editor> David Berman</editor>
+		<editor> Libby Cuenin</editor>
+		<editor> Felicia Mignon Livingston</editor>
+	</editors>
+</doc>

@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<doc id="tt11717610">
+	<docid>tt11717610</docid>
+	<title>American Auto</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODYwN2U3MjktYzRkNy00MWYyLWE1NWYtY2MyZWNiN2E0ZTY0XkEyXkFqcGdeQXVyMTUwMzM5ODkz._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">21</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>At the headquarters of a major American automotive company in Detroit, a floundering group of executives try to rediscover the company identity amid a rapidly changing industry.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ana Gasteyer</actor>
+			<role>Katherine Hastings</role>
+		</credit>
+		<credit>
+			<actor>Harriet Dyer</actor>
+			<role>Sadie Ryan</role>
+		</credit>
+		<credit>
+			<actor>Jon Barinholtz</actor>
+			<role>Wesley Payne</role>
+		</credit>
+		<credit>
+			<actor>Tye White</actor>
+			<role>Jack Fordham</role>
+		</credit>
+		<credit>
+			<actor>Michael Benjamin Washington</actor>
+			<role>Cyrus Knight</role>
+		</credit>
+		<credit>
+			<actor>Humphrey Ker</actor>
+			<role>Elliot Chisholm</role>
+		</credit>
+		<credit>
+			<actor>X Mayo</actor>
+			<role>Dori Ovens</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Hinkler</actor>
+			<role>Chloe</role>
+		</credit>
+		<credit>
+			<actor>Brad Hall</actor>
+			<role>Richard</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Kenyon</actor>
+			<role>Janine</role>
+		</credit>
+		<credit>
+			<actor>Matthew Moy</actor>
+			<role>Dale</role>
+		</credit>
+		<credit>
+			<actor>Joshua Malina</actor>
+			<role>Ted</role>
+		</credit>
+		<credit>
+			<actor>Christopher Chen</actor>
+			<role>Jin Tao-Kang</role>
+		</credit>
+		<credit>
+			<actor>Eric Stonestreet</actor>
+			<role>Ian Osofsky</role>
+		</credit>
+		<credit>
+			<actor>Jim Meskimen</actor>
+			<role>Soren</role>
+		</credit>
+		<credit>
+			<actor>Caitlin Kimball</actor>
+			<role>Phoebe</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Siegel</actor>
+			<role>Michelle</role>
+		</credit>
+		<credit>
+			<actor>Kim Estes</actor>
+			<role>Board Member Mark</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">December 13 2021</releasedate>
+		<releasedate country="Spain">December 13 2021</releasedate>
+		<releasedate country="France">December 13 2021</releasedate>
+		<releasedate country="United States">December 13 2021</releasedate>
+		<releasedate country="Sweden">June 7 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sitcom comedy</keyword>
+	</keywords>
+	<directors>
+		<director> Jeffrey Blitz</director>
+		<director> Heather Jack</director>
+		<director> Matt Sohn</director>
+		<director> Phil Traill</director>
+		<director> Lauren Ludwig</director>
+		<director> Kim O. Nguyen</director>
+		<director> Randall Keenan Winston</director>
+		<director> Shahrzad Davani</director>
+		<director> Lara Everly</director>
+		<director> Jay Hunter</director>
+		<director> Ross Novie</director>
+	</directors>
+	<composers>
+		<composer> Jeff Cardoni</composer>
+		<composer> Hal Rosenfeld</composer>
+	</composers>
+	<producers>
+		<producer> Justin Spitzer</producer>
+		<producer> Aaron Kaplan</producer>
+		<producer> Elena Crevello</producer>
+		<producer> Eric Ledgin</producer>
+		<producer> Kyle Mack</producer>
+		<producer> Jeffrey Blitz</producer>
+		<producer> Josh Greene</producer>
+		<producer> Dana Honor</producer>
+		<producer> Megan Scully</producer>
+		<producer> Bill Chais</producer>
+		<producer> Scott Printz</producer>
+		<producer> Albertina Rizzo</producer>
+		<producer> Maxwell Theodore Vivian</producer>
+		<producer> David Budin</producer>
+		<producer> Simon Heuer</producer>
+		<producer> Brian Morewitz</producer>
+		<producer> Shirin Najafi</producer>
+		<producer> Frank Sackett</producer>
+		<producer> Meg A. Schave</producer>
+		<producer> Bridget Kyle</producer>
+		<producer> Vicky Luu</producer>
+		<producer> Jonathan Green</producer>
+		<producer> Tim McAuliffe</producer>
+		<producer> Gabe Miller</producer>
+		<producer> Steve Burgess</producer>
+		<producer> Julia Rask</producer>
+		<producer> Jackie Clarke</producer>
+		<producer> James Renfroe</producer>
+		<producer> Matt Sohn</producer>
+	</producers>
+	<writers>
+		<writer> Justin Spitzer</writer>
+		<writer> Justin Spitzer</writer>
+		<writer> Jeff Maurer</writer>
+		<writer> Jeff Maurer</writer>
+		<writer> Eric Ledgin</writer>
+		<writer> Kyle Mack</writer>
+		<writer> Shirin Najafi</writer>
+		<writer> Elena Crevello</writer>
+		<writer> Bill Chais</writer>
+		<writer> Albertina Rizzo</writer>
+		<writer> Maxwell Theodore Vivian</writer>
+		<writer> David Budin</writer>
+		<writer> Bridget Kyle</writer>
+		<writer> Vicky Luu</writer>
+		<writer> Vance Stringer</writer>
+		<writer> Lauren Walker</writer>
+	</writers>
+	<editors>
+		<editor> James Renfroe</editor>
+		<editor> Jeff Hall</editor>
+		<editor> Christian Kinnard</editor>
+		<editor> Eric Kissack</editor>
+		<editor> Matthew Barbato</editor>
+		<editor> Chris Lorusso</editor>
+	</editors>
+</doc>

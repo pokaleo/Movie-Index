@@ -1,0 +1,802 @@
+<?xml version="1.0" ?>
+<doc id="tt6320628">
+	<docid>tt6320628</docid>
+	<title>Spider-Man: Far from Home</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTk2OGUzZjQtZTRjOC00ODVkLThkZmQtNzdjYjFkNmY0YWRiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">129</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Surround 7.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Holland</actor>
+			<role>Peter Parker</role>
+		</credit>
+		<credit>
+			<actor>Samuel L. Jackson</actor>
+			<role>Nick Fury</role>
+		</credit>
+		<credit>
+			<actor>Jake Gyllenhaal</actor>
+			<role>Quentin Beck</role>
+		</credit>
+		<credit>
+			<actor>Marisa Tomei</actor>
+			<role>May Parker</role>
+		</credit>
+		<credit>
+			<actor>Jon Favreau</actor>
+			<role>Happy Hogan</role>
+		</credit>
+		<credit>
+			<actor>Zendaya</actor>
+			<role>MJ</role>
+		</credit>
+		<credit>
+			<actor>Jacob Batalon</actor>
+			<role>Ned Leeds</role>
+		</credit>
+		<credit>
+			<actor>Tony Revolori</actor>
+			<role>Flash Thompson</role>
+		</credit>
+		<credit>
+			<actor>Angourie Rice</actor>
+			<role>Betty Brant</role>
+		</credit>
+		<credit>
+			<actor>Remy Hii</actor>
+			<role>Brad Davis</role>
+		</credit>
+		<credit>
+			<actor>Martin Starr</actor>
+			<role>Mr. Harrington</role>
+		</credit>
+		<credit>
+			<actor>J.B. Smoove</actor>
+			<role>Mr. Dell</role>
+		</credit>
+		<credit>
+			<actor>Jorge Lendeborg Jr.</actor>
+			<role>Jason Ionello</role>
+		</credit>
+		<credit>
+			<actor>Cobie Smulders</actor>
+			<role>Maria Hill</role>
+		</credit>
+		<credit>
+			<actor>Numan Acar</actor>
+			<role>Dimitri</role>
+		</credit>
+		<credit>
+			<actor>Zach Barack</actor>
+			<role>Zach</role>
+		</credit>
+		<credit>
+			<actor>Zoha Rahman</actor>
+			<role>Zoha</role>
+		</credit>
+		<credit>
+			<actor>Yasmin Mwanza</actor>
+			<role>Yasmin</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">June 26 2019</releasedate>
+		<releasedate country="China">June 28 2019</releasedate>
+		<releasedate country="Hong Kong">June 28 2019</releasedate>
+		<releasedate country="Japan">June 28 2019</releasedate>
+		<releasedate country="Australia">July 1 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Bulgaria">B</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">Sin Calificación</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-7</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">G</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>marvel cinematic universe</keyword>
+		<keyword>vacation</keyword>
+		<keyword>school trip</keyword>
+		<keyword>superhero</keyword>
+		<keyword>sequel</keyword>
+		<keyword>spider man character</keyword>
+		<keyword>peter parker character</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>europe</keyword>
+		<keyword>villain</keyword>
+		<keyword>mysterio character</keyword>
+		<keyword>nick fury character</keyword>
+		<keyword>happy hogan character</keyword>
+		<keyword>reference to iron man</keyword>
+		<keyword>reference to thor</keyword>
+		<keyword>austrian alps</keyword>
+		<keyword>venice italy</keyword>
+		<keyword>reference to tony stark</keyword>
+		<keyword>shot with a tranquilizer dart</keyword>
+		<keyword>first kiss</keyword>
+		<keyword>mid credits scene</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>betty brant character</keyword>
+		<keyword>london england</keyword>
+		<keyword>netherlands</keyword>
+		<keyword>bus</keyword>
+		<keyword>romantic crush</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>maria hill character</keyword>
+		<keyword>s.h.i.e.l.d.</keyword>
+		<keyword>flash thompson character</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>reference to captain america</keyword>
+		<keyword>berlin germany</keyword>
+		<keyword>prague czech republic</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>drone attack</keyword>
+		<keyword>j. jonah jameson character</keyword>
+		<keyword>newark new jersey</keyword>
+		<keyword>new york city</keyword>
+		<keyword>tower bridge london</keyword>
+		<keyword>crown jewels</keyword>
+		<keyword>mace</keyword>
+		<keyword>suit of armor</keyword>
+		<keyword>3d printer</keyword>
+		<keyword>private jet</keyword>
+		<keyword>bridge</keyword>
+		<keyword>charles bridge</keyword>
+		<keyword>reference to the eiffel tower</keyword>
+		<keyword>austria</keyword>
+		<keyword>illusion</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>skrull</keyword>
+		<keyword>reference to doctor strange</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>secret revealed</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>in memoriam</keyword>
+		<keyword>reference to black widow</keyword>
+		<keyword>hydro man character</keyword>
+		<keyword>shield</keyword>
+		<keyword>train</keyword>
+		<keyword>hit by a train</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>carnival</keyword>
+		<keyword>opera house</keyword>
+		<keyword>ferris wheel</keyword>
+		<keyword>chaperone</keyword>
+		<keyword>mexico</keyword>
+		<keyword>hologram</keyword>
+		<keyword>projector</keyword>
+		<keyword>coded message</keyword>
+		<keyword>livestreaming</keyword>
+		<keyword>tourist</keyword>
+		<keyword>airplane seat</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>reference to the black dahlia murder</keyword>
+		<keyword>necklace</keyword>
+		<keyword>omnibus</keyword>
+		<keyword>double decker bus</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>con artist</keyword>
+		<keyword>media manipulation</keyword>
+		<keyword>elementals</keyword>
+		<keyword>molten man character</keyword>
+		<keyword>summer fling</keyword>
+		<keyword>aunt nephew relationship</keyword>
+		<keyword>reference to the avengers</keyword>
+		<keyword>hotel</keyword>
+		<keyword>doctored footage</keyword>
+		<keyword>gullibility</keyword>
+		<keyword>daily bugle</keyword>
+		<keyword>television network</keyword>
+		<keyword>media</keyword>
+		<keyword>talos character</keyword>
+		<keyword>reference to hydro man</keyword>
+		<keyword>spider sense</keyword>
+		<keyword>bell</keyword>
+		<keyword>bell tower</keyword>
+		<keyword>opera glasses</keyword>
+		<keyword>high school</keyword>
+		<keyword>marching band</keyword>
+		<keyword>basketball court</keyword>
+		<keyword>reference to getty images</keyword>
+		<keyword>slideshow</keyword>
+		<keyword>costume</keyword>
+		<keyword>superhero costume</keyword>
+		<keyword>villain pretending to be hero</keyword>
+		<keyword>gliding</keyword>
+		<keyword>wingsuit</keyword>
+		<keyword>iron spider armor</keyword>
+		<keyword>tulip</keyword>
+		<keyword>tower of london</keyword>
+		<keyword>confession</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>banana</keyword>
+		<keyword>defense system</keyword>
+		<keyword>augmented reality</keyword>
+		<keyword>social media</keyword>
+		<keyword>team up</keyword>
+		<keyword>cape</keyword>
+		<keyword>flying superhero</keyword>
+		<keyword>master plan</keyword>
+		<keyword>bitterness</keyword>
+		<keyword>disgruntled ex employee</keyword>
+		<keyword>teenager</keyword>
+		<keyword>compromising photograph</keyword>
+		<keyword>satellite</keyword>
+		<keyword>space station</keyword>
+		<keyword>oversized check</keyword>
+		<keyword>misplaced trust</keyword>
+		<keyword>long con</keyword>
+		<keyword>disgruntled employee</keyword>
+		<keyword>water monster</keyword>
+		<keyword>acronym</keyword>
+		<keyword>american in europe</keyword>
+		<keyword>american in italy</keyword>
+		<keyword>american in england</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>cyber surveillance</keyword>
+		<keyword>soccer hooligan</keyword>
+		<keyword>drone strike</keyword>
+		<keyword>special effects</keyword>
+		<keyword>rehearsal</keyword>
+		<keyword>false identity</keyword>
+		<keyword>teenage romance</keyword>
+		<keyword>whirlwind romance</keyword>
+		<keyword>monster</keyword>
+		<keyword>reference to thor the marvel comics character</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>reference to shakespeare's henry iv part two</keyword>
+		<keyword>quoting shakespeare's henry iv part two</keyword>
+		<keyword>shakespearean quotation</keyword>
+		<keyword>webslinging</keyword>
+		<keyword>eyes closed</keyword>
+		<keyword>extrasensory perception</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>american in czech republic</keyword>
+		<keyword>american in the uk</keyword>
+		<keyword>american in london</keyword>
+		<keyword>american in venice</keyword>
+		<keyword>travel</keyword>
+		<keyword>comic sans</keyword>
+		<keyword>bad guys win</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>2010s</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>end credits roll call</keyword>
+		<keyword>reference to captain marvel the marvel comics character</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>infinity saga</keyword>
+		<keyword>virtual set</keyword>
+		<keyword>crush</keyword>
+		<keyword>reference to star wars</keyword>
+		<keyword>mask</keyword>
+		<keyword>disguise</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding bus</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>destruction</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>reference to leonardo da vinci</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>battle</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>combat</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>reference to captain marvel</keyword>
+		<keyword>airplane</keyword>
+		<keyword>airport</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>tour bus</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>high tech</keyword>
+		<keyword>reference to voltron</keyword>
+		<keyword>creature</keyword>
+		<keyword>laser</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>projection</keyword>
+		<keyword>technology</keyword>
+		<keyword>inventor</keyword>
+		<keyword>drone</keyword>
+		<keyword>force field</keyword>
+		<keyword>flying</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>fire</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>fire monster</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>missile</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>energy pulse weapon</keyword>
+		<keyword>water creature</keyword>
+		<keyword>fire creature</keyword>
+		<keyword>showdown</keyword>
+		<keyword>teenage superhero</keyword>
+		<keyword>16 year old</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>teenage love</keyword>
+		<keyword>teen angst</keyword>
+		<keyword>teen comedy</keyword>
+		<keyword>teen movie</keyword>
+		<keyword>montage</keyword>
+		<keyword>love interest</keyword>
+		<keyword>action hero</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>one man army</keyword>
+		<keyword>fundraiser</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>super villain</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>carousel</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>helmet</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>spear</keyword>
+		<keyword>helmet camera</keyword>
+		<keyword>death threat</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>race against time</keyword>
+		<keyword>cover up</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>narcissist</keyword>
+		<keyword>beard</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>scar</keyword>
+		<keyword>revelation</keyword>
+		<keyword>gondola</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>alps</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>high tech suit</keyword>
+		<keyword>teacher</keyword>
+		<keyword>flashback</keyword>
+		<keyword>dutchman</keyword>
+		<keyword>queens new york city</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>times square manhattan new york city</keyword>
+		<keyword>taxi</keyword>
+		<keyword>museum</keyword>
+		<keyword>train station</keyword>
+		<keyword>nanotechnology</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>hero</keyword>
+		<keyword>heroism</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>prologue</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>texting</keyword>
+		<keyword>mission</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>spectacles</keyword>
+		<keyword>statue</keyword>
+		<keyword>super computer</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>map</keyword>
+		<keyword>boat</keyword>
+		<keyword>passport</keyword>
+		<keyword>web</keyword>
+		<keyword>news report</keyword>
+		<keyword>friendship</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>high school student</keyword>
+		<keyword>high school teacher</keyword>
+		<keyword>backpack</keyword>
+		<keyword>bar</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>water</keyword>
+		<keyword>lava</keyword>
+		<keyword>flood</keyword>
+		<keyword>tsunami</keyword>
+		<keyword>ambush</keyword>
+		<keyword>violence</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>village</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>taking a selfie</keyword>
+		<keyword>double cross</keyword>
+		<keyword>camera</keyword>
+		<keyword>black costume</keyword>
+		<keyword>goggles</keyword>
+		<keyword>face mask</keyword>
+		<keyword>marvel entertainment</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>masked man</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>acting</keyword>
+		<keyword>disaster</keyword>
+		<keyword>revenge</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>scientist</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>visionary</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>cow</keyword>
+		<keyword>witness</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>police station</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>escape from jail</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>parachute</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>field of tulips</keyword>
+		<keyword>windmill</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>lightning</keyword>
+		<keyword>tornado</keyword>
+		<keyword>bullet catching</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>sarcasm</keyword>
+		<keyword>storm</keyword>
+		<keyword>african american</keyword>
+		<keyword>beefeater</keyword>
+		<keyword>fear</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>guard</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>tombstone</keyword>
+		<keyword>memorial</keyword>
+		<keyword>spider</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>reference to george orwell</keyword>
+		<keyword>bleeped dialogue</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>flamethrower</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>rowboat</keyword>
+		<keyword>party</keyword>
+		<keyword>apartment</keyword>
+		<keyword>henchman</keyword>
+		<keyword>aunt may character</keyword>
+		<keyword>dorset</keyword>
+		<keyword>bullet train</keyword>
+		<keyword>gas station</keyword>
+		<keyword>gadget</keyword>
+		<keyword>gadgetry</keyword>
+		<keyword>product placement</keyword>
+		<keyword>canal</keyword>
+		<keyword>reference to the black dahlia</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>check</keyword>
+		<keyword>robot suit</keyword>
+		<keyword>bald man</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>hope</keyword>
+		<keyword>toilet</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>evil genius</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>italian</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>pub</keyword>
+		<keyword>vault</keyword>
+		<keyword>kiss</keyword>
+		<keyword>impostor</keyword>
+		<keyword>2020s</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>st pancras station london</keyword>
+		<keyword>shard london</keyword>
+		<keyword>tower hill london</keyword>
+		<keyword>river thames</keyword>
+		<keyword>passenger compartment</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>flying man</keyword>
+		<keyword>watercraft</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>darted in the neck</keyword>
+		<keyword>weapon</keyword>
+		<keyword>evil man</keyword>
+		<keyword>halberd</keyword>
+		<keyword>audi motor vehicle</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>suit of armour</keyword>
+		<keyword>aircraft cabin</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>fake identical world</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>crossover</keyword>
+		<keyword>alien</keyword>
+		<keyword>alien shapeshifter</keyword>
+		<keyword>shapeshifting alien</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>columbia tristar</keyword>
+		<keyword>reference to pepper potts</keyword>
+		<keyword>reference to buzzfeed</keyword>
+		<keyword>tv news</keyword>
+		<keyword>reference to stark industries</keyword>
+		<keyword>identity revealed</keyword>
+		<keyword>motorboat</keyword>
+		<keyword>hyphen in title</keyword>
+		<keyword>punctuation in title</keyword>
+		<keyword>five word title</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>throwing a camera into water</keyword>
+		<keyword>classmate</keyword>
+		<keyword>motion capture suit</keyword>
+		<keyword>motion capture</keyword>
+		<keyword>dutch man</keyword>
+		<keyword>news broadcast</keyword>
+		<keyword>tower bridge</keyword>
+		<keyword>armory</keyword>
+		<keyword>italy</keyword>
+		<keyword>england</keyword>
+		<keyword>coast</keyword>
+		<keyword>czech republic</keyword>
+		<keyword>biopunk</keyword>
+		<keyword>american teenager abroad</keyword>
+		<keyword>exploding vehicle</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>vertical take off and landing aircraft</keyword>
+		<keyword>extraterrestrial alien</keyword>
+		<keyword>american teenager</keyword>
+		<keyword>air to surface attack</keyword>
+		<keyword>male teacher</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>audio communication</keyword>
+		<keyword>long haired female</keyword>
+		<keyword>aerial drone</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>long haired teenage girl</keyword>
+		<keyword>aerial drone attack</keyword>
+		<keyword>masked superhero</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>cold open</keyword>
+		<keyword>in memoriam video</keyword>
+		<keyword>reference to steve rogers</keyword>
+		<keyword>reference to natasha romanoff</keyword>
+		<keyword>reference to vision the marvel comics character</keyword>
+		<keyword>plan</keyword>
+		<keyword>charity event</keyword>
+		<keyword>loss of mentor</keyword>
+		<keyword>grief</keyword>
+		<keyword>reference to mike piazza</keyword>
+		<keyword>trilby hat</keyword>
+		<keyword>flight</keyword>
+		<keyword>airplane passenger</keyword>
+		<keyword>playing a computer game</keyword>
+		<keyword>transatlantic flight</keyword>
+		<keyword>airplane restroom</keyword>
+		<keyword>sightseeing</keyword>
+		<keyword>selfie stick</keyword>
+		<keyword>pigeon</keyword>
+		<keyword>dropping a camera</keyword>
+		<keyword>elemental</keyword>
+		<keyword>charade</keyword>
+		<keyword>fraud</keyword>
+		<keyword>reference to molten man</keyword>
+		<keyword>pulling down pants</keyword>
+		<keyword>killer drone</keyword>
+		<keyword>emergency exit</keyword>
+		<keyword>distraction</keyword>
+		<keyword>summer vacation</keyword>
+		<keyword>opera</keyword>
+		<keyword>theater</keyword>
+		<keyword>stealth suit</keyword>
+		<keyword>superhero suit</keyword>
+		<keyword>molten metal</keyword>
+		<keyword>noble self sacrifice</keyword>
+		<keyword>stuck in a ferris wheel</keyword>
+		<keyword>revealing secret identity</keyword>
+		<keyword>flying drone</keyword>
+		<keyword>holding cell</keyword>
+		<keyword>new look</keyword>
+		<keyword>bus driver</keyword>
+		<keyword>reference to power rangers</keyword>
+		<keyword>taser</keyword>
+		<keyword>spiked mace</keyword>
+		<keyword>sharing a secret</keyword>
+		<keyword>breaking news</keyword>
+		<keyword>news outlet</keyword>
+		<keyword>madison square garden manhattan new york city</keyword>
+		<keyword>post credits scene</keyword>
+		<keyword>outer space</keyword>
+		<keyword>impersonation</keyword>
+		<keyword>romantic rivalry</keyword>
+		<keyword>glow stick</keyword>
+		<keyword>commercial air travel</keyword>
+		<keyword>marvel</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>eye patch</keyword>
+		<keyword>man wears an eye patch</keyword>
+		<keyword>spiderweb</keyword>
+		<keyword>vacation gone wrong</keyword>
+		<keyword>audi</keyword>
+		<keyword>bmw</keyword>
+		<keyword>cadillac automobile</keyword>
+		<keyword>cadillac escalade</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>dodge the car</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>ford mondeo</keyword>
+		<keyword>gmc</keyword>
+		<keyword>hyundai</keyword>
+		<keyword>hyundai sonata</keyword>
+		<keyword>mazda</keyword>
+		<keyword>nissan</keyword>
+		<keyword>toyota</keyword>
+		<keyword>tranquilizer</keyword>
+		<keyword>second part</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>reference to led zeppelin</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>newark airport</keyword>
+		<keyword>reference to paris france</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>reference to the salvation army</keyword>
+	</keywords>
+	<directors>
+		<director> Jon Watts</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Victoria Alonso</producer>
+		<producer> Avi Arad</producer>
+		<producer> Chris Buongiorno</producer>
+		<producer> Eric Hauserman Carroll</producer>
+		<producer> Louis D'Esposito</producer>
+		<producer> Kevin Feige</producer>
+		<producer> Thomas M. Hammel</producer>
+		<producer> Stan Lee</producer>
+		<producer> David Minkowski</producer>
+		<producer> Rachel O'Connor</producer>
+		<producer> Amy Pascal</producer>
+		<producer> Jacky Priddle</producer>
+		<producer> Nicola Rosada</producer>
+		<producer> Matthew Stillman</producer>
+		<producer> Matt Tolmach</producer>
+	</producers>
+	<writers>
+		<writer> Chris McKenna</writer>
+		<writer> Erik Sommers</writer>
+		<writer> Stan Lee</writer>
+		<writer> Steve Ditko</writer>
+	</writers>
+	<editors>
+		<editor> Leigh Folsom Boyd</editor>
+		<editor> Dan Lebental</editor>
+	</editors>
+</doc>

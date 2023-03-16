@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<doc id="tt8201186">
+	<docid>tt8201186</docid>
+	<title>The Capture</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmNhODY1NDQtYTdlMy00MWZiLThmMTEtNzVkYjA3ZGIzYzQ2XkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>When a British soldier is charged with a crime, the tenacious young detective handling his case begins to uncover a conspiracy.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Holliday Grainger</actor>
+			<role>DCI Rachel Carey</role>
+		</credit>
+		<credit>
+			<actor>Ben Miles</actor>
+			<role>Commander Danny Hart</role>
+		</credit>
+		<credit>
+			<actor>Lia Williams</actor>
+			<role>DSU Gemma Garland</role>
+		</credit>
+		<credit>
+			<actor>Cavan Clerkin</actor>
+			<role>DS Patrick Flynn</role>
+		</credit>
+		<credit>
+			<actor>Ginny Holder</actor>
+			<role>DS Nadia Latif</role>
+		</credit>
+		<credit>
+			<actor>Ron Perlman</actor>
+			<role>Frank Napier</role>
+		</credit>
+		<credit>
+			<actor>Nigel Lindsay</actor>
+			<role>DSU Tom Kendricks</role>
+		</credit>
+		<credit>
+			<actor>Peter Singh</actor>
+			<role>Operator Phillips</role>
+		</credit>
+		<credit>
+			<actor>Callum Turner</actor>
+			<role>Shaun Emery</role>
+		</credit>
+		<credit>
+			<actor>Paapa Essiedu</actor>
+			<role>Isaac Turner</role>
+		</credit>
+		<credit>
+			<actor>Laura Haddock</actor>
+			<role>Hannah Roberts</role>
+		</credit>
+		<credit>
+			<actor>Charlie Murphy</actor>
+			<role>Simone Turner</role>
+		</credit>
+		<credit>
+			<actor>Daisy Waterstone</actor>
+			<role>Abigail Carey</role>
+		</credit>
+		<credit>
+			<actor>Indira Varma</actor>
+			<role>Khadija Khan</role>
+		</credit>
+		<credit>
+			<actor>Tessa Wong</actor>
+			<role>DC Chloe Tan</role>
+		</credit>
+		<credit>
+			<actor>Barry Ward</actor>
+			<role>Charlie Hall</role>
+		</credit>
+		<credit>
+			<actor>Andy Nyman</actor>
+			<role>Rowan Gill</role>
+		</credit>
+		<credit>
+			<actor>Lewis Kirk</actor>
+			<role>Safe House Op Louie</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">January 1 2019</releasedate>
+		<releasedate country="Brazil">September 3 2019</releasedate>
+		<releasedate country="Spain">September 3 2019</releasedate>
+		<releasedate country="United Kingdom">September 3 2019</releasedate>
+		<releasedate country="Italy">September 3 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">PG-12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>conspiracy thriller</keyword>
+		<keyword>techno thriller</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>evidence</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>two word title</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>police procedural crime</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>conspiracy</keyword>
+	</keywords>
+	<directors>
+		<director> Ben Chanan</director>
+		<director> James Kent</director>
+		<director> Philippa Langdale</director>
+	</directors>
+	<composers>
+		<composer> Ian Arber</composer>
+		<composer> Dave Rowntree</composer>
+	</composers>
+	<producers>
+		<producer> Rosie Alison</producer>
+		<producer> Ben Chanan</producer>
+		<producer> Tom Coan</producer>
+		<producer> David Heyman</producer>
+		<producer> Ben Irving</producer>
+		<producer> Derek Ritchie</producer>
+		<producer> Tom Winchester</producer>
+		<producer> David Higginson</producer>
+		<producer> Emma Brown</producer>
+		<producer> Kristian Dench</producer>
+		<producer> Rebecca Ferguson</producer>
+	</producers>
+	<writers>
+		<writer> Ben Chanan</writer>
+		<writer> Ben Chanan</writer>
+		<writer> Ben Chanan</writer>
+		<writer> Daniel Noy</writer>
+	</writers>
+	<editors>
+		<editor> Dan Farrell</editor>
+		<editor> Matthew Tabern</editor>
+		<editor> Kim Gaster</editor>
+		<editor> Richard Graham</editor>
+		<editor> Emma Oxley</editor>
+		<editor> William Blunden</editor>
+	</editors>
+</doc>

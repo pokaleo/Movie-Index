@@ -1,0 +1,458 @@
+<?xml version="1.0" ?>
+<doc id="tt1637725">
+	<docid>tt1637725</docid>
+	<title>Ted</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTdmZjBjZjQtY2JiNS00Y2ZlLTg2NzgtMjUzMGY2OTVmOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear, Ted or his girlfriend, Lori.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>SDDS</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Mark Wahlberg</actor>
+			<role>John Bennett</role>
+		</credit>
+		<credit>
+			<actor>Mila Kunis</actor>
+			<role>Lori Collins</role>
+		</credit>
+		<credit>
+			<actor>Seth MacFarlane</actor>
+			<role>Ted</role>
+		</credit>
+		<credit>
+			<actor>Joel McHale</actor>
+			<role>Rex</role>
+		</credit>
+		<credit>
+			<actor>Giovanni Ribisi</actor>
+			<role>Donny</role>
+		</credit>
+		<credit>
+			<actor>Patrick Warburton</actor>
+			<role>Guy</role>
+		</credit>
+		<credit>
+			<actor>Matt Walsh</actor>
+			<role>Thomas</role>
+		</credit>
+		<credit>
+			<actor>Jessica Barth</actor>
+			<role>Tami-Lynn</role>
+		</credit>
+		<credit>
+			<actor>Aedin Mincks</actor>
+			<role>Robert</role>
+		</credit>
+		<credit>
+			<actor>Bill Smitrovich</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Patrick Stewart</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Norah Jones</actor>
+			<role>Norah Jones</role>
+		</credit>
+		<credit>
+			<actor>Sam J. Jones</actor>
+			<role>Sam Jones</role>
+		</credit>
+		<credit>
+			<actor>Tom Skerritt</actor>
+			<role>Tom Skerritt</role>
+		</credit>
+		<credit>
+			<actor>Bretton Manley</actor>
+			<role>Young John</role>
+		</credit>
+		<credit>
+			<actor>Ralph Garman</actor>
+			<role>John's Dad</role>
+		</credit>
+		<credit>
+			<actor>Alex Borstein</actor>
+			<role>John's Mom</role>
+		</credit>
+		<credit>
+			<actor>John Viener</actor>
+			<role>Alix</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">June 29 2012</releasedate>
+		<releasedate country="Serbia">June 29 2012</releasedate>
+		<releasedate country="United States">June 29 2012</releasedate>
+		<releasedate country="Australia">July 5 2012</releasedate>
+		<releasedate country="Taiwan">July 5 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Belgium">12</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">C</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">18</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="France">Accord parental</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Kuwait">(Banned)</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Malaysia">(Banned)</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Peru">18</certificate>
+		<certificate country="Philippines">R-18</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Romania">I.C.-14</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>teddy bear</keyword>
+		<keyword>animated character</keyword>
+		<keyword>gross out comedy</keyword>
+		<keyword>absurd comedy</keyword>
+		<keyword>buddy comedy</keyword>
+		<keyword>live action cgi hybrid</keyword>
+		<keyword>talking teddy bear</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>testicle</keyword>
+		<keyword>car accident</keyword>
+		<keyword>2010s</keyword>
+		<keyword>1980s</keyword>
+		<keyword>cartoon on tv</keyword>
+		<keyword>f word</keyword>
+		<keyword>year 2012</keyword>
+		<keyword>year 1985</keyword>
+		<keyword>one word title</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>talking plush toy</keyword>
+		<keyword>talking toy</keyword>
+		<keyword>toy</keyword>
+		<keyword>plush toy</keyword>
+		<keyword>talking to a plush toy</keyword>
+		<keyword>bear</keyword>
+		<keyword>immature man</keyword>
+		<keyword>immaturity</keyword>
+		<keyword>childish man</keyword>
+		<keyword>childish behavior</keyword>
+		<keyword>man child</keyword>
+		<keyword>undressing</keyword>
+		<keyword>undressing someone</keyword>
+		<keyword>taking off pants</keyword>
+		<keyword>taking off underwear</keyword>
+		<keyword>original story</keyword>
+		<keyword>reference to 'cheers' tv series</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>talking bear</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>reference to playstation 3</keyword>
+		<keyword>besteirol</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>sex comedy</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>satire</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>woman moans from pleasure</keyword>
+		<keyword>television</keyword>
+		<keyword>adult humor</keyword>
+		<keyword>high concept comedy</keyword>
+		<keyword>crude humor comedy</keyword>
+		<keyword>timeframe 1980s</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>female topless nudity</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>rain</keyword>
+		<keyword>theodore 'ted' clubberlang character</keyword>
+		<keyword>cult film</keyword>
+		<keyword>part of duology</keyword>
+		<keyword>poop</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>friend</keyword>
+		<keyword>friendship</keyword>
+		<keyword>christmas</keyword>
+		<keyword>boss</keyword>
+		<keyword>car</keyword>
+		<keyword>boy</keyword>
+		<keyword>party</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>comedic sex scene</keyword>
+		<keyword>humorous sex scene</keyword>
+		<keyword>moaning woman</keyword>
+		<keyword>moaning</keyword>
+		<keyword>first part</keyword>
+		<keyword>arrogance</keyword>
+		<keyword>kiss</keyword>
+		<keyword>kissing while having sex</keyword>
+		<keyword>long blonde hair</keyword>
+		<keyword>long brown hair</keyword>
+		<keyword>brunette</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>blonde</keyword>
+		<keyword>reference to family guy</keyword>
+		<keyword>football</keyword>
+		<keyword>reference to tom brady</keyword>
+		<keyword>reference to james bond</keyword>
+		<keyword>reference to twitter</keyword>
+		<keyword>reference to indiana jones</keyword>
+		<keyword>reference to star wars</keyword>
+		<keyword>stuffing</keyword>
+		<keyword>child swearing</keyword>
+		<keyword>reference to godzilla</keyword>
+		<keyword>hostage</keyword>
+		<keyword>alley</keyword>
+		<keyword>security guard</keyword>
+		<keyword>dressing room</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>art collector</keyword>
+		<keyword>painting</keyword>
+		<keyword>piano</keyword>
+		<keyword>ends with wedding</keyword>
+		<keyword>house party</keyword>
+		<keyword>deception</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>toy gun</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>party game</keyword>
+		<keyword>italian american</keyword>
+		<keyword>supermarket</keyword>
+		<keyword>cameo</keyword>
+		<keyword>job interview</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>bar</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>severed ear</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>car crash</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>fanatic</keyword>
+		<keyword>park</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>gay slur</keyword>
+		<keyword>photograph</keyword>
+		<keyword>flashback</keyword>
+		<keyword>montage</keyword>
+		<keyword>apartment</keyword>
+		<keyword>brawl</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>product placement</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>stabbed in the hand</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>marijuana joint</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>stadium</keyword>
+		<keyword>directed by co star</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>flatulence</keyword>
+		<keyword>excrement</keyword>
+		<keyword>fart joke</keyword>
+		<keyword>scatological humor</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>lightning</keyword>
+		<keyword>magic</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>snow</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>whip</keyword>
+		<keyword>whipping</keyword>
+		<keyword>rascal</keyword>
+		<keyword>spanking</keyword>
+		<keyword>scolding</keyword>
+		<keyword>ritual</keyword>
+		<keyword>beating</keyword>
+		<keyword>abuse</keyword>
+		<keyword>budweiser</keyword>
+		<keyword>multiple time frames</keyword>
+		<keyword>christmas tree</keyword>
+		<keyword>anti semitism</keyword>
+		<keyword>sexual harassment</keyword>
+		<keyword>lecherous boss</keyword>
+		<keyword>rocking horse</keyword>
+		<keyword>asian stereotype</keyword>
+		<keyword>fat boy</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>shooting star</keyword>
+		<keyword>thunder</keyword>
+		<keyword>reference to joan crawford</keyword>
+		<keyword>reference to susan boyle</keyword>
+		<keyword>hide and seek</keyword>
+		<keyword>reference to taylor lautner</keyword>
+		<keyword>knocking a hole in a wall</keyword>
+		<keyword>concert</keyword>
+		<keyword>reference to katy perry</keyword>
+		<keyword>rear nudity</keyword>
+		<keyword>fight</keyword>
+		<keyword>reference to james franco</keyword>
+		<keyword>duck</keyword>
+		<keyword>cocaine</keyword>
+		<keyword>karaoke</keyword>
+		<keyword>double date</keyword>
+		<keyword>reference to sinead o'connor</keyword>
+		<keyword>bong</keyword>
+		<keyword>anniversary</keyword>
+		<keyword>rental car agency</keyword>
+		<keyword>reference to channing tatum</keyword>
+		<keyword>reference to justin bieber</keyword>
+		<keyword>christmas present</keyword>
+		<keyword>reference to flash gordon</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>cosmic zoom</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>crude humor</keyword>
+		<keyword>drug humor</keyword>
+		<keyword>bromance</keyword>
+		<keyword>hdtv</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>fenway park</keyword>
+		<keyword>disco</keyword>
+		<keyword>dance</keyword>
+		<keyword>massachusetts</keyword>
+		<keyword>boston massachusetts</keyword>
+		<keyword>church</keyword>
+		<keyword>gay kiss</keyword>
+		<keyword>homophobia</keyword>
+		<keyword>singer</keyword>
+		<keyword>city</keyword>
+		<keyword>hotel</keyword>
+		<keyword>office</keyword>
+		<keyword>gay friend</keyword>
+		<keyword>market</keyword>
+		<keyword>wedding</keyword>
+		<keyword>marijuana</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>gay couple</keyword>
+		<keyword>homosexuality</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>gay</keyword>
+		<keyword>beer</keyword>
+		<keyword>reconciliation</keyword>
+		<keyword>car chase</keyword>
+		<keyword>baseball stadium</keyword>
+		<keyword>stalker</keyword>
+		<keyword>breakup</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>stalking</keyword>
+		<keyword>wild party</keyword>
+		<keyword>grocery store</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>toy comes to life</keyword>
+		<keyword>wishes come true</keyword>
+		<keyword>written by director</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>facebook</keyword>
+		<keyword>negative asian stereotype</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Seth MacFarlane</director>
+	</directors>
+	<composers>
+		<composer> Walter Murphy</composer>
+	</composers>
+	<producers>
+		<producer> Jason Clark</producer>
+		<producer> Eric Heffron</producer>
+		<producer> John Jacobs</producer>
+		<producer> Mark Kamine</producer>
+		<producer> Seth MacFarlane</producer>
+		<producer> Joseph J. Micucci</producer>
+		<producer> Jon Mone</producer>
+		<producer> Scott Stuber</producer>
+		<producer> John Wiseman</producer>
+	</producers>
+	<writers>
+		<writer> Seth MacFarlane</writer>
+		<writer> Alec Sulkin</writer>
+		<writer> Wellesley Wild</writer>
+		<writer> Seth MacFarlane</writer>
+	</writers>
+	<editors>
+		<editor> Jeff Freeman</editor>
+	</editors>
+</doc>

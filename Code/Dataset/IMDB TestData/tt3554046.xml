@@ -1,0 +1,776 @@
+<?xml version="1.0" ?>
+<doc id="tt3554046">
+	<docid>tt3554046</docid>
+	<title>Space Jam: A New Legacy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTNhNTI0YTMtZTgwMC00OTI2LThhOTAtOGEzOTEyM2MzZTgyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">115</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A rogue artificial intelligence kidnaps the son of famed basketball player LeBron James, who then has to work with Bugs Bunny to win a basketball game.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>LeBron James</actor>
+			<role>LeBron James</role>
+		</credit>
+		<credit>
+			<actor>Don Cheadle</actor>
+			<role>Al G. Rhythm</role>
+		</credit>
+		<credit>
+			<actor>Cedric Joe</actor>
+			<role>Dom James</role>
+		</credit>
+		<credit>
+			<actor>Khris Davis</actor>
+			<role>Malik</role>
+		</credit>
+		<credit>
+			<actor>Sonequa Martin-Green</actor>
+			<role>Kamiyah James</role>
+		</credit>
+		<credit>
+			<actor>Ceyair J Wright</actor>
+			<role>Darius James</role>
+		</credit>
+		<credit>
+			<actor>Harper Leigh Alexander</actor>
+			<role>Xosha James</role>
+		</credit>
+		<credit>
+			<actor>Xosha Roquemore</actor>
+			<role>Shanice James</role>
+		</credit>
+		<credit>
+			<actor>Stephen Kankole</actor>
+			<role>Young LeBron (13 years)</role>
+		</credit>
+		<credit>
+			<actor>Jalyn Hall</actor>
+			<role>Young Malik (13 years)</role>
+		</credit>
+		<credit>
+			<actor>Wood Harris</actor>
+			<role>Coach C</role>
+		</credit>
+		<credit>
+			<actor>Jordan Thomas</actor>
+			<role>Young Boy</role>
+		</credit>
+		<credit>
+			<actor>Sue Bird</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Anthony Davis</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Draymond Green</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Damian Lillard</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Klay Thompson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Nneka Ogwumike</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">July 12 2021</releasedate>
+		<releasedate country="Belgium">July 14 2021</releasedate>
+		<releasedate country="Iceland">July 14 2021</releasedate>
+		<releasedate country="Luxembourg">July 14 2021</releasedate>
+		<releasedate country="Netherlands">July 14 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Belgium">KT</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Egypt">E</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous Public</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Poland">6</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Saudi Arabia">PG</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">8</certificate>
+		<certificate country="Thailand">Not Rated</certificate>
+		<certificate country="Turkey">6A</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cartoon character</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>real person becomes animated</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>duck</keyword>
+		<keyword>monster</keyword>
+		<keyword>pig</keyword>
+		<keyword>mouse</keyword>
+		<keyword>cat</keyword>
+		<keyword>bird</keyword>
+		<keyword>evil computer</keyword>
+		<keyword>villain</keyword>
+		<keyword>basketball movie</keyword>
+		<keyword>sequel</keyword>
+		<keyword>basketball</keyword>
+		<keyword>second part</keyword>
+		<keyword>basketball player</keyword>
+		<keyword>nba player</keyword>
+		<keyword>sylvester the cat character</keyword>
+		<keyword>african american</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>crossover</keyword>
+		<keyword>hand drawn animation</keyword>
+		<keyword>traditional animation</keyword>
+		<keyword>virtual reality</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>live action cgi hybrid</keyword>
+		<keyword>live action animated hybrid</keyword>
+		<keyword>road runner character</keyword>
+		<keyword>porky pig character</keyword>
+		<keyword>yosemite sam character</keyword>
+		<keyword>elmer fudd character</keyword>
+		<keyword>wile e. coyote character</keyword>
+		<keyword>gossamer the tennis shoe monster character</keyword>
+		<keyword>actor playing himself</keyword>
+		<keyword>lebron james character</keyword>
+		<keyword>alternate world</keyword>
+		<keyword>food in title</keyword>
+		<keyword>reference to warner bros.</keyword>
+		<keyword>roadrunner</keyword>
+		<keyword>tasmanian devil</keyword>
+		<keyword>professional athlete</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>father son conflict</keyword>
+		<keyword>part animated</keyword>
+		<keyword>game</keyword>
+		<keyword>canary</keyword>
+		<keyword>rooster</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>combined animation and live action</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>sequel to cult favorite</keyword>
+		<keyword>cgi</keyword>
+		<keyword>virtual world</keyword>
+		<keyword>avatar</keyword>
+		<keyword>female basketball player</keyword>
+		<keyword>trapped in cyberspace</keyword>
+		<keyword>cyberspace</keyword>
+		<keyword>rapping</keyword>
+		<keyword>burbank california</keyword>
+		<keyword>multiple cameos</keyword>
+		<keyword>cartoon physics</keyword>
+		<keyword>hyperbolic physical distortion</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>superhero</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>video game world</keyword>
+		<keyword>rap song</keyword>
+		<keyword>product placement</keyword>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>flying saucer</keyword>
+		<keyword>cartoon world</keyword>
+		<keyword>crossover character</keyword>
+		<keyword>digital</keyword>
+		<keyword>digital world</keyword>
+		<keyword>cyber</keyword>
+		<keyword>spectator</keyword>
+		<keyword>entering a computer</keyword>
+		<keyword>basketball coach</keyword>
+		<keyword>whiteboard</keyword>
+		<keyword>sports announcer</keyword>
+		<keyword>fatherhood</keyword>
+		<keyword>freestyle rap</keyword>
+		<keyword>rap battle</keyword>
+		<keyword>abduction</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>trapped inside a video game</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>computer avatar</keyword>
+		<keyword>technology</keyword>
+		<keyword>basketball game</keyword>
+		<keyword>self referential</keyword>
+		<keyword>digitization</keyword>
+		<keyword>world</keyword>
+		<keyword>athlete</keyword>
+		<keyword>snake woman</keyword>
+		<keyword>part woman part snake</keyword>
+		<keyword>human bird hybrid</keyword>
+		<keyword>unibrow</keyword>
+		<keyword>human snake hybrid</keyword>
+		<keyword>human spider hybrid</keyword>
+		<keyword>universe</keyword>
+		<keyword>trapped in a computer</keyword>
+		<keyword>computer wiz</keyword>
+		<keyword>computer code</keyword>
+		<keyword>inside a computer</keyword>
+		<keyword>robot</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>cameo</keyword>
+		<keyword>family man</keyword>
+		<keyword>computer</keyword>
+		<keyword>hydrokinesis</keyword>
+		<keyword>pyrokinesis</keyword>
+		<keyword>zamboni</keyword>
+		<keyword>black american</keyword>
+		<keyword>evil man</keyword>
+		<keyword>playing basketball</keyword>
+		<keyword>2d animation</keyword>
+		<keyword>looney tunes</keyword>
+		<keyword>chicken</keyword>
+		<keyword>coyote</keyword>
+		<keyword>stadium</keyword>
+		<keyword>basketball ball</keyword>
+		<keyword>bugs bunny character</keyword>
+		<keyword>granny character</keyword>
+		<keyword>daffy duck character</keyword>
+		<keyword>foghorn leghorn character</keyword>
+		<keyword>lola bunny character</keyword>
+		<keyword>speedy gonzales character</keyword>
+		<keyword>tweety bird character</keyword>
+		<keyword>reference to lebron james</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>live action adaptation</keyword>
+		<keyword>cartoon reality crossover</keyword>
+		<keyword>cartoon canary</keyword>
+		<keyword>cartoon tasmanian devil</keyword>
+		<keyword>cartoon rooster</keyword>
+		<keyword>marvin the martian character</keyword>
+		<keyword>cartoon coyote</keyword>
+		<keyword>cartoon roadrunner</keyword>
+		<keyword>movie reality crossover</keyword>
+		<keyword>cartoon pig</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>stand alone sequel</keyword>
+		<keyword>martian</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>tournament</keyword>
+		<keyword>basketball tournament</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>post credits scene</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>animated character</keyword>
+		<keyword>reference to batman</keyword>
+		<keyword>reference to scooby doo</keyword>
+		<keyword>reference to superman</keyword>
+		<keyword>reference to the matrix</keyword>
+		<keyword>reference to wonder woman</keyword>
+		<keyword>year 1998</keyword>
+		<keyword>akron ohio</keyword>
+		<keyword>requel</keyword>
+		<keyword>reference to space jam</keyword>
+		<keyword>warner bros. studios</keyword>
+		<keyword>reference to the iron giant</keyword>
+		<keyword>reference to gremlins</keyword>
+		<keyword>reference to harry potter</keyword>
+		<keyword>animated australian character</keyword>
+		<keyword>animated mexican character</keyword>
+		<keyword>mexican</keyword>
+		<keyword>australian</keyword>
+		<keyword>learning the truth</keyword>
+		<keyword>playing a video game</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>reference to mad max</keyword>
+		<keyword>reference to austin powers</keyword>
+		<keyword>reference to casablanca</keyword>
+		<keyword>carrot</keyword>
+		<keyword>k 9 the looney tunes character</keyword>
+		<keyword>nasty canasta character</keyword>
+		<keyword>cartoon dog</keyword>
+		<keyword>dog</keyword>
+		<keyword>reference to king kong</keyword>
+		<keyword>reference to rick and morty</keyword>
+		<keyword>basketball team</keyword>
+		<keyword>reference to game of thrones</keyword>
+		<keyword>saloon</keyword>
+		<keyword>movie studio</keyword>
+		<keyword>five word title</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>computer server</keyword>
+		<keyword>video game designer</keyword>
+		<keyword>basketball star</keyword>
+		<keyword>reference to the cleveland cavaliers</keyword>
+		<keyword>reference to miami heat</keyword>
+		<keyword>reference to the los angeles lakers</keyword>
+		<keyword>reference to the nba</keyword>
+		<keyword>reference to the new york knicks</keyword>
+		<keyword>reference to steve jobs</keyword>
+		<keyword>synergy</keyword>
+		<keyword>water tower</keyword>
+		<keyword>reference to nike</keyword>
+		<keyword>intellectual property</keyword>
+		<keyword>corporation</keyword>
+		<keyword>reference to dc comics</keyword>
+		<keyword>reference to robin the boy wonder</keyword>
+		<keyword>algorithm</keyword>
+		<keyword>mobile app</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>superhero costume</keyword>
+		<keyword>train</keyword>
+		<keyword>runaway train</keyword>
+		<keyword>metropolis the city</keyword>
+		<keyword>reference to the justice league</keyword>
+		<keyword>amazon warrior</keyword>
+		<keyword>wonder woman character</keyword>
+		<keyword>superman character</keyword>
+		<keyword>aquaman character</keyword>
+		<keyword>king kong character</keyword>
+		<keyword>the iron giant character</keyword>
+		<keyword>yogi bear character</keyword>
+		<keyword>the great gazoo character</keyword>
+		<keyword>fred flintstone character</keyword>
+		<keyword>joker character</keyword>
+		<keyword>batman character</keyword>
+		<keyword>robin character</keyword>
+		<keyword>reference to mr. freeze</keyword>
+		<keyword>flying monkey</keyword>
+		<keyword>reference to tnt channel</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>deserted city</keyword>
+		<keyword>reference to sports illustrated</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>walker</keyword>
+		<keyword>dry erase board</keyword>
+		<keyword>marker</keyword>
+		<keyword>force field</keyword>
+		<keyword>klay thompson character</keyword>
+		<keyword>diana taurasi character</keyword>
+		<keyword>anthony davis character</keyword>
+		<keyword>reference to dr. evil</keyword>
+		<keyword>austin powers character</keyword>
+		<keyword>nneka ogwumike character</keyword>
+		<keyword>damian lillard character</keyword>
+		<keyword>power up</keyword>
+		<keyword>style</keyword>
+		<keyword>video game design</keyword>
+		<keyword>hourglass</keyword>
+		<keyword>reference to allen iverson</keyword>
+		<keyword>alien</keyword>
+		<keyword>michael b. jordan character</keyword>
+		<keyword>ernie johnson character</keyword>
+		<keyword>reference to michael jordan</keyword>
+		<keyword>mystery machine</keyword>
+		<keyword>reference to bobby knight</keyword>
+		<keyword>throwing a chair</keyword>
+		<keyword>actor</keyword>
+		<keyword>pep talk</keyword>
+		<keyword>switching sides</keyword>
+		<keyword>change of heart</keyword>
+		<keyword>basketball jersey</keyword>
+		<keyword>time manipulation</keyword>
+		<keyword>slowed down time</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>reference to the mask</keyword>
+		<keyword>penguin character</keyword>
+		<keyword>gremlin</keyword>
+		<keyword>reference to the wizard of oz</keyword>
+		<keyword>reference to a clockwork orange</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>captive</keyword>
+		<keyword>cheat code</keyword>
+		<keyword>cheating</keyword>
+		<keyword>scoreboard</keyword>
+		<keyword>mansion</keyword>
+		<keyword>superstar</keyword>
+		<keyword>self portrayal</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>likeness</keyword>
+		<keyword>sales pitch</keyword>
+		<keyword>sentient artificial intelligence</keyword>
+		<keyword>referee</keyword>
+		<keyword>change of plans</keyword>
+		<keyword>parenting</keyword>
+		<keyword>livestreaming</keyword>
+		<keyword>superman costume</keyword>
+		<keyword>batman costume</keyword>
+		<keyword>clark kent character</keyword>
+		<keyword>jimmy olsen character</keyword>
+		<keyword>batmobile</keyword>
+		<keyword>highlight reel</keyword>
+		<keyword>montage</keyword>
+		<keyword>single mother</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>prologue</keyword>
+		<keyword>hard work</keyword>
+		<keyword>championship</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>hit on the head with a basketball</keyword>
+		<keyword>elevator</keyword>
+		<keyword>it character</keyword>
+		<keyword>deserted</keyword>
+		<keyword>reference to kevin hart</keyword>
+		<keyword>countdown</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>blowing up a bridge</keyword>
+		<keyword>parachute</keyword>
+		<keyword>pumpkin</keyword>
+		<keyword>barber</keyword>
+		<keyword>bartender</keyword>
+		<keyword>cowboy outfit</keyword>
+		<keyword>carrot juice</keyword>
+		<keyword>planting a flag</keyword>
+		<keyword>anti gravity</keyword>
+		<keyword>reference to ray charles</keyword>
+		<keyword>ray gun</keyword>
+		<keyword>commandeering a vehicle</keyword>
+		<keyword>reference to the batmobile</keyword>
+		<keyword>video camera</keyword>
+		<keyword>bat signal</keyword>
+		<keyword>orphanage</keyword>
+		<keyword>fortress of solitude</keyword>
+		<keyword>daily planet</keyword>
+		<keyword>the flash character</keyword>
+		<keyword>batgirl character</keyword>
+		<keyword>green lantern character</keyword>
+		<keyword>john stewart character</keyword>
+		<keyword>mohawk</keyword>
+		<keyword>reference to twitter</keyword>
+		<keyword>sombrero</keyword>
+		<keyword>reference to the lone ranger</keyword>
+		<keyword>slam dunk</keyword>
+		<keyword>daredevil</keyword>
+		<keyword>security guard</keyword>
+		<keyword>comic book</keyword>
+		<keyword>themyscira</keyword>
+		<keyword>obstacle course</keyword>
+		<keyword>character customization</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>rocket ship</keyword>
+		<keyword>reference to hanna barbera</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>pistol</keyword>
+		<keyword>time dilation</keyword>
+		<keyword>explosion</keyword>
+		<keyword>sign</keyword>
+		<keyword>scooby doo character</keyword>
+		<keyword>catwoman character</keyword>
+		<keyword>general zod character</keyword>
+		<keyword>reference to lord of the rings</keyword>
+		<keyword>reference to the goonies</keyword>
+		<keyword>camera</keyword>
+		<keyword>top cat character</keyword>
+		<keyword>muttley character</keyword>
+		<keyword>magilla gorilla character</keyword>
+		<keyword>captain caveman character</keyword>
+		<keyword>reference to the flintstones</keyword>
+		<keyword>reference to the jetsons</keyword>
+		<keyword>reference to the thundercats</keyword>
+		<keyword>barbershop</keyword>
+		<keyword>beetlejuice character</keyword>
+		<keyword>mr. freeze character</keyword>
+		<keyword>gandalf character</keyword>
+		<keyword>jabberjaw the shark character</keyword>
+		<keyword>robin costume</keyword>
+		<keyword>reference to the animaniacs</keyword>
+		<keyword>photographer</keyword>
+		<keyword>dragon</keyword>
+		<keyword>truck</keyword>
+		<keyword>charlie dog character</keyword>
+		<keyword>rocky and mugsy characters</keyword>
+		<keyword>sam sheepdog character</keyword>
+		<keyword>witch hazel character</keyword>
+		<keyword>sword</keyword>
+		<keyword>shield</keyword>
+		<keyword>drawing comes to life</keyword>
+		<keyword>wnba player</keyword>
+		<keyword>ego</keyword>
+		<keyword>boo boo bear character</keyword>
+		<keyword>giant gorilla</keyword>
+		<keyword>giant robot</keyword>
+		<keyword>brake lever</keyword>
+		<keyword>riding a dragon</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>reference to captain james t. kirk</keyword>
+		<keyword>reference to a hufflepuff</keyword>
+		<keyword>batman's grapple gun</keyword>
+		<keyword>atlantis</keyword>
+		<keyword>getting the gang back together</keyword>
+		<keyword>getting the band back together</keyword>
+		<keyword>teammate</keyword>
+		<keyword>reference to neo from the matrix</keyword>
+		<keyword>team photograph</keyword>
+		<keyword>arena</keyword>
+		<keyword>trials</keyword>
+		<keyword>lava</keyword>
+		<keyword>lasso of truth</keyword>
+		<keyword>charity event</keyword>
+		<keyword>scan</keyword>
+		<keyword>reference to anthony davis</keyword>
+		<keyword>reference to diana taurasi</keyword>
+		<keyword>yarn</keyword>
+		<keyword>ball of yarn</keyword>
+		<keyword>rosie the robot maid character</keyword>
+		<keyword>white walker</keyword>
+		<keyword>wilma flintstone character</keyword>
+		<keyword>barney rubble character</keyword>
+		<keyword>betty rubble character</keyword>
+		<keyword>quidditch</keyword>
+		<keyword>fire breathing dragon</keyword>
+		<keyword>peter potamus character</keyword>
+		<keyword>hot air balloon</keyword>
+		<keyword>atom ant character</keyword>
+		<keyword>frankenstein jr. character</keyword>
+		<keyword>agent</keyword>
+		<keyword>crowd</keyword>
+		<keyword>dino the dinosaur character</keyword>
+		<keyword>pennywise character</keyword>
+		<keyword>flight attendant</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>space ghost character</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>spiderweb</keyword>
+		<keyword>clown</keyword>
+		<keyword>ejector seat</keyword>
+		<keyword>dinosaur</keyword>
+		<keyword>pirate costume</keyword>
+		<keyword>wicked witch of the west character</keyword>
+		<keyword>locker room</keyword>
+		<keyword>reference to university of north carolina</keyword>
+		<keyword>duplicate</keyword>
+		<keyword>senior citizen discount</keyword>
+		<keyword>reference to the aarp</keyword>
+		<keyword>upgrade</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>1 week later</keyword>
+		<keyword>a.i. self learning</keyword>
+		<keyword>egomaniac</keyword>
+		<keyword>red fur</keyword>
+		<keyword>learning algorithm</keyword>
+		<keyword>flying broomstick</keyword>
+		<keyword>horse</keyword>
+		<keyword>giant ape</keyword>
+		<keyword>martini</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>reference to beetlejuice</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>penelope pitstop character</keyword>
+		<keyword>nun</keyword>
+		<keyword>droogs</keyword>
+		<keyword>elemental</keyword>
+		<keyword>rapid aging</keyword>
+		<keyword>elroy jetson character</keyword>
+		<keyword>judy jetson character</keyword>
+		<keyword>astro the space mutt character</keyword>
+		<keyword>buzzer beater</keyword>
+		<keyword>all star</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>frodo baggins character</keyword>
+		<keyword>gollum character</keyword>
+		<keyword>robocop character</keyword>
+		<keyword>younger version of self</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>duct tape gag</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>hollywood california</keyword>
+		<keyword>witch</keyword>
+		<keyword>science fantasy</keyword>
+		<keyword>video game glitch</keyword>
+		<keyword>trapped in a game</keyword>
+		<keyword>part live action</keyword>
+		<keyword>shrinking ray</keyword>
+		<keyword>agent smith character</keyword>
+		<keyword>dick dastardly character</keyword>
+		<keyword>toto the dog character</keyword>
+		<keyword>dorothy gale character</keyword>
+		<keyword>hanna barbera</keyword>
+		<keyword>lord voldemort character</keyword>
+		<keyword>dynomutt character</keyword>
+		<keyword>the blue falcon character</keyword>
+		<keyword>reference to m.c. hammer</keyword>
+		<keyword>gotham city</keyword>
+		<keyword>birdseed</keyword>
+		<keyword>machine</keyword>
+		<keyword>dab</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>family comedy</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>live action animation</keyword>
+		<keyword>furry</keyword>
+		<keyword>fanservice</keyword>
+		<keyword>basketball sport</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>pet tarantula</keyword>
+		<keyword>holding a tarantula</keyword>
+		<keyword>rick sanchez character</keyword>
+		<keyword>morty smith character</keyword>
+		<keyword>taz the tasmanian devil character</keyword>
+		<keyword>tarantula</keyword>
+		<keyword>timeframe 1990s</keyword>
+		<keyword>bad acting</keyword>
+		<keyword>xbox series x</keyword>
+		<keyword>cadillac escalade</keyword>
+		<keyword>toyota prius the car</keyword>
+		<keyword>necktie</keyword>
+		<keyword>clipboard</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>year 2021</keyword>
+		<keyword>toyota</keyword>
+		<keyword>de lorean</keyword>
+		<keyword>de lorean dmc</keyword>
+		<keyword>cadillac automobile</keyword>
+		<keyword>nissan</keyword>
+		<keyword>nissan rogue</keyword>
+		<keyword>crying</keyword>
+		<keyword>nintendo</keyword>
+		<keyword>playing a game boy</keyword>
+		<keyword>the mask character</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>pirate hat</keyword>
+		<keyword>towel</keyword>
+		<keyword>eye patch</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>air jordan</keyword>
+		<keyword>daphne blake character</keyword>
+		<keyword>fred jones character</keyword>
+		<keyword>velma dinkley character</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>xbox one</keyword>
+		<keyword>airplane</keyword>
+		<keyword>jet</keyword>
+		<keyword>plane</keyword>
+		<keyword>norville shaggy rogers character</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>nba</keyword>
+		<keyword>cartoon chicken</keyword>
+		<keyword>cartoon mouse</keyword>
+		<keyword>cartoon bird</keyword>
+		<keyword>cartoon cat</keyword>
+		<keyword>cartoon duck</keyword>
+		<keyword>cartoon rabbit</keyword>
+		<keyword>nike</keyword>
+		<keyword>shoes</keyword>
+		<keyword>basketball court</keyword>
+		<keyword>basketball hoop</keyword>
+		<keyword>spalding</keyword>
+		<keyword>player</keyword>
+		<keyword>national basketball association</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>acme brand</keyword>
+		<keyword>game boy</keyword>
+		<keyword>hairless cat</keyword>
+		<keyword>glitch</keyword>
+		<keyword>fun</keyword>
+		<keyword>burrowing</keyword>
+		<keyword>microphone</keyword>
+		<keyword>pop culture</keyword>
+		<keyword>repeat sequel</keyword>
+		<keyword>member</keyword>
+	</keywords>
+	<directors>
+		<director> Malcolm D. Lee</director>
+	</directors>
+	<composers>
+		<composer> Kris Bowers</composer>
+	</composers>
+	<producers>
+		<producer> Allison Abbate</producer>
+		<producer> Leslie Barker</producer>
+		<producer> Spencer Beighley</producer>
+		<producer> Maverick Carter</producer>
+		<producer> Keenan Coogler</producer>
+		<producer> Ryan Coogler</producer>
+		<producer> Zinzi Coogler</producer>
+		<producer> Elmedina Dzafic</producer>
+		<producer> Jesse Ehrman</producer>
+		<producer> Isabelle Henault</producer>
+		<producer> Duncan Henderson</producer>
+		<producer> Jamal Henderson</producer>
+		<producer> Howard Huxham</producer>
+		<producer> LeBron James</producer>
+		<producer> Bernard Lajoie</producer>
+		<producer> Justin Lin</producer>
+		<producer> Harry Linden</producer>
+		<producer> Kimberly Nelson LoCascio</producer>
+		<producer> Maria Ximena Lozano</producer>
+		<producer> Ravi Mahapatro</producer>
+		<producer> Andrew Makarewicz</producer>
+		<producer> R.J. Mino</producer>
+		<producer> Terence Nance</producer>
+		<producer> Troy Nethercott</producer>
+		<producer> Sev Ohanian</producer>
+		<producer> Laura Montero Plata</producer>
+		<producer> Ivan Reitman</producer>
+		<producer> Kelley Robins</producer>
+	</producers>
+	<writers>
+		<writer> Leo Benvenuti</writer>
+		<writer> Steve Rudnick</writer>
+		<writer> Timothy Harris</writer>
+		<writer> Herschel Weingrod</writer>
+		<writer> Juel Taylor</writer>
+		<writer> Tony Rettenmaier</writer>
+		<writer> Keenan Coogler</writer>
+		<writer> Terence Nance</writer>
+		<writer> Juel Taylor</writer>
+		<writer> Tony Rettenmaier</writer>
+		<writer> Keenan Coogler</writer>
+		<writer> Terence Nance</writer>
+		<writer> Jesse Gordon</writer>
+		<writer> Celeste Ballard</writer>
+	</writers>
+	<editors>
+		<editor> Bob Ducsay</editor>
+	</editors>
+</doc>

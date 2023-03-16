@@ -1,0 +1,444 @@
+<?xml version="1.0" ?>
+<doc id="tt2381249">
+	<docid>tt2381249</docid>
+	<title>Mission: Impossible - Rogue Nation</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTQ1NDI2MzU2MF5BMl5BanBnXkFtZTgwNTExNTU5NDE@._V1_QL75_UX190_CR0,8,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">131</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Ethan and his team take on their most impossible mission yet when they have to eradicate an international rogue organization as highly skilled as they are and committed to destroying the IMF.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Cruise</actor>
+			<role>Ethan Hunt</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Ferguson</actor>
+			<role>Ilsa Faust</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Renner</actor>
+			<role>William Brandt</role>
+		</credit>
+		<credit>
+			<actor>Simon Pegg</actor>
+			<role>Benji Dunn</role>
+		</credit>
+		<credit>
+			<actor>Ving Rhames</actor>
+			<role>Luther Stickell</role>
+		</credit>
+		<credit>
+			<actor>Sean Harris</actor>
+			<role>Lane</role>
+		</credit>
+		<credit>
+			<actor>Simon McBurney</actor>
+			<role>Atlee</role>
+		</credit>
+		<credit>
+			<actor>Jingchu Zhang</actor>
+			<role>Lauren</role>
+		</credit>
+		<credit>
+			<actor>Tom Hollander</actor>
+			<role>Prime Minister</role>
+		</credit>
+		<credit>
+			<actor>Jens Hultén</actor>
+			<role>Janik Vinter</role>
+		</credit>
+		<credit>
+			<actor>Alec Baldwin</actor>
+			<role>Alan Hunley</role>
+		</credit>
+		<credit>
+			<actor>Mateo Rufino</actor>
+			<role>A400 Pilot</role>
+		</credit>
+		<credit>
+			<actor>Fernando Abadie</actor>
+			<role>A400 Pilot</role>
+		</credit>
+		<credit>
+			<actor>Alec Utgoff</actor>
+			<role>A400 Crewman</role>
+		</credit>
+		<credit>
+			<actor>Hermione Corfield</actor>
+			<role>Record Shop Girl</role>
+		</credit>
+		<credit>
+			<actor>Nigel Barber</actor>
+			<role>Chairman</role>
+		</credit>
+		<credit>
+			<actor>William Roberts</actor>
+			<role>Senator</role>
+		</credit>
+		<credit>
+			<actor>Patrick Poletti</actor>
+			<role>Senator</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Austria">July 23 2015</releasedate>
+		<releasedate country="United Kingdom">July 25 2015</releasedate>
+		<releasedate country="United States">July 27 2015</releasedate>
+		<releasedate country="Peru">July 28 2015</releasedate>
+		<releasedate country="Trinidad and Tobago">July 29 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">13+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>spy</keyword>
+		<keyword>rogue agent</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>mission</keyword>
+		<keyword>capture</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>body suit</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>jumping from a car</keyword>
+		<keyword>impostor</keyword>
+		<keyword>strapped to a bomb</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>exploding motorcycle</keyword>
+		<keyword>motorcycle chase</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>car crash</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>london england</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>auction</keyword>
+		<keyword>arms tied overhead</keyword>
+		<keyword>ethan hunt character</keyword>
+		<keyword>luther stickell character</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>man punches a woman</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>hanging by arms</keyword>
+		<keyword>minsk belarus</keyword>
+		<keyword>vx nerve gas</keyword>
+		<keyword>shot in the back of the head</keyword>
+		<keyword>car bomb</keyword>
+		<keyword>gun with silencer</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>tv news</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>end credits roll call</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>spy action</keyword>
+		<keyword>team action</keyword>
+		<keyword>holding breath underwater</keyword>
+		<keyword>holding one's breath underwater</keyword>
+		<keyword>climbing out of a swimming pool</keyword>
+		<keyword>pool scene</keyword>
+		<keyword>black bikini</keyword>
+		<keyword>bareback</keyword>
+		<keyword>side breast</keyword>
+		<keyword>changing clothes in public</keyword>
+		<keyword>woman changes clothes</keyword>
+		<keyword>wet clothes</keyword>
+		<keyword>airbus a400m atlas</keyword>
+		<keyword>chancellor</keyword>
+		<keyword>escape</keyword>
+		<keyword>sniper</keyword>
+		<keyword>opera</keyword>
+		<keyword>bomb</keyword>
+		<keyword>assassin</keyword>
+		<keyword>key</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>terror attack</keyword>
+		<keyword>motorcycle crash</keyword>
+		<keyword>car flip</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>faked death</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>one man army</keyword>
+		<keyword>action hero</keyword>
+		<keyword>based on tv series</keyword>
+		<keyword>revelation</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>judge</keyword>
+		<keyword>court</keyword>
+		<keyword>bag over head</keyword>
+		<keyword>hotel</keyword>
+		<keyword>rain</keyword>
+		<keyword>politician</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>car theft</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>sewer</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>suspense</keyword>
+		<keyword>body scan</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>taser</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>defibrillator</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>famous score</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>henchman</keyword>
+		<keyword>showdown</keyword>
+		<keyword>mistaken identity</keyword>
+		<keyword>long take</keyword>
+		<keyword>jumping into water</keyword>
+		<keyword>x rayed skeleton</keyword>
+		<keyword>hummer</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>lipstick</keyword>
+		<keyword>truth serum</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>car chase</keyword>
+		<keyword>face mask</keyword>
+		<keyword>security guard</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>double agent</keyword>
+		<keyword>limousine</keyword>
+		<keyword>hidden gun</keyword>
+		<keyword>chewing gum</keyword>
+		<keyword>british secret service</keyword>
+		<keyword>corrupt politician</keyword>
+		<keyword>corruption</keyword>
+		<keyword>cover up</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>money transfer</keyword>
+		<keyword>revenge</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>former spy</keyword>
+		<keyword>russian</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>torture</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>power plant</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>map</keyword>
+		<keyword>drawing</keyword>
+		<keyword>photograph</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>gadget</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>record store</keyword>
+		<keyword>vinyl</keyword>
+		<keyword>innocent person killed</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>parachute</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>race against time</keyword>
+		<keyword>espionage</keyword>
+		<keyword>train station</keyword>
+		<keyword>subway</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>double cross</keyword>
+		<keyword>paris france</keyword>
+		<keyword>piccadilly circus london</keyword>
+		<keyword>eiffel tower paris</keyword>
+		<keyword>motorcycle stunt</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>car motorcycle chase</keyword>
+		<keyword>ambush</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>lie detector</keyword>
+		<keyword>shootout</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>prime minister</keyword>
+		<keyword>rescue</keyword>
+		<keyword>drowning</keyword>
+		<keyword>disguise</keyword>
+		<keyword>subway station</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>assassination</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>impersonating a police officer</keyword>
+		<keyword>knife</keyword>
+		<keyword>on the run</keyword>
+		<keyword>briton abroad</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>sketch</keyword>
+		<keyword>flashback</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>vienna austria</keyword>
+		<keyword>casablanca morocco</keyword>
+		<keyword>punched in the stomach</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>silencer</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>cargo plane</keyword>
+		<keyword>murder</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>pistol</keyword>
+		<keyword>fifth part</keyword>
+		<keyword>sequel</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>langley virginia</keyword>
+	</keywords>
+	<directors>
+		<director> Christopher McQuarrie</director>
+	</directors>
+	<composers>
+		<composer> Joe Kraemer</composer>
+	</composers>
+	<producers>
+		<producer> J.J. Abrams</producer>
+		<producer> Zakaria Alaoui</producer>
+		<producer> Bryan Burk</producer>
+		<producer> Tom Cruise</producer>
+		<producer> David Ellison</producer>
+		<producer> Dana Goldberg</producer>
+		<producer> Don Granger</producer>
+		<producer> Thomas Hayslip</producer>
+		<producer> Helen Medrano</producer>
+		<producer> Jake Myers</producer>
+		<producer> Maricel Pagulayan</producer>
+		<producer> Daniel M. Stillman</producer>
+	</producers>
+	<writers>
+		<writer> Bruce Geller</writer>
+		<writer> Christopher McQuarrie</writer>
+		<writer> Drew Pearce</writer>
+		<writer> Christopher McQuarrie</writer>
+	</writers>
+	<editors>
+		<editor> Eddie Hamilton</editor>
+	</editors>
+</doc>

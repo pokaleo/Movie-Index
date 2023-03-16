@@ -1,0 +1,552 @@
+<?xml version="1.0" ?>
+<doc id="tt2120120">
+	<docid>tt2120120</docid>
+	<title>Pixels</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTIzNDYzMzgtZWMzNS00ODc2LTg2ZmMtOTE2MWZkNzIxMmQ0XkEyXkFqcGdeQXVyNjQ3MDg0MTY@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">105</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Adam Sandler</actor>
+			<role>Brenner</role>
+		</credit>
+		<credit>
+			<actor>Kevin James</actor>
+			<role>President Will Cooper</role>
+		</credit>
+		<credit>
+			<actor>Michelle Monaghan</actor>
+			<role>Violet</role>
+		</credit>
+		<credit>
+			<actor>Peter Dinklage</actor>
+			<role>Eddie</role>
+		</credit>
+		<credit>
+			<actor>Josh Gad</actor>
+			<role>Ludlow Lamonsoff</role>
+		</credit>
+		<credit>
+			<actor>Matt Lintz</actor>
+			<role>Matty Van Patten</role>
+		</credit>
+		<credit>
+			<actor>Brian Cox</actor>
+			<role>Admiral Porter</role>
+		</credit>
+		<credit>
+			<actor>Sean Bean</actor>
+			<role>Corporal Hill (SAS Officer)</role>
+		</credit>
+		<credit>
+			<actor>Jane Krakowski</actor>
+			<role>First Lady Jane Cooper</role>
+		</credit>
+		<credit>
+			<actor>Dan Aykroyd</actor>
+			<role>1982 Championship MC</role>
+		</credit>
+		<credit>
+			<actor>Affion Crockett</actor>
+			<role>Sergeant Dylan Cohan</role>
+		</credit>
+		<credit>
+			<actor>Lainie Kazan</actor>
+			<role>Mickey Lamonsoff</role>
+		</credit>
+		<credit>
+			<actor>Ashley Benson</actor>
+			<role>Lady Lisa</role>
+		</credit>
+		<credit>
+			<actor>Denis Akiyama</actor>
+			<role>Professor Iwatani</role>
+		</credit>
+		<credit>
+			<actor>Tom McCarthy</actor>
+			<role>Michael the Robot</role>
+		</credit>
+		<credit>
+			<actor>Tim Herlihy</actor>
+			<role>Defense Secretary</role>
+		</credit>
+		<credit>
+			<actor>Jackie Sandler</actor>
+			<role>President's Assistant Jennifer</role>
+		</credit>
+		<credit>
+			<actor>Jared Sandler</actor>
+			<role>White House Junior Aide Jared</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Brazil">April 17 2015</releasedate>
+		<releasedate country="South Korea">July 16 2015</releasedate>
+		<releasedate country="France">July 22 2015</releasedate>
+		<releasedate country="Jamaica">July 22 2015</releasedate>
+		<releasedate country="United Arab Emirates">July 23 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-7/4</certificate>
+		<certificate country="Finland">K-12/9</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K-8</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Mexico">12+</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>arcade game</keyword>
+		<keyword>alien</keyword>
+		<keyword>product placement</keyword>
+		<keyword>video gamer</keyword>
+		<keyword>patting a man's butt</keyword>
+		<keyword>driving in reverse</keyword>
+		<keyword>chase</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>scientist</keyword>
+		<keyword>tv installer</keyword>
+		<keyword>nerd</keyword>
+		<keyword>geek</keyword>
+		<keyword>inanimate object comes to life</keyword>
+		<keyword>alien contact</keyword>
+		<keyword>alien attack</keyword>
+		<keyword>tetris</keyword>
+		<keyword>playing a video game</keyword>
+		<keyword>based on short film</keyword>
+		<keyword>ronald reagan character</keyword>
+		<keyword>new york city</keyword>
+		<keyword>new york cityscape</keyword>
+		<keyword>night cityscape</keyword>
+		<keyword>new york police department</keyword>
+		<keyword>president</keyword>
+		<keyword>unidentified flying object</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>sony</keyword>
+		<keyword>sony bravia</keyword>
+		<keyword>atari</keyword>
+		<keyword>uhdtv</keyword>
+		<keyword>american</keyword>
+		<keyword>reference to the john f. kennedy assassination</keyword>
+		<keyword>riding a bicycle</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>washington monument washington d.c.</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>video game world</keyword>
+		<keyword>4k television</keyword>
+		<keyword>ultra high definition television</keyword>
+		<keyword>acura</keyword>
+		<keyword>acura rdx</keyword>
+		<keyword>audi</keyword>
+		<keyword>audi a4</keyword>
+		<keyword>bmw</keyword>
+		<keyword>bmw 3</keyword>
+		<keyword>cadillac automobile</keyword>
+		<keyword>cadillac cts</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>chevrolet aveo</keyword>
+		<keyword>chevrolet camaro</keyword>
+		<keyword>chevrolet corvette</keyword>
+		<keyword>chevrolet suburban</keyword>
+		<keyword>chrysler</keyword>
+		<keyword>1 year later</keyword>
+		<keyword>dodge avenger</keyword>
+		<keyword>dodge cavaran</keyword>
+		<keyword>dodge challenger</keyword>
+		<keyword>fiat</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>ford crown victoria</keyword>
+		<keyword>ford explorer</keyword>
+		<keyword>honda</keyword>
+		<keyword>hyundai</keyword>
+		<keyword>hyundai accent</keyword>
+		<keyword>hyundai tucson</keyword>
+		<keyword>jaguar the car</keyword>
+		<keyword>jeep</keyword>
+		<keyword>jeep liberty the car</keyword>
+		<keyword>lincoln motor company</keyword>
+		<keyword>lincoln town car</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>mercedes benz c klasse</keyword>
+		<keyword>mercedes benz s klasse</keyword>
+		<keyword>mitsubishi</keyword>
+		<keyword>nissan</keyword>
+		<keyword>nissan altima</keyword>
+		<keyword>pontiac grand prix</keyword>
+		<keyword>pontiac</keyword>
+		<keyword>toyota</keyword>
+		<keyword>kia</keyword>
+		<keyword>volkswagen</keyword>
+		<keyword>volvo car</keyword>
+		<keyword>toyota prius the car</keyword>
+		<keyword>toyota corolla</keyword>
+		<keyword>subaru</keyword>
+		<keyword>volkswagen jetta</keyword>
+		<keyword>man wears a tuxedo</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>woman cries in a closet</keyword>
+		<keyword>woman wears a green dress</keyword>
+		<keyword>woman wears a red dress</keyword>
+		<keyword>max headroom character</keyword>
+		<keyword>q bert character</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>columbia tristar</keyword>
+		<keyword>crossover</keyword>
+		<keyword>male president</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>chrysler building manhattan new york city</keyword>
+		<keyword>reflection in an eye</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>alien invasion sci fi</keyword>
+		<keyword>donkey kong character</keyword>
+		<keyword>pac man character</keyword>
+		<keyword>earth in jeopardy</keyword>
+		<keyword>humanity in jeopardy</keyword>
+		<keyword>microphone</keyword>
+		<keyword>playstation 4</keyword>
+		<keyword>singing</keyword>
+		<keyword>playing playstation 4</keyword>
+		<keyword>reference to wendy's where's the beef</keyword>
+		<keyword>character says where's the beef</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>bassinet</keyword>
+		<keyword>playstation 4 controller</keyword>
+		<keyword>fight</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>cgi</keyword>
+		<keyword>combined animation and live action</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>dysfunctional family</keyword>
+		<keyword>running</keyword>
+		<keyword>revenge</keyword>
+		<keyword>self referential</keyword>
+		<keyword>arcade</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>reference to scarlett johansson</keyword>
+		<keyword>reference to olivia newton john</keyword>
+		<keyword>reference to katy perry</keyword>
+		<keyword>interspecies relationship</keyword>
+		<keyword>tournament</keyword>
+		<keyword>challenge</keyword>
+		<keyword>fire</keyword>
+		<keyword>military</keyword>
+		<keyword>time capsule</keyword>
+		<keyword>attack</keyword>
+		<keyword>centipede</keyword>
+		<keyword>battle</keyword>
+		<keyword>nasa</keyword>
+		<keyword>hero</keyword>
+		<keyword>kicked in the head</keyword>
+		<keyword>sword held to neck</keyword>
+		<keyword>katana</keyword>
+		<keyword>smurf</keyword>
+		<keyword>kiss on both cheeks</keyword>
+		<keyword>falling off a trampoline</keyword>
+		<keyword>male virgin</keyword>
+		<keyword>reference to geppetto</keyword>
+		<keyword>reference to pinocchio</keyword>
+		<keyword>reference to martha stewart</keyword>
+		<keyword>reference to serena williams</keyword>
+		<keyword>men hugging</keyword>
+		<keyword>centipede video game</keyword>
+		<keyword>light cannon</keyword>
+		<keyword>flip book</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>ejected from a moving vehicle</keyword>
+		<keyword>walk in closet</keyword>
+		<keyword>anderson air force base</keyword>
+		<keyword>big screen television</keyword>
+		<keyword>lockheed martin boeing f 22 raptor</keyword>
+		<keyword>school visit</keyword>
+		<keyword>yigo guam</keyword>
+		<keyword>reading aloud</keyword>
+		<keyword>trophy</keyword>
+		<keyword>driving a car into the ocean</keyword>
+		<keyword>lemonade stand</keyword>
+		<keyword>money jar</keyword>
+		<keyword>smart car automobile</keyword>
+		<keyword>dodge the car</keyword>
+		<keyword>year 2015</keyword>
+		<keyword>nintendo</keyword>
+		<keyword>u.s. secret service</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>disaster</keyword>
+		<keyword>sergeant</keyword>
+		<keyword>showdown</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>crane</keyword>
+		<keyword>kiss</keyword>
+		<keyword>danger</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>revelation</keyword>
+		<keyword>pervert</keyword>
+		<keyword>dancing</keyword>
+		<keyword>escape</keyword>
+		<keyword>jumping from a car</keyword>
+		<keyword>thrown from a car</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>deception</keyword>
+		<keyword>ambush</keyword>
+		<keyword>survival</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>car stunt</keyword>
+		<keyword>helicopter accident</keyword>
+		<keyword>ex convict</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>transformation</keyword>
+		<keyword>pub</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>farce</keyword>
+		<keyword>prime minister</keyword>
+		<keyword>apartment</keyword>
+		<keyword>rampage</keyword>
+		<keyword>texting</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>flashback</keyword>
+		<keyword>hit with a hammer</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>police officer</keyword>
+		<keyword>hiding in a closet</keyword>
+		<keyword>single parent</keyword>
+		<keyword>single mother</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>stalking</keyword>
+		<keyword>chloroform</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>target practice</keyword>
+		<keyword>pistol</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>rescue</keyword>
+		<keyword>robot</keyword>
+		<keyword>android</keyword>
+		<keyword>babe scientist</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>press conference</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>news report</keyword>
+		<keyword>satellite</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>loser</keyword>
+		<keyword>subliminal message</keyword>
+		<keyword>cube</keyword>
+		<keyword>destruction</keyword>
+		<keyword>chaos</keyword>
+		<keyword>london england</keyword>
+		<keyword>india</keyword>
+		<keyword>party</keyword>
+		<keyword>new york city skyline</keyword>
+		<keyword>ballroom</keyword>
+		<keyword>satire</keyword>
+		<keyword>training</keyword>
+		<keyword>mission</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>race against time</keyword>
+		<keyword>release from prison</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>prison</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>sword</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>air force base</keyword>
+		<keyword>special forces</keyword>
+		<keyword>soldier</keyword>
+		<keyword>british army</keyword>
+		<keyword>navy sea air and land force</keyword>
+		<keyword>u.s. navy</keyword>
+		<keyword>u.s. air force</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>admiral</keyword>
+		<keyword>general</keyword>
+		<keyword>military base</keyword>
+		<keyword>lieutenant colonel</keyword>
+		<keyword>colonel</keyword>
+		<keyword>videotape</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>beer</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>protest</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>first lady</keyword>
+		<keyword>bar</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>friendship</keyword>
+		<keyword>montage</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>redemption</keyword>
+		<keyword>contest</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>cameo</keyword>
+		<keyword>japanese</keyword>
+		<keyword>inventor</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>small town</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>car</keyword>
+		<keyword>car accident</keyword>
+		<keyword>car crash</keyword>
+		<keyword>school bus</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>misunderstanding</keyword>
+		<keyword>alien race</keyword>
+		<keyword>prologue</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>disintegration</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>explosion</keyword>
+		<keyword>ray gun</keyword>
+		<keyword>alien abduction</keyword>
+		<keyword>alien invasion</keyword>
+		<keyword>cheater</keyword>
+		<keyword>female army officer</keyword>
+		<keyword>challenged to a fight</keyword>
+		<keyword>little person</keyword>
+		<keyword>dwarfism</keyword>
+		<keyword>short man</keyword>
+		<keyword>conspiracy theorist</keyword>
+		<keyword>hyde park london</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>taj mahal</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>chewbacca mask</keyword>
+		<keyword>video arcade</keyword>
+		<keyword>video game culture</keyword>
+		<keyword>one word title</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>1980s</keyword>
+		<keyword>high definition television</keyword>
+		<keyword>hdtv</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>celebrity cameo</keyword>
+		<keyword>reference to madonna</keyword>
+		<keyword>divorced woman</keyword>
+		<keyword>reference to star wars</keyword>
+		<keyword>year 1982</keyword>
+	</keywords>
+	<directors>
+		<director> Chris Columbus</director>
+	</directors>
+	<composers>
+		<composer> Henry Jackman</composer>
+	</composers>
+	<producers>
+		<producer> Johnny Alves</producer>
+		<producer> Michael Barnathan</producer>
+		<producer> Barry Bernardi</producer>
+		<producer> Matias Boucard</producer>
+		<producer> Chris Columbus</producer>
+		<producer> Allen Covert</producer>
+		<producer> Benjamin Darras</producer>
+		<producer> Jack Giarraputo</producer>
+		<producer> Seth Gordon</producer>
+		<producer> Kevin Grady</producer>
+		<producer> Tim Herlihy</producer>
+		<producer> Patrick Jean</producer>
+		<producer> Yuka Kato</producer>
+		<producer> Steve Koren</producer>
+		<producer> Lyn Lucibello</producer>
+		<producer> Heather Parry</producer>
+		<producer> Mark Radcliffe</producer>
+		<producer> Adam Sandler</producer>
+		<producer> Ben Waisbren</producer>
+	</producers>
+	<writers>
+		<writer> Tim Herlihy</writer>
+		<writer> Timothy Dowling</writer>
+		<writer> Tim Herlihy</writer>
+		<writer> Patrick Jean</writer>
+	</writers>
+	<editors>
+		<editor> Peck Prior</editor>
+		<editor> Hughes Winborne</editor>
+	</editors>
+</doc>

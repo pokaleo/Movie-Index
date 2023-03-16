@@ -1,0 +1,550 @@
+<?xml version="1.0" ?>
+<doc id="tt1211837">
+	<docid>tt1211837</docid>
+	<title>Doctor Strange</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">115</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Benedict Cumberbatch</actor>
+			<role>Dr. Stephen Strange</role>
+		</credit>
+		<credit>
+			<actor>Chiwetel Ejiofor</actor>
+			<role>Mordo</role>
+		</credit>
+		<credit>
+			<actor>Rachel McAdams</actor>
+			<role>Dr. Christine Palmer</role>
+		</credit>
+		<credit>
+			<actor>Benedict Wong</actor>
+			<role>Wong</role>
+		</credit>
+		<credit>
+			<actor>Mads Mikkelsen</actor>
+			<role>Kaecilius</role>
+		</credit>
+		<credit>
+			<actor>Tilda Swinton</actor>
+			<role>The Ancient One</role>
+		</credit>
+		<credit>
+			<actor>Michael Stuhlbarg</actor>
+			<role>Dr. Nicodemus West</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Bratt</actor>
+			<role>Jonathan Pangborn</role>
+		</credit>
+		<credit>
+			<actor>Scott Adkins</actor>
+			<role>Lucian</role>
+		</credit>
+		<credit>
+			<actor>Zara Phythian</actor>
+			<role>Brunette Zealot</role>
+		</credit>
+		<credit>
+			<actor>Alaa Safi</actor>
+			<role>Tall Zealot</role>
+		</credit>
+		<credit>
+			<actor>Katrina Durden</actor>
+			<role>Blonde Zealot</role>
+		</credit>
+		<credit>
+			<actor>Topo Wresniwiro</actor>
+			<role>Hamir</role>
+		</credit>
+		<credit>
+			<actor>Umit Ulgen</actor>
+			<role>Sol Rama</role>
+		</credit>
+		<credit>
+			<actor>Linda Louise Duan</actor>
+			<role>Tina Minoru</role>
+		</credit>
+		<credit>
+			<actor>Mark Anthony Brighton</actor>
+			<role>Daniel Drumm</role>
+		</credit>
+		<credit>
+			<actor>Meera Syal</actor>
+			<role>Dr. Patel</role>
+		</credit>
+		<credit>
+			<actor>Amy Landecker</actor>
+			<role>Dr. Bruner</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Hong Kong">October 13 2016</releasedate>
+		<releasedate country="China">October 16 2016</releasedate>
+		<releasedate country="United States">October 20 2016</releasedate>
+		<releasedate country="United Kingdom">October 24 2016</releasedate>
+		<releasedate country="United Kingdom">October 25 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">10</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>magic</keyword>
+		<keyword>wizard</keyword>
+		<keyword>time loop</keyword>
+		<keyword>neurosurgeon</keyword>
+		<keyword>doctor</keyword>
+		<keyword>sorcerer</keyword>
+		<keyword>alternate dimension</keyword>
+		<keyword>time reversal</keyword>
+		<keyword>kathmandu nepal</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>magician</keyword>
+		<keyword>inanimate object comes to life</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>superhero</keyword>
+		<keyword>mysticism</keyword>
+		<keyword>marvel cinematic universe</keyword>
+		<keyword>parallel dimension</keyword>
+		<keyword>marvel entertainment</keyword>
+		<keyword>car accident</keyword>
+		<keyword>new york city</keyword>
+		<keyword>x rayed skeleton</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>stan lee cameo</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>race against time</keyword>
+		<keyword>mansion</keyword>
+		<keyword>sequel mentioned during end credits</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>mount everest</keyword>
+		<keyword>mystic arts</keyword>
+		<keyword>cloak of levitation</keyword>
+		<keyword>dark dimension</keyword>
+		<keyword>enchanted cloak</keyword>
+		<keyword>doctor strange character</keyword>
+		<keyword>time manipulation</keyword>
+		<keyword>reality bending</keyword>
+		<keyword>baron mordo character</keyword>
+		<keyword>dormammu character</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>mystic</keyword>
+		<keyword>healing</keyword>
+		<keyword>surgeon</keyword>
+		<keyword>nepal</keyword>
+		<keyword>time</keyword>
+		<keyword>god</keyword>
+		<keyword>lovecraftian</keyword>
+		<keyword>broken wristwatch</keyword>
+		<keyword>dimensional portal</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>nerve damage</keyword>
+		<keyword>wristwatch collection</keyword>
+		<keyword>medical mistake</keyword>
+		<keyword>book of magic</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>astral projection</keyword>
+		<keyword>nurse</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>two man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>one against many</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>alley fight</keyword>
+		<keyword>levitation</keyword>
+		<keyword>mirror</keyword>
+		<keyword>broken hand</keyword>
+		<keyword>basketball</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>defibrillator</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>hospital</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>impalement</keyword>
+		<keyword>energy beam</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>dying repeatedly</keyword>
+		<keyword>master apprentice relationship</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>out of body experience</keyword>
+		<keyword>ghost</keyword>
+		<keyword>fighting in the air</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>parallel world</keyword>
+		<keyword>alternate world</keyword>
+		<keyword>space travel</keyword>
+		<keyword>evil god</keyword>
+		<keyword>darkness</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>evil sorcerer</keyword>
+		<keyword>spirituality</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>mentoring</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>psychedelic image</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>latex gloves</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>mentor student relationship</keyword>
+		<keyword>final battle</keyword>
+		<keyword>reference to google</keyword>
+		<keyword>sarcastic tone</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>hardcover book</keyword>
+		<keyword>long haired male</keyword>
+		<keyword>tablet computer</keyword>
+		<keyword>book</keyword>
+		<keyword>video call</keyword>
+		<keyword>male doctor</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>crowbar as weapon</keyword>
+		<keyword>enchanted object</keyword>
+		<keyword>medical doctor</keyword>
+		<keyword>touchscreen</keyword>
+		<keyword>reference to the avengers</keyword>
+		<keyword>sanctum</keyword>
+		<keyword>male medical doctor</keyword>
+		<keyword>physiotherapy</keyword>
+		<keyword>operating theatre</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>female medical doctor</keyword>
+		<keyword>male librarian</keyword>
+		<keyword>chest wound</keyword>
+		<keyword>one handed man</keyword>
+		<keyword>enchanted weapon</keyword>
+		<keyword>frozen in time</keyword>
+		<keyword>flying man</keyword>
+		<keyword>weapon</keyword>
+		<keyword>asgardian</keyword>
+		<keyword>foyer</keyword>
+		<keyword>sling ring</keyword>
+		<keyword>crowbar</keyword>
+		<keyword>disability</keyword>
+		<keyword>year 2017</keyword>
+		<keyword>year 2016</keyword>
+		<keyword>tearing a page from a book</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>car</keyword>
+		<keyword>thor the marvel comics character</keyword>
+		<keyword>infinity stone</keyword>
+		<keyword>sanctum sanctorum</keyword>
+		<keyword>gender changed from source material</keyword>
+		<keyword>ancient one character</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>bono</keyword>
+		<keyword>infinity saga</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>action girl</keyword>
+		<keyword>man wears a tuxedo</keyword>
+		<keyword>time travel</keyword>
+		<keyword>time traveler</keyword>
+		<keyword>time machine</keyword>
+		<keyword>male time traveler</keyword>
+		<keyword>an aesop</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>laughter</keyword>
+		<keyword>marvel</keyword>
+		<keyword>baldness</keyword>
+		<keyword>magical object</keyword>
+		<keyword>first part</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>artifact</keyword>
+		<keyword>spell</keyword>
+		<keyword>hong kong</keyword>
+		<keyword>demon</keyword>
+		<keyword>agustawestland aw139 helicopter</keyword>
+		<keyword>philosophy</keyword>
+		<keyword>upside down</keyword>
+		<keyword>sideways</keyword>
+		<keyword>new york cityscape</keyword>
+		<keyword>mirror dimension</keyword>
+		<keyword>apple core</keyword>
+		<keyword>relic</keyword>
+		<keyword>superhero origin</keyword>
+		<keyword>folding hand fan</keyword>
+		<keyword>wifi password</keyword>
+		<keyword>thrown out</keyword>
+		<keyword>suturing a wound</keyword>
+		<keyword>butterfly</keyword>
+		<keyword>tea with honey</keyword>
+		<keyword>prayer wheel</keyword>
+		<keyword>defibrillation</keyword>
+		<keyword>alligator forceps</keyword>
+		<keyword>removing a bullet</keyword>
+		<keyword>scrubbing for surgery</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>brain surgery</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>reference to adele</keyword>
+		<keyword>reference to bono</keyword>
+		<keyword>magical ring</keyword>
+		<keyword>miracle cure</keyword>
+		<keyword>severed spine</keyword>
+		<keyword>disembodiment</keyword>
+		<keyword>hand wound</keyword>
+		<keyword>reckless driving</keyword>
+		<keyword>secret organization</keyword>
+		<keyword>arrogant man</keyword>
+		<keyword>arrogance</keyword>
+		<keyword>occupation in title</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>surgery</keyword>
+		<keyword>paranormal phenomenon</keyword>
+		<keyword>abuse of power</keyword>
+		<keyword>shield</keyword>
+		<keyword>earth viewed from space</keyword>
+		<keyword>mentor</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>zealot</keyword>
+		<keyword>attack</keyword>
+		<keyword>transformation</keyword>
+		<keyword>power</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>temple</keyword>
+		<keyword>experimental surgery</keyword>
+		<keyword>old flame</keyword>
+		<keyword>evil man</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>traitor</keyword>
+		<keyword>sword</keyword>
+		<keyword>knife</keyword>
+		<keyword>librarian</keyword>
+		<keyword>flashback</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>montage</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>corpse</keyword>
+		<keyword>e mail</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>written by director</keyword>
+		<keyword>revelation</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>black magic</keyword>
+		<keyword>bo staff</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>bullet</keyword>
+		<keyword>cameo</keyword>
+		<keyword>bus</keyword>
+		<keyword>product placement</keyword>
+		<keyword>vending machine</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>beard</keyword>
+		<keyword>rain</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>operation</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>warrior</keyword>
+		<keyword>one man army</keyword>
+		<keyword>action hero</keyword>
+		<keyword>alley</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>ambush</keyword>
+		<keyword>cloak</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>love interest</keyword>
+		<keyword>lightning</keyword>
+		<keyword>desert</keyword>
+		<keyword>brass knuckles</keyword>
+		<keyword>ritual</keyword>
+		<keyword>portal</keyword>
+		<keyword>reference to eminem</keyword>
+		<keyword>reference to beyonce</keyword>
+		<keyword>guardian</keyword>
+		<keyword>disintegrating body</keyword>
+		<keyword>apartment</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>henchwoman</keyword>
+		<keyword>henchman</keyword>
+		<keyword>chase</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>severed head</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>energy</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>black eye</keyword>
+		<keyword>immortality</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>car falling off cliff</keyword>
+		<keyword>world domination</keyword>
+		<keyword>library</keyword>
+		<keyword>church</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>police car</keyword>
+		<keyword>fire</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>explosion</keyword>
+		<keyword>destruction</keyword>
+		<keyword>beating</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>brooklyn bridge</keyword>
+		<keyword>london england</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>mentor protege relationship</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fight</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>training</keyword>
+		<keyword>combat</keyword>
+		<keyword>cosmos</keyword>
+		<keyword>outer space</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>battle</keyword>
+		<keyword>new age</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>amulet</keyword>
+		<keyword>violence</keyword>
+		<keyword>two word title</keyword>
+		<keyword>ipod</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>snow</keyword>
+	</keywords>
+	<directors>
+		<director> Scott Derrickson</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Victoria Alonso</producer>
+		<producer> Stephen Broussard</producer>
+		<producer> Louis D'Esposito</producer>
+		<producer> Kevin Feige</producer>
+		<producer> David J. Grant</producer>
+		<producer> Stan Lee</producer>
+		<producer> Charles Newirth</producer>
+	</producers>
+	<writers>
+		<writer> Jon Spaihts</writer>
+		<writer> Scott Derrickson</writer>
+		<writer> C. Robert Cargill</writer>
+		<writer> Stan Lee</writer>
+		<writer> Steve Ditko</writer>
+	</writers>
+	<editors>
+		<editor> Sabrina Plisco</editor>
+		<editor> Wyatt Smith</editor>
+	</editors>
+</doc>

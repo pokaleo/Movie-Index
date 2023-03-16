@@ -1,0 +1,590 @@
+<?xml version="1.0" ?>
+<doc id="tt3794354">
+	<docid>tt3794354</docid>
+	<title>Sonic the Hedgehog</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDEyYmQyMTktZTZlYi00MjQ2LTk1OGQtMDRhNzNjMzgyOGQ3XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">99</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ben Schwartz</actor>
+			<role>Sonic</role>
+		</credit>
+		<credit>
+			<actor>James Marsden</actor>
+			<role>Tom</role>
+		</credit>
+		<credit>
+			<actor>Jim Carrey</actor>
+			<role>Dr. Robotnik</role>
+		</credit>
+		<credit>
+			<actor>Tika Sumpter</actor>
+			<role>Maddie</role>
+		</credit>
+		<credit>
+			<actor>Natasha Rothwell</actor>
+			<role>Rachel</role>
+		</credit>
+		<credit>
+			<actor>Adam Pally</actor>
+			<role>Wade</role>
+		</credit>
+		<credit>
+			<actor>Lee Majdoub</actor>
+			<role>Agent Stone</role>
+		</credit>
+		<credit>
+			<actor>Neal McDonough</actor>
+			<role>Major Bennington</role>
+		</credit>
+		<credit>
+			<actor>Tom Butler</actor>
+			<role>Vice Chairman Walters</role>
+		</credit>
+		<credit>
+			<actor>Frank C. Turner</actor>
+			<role>Crazy Carl</role>
+		</credit>
+		<credit>
+			<actor>Melody Nosipho Niemann</actor>
+			<role>Jojo</role>
+		</credit>
+		<credit>
+			<actor>Shannon Chan-Kent</actor>
+			<role>Roadhouse Waitress</role>
+		</credit>
+		<credit>
+			<actor>Brad Kelly</actor>
+			<role>Roadhouse Thug</role>
+		</credit>
+		<credit>
+			<actor>Elfina Luk</actor>
+			<role>Secretary of Homeland Security</role>
+		</credit>
+		<credit>
+			<actor>Garry Chalk</actor>
+			<role>Navy Chief of Staff</role>
+		</credit>
+		<credit>
+			<actor>Michael Hogan</actor>
+			<role>Air Force Chief of Staff</role>
+		</credit>
+		<credit>
+			<actor>Peter Bryant</actor>
+			<role>Army Chief of Staff</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Arnold</actor>
+			<role>Businessman</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 25 2020</releasedate>
+		<releasedate country="United Kingdom">January 30 2020</releasedate>
+		<releasedate country="Egypt">February 12 2020</releasedate>
+		<releasedate country="France">February 12 2020</releasedate>
+		<releasedate country="South Korea">February 12 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Egypt">PG</certificate>
+		<certificate country="Estonia">MS6</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K-8</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">0</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Saudi Arabia">PG</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">7-9PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="South Korea">7</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">8</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">6+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on video game</keyword>
+		<keyword>small town</keyword>
+		<keyword>hedgehog</keyword>
+		<keyword>drone</keyword>
+		<keyword>villain</keyword>
+		<keyword>alien</keyword>
+		<keyword>police</keyword>
+		<keyword>dart</keyword>
+		<keyword>live action cgi hybrid</keyword>
+		<keyword>highway</keyword>
+		<keyword>police car</keyword>
+		<keyword>bar fight</keyword>
+		<keyword>power ring</keyword>
+		<keyword>sonic the hedgehog character</keyword>
+		<keyword>speed</keyword>
+		<keyword>live action adaptation</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>road trip</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>hero</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>veterinarian</keyword>
+		<keyword>police officer</keyword>
+		<keyword>running</keyword>
+		<keyword>car</keyword>
+		<keyword>friend</keyword>
+		<keyword>violence</keyword>
+		<keyword>super speed</keyword>
+		<keyword>planet</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>gold rings</keyword>
+		<keyword>government</keyword>
+		<keyword>red sneakers</keyword>
+		<keyword>anthropomorphic hedgehog</keyword>
+		<keyword>car chase</keyword>
+		<keyword>portal</keyword>
+		<keyword>cave</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>baseball</keyword>
+		<keyword>sack</keyword>
+		<keyword>blue electricity</keyword>
+		<keyword>puma shoes</keyword>
+		<keyword>new sneakers</keyword>
+		<keyword>bomb</keyword>
+		<keyword>new shoes</keyword>
+		<keyword>interspecies friendship</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>treehouse</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>cgi animal in live action title</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>explosion</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>road</keyword>
+		<keyword>electricity</keyword>
+		<keyword>friendship</keyword>
+		<keyword>scientist</keyword>
+		<keyword>alien hero</keyword>
+		<keyword>desert</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>california</keyword>
+		<keyword>sunflower</keyword>
+		<keyword>transamerica pyramid</keyword>
+		<keyword>power outage</keyword>
+		<keyword>chase</keyword>
+		<keyword>echidna</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>superhero</keyword>
+		<keyword>white gloves</keyword>
+		<keyword>cgi</keyword>
+		<keyword>heroism</keyword>
+		<keyword>fight</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>talking hedgehog</keyword>
+		<keyword>sonic the hedgehog</keyword>
+		<keyword>animal hero</keyword>
+		<keyword>electricity generation</keyword>
+		<keyword>worn out shoes</keyword>
+		<keyword>alien animal</keyword>
+		<keyword>alien human friendship</keyword>
+		<keyword>human animal friendship</keyword>
+		<keyword>supersonic speed</keyword>
+		<keyword>escape from a planet</keyword>
+		<keyword>building</keyword>
+		<keyword>super sonic speed</keyword>
+		<keyword>animal superhero</keyword>
+		<keyword>cap</keyword>
+		<keyword>slippers</keyword>
+		<keyword>bar</keyword>
+		<keyword>risk</keyword>
+		<keyword>rocket</keyword>
+		<keyword>power cut</keyword>
+		<keyword>mushroom</keyword>
+		<keyword>military</keyword>
+		<keyword>evil man</keyword>
+		<keyword>evil genius</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>raccoon</keyword>
+		<keyword>attic</keyword>
+		<keyword>ball</keyword>
+		<keyword>disguise</keyword>
+		<keyword>socks</keyword>
+		<keyword>laser</keyword>
+		<keyword>sneakers</keyword>
+		<keyword>black woman</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>2020s</keyword>
+		<keyword>dr. ivo 'eggman' robotnik character</keyword>
+		<keyword>blackout</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>great wall of china</keyword>
+		<keyword>turtle</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>sheriff station</keyword>
+		<keyword>gym bag</keyword>
+		<keyword>quill</keyword>
+		<keyword>forest</keyword>
+		<keyword>hiding place</keyword>
+		<keyword>extraterrestrial hero</keyword>
+		<keyword>hiding in the forest</keyword>
+		<keyword>living in forest</keyword>
+		<keyword>running in the forest</keyword>
+		<keyword>anthropomorphic animal as protagonist</keyword>
+		<keyword>rubber band ball</keyword>
+		<keyword>cowboy outfit</keyword>
+		<keyword>paddle ball</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>cowboy hat</keyword>
+		<keyword>motel</keyword>
+		<keyword>mechanical bull</keyword>
+		<keyword>dancing</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>smelling salts</keyword>
+		<keyword>male bonding</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>male friendship</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>owl</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>superpower</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>hat</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>tribe</keyword>
+		<keyword>montana</keyword>
+		<keyword>missile</keyword>
+		<keyword>alien planet</keyword>
+		<keyword>prologue</keyword>
+		<keyword>major</keyword>
+		<keyword>on the run</keyword>
+		<keyword>roboticist</keyword>
+		<keyword>obsession</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>cake</keyword>
+		<keyword>dog cage</keyword>
+		<keyword>reference to donald duck</keyword>
+		<keyword>reference to daisy duck</keyword>
+		<keyword>trophy animal</keyword>
+		<keyword>reference to daffy duck</keyword>
+		<keyword>anthropomorphic fox</keyword>
+		<keyword>anthropomorphic owl</keyword>
+		<keyword>imitating a matador</keyword>
+		<keyword>duck</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>san francisco police department</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>scream</keyword>
+		<keyword>computer</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>truck</keyword>
+		<keyword>flashback</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>little girl</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>pyramid</keyword>
+		<keyword>narrated by character</keyword>
+		<keyword>african american</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>telephone booth</keyword>
+		<keyword>argument</keyword>
+		<keyword>unconsciousness</keyword>
+		<keyword>island</keyword>
+		<keyword>green eyes</keyword>
+		<keyword>bottle</keyword>
+		<keyword>long black hair</keyword>
+		<keyword>power</keyword>
+		<keyword>tv news</keyword>
+		<keyword>shoes</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>one against many</keyword>
+		<keyword>interracial couple</keyword>
+		<keyword>interracial love</keyword>
+		<keyword>bear trap</keyword>
+		<keyword>tire swing</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>reference to obi wan kenobi</keyword>
+		<keyword>niece</keyword>
+		<keyword>reference to charlotte's web</keyword>
+		<keyword>male female relationship</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>travel</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>news report</keyword>
+		<keyword>chainsaw</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>product placement</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>armored car</keyword>
+		<keyword>henchman</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>drawing</keyword>
+		<keyword>blue fur</keyword>
+		<keyword>hiding</keyword>
+		<keyword>spying</keyword>
+		<keyword>sega</keyword>
+		<keyword>time freeze</keyword>
+		<keyword>mustache</keyword>
+		<keyword>goggles</keyword>
+		<keyword>doughnut</keyword>
+		<keyword>line dancing</keyword>
+		<keyword>reference to vin diesel</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>nickname</keyword>
+		<keyword>gift card</keyword>
+		<keyword>time dilation</keyword>
+		<keyword>spiked hair</keyword>
+		<keyword>hero with spikey hair</keyword>
+		<keyword>sweatband</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>blue animal</keyword>
+		<keyword>troubled production</keyword>
+		<keyword>talking owl</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>year 2020</keyword>
+		<keyword>anthropomorphic echidna</keyword>
+		<keyword>paramount</keyword>
+		<keyword>cuff</keyword>
+		<keyword>brunette</keyword>
+		<keyword>drink thrown into someone's face</keyword>
+		<keyword>fox</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>black american</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>toyota motor vehicle</keyword>
+		<keyword>toyota tacoma</keyword>
+		<keyword>reference to rihanna</keyword>
+		<keyword>bag</keyword>
+		<keyword>new home</keyword>
+		<keyword>france</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>origin of villain</keyword>
+		<keyword>quip</keyword>
+		<keyword>meme</keyword>
+		<keyword>orphan</keyword>
+		<keyword>hero villain relationship</keyword>
+		<keyword>eiffel tower paris</keyword>
+		<keyword>first part</keyword>
+		<keyword>u.s. military</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>reference to dwayne 'the rock' johnson</keyword>
+		<keyword>road trip adventure</keyword>
+		<keyword>2010s</keyword>
+		<keyword>road movie</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>miles 'tails' prower character</keyword>
+		<keyword>big eyes</keyword>
+		<keyword>large eyes</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>bio electric</keyword>
+		<keyword>electric power</keyword>
+		<keyword>human alien friendship</keyword>
+		<keyword>road trip comedy</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>small town sheriff</keyword>
+		<keyword>speed trap</keyword>
+		<keyword>montage</keyword>
+		<keyword>energy surge</keyword>
+		<keyword>gold ring</keyword>
+		<keyword>energy pulse</keyword>
+		<keyword>government scientist</keyword>
+		<keyword>barroom brawl</keyword>
+		<keyword>pushed off a building</keyword>
+		<keyword>slow motion shot</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>uncle niece relationship</keyword>
+		<keyword>aunt niece relationship</keyword>
+		<keyword>father figure</keyword>
+		<keyword>super sonic</keyword>
+		<keyword>spiked fur</keyword>
+		<keyword>hedgehog quill</keyword>
+		<keyword>driving</keyword>
+		<keyword>man driving a car</keyword>
+		<keyword>quicksilver</keyword>
+		<keyword>olive garden</keyword>
+		<keyword>reference to star wars</keyword>
+		<keyword>girl</keyword>
+		<keyword>adoptive parent</keyword>
+		<keyword>animal protagonist</keyword>
+		<keyword>alien as protagonist</keyword>
+		<keyword>foster parent</keyword>
+		<keyword>honky tonk</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>batting helmet</keyword>
+		<keyword>audi</keyword>
+		<keyword>bmw</keyword>
+		<keyword>cadillac automobile</keyword>
+		<keyword>cadillac escalade</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>chrysler automobile</keyword>
+		<keyword>dodge the car</keyword>
+		<keyword>ford crown victoria</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>ford mustang</keyword>
+		<keyword>honda</keyword>
+		<keyword>honda accord</keyword>
+		<keyword>hyundai</keyword>
+		<keyword>jeep</keyword>
+		<keyword>jeep grand cherokee</keyword>
+		<keyword>mazda</keyword>
+		<keyword>nissan</keyword>
+		<keyword>subaru</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>toyota prius the car</keyword>
+		<keyword>volkswagen</keyword>
+		<keyword>volkswagen golf</keyword>
+		<keyword>volvo car</keyword>
+		<keyword>baseball glove</keyword>
+		<keyword>aviator sunglasses</keyword>
+		<keyword>baseball ball</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>longclaw character</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>one man army</keyword>
+		<keyword>robot</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>juvenile delinquent</keyword>
+		<keyword>furry</keyword>
+		<keyword>floss dance</keyword>
+		<keyword>egypt</keyword>
+		<keyword>farm</keyword>
+		<keyword>world travel</keyword>
+		<keyword>dog</keyword>
+		<keyword>nunchaku</keyword>
+		<keyword>washing machine</keyword>
+		<keyword>table tennis</keyword>
+		<keyword>golden retriever</keyword>
+		<keyword>towel</keyword>
+		<keyword>china</keyword>
+		<keyword>comic book</keyword>
+		<keyword>gum</keyword>
+		<keyword>fluffy</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>paris france</keyword>
+		<keyword>starfish</keyword>
+		<keyword>fish</keyword>
+		<keyword>seaweed</keyword>
+		<keyword>three word title</keyword>
+		<keyword>fish out of water</keyword>
+		<keyword>basketball arcade game</keyword>
+		<keyword>yoga</keyword>
+		<keyword>lonely alien</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>mime</keyword>
+		<keyword>shot with a tranquilizer dart</keyword>
+		<keyword>tranquilizer gun</keyword>
+		<keyword>flatulence</keyword>
+		<keyword>ping pong</keyword>
+		<keyword>high five</keyword>
+		<keyword>tyrannosaurus rex</keyword>
+		<keyword>bucket list</keyword>
+		<keyword>10 years later</keyword>
+		<keyword>toyota</keyword>
+	</keywords>
+	<directors>
+		<director> Jeff Fowler</director>
+	</directors>
+	<composers>
+		<composer> Tom Holkenborg</composer>
+	</composers>
+	<producers>
+		<producer> Toby Ascher</producer>
+		<producer> Allegra Clegg</producer>
+		<producer> Takeshi Ito</producer>
+		<producer> Dan Jevons</producer>
+		<producer> Dmitri M. Johnson</producer>
+		<producer> Masanao Maeda</producer>
+		<producer> Tim Miller</producer>
+		<producer> Nan Morales</producer>
+		<producer> Neal H. Moritz</producer>
+		<producer> Toru Nakahara</producer>
+		<producer> Mie Onishi</producer>
+		<producer> Karina Rahardja</producer>
+		<producer> Hajime Satomi</producer>
+		<producer> Haruki Satomi</producer>
+		<producer> Chuck Williams</producer>
+	</producers>
+	<writers>
+		<writer> Pat Casey</writer>
+		<writer> Josh Miller</writer>
+	</writers>
+	<editors>
+		<editor> Debra Neil-Fisher</editor>
+		<editor> Stacey Schroeder</editor>
+	</editors>
+</doc>

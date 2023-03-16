@@ -1,0 +1,367 @@
+<?xml version="1.0" ?>
+<doc id="tt1024648">
+	<docid>tt1024648</docid>
+	<title>Argo</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>SDDS</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ben Affleck</actor>
+			<role>Tony Mendez</role>
+		</credit>
+		<credit>
+			<actor>Bryan Cranston</actor>
+			<role>Jack O'Donnell</role>
+		</credit>
+		<credit>
+			<actor>John Goodman</actor>
+			<role>John Chambers</role>
+		</credit>
+		<credit>
+			<actor>Alan Arkin</actor>
+			<role>Lester Siegel</role>
+		</credit>
+		<credit>
+			<actor>Victor Garber</actor>
+			<role>Ken Taylor</role>
+		</credit>
+		<credit>
+			<actor>Tate Donovan</actor>
+			<role>Bob Anders</role>
+		</credit>
+		<credit>
+			<actor>Clea DuVall</actor>
+			<role>Cora Lijek</role>
+		</credit>
+		<credit>
+			<actor>Scoot McNairy</actor>
+			<role>Joe Stafford</role>
+		</credit>
+		<credit>
+			<actor>Rory Cochrane</actor>
+			<role>Lee Schatz</role>
+		</credit>
+		<credit>
+			<actor>Christopher Denham</actor>
+			<role>Mark Lijek</role>
+		</credit>
+		<credit>
+			<actor>Kerry Bishé</actor>
+			<role>Kathy Stafford</role>
+		</credit>
+		<credit>
+			<actor>Kyle Chandler</actor>
+			<role>Hamilton Jordan</role>
+		</credit>
+		<credit>
+			<actor>Chris Messina</actor>
+			<role>Malinov</role>
+		</credit>
+		<credit>
+			<actor>Zeljko Ivanek</actor>
+			<role>Robert Pender</role>
+		</credit>
+		<credit>
+			<actor>Titus Welliver</actor>
+			<role>Bates</role>
+		</credit>
+		<credit>
+			<actor>Keith Szarabajka</actor>
+			<role>Adam Engell</role>
+		</credit>
+		<credit>
+			<actor>Bob Gunton</actor>
+			<role>Cyrus Vance</role>
+		</credit>
+		<credit>
+			<actor>Richard Kind</actor>
+			<role>Max Klein</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 31 2012</releasedate>
+		<releasedate country="Canada">September 7 2012</releasedate>
+		<releasedate country="Spain">September 22 2012</releasedate>
+		<releasedate country="Switzerland">September 24 2012</releasedate>
+		<releasedate country="Brazil">September 26 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">D</certificate>
+		<certificate country="Iran">(Banned)</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">u 15+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>hostage</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>iran</keyword>
+		<keyword>u.s. embassy</keyword>
+		<keyword>escape</keyword>
+		<keyword>revolution</keyword>
+		<keyword>islamic revolution</keyword>
+		<keyword>exfiltration</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>cover story</keyword>
+		<keyword>narrow escape</keyword>
+		<keyword>protest</keyword>
+		<keyword>corpse hanging by the neck in public</keyword>
+		<keyword>hollywood sign</keyword>
+		<keyword>fake movie deal</keyword>
+		<keyword>paper shredder</keyword>
+		<keyword>year 1979</keyword>
+		<keyword>tehran iran</keyword>
+		<keyword>american propaganda</keyword>
+		<keyword>f word</keyword>
+		<keyword>iranian</keyword>
+		<keyword>canadian</keyword>
+		<keyword>ambassador</keyword>
+		<keyword>film crew</keyword>
+		<keyword>passport</keyword>
+		<keyword>government</keyword>
+		<keyword>swissair</keyword>
+		<keyword>perilous escape</keyword>
+		<keyword>location scout</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>islamic fundamentalism</keyword>
+		<keyword>fictional science fiction film</keyword>
+		<keyword>fake film director</keyword>
+		<keyword>film script</keyword>
+		<keyword>film industry</keyword>
+		<keyword>assumed identity</keyword>
+		<keyword>cover identity</keyword>
+		<keyword>ends with historical notes</keyword>
+		<keyword>intelligence star</keyword>
+		<keyword>airline ticket</keyword>
+		<keyword>car fire</keyword>
+		<keyword>driving through a crowd</keyword>
+		<keyword>visa</keyword>
+		<keyword>istanbul turkey</keyword>
+		<keyword>wedding ring</keyword>
+		<keyword>mock execution</keyword>
+		<keyword>script reading</keyword>
+		<keyword>movie script</keyword>
+		<keyword>reassembling a shredded document</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>climbing a fence</keyword>
+		<keyword>burning an american flag</keyword>
+		<keyword>reference to ayatollah kohmeni</keyword>
+		<keyword>archival photograph</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>1953 iranian coup d'etat</keyword>
+		<keyword>storyboard</keyword>
+		<keyword>finger gun</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>secret mission</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bazaar</keyword>
+		<keyword>film studio</keyword>
+		<keyword>tear gas</keyword>
+		<keyword>deception</keyword>
+		<keyword>bag over head</keyword>
+		<keyword>firing squad</keyword>
+		<keyword>hollywood california</keyword>
+		<keyword>movie poster</keyword>
+		<keyword>variety the newspaper</keyword>
+		<keyword>intelligence agent</keyword>
+		<keyword>american canadian relations</keyword>
+		<keyword>shredded document</keyword>
+		<keyword>hanged man</keyword>
+		<keyword>fake passport</keyword>
+		<keyword>prologue</keyword>
+		<keyword>riot</keyword>
+		<keyword>angry mob</keyword>
+		<keyword>news footage</keyword>
+		<keyword>hiding place under floor</keyword>
+		<keyword>hiding under floorboards</keyword>
+		<keyword>hiding place</keyword>
+		<keyword>child labor</keyword>
+		<keyword>movie set</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>iranian revolution</keyword>
+		<keyword>marketplace</keyword>
+		<keyword>year 1980</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>iran hostage crisis</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>diplomat</keyword>
+		<keyword>extraction</keyword>
+		<keyword>false identity</keyword>
+		<keyword>airport</keyword>
+		<keyword>film within a film</keyword>
+		<keyword>444 days</keyword>
+		<keyword>soviet invasion of afghanistan</keyword>
+		<keyword>reference to mohammad reza shah pahlavi</keyword>
+		<keyword>minotaur character</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>reference to muhammad</keyword>
+		<keyword>reference to karl marx</keyword>
+		<keyword>retro version of studio logo</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>state terrorism</keyword>
+		<keyword>radical islam</keyword>
+		<keyword>fundamentalism</keyword>
+		<keyword>totalitarianism</keyword>
+		<keyword>theocracy</keyword>
+		<keyword>massacre</keyword>
+		<keyword>dictatorship</keyword>
+		<keyword>fascism</keyword>
+		<keyword>right wing extremist</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>based on magazine article</keyword>
+		<keyword>historical drama</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>timeframe 1970s</keyword>
+		<keyword>camera</keyword>
+		<keyword>canadian embassy</keyword>
+		<keyword>volkswagen bus</keyword>
+		<keyword>shredding a document</keyword>
+		<keyword>burning a document</keyword>
+		<keyword>day 87</keyword>
+		<keyword>champagne</keyword>
+		<keyword>air traffic control</keyword>
+		<keyword>audio begins before video</keyword>
+		<keyword>canadian flag lapel pin</keyword>
+		<keyword>british airways</keyword>
+		<keyword>awakened by a telephone call</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>boeing 747</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>break in</keyword>
+		<keyword>bolt cutter</keyword>
+		<keyword>savak</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>film producer</keyword>
+		<keyword>blindfolded</keyword>
+		<keyword>execution</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>burbank california</keyword>
+		<keyword>langley virginia</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>crane</keyword>
+		<keyword>film set</keyword>
+		<keyword>animated prologue</keyword>
+		<keyword>sweatshop</keyword>
+		<keyword>incinerator</keyword>
+		<keyword>airplane</keyword>
+		<keyword>press conference</keyword>
+		<keyword>directed by star</keyword>
+		<keyword>name in title</keyword>
+		<keyword>turkey the country</keyword>
+		<keyword>canadian accent</keyword>
+		<keyword>year 2001</keyword>
+		<keyword>year 1981</keyword>
+		<keyword>parrot</keyword>
+		<keyword>teletype</keyword>
+		<keyword>kentucky fried chicken</keyword>
+		<keyword>traffic jam</keyword>
+		<keyword>reference bani sadr</keyword>
+		<keyword>revisionist history</keyword>
+		<keyword>reference to led zeppelin</keyword>
+		<keyword>title appears in text</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>reference to warren beatty</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>one word title</keyword>
+		<keyword>actor shares first name with character</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Ben Affleck</director>
+	</directors>
+	<composers>
+		<composer> Alexandre Desplat</composer>
+	</composers>
+	<producers>
+		<producer> Ben Affleck</producer>
+		<producer> Chris Brigham</producer>
+		<producer> Chay Carter</producer>
+		<producer> George Clooney</producer>
+		<producer> Tim Headington</producer>
+		<producer> Amy Herman</producer>
+		<producer> Grant Heslov</producer>
+		<producer> Graham King</producer>
+		<producer> David Klawans</producer>
+		<producer> Alex Sutherland</producer>
+		<producer> Nina Wolarsky</producer>
+	</producers>
+	<writers>
+		<writer> Chris Terrio</writer>
+		<writer> Tony Mendez</writer>
+		<writer> Joshuah Bearman</writer>
+	</writers>
+	<editors>
+		<editor> William Goldenberg</editor>
+	</editors>
+</doc>

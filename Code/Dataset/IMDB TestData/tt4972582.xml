@@ -1,0 +1,519 @@
+<?xml version="1.0" ?>
+<doc id="tt4972582">
+	<docid>tt4972582</docid>
+	<title>Split</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>IX 2016</year>
+	<runningtimes>
+		<runningtime country="default">117</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>James McAvoy</actor>
+			<role>Dennis</role>
+		</credit>
+		<credit>
+			<actor>Anya Taylor-Joy</actor>
+			<role>Casey Cooke</role>
+		</credit>
+		<credit>
+			<actor>Haley Lu Richardson</actor>
+			<role>Claire Benoit</role>
+		</credit>
+		<credit>
+			<actor>Jessica Sula</actor>
+			<role>Marcia</role>
+		</credit>
+		<credit>
+			<actor>Betty Buckley</actor>
+			<role>Dr. Karen Fletcher</role>
+		</credit>
+		<credit>
+			<actor>Izzie Coffey</actor>
+			<role>Five-Year-Old Casey</role>
+		</credit>
+		<credit>
+			<actor>Brad William Henke</actor>
+			<role>Uncle John</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Arcelus</actor>
+			<role>Casey's Father</role>
+		</credit>
+		<credit>
+			<actor>Neal Huff</actor>
+			<role>Mr. Benoit</role>
+		</credit>
+		<credit>
+			<actor>Ukee Washington</actor>
+			<role>News Anchor</role>
+		</credit>
+		<credit>
+			<actor>Ann Wood</actor>
+			<role>Game Show Enthusiast</role>
+		</credit>
+		<credit>
+			<actor>Robert Michael Kelly</actor>
+			<role>Joe</role>
+		</credit>
+		<credit>
+			<actor>M. Night Shyamalan</actor>
+			<role>Jai</role>
+		</credit>
+		<credit>
+			<actor>Rosemary Howard</actor>
+			<role>Kevin's Mother</role>
+		</credit>
+		<credit>
+			<actor>Jerome Gallman</actor>
+			<role>Vince, Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Lyne Renée</actor>
+			<role>Academic Moderator</role>
+		</credit>
+		<credit>
+			<actor>Kate Jacoby</actor>
+			<role>Dr. Fletcher's Patient</role>
+		</credit>
+		<credit>
+			<actor>Peter Patrikios</actor>
+			<role>Taxi Driver</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 26 2016</releasedate>
+		<releasedate country="United States">November 15 2016</releasedate>
+		<releasedate country="France">January 9 2017</releasedate>
+		<releasedate country="Philippines">January 18 2017</releasedate>
+		<releasedate country="Cyprus">January 19 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Nigeria">PG</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>multiple personality disorder</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>dissociative identity disorder</keyword>
+		<keyword>split personality</keyword>
+		<keyword>abduction</keyword>
+		<keyword>survival</keyword>
+		<keyword>captive</keyword>
+		<keyword>obsessive compulsive disorder</keyword>
+		<keyword>obsessive compulsive</keyword>
+		<keyword>talk therapy</keyword>
+		<keyword>escape</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>cannibalism</keyword>
+		<keyword>written by director</keyword>
+		<keyword>super villain</keyword>
+		<keyword>female removes her clothes</keyword>
+		<keyword>called by full name</keyword>
+		<keyword>sexual perversion</keyword>
+		<keyword>forced to strip</keyword>
+		<keyword>sexual predator</keyword>
+		<keyword>video surveillance</keyword>
+		<keyword>psychotherapy</keyword>
+		<keyword>disturbed person</keyword>
+		<keyword>basement</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>locked in a cage</keyword>
+		<keyword>voyeurism</keyword>
+		<keyword>transformation</keyword>
+		<keyword>orphan</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>doctor</keyword>
+		<keyword>flesh eating</keyword>
+		<keyword>child abuse</keyword>
+		<keyword>human monster</keyword>
+		<keyword>violence</keyword>
+		<keyword>death of father</keyword>
+		<keyword>pedophile</keyword>
+		<keyword>child rapist</keyword>
+		<keyword>molestation</keyword>
+		<keyword>child kidnapping</keyword>
+		<keyword>train</keyword>
+		<keyword>under the bed</keyword>
+		<keyword>hunting</keyword>
+		<keyword>child molester</keyword>
+		<keyword>female victim</keyword>
+		<keyword>monster</keyword>
+		<keyword>one word title</keyword>
+		<keyword>sequel</keyword>
+		<keyword>dust mask</keyword>
+		<keyword>knockout gas</keyword>
+		<keyword>captivity</keyword>
+		<keyword>fashion sketch</keyword>
+		<keyword>tear on cheek</keyword>
+		<keyword>whispering in ear</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>hiding</keyword>
+		<keyword>hyperventilating</keyword>
+		<keyword>cordless drill</keyword>
+		<keyword>brushing someone's hair</keyword>
+		<keyword>attempted escape</keyword>
+		<keyword>crawling through an air shaft</keyword>
+		<keyword>solitary confinement</keyword>
+		<keyword>rat on a treadmill</keyword>
+		<keyword>superhuman</keyword>
+		<keyword>slide bolt lock</keyword>
+		<keyword>broken rib</keyword>
+		<keyword>constriction</keyword>
+		<keyword>hiding in a locker</keyword>
+		<keyword>loading a gun</keyword>
+		<keyword>leg wound</keyword>
+		<keyword>clothes ripping</keyword>
+		<keyword>breaking a lightbulb</keyword>
+		<keyword>scarred</keyword>
+		<keyword>recurring character</keyword>
+		<keyword>dead body</keyword>
+		<keyword>death of teenage girl</keyword>
+		<keyword>death threat</keyword>
+		<keyword>final girl</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>non comic book superhero</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>child abduction</keyword>
+		<keyword>psychological</keyword>
+		<keyword>man dresses as a woman</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>miniskirt</keyword>
+		<keyword>violence against a woman</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>self injury</keyword>
+		<keyword>pantyhose</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>girl</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>rape of a child</keyword>
+		<keyword>implied rape</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>psychological horror</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>superhero horror</keyword>
+		<keyword>sinister</keyword>
+		<keyword>birthday party</keyword>
+		<keyword>teenager</keyword>
+		<keyword>therapist</keyword>
+		<keyword>body count</keyword>
+		<keyword>animal</keyword>
+		<keyword>dead teenager</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>dread</keyword>
+		<keyword>macabre</keyword>
+		<keyword>chloroform</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>pump action shotgun</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>rifle</keyword>
+		<keyword>training</keyword>
+		<keyword>river</keyword>
+		<keyword>high school student</keyword>
+		<keyword>security guard</keyword>
+		<keyword>human sacrifice</keyword>
+		<keyword>missing person</keyword>
+		<keyword>revelation</keyword>
+		<keyword>journal</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>cage</keyword>
+		<keyword>human in a cage</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>wrist cutting</keyword>
+		<keyword>philadelphia pennsylvania</keyword>
+		<keyword>cameo</keyword>
+		<keyword>crawlspace</keyword>
+		<keyword>crawling</keyword>
+		<keyword>bookshelf</keyword>
+		<keyword>injection</keyword>
+		<keyword>climbing up a wall</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>necklace</keyword>
+		<keyword>psychiatric patient</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>fade to black</keyword>
+		<keyword>capture</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>coat hanger</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>fear</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>superhuman speed</keyword>
+		<keyword>power outage</keyword>
+		<keyword>rampage</keyword>
+		<keyword>stalker</keyword>
+		<keyword>voyeur</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>e mail</keyword>
+		<keyword>apartment</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>guardian</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>flowers</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>brutality</keyword>
+		<keyword>flower shop</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>lisp</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>dancing</keyword>
+		<keyword>knife</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>power drill</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>locker</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>zookeeper</keyword>
+		<keyword>hit with a chair</keyword>
+		<keyword>suspense</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>hunter</keyword>
+		<keyword>loner</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>shopping mall</keyword>
+		<keyword>camping</keyword>
+		<keyword>tent</keyword>
+		<keyword>funeral</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>uncle niece relationship</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>pepper spray</keyword>
+		<keyword>car theft</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police dog</keyword>
+		<keyword>dog</keyword>
+		<keyword>tiger</keyword>
+		<keyword>video diary</keyword>
+		<keyword>computer</keyword>
+		<keyword>scar</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>taxi driver</keyword>
+		<keyword>taxi</keyword>
+		<keyword>skype</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>air vent</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>locked in a room</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>rescue</keyword>
+		<keyword>hostage</keyword>
+		<keyword>news report</keyword>
+		<keyword>diner</keyword>
+		<keyword>2010s</keyword>
+		<keyword>corpse</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>drawing</keyword>
+		<keyword>bloody leg</keyword>
+		<keyword>bloody mouth</keyword>
+		<keyword>villain escapes</keyword>
+		<keyword>mental breakdown</keyword>
+		<keyword>abusive mother</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>security camera</keyword>
+		<keyword>director cameo</keyword>
+		<keyword>videoconferencing</keyword>
+		<keyword>flashback</keyword>
+		<keyword>part of trilogy</keyword>
+		<keyword>sole survivor</keyword>
+		<keyword>blood</keyword>
+		<keyword>mental illness</keyword>
+		<keyword>stalking</keyword>
+		<keyword>maniac</keyword>
+		<keyword>bad guy</keyword>
+		<keyword>villain</keyword>
+		<keyword>disturbed childhood</keyword>
+		<keyword>victim</keyword>
+		<keyword>dark past</keyword>
+		<keyword>rage</keyword>
+		<keyword>psycho thriller</keyword>
+		<keyword>insanity</keyword>
+		<keyword>eating human flesh</keyword>
+		<keyword>cannibal</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>psycho killer</keyword>
+		<keyword>homicidal maniac</keyword>
+		<keyword>villain as protagonist</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>rapist</keyword>
+		<keyword>child molestation</keyword>
+		<keyword>walking in a crouched position</keyword>
+		<keyword>deer hunting</keyword>
+		<keyword>chicken wings</keyword>
+		<keyword>reference to henry v</keyword>
+		<keyword>male dancer</keyword>
+		<keyword>climbing a wall</keyword>
+		<keyword>reference to muhammad</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>beast</keyword>
+		<keyword>party</keyword>
+		<keyword>birthday</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>world domination</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>evil man</keyword>
+		<keyword>pearl necklace</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>chase</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>deer</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>schizophrenic</keyword>
+		<keyword>schizophrenia</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>friendship</keyword>
+		<keyword>police car</keyword>
+		<keyword>drawings</keyword>
+		<keyword>gauze</keyword>
+		<keyword>stereo</keyword>
+		<keyword>boom box</keyword>
+		<keyword>african american</keyword>
+		<keyword>train station</keyword>
+		<keyword>open ended</keyword>
+		<keyword>zoo</keyword>
+		<keyword>painting</keyword>
+		<keyword>art museum</keyword>
+		<keyword>museum</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>video conferencing</keyword>
+		<keyword>old woman</keyword>
+		<keyword>superbeing</keyword>
+		<keyword>superhero</keyword>
+		<keyword>second part</keyword>
+		<keyword>psycho</keyword>
+		<keyword>psychopathic killer</keyword>
+		<keyword>gore</keyword>
+		<keyword>pedophilia</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>psycho terror</keyword>
+		<keyword>weirdo</keyword>
+		<keyword>anthropophagus</keyword>
+		<keyword>terror</keyword>
+		<keyword>creep</keyword>
+		<keyword>american horror</keyword>
+	</keywords>
+	<directors>
+		<director> M. Night Shyamalan</director>
+	</directors>
+	<composers>
+		<composer> West Dylan Thordson</composer>
+	</composers>
+	<producers>
+		<producer> Marc Bienstock</producer>
+		<producer> Jason Blum</producer>
+		<producer> Dom Catanzarite</producer>
+		<producer> Kevin Scott Frakes</producer>
+		<producer> Buddy Patrick</producer>
+		<producer> Ashwin Rajan</producer>
+		<producer> Steven Schneider</producer>
+		<producer> M. Night Shyamalan</producer>
+	</producers>
+	<writers>
+		<writer> M. Night Shyamalan</writer>
+	</writers>
+	<editors>
+		<editor> Luke Ciarrocchi</editor>
+	</editors>
+</doc>

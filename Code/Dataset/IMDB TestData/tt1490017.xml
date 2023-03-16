@@ -1,0 +1,450 @@
+<?xml version="1.0" ?>
+<doc id="tt1490017">
+	<docid>tt1490017</docid>
+	<title>The Lego Movie</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>An ordinary LEGO construction worker, thought to be the prophesied as &quot;special&quot;, is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Chris Pratt</actor>
+			<role>Emmet Brickowski</role>
+		</credit>
+		<credit>
+			<actor>Will Ferrell</actor>
+			<role>Lord Business</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Banks</actor>
+			<role>Wyldstyle</role>
+		</credit>
+		<credit>
+			<actor>Will Arnett</actor>
+			<role>Batman</role>
+		</credit>
+		<credit>
+			<actor>Craig Berry</actor>
+			<role>Blake</role>
+		</credit>
+		<credit>
+			<actor>Alison Brie</actor>
+			<role>Unikitty</role>
+		</credit>
+		<credit>
+			<actor>David Burrows</actor>
+			<role>Octan Robot</role>
+		</credit>
+		<credit>
+			<actor>Anthony Daniels</actor>
+			<role>C-3PO</role>
+		</credit>
+		<credit>
+			<actor>Charlie Day</actor>
+			<role>Benny</role>
+		</credit>
+		<credit>
+			<actor>Amanda Farinos</actor>
+			<role>Mom</role>
+		</credit>
+		<credit>
+			<actor>Keith Ferguson</actor>
+			<role>Han Solo</role>
+		</credit>
+		<credit>
+			<actor>Will Forte</actor>
+			<role>Abraham Lincoln</role>
+		</credit>
+		<credit>
+			<actor>Dave Franco</actor>
+			<role>Wally</role>
+		</credit>
+		<credit>
+			<actor>Morgan Freeman</actor>
+			<role>Vitruvius</role>
+		</credit>
+		<credit>
+			<actor>Todd Hansen</actor>
+			<role>Gandalf</role>
+		</credit>
+		<credit>
+			<actor>Jonah Hill</actor>
+			<role>Green Lantern</role>
+		</credit>
+		<credit>
+			<actor>Jake Johnson</actor>
+			<role>Barry</role>
+		</credit>
+		<credit>
+			<actor>Keegan-Michael Key</actor>
+			<role>Foreman Jim</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Denmark">February 1 2014</releasedate>
+		<releasedate country="United States">February 1 2014</releasedate>
+		<releasedate country="United Arab Emirates">February 6 2014</releasedate>
+		<releasedate country="Argentina">February 6 2014</releasedate>
+		<releasedate country="Bolivia">February 6 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="Hungary">KN</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Mexico">AA</certificate>
+		<certificate country="Mongolia">PG</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Nigeria">G</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/4</certificate>
+		<certificate country="Puerto Rico">PG</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Saudi Arabia">G</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">G</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>lego</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>good cop bad cop</keyword>
+		<keyword>based on toy</keyword>
+		<keyword>crossover</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>musical number</keyword>
+		<keyword>batman character</keyword>
+		<keyword>bruce wayne character</keyword>
+		<keyword>wyldstyle character</keyword>
+		<keyword>unikitty character</keyword>
+		<keyword>construction worker</keyword>
+		<keyword>unicorn</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>movie in title</keyword>
+		<keyword>lego brick</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>pirate</keyword>
+		<keyword>saloon</keyword>
+		<keyword>parallel worlds</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>dual personality</keyword>
+		<keyword>evil businessman</keyword>
+		<keyword>part live action</keyword>
+		<keyword>brick movie</keyword>
+		<keyword>wizard</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>action hero</keyword>
+		<keyword>live action sequence</keyword>
+		<keyword>xeroxing one's butt</keyword>
+		<keyword>old west</keyword>
+		<keyword>imagination</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>city</keyword>
+		<keyword>submarine</keyword>
+		<keyword>cloud</keyword>
+		<keyword>blindness</keyword>
+		<keyword>construction site</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>disguise</keyword>
+		<keyword>computer room</keyword>
+		<keyword>closing credits sequence</keyword>
+		<keyword>building</keyword>
+		<keyword>instruction</keyword>
+		<keyword>theme song</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>businessman</keyword>
+		<keyword>resistance</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>office building</keyword>
+		<keyword>dragon</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>cat</keyword>
+		<keyword>superhero</keyword>
+		<keyword>blind man</keyword>
+		<keyword>dissociative identity disorder</keyword>
+		<keyword>cgi film</keyword>
+		<keyword>horse on fire</keyword>
+		<keyword>mentoring</keyword>
+		<keyword>solar eclipse</keyword>
+		<keyword>gandalf character</keyword>
+		<keyword>green lantern character</keyword>
+		<keyword>lando calrissian character</keyword>
+		<keyword>superman character</keyword>
+		<keyword>wonder woman character</keyword>
+		<keyword>shower</keyword>
+		<keyword>castle</keyword>
+		<keyword>explosion</keyword>
+		<keyword>duplo</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>liar revealed</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>no ending</keyword>
+		<keyword>police officer</keyword>
+		<keyword>turtle</keyword>
+		<keyword>alternate universe</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>action girl</keyword>
+		<keyword>everyman</keyword>
+		<keyword>open ended</keyword>
+		<keyword>vision</keyword>
+		<keyword>alien</keyword>
+		<keyword>caped superhero</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>male supervillain</keyword>
+		<keyword>male superhero</keyword>
+		<keyword>male hero</keyword>
+		<keyword>male villain</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>first part</keyword>
+		<keyword>change of heart</keyword>
+		<keyword>villain turns good</keyword>
+		<keyword>split personality</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>satire</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>furry</keyword>
+		<keyword>the color yellow</keyword>
+		<keyword>shrekcore</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>robin hood character</keyword>
+		<keyword>cleopatra character</keyword>
+		<keyword>train</keyword>
+		<keyword>villain</keyword>
+		<keyword>western town</keyword>
+		<keyword>captured</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>fire</keyword>
+		<keyword>incarceration</keyword>
+		<keyword>collection</keyword>
+		<keyword>poster</keyword>
+		<keyword>horse</keyword>
+		<keyword>friend</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>television</keyword>
+		<keyword>portal</keyword>
+		<keyword>escape</keyword>
+		<keyword>bunk couch</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>flying car</keyword>
+		<keyword>police car</keyword>
+		<keyword>magical realism</keyword>
+		<keyword>heroism</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>albus dumbledore character</keyword>
+		<keyword>clown</keyword>
+		<keyword>headquarters</keyword>
+		<keyword>written by director</keyword>
+		<keyword>princess</keyword>
+		<keyword>basement</keyword>
+		<keyword>capture</keyword>
+		<keyword>laser</keyword>
+		<keyword>magician</keyword>
+		<keyword>prologue</keyword>
+		<keyword>trestle</keyword>
+		<keyword>hero</keyword>
+		<keyword>heroine</keyword>
+		<keyword>piano</keyword>
+		<keyword>singing</keyword>
+		<keyword>sun</keyword>
+		<keyword>giant worm</keyword>
+		<keyword>surfer</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>mentor</keyword>
+		<keyword>apartment</keyword>
+		<keyword>president</keyword>
+		<keyword>michelangelo buonarroti character</keyword>
+		<keyword>ninja</keyword>
+		<keyword>taco tuesday</keyword>
+		<keyword>flashback</keyword>
+		<keyword>emmet mattonowski character</keyword>
+		<keyword>epic</keyword>
+		<keyword>lucy the lego character</keyword>
+		<keyword>the lego movie</keyword>
+		<keyword>ambush</keyword>
+		<keyword>wanted</keyword>
+		<keyword>destruction</keyword>
+		<keyword>self referential</keyword>
+		<keyword>journey</keyword>
+		<keyword>lego world</keyword>
+		<keyword>lego set</keyword>
+		<keyword>lego kit</keyword>
+		<keyword>alternate world</keyword>
+		<keyword>fantasy world</keyword>
+		<keyword>lego model</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>live action animation</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>masked superhero</keyword>
+		<keyword>evil</keyword>
+		<keyword>milhouse van houten character</keyword>
+		<keyword>michelangelo the teenage mutant ninja turtles character</keyword>
+		<keyword>reference to ipod shuffle</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>parody comedy</keyword>
+		<keyword>prophecy</keyword>
+		<keyword>animate toy</keyword>
+		<keyword>evil overlord</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>the simpsons</keyword>
+		<keyword>nba</keyword>
+		<keyword>spoof</keyword>
+		<keyword>abraham lincoln character</keyword>
+		<keyword>c 3po character</keyword>
+		<keyword>han solo character</keyword>
+		<keyword>william shakespeare character</keyword>
+		<keyword>first of series</keyword>
+		<keyword>two directors</keyword>
+		<keyword>millennium falcon</keyword>
+		<keyword>crocodile</keyword>
+		<keyword>ocean</keyword>
+		<keyword>photocopier</keyword>
+		<keyword>pajamas</keyword>
+		<keyword>batmobile</keyword>
+		<keyword>invisible jet</keyword>
+		<keyword>falling into a hole</keyword>
+		<keyword>cat lady</keyword>
+		<keyword>rainbow</keyword>
+		<keyword>mermaid</keyword>
+		<keyword>australian fantasy</keyword>
+		<keyword>three word title</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>battle</keyword>
+		<keyword>police shootout</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>conformity</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>hobby</keyword>
+		<keyword>ghost</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>pirate ship</keyword>
+		<keyword>couch</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>teenage mutant ninja turtles</keyword>
+		<keyword>robot</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>pig</keyword>
+		<keyword>cowboy</keyword>
+		<keyword>chase</keyword>
+		<keyword>police</keyword>
+		<keyword>coffee</keyword>
+		<keyword>glue</keyword>
+	</keywords>
+	<directors>
+		<director> Phil Lord</director>
+		<director> Christopher Miller</director>
+	</directors>
+	<composers>
+		<composer> Mark Mothersbaugh</composer>
+	</composers>
+	<producers>
+		<producer> Allison Abbate</producer>
+		<producer> Will Allegra</producer>
+		<producer> Matthew Ashton</producer>
+		<producer> Bruce Berman</producer>
+		<producer> Jon Burton</producer>
+		<producer> Kathleen Fleming</producer>
+		<producer> Roy Lee</producer>
+		<producer> Dan Lin</producer>
+		<producer> Benjamin Melniker</producer>
+		<producer> John Powers Middleton</producer>
+		<producer> Steven Mnuchin</producer>
+		<producer> Amber Naismith</producer>
+		<producer> Zareh Nalbandian</producer>
+		<producer> James Packer</producer>
+		<producer> Matt Skiena</producer>
+		<producer> Michael E. Uslan</producer>
+		<producer> Jill Wilfert</producer>
+		<producer> Seanne Winslow</producer>
+	</producers>
+	<writers>
+		<writer> Phil Lord</writer>
+		<writer> Christopher Miller</writer>
+		<writer> Dan Hageman</writer>
+		<writer> Kevin Hageman</writer>
+		<writer> Phil Lord</writer>
+		<writer> Christopher Miller</writer>
+		<writer> Ole Kirk Christiansen</writer>
+		<writer> Godtfred Kirk Christiansen</writer>
+		<writer> Jens Nygaard Knudsen</writer>
+	</writers>
+	<editors>
+		<editor> David Burrows</editor>
+		<editor> Chris McKay</editor>
+	</editors>
+</doc>

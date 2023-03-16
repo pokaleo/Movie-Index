@@ -1,0 +1,632 @@
+<?xml version="1.0" ?>
+<doc id="tt2660888">
+	<docid>tt2660888</docid>
+	<title>Star Trek Beyond</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWM3NTkyZWUtNjhlOS00ZGUzLWIwNWUtNmI4MDRiZmE0ZTRlXkEyXkFqcGdeQXVyNzMxMzYyOTI@._V1_QL75_UX190_CR0,3,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">122</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>The crew of the USS Enterprise explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy, who puts them, and everything the Federation stands for, to the test.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Chris Pine</actor>
+			<role>Captain James T. Kirk</role>
+		</credit>
+		<credit>
+			<actor>Zachary Quinto</actor>
+			<role>Commander Spock</role>
+		</credit>
+		<credit>
+			<actor>Karl Urban</actor>
+			<role>Doctor 'Bones' McCoy</role>
+		</credit>
+		<credit>
+			<actor>Zoe Saldana</actor>
+			<role>Lieutenant Uhura</role>
+		</credit>
+		<credit>
+			<actor>Simon Pegg</actor>
+			<role>Montgomery 'Scotty' Scott</role>
+		</credit>
+		<credit>
+			<actor>John Cho</actor>
+			<role>Sulu</role>
+		</credit>
+		<credit>
+			<actor>Anton Yelchin</actor>
+			<role>Chekov</role>
+		</credit>
+		<credit>
+			<actor>Idris Elba</actor>
+			<role>Krall</role>
+		</credit>
+		<credit>
+			<actor>Sofia Boutella</actor>
+			<role>Jaylah</role>
+		</credit>
+		<credit>
+			<actor>Joe Taslim</actor>
+			<role>Manas</role>
+		</credit>
+		<credit>
+			<actor>Lydia Wilson</actor>
+			<role>Kalara</role>
+		</credit>
+		<credit>
+			<actor>Deep Roy</actor>
+			<role>Keenser</role>
+		</credit>
+		<credit>
+			<actor>Melissa Roxburgh</actor>
+			<role>Ensign Syl</role>
+		</credit>
+		<credit>
+			<actor>Anita Brown</actor>
+			<role>Tyvanna</role>
+		</credit>
+		<credit>
+			<actor>Doug Jung</actor>
+			<role>Ben</role>
+		</credit>
+		<credit>
+			<actor>Danny Pudi</actor>
+			<role>Fi'Ja</role>
+		</credit>
+		<credit>
+			<actor>Kim Kold</actor>
+			<role>Zavanko</role>
+		</credit>
+		<credit>
+			<actor>Fraser Aitcheson</actor>
+			<role>Hider</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Indonesia">July 20 2016</releasedate>
+		<releasedate country="Iceland">July 20 2016</releasedate>
+		<releasedate country="Philippines">July 20 2016</releasedate>
+		<releasedate country="Sweden">July 20 2016</releasedate>
+		<releasedate country="Thailand">July 20 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">b.o.</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Africa">7-9</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C13</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>star trek</keyword>
+		<keyword>third part</keyword>
+		<keyword>alien</keyword>
+		<keyword>stranded</keyword>
+		<keyword>sequel</keyword>
+		<keyword>hatred</keyword>
+		<keyword>humanoid alien</keyword>
+		<keyword>human disguised as an alien</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>brandy</keyword>
+		<keyword>promotion</keyword>
+		<keyword>survivor</keyword>
+		<keyword>ancient astronaut</keyword>
+		<keyword>space navy</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>artifact</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>space battle</keyword>
+		<keyword>escape pod</keyword>
+		<keyword>alien planet</keyword>
+		<keyword>alien language</keyword>
+		<keyword>gay character</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>based on tv series</keyword>
+		<keyword>thirteenth part</keyword>
+		<keyword>space opera</keyword>
+		<keyword>asteroid belt</keyword>
+		<keyword>23rd century</keyword>
+		<keyword>mission</keyword>
+		<keyword>planet</keyword>
+		<keyword>warrior</keyword>
+		<keyword>admiral</keyword>
+		<keyword>danger</keyword>
+		<keyword>rescue</keyword>
+		<keyword>fight</keyword>
+		<keyword>attack</keyword>
+		<keyword>outnumbered</keyword>
+		<keyword>surprise attack</keyword>
+		<keyword>rap song</keyword>
+		<keyword>three word title</keyword>
+		<keyword>spaceship captain</keyword>
+		<keyword>scotsman</keyword>
+		<keyword>revenge plot</keyword>
+		<keyword>ex commander</keyword>
+		<keyword>commander's revenge</keyword>
+		<keyword>revenge motive</keyword>
+		<keyword>attempted revenge</keyword>
+		<keyword>space captain</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>revenge beating</keyword>
+		<keyword>vow of revenge</keyword>
+		<keyword>revenge seeker</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>false name</keyword>
+		<keyword>disguise</keyword>
+		<keyword>secret revealed</keyword>
+		<keyword>true identity revealed</keyword>
+		<keyword>ends with a dedication</keyword>
+		<keyword>black eye</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>futuristic city</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>tricorder</keyword>
+		<keyword>armory</keyword>
+		<keyword>coffee</keyword>
+		<keyword>floating in space</keyword>
+		<keyword>portal</keyword>
+		<keyword>corpse</keyword>
+		<keyword>search</keyword>
+		<keyword>swarm</keyword>
+		<keyword>alien civilization</keyword>
+		<keyword>immortality</keyword>
+		<keyword>scavenger</keyword>
+		<keyword>alien race</keyword>
+		<keyword>communications</keyword>
+		<keyword>fragments of glass</keyword>
+		<keyword>destruction</keyword>
+		<keyword>commander</keyword>
+		<keyword>lieutenant</keyword>
+		<keyword>vulcan</keyword>
+		<keyword>warp speed</keyword>
+		<keyword>nebula</keyword>
+		<keyword>courage</keyword>
+		<keyword>bravery</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>panic</keyword>
+		<keyword>hope</keyword>
+		<keyword>fear</keyword>
+		<keyword>shakespearean quote</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>one against many</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>montage</keyword>
+		<keyword>bo staff</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>phaser</keyword>
+		<keyword>elevator</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>survival</keyword>
+		<keyword>creature</keyword>
+		<keyword>famous score</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>long take</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>bridge</keyword>
+		<keyword>city</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>showdown</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>anger</keyword>
+		<keyword>tragic villain</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>tragic heroine</keyword>
+		<keyword>orphan</keyword>
+		<keyword>war veteran</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>satellite</keyword>
+		<keyword>explosive decompression</keyword>
+		<keyword>zero gravity</keyword>
+		<keyword>artificial gravity</keyword>
+		<keyword>spaceport</keyword>
+		<keyword>invisibility</keyword>
+		<keyword>henchman</keyword>
+		<keyword>video message</keyword>
+		<keyword>video recording</keyword>
+		<keyword>distress signal</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>capture</keyword>
+		<keyword>captive</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>race against time</keyword>
+		<keyword>motorcycle stunt</keyword>
+		<keyword>outrunning explosion</keyword>
+		<keyword>gas explosion</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>disintegrating body</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>cave</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>brutality</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>escape</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>dutch angle</keyword>
+		<keyword>green skin</keyword>
+		<keyword>bar</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>directed by co star</keyword>
+		<keyword>birthday party</keyword>
+		<keyword>party</keyword>
+		<keyword>fast motion scene</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>action hero</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>alien technology</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>woman kills a man</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>brawl</keyword>
+		<keyword>inventor</keyword>
+		<keyword>engineer</keyword>
+		<keyword>scottish accent</keyword>
+		<keyword>abandoned ship</keyword>
+		<keyword>humor</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>space travel</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>battle</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>russian</keyword>
+		<keyword>invisibility cloak</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shootout</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>photograph</keyword>
+		<keyword>revenge</keyword>
+		<keyword>explosion</keyword>
+		<keyword>loud music</keyword>
+		<keyword>drone</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>disintegration</keyword>
+		<keyword>alien weapon</keyword>
+		<keyword>life force sucked out</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>impalement</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>spaceship crash</keyword>
+		<keyword>alien artifact</keyword>
+		<keyword>lifted by the throat</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>ambush</keyword>
+		<keyword>translator</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>hologram</keyword>
+		<keyword>futuristic</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>deception</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>friendship</keyword>
+		<keyword>murder</keyword>
+		<keyword>birthday</keyword>
+		<keyword>space station</keyword>
+		<keyword>human alien</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>alien abduction</keyword>
+		<keyword>alien ship</keyword>
+		<keyword>transformation</keyword>
+		<keyword>mutation</keyword>
+		<keyword>half alien</keyword>
+		<keyword>doctor</keyword>
+		<keyword>necklace</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>outer space</keyword>
+		<keyword>deep space</keyword>
+		<keyword>written by star</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>female martial artist</keyword>
+		<keyword>star died before release</keyword>
+		<keyword>based on cult favorite</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>warlord</keyword>
+		<keyword>vodka</keyword>
+		<keyword>biological weapon</keyword>
+		<keyword>search and rescue</keyword>
+		<keyword>space western</keyword>
+		<keyword>famous line</keyword>
+		<keyword>dictator</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>rock music</keyword>
+		<keyword>sequel to a reboot</keyword>
+		<keyword>pavel chekov character</keyword>
+		<keyword>spock character</keyword>
+		<keyword>male human alien hybrid</keyword>
+		<keyword>leonard mccoy character</keyword>
+		<keyword>wound</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>james t. kirk character</keyword>
+		<keyword>communications device</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>space vehicle</keyword>
+		<keyword>phaser pistol</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>female alien</keyword>
+		<keyword>ponytailed female</keyword>
+		<keyword>display screen</keyword>
+		<keyword>type 2 phaser</keyword>
+		<keyword>handheld communicator</keyword>
+		<keyword>half human</keyword>
+		<keyword>medical device</keyword>
+		<keyword>human versus alien</keyword>
+		<keyword>injured male</keyword>
+		<keyword>communicator</keyword>
+		<keyword>half human half alien</keyword>
+		<keyword>male commander</keyword>
+		<keyword>human alien hybrid</keyword>
+		<keyword>female lieutenant</keyword>
+		<keyword>alien artefact</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>phaser fire</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>dematerialization</keyword>
+		<keyword>weapon</keyword>
+		<keyword>alien crew member</keyword>
+		<keyword>space vessel</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>male lieutenant</keyword>
+		<keyword>impaled by a piece of metal</keyword>
+		<keyword>male captain</keyword>
+		<keyword>starship doctor</keyword>
+		<keyword>male engineer</keyword>
+		<keyword>physician</keyword>
+		<keyword>male medical doctor</keyword>
+		<keyword>corridor</keyword>
+		<keyword>male physician</keyword>
+		<keyword>human vulcan hybrid</keyword>
+		<keyword>wreckage</keyword>
+		<keyword>starship interior</keyword>
+		<keyword>male doctor</keyword>
+		<keyword>u.s.s. enterprise</keyword>
+		<keyword>chief medical officer</keyword>
+		<keyword>materialization</keyword>
+		<keyword>male chief medical officer</keyword>
+		<keyword>human</keyword>
+		<keyword>human being</keyword>
+		<keyword>long haired female</keyword>
+		<keyword>federation starship</keyword>
+		<keyword>medical doctor</keyword>
+		<keyword>photon torpedo</keyword>
+		<keyword>diversion</keyword>
+		<keyword>ship to ship communication</keyword>
+		<keyword>franklin the starship</keyword>
+		<keyword>vulcan man</keyword>
+		<keyword>starship's helm</keyword>
+		<keyword>death of crew member</keyword>
+		<keyword>handshake</keyword>
+		<keyword>male versus female</keyword>
+		<keyword>speeding motorcycle</keyword>
+		<keyword>captain's chair</keyword>
+		<keyword>bioweapon</keyword>
+		<keyword>villain</keyword>
+		<keyword>u.s.s. franklin</keyword>
+		<keyword>dedication plaque</keyword>
+		<keyword>starship helmsman</keyword>
+		<keyword>control console</keyword>
+		<keyword>pointy ears</keyword>
+		<keyword>universal translator</keyword>
+		<keyword>female communications officer</keyword>
+		<keyword>subterfuge</keyword>
+		<keyword>u.s.s. franklin nx 326</keyword>
+		<keyword>helmsman</keyword>
+		<keyword>spacecraft cockpit</keyword>
+		<keyword>touchscreen</keyword>
+		<keyword>communications officer</keyword>
+		<keyword>schematic</keyword>
+		<keyword>sidearm</keyword>
+		<keyword>captain's log</keyword>
+		<keyword>former soldier</keyword>
+		<keyword>commodore</keyword>
+		<keyword>audio communication</keyword>
+		<keyword>cockpit</keyword>
+		<keyword>diminutive alien</keyword>
+		<keyword>personal effects</keyword>
+		<keyword>starfleet captain</keyword>
+		<keyword>audiovisual recording</keyword>
+		<keyword>female commodore</keyword>
+		<keyword>male human vulcan hybrid</keyword>
+		<keyword>earthling</keyword>
+		<keyword>male commanding officer</keyword>
+		<keyword>turbolift</keyword>
+		<keyword>terran</keyword>
+		<keyword>shapeshifting alien</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>controversy</keyword>
+		<keyword>spacecraft wreckage</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>gay man</keyword>
+		<keyword>same sex kiss</keyword>
+		<keyword>lgbt</keyword>
+		<keyword>montgomery scott character</keyword>
+		<keyword>hikaru sulu character</keyword>
+		<keyword>starship</keyword>
+		<keyword>m class planet</keyword>
+		<keyword>starbase yorktown</keyword>
+		<keyword>federation captain</keyword>
+		<keyword>derelict starship</keyword>
+		<keyword>earthman</keyword>
+		<keyword>night</keyword>
+		<keyword>starship saucer section</keyword>
+		<keyword>planet viewed from outer space</keyword>
+		<keyword>probe</keyword>
+		<keyword>starship crew</keyword>
+		<keyword>staff weapon</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>starship wreckage</keyword>
+		<keyword>long haired woman</keyword>
+		<keyword>starfleet commodore</keyword>
+		<keyword>starbase</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>male starship captain</keyword>
+		<keyword>woman wears a short skirt</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>space adventure</keyword>
+		<keyword>epic action</keyword>
+		<keyword>nyota uhura character</keyword>
+		<keyword>future</keyword>
+		<keyword>universe</keyword>
+		<keyword>space</keyword>
+		<keyword>flatulence</keyword>
+		<keyword>cauterizing a wound</keyword>
+		<keyword>drone swarm</keyword>
+		<keyword>drone attack</keyword>
+		<keyword>human vulcan man</keyword>
+		<keyword>starship captain</keyword>
+		<keyword>heroine</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>enterprise the starship</keyword>
+		<keyword>starship bridge</keyword>
+		<keyword>human in outer space</keyword>
+		<keyword>miniskirt</keyword>
+		<keyword>bipedal alien</keyword>
+		<keyword>force field</keyword>
+		<keyword>u.s.s. enterprise ncc 1701 a</keyword>
+		<keyword>u.s.s. enterprise ncc 1701</keyword>
+		<keyword>female humanoid alien</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>little person</keyword>
+	</keywords>
+	<directors>
+		<director> Justin Lin</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> J.J. Abrams</producer>
+		<producer> Ron Ames</producer>
+		<producer> Jeffrey Chernov</producer>
+		<producer> David Ellison</producer>
+		<producer> Dana Goldberg</producer>
+		<producer> Tommy Harper</producer>
+		<producer> Josh Henson</producer>
+		<producer> Justin Lin</producer>
+		<producer> Roberto Orci</producer>
+		<producer> Helen Pollak</producer>
+		<producer> Lindsey Weber</producer>
+	</producers>
+	<writers>
+		<writer> Simon Pegg</writer>
+		<writer> Doug Jung</writer>
+		<writer> Gene Roddenberry</writer>
+		<writer> Roberto Orci</writer>
+		<writer> Patrick McKay</writer>
+		<writer> John D. Payne</writer>
+	</writers>
+	<editors>
+		<editor> Greg D'Auria</editor>
+		<editor> Dylan Highsmith</editor>
+		<editor> Kelly Matsumoto</editor>
+		<editor> Steven Sprung</editor>
+	</editors>
+</doc>

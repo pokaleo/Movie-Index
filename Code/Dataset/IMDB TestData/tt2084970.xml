@@ -1,0 +1,371 @@
+<?xml version="1.0" ?>
+<doc id="tt2084970">
+	<docid>tt2084970</docid>
+	<title>The Imitation Game</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">114</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Benedict Cumberbatch</actor>
+			<role>Alan Turing</role>
+		</credit>
+		<credit>
+			<actor>Keira Knightley</actor>
+			<role>Joan Clarke</role>
+		</credit>
+		<credit>
+			<actor>Matthew Goode</actor>
+			<role>Hugh Alexander</role>
+		</credit>
+		<credit>
+			<actor>Allen Leech</actor>
+			<role>John Cairncross</role>
+		</credit>
+		<credit>
+			<actor>Rory Kinnear</actor>
+			<role>Detective Robert Nock</role>
+		</credit>
+		<credit>
+			<actor>Matthew Beard</actor>
+			<role>Peter Hilton</role>
+		</credit>
+		<credit>
+			<actor>Charles Dance</actor>
+			<role>Commander Denniston</role>
+		</credit>
+		<credit>
+			<actor>Mark Strong</actor>
+			<role>Stewart Menzies</role>
+		</credit>
+		<credit>
+			<actor>James Northcote</actor>
+			<role>Jack Good</role>
+		</credit>
+		<credit>
+			<actor>Tom Goodman-Hill</actor>
+			<role>Sergeant Staehl</role>
+		</credit>
+		<credit>
+			<actor>Steven Waddington</actor>
+			<role>Superintendent Smith</role>
+		</credit>
+		<credit>
+			<actor>Ilan Goodman</actor>
+			<role>Keith Furman</role>
+		</credit>
+		<credit>
+			<actor>Jack Tarlton</actor>
+			<role>Charles Richards</role>
+		</credit>
+		<credit>
+			<actor>Alex Lawther</actor>
+			<role>Young Alan Turing</role>
+		</credit>
+		<credit>
+			<actor>Jack Bannon</actor>
+			<role>Christopher Morcom</role>
+		</credit>
+		<credit>
+			<actor>Tuppence Middleton</actor>
+			<role>Helen</role>
+		</credit>
+		<credit>
+			<actor>Dominic Charman</actor>
+			<role>Sherborne Student 1</role>
+		</credit>
+		<credit>
+			<actor>James G. Nunn</actor>
+			<role>Sherborne Student 2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 29 2014</releasedate>
+		<releasedate country="Canada">September 9 2014</releasedate>
+		<releasedate country="United States">September 27 2014</releasedate>
+		<releasedate country="United States">September 28 2014</releasedate>
+		<releasedate country="United States">October 4 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">R</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">7/fig</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">8</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">16D</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cryptography</keyword>
+		<keyword>world war two</keyword>
+		<keyword>enigma code</keyword>
+		<keyword>closeted gay man</keyword>
+		<keyword>mathematician</keyword>
+		<keyword>chemical castration</keyword>
+		<keyword>code</keyword>
+		<keyword>code breaker</keyword>
+		<keyword>computer</keyword>
+		<keyword>encryption</keyword>
+		<keyword>computing machine</keyword>
+		<keyword>gay slur</keyword>
+		<keyword>russian spy</keyword>
+		<keyword>based on biography</keyword>
+		<keyword>gay</keyword>
+		<keyword>crossword puzzle</keyword>
+		<keyword>enigma</keyword>
+		<keyword>analog computer</keyword>
+		<keyword>royal pardon</keyword>
+		<keyword>london england</keyword>
+		<keyword>bullying</keyword>
+		<keyword>suicide</keyword>
+		<keyword>gay interest</keyword>
+		<keyword>logician</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>autism</keyword>
+		<keyword>top secret</keyword>
+		<keyword>genius</keyword>
+		<keyword>cryptanalysis</keyword>
+		<keyword>code breaking</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>1940s</keyword>
+		<keyword>gross indecency</keyword>
+		<keyword>teenage crush</keyword>
+		<keyword>coming out</keyword>
+		<keyword>gay crush</keyword>
+		<keyword>discovery</keyword>
+		<keyword>reference to adolf hitler</keyword>
+		<keyword>hormone treatment</keyword>
+		<keyword>unsung hero</keyword>
+		<keyword>nerd</keyword>
+		<keyword>arrogance</keyword>
+		<keyword>boy crying</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>homophobia</keyword>
+		<keyword>homosexuality</keyword>
+		<keyword>professor</keyword>
+		<keyword>sexism</keyword>
+		<keyword>posthumous pardon</keyword>
+		<keyword>flashback</keyword>
+		<keyword>reference to winston churchill</keyword>
+		<keyword>job interview</keyword>
+		<keyword>colossus computer</keyword>
+		<keyword>coded message</keyword>
+		<keyword>machine</keyword>
+		<keyword>nazi</keyword>
+		<keyword>enigma machine</keyword>
+		<keyword>cryptoanalyst</keyword>
+		<keyword>visionary</keyword>
+		<keyword>invention</keyword>
+		<keyword>statistics</keyword>
+		<keyword>reference to alan turing</keyword>
+		<keyword>awkwardness</keyword>
+		<keyword>england</keyword>
+		<keyword>confrontation</keyword>
+		<keyword>bully</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>commanding officer</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>u boat</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>detective</keyword>
+		<keyword>train station</keyword>
+		<keyword>emotional breakdown</keyword>
+		<keyword>male tears</keyword>
+		<keyword>police interrogation</keyword>
+		<keyword>apple</keyword>
+		<keyword>cyanide</keyword>
+		<keyword>king george vi</keyword>
+		<keyword>newsreel footage</keyword>
+		<keyword>jogging</keyword>
+		<keyword>panic attack</keyword>
+		<keyword>male hustler</keyword>
+		<keyword>confidentiality</keyword>
+		<keyword>pioneer</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>bar</keyword>
+		<keyword>engagement ring</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>private school</keyword>
+		<keyword>soviet spy</keyword>
+		<keyword>spy</keyword>
+		<keyword>robbery</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police detective</keyword>
+		<keyword>gay teenager</keyword>
+		<keyword>reference to queen elizabeth ii</keyword>
+		<keyword>bomb shelter</keyword>
+		<keyword>bible</keyword>
+		<keyword>gay man marries woman</keyword>
+		<keyword>brilliant mind</keyword>
+		<keyword>based on real person</keyword>
+		<keyword>vito russo test passed</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>secret</keyword>
+		<keyword>gay protagonist</keyword>
+		<keyword>timeframe 1940s</keyword>
+		<keyword>shy man</keyword>
+		<keyword>closeted homosexual</keyword>
+		<keyword>shyness</keyword>
+		<keyword>puzzle</keyword>
+		<keyword>bletchley park</keyword>
+		<keyword>thought</keyword>
+		<keyword>mathematics</keyword>
+		<keyword>ends with biographical notes</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>reference to donald maclean</keyword>
+		<keyword>reference to guy burgess</keyword>
+		<keyword>reference to isaac newton</keyword>
+		<keyword>reference to albert einstein</keyword>
+		<keyword>peas</keyword>
+		<keyword>carrot</keyword>
+		<keyword>accordion</keyword>
+		<keyword>torpedo</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>year 1928</keyword>
+		<keyword>year 1939</keyword>
+		<keyword>year 1951</keyword>
+		<keyword>in medias res</keyword>
+		<keyword>sodomy crime</keyword>
+		<keyword>reference to christopher morcom</keyword>
+		<keyword>despair</keyword>
+		<keyword>cracker</keyword>
+		<keyword>cracking</keyword>
+		<keyword>cryptographer</keyword>
+		<keyword>death</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>social engineering</keyword>
+		<keyword>persecution</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>information leak</keyword>
+		<keyword>subterfuge</keyword>
+		<keyword>secrecy</keyword>
+		<keyword>intelligence agent</keyword>
+		<keyword>suspected homosexual</keyword>
+		<keyword>analysis</keyword>
+		<keyword>thinking</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>joke</keyword>
+		<keyword>mechanical computer</keyword>
+		<keyword>digital computer</keyword>
+		<keyword>computation</keyword>
+		<keyword>classified information</keyword>
+		<keyword>security clearance</keyword>
+		<keyword>cipher</keyword>
+		<keyword>mass damage</keyword>
+		<keyword>bombing of london</keyword>
+		<keyword>air raid siren</keyword>
+		<keyword>teen love</keyword>
+		<keyword>first love</keyword>
+		<keyword>schoolboy</keyword>
+		<keyword>difference</keyword>
+		<keyword>concentrating</keyword>
+		<keyword>signals intelligence</keyword>
+		<keyword>decryption</keyword>
+		<keyword>game</keyword>
+		<keyword>decoder</keyword>
+		<keyword>encoding</keyword>
+		<keyword>decoding</keyword>
+		<keyword>inventor</keyword>
+		<keyword>post world war two</keyword>
+		<keyword>united kingdom</keyword>
+		<keyword>great britain</keyword>
+		<keyword>mi6</keyword>
+		<keyword>multiple time frames</keyword>
+		<keyword>turing test</keyword>
+		<keyword>headmaster</keyword>
+		<keyword>argument</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>reference to joseph stalin</keyword>
+		<keyword>based on book</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>three word title</keyword>
+		<keyword>gay cinema</keyword>
+		<keyword>burning</keyword>
+		<keyword>fire</keyword>
+		<keyword>engagement</keyword>
+		<keyword>crying boy</keyword>
+		<keyword>college professor</keyword>
+		<keyword>envelope</keyword>
+		<keyword>bonfire</keyword>
+		<keyword>crying man</keyword>
+	</keywords>
+	<directors>
+		<director> Morten Tyldum</director>
+	</directors>
+	<composers>
+		<composer> Alexandre Desplat</composer>
+	</composers>
+	<producers>
+		<producer> Nora Grossman</producer>
+		<producer> Peter Heslop</producer>
+		<producer> Graham Moore</producer>
+		<producer> Ido Ostrowsky</producer>
+		<producer> Teddy Schwarzman</producer>
+	</producers>
+	<writers>
+		<writer> Graham Moore</writer>
+		<writer> Andrew Hodges</writer>
+	</writers>
+	<editors>
+		<editor> William Goldenberg</editor>
+	</editors>
+</doc>

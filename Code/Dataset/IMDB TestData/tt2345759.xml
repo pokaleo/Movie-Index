@@ -1,0 +1,675 @@
+<?xml version="1.0" ?>
+<doc id="tt2345759">
+	<docid>tt2345759</docid>
+	<title>The Mummy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTJiYjBhZDgtMjhiOC00MTIzLThlNGMtMmI1NjIwM2M3YTI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">111</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Cruise</actor>
+			<role>Nick Morton</role>
+		</credit>
+		<credit>
+			<actor>Sofia Boutella</actor>
+			<role>Ahmanet</role>
+		</credit>
+		<credit>
+			<actor>Annabelle Wallis</actor>
+			<role>Jenny Halsey</role>
+		</credit>
+		<credit>
+			<actor>Russell Crowe</actor>
+			<role>Henry Jekyll</role>
+		</credit>
+		<credit>
+			<actor>Jake Johnson</actor>
+			<role>Sgt. Vail</role>
+		</credit>
+		<credit>
+			<actor>Courtney B. Vance</actor>
+			<role>Colonel Greenway</role>
+		</credit>
+		<credit>
+			<actor>Marwan Kenzari</actor>
+			<role>Malik</role>
+		</credit>
+		<credit>
+			<actor>Simon Atherton</actor>
+			<role>Crusader</role>
+		</credit>
+		<credit>
+			<actor>Stephen Thompson</actor>
+			<role>First Man</role>
+		</credit>
+		<credit>
+			<actor>James Arama</actor>
+			<role>Second Man</role>
+		</credit>
+		<credit>
+			<actor>Matthew Wilkas</actor>
+			<role>Reporter</role>
+		</credit>
+		<credit>
+			<actor>Sohm Kapila</actor>
+			<role>Reporter</role>
+		</credit>
+		<credit>
+			<actor>Sean Cameron Michael</actor>
+			<role>Archaeologist</role>
+		</credit>
+		<credit>
+			<actor>Rez Kempton</actor>
+			<role>Construction Manager</role>
+		</credit>
+		<credit>
+			<actor>Erol Ismail</actor>
+			<role>Ahmanet's Warrior</role>
+		</credit>
+		<credit>
+			<actor>Selva Rasalingam</actor>
+			<role>King Menehptre</role>
+		</credit>
+		<credit>
+			<actor>Shanina Shaik</actor>
+			<role>Arabian Princess</role>
+		</credit>
+		<credit>
+			<actor>Javier Botet</actor>
+			<role>Set</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">May 22 2017</releasedate>
+		<releasedate country="France">May 30 2017</releasedate>
+		<releasedate country="Argentina">June 6 2017</releasedate>
+		<releasedate country="South Korea">June 6 2017</releasedate>
+		<releasedate country="Belgium">June 7 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>archaeologist</keyword>
+		<keyword>princess</keyword>
+		<keyword>egypt</keyword>
+		<keyword>mummy</keyword>
+		<keyword>mummy character</keyword>
+		<keyword>egyptian mythology</keyword>
+		<keyword>tomb</keyword>
+		<keyword>mercury</keyword>
+		<keyword>treasure hunt</keyword>
+		<keyword>entombed</keyword>
+		<keyword>buried structure</keyword>
+		<keyword>ritual sacrifice</keyword>
+		<keyword>zombification</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>1190s</keyword>
+		<keyword>crypt</keyword>
+		<keyword>destiny</keyword>
+		<keyword>desert</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>black magic</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>knife</keyword>
+		<keyword>pharaoh</keyword>
+		<keyword>king</keyword>
+		<keyword>monster hunter</keyword>
+		<keyword>the mummy</keyword>
+		<keyword>priest</keyword>
+		<keyword>pharoah</keyword>
+		<keyword>throne</keyword>
+		<keyword>chosen one</keyword>
+		<keyword>open ended</keyword>
+		<keyword>treasure hunter</keyword>
+		<keyword>burial site</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>knight</keyword>
+		<keyword>immortality</keyword>
+		<keyword>special forces</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>evil</keyword>
+		<keyword>split personality</keyword>
+		<keyword>world domination</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>undead</keyword>
+		<keyword>zombie</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>ancient egypt</keyword>
+		<keyword>archeological dig</keyword>
+		<keyword>excavation</keyword>
+		<keyword>heir to throne</keyword>
+		<keyword>2010s</keyword>
+		<keyword>crusader</keyword>
+		<keyword>gemstone</keyword>
+		<keyword>dagger</keyword>
+		<keyword>curse</keyword>
+		<keyword>literary character</keyword>
+		<keyword>magic</keyword>
+		<keyword>military operation</keyword>
+		<keyword>reboot</keyword>
+		<keyword>london england</keyword>
+		<keyword>middle east</keyword>
+		<keyword>horror movie remake</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>bravery</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>stupid victim</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>big ben london</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>zero gravity</keyword>
+		<keyword>london eye</keyword>
+		<keyword>dr. henry jekyll character</keyword>
+		<keyword>camouflage</keyword>
+		<keyword>ordinance</keyword>
+		<keyword>palm tree</keyword>
+		<keyword>disobedience</keyword>
+		<keyword>militia</keyword>
+		<keyword>militiamen</keyword>
+		<keyword>flatbed truck</keyword>
+		<keyword>stronghold</keyword>
+		<keyword>armored personnel carrier</keyword>
+		<keyword>treasure map</keyword>
+		<keyword>armoured personnel carrier</keyword>
+		<keyword>voice over</keyword>
+		<keyword>beak</keyword>
+		<keyword>duffel bag</keyword>
+		<keyword>cavern</keyword>
+		<keyword>desert combat</keyword>
+		<keyword>voice recorder</keyword>
+		<keyword>us military</keyword>
+		<keyword>dune</keyword>
+		<keyword>convoy</keyword>
+		<keyword>propeller airplane</keyword>
+		<keyword>wreck</keyword>
+		<keyword>depressurized aircraft</keyword>
+		<keyword>toe tag</keyword>
+		<keyword>kiss of death</keyword>
+		<keyword>crash site</keyword>
+		<keyword>puddle</keyword>
+		<keyword>bar</keyword>
+		<keyword>draft beer</keyword>
+		<keyword>crucifix</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>washroom</keyword>
+		<keyword>silhouette</keyword>
+		<keyword>new kingdom of egypt</keyword>
+		<keyword>embarrassment nudity</keyword>
+		<keyword>final battle</keyword>
+		<keyword>american</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>evil woman</keyword>
+		<keyword>nude female silhouette</keyword>
+		<keyword>set up for unmade sequel</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>sexy woman</keyword>
+		<keyword>reference to amunet the egyptian deity</keyword>
+		<keyword>egyptian deity</keyword>
+		<keyword>evil deity</keyword>
+		<keyword>reference to set the egyptian deity</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>weapon</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>egyptian statue</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>animal</keyword>
+		<keyword>view through video camera</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>gun</keyword>
+		<keyword>arachnid</keyword>
+		<keyword>bird</keyword>
+		<keyword>cockpit</keyword>
+		<keyword>firearm</keyword>
+		<keyword>male corporal</keyword>
+		<keyword>propeller aeroplane</keyword>
+		<keyword>two word title</keyword>
+		<keyword>speeding vehicle</keyword>
+		<keyword>military airplane</keyword>
+		<keyword>biometric palm scanner</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>military aircraft</keyword>
+		<keyword>handgun</keyword>
+		<keyword>wreckage</keyword>
+		<keyword>darted in the chest</keyword>
+		<keyword>male soldier</keyword>
+		<keyword>supervillainess</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>night</keyword>
+		<keyword>aircraft wreckage</keyword>
+		<keyword>rodent</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>cursed man</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>swimming underwater</keyword>
+		<keyword>rock as weapon</keyword>
+		<keyword>undead knight</keyword>
+		<keyword>female supervillain</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>soldier wears eyeglasses</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>see through</keyword>
+		<keyword>sexy villainess</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>supernatural fantasy</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>courage</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>alter ego</keyword>
+		<keyword>tragic villain</keyword>
+		<keyword>pool</keyword>
+		<keyword>jackhammer</keyword>
+		<keyword>subway</keyword>
+		<keyword>army</keyword>
+		<keyword>secret lair</keyword>
+		<keyword>remake</keyword>
+		<keyword>relic</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>darkness</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>ghost</keyword>
+		<keyword>massacre</keyword>
+		<keyword>demonic possession</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>bitten in the neck</keyword>
+		<keyword>old flame</keyword>
+		<keyword>partner</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>murder of a family</keyword>
+		<keyword>lovecraftian</keyword>
+		<keyword>faustian</keyword>
+		<keyword>construction site</keyword>
+		<keyword>ruby</keyword>
+		<keyword>dream</keyword>
+		<keyword>police officer</keyword>
+		<keyword>fate</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>paranormal phenomenon</keyword>
+		<keyword>scar</keyword>
+		<keyword>race against time</keyword>
+		<keyword>pilot</keyword>
+		<keyword>cover up</keyword>
+		<keyword>friendship</keyword>
+		<keyword>decomposing body</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>treasure</keyword>
+		<keyword>buried treasure</keyword>
+		<keyword>rogue soldier</keyword>
+		<keyword>thief</keyword>
+		<keyword>target practice</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>rampage</keyword>
+		<keyword>attack</keyword>
+		<keyword>ambush</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>torch</keyword>
+		<keyword>security guard</keyword>
+		<keyword>guard</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>burial</keyword>
+		<keyword>lightning</keyword>
+		<keyword>fear</keyword>
+		<keyword>police officer killed</keyword>
+		<keyword>police</keyword>
+		<keyword>police car</keyword>
+		<keyword>bus</keyword>
+		<keyword>london bus</keyword>
+		<keyword>car accident</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>flipping car</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>church</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>horse</keyword>
+		<keyword>vision</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>military</keyword>
+		<keyword>soldier</keyword>
+		<keyword>colonel</keyword>
+		<keyword>sergeant</keyword>
+		<keyword>corporal</keyword>
+		<keyword>army base</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>armored car</keyword>
+		<keyword>crow</keyword>
+		<keyword>parachute</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>cargo plane</keyword>
+		<keyword>airplane pilot</keyword>
+		<keyword>airplane</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>statue</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>stick fight</keyword>
+		<keyword>fratricide</keyword>
+		<keyword>matricide</keyword>
+		<keyword>patricide</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>explosive decompression</keyword>
+		<keyword>missile</keyword>
+		<keyword>drone</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>battle</keyword>
+		<keyword>insurgent</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>drowning</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>alley</keyword>
+		<keyword>explosion</keyword>
+		<keyword>tape recorder</keyword>
+		<keyword>woman slaps a man</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>villainess</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>taser</keyword>
+		<keyword>capture</keyword>
+		<keyword>chained</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>museum</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>fragments of glass</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>showdown</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>monster</keyword>
+		<keyword>multiple personality disorder</keyword>
+		<keyword>transformation</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>secret society</keyword>
+		<keyword>secret organization</keyword>
+		<keyword>bookshelf</keyword>
+		<keyword>improvised weapon</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>fight</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>telepathy</keyword>
+		<keyword>mind reading</keyword>
+		<keyword>mind control</keyword>
+		<keyword>spider</keyword>
+		<keyword>rat</keyword>
+		<keyword>dog</keyword>
+		<keyword>living dead</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>gothic</keyword>
+		<keyword>reanimated corpse</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>human sacrifice</keyword>
+		<keyword>secret chamber</keyword>
+		<keyword>deal with the devil</keyword>
+		<keyword>artifact</keyword>
+		<keyword>secret room</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>destruction</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>screaming</keyword>
+		<keyword>seduction</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>anger</keyword>
+		<keyword>iraq</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>injection</keyword>
+		<keyword>serum</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>mad doctor</keyword>
+		<keyword>doctor</keyword>
+		<keyword>scientist</keyword>
+		<keyword>babe scientist</keyword>
+		<keyword>archeologist</keyword>
+		<keyword>professor</keyword>
+		<keyword>hieroglyphics</keyword>
+		<keyword>morgue</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>skull</keyword>
+		<keyword>corpse</keyword>
+		<keyword>coffin</keyword>
+		<keyword>catacomb</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>redemption</keyword>
+		<keyword>revenge</keyword>
+		<keyword>power</keyword>
+		<keyword>heir</keyword>
+		<keyword>human monster</keyword>
+		<keyword>monster movie</keyword>
+		<keyword>product placement</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>news report</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>one man army</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>warrior</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>action hero</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>flashback</keyword>
+		<keyword>prologue</keyword>
+		<keyword>jewel</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>reboot of series</keyword>
+		<keyword>sarcophagus</keyword>
+		<keyword>sandstorm</keyword>
+		<keyword>infanticide</keyword>
+		<keyword>ritual</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>dark universe</keyword>
+		<keyword>buried alive</keyword>
+		<keyword>multiple time frames</keyword>
+		<keyword>nudity</keyword>
+		<keyword>carpet</keyword>
+		<keyword>brunette</keyword>
+		<keyword>debris</keyword>
+		<keyword>flask</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>map</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>argument</keyword>
+		<keyword>u.s. military</keyword>
+		<keyword>propeller aircraft</keyword>
+		<keyword>tattooed man</keyword>
+		<keyword>surrey england</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>hit with a car door</keyword>
+		<keyword>air strike</keyword>
+		<keyword>construction worker</keyword>
+		<keyword>beer</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>women's bathroom</keyword>
+		<keyword>pub</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>fire</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>blood</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>combat</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>security camera</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>yin and yang</keyword>
+		<keyword>jekyll and hyde</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>train</keyword>
+		<keyword>axe</keyword>
+		<keyword>power outage</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>harpoon</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>contemporary setting</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>london underground</keyword>
+		<keyword>camel spider</keyword>
+		<keyword>grenade</keyword>
+		<keyword>assassination</keyword>
+	</keywords>
+	<directors>
+		<director> Alex Kurtzman</director>
+	</directors>
+	<composers>
+		<composer> Brian Tyler</composer>
+	</composers>
+	<producers>
+		<producer> Sarah Bradshaw</producer>
+		<producer> Jeb Brody</producer>
+		<producer> Sean Daniel</producer>
+		<producer> Kevin Elam</producer>
+		<producer> Genevieve Hofmeyr</producer>
+		<producer> Alex Kurtzman</producer>
+		<producer> Chris Morgan</producer>
+		<producer> Roberto Orci</producer>
+	</producers>
+	<writers>
+		<writer> David Koepp</writer>
+		<writer> Christopher McQuarrie</writer>
+		<writer> Dylan Kussman</writer>
+		<writer> Jon Spaihts</writer>
+		<writer> Alex Kurtzman</writer>
+		<writer> Jenny Lumet</writer>
+	</writers>
+	<editors>
+		<editor> Gina Hirsch</editor>
+		<editor> Paul Hirsch</editor>
+		<editor> Andrew Mondshein</editor>
+	</editors>
+</doc>

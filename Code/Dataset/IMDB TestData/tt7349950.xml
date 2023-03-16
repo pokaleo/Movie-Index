@@ -1,0 +1,664 @@
+<?xml version="1.0" ?>
+<doc id="tt7349950">
+	<docid>tt7349950</docid>
+	<title>It: Chapter Two</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWQwZDU1MzAtZTJjZC00ZjJiLWJiOTktOTk4YTEwYmMyYzUxXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">169</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jessica Chastain</actor>
+			<role>Beverly Marsh</role>
+		</credit>
+		<credit>
+			<actor>James McAvoy</actor>
+			<role>Bill Denbrough</role>
+		</credit>
+		<credit>
+			<actor>Bill Hader</actor>
+			<role>Richie Tozier</role>
+		</credit>
+		<credit>
+			<actor>Isaiah Mustafa</actor>
+			<role>Mike Hanlon</role>
+		</credit>
+		<credit>
+			<actor>Jay Ryan</actor>
+			<role>Ben Hanscom</role>
+		</credit>
+		<credit>
+			<actor>James Ransone</actor>
+			<role>Eddie Kaspbrak</role>
+		</credit>
+		<credit>
+			<actor>Andy Bean</actor>
+			<role>Stanley Uris</role>
+		</credit>
+		<credit>
+			<actor>Bill Skarsgård</actor>
+			<role>Pennywise</role>
+		</credit>
+		<credit>
+			<actor>Jaeden Martell</actor>
+			<role>Young Bill Denbrough</role>
+		</credit>
+		<credit>
+			<actor>Wyatt Oleff</actor>
+			<role>Young Stanley Uris</role>
+		</credit>
+		<credit>
+			<actor>Jack Dylan Grazer</actor>
+			<role>Young Eddie Kaspbrak</role>
+		</credit>
+		<credit>
+			<actor>Finn Wolfhard</actor>
+			<role>Young Richie Tozier</role>
+		</credit>
+		<credit>
+			<actor>Sophia Lillis</actor>
+			<role>Young Beverly Marsh</role>
+		</credit>
+		<credit>
+			<actor>Chosen Jacobs</actor>
+			<role>Young Mike Hanlon</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Ray Taylor</actor>
+			<role>Young Ben Hanscom</role>
+		</credit>
+		<credit>
+			<actor>Teach Grant</actor>
+			<role>Henry Bowers</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Hamilton</actor>
+			<role>Young Henry Bowers</role>
+		</credit>
+		<credit>
+			<actor>Javier Botet</actor>
+			<role>Hobo</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 26 2019</releasedate>
+		<releasedate country="Colombia">September 4 2019</releasedate>
+		<releasedate country="Germany">September 4 2019</releasedate>
+		<releasedate country="Indonesia">September 4 2019</releasedate>
+		<releasedate country="South Korea">September 4 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Belgium">12</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Kuwait">18+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Nigeria">18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>killer clown</keyword>
+		<keyword>based on the works of stephen king</keyword>
+		<keyword>clown</keyword>
+		<keyword>evil clown</keyword>
+		<keyword>evil</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>derry maine</keyword>
+		<keyword>friendship</keyword>
+		<keyword>villain</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>sequel</keyword>
+		<keyword>remembering the past</keyword>
+		<keyword>hall of mirrors</keyword>
+		<keyword>murder</keyword>
+		<keyword>bully</keyword>
+		<keyword>memory</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>sewer</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>demon</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>courage</keyword>
+		<keyword>stuttering</keyword>
+		<keyword>teenager</keyword>
+		<keyword>evil smile</keyword>
+		<keyword>ancient evil</keyword>
+		<keyword>numbered sequel</keyword>
+		<keyword>second part</keyword>
+		<keyword>gay</keyword>
+		<keyword>closeted homosexual</keyword>
+		<keyword>reference to john mcclane</keyword>
+		<keyword>cgi</keyword>
+		<keyword>year 1989</keyword>
+		<keyword>1980s</keyword>
+		<keyword>demonic entity</keyword>
+		<keyword>shapeshifting demon</keyword>
+		<keyword>childhood friend</keyword>
+		<keyword>zombie</keyword>
+		<keyword>first love</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>architect</keyword>
+		<keyword>fear</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>escape</keyword>
+		<keyword>gore</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>pharmacy</keyword>
+		<keyword>repressed memory</keyword>
+		<keyword>abusive husband</keyword>
+		<keyword>inanimate object comes to life</keyword>
+		<keyword>hotel</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>ritual</keyword>
+		<keyword>small town</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>blood oath</keyword>
+		<keyword>chinese restaurant</keyword>
+		<keyword>fortune cookie</keyword>
+		<keyword>monster</keyword>
+		<keyword>chase</keyword>
+		<keyword>blood vomiting</keyword>
+		<keyword>bravery</keyword>
+		<keyword>old dark house</keyword>
+		<keyword>dog</keyword>
+		<keyword>library</keyword>
+		<keyword>undead</keyword>
+		<keyword>school</keyword>
+		<keyword>clown makeup</keyword>
+		<keyword>dark past</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>love</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>evil laughter</keyword>
+		<keyword>sewer tunnel</keyword>
+		<keyword>regret</keyword>
+		<keyword>group of friends</keyword>
+		<keyword>vulgarity</keyword>
+		<keyword>hatred</keyword>
+		<keyword>terror</keyword>
+		<keyword>abusive father</keyword>
+		<keyword>haunted house</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>flatulence</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>outcast</keyword>
+		<keyword>love letter</keyword>
+		<keyword>author cameo</keyword>
+		<keyword>closeted gay</keyword>
+		<keyword>oath</keyword>
+		<keyword>mirror maze</keyword>
+		<keyword>whiteface clown</keyword>
+		<keyword>promise</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>gay romance</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>gay slur</keyword>
+		<keyword>gay kiss</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>cameo</keyword>
+		<keyword>repeat sequel</keyword>
+		<keyword>reference to facebook</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>survival</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>it character</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>abandoned movie theater</keyword>
+		<keyword>underwater kiss</keyword>
+		<keyword>native american</keyword>
+		<keyword>living decapitated head</keyword>
+		<keyword>suicide</keyword>
+		<keyword>physical abuse</keyword>
+		<keyword>flashback</keyword>
+		<keyword>film director</keyword>
+		<keyword>car crash</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>nostalgia</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>rescue</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>gang</keyword>
+		<keyword>thrown from a bridge</keyword>
+		<keyword>bridge</keyword>
+		<keyword>arrest</keyword>
+		<keyword>security guard</keyword>
+		<keyword>balloon</keyword>
+		<keyword>actress</keyword>
+		<keyword>trailer</keyword>
+		<keyword>eye gouging</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>insurance risk assessment analyst</keyword>
+		<keyword>stand up comedian</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>engagement ring</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>little girl</keyword>
+		<keyword>little boy</keyword>
+		<keyword>death of family</keyword>
+		<keyword>loss of family</keyword>
+		<keyword>orphan</keyword>
+		<keyword>fire</keyword>
+		<keyword>apartment</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>photograph</keyword>
+		<keyword>scar</keyword>
+		<keyword>abandoned hotel</keyword>
+		<keyword>video arcade</keyword>
+		<keyword>jewish american</keyword>
+		<keyword>bar mitzvah</keyword>
+		<keyword>church</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>baseball</keyword>
+		<keyword>reference to the lone ranger</keyword>
+		<keyword>reference to street fighter</keyword>
+		<keyword>antique store</keyword>
+		<keyword>screaming</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>prologue</keyword>
+		<keyword>underage smoking</keyword>
+		<keyword>insanity</keyword>
+		<keyword>escaped psychiatric patient</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>impalement</keyword>
+		<keyword>stabbed through the mouth</keyword>
+		<keyword>fire poker</keyword>
+		<keyword>heart ripped out</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>heart in hand</keyword>
+		<keyword>pool of blood</keyword>
+		<keyword>light</keyword>
+		<keyword>levitation</keyword>
+		<keyword>mind control</keyword>
+		<keyword>drugged drink</keyword>
+		<keyword>man hits a woman</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>inhaler</keyword>
+		<keyword>eyeball</keyword>
+		<keyword>epic</keyword>
+		<keyword>creature</keyword>
+		<keyword>product placement</keyword>
+		<keyword>beating</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>lake house</keyword>
+		<keyword>toilet</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>letter</keyword>
+		<keyword>locker</keyword>
+		<keyword>well</keyword>
+		<keyword>rescue attempt</keyword>
+		<keyword>festival</keyword>
+		<keyword>disembodied head</keyword>
+		<keyword>female topless nudity</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>taxi</keyword>
+		<keyword>photo booth</keyword>
+		<keyword>statue</keyword>
+		<keyword>waitress</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>postcard</keyword>
+		<keyword>paper boat</keyword>
+		<keyword>nail gun</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>high school</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>revenge</keyword>
+		<keyword>maine</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>cameraman</keyword>
+		<keyword>darkness</keyword>
+		<keyword>flood</keyword>
+		<keyword>water</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>redemption</keyword>
+		<keyword>perfume</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>collapsing house</keyword>
+		<keyword>jigsaw puzzle</keyword>
+		<keyword>new york city</keyword>
+		<keyword>kiss</keyword>
+		<keyword>artifact</keyword>
+		<keyword>fight</keyword>
+		<keyword>obesity</keyword>
+		<keyword>token</keyword>
+		<keyword>tentacle</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>giant</keyword>
+		<keyword>hypnotism</keyword>
+		<keyword>brawl</keyword>
+		<keyword>old woman</keyword>
+		<keyword>living dead</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sadism</keyword>
+		<keyword>cave</keyword>
+		<keyword>underground lair</keyword>
+		<keyword>hearing voices</keyword>
+		<keyword>secret</keyword>
+		<keyword>guilt</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>corpse</keyword>
+		<keyword>african american</keyword>
+		<keyword>suburbia</keyword>
+		<keyword>notebook</keyword>
+		<keyword>anger</keyword>
+		<keyword>faith</keyword>
+		<keyword>hope</keyword>
+		<keyword>skull</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>worm</keyword>
+		<keyword>spider</keyword>
+		<keyword>facial bandage</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>whisper in ear</keyword>
+		<keyword>whispering</keyword>
+		<keyword>whispering in ear</keyword>
+		<keyword>psychological manipulation</keyword>
+		<keyword>skype</keyword>
+		<keyword>pawnshop</keyword>
+		<keyword>one liner</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>arm ripped off</keyword>
+		<keyword>drowning</keyword>
+		<keyword>montage</keyword>
+		<keyword>vision</keyword>
+		<keyword>premonition</keyword>
+		<keyword>secret tunnel</keyword>
+		<keyword>hammock</keyword>
+		<keyword>hit with a rock</keyword>
+		<keyword>carving</keyword>
+		<keyword>throwing a rock</keyword>
+		<keyword>vinyl</keyword>
+		<keyword>broken glass</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>leper</keyword>
+		<keyword>secret hideout</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>impaled through the mouth</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>stabbed through the chest</keyword>
+		<keyword>doctor</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>transformation</keyword>
+		<keyword>clubhouse</keyword>
+		<keyword>shower cap</keyword>
+		<keyword>storm drain</keyword>
+		<keyword>nursery rhyme</keyword>
+		<keyword>gruesome</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>explosion</keyword>
+		<keyword>arcade game</keyword>
+		<keyword>writing in blood</keyword>
+		<keyword>long tongue</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>spear</keyword>
+		<keyword>tension</keyword>
+		<keyword>suicide of mother</keyword>
+		<keyword>suicide of wife</keyword>
+		<keyword>wetting pants</keyword>
+		<keyword>dutch angle</keyword>
+		<keyword>hate crime</keyword>
+		<keyword>reference to meg ryan</keyword>
+		<keyword>aggression</keyword>
+		<keyword>thrown into water</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>video call</keyword>
+		<keyword>rain</keyword>
+		<keyword>baseball game</keyword>
+		<keyword>baseball stadium</keyword>
+		<keyword>stadium</keyword>
+		<keyword>audio cassette</keyword>
+		<keyword>classroom</keyword>
+		<keyword>smoking at school</keyword>
+		<keyword>hiding in a locker</keyword>
+		<keyword>hiding in a school locker</keyword>
+		<keyword>shower curtain</keyword>
+		<keyword>hiding behind a shower curtain</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>applause</keyword>
+		<keyword>severed head</keyword>
+		<keyword>jumping into water</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>battle</keyword>
+		<keyword>cartoon on tv</keyword>
+		<keyword>strabismus</keyword>
+		<keyword>cock eyed</keyword>
+		<keyword>wall eyed</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>multiple time frames</keyword>
+		<keyword>man in a bathtub</keyword>
+		<keyword>male in a bathtub</keyword>
+		<keyword>barefoot male</keyword>
+		<keyword>time jump</keyword>
+		<keyword>carny</keyword>
+		<keyword>auto accident</keyword>
+		<keyword>asthma</keyword>
+		<keyword>younger version of self</keyword>
+		<keyword>thrown off a bridge</keyword>
+		<keyword>beaten with a belt</keyword>
+		<keyword>mom joke</keyword>
+		<keyword>proposing a toast</keyword>
+		<keyword>reference to dodge kansas</keyword>
+		<keyword>paddle ball</keyword>
+		<keyword>paul bunyan statue</keyword>
+		<keyword>parade</keyword>
+		<keyword>head with spider legs</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>basement</keyword>
+		<keyword>stabbed in cheek</keyword>
+		<keyword>thrown through a table</keyword>
+		<keyword>stabbed in the back of the head</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>raincoat</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>horror movie remake</keyword>
+		<keyword>three word title</keyword>
+		<keyword>child smokes a cigarette</keyword>
+		<keyword>child swearing</keyword>
+		<keyword>murder of a child</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>suburb</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>supernatural serial killer</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>part of duology</keyword>
+		<keyword>pennywise character</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>supernatural fantasy</keyword>
+		<keyword>supernatural drama</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>digital de aging</keyword>
+		<keyword>gay bashing</keyword>
+		<keyword>screenwriter</keyword>
+		<keyword>reunion</keyword>
+		<keyword>port wine stain on face</keyword>
+		<keyword>hatchet as a weapon</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>hairy chested male</keyword>
+		<keyword>hallucinogen</keyword>
+		<keyword>secret clubhouse</keyword>
+		<keyword>pomeranian dog</keyword>
+		<keyword>quarry lake</keyword>
+		<keyword>bubble gum</keyword>
+		<keyword>watching a video on a cell phone</keyword>
+		<keyword>fat boy</keyword>
+		<keyword>suicide by slashing one's wrists</keyword>
+		<keyword>quarry</keyword>
+		<keyword>town with a dark secret</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>death of child</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>horror icon</keyword>
+		<keyword>part two</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>year 2016</keyword>
+		<keyword>suspense</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>reference to jabba the hutt</keyword>
+		<keyword>reference to new kids on the block</keyword>
+		<keyword>reference to lois lane</keyword>
+		<keyword>reference to the shining</keyword>
+		<keyword>reference to indiana jones</keyword>
+		<keyword>film set</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>police brutality</keyword>
+		<keyword>police</keyword>
+		<keyword>police officer</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>lovecraftian</keyword>
+		<keyword>gothic</keyword>
+		<keyword>2010s</keyword>
+	</keywords>
+	<directors>
+		<director> Andy Muschietti</director>
+	</directors>
+	<composers>
+		<composer> Benjamin Wallfisch</composer>
+	</composers>
+	<producers>
+		<producer> Richard Brener</producer>
+		<producer> Gary Dauberman</producer>
+		<producer> Marty P. Ewing</producer>
+		<producer> Jason Fuchs</producer>
+		<producer> Seth Grahame-Smith</producer>
+		<producer> David Katzenberg</producer>
+		<producer> Roy Lee</producer>
+		<producer> Dan Lin</producer>
+		<producer> Barbara Muschietti</producer>
+		<producer> Dave Neustadter</producer>
+		<producer> Victoria Palmeri</producer>
+		<producer> Darin Read</producer>
+	</producers>
+	<writers>
+		<writer> Stephen King</writer>
+		<writer> Gary Dauberman</writer>
+	</writers>
+	<editors>
+		<editor> Jason Ballantine</editor>
+	</editors>
+</doc>

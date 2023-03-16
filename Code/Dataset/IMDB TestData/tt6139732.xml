@@ -1,0 +1,589 @@
+<?xml version="1.0" ?>
+<doc id="tt6139732">
+	<docid>tt6139732</docid>
+	<title>Aladdin</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTU5MTQ1NTk5N15BMl5BanBnXkFtZTgwNDA4OTE1NjM@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">128</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Will Smith</actor>
+			<role>Genie</role>
+		</credit>
+		<credit>
+			<actor>Mena Massoud</actor>
+			<role>Aladdin</role>
+		</credit>
+		<credit>
+			<actor>Naomi Scott</actor>
+			<role>Jasmine</role>
+		</credit>
+		<credit>
+			<actor>Marwan Kenzari</actor>
+			<role>Jafar</role>
+		</credit>
+		<credit>
+			<actor>Navid Negahban</actor>
+			<role>Sultan</role>
+		</credit>
+		<credit>
+			<actor>Nasim Pedrad</actor>
+			<role>Dalia</role>
+		</credit>
+		<credit>
+			<actor>Billy Magnussen</actor>
+			<role>Prince Anders</role>
+		</credit>
+		<credit>
+			<actor>Jordan A. Nash</actor>
+			<role>Omar</role>
+		</credit>
+		<credit>
+			<actor>Taliyah Blair</actor>
+			<role>Lian</role>
+		</credit>
+		<credit>
+			<actor>Aubrey Lin</actor>
+			<role>Omi</role>
+		</credit>
+		<credit>
+			<actor>Amir Boutrous</actor>
+			<role>Jamal</role>
+		</credit>
+		<credit>
+			<actor>Numan Acar</actor>
+			<role>Hakim</role>
+		</credit>
+		<credit>
+			<actor>Omari Bernard</actor>
+			<role>Guard #1</role>
+		</credit>
+		<credit>
+			<actor>Nathaniel Ellul</actor>
+			<role>Guard #2</role>
+		</credit>
+		<credit>
+			<actor>Sebastien Torkia</actor>
+			<role>Guard #3</role>
+		</credit>
+		<credit>
+			<actor>Buckso Dhillon-Woolley</actor>
+			<role>Matron</role>
+		</credit>
+		<credit>
+			<actor>Ceara Batson</actor>
+			<role>School Girl</role>
+		</credit>
+		<credit>
+			<actor>Vinani Mwazanzale</actor>
+			<role>School Girl</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 8 2019</releasedate>
+		<releasedate country="United Kingdom">May 9 2019</releasedate>
+		<releasedate country="Germany">May 11 2019</releasedate>
+		<releasedate country="Jordan">May 13 2019</releasedate>
+		<releasedate country="United States">May 21 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Bulgaria">B</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">7 +</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">7</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">All</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Lithuania">N-7</certificate>
+		<certificate country="Luxembourg">6</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Malta">U</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Mongolia">PG</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Nigeria">12A</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG</certificate>
+		<certificate country="Romania">A.G.</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">7-9</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">7A</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>flying carpet</keyword>
+		<keyword>monkey</keyword>
+		<keyword>tiger</keyword>
+		<keyword>parrot</keyword>
+		<keyword>princess</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>hero</keyword>
+		<keyword>magical carpet</keyword>
+		<keyword>arabian nights</keyword>
+		<keyword>genie character</keyword>
+		<keyword>mistaken identity</keyword>
+		<keyword>thief</keyword>
+		<keyword>cave</keyword>
+		<keyword>carpet</keyword>
+		<keyword>transformation</keyword>
+		<keyword>remake of oscar winner</keyword>
+		<keyword>disney</keyword>
+		<keyword>dungeon</keyword>
+		<keyword>desert</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>wish fulfillment</keyword>
+		<keyword>giant bird</keyword>
+		<keyword>aladdin character</keyword>
+		<keyword>remake</keyword>
+		<keyword>grand vizier</keyword>
+		<keyword>vizier</keyword>
+		<keyword>based on cartoon</keyword>
+		<keyword>hypnosis</keyword>
+		<keyword>blue skin</keyword>
+		<keyword>love</keyword>
+		<keyword>agrabah</keyword>
+		<keyword>genie</keyword>
+		<keyword>live action remake</keyword>
+		<keyword>disney live action remake of animated film</keyword>
+		<keyword>prince</keyword>
+		<keyword>snow</keyword>
+		<keyword>sorcerer</keyword>
+		<keyword>lava</keyword>
+		<keyword>guard</keyword>
+		<keyword>palace</keyword>
+		<keyword>disguise</keyword>
+		<keyword>bird</keyword>
+		<keyword>room</keyword>
+		<keyword>parade</keyword>
+		<keyword>magical lamp</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>elephant</keyword>
+		<keyword>robbery</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>camel</keyword>
+		<keyword>trumpet</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>dancing</keyword>
+		<keyword>rescue from drowning</keyword>
+		<keyword>anachronism</keyword>
+		<keyword>evil sorcerer</keyword>
+		<keyword>lion</keyword>
+		<keyword>mountain</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>singing</keyword>
+		<keyword>market</keyword>
+		<keyword>wish</keyword>
+		<keyword>magical cave</keyword>
+		<keyword>apple</keyword>
+		<keyword>sword and fantasy</keyword>
+		<keyword>sword and sandal</keyword>
+		<keyword>jafar character</keyword>
+		<keyword>sea</keyword>
+		<keyword>arabia</keyword>
+		<keyword>iraq</keyword>
+		<keyword>famous song</keyword>
+		<keyword>pet monkey</keyword>
+		<keyword>oil lamp</keyword>
+		<keyword>water</keyword>
+		<keyword>dance</keyword>
+		<keyword>princess commoner love</keyword>
+		<keyword>single father</keyword>
+		<keyword>single parent</keyword>
+		<keyword>palace guard</keyword>
+		<keyword>motion capture</keyword>
+		<keyword>good woman</keyword>
+		<keyword>heroine</keyword>
+		<keyword>friendship</keyword>
+		<keyword>gender inequality</keyword>
+		<keyword>moon</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>sultan</keyword>
+		<keyword>magic</keyword>
+		<keyword>snake</keyword>
+		<keyword>friends who live together</keyword>
+		<keyword>saudi arabia</keyword>
+		<keyword>based on folk tale</keyword>
+		<keyword>treasure</keyword>
+		<keyword>theft</keyword>
+		<keyword>flying</keyword>
+		<keyword>moonlight</keyword>
+		<keyword>street child</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>chase</keyword>
+		<keyword>sword</keyword>
+		<keyword>mission</keyword>
+		<keyword>balcony</keyword>
+		<keyword>ruby</keyword>
+		<keyword>arranged marriage</keyword>
+		<keyword>escape</keyword>
+		<keyword>false name</keyword>
+		<keyword>fire</keyword>
+		<keyword>gold</keyword>
+		<keyword>horse</keyword>
+		<keyword>cobra</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>child</keyword>
+		<keyword>runaway</keyword>
+		<keyword>bread</keyword>
+		<keyword>persian</keyword>
+		<keyword>persian carpet</keyword>
+		<keyword>princess jasmine character</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>drowning</keyword>
+		<keyword>ship</keyword>
+		<keyword>dune</keyword>
+		<keyword>falling into water</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>famous score</keyword>
+		<keyword>lantern</keyword>
+		<keyword>ends with wedding</keyword>
+		<keyword>party</keyword>
+		<keyword>storyteller</keyword>
+		<keyword>bracelet</keyword>
+		<keyword>freedom</keyword>
+		<keyword>villain</keyword>
+		<keyword>dance number</keyword>
+		<keyword>wedding</keyword>
+		<keyword>cgi</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>weightlifting</keyword>
+		<keyword>throne</keyword>
+		<keyword>handmaiden</keyword>
+		<keyword>1001 nights</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>battle</keyword>
+		<keyword>fight</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>actor playing multiple roles</keyword>
+		<keyword>djinn</keyword>
+		<keyword>jinn</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>envy</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>temptation</keyword>
+		<keyword>boat</keyword>
+		<keyword>topknot</keyword>
+		<keyword>forced marriage</keyword>
+		<keyword>good man</keyword>
+		<keyword>evil man</keyword>
+		<keyword>stealing bread</keyword>
+		<keyword>turban</keyword>
+		<keyword>marketplace</keyword>
+		<keyword>sneaking</keyword>
+		<keyword>captured</keyword>
+		<keyword>bag over head</keyword>
+		<keyword>camel caravan</keyword>
+		<keyword>kingdom</keyword>
+		<keyword>trapped</keyword>
+		<keyword>marriage ceremony</keyword>
+		<keyword>reference to scheherazade</keyword>
+		<keyword>reference to ali baba</keyword>
+		<keyword>magic spell</keyword>
+		<keyword>hypnotic trance</keyword>
+		<keyword>talking parrot</keyword>
+		<keyword>sailor</keyword>
+		<keyword>master servant relationship</keyword>
+		<keyword>compassionate leader</keyword>
+		<keyword>incognito</keyword>
+		<keyword>mistaken assumption</keyword>
+		<keyword>royal guard</keyword>
+		<keyword>ambition</keyword>
+		<keyword>power</keyword>
+		<keyword>strong female lead</keyword>
+		<keyword>female ruler</keyword>
+		<keyword>oppression of women</keyword>
+		<keyword>sexism</keyword>
+		<keyword>gender roles</keyword>
+		<keyword>misogyny</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>posing as a prince</keyword>
+		<keyword>pretending to be a prince</keyword>
+		<keyword>jam</keyword>
+		<keyword>jewel</keyword>
+		<keyword>hair clip</keyword>
+		<keyword>man dresses as a woman</keyword>
+		<keyword>pet tiger</keyword>
+		<keyword>suitor</keyword>
+		<keyword>war monger</keyword>
+		<keyword>law</keyword>
+		<keyword>honorable</keyword>
+		<keyword>honesty</keyword>
+		<keyword>rescue</keyword>
+		<keyword>three wishes</keyword>
+		<keyword>granting a wish</keyword>
+		<keyword>powerful</keyword>
+		<keyword>cosmic power</keyword>
+		<keyword>posing as a servant</keyword>
+		<keyword>insubordination</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>orphan</keyword>
+		<keyword>hip hop</keyword>
+		<keyword>stylist</keyword>
+		<keyword>granting freedom</keyword>
+		<keyword>liberation</keyword>
+		<keyword>keeping a promise</keyword>
+		<keyword>outsmarting the enemy</keyword>
+		<keyword>resourceful</keyword>
+		<keyword>political ambition</keyword>
+		<keyword>social class</keyword>
+		<keyword>bazaar</keyword>
+		<keyword>pickpocket</keyword>
+		<keyword>awning</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>evading arrest</keyword>
+		<keyword>pushed down a well</keyword>
+		<keyword>port city</keyword>
+		<keyword>street smart</keyword>
+		<keyword>handmaid</keyword>
+		<keyword>protective father</keyword>
+		<keyword>tea</keyword>
+		<keyword>lute</keyword>
+		<keyword>playing a lute</keyword>
+		<keyword>courtship</keyword>
+		<keyword>feminism</keyword>
+		<keyword>patriarchy</keyword>
+		<keyword>rebellious spirit</keyword>
+		<keyword>power hungry</keyword>
+		<keyword>greed</keyword>
+		<keyword>stepping on someone's hand</keyword>
+		<keyword>stretching</keyword>
+		<keyword>pointy ears</keyword>
+		<keyword>drum kit</keyword>
+		<keyword>rapper</keyword>
+		<keyword>rapping</keyword>
+		<keyword>reference to the forty thieves</keyword>
+		<keyword>beatboxing</keyword>
+		<keyword>extravaganza</keyword>
+		<keyword>mic drop</keyword>
+		<keyword>song</keyword>
+		<keyword>mummy</keyword>
+		<keyword>chessboard</keyword>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>watching a movie</keyword>
+		<keyword>movie theater</keyword>
+		<keyword>rewind</keyword>
+		<keyword>new look</keyword>
+		<keyword>brainstorming</keyword>
+		<keyword>outfit</keyword>
+		<keyword>brochure</keyword>
+		<keyword>donkey</keyword>
+		<keyword>turned into an elephant</keyword>
+		<keyword>turned into a prince</keyword>
+		<keyword>entourage</keyword>
+		<keyword>riding an elephant</keyword>
+		<keyword>master of ceremonies</keyword>
+		<keyword>confetti</keyword>
+		<keyword>awkwardness</keyword>
+		<keyword>made up country</keyword>
+		<keyword>embarrassment</keyword>
+		<keyword>gift</keyword>
+		<keyword>controlling someone</keyword>
+		<keyword>dance moves</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>dolphin</keyword>
+		<keyword>travel</keyword>
+		<keyword>sea port</keyword>
+		<keyword>deception</keyword>
+		<keyword>kiss</keyword>
+		<keyword>barbell</keyword>
+		<keyword>dumbell</keyword>
+		<keyword>pretending</keyword>
+		<keyword>facade</keyword>
+		<keyword>satchel</keyword>
+		<keyword>spy</keyword>
+		<keyword>keys</keyword>
+		<keyword>duty</keyword>
+		<keyword>honor</keyword>
+		<keyword>coup</keyword>
+		<keyword>coup d'etat</keyword>
+		<keyword>impostor</keyword>
+		<keyword>crevasse</keyword>
+		<keyword>tornado</keyword>
+		<keyword>vanity</keyword>
+		<keyword>egomaniac</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>trick</keyword>
+		<keyword>apology</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>turned into a human</keyword>
+		<keyword>cgi animal in live action title</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>man tied up</keyword>
+		<keyword>tied to chair</keyword>
+		<keyword>swedish character</keyword>
+		<keyword>disney acid sequence</keyword>
+		<keyword>liar revealed</keyword>
+		<keyword>baghdad iraq</keyword>
+		<keyword>fictional country</keyword>
+		<keyword>giant person</keyword>
+		<keyword>male villain</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>abu the monkey character</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>18th century</keyword>
+		<keyword>live action adaptation</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>norse</keyword>
+		<keyword>jumping rope</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>pet parrot</keyword>
+		<keyword>evil vizier</keyword>
+		<keyword>captain of the guard</keyword>
+		<keyword>poverty</keyword>
+		<keyword>royal palace</keyword>
+		<keyword>flower</keyword>
+		<keyword>sailing ship</keyword>
+		<keyword>telling a story</keyword>
+		<keyword>theif</keyword>
+		<keyword>cobra staff</keyword>
+		<keyword>jumping between buildings</keyword>
+		<keyword>thrown down a well</keyword>
+		<keyword>police chase</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>slave bracelet</keyword>
+		<keyword>marionette</keyword>
+		<keyword>song and dance</keyword>
+		<keyword>rock climbing</keyword>
+		<keyword>rules</keyword>
+		<keyword>mezmerized</keyword>
+		<keyword>stepping on hand</keyword>
+		<keyword>cave of wonders</keyword>
+		<keyword>scroll</keyword>
+		<keyword>ababwa</keyword>
+		<keyword>kissing in public</keyword>
+		<keyword>procession</keyword>
+		<keyword>ostrich</keyword>
+		<keyword>throwing money to a crowd</keyword>
+		<keyword>solo dance</keyword>
+		<keyword>bouquet</keyword>
+		<keyword>dance routine during end credits</keyword>
+		<keyword>camel riding</keyword>
+		<keyword>cavern</keyword>
+		<keyword>male female relationship</keyword>
+		<keyword>thief hero</keyword>
+		<keyword>fairy tale fantasy</keyword>
+		<keyword>pop musical</keyword>
+		<keyword>timeframe 18th century</keyword>
+		<keyword>family comedy</keyword>
+		<keyword>drums</keyword>
+		<keyword>epic adventure</keyword>
+		<keyword>desert adventure</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>1000s</keyword>
+		<keyword>1710s</keyword>
+		<keyword>banishment</keyword>
+		<keyword>first love</keyword>
+		<keyword>hustler</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>staff</keyword>
+		<keyword>stealing food</keyword>
+		<keyword>racial stereotype</keyword>
+		<keyword>sky lantern</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>one word title</keyword>
+		<keyword>iago the parrot character</keyword>
+		<keyword>sand</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>musical number</keyword>
+		<keyword>self referential</keyword>
+		<keyword>map</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>royalty</keyword>
+		<keyword>mind control</keyword>
+		<keyword>rags to riches</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Guy Ritchie</director>
+	</directors>
+	<composers>
+		<composer> Alan Menken</composer>
+	</composers>
+	<producers>
+		<producer> Ivan Atkinson</producer>
+		<producer> Kevin de la Noy</producer>
+		<producer> Jonathan Eirich</producer>
+		<producer> James Herbert</producer>
+		<producer> Max Keene</producer>
+		<producer> Dan Lin</producer>
+		<producer> Karl McMillan</producer>
+		<producer> Mark Mostyn</producer>
+		<producer> Marc Platt</producer>
+	</producers>
+	<writers>
+		<writer> John August</writer>
+		<writer> Guy Ritchie</writer>
+	</writers>
+	<editors>
+		<editor> James Herbert</editor>
+	</editors>
+</doc>

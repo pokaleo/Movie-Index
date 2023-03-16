@@ -1,0 +1,643 @@
+<?xml version="1.0" ?>
+<doc id="tt1302006">
+	<docid>tt1302006</docid>
+	<title>The Irishman</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">209</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>An illustration of Frank Sheeran's life, from WWII veteran, to hitman for the Bufalino crime family and his alleged assassination of close friend, Jimmy Hoffa.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Robert De Niro</actor>
+			<role>Frank Sheeran</role>
+		</credit>
+		<credit>
+			<actor>Al Pacino</actor>
+			<role>Jimmy Hoffa</role>
+		</credit>
+		<credit>
+			<actor>Joe Pesci</actor>
+			<role>Russell Bufalino</role>
+		</credit>
+		<credit>
+			<actor>Harvey Keitel</actor>
+			<role>Angelo Bruno</role>
+		</credit>
+		<credit>
+			<actor>Ray Romano</actor>
+			<role>Bill Bufalino</role>
+		</credit>
+		<credit>
+			<actor>Bobby Cannavale</actor>
+			<role>Skinny Razor</role>
+		</credit>
+		<credit>
+			<actor>Anna Paquin</actor>
+			<role>Older Peggy Sheeran</role>
+		</credit>
+		<credit>
+			<actor>Stephen Graham</actor>
+			<role>Anthony 'Tony Pro' Provenzano</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Kurtzuba</actor>
+			<role>Irene Sheeran</role>
+		</credit>
+		<credit>
+			<actor>Jack Huston</actor>
+			<role>Robert Kennedy</role>
+		</credit>
+		<credit>
+			<actor>Kathrine Narducci</actor>
+			<role>Carrie Bufalino</role>
+		</credit>
+		<credit>
+			<actor>Jesse Plemons</actor>
+			<role>Chuckie O'Brien</role>
+		</credit>
+		<credit>
+			<actor>Domenick Lombardozzi</actor>
+			<role>Fat Tony Salerno</role>
+		</credit>
+		<credit>
+			<actor>Paul Herman</actor>
+			<role>Whispers DiTullio</role>
+		</credit>
+		<credit>
+			<actor>Gary Basaraba</actor>
+			<role>Frank 'Fitz' Fitzsimmons</role>
+		</credit>
+		<credit>
+			<actor>Marin Ireland</actor>
+			<role>Older Dolores Sheeran</role>
+		</credit>
+		<credit>
+			<actor>Lucy Gallina</actor>
+			<role>Young Peggy Sheeran</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Morris</actor>
+			<role>Assisted Living Priest</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 27 2019</releasedate>
+		<releasedate country="United States">October 8 2019</releasedate>
+		<releasedate country="United States">October 11 2019</releasedate>
+		<releasedate country="United Kingdom">October 13 2019</releasedate>
+		<releasedate country="France">October 15 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>criminal as protagonist</keyword>
+		<keyword>killer as protagonist</keyword>
+		<keyword>gangster</keyword>
+		<keyword>murder</keyword>
+		<keyword>truck driver</keyword>
+		<keyword>pushing a taxi into water</keyword>
+		<keyword>prison</keyword>
+		<keyword>explosion</keyword>
+		<keyword>ring</keyword>
+		<keyword>delivery truck</keyword>
+		<keyword>wedding</keyword>
+		<keyword>throwing a gun into water</keyword>
+		<keyword>courtroom</keyword>
+		<keyword>digging own grave</keyword>
+		<keyword>tv news</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>death</keyword>
+		<keyword>crime epic</keyword>
+		<keyword>violence</keyword>
+		<keyword>gun violence</keyword>
+		<keyword>gun</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>late arrival</keyword>
+		<keyword>profanity</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>travel</keyword>
+		<keyword>meat</keyword>
+		<keyword>gangland murder</keyword>
+		<keyword>mafia</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>contract murderer</keyword>
+		<keyword>teamsters union</keyword>
+		<keyword>labor union</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>thug</keyword>
+		<keyword>italian american</keyword>
+		<keyword>detroit michigan</keyword>
+		<keyword>map</keyword>
+		<keyword>telephone</keyword>
+		<keyword>truck</keyword>
+		<keyword>extortion</keyword>
+		<keyword>bribery</keyword>
+		<keyword>money</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>flashback within a flashback</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>cremation</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>old people's home</keyword>
+		<keyword>memory</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>casino</keyword>
+		<keyword>christmas present</keyword>
+		<keyword>ice skates</keyword>
+		<keyword>road trip</keyword>
+		<keyword>airplane</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>ice cream</keyword>
+		<keyword>fish</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>cuba</keyword>
+		<keyword>1960s</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>american politics</keyword>
+		<keyword>awards banquet</keyword>
+		<keyword>driver</keyword>
+		<keyword>flat tire</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dancing</keyword>
+		<keyword>priest</keyword>
+		<keyword>catholic</keyword>
+		<keyword>baby</keyword>
+		<keyword>baptism</keyword>
+		<keyword>divorce</keyword>
+		<keyword>hotel</keyword>
+		<keyword>motel</keyword>
+		<keyword>pajamas</keyword>
+		<keyword>blood</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>ruthlessness</keyword>
+		<keyword>comedian</keyword>
+		<keyword>architectural model</keyword>
+		<keyword>singer</keyword>
+		<keyword>singing</keyword>
+		<keyword>side of beef</keyword>
+		<keyword>bay of pigs invasion</keyword>
+		<keyword>church</keyword>
+		<keyword>theft</keyword>
+		<keyword>trial</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>digging</keyword>
+		<keyword>barbershop</keyword>
+		<keyword>kicked in the head</keyword>
+		<keyword>bowling</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>watermelon</keyword>
+		<keyword>flag</keyword>
+		<keyword>american flag</keyword>
+		<keyword>john f. kennedy assassination</keyword>
+		<keyword>funeral</keyword>
+		<keyword>arrest</keyword>
+		<keyword>watergate</keyword>
+		<keyword>cancer</keyword>
+		<keyword>coffin</keyword>
+		<keyword>coffin salesman</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>mysterious death</keyword>
+		<keyword>marriage</keyword>
+		<keyword>mobster</keyword>
+		<keyword>wearing sunglasses indoors</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>cabinet officer</keyword>
+		<keyword>congressional hearing</keyword>
+		<keyword>1970s</keyword>
+		<keyword>taxi</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>jerry vale character</keyword>
+		<keyword>fraud</keyword>
+		<keyword>don rickles character</keyword>
+		<keyword>old man</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>man wears sunglasses</keyword>
+		<keyword>woman wears sunglasses</keyword>
+		<keyword>ice cream sundae</keyword>
+		<keyword>casket</keyword>
+		<keyword>casket salesman</keyword>
+		<keyword>prison visit</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>judge</keyword>
+		<keyword>court</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>world war two</keyword>
+		<keyword>salerno italy</keyword>
+		<keyword>florida</keyword>
+		<keyword>miami florida</keyword>
+		<keyword>man uses crutches</keyword>
+		<keyword>man wears pajamas</keyword>
+		<keyword>reference to god</keyword>
+		<keyword>epic</keyword>
+		<keyword>prison violence</keyword>
+		<keyword>driving</keyword>
+		<keyword>burning a dead body</keyword>
+		<keyword>burning a corpse</keyword>
+		<keyword>dead body</keyword>
+		<keyword>corpse</keyword>
+		<keyword>child</keyword>
+		<keyword>taxicab</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>reference to the beatles</keyword>
+		<keyword>reference to the fbi</keyword>
+		<keyword>f word</keyword>
+		<keyword>reference to frank sinatra</keyword>
+		<keyword>cuban missile crisis</keyword>
+		<keyword>digital de aging</keyword>
+		<keyword>new york city</keyword>
+		<keyword>meat packing plant</keyword>
+		<keyword>glasses</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>lighting a cigarette</keyword>
+		<keyword>zippo lighter</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>cross necklace</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>driving a truck</keyword>
+		<keyword>truck breakdown</keyword>
+		<keyword>car</keyword>
+		<keyword>barber</keyword>
+		<keyword>bowling ball</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>magazine</keyword>
+		<keyword>reading a magazine</keyword>
+		<keyword>television</keyword>
+		<keyword>pool</keyword>
+		<keyword>sunbed</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>handcuffed</keyword>
+		<keyword>handcuffed behind back</keyword>
+		<keyword>handcuffed man</keyword>
+		<keyword>blonde</keyword>
+		<keyword>blond hair</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>armchair</keyword>
+		<keyword>couch</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>car radio</keyword>
+		<keyword>green coffin</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>lighting a cigar</keyword>
+		<keyword>photograph</keyword>
+		<keyword>old photograph</keyword>
+		<keyword>stairs</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>highways map</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>1950s</keyword>
+		<keyword>20th century</keyword>
+		<keyword>reference to richard nixon</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>assassin</keyword>
+		<keyword>union</keyword>
+		<keyword>union leader</keyword>
+		<keyword>long take</keyword>
+		<keyword>retirement home</keyword>
+		<keyword>nurse</keyword>
+		<keyword>teamster</keyword>
+		<keyword>crutches</keyword>
+		<keyword>walking stick</keyword>
+		<keyword>las vegas nevada</keyword>
+		<keyword>enforcer</keyword>
+		<keyword>funeral parlor</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>news report</keyword>
+		<keyword>montage</keyword>
+		<keyword>jewish american</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>gay slur</keyword>
+		<keyword>1940s</keyword>
+		<keyword>philadelphia pennsylvania</keyword>
+		<keyword>brutality</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>2010s</keyword>
+		<keyword>year 1963</keyword>
+		<keyword>year 1975</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>delaware</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>reference to fidel castro</keyword>
+		<keyword>reference to john f. kennedy</keyword>
+		<keyword>reference to robert kennedy</keyword>
+		<keyword>reference to elvis presley</keyword>
+		<keyword>ambush</keyword>
+		<keyword>bank</keyword>
+		<keyword>new jersey</keyword>
+		<keyword>bank teller</keyword>
+		<keyword>brooklyn bridge</keyword>
+		<keyword>brooklyn new york city</keyword>
+		<keyword>harlem manhattan new york city</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>mob boss</keyword>
+		<keyword>mafia boss</keyword>
+		<keyword>boat</keyword>
+		<keyword>loud shirt</keyword>
+		<keyword>golf course</keyword>
+		<keyword>golf club</keyword>
+		<keyword>mob violence</keyword>
+		<keyword>mob hit</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>golf</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>press conference</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>garrotte</keyword>
+		<keyword>gas station</keyword>
+		<keyword>truck stop</keyword>
+		<keyword>steak</keyword>
+		<keyword>abattoir</keyword>
+		<keyword>chicken</keyword>
+		<keyword>butcher</keyword>
+		<keyword>mechanic</keyword>
+		<keyword>attorney general</keyword>
+		<keyword>district attorney</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>pistol</keyword>
+		<keyword>silencer</keyword>
+		<keyword>exploding boat</keyword>
+		<keyword>bomb</keyword>
+		<keyword>car bomb</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>airfield</keyword>
+		<keyword>criminal</keyword>
+		<keyword>diner</keyword>
+		<keyword>bar</keyword>
+		<keyword>revolver</keyword>
+		<keyword>sawed off shotgun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>arms smuggling</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>corruption</keyword>
+		<keyword>show and tell</keyword>
+		<keyword>assassination</keyword>
+		<keyword>lake house</keyword>
+		<keyword>machismo</keyword>
+		<keyword>revenge</keyword>
+		<keyword>beating</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>car wash</keyword>
+		<keyword>sports car</keyword>
+		<keyword>rise to power</keyword>
+		<keyword>world war two veteran</keyword>
+		<keyword>rifle</keyword>
+		<keyword>burial</keyword>
+		<keyword>gravedigging</keyword>
+		<keyword>toy gun</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>mugshot</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>double cross</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>presidential election</keyword>
+		<keyword>president</keyword>
+		<keyword>loan shark</keyword>
+		<keyword>irish versus italians</keyword>
+		<keyword>beer</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>hot dog</keyword>
+		<keyword>motel room</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>distrust</keyword>
+		<keyword>card game</keyword>
+		<keyword>prison fight</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>stand up comedian</keyword>
+		<keyword>telling a joke</keyword>
+		<keyword>embezzlement</keyword>
+		<keyword>guilt</keyword>
+		<keyword>reflection</keyword>
+		<keyword>obese man</keyword>
+		<keyword>threat</keyword>
+		<keyword>intimidation</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>politics</keyword>
+		<keyword>contract killer</keyword>
+		<keyword>delivery man</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>pennsylvania</keyword>
+		<keyword>pension fund</keyword>
+		<keyword>power</keyword>
+		<keyword>shot point blank</keyword>
+		<keyword>nursing home</keyword>
+		<keyword>year 1960</keyword>
+		<keyword>year 1964</keyword>
+		<keyword>year 1971</keyword>
+		<keyword>catholic church</keyword>
+		<keyword>catholic priest</keyword>
+		<keyword>release from prison</keyword>
+		<keyword>cover up</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>furnace</keyword>
+		<keyword>body in a trunk</keyword>
+		<keyword>disposing of a dead body</keyword>
+		<keyword>pleading the 5th amendment</keyword>
+		<keyword>year 1973</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>dinner party</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>airport</keyword>
+		<keyword>little girl</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>animal killing</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>straight razor</keyword>
+		<keyword>cook</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>river</keyword>
+		<keyword>bridge</keyword>
+		<keyword>car into water</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>manager</keyword>
+		<keyword>arson</keyword>
+		<keyword>neighborhood</keyword>
+		<keyword>employee employee relationship</keyword>
+		<keyword>scar</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>suburbia</keyword>
+		<keyword>school</keyword>
+		<keyword>junkyard</keyword>
+		<keyword>shopkeeper</keyword>
+		<keyword>m16</keyword>
+		<keyword>chicago illinois</keyword>
+		<keyword>world trade center manhattan new york city</keyword>
+		<keyword>insurance</keyword>
+		<keyword>loan</keyword>
+		<keyword>law</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>man uses a wheelchair</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>american mafia</keyword>
+		<keyword>philadelphia mob</keyword>
+		<keyword>colombo crime family</keyword>
+		<keyword>joseph colombo</keyword>
+		<keyword>mob hitman</keyword>
+		<keyword>gangland execution</keyword>
+		<keyword>mafia don</keyword>
+		<keyword>genovese crime family</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>suburb</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>jimmy hoffa character</keyword>
+		<keyword>grocer</keyword>
+		<keyword>furrier</keyword>
+		<keyword>robert f. kennedy character</keyword>
+		<keyword>jail visit</keyword>
+		<keyword>epic drama</keyword>
+		<keyword>gangster crime</keyword>
+		<keyword>timeframe 1940s</keyword>
+		<keyword>timeframe 1950s</keyword>
+		<keyword>timeframe 1960s</keyword>
+		<keyword>timeframe 1970s</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 20th century</keyword>
+		<keyword>mini golf</keyword>
+		<keyword>tobacco</keyword>
+		<keyword>kicking</keyword>
+		<keyword>swearing</keyword>
+		<keyword>smoking tobacco</keyword>
+		<keyword>zippo</keyword>
+		<keyword>based on real people</keyword>
+		<keyword>boss</keyword>
+		<keyword>true crime</keyword>
+		<keyword>nickname in title</keyword>
+		<keyword>irish american</keyword>
+		<keyword>hitman</keyword>
+		<keyword>italian mafia</keyword>
+		<keyword>regret</keyword>
+		<keyword>aging</keyword>
+		<keyword>cgi</keyword>
+		<keyword>flashback</keyword>
+		<keyword>two word title</keyword>
+		<keyword>independent film</keyword>
+		<keyword>based on book</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>christmas</keyword>
+	</keywords>
+	<directors>
+		<director> Martin Scorsese</director>
+	</directors>
+	<composers>
+		<composer> Robbie Robertson</composer>
+	</composers>
+	<producers>
+		<producer> Richard Baratta</producer>
+		<producer> Marianne Bower</producer>
+		<producer> Gerald Chamales</producer>
+		<producer> Robert De Niro</producer>
+		<producer> Randall Emmett</producer>
+		<producer> George Furla</producer>
+		<producer> Gabriele Israilovici</producer>
+		<producer> Niels Juul</producer>
+		<producer> Gastón Pavlovich</producer>
+		<producer> Nicholas Pileggi</producer>
+		<producer> Jane Rosenthal</producer>
+		<producer> Martin Scorsese</producer>
+		<producer> Jai Stefan</producer>
+		<producer> Emma Tillinger Koskoff</producer>
+		<producer> Chad A. Verdi</producer>
+		<producer> David Webb</producer>
+		<producer> Berry Welsh</producer>
+		<producer> Irwin Winkler</producer>
+		<producer> Rick York</producer>
+		<producer> Tyler Zacharia</producer>
+	</producers>
+	<writers>
+		<writer> Steven Zaillian</writer>
+		<writer> Charles Brandt</writer>
+	</writers>
+	<editors>
+		<editor> Thelma Schoonmaker</editor>
+	</editors>
+</doc>

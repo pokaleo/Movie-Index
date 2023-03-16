@@ -1,0 +1,354 @@
+<?xml version="1.0" ?>
+<doc id="tt3263904">
+	<docid>tt3263904</docid>
+	<title>Sully</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2NmZDAwM2QtZmFiMS00OTJlLTgxMTItZDMyZmVhYjE1MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">96</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>When pilot Chesley &quot;Sully&quot; Sullenberger lands his damaged plane on the Hudson River in order to save the flight's passengers and crew, some consider him a hero while others think he was reckless.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tom Hanks</actor>
+			<role>Chesley 'Sully' Sullenberger</role>
+		</credit>
+		<credit>
+			<actor>Aaron Eckhart</actor>
+			<role>Jeff Skiles</role>
+		</credit>
+		<credit>
+			<actor>Laura Linney</actor>
+			<role>Lorrie Sullenberger</role>
+		</credit>
+		<credit>
+			<actor>Valerie Mahaffey</actor>
+			<role>Diane Higgins</role>
+		</credit>
+		<credit>
+			<actor>Delphi Harrington</actor>
+			<role>Lucille Palmer</role>
+		</credit>
+		<credit>
+			<actor>Mike O'Malley</actor>
+			<role>Charles Porter</role>
+		</credit>
+		<credit>
+			<actor>Jamey Sheridan</actor>
+			<role>Ben Edwards</role>
+		</credit>
+		<credit>
+			<actor>Anna Gunn</actor>
+			<role>Elizabeth Davis</role>
+		</credit>
+		<credit>
+			<actor>Holt McCallany</actor>
+			<role>Mike Cleary</role>
+		</credit>
+		<credit>
+			<actor>Ahmed Lucan</actor>
+			<role>Egyptian Driver</role>
+		</credit>
+		<credit>
+			<actor>Laura Lundy</actor>
+			<role>Reporter #1</role>
+		</credit>
+		<credit>
+			<actor>Onira Tares</actor>
+			<role>Reporter #2</role>
+		</credit>
+		<credit>
+			<actor>Gary Weeks</actor>
+			<role>Reporter #3</role>
+		</credit>
+		<credit>
+			<actor>Katie Couric</actor>
+			<role>Katie Couric</role>
+		</credit>
+		<credit>
+			<actor>Jeff Kober</actor>
+			<role>LT Cook</role>
+		</credit>
+		<credit>
+			<actor>Blake Jones</actor>
+			<role>Sully (16 Years Old)</role>
+		</credit>
+		<credit>
+			<actor>Molly Bernard</actor>
+			<role>Alison</role>
+		</credit>
+		<credit>
+			<actor>Chris Bauer</actor>
+			<role>Larry Rooney</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 2 2016</releasedate>
+		<releasedate country="United States">September 6 2016</releasedate>
+		<releasedate country="United Arab Emirates">September 8 2016</releasedate>
+		<releasedate country="Australia">September 8 2016</releasedate>
+		<releasedate country="Bosnia and Herzegovina">September 8 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">13+</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous Public</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">16D</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>aviation</keyword>
+		<keyword>pilot</keyword>
+		<keyword>investigation</keyword>
+		<keyword>bird sucked into jet engine</keyword>
+		<keyword>airplane accident</keyword>
+		<keyword>hudson river</keyword>
+		<keyword>brace position</keyword>
+		<keyword>interview</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>water landing</keyword>
+		<keyword>airplane</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>flight simulator</keyword>
+		<keyword>diver</keyword>
+		<keyword>public hearing</keyword>
+		<keyword>flight simulation</keyword>
+		<keyword>flight controller</keyword>
+		<keyword>new york city</keyword>
+		<keyword>national transportation safety board</keyword>
+		<keyword>teterboro new jersey</keyword>
+		<keyword>plane crashes into the water</keyword>
+		<keyword>life changing decision</keyword>
+		<keyword>nickname as title</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>hotel</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>co pilot</keyword>
+		<keyword>rescue</keyword>
+		<keyword>airliner</keyword>
+		<keyword>board of inquiry</keyword>
+		<keyword>accident investigation</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>hero</keyword>
+		<keyword>stewardess</keyword>
+		<keyword>air traffic controller</keyword>
+		<keyword>passenger</keyword>
+		<keyword>passenger plane</keyword>
+		<keyword>airbus</keyword>
+		<keyword>airbus a320</keyword>
+		<keyword>jet</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>jet fighter</keyword>
+		<keyword>river</keyword>
+		<keyword>ship</keyword>
+		<keyword>new york cityscape</keyword>
+		<keyword>self doubt</keyword>
+		<keyword>ends with text</keyword>
+		<keyword>computer simulation</keyword>
+		<keyword>jogging</keyword>
+		<keyword>mcdonnell f 4 phantom ii</keyword>
+		<keyword>aircraft carrier museum</keyword>
+		<keyword>drag chute</keyword>
+		<keyword>ferry</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>bell 205 helicopter</keyword>
+		<keyword>reference to brooks brothers</keyword>
+		<keyword>scuba diver</keyword>
+		<keyword>ends with real life footage</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>aircraft cockpit</keyword>
+		<keyword>crying</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>flight</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>telling a joke</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>airplane pilot</keyword>
+		<keyword>airplane wreck</keyword>
+		<keyword>airline</keyword>
+		<keyword>disaster drama</keyword>
+		<keyword>disaster action</keyword>
+		<keyword>commercial air travel</keyword>
+		<keyword>one word title</keyword>
+		<keyword>taxi</keyword>
+		<keyword>2000s</keyword>
+		<keyword>taxi driver</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>airport</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>escape</keyword>
+		<keyword>flight attendant</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>water</keyword>
+		<keyword>older man younger woman relationship</keyword>
+		<keyword>flood</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>fighter plane</keyword>
+		<keyword>fighter pilot</keyword>
+		<keyword>audio begins before video</keyword>
+		<keyword>crop duster</keyword>
+		<keyword>flashback</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>film ends with text</keyword>
+		<keyword>doubt</keyword>
+		<keyword>trial</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>news report</keyword>
+		<keyword>reference to september 11 2001</keyword>
+		<keyword>cameo</keyword>
+		<keyword>talk show host</keyword>
+		<keyword>bank foreclosure</keyword>
+		<keyword>hotel manager</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>nypd</keyword>
+		<keyword>snow</keyword>
+		<keyword>locker room</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>times square manhattan new york city</keyword>
+		<keyword>disaster</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police</keyword>
+		<keyword>new york city fire department</keyword>
+		<keyword>race against time</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>winter</keyword>
+		<keyword>control tower</keyword>
+		<keyword>map</keyword>
+		<keyword>altimeter</keyword>
+		<keyword>doctor</keyword>
+		<keyword>hospital</keyword>
+		<keyword>movies for teens</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>rated pg 13 movies</keyword>
+		<keyword>bird strike</keyword>
+		<keyword>bird</keyword>
+		<keyword>laguardia airport queens new york city</keyword>
+		<keyword>reference to 9 11</keyword>
+		<keyword>airplane in water</keyword>
+		<keyword>flight deck</keyword>
+		<keyword>forced decision</keyword>
+		<keyword>decision making</keyword>
+		<keyword>stress relief</keyword>
+		<keyword>year 2009</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>bathroom</keyword>
+		<keyword>reference to michael bloomberg</keyword>
+		<keyword>raft</keyword>
+		<keyword>swimming</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>blood</keyword>
+		<keyword>news reporter</keyword>
+		<keyword>explosion</keyword>
+		<keyword>vodka</keyword>
+		<keyword>bartender</keyword>
+		<keyword>bar</keyword>
+		<keyword>test pilot</keyword>
+		<keyword>simulation</keyword>
+		<keyword>mustache</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>based on book</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Clint Eastwood</director>
+	</directors>
+	<composers>
+		<composer> Christian Jacob</composer>
+		<composer> Tierney Sutton Band</composer>
+	</composers>
+	<producers>
+		<producer> Bruce Berman</producer>
+		<producer> Clint Eastwood</producer>
+		<producer> Frank Marshall</producer>
+		<producer> Jessica Meier</producer>
+		<producer> Steven Mnuchin</producer>
+		<producer> Tim Moore</producer>
+		<producer> Kipp Nelson</producer>
+		<producer> Kristina Rivera</producer>
+		<producer> Allyn Stewart</producer>
+	</producers>
+	<writers>
+		<writer> Todd Komarnicki</writer>
+		<writer> Chesley Sullenberger</writer>
+		<writer> Jeffrey Zaslow</writer>
+	</writers>
+	<editors>
+		<editor> Blu Murray</editor>
+	</editors>
+</doc>

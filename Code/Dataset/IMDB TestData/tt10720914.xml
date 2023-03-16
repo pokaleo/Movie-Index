@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<doc id="tt10720914">
+	<docid>tt10720914</docid>
+	<title>McDonald &amp; Dodds</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGY1NjgxN2YtYmQ4NS00NGE2LTlkMjktZDRkMjkyNmNkNDM0XkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A shy and enigmatic Detective Sergeant is partnered with a wildly ambitious Detective Chief Inspector to solve crimes in the historic city of Bath.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jason Watkins</actor>
+			<role>DS Dodds</role>
+		</credit>
+		<credit>
+			<actor>Tala Gouveia</actor>
+			<role>DCI Lauren McDonald</role>
+		</credit>
+		<credit>
+			<actor>Lily Sacofsky</actor>
+			<role>DC Milena Paciorkowski</role>
+		</credit>
+		<credit>
+			<actor>Jack Riddiford</actor>
+			<role>DC Darren Craig</role>
+		</credit>
+		<credit>
+			<actor>James Murray</actor>
+			<role>CS John Houseman</role>
+		</credit>
+		<credit>
+			<actor>Charlie Jones</actor>
+			<role>DC Samuel Goldie</role>
+		</credit>
+		<credit>
+			<actor>Danyal Ismail</actor>
+			<role>DC Martin Malik</role>
+		</credit>
+		<credit>
+			<actor>Claire Skinner</actor>
+			<role>CS Mary Ormond</role>
+		</credit>
+		<credit>
+			<actor>Pearl Chanda</actor>
+			<role>DC Laura Simpson</role>
+		</credit>
+		<credit>
+			<actor>Suzanne Packer</actor>
+			<role>Jane Crawford</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Knapp</actor>
+			<role>Seth Murdoch</role>
+		</credit>
+		<credit>
+			<actor>Rosie Day</actor>
+			<role>Rose Boleyn</role>
+		</credit>
+		<credit>
+			<actor>Joy McAvoy</actor>
+			<role>Angela McGruder</role>
+		</credit>
+		<credit>
+			<actor>Paul McGann</actor>
+			<role>Archie Addington</role>
+		</credit>
+		<credit>
+			<actor>Max Bennett</actor>
+			<role>Martin Silver</role>
+		</credit>
+		<credit>
+			<actor>Caoimhe O'Malley</actor>
+			<role>Elodie Docherty</role>
+		</credit>
+		<credit>
+			<actor>Joanna Scanlan</actor>
+			<role>Kelly Mulcreevy</role>
+		</credit>
+		<credit>
+			<actor>Robert Lindsay</actor>
+			<role>Max Crockett</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">February 28 2020</releasedate>
+		<releasedate country="United Kingdom">March 1 2020</releasedate>
+		<releasedate country="Poland">March 1 2020</releasedate>
+		<releasedate country="Australia">March 16 2020</releasedate>
+		<releasedate country="Philippines">March 16 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Italy">BA</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+		<keyword>bath england</keyword>
+		<keyword>police partnership</keyword>
+		<keyword>odd couple</keyword>
+		<keyword>detective chief inspector</keyword>
+		<keyword>female police detective</keyword>
+		<keyword>detective sergeant</keyword>
+		<keyword>character names as title</keyword>
+		<keyword>police procedural crime</keyword>
+		<keyword>bumbling detective mystery</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>whodunnit mystery</keyword>
+		<keyword>whodunit</keyword>
+	</keywords>
+	<directors>
+		<director> Laura Scrivano</director>
+		<director> Richard Senior</director>
+		<director> Ian Aryeh</director>
+		<director> Alex Pillai</director>
+		<director> Rebecca Rycroft</director>
+		<director> Robert Quinn</director>
+		<director> Sasha Ransome</director>
+		<director> Isher Sahota</director>
+	</directors>
+	<composers>
+		<composer> Blair Mowat</composer>
+	</composers>
+	<producers>
+		<producer> Robert Murphy</producer>
+		<producer> Damien Timmer</producer>
+		<producer> Sarah Lewis</producer>
+		<producer> Preethi Mavahalli</producer>
+		<producer> Rebecca Davies</producer>
+		<producer> Howard Ella</producer>
+		<producer> Andy Kitching</producer>
+		<producer> Lorena Wright</producer>
+		<producer> Amy Thurgood</producer>
+		<producer> Gareth I. Davies</producer>
+		<producer> Lennie Watson</producer>
+		<producer> Donall McCusker</producer>
+	</producers>
+	<writers>
+		<writer> Robert Murphy</writer>
+		<writer> Robert Murphy</writer>
+		<writer> Kam Odedra</writer>
+		<writer> Robert Drummond</writer>
+	</writers>
+	<editors>
+		<editor> Meredith Leece</editor>
+		<editor> Andy Morrison</editor>
+		<editor> Simon Brasse</editor>
+		<editor> Andrew McKee</editor>
+		<editor> Jo Smyth</editor>
+		<editor> Adam Bokey</editor>
+		<editor> Rob Garwood</editor>
+		<editor> Simon Starling</editor>
+	</editors>
+</doc>

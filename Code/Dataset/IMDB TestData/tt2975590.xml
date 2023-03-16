@@ -1,0 +1,952 @@
+<?xml version="1.0" ?>
+<doc id="tt2975590">
+	<docid>tt2975590</docid>
+	<title>Batman v Superman: Dawn of Justice</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">151</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ben Affleck</actor>
+			<role>Bruce Wayne</role>
+		</credit>
+		<credit>
+			<actor>Henry Cavill</actor>
+			<role>Clark Kent</role>
+		</credit>
+		<credit>
+			<actor>Amy Adams</actor>
+			<role>Lois</role>
+		</credit>
+		<credit>
+			<actor>Jesse Eisenberg</actor>
+			<role>Lex Luthor</role>
+		</credit>
+		<credit>
+			<actor>Diane Lane</actor>
+			<role>Martha Kent</role>
+		</credit>
+		<credit>
+			<actor>Laurence Fishburne</actor>
+			<role>Perry White</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Irons</actor>
+			<role>Alfred</role>
+		</credit>
+		<credit>
+			<actor>Holly Hunter</actor>
+			<role>Senator Finch</role>
+		</credit>
+		<credit>
+			<actor>Gal Gadot</actor>
+			<role>Diana Prince</role>
+		</credit>
+		<credit>
+			<actor>Scoot McNairy</actor>
+			<role>Wallace Keefe</role>
+		</credit>
+		<credit>
+			<actor>Callan Mulvey</actor>
+			<role>Anatoli Knyazev</role>
+		</credit>
+		<credit>
+			<actor>Tao Okamoto</actor>
+			<role>Mercy Graves</role>
+		</credit>
+		<credit>
+			<actor>Brandon Spink</actor>
+			<role>Young Bruce Wayne</role>
+		</credit>
+		<credit>
+			<actor>Lauren Cohan</actor>
+			<role>Martha Wayne</role>
+		</credit>
+		<credit>
+			<actor>Alan D. Purwin</actor>
+			<role>Wayne Industries Pilot</role>
+		</credit>
+		<credit>
+			<actor>Mark Edward Taylor</actor>
+			<role>Wayne Industries Pilot</role>
+		</credit>
+		<credit>
+			<actor>Hugh Maguire</actor>
+			<role>Jack O' Dwyer</role>
+		</credit>
+		<credit>
+			<actor>Michael Shannon</actor>
+			<role>Zod</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="China">March 12 2016</releasedate>
+		<releasedate country="Mexico">March 19 2016</releasedate>
+		<releasedate country="United States">March 20 2016</releasedate>
+		<releasedate country="United States">March 20 2016</releasedate>
+		<releasedate country="United Kingdom">March 22 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>superhero</keyword>
+		<keyword>dc extended universe</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>sequel to a reboot</keyword>
+		<keyword>sequel</keyword>
+		<keyword>superhero versus superhero</keyword>
+		<keyword>revenge</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>gotham</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>alien</keyword>
+		<keyword>superman character</keyword>
+		<keyword>clark kent character</keyword>
+		<keyword>lois lane character</keyword>
+		<keyword>death of superman</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>journalist</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>masked vigilante</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>second part</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>alien superhero</keyword>
+		<keyword>evil genius</keyword>
+		<keyword>kryptonian</keyword>
+		<keyword>masked superhero</keyword>
+		<keyword>male kryptonian</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>superhero crying</keyword>
+		<keyword>reference to alice in wonderland</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>good man</keyword>
+		<keyword>good woman</keyword>
+		<keyword>weapon</keyword>
+		<keyword>cyborg character</keyword>
+		<keyword>alfred pennyworth character</keyword>
+		<keyword>aquaman character</keyword>
+		<keyword>batman character</keyword>
+		<keyword>bruce wayne character</keyword>
+		<keyword>diana prince character</keyword>
+		<keyword>jimmy olsen character</keyword>
+		<keyword>lana lang character</keyword>
+		<keyword>martha kent character</keyword>
+		<keyword>martha wayne character</keyword>
+		<keyword>perry white character</keyword>
+		<keyword>thomas wayne character</keyword>
+		<keyword>wonder woman character</keyword>
+		<keyword>lex luthor character</keyword>
+		<keyword>doomsday character</keyword>
+		<keyword>mercy graves character</keyword>
+		<keyword>the flash character</keyword>
+		<keyword>reference to the warriors</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>cult film</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>under armour</keyword>
+		<keyword>candy</keyword>
+		<keyword>public broadcasting service</keyword>
+		<keyword>telemundo</keyword>
+		<keyword>cnn</keyword>
+		<keyword>reference to zeus the greek deity</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>woman in a bathtub</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>bmw</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>chrysler automobile</keyword>
+		<keyword>dodge the car</keyword>
+		<keyword>fiat</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>gmc</keyword>
+		<keyword>jeep</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>pontiac</keyword>
+		<keyword>volvo car</keyword>
+		<keyword>ford crown victoria</keyword>
+		<keyword>nissan</keyword>
+		<keyword>pontiac grand prix</keyword>
+		<keyword>jeep cherokee</keyword>
+		<keyword>mercedes benz c klasse</keyword>
+		<keyword>training montage</keyword>
+		<keyword>six word title</keyword>
+		<keyword>female accomplice</keyword>
+		<keyword>mass murder</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>action girl</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>male extraterrestrial</keyword>
+		<keyword>time travel</keyword>
+		<keyword>male time traveler</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>crossover</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>antique dealer</keyword>
+		<keyword>intrepid hero</keyword>
+		<keyword>mugger</keyword>
+		<keyword>super strength</keyword>
+		<keyword>earpiece</keyword>
+		<keyword>u.s. senator</keyword>
+		<keyword>college football</keyword>
+		<keyword>football game</keyword>
+		<keyword>football team</keyword>
+		<keyword>rivalry football game</keyword>
+		<keyword>mass destruction</keyword>
+		<keyword>branded</keyword>
+		<keyword>boxing</keyword>
+		<keyword>underground boxing</keyword>
+		<keyword>invitation</keyword>
+		<keyword>woman of mystery</keyword>
+		<keyword>crypt</keyword>
+		<keyword>brand</keyword>
+		<keyword>amputee</keyword>
+		<keyword>shiv</keyword>
+		<keyword>reference to the robert f. kennedy assassination</keyword>
+		<keyword>reference to the martin luther king jr. assassination</keyword>
+		<keyword>reference to the john f. kennedy assassination</keyword>
+		<keyword>gala</keyword>
+		<keyword>reference to alexander the great</keyword>
+		<keyword>reference to the gordian knot</keyword>
+		<keyword>museum curator</keyword>
+		<keyword>post apocalyptic future</keyword>
+		<keyword>parademon</keyword>
+		<keyword>ship</keyword>
+		<keyword>reference to wolfgang amadeus mozart</keyword>
+		<keyword>prison inmate</keyword>
+		<keyword>prison yard</keyword>
+		<keyword>kansas</keyword>
+		<keyword>bat computer</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>city bus</keyword>
+		<keyword>private security contractor</keyword>
+		<keyword>private security</keyword>
+		<keyword>reference to the watergate scandal</keyword>
+		<keyword>set up</keyword>
+		<keyword>witness</keyword>
+		<keyword>conscience</keyword>
+		<keyword>reference to cnn</keyword>
+		<keyword>theft</keyword>
+		<keyword>subway</keyword>
+		<keyword>alien spaceship</keyword>
+		<keyword>key</keyword>
+		<keyword>archive</keyword>
+		<keyword>pull up</keyword>
+		<keyword>tire</keyword>
+		<keyword>chrysalis</keyword>
+		<keyword>abomination</keyword>
+		<keyword>effigy</keyword>
+		<keyword>mountaintop</keyword>
+		<keyword>manor</keyword>
+		<keyword>wayne manor</keyword>
+		<keyword>abducted woman</keyword>
+		<keyword>armor</keyword>
+		<keyword>falling from a rooftop</keyword>
+		<keyword>pushed off a building</keyword>
+		<keyword>timer</keyword>
+		<keyword>puppet master</keyword>
+		<keyword>batman's grapple gun</keyword>
+		<keyword>upper atmosphere</keyword>
+		<keyword>energy blast</keyword>
+		<keyword>secretary of defense</keyword>
+		<keyword>trapped underwater</keyword>
+		<keyword>mutation</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>mourning</keyword>
+		<keyword>sacrificing one's life</keyword>
+		<keyword>shaved head</keyword>
+		<keyword>enemies become friends</keyword>
+		<keyword>monument</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>prison warden</keyword>
+		<keyword>reference to arkham asylum</keyword>
+		<keyword>psychotic</keyword>
+		<keyword>burial</keyword>
+		<keyword>empty casket</keyword>
+		<keyword>prison cell</keyword>
+		<keyword>investigative reporter</keyword>
+		<keyword>investigative journalist</keyword>
+		<keyword>hero versus hero</keyword>
+		<keyword>superhero team up</keyword>
+		<keyword>heroes showdown</keyword>
+		<keyword>mass casualty</keyword>
+		<keyword>mass killing</keyword>
+		<keyword>soul searching</keyword>
+		<keyword>amazon warrior</keyword>
+		<keyword>warrior woman</keyword>
+		<keyword>secret past</keyword>
+		<keyword>computer file</keyword>
+		<keyword>encryption</keyword>
+		<keyword>cloning a cell phone</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>playing god</keyword>
+		<keyword>lasso of truth</keyword>
+		<keyword>airplane passenger</keyword>
+		<keyword>sink</keyword>
+		<keyword>childhood trauma</keyword>
+		<keyword>dystopian world</keyword>
+		<keyword>trench coat</keyword>
+		<keyword>tv news</keyword>
+		<keyword>metahuman</keyword>
+		<keyword>mother box</keyword>
+		<keyword>vision of the future</keyword>
+		<keyword>warning</keyword>
+		<keyword>space time</keyword>
+		<keyword>framed for crime</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>gritty</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>team</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>batplane</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>danger</keyword>
+		<keyword>senate hearing</keyword>
+		<keyword>destruction</keyword>
+		<keyword>general</keyword>
+		<keyword>fear</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>parent killed in front of child</keyword>
+		<keyword>multiple versions</keyword>
+		<keyword>alternate version</keyword>
+		<keyword>extraterrestrial man</keyword>
+		<keyword>extraterrestrial human</keyword>
+		<keyword>magical weapon</keyword>
+		<keyword>crate</keyword>
+		<keyword>strong female lead</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>dock</keyword>
+		<keyword>super vision</keyword>
+		<keyword>female senator</keyword>
+		<keyword>basketball</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>press conference</keyword>
+		<keyword>scientist</keyword>
+		<keyword>masked man</keyword>
+		<keyword>female politician</keyword>
+		<keyword>gotham city</keyword>
+		<keyword>frame up</keyword>
+		<keyword>face paint</keyword>
+		<keyword>broken leg</keyword>
+		<keyword>gadgetry</keyword>
+		<keyword>gadget</keyword>
+		<keyword>explosive</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>gadget car</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>panic</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>chaos</keyword>
+		<keyword>escape</keyword>
+		<keyword>doubt</keyword>
+		<keyword>scantily clad female</keyword>
+		<keyword>bare knuckle fighting</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>airplane</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>epic</keyword>
+		<keyword>death threat</keyword>
+		<keyword>police raid</keyword>
+		<keyword>thug</keyword>
+		<keyword>rifle</keyword>
+		<keyword>army</keyword>
+		<keyword>vision</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>dream</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>school bus</keyword>
+		<keyword>state funeral</keyword>
+		<keyword>body armor</keyword>
+		<keyword>funeral procession</keyword>
+		<keyword>eurocopter as355 twin squirrel</keyword>
+		<keyword>rappelling</keyword>
+		<keyword>sentry gun</keyword>
+		<keyword>trap</keyword>
+		<keyword>helipad</keyword>
+		<keyword>egg timer</keyword>
+		<keyword>burned in effigy</keyword>
+		<keyword>nude corpse</keyword>
+		<keyword>year 1918</keyword>
+		<keyword>walking out</keyword>
+		<keyword>anti tank missile</keyword>
+		<keyword>tanker truck crash</keyword>
+		<keyword>freighter</keyword>
+		<keyword>death of a superhero</keyword>
+		<keyword>framed for mass murder</keyword>
+		<keyword>reference to charles darwin</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>rocket explosion</keyword>
+		<keyword>cocktail party</keyword>
+		<keyword>printing press</keyword>
+		<keyword>reference to martin luther king jr.</keyword>
+		<keyword>reference to john f. kennedy</keyword>
+		<keyword>reference to robert f. kennedy</keyword>
+		<keyword>flyover</keyword>
+		<keyword>candlelight vigil</keyword>
+		<keyword>human branding</keyword>
+		<keyword>in bathtub with clothes on</keyword>
+		<keyword>knuckle tattoo</keyword>
+		<keyword>meteorite</keyword>
+		<keyword>skin diving</keyword>
+		<keyword>building collapse</keyword>
+		<keyword>devastation</keyword>
+		<keyword>bell 430 helicopter</keyword>
+		<keyword>swarm of bats</keyword>
+		<keyword>pearl necklace</keyword>
+		<keyword>superhero origin</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>tank</keyword>
+		<keyword>combat</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>burned body</keyword>
+		<keyword>village</keyword>
+		<keyword>interview</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>satellite</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>camel</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>commando</keyword>
+		<keyword>undercover</keyword>
+		<keyword>photographer</keyword>
+		<keyword>special forces</keyword>
+		<keyword>military</keyword>
+		<keyword>adoptive mother adoptive son relationship</keyword>
+		<keyword>bombing</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>jet aircraft</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>futuristic aircraft</keyword>
+		<keyword>batwing</keyword>
+		<keyword>humanoid monster</keyword>
+		<keyword>aquatic humanoid</keyword>
+		<keyword>hyper speed</keyword>
+		<keyword>newspaper reporter</keyword>
+		<keyword>flying man</keyword>
+		<keyword>flying superhero</keyword>
+		<keyword>female newspaper reporter</keyword>
+		<keyword>red cape</keyword>
+		<keyword>caped superhero</keyword>
+		<keyword>statue of superman</keyword>
+		<keyword>metropolis the city</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>drowning</keyword>
+		<keyword>shaving head</keyword>
+		<keyword>flashback within a flashback</keyword>
+		<keyword>knocked out with a gun butt</keyword>
+		<keyword>falling through a rooftop window</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>dragging a body</keyword>
+		<keyword>bare knuckle boxing</keyword>
+		<keyword>batcave</keyword>
+		<keyword>double amputee</keyword>
+		<keyword>voice changer</keyword>
+		<keyword>floating in space</keyword>
+		<keyword>mausoleum</keyword>
+		<keyword>super computer</keyword>
+		<keyword>employee employee relationship</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>heat vision</keyword>
+		<keyword>open ended</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>social decay</keyword>
+		<keyword>bravery</keyword>
+		<keyword>camera</keyword>
+		<keyword>super hearing</keyword>
+		<keyword>reference to prometheus</keyword>
+		<keyword>reference to copernicus</keyword>
+		<keyword>trident</keyword>
+		<keyword>cameo</keyword>
+		<keyword>demon</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>conflicted hero</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>el train</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>henchman</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>insanity</keyword>
+		<keyword>evil businessman</keyword>
+		<keyword>entrepreneur</keyword>
+		<keyword>ceo</keyword>
+		<keyword>engagement ring</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>blood</keyword>
+		<keyword>power suit</keyword>
+		<keyword>experiment</keyword>
+		<keyword>rampage</keyword>
+		<keyword>biological weapon</keyword>
+		<keyword>fundraiser</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>framed for murder</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>military funeral</keyword>
+		<keyword>cannon</keyword>
+		<keyword>tortured to death</keyword>
+		<keyword>torture</keyword>
+		<keyword>human in a cage</keyword>
+		<keyword>human trafficking</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>museum</keyword>
+		<keyword>following someone</keyword>
+		<keyword>bar</keyword>
+		<keyword>redemption</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>hanging upside down</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>convenience store robbery</keyword>
+		<keyword>vandalism</keyword>
+		<keyword>love interest</keyword>
+		<keyword>fingerprint</keyword>
+		<keyword>farmhouse</keyword>
+		<keyword>farm</keyword>
+		<keyword>widow</keyword>
+		<keyword>car truck chase</keyword>
+		<keyword>fade to black</keyword>
+		<keyword>basement</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>major</keyword>
+		<keyword>disaster</keyword>
+		<keyword>bomb</keyword>
+		<keyword>race against time</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>levitation</keyword>
+		<keyword>anger</keyword>
+		<keyword>long take</keyword>
+		<keyword>politician</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>memorial</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>death of boyfriend</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>batmobile</keyword>
+		<keyword>investigation</keyword>
+		<keyword>training</keyword>
+		<keyword>bullet</keyword>
+		<keyword>cover up</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>revelation</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>flying</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>newscaster</keyword>
+		<keyword>cargo ship</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>apartment</keyword>
+		<keyword>female reporter</keyword>
+		<keyword>reporter</keyword>
+		<keyword>impalement</keyword>
+		<keyword>warlord</keyword>
+		<keyword>bag over head</keyword>
+		<keyword>disguise</keyword>
+		<keyword>newspaper editor</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>diner</keyword>
+		<keyword>heroism</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>vigil</keyword>
+		<keyword>bagpipes</keyword>
+		<keyword>amazing grace hymn</keyword>
+		<keyword>american flag</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>necklace</keyword>
+		<keyword>year 1981</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>cnn reporter</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>news report</keyword>
+		<keyword>dream within a dream</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>spray paint</keyword>
+		<keyword>christ allegory</keyword>
+		<keyword>montage</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>lightning</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>power outage</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>crash site</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>unidentified flying object</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>mysterious woman</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>party</keyword>
+		<keyword>painting</keyword>
+		<keyword>mansion</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>senator</keyword>
+		<keyword>indian ocean</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>silencer</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>sniper</keyword>
+		<keyword>desert</keyword>
+		<keyword>mountain</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>funeral</keyword>
+		<keyword>coffin</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>death of family</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>e mail</keyword>
+		<keyword>russian</keyword>
+		<keyword>port</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car chase</keyword>
+		<keyword>armored car</keyword>
+		<keyword>nuclear explosion</keyword>
+		<keyword>nuclear missile</keyword>
+		<keyword>outer space</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>statue</keyword>
+		<keyword>suit of armor</keyword>
+		<keyword>bullet catching</keyword>
+		<keyword>mineral</keyword>
+		<keyword>gas grenade</keyword>
+		<keyword>spear</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>corpse</keyword>
+		<keyword>transformation</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>monster</keyword>
+		<keyword>creature</keyword>
+		<keyword>ambush</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>laser</keyword>
+		<keyword>super speed</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>product placement</keyword>
+		<keyword>prologue</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>prison</keyword>
+		<keyword>arrest</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>photograph</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>rescue</keyword>
+		<keyword>day of the dead</keyword>
+		<keyword>flood</keyword>
+		<keyword>fire</keyword>
+		<keyword>space shuttle</keyword>
+		<keyword>tijuana mexico</keyword>
+		<keyword>africa</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>u.s. capitol building</keyword>
+		<keyword>massacre</keyword>
+		<keyword>shootout</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>battle</keyword>
+		<keyword>abandoned warehouse</keyword>
+		<keyword>bat</keyword>
+		<keyword>lake house</keyword>
+		<keyword>manor house</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>thrown through a wall</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>one against many</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>falling through the floor</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>smuggler</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>soldier</keyword>
+		<keyword>u.s. air force</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>urban decay</keyword>
+		<keyword>drone</keyword>
+		<keyword>police officer</keyword>
+		<keyword>branding</keyword>
+		<keyword>scar</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>flamethrower</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>missile</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>flashback</keyword>
+		<keyword>movie theater</keyword>
+		<keyword>snow</keyword>
+		<keyword>pistol</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>protest</keyword>
+		<keyword>batarang</keyword>
+		<keyword>symbol</keyword>
+		<keyword>hope</keyword>
+		<keyword>kryptonite</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>hatred</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>bat signal</keyword>
+		<keyword>orphan</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>dark past</keyword>
+		<keyword>showdown</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>suspense</keyword>
+		<keyword>brutality</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>lasso</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>engineer</keyword>
+		<keyword>butler</keyword>
+		<keyword>philanthropist</keyword>
+		<keyword>shield</keyword>
+		<keyword>sword</keyword>
+		<keyword>cape</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>crime fighter</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>warrior</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>one man army</keyword>
+		<keyword>action hero</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>smallville</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>explosion</keyword>
+		<keyword>journalism</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>death of father</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>politics</keyword>
+		<keyword>x ray vision</keyword>
+		<keyword>horse</keyword>
+		<keyword>human versus alien</keyword>
+		<keyword>famous line</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>immortality</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>human alien</keyword>
+	</keywords>
+	<directors>
+		<director> Zack Snyder</director>
+	</directors>
+	<composers>
+		<composer> Tom Holkenborg</composer>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> Trevor Christie</producer>
+		<producer> Wesley Coller</producer>
+		<producer> David S. Goyer</producer>
+		<producer> Geoff Johns</producer>
+		<producer> Wayne Johnson</producer>
+		<producer> Curt Kanemoto</producer>
+		<producer> Benjamin Melniker</producer>
+		<producer> Steven Mnuchin</producer>
+		<producer> Bruce Moriarty</producer>
+		<producer> Christopher Nolan</producer>
+		<producer> Charles Roven</producer>
+		<producer> Jim Rowe</producer>
+		<producer> Deborah Snyder</producer>
+		<producer> Emma Thomas</producer>
+		<producer> Michael E. Uslan</producer>
+		<producer> Andrea Wertheim</producer>
+		<producer> Gregor Wilson</producer>
+	</producers>
+	<writers>
+		<writer> Chris Terrio</writer>
+		<writer> David S. Goyer</writer>
+		<writer> Bob Kane</writer>
+		<writer> Bill Finger</writer>
+		<writer> Jerry Siegel</writer>
+		<writer> Joe Shuster</writer>
+		<writer> William Moulton Marston</writer>
+	</writers>
+	<editors>
+		<editor> David Brenner</editor>
+	</editors>
+</doc>

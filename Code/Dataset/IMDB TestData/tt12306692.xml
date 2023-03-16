@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<doc id="tt12306692">
+	<docid>tt12306692</docid>
+	<title>American Horror Stories</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzY4YWYxYzgtMDQ2Ny00ZWE3LTgwM2UtZjY2ZjVmMTFlZjdjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>An anthology series of stand-alone episodes delving into horror myths, legends and lore.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sierra McCormick</actor>
+			<role>Scarlett Winslow</role>
+		</credit>
+		<credit>
+			<actor>Paris Jackson</actor>
+			<role>Maya</role>
+		</credit>
+		<credit>
+			<actor>Merrin Dungey</actor>
+			<role>Dr. Andi Grant</role>
+		</credit>
+		<credit>
+			<actor>Selena Sloan</actor>
+			<role>Erin</role>
+		</credit>
+		<credit>
+			<actor>Ashley Carter</actor>
+			<role>Rowena</role>
+		</credit>
+		<credit>
+			<actor>Valerie Loo</actor>
+			<role>Nicole</role>
+		</credit>
+		<credit>
+			<actor>Devyn LaBella</actor>
+			<role>Rubberwoman Dbl</role>
+		</credit>
+		<credit>
+			<actor>Troy Castaneda</actor>
+			<role>Rubberman</role>
+		</credit>
+		<credit>
+			<actor>Cody Fern</actor>
+			<role>Stan Vogel</role>
+		</credit>
+		<credit>
+			<actor>Matt Bomer</actor>
+			<role>Michael Winslow</role>
+		</credit>
+		<credit>
+			<actor>Nico Greetham</actor>
+			<role>Paul Theodore Winowski</role>
+		</credit>
+		<credit>
+			<actor>Gavin Creel</actor>
+			<role>Troy</role>
+		</credit>
+		<credit>
+			<actor>Kaia Gerber</actor>
+			<role>Ruby McDaniel</role>
+		</credit>
+		<credit>
+			<actor>Aaron Tveit</actor>
+			<role>Adam</role>
+		</credit>
+		<credit>
+			<actor>Belissa Escobedo</actor>
+			<role>Shanti</role>
+		</credit>
+		<credit>
+			<actor>Harrison Xu</actor>
+			<role>William</role>
+		</credit>
+		<credit>
+			<actor>Dane DiLiegro</actor>
+			<role>Ba'al</role>
+		</credit>
+		<credit>
+			<actor>Shane Carpenter</actor>
+			<role>Infantata</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">July 15 2021</releasedate>
+		<releasedate country="Indonesia">July 15 2021</releasedate>
+		<releasedate country="India">July 15 2021</releasedate>
+		<releasedate country="Mexico">July 15 2021</releasedate>
+		<releasedate country="Poland">July 15 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">21+</certificate>
+		<certificate country="Italy">VM18</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">18+</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">18</certificate>
+		<certificate country="Thailand">15+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>anthology</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>ghost</keyword>
+		<keyword>death</keyword>
+		<keyword>spin off</keyword>
+		<keyword>hulu</keyword>
+		<keyword>secret</keyword>
+		<keyword>violence</keyword>
+		<keyword>story</keyword>
+		<keyword>felling</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>2020s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>non horror host</keyword>
+		<keyword>usa non horror host</keyword>
+		<keyword>supernatural drama</keyword>
+		<keyword>blood</keyword>
+		<keyword>fx</keyword>
+	</keywords>
+	<directors>
+		<director> Loni Peristere</director>
+		<director> Max Winkler</director>
+		<director> Manny Coto</director>
+		<director> Liz Friedlander</director>
+		<director> Sanaa Hamri</director>
+		<director> Eduardo Sánchez</director>
+		<director> Alonso Alvarez</director>
+		<director> Tessa Blake</director>
+		<director> Yangzom Brauen</director>
+		<director> Logan Kibens</director>
+		<director> SJ Main Muñoz</director>
+		<director> Marcus Stokes</director>
+	</directors>
+	<composers>
+		<composer> Mac Quayle</composer>
+		<composer> Brittany Allen</composer>
+		<composer> David Klotz</composer>
+		<composer> Ariel Marx</composer>
+		<composer> Amanda Delores Patricia Jones</composer>
+		<composer> Morgan Kibby</composer>
+		<composer> Heather Christian</composer>
+		<composer> Alexis Grapsas</composer>
+	</composers>
+	<producers>
+		<producer> Lou Eyrich</producer>
+		<producer> Brad Falchuk</producer>
+		<producer> John J. Gray</producer>
+		<producer> Eryn Krueger Mekash</producer>
+		<producer> Todd Kubrak</producer>
+		<producer> Alexis Martin Woodall</producer>
+		<producer> Susan V. McConnell</producer>
+		<producer> Ryan Murphy</producer>
+		<producer> Todd Nenninger</producer>
+		<producer> Tanase Popa</producer>
+		<producer> Reilly Smith</producer>
+		<producer> Sara Stelwagen</producer>
+		<producer> Manny Coto</producer>
+		<producer> Matthew Hodgson</producer>
+		<producer> Ryan Kavner</producer>
+		<producer> Crystal Liu</producer>
+		<producer> Genevieve Fontaine</producer>
+		<producer> Melissa Ann Jones</producer>
+		<producer> Loni Peristere</producer>
+	</producers>
+	<writers>
+		<writer> Brad Falchuk</writer>
+		<writer> Brad Falchuk</writer>
+		<writer> Ryan Murphy</writer>
+		<writer> Ryan Murphy</writer>
+		<writer> Manny Coto</writer>
+		<writer> Ali Adler</writer>
+		<writer> Angela Harvey</writer>
+		<writer> Crystal Liu</writer>
+		<writer> Our Lady J</writer>
+	</writers>
+	<editors>
+		<editor> Tom Kipley</editor>
+		<editor> Jered Zalman</editor>
+		<editor> Yaniv Dabach</editor>
+		<editor> Julia Franklin</editor>
+		<editor> Thomas Mitchell</editor>
+		<editor> Bryan Colvin</editor>
+		<editor> Ishai Setton</editor>
+		<editor> Lousine Shamamian</editor>
+		<editor> Isaiah Smith</editor>
+		<editor> Peggy Tachdjian</editor>
+		<editor> Travis Weaver</editor>
+	</editors>
+</doc>

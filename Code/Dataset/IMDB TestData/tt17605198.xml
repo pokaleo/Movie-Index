@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<doc id="tt17605198">
+	<docid>tt17605198</docid>
+	<title>Harjunpää</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDFjZDMxOGQtZjZiYi00ZDhhLWE2Y2MtZWM1Y2NlNGM5MTA5XkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_QL75_UY281_CR46,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">40</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Follows Timo Harjunpää, a popular detective known for his honesty and empathy for the victims, as well as the criminals. He and his partner Onerva Nykanen are investigating a wave of murders taking place in Helsinki.</plot>
+	<countries>
+		<country>Finland</country>
+	</countries>
+	<languages>
+		<language>Finnish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Olga Temonen</actor>
+			<role>Onerva Nykänen</role>
+		</credit>
+		<credit>
+			<actor>Olli Rahkonen</actor>
+			<role>Timo Harjunpää</role>
+		</credit>
+		<credit>
+			<actor>Sanna Saarijärvi</actor>
+			<role>Sari Järvelä</role>
+		</credit>
+		<credit>
+			<actor>Alma Pöysti</actor>
+			<role>Hietanen</role>
+		</credit>
+		<credit>
+			<actor>Emilia Neuvonen</actor>
+			<role>Kottonen</role>
+		</credit>
+		<credit>
+			<actor>Robin Svartström</actor>
+			<role>Thurman</role>
+		</credit>
+		<credit>
+			<actor>Jutta Järvinen</actor>
+			<role>Elisa Harjunpää</role>
+		</credit>
+		<credit>
+			<actor>Robin Kawa</actor>
+			<role>Pallosalama</role>
+		</credit>
+		<credit>
+			<actor>Outi Condit</actor>
+			<role>Oikeuslääkäri</role>
+		</credit>
+		<credit>
+			<actor>Frida Rossi</actor>
+			<role>Pauliina Harjunpää</role>
+		</credit>
+		<credit>
+			<actor>Salma Wacklin</actor>
+			<role>Valpuri Harjunpää</role>
+		</credit>
+		<credit>
+			<actor>Tatu Sinisalo</actor>
+			<role>Jarkko Kaupinoja</role>
+		</credit>
+		<credit>
+			<actor>Kai Vaine</actor>
+			<role>Jari Lehikoinen</role>
+		</credit>
+		<credit>
+			<actor>Viljami Lahti</actor>
+			<role>Mikael Bergman</role>
+		</credit>
+		<credit>
+			<actor>Niilo Lahtinen</actor>
+			<role>Leo Melin</role>
+		</credit>
+		<credit>
+			<actor>Anna Viktoria Eriksson</actor>
+			<role>Anttu</role>
+		</credit>
+		<credit>
+			<actor>Mikko Kauppila</actor>
+			<role>Dödö</role>
+		</credit>
+		<credit>
+			<actor>Tatu Mönttinen</actor>
+			<role>Hannu Myllykangas</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Finland">February 17 2022</releasedate>
+		<releasedate country="France">February 17 2022</releasedate>
+		<releasedate country="Australia">July 28 2022</releasedate>
+		<releasedate country="Netherlands">March 1 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="Netherlands">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>nordic noir</keyword>
+	</keywords>
+	<directors>
+		<director> Matti Kinnunen</director>
+		<director> Hanna Bergholm</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Jani Hartikainen</producer>
+		<producer> Maria Kangas</producer>
+		<producer> Matleena Luokola</producer>
+		<producer> Pete Paavolainen</producer>
+	</producers>
+	<writers>
+		<writer> Matti Yrjänä Joensuu</writer>
+		<writer> Matti Yrjänä Joensuu</writer>
+		<writer> Harri Virtanen</writer>
+	</writers>
+	<editors>
+		<editor> Katja Pällijeff</editor>
+		<editor> Maija Sutela</editor>
+	</editors>
+</doc>

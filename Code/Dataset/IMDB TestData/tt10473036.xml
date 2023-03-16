@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<doc id="tt10473036">
+	<docid>tt10473036</docid>
+	<title>The Amazing Maurice</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWQ4NjQ1NjAtNTc3Yy00ZDVlLThlNmUtMzZjY2E3N2Y4Y2JmXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">93</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A streetwise cat and his gang of rats come up with the perfect money making scheme.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Hugh Laurie</actor>
+			<role>Maurice</role>
+		</credit>
+		<credit>
+			<actor>Emilia Clarke</actor>
+			<role>Malicia</role>
+		</credit>
+		<credit>
+			<actor>David Thewlis</actor>
+			<role>Boss Man</role>
+		</credit>
+		<credit>
+			<actor>Himesh Patel</actor>
+			<role>Keith</role>
+		</credit>
+		<credit>
+			<actor>Gemma Arterton</actor>
+			<role>Peaches</role>
+		</credit>
+		<credit>
+			<actor>Joe Sugg</actor>
+			<role>Sardines</role>
+		</credit>
+		<credit>
+			<actor>Ariyon Bakare</actor>
+			<role>Darktan</role>
+		</credit>
+		<credit>
+			<actor>Julie Atherton</actor>
+			<role>Nourishing</role>
+		</credit>
+		<credit>
+			<actor>Rob Brydon</actor>
+			<role>The Pied Piper</role>
+		</credit>
+		<credit>
+			<actor>Hugh Bonneville</actor>
+			<role>The Mayor</role>
+		</credit>
+		<credit>
+			<actor>David Tennant</actor>
+			<role>Dangerous Beans</role>
+		</credit>
+		<credit>
+			<actor>Peter Serafinowicz</actor>
+			<role>Death</role>
+		</credit>
+		<credit>
+			<actor>Jerry Hoffmann</actor>
+			<role>Keith</role>
+		</credit>
+		<credit>
+			<actor>Bastian Pastewka</actor>
+			<role>Maurice</role>
+		</credit>
+		<credit>
+			<actor>Murali Perumal</actor>
+			<role>Gefährliche Bohnen</role>
+		</credit>
+		<credit>
+			<actor>Janin Ullmann</actor>
+			<role>Nahrhaft</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">November 13 2022</releasedate>
+		<releasedate country="United Kingdom">December 16 2022</releasedate>
+		<releasedate country="Ireland">December 16 2022</releasedate>
+		<releasedate country="Egypt">December 21 2022</releasedate>
+		<releasedate country="Kuwait">December 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Turkey">6A</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>masculine girl</keyword>
+		<keyword>pipe</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>rat</keyword>
+		<keyword>scam</keyword>
+		<keyword>teenage girl with short hair</keyword>
+		<keyword>shorthaired woman</keyword>
+		<keyword>sewer</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>sentient</keyword>
+		<keyword>pied piper</keyword>
+		<keyword>streetwise cat</keyword>
+		<keyword>cartoon</keyword>
+		<keyword>terry pratchett</keyword>
+		<keyword>discworld</keyword>
+		<keyword>terry pratchett discworld</keyword>
+		<keyword>talking cat</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>cg animation</keyword>
+	</keywords>
+	<directors>
+		<director> Toby Genkel</director>
+		<director> Florian Westermann</director>
+	</directors>
+	<composers>
+		<composer> Tom Howe</composer>
+	</composers>
+	<producers>
+		<producer> Andrew Baker</producer>
+		<producer> Rod Brown</producer>
+		<producer> Robert Chandler</producer>
+		<producer> Emely Christians</producer>
+		<producer> Viola Lütten</producer>
+		<producer> Roddy McManus</producer>
+		<producer> Louis Paltnoi</producer>
+		<producer> Terry Pratchett</producer>
+		<producer> Jan Rogowski</producer>
+		<producer> Julia Stuart</producer>
+		<producer> Franz Prinz Von Auersperg</producer>
+		<producer> Mark Walker</producer>
+		<producer> Rob Wilkins</producer>
+		<producer> Sarah Wright</producer>
+	</producers>
+	<writers>
+		<writer> Terry Rossio</writer>
+		<writer> Terry Pratchett</writer>
+		<writer> Robert Chandler</writer>
+		<writer> Toby Genkel</writer>
+	</writers>
+	<editors>
+		<editor> Friedolin Dreesen</editor>
+	</editors>
+</doc>

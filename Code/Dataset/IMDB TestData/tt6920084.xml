@@ -1,0 +1,456 @@
+<?xml version="1.0" ?>
+<doc id="tt6920084">
+	<docid>tt6920084</docid>
+	<title>Resident Evil: Welcome to Raccoon City</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjA5NmZkMTYtM2I2Mi00NzJkLWJhZGItOGZhMzE0YTViZDMxXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">107</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Set in 1998, this origin story explores the secrets of the mysterious Spencer Mansion and the ill-fated Raccoon City.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kaya Scodelario</actor>
+			<role>Claire Redfield</role>
+		</credit>
+		<credit>
+			<actor>Robbie Amell</actor>
+			<role>Chris Redfield</role>
+		</credit>
+		<credit>
+			<actor>Hannah John-Kamen</actor>
+			<role>Jill Valentine</role>
+		</credit>
+		<credit>
+			<actor>Tom Hopper</actor>
+			<role>Albert Wesker</role>
+		</credit>
+		<credit>
+			<actor>Avan Jogia</actor>
+			<role>Leon Kennedy</role>
+		</credit>
+		<credit>
+			<actor>Donal Logue</actor>
+			<role>Chief Irons</role>
+		</credit>
+		<credit>
+			<actor>Neal McDonough</actor>
+			<role>William Birkin</role>
+		</credit>
+		<credit>
+			<actor>Lily Gao</actor>
+			<role>Ada Wong</role>
+		</credit>
+		<credit>
+			<actor>Chad Rook</actor>
+			<role>Richard Aiken</role>
+		</credit>
+		<credit>
+			<actor>Marina Mazepa</actor>
+			<role>Lisa Trevor</role>
+		</credit>
+		<credit>
+			<actor>Nathan Dales</actor>
+			<role>Vickers</role>
+		</credit>
+		<credit>
+			<actor>Josh Cruddas</actor>
+			<role>Ben Bertolucci</role>
+		</credit>
+		<credit>
+			<actor>Pat Thornton</actor>
+			<role>Truck Driver</role>
+		</credit>
+		<credit>
+			<actor>Holly de Barros</actor>
+			<role>Sherry Birkin</role>
+		</credit>
+		<credit>
+			<actor>Janet Porter</actor>
+			<role>Annette Birkin</role>
+		</credit>
+		<credit>
+			<actor>Lily Gail Reid</actor>
+			<role>Young Claire</role>
+		</credit>
+		<credit>
+			<actor>Daxton Gujral</actor>
+			<role>Young Chris</role>
+		</credit>
+		<credit>
+			<actor>Dylan Taylor</actor>
+			<role>Kevin Dooley</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">November 19 2021</releasedate>
+		<releasedate country="Canada">November 24 2021</releasedate>
+		<releasedate country="France">November 24 2021</releasedate>
+		<releasedate country="United States">November 24 2021</releasedate>
+		<releasedate country="United Arab Emirates">November 25 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">D17+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">PG-12</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">u 15+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>zombie</keyword>
+		<keyword>resident evil</keyword>
+		<keyword>based on video game</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>zombie apocalypse</keyword>
+		<keyword>year 1998</keyword>
+		<keyword>mansion</keyword>
+		<keyword>1990s</keyword>
+		<keyword>police officer</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>corporation</keyword>
+		<keyword>infection</keyword>
+		<keyword>biohazard</keyword>
+		<keyword>virus</keyword>
+		<keyword>outbreak</keyword>
+		<keyword>police station</keyword>
+		<keyword>mutation</keyword>
+		<keyword>toy gun</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>mutant dog</keyword>
+		<keyword>rookie cop</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>tough cop</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>corporate crime</keyword>
+		<keyword>human experiment</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>piano</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>orphan</keyword>
+		<keyword>orphanage</keyword>
+		<keyword>armory</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>hitchhiker</keyword>
+		<keyword>zombie outbreak</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>film projector</keyword>
+		<keyword>bunk bed</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>strong female lead</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>chaos</keyword>
+		<keyword>human experimentation</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>experiment gone wrong</keyword>
+		<keyword>quarantine</keyword>
+		<keyword>cover up</keyword>
+		<keyword>bitten on the hand</keyword>
+		<keyword>bitten by a dog</keyword>
+		<keyword>night</keyword>
+		<keyword>rain</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>reboot</keyword>
+		<keyword>reboot of series</keyword>
+		<keyword>remake</keyword>
+		<keyword>written by director</keyword>
+		<keyword>disaster</keyword>
+		<keyword>disaster film</keyword>
+		<keyword>raccoon city</keyword>
+		<keyword>claire redfield character</keyword>
+		<keyword>chris redfield character</keyword>
+		<keyword>jill valentine character</keyword>
+		<keyword>leon s. kennedy character</keyword>
+		<keyword>survival</keyword>
+		<keyword>truck</keyword>
+		<keyword>umbrella corporation</keyword>
+		<keyword>blood</keyword>
+		<keyword>violence</keyword>
+		<keyword>gun</keyword>
+		<keyword>handgun</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>enemy</keyword>
+		<keyword>group</keyword>
+		<keyword>evil</keyword>
+		<keyword>prequel</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>gothic</keyword>
+		<keyword>british actress playing american character</keyword>
+		<keyword>darkness</keyword>
+		<keyword>police</keyword>
+		<keyword>biopunk</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>prologue</keyword>
+		<keyword>flashback</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>urban decay</keyword>
+		<keyword>mutant</keyword>
+		<keyword>transformation</keyword>
+		<keyword>pistol</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>slide locked back</keyword>
+		<keyword>revolver</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>helicopter accident</keyword>
+		<keyword>helicopter pilot</keyword>
+		<keyword>walkman</keyword>
+		<keyword>pager</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>videotape</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>truck accident</keyword>
+		<keyword>truck driver</keyword>
+		<keyword>dog</keyword>
+		<keyword>fire</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>one night timespan</keyword>
+		<keyword>ghost town</keyword>
+		<keyword>small town</keyword>
+		<keyword>diner</keyword>
+		<keyword>waitress</keyword>
+		<keyword>reference to blockbuster video</keyword>
+		<keyword>mustache</keyword>
+		<keyword>rookie</keyword>
+		<keyword>police car</keyword>
+		<keyword>police chief</keyword>
+		<keyword>police officer killed</keyword>
+		<keyword>police raid</keyword>
+		<keyword>detective</keyword>
+		<keyword>police detective</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>f rated</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>bitten in the neck</keyword>
+		<keyword>bitten in the arm</keyword>
+		<keyword>animal killing</keyword>
+		<keyword>animal attack</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>creature</keyword>
+		<keyword>monster</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>scientist</keyword>
+		<keyword>doctor</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>contaminated water</keyword>
+		<keyword>disease</keyword>
+		<keyword>conspiracy theorist</keyword>
+		<keyword>key</keyword>
+		<keyword>secret passageway</keyword>
+		<keyword>secret room</keyword>
+		<keyword>god complex</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>ambush</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>gore</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>race against time</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>chase</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>brother sister estrangement</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>photograph</keyword>
+		<keyword>knife</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>shot in the eye</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>corpse</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>blockade</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>train</keyword>
+		<keyword>shockwave</keyword>
+		<keyword>hitchhiking</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>fire extinguisher</keyword>
+		<keyword>hit with a fire extinguisher</keyword>
+		<keyword>reanimated corpse</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>elevator</keyword>
+		<keyword>long tongue</keyword>
+		<keyword>jaw ripped open</keyword>
+		<keyword>power outage</keyword>
+		<keyword>investigation</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>one against many</keyword>
+		<keyword>writing in blood</keyword>
+		<keyword>nurse</keyword>
+		<keyword>massacre</keyword>
+		<keyword>suicide by cop</keyword>
+		<keyword>little girl</keyword>
+		<keyword>child with a gun</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>secret tunnel</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>cameo</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>suspense</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>helmet</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>collapsing house</keyword>
+		<keyword>self destruct</keyword>
+		<keyword>exposed brain</keyword>
+		<keyword>army</keyword>
+		<keyword>siren</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>monster horror</keyword>
+		<keyword>body bag</keyword>
+		<keyword>timeframe 20th century</keyword>
+		<keyword>timeframe 1990s</keyword>
+		<keyword>hit by a tractor trailer</keyword>
+		<keyword>reference to steve perry</keyword>
+		<keyword>mid credits scene</keyword>
+		<keyword>deceased</keyword>
+		<keyword>wet clothes</keyword>
+		<keyword>zombie horror</keyword>
+		<keyword>body horror</keyword>
+		<keyword>grindhouse</keyword>
+		<keyword>b movie</keyword>
+		<keyword>b horror</keyword>
+		<keyword>urban gothic</keyword>
+	</keywords>
+	<directors>
+		<director> Johannes Roberts</director>
+	</directors>
+	<composers>
+		<composer> Mark Korven</composer>
+	</composers>
+	<producers>
+		<producer> Paul W.S. Anderson</producer>
+		<producer> Jeremy Bolt</producer>
+		<producer> Hartley Gorenstein</producer>
+		<producer> Victor Hadida</producer>
+		<producer> James Harris</producer>
+		<producer> Hiroyuki Kobayashi</producer>
+		<producer> Robert Kulzer</producer>
+		<producer> Martin Moszkowicz</producer>
+		<producer> Alex Zhang</producer>
+	</producers>
+	<writers>
+		<writer> Johannes Roberts</writer>
+	</writers>
+	<editors>
+		<editor> Dev Singh</editor>
+	</editors>
+</doc>

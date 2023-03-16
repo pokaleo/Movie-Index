@@ -1,0 +1,779 @@
+<?xml version="1.0" ?>
+<doc id="tt3402236">
+	<docid>tt3402236</docid>
+	<title>Murder on the Orient Express</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTk5OGFiYzktMTkwNS00ZjQ5LWFkNGQtNGM0MjA4MWE2MDIwXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">114</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kenneth Branagh</actor>
+			<role>Hercule Poirot</role>
+		</credit>
+		<credit>
+			<actor>Penélope Cruz</actor>
+			<role>Pilar Estravados</role>
+		</credit>
+		<credit>
+			<actor>Willem Dafoe</actor>
+			<role>Gerhard Hardman</role>
+		</credit>
+		<credit>
+			<actor>Judi Dench</actor>
+			<role>Princess Dragomiroff</role>
+		</credit>
+		<credit>
+			<actor>Paapa Essiedu</actor>
+			<role>Young Policeman</role>
+		</credit>
+		<credit>
+			<actor>Yassine Zeroual</actor>
+			<role>Young Boy</role>
+		</credit>
+		<credit>
+			<actor>Asan N'Jie</actor>
+			<role>Hotel Waiter</role>
+		</credit>
+		<credit>
+			<actor>Michael Rouse</actor>
+			<role>British Police Chief Inspector</role>
+		</credit>
+		<credit>
+			<actor>Elliot Levey</actor>
+			<role>Rabbi</role>
+		</credit>
+		<credit>
+			<actor>David Annen</actor>
+			<role>Priest</role>
+		</credit>
+		<credit>
+			<actor>Joseph Long</actor>
+			<role>Imam</role>
+		</credit>
+		<credit>
+			<actor>Andy Apollo</actor>
+			<role>Armed Policeman</role>
+		</credit>
+		<credit>
+			<actor>Hadley Fraser</actor>
+			<role>British Military Escort</role>
+		</credit>
+		<credit>
+			<actor>Daisy Ridley</actor>
+			<role>Miss Mary Debenham</role>
+		</credit>
+		<credit>
+			<actor>Leslie Odom Jr.</actor>
+			<role>Dr. Arbuthnot</role>
+		</credit>
+		<credit>
+			<actor>Ziad Abaza</actor>
+			<role>Arab Shipmate</role>
+		</credit>
+		<credit>
+			<actor>Nari Blair-Mangat</actor>
+			<role>Waiter</role>
+		</credit>
+		<credit>
+			<actor>Luke Brady</actor>
+			<role>Waiter</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">November 3 2017</releasedate>
+		<releasedate country="Ireland">November 3 2017</releasedate>
+		<releasedate country="Argentina">November 6 2017</releasedate>
+		<releasedate country="Belgium">November 8 2017</releasedate>
+		<releasedate country="Armenia">November 9 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">All</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">NC</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on novel</keyword>
+		<keyword>hercule poirot character</keyword>
+		<keyword>train</keyword>
+		<keyword>private detective</keyword>
+		<keyword>1930s</keyword>
+		<keyword>detective</keyword>
+		<keyword>orient express</keyword>
+		<keyword>train derailment</keyword>
+		<keyword>investigation</keyword>
+		<keyword>murder</keyword>
+		<keyword>title same as book</keyword>
+		<keyword>train compartment</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>little grey cells</keyword>
+		<keyword>ocd</keyword>
+		<keyword>solving a mystery</keyword>
+		<keyword>suspect</keyword>
+		<keyword>snow</keyword>
+		<keyword>interracial love</keyword>
+		<keyword>american</keyword>
+		<keyword>europe</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>palestine</keyword>
+		<keyword>five word title</keyword>
+		<keyword>black doctor</keyword>
+		<keyword>istanbul turkey</keyword>
+		<keyword>dutch angle</keyword>
+		<keyword>directed by star</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>reference to ty cobb</keyword>
+		<keyword>cake</keyword>
+		<keyword>knife</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>flashback</keyword>
+		<keyword>turkey the country</keyword>
+		<keyword>long take</keyword>
+		<keyword>suspense</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>year 1934</keyword>
+		<keyword>evidence</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>prologue</keyword>
+		<keyword>jerusalem israel</keyword>
+		<keyword>servant</keyword>
+		<keyword>governess</keyword>
+		<keyword>train station</keyword>
+		<keyword>drug addict</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>acrobat</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>disguise</keyword>
+		<keyword>corpse</keyword>
+		<keyword>death</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape</keyword>
+		<keyword>bridge</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>blood</keyword>
+		<keyword>belgian</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>cover up</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>police officer</keyword>
+		<keyword>rifle</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>bar</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>cook</keyword>
+		<keyword>chef</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>baker</keyword>
+		<keyword>hotel</keyword>
+		<keyword>telegram</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>steamboat</keyword>
+		<keyword>police</keyword>
+		<keyword>police station</keyword>
+		<keyword>priest</keyword>
+		<keyword>jewel theft</keyword>
+		<keyword>church</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>obsession</keyword>
+		<keyword>reference to charles dickens</keyword>
+		<keyword>egg</keyword>
+		<keyword>letter</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>fake identity</keyword>
+		<keyword>false identity</keyword>
+		<keyword>fake accent</keyword>
+		<keyword>passport</keyword>
+		<keyword>montage</keyword>
+		<keyword>death threat</keyword>
+		<keyword>world war one veteran</keyword>
+		<keyword>doctor</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>dark past</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>trial</keyword>
+		<keyword>justice</keyword>
+		<keyword>miscarriage of justice</keyword>
+		<keyword>false confession</keyword>
+		<keyword>unjust incarceration</keyword>
+		<keyword>maid</keyword>
+		<keyword>princess</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>red herring</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>beating</keyword>
+		<keyword>mountain</keyword>
+		<keyword>police inspector</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>arrest</keyword>
+		<keyword>soldier</keyword>
+		<keyword>british soldier</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>death of sister</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>loss of sister</keyword>
+		<keyword>loss of daughter</keyword>
+		<keyword>photograph</keyword>
+		<keyword>deduction</keyword>
+		<keyword>interview</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>embezzlement</keyword>
+		<keyword>clock</keyword>
+		<keyword>key</keyword>
+		<keyword>kimono</keyword>
+		<keyword>historical fiction</keyword>
+		<keyword>ambush</keyword>
+		<keyword>stepping in feces</keyword>
+		<keyword>robbery</keyword>
+		<keyword>fresh baked bread</keyword>
+		<keyword>riding a train</keyword>
+		<keyword>steam locomotive</keyword>
+		<keyword>first class train compartment</keyword>
+		<keyword>room service</keyword>
+		<keyword>dining car</keyword>
+		<keyword>racism</keyword>
+		<keyword>gangster</keyword>
+		<keyword>laughter</keyword>
+		<keyword>train tunnel</keyword>
+		<keyword>hatred</keyword>
+		<keyword>riot</keyword>
+		<keyword>criminal</keyword>
+		<keyword>jewish</keyword>
+		<keyword>yugoslavia</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>silver handled cane</keyword>
+		<keyword>stabbed 12 times</keyword>
+		<keyword>walking on train roof</keyword>
+		<keyword>some scenes in black and white</keyword>
+		<keyword>drugged</keyword>
+		<keyword>lantern</keyword>
+		<keyword>child abduction</keyword>
+		<keyword>motive</keyword>
+		<keyword>pipe cleaner</keyword>
+		<keyword>murder weapon</keyword>
+		<keyword>judaism</keyword>
+		<keyword>jew</keyword>
+		<keyword>balcony</keyword>
+		<keyword>stairs</keyword>
+		<keyword>steps</keyword>
+		<keyword>kippa</keyword>
+		<keyword>pier</keyword>
+		<keyword>waiter</keyword>
+		<keyword>mule</keyword>
+		<keyword>ruins</keyword>
+		<keyword>religious site</keyword>
+		<keyword>mediterranean sea</keyword>
+		<keyword>rabbi</keyword>
+		<keyword>vest</keyword>
+		<keyword>steam ship</keyword>
+		<keyword>pocket squares</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>superstition</keyword>
+		<keyword>chief inspector</keyword>
+		<keyword>mediation</keyword>
+		<keyword>shoe</keyword>
+		<keyword>sole</keyword>
+		<keyword>cane</keyword>
+		<keyword>walking with a cane</keyword>
+		<keyword>detective chief inspector</keyword>
+		<keyword>baggage</keyword>
+		<keyword>physician</keyword>
+		<keyword>gloves</keyword>
+		<keyword>belgian in turkey</keyword>
+		<keyword>english in turkey</keyword>
+		<keyword>bakery</keyword>
+		<keyword>bow tie</keyword>
+		<keyword>scissor kick</keyword>
+		<keyword>photography</keyword>
+		<keyword>platform</keyword>
+		<keyword>train platform</keyword>
+		<keyword>red wine</keyword>
+		<keyword>bartender</keyword>
+		<keyword>porter</keyword>
+		<keyword>ticket</keyword>
+		<keyword>dog</keyword>
+		<keyword>fur coat</keyword>
+		<keyword>pills</keyword>
+		<keyword>gramophone</keyword>
+		<keyword>record album</keyword>
+		<keyword>gown</keyword>
+		<keyword>full moon</keyword>
+		<keyword>breakfast</keyword>
+		<keyword>breakfast in bed</keyword>
+		<keyword>bunk</keyword>
+		<keyword>champagne</keyword>
+		<keyword>champagne on ice</keyword>
+		<keyword>divorcee</keyword>
+		<keyword>white gloves</keyword>
+		<keyword>pearl necklace</keyword>
+		<keyword>declining an invitation</keyword>
+		<keyword>white wine</keyword>
+		<keyword>rose wine</keyword>
+		<keyword>refusing a job</keyword>
+		<keyword>lightning</keyword>
+		<keyword>uniform</keyword>
+		<keyword>forgery</keyword>
+		<keyword>art forger</keyword>
+		<keyword>derailment</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>wound</keyword>
+		<keyword>blood stain</keyword>
+		<keyword>ashtray</keyword>
+		<keyword>crime scene investigation</keyword>
+		<keyword>sleeping with a gun</keyword>
+		<keyword>gun under a pillow</keyword>
+		<keyword>projector</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>toy</keyword>
+		<keyword>valet</keyword>
+		<keyword>pots and pans</keyword>
+		<keyword>bribery</keyword>
+		<keyword>kettle</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>fake german accent</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>candle</keyword>
+		<keyword>phobia</keyword>
+		<keyword>autograph</keyword>
+		<keyword>lie</keyword>
+		<keyword>shooting</keyword>
+		<keyword>reflection</keyword>
+		<keyword>walking a dog</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>walking in snow</keyword>
+		<keyword>beret</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>pinkerton detective</keyword>
+		<keyword>year 1927</keyword>
+		<keyword>holding a gun to one's chin</keyword>
+		<keyword>train trestle</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>scarlet kimono</keyword>
+		<keyword>confession</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>commander</keyword>
+		<keyword>stretcher</keyword>
+		<keyword>fight</keyword>
+		<keyword>hit with a cane</keyword>
+		<keyword>hit on the head with a gun</keyword>
+		<keyword>mafioso</keyword>
+		<keyword>murder of a murderer</keyword>
+		<keyword>religious zeal</keyword>
+		<keyword>injustice</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>wig</keyword>
+		<keyword>woman wears a wig</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>train brakes</keyword>
+		<keyword>calais france</keyword>
+		<keyword>clue</keyword>
+		<keyword>divorce</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>flash camera</keyword>
+		<keyword>hand kissing</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>pipe smoking</keyword>
+		<keyword>religion</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>wailing wall jerusalem</keyword>
+		<keyword>boy</keyword>
+		<keyword>running</keyword>
+		<keyword>egg hourglass timer</keyword>
+		<keyword>boiling an egg</keyword>
+		<keyword>french</keyword>
+		<keyword>chicken</keyword>
+		<keyword>hard boiled egg</keyword>
+		<keyword>pre world war two</keyword>
+		<keyword>search</keyword>
+		<keyword>apology</keyword>
+		<keyword>stolen religious relic</keyword>
+		<keyword>imam</keyword>
+		<keyword>telling a joke</keyword>
+		<keyword>church of the holy seushre jerusalem</keyword>
+		<keyword>chief inspector of police</keyword>
+		<keyword>religious relic</keyword>
+		<keyword>fresco</keyword>
+		<keyword>guard</keyword>
+		<keyword>police sergeant</keyword>
+		<keyword>boots</keyword>
+		<keyword>ferry</keyword>
+		<keyword>boat</keyword>
+		<keyword>stamboul turkey</keyword>
+		<keyword>street life</keyword>
+		<keyword>bread</keyword>
+		<keyword>dover kent england</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>reference to michelangelo</keyword>
+		<keyword>nepotism</keyword>
+		<keyword>winter</keyword>
+		<keyword>pickpocket</keyword>
+		<keyword>hit with a handbag</keyword>
+		<keyword>briefcase</keyword>
+		<keyword>thtowing a flash camera to the ground</keyword>
+		<keyword>sold out train trip</keyword>
+		<keyword>austrian</keyword>
+		<keyword>professor</keyword>
+		<keyword>unlucky number</keyword>
+		<keyword>husband hunting</keyword>
+		<keyword>bumping into someone</keyword>
+		<keyword>jazz music</keyword>
+		<keyword>record player</keyword>
+		<keyword>note with cut out letters</keyword>
+		<keyword>dictaphone</keyword>
+		<keyword>dog barks</keyword>
+		<keyword>drink</keyword>
+		<keyword>mirror</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>drinking</keyword>
+		<keyword>brushing a dog</keyword>
+		<keyword>serving tray</keyword>
+		<keyword>businessman</keyword>
+		<keyword>art dealer</keyword>
+		<keyword>aperitif</keyword>
+		<keyword>anonymity</keyword>
+		<keyword>boredom</keyword>
+		<keyword>menu</keyword>
+		<keyword>art appraiser</keyword>
+		<keyword>money</keyword>
+		<keyword>daughter</keyword>
+		<keyword>dessert</keyword>
+		<keyword>sharing a dessert</keyword>
+		<keyword>looking out a train window</keyword>
+		<keyword>sleeplessness</keyword>
+		<keyword>thunder</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>footsteps</keyword>
+		<keyword>handkerchief</keyword>
+		<keyword>falling out of bed</keyword>
+		<keyword>broken picture frame glass</keyword>
+		<keyword>lost love</keyword>
+		<keyword>breaking a door lock with a cane</keyword>
+		<keyword>friend</keyword>
+		<keyword>friendship</keyword>
+		<keyword>the letter h</keyword>
+		<keyword>shovel</keyword>
+		<keyword>snowbound</keyword>
+		<keyword>flask</keyword>
+		<keyword>steak the meat</keyword>
+		<keyword>prohibition</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>pilot</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>black and white flashback</keyword>
+		<keyword>engineering professor</keyword>
+		<keyword>latino</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>little girl</keyword>
+		<keyword>dead body</keyword>
+		<keyword>violence</keyword>
+		<keyword>premature labor</keyword>
+		<keyword>barbital</keyword>
+		<keyword>death in childbirth</keyword>
+		<keyword>suicide by gunshot</keyword>
+		<keyword>gunshot wound</keyword>
+		<keyword>home movie</keyword>
+		<keyword>aspirin</keyword>
+		<keyword>murder of a child</keyword>
+		<keyword>button</keyword>
+		<keyword>toothache</keyword>
+		<keyword>coffee</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>thyroid</keyword>
+		<keyword>terminal illness</keyword>
+		<keyword>automobile salesman</keyword>
+		<keyword>chauffeur</keyword>
+		<keyword>hand callus</keyword>
+		<keyword>handwriting</keyword>
+		<keyword>old woman</keyword>
+		<keyword>old man</keyword>
+		<keyword>female theatre dreector</keyword>
+		<keyword>godmother goddaughter relationship</keyword>
+		<keyword>murder of goddaughter</keyword>
+		<keyword>kidnapping of goddaughter</keyword>
+		<keyword>spitting</keyword>
+		<keyword>suicide</keyword>
+		<keyword>bourbon</keyword>
+		<keyword>sense of smell</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>falling to the ground</keyword>
+		<keyword>theft</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>snowing</keyword>
+		<keyword>year 1924</keyword>
+		<keyword>wrongful conviction</keyword>
+		<keyword>conviction of an innocent person</keyword>
+		<keyword>debt</keyword>
+		<keyword>screaming</keyword>
+		<keyword>drug use</keyword>
+		<keyword>jewish slur</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dressing gown</keyword>
+		<keyword>tampering with evidence</keyword>
+		<keyword>german accent</keyword>
+		<keyword>stage name</keyword>
+		<keyword>jewish ancestry</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>german slur</keyword>
+		<keyword>impostor</keyword>
+		<keyword>train movie</keyword>
+		<keyword>false name</keyword>
+		<keyword>master detective</keyword>
+		<keyword>sitting on a milk can</keyword>
+		<keyword>trestle bridge</keyword>
+		<keyword>monogrammed handkerchief</keyword>
+		<keyword>stopwatch</keyword>
+		<keyword>alternate theory of a crime</keyword>
+		<keyword>frame up</keyword>
+		<keyword>book</keyword>
+		<keyword>reading in bed</keyword>
+		<keyword>stationmaster</keyword>
+		<keyword>all star cast</keyword>
+		<keyword>sleuth</keyword>
+		<keyword>alias</keyword>
+		<keyword>attention to detail</keyword>
+		<keyword>dagger</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>obsessive compulsive</keyword>
+		<keyword>melancholy</keyword>
+		<keyword>tracking shot</keyword>
+		<keyword>moral relativism</keyword>
+		<keyword>agatha christie</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>1920s</keyword>
+		<keyword>train ride</keyword>
+		<keyword>corrupt police officer</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>fudge</keyword>
+		<keyword>mandatory palestine</keyword>
+		<keyword>levant</keyword>
+		<keyword>middle east</keyword>
+		<keyword>western asia</keyword>
+		<keyword>asia</keyword>
+		<keyword>belgian abroad</keyword>
+		<keyword>church of the holy sepulchre</keyword>
+		<keyword>christian priest</keyword>
+		<keyword>old city</keyword>
+		<keyword>old city of jerusalem</keyword>
+		<keyword>relic</keyword>
+		<keyword>british empire</keyword>
+		<keyword>reference to baghdad</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>constantinople turkey</keyword>
+		<keyword>interwar period</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>passenger train</keyword>
+		<keyword>dog owner</keyword>
+		<keyword>pet</keyword>
+		<keyword>first class passenger</keyword>
+		<keyword>reference to the devil</keyword>
+		<keyword>reference to christian mythology</keyword>
+		<keyword>reference to detroit</keyword>
+		<keyword>offer of employment</keyword>
+		<keyword>derailed train</keyword>
+		<keyword>reference to god</keyword>
+		<keyword>reference to lucifer</keyword>
+		<keyword>barbiturate</keyword>
+		<keyword>hypnotic</keyword>
+		<keyword>slipping a mickey</keyword>
+		<keyword>conductor</keyword>
+		<keyword>suicide by firearm</keyword>
+		<keyword>reference to boston</keyword>
+		<keyword>thyroid disease</keyword>
+		<keyword>female missionary</keyword>
+		<keyword>reference to broadway</keyword>
+		<keyword>female murder victim</keyword>
+		<keyword>reference to a diplomatic visa</keyword>
+		<keyword>red kimono</keyword>
+		<keyword>passkey</keyword>
+		<keyword>embezzler</keyword>
+		<keyword>cash cow</keyword>
+		<keyword>reference to joseph stalin</keyword>
+		<keyword>reference to india</keyword>
+		<keyword>sniper</keyword>
+		<keyword>former sniper</keyword>
+		<keyword>reference to kirkuk iraq</keyword>
+		<keyword>reference to nusaybin</keyword>
+		<keyword>reference to new jersey</keyword>
+		<keyword>diplomatic immunity</keyword>
+		<keyword>kingdom of yugoslavia</keyword>
+		<keyword>nobility</keyword>
+		<keyword>sharpshooter</keyword>
+		<keyword>religious zealot</keyword>
+		<keyword>military batman</keyword>
+		<keyword>ruined life</keyword>
+		<keyword>retired actress</keyword>
+		<keyword>winter weather</keyword>
+		<keyword>veteran</keyword>
+		<keyword>army veteran</keyword>
+		<keyword>woman wears a kimono</keyword>
+		<keyword>brod</keyword>
+		<keyword>reference to egypt</keyword>
+		<keyword>balkans</keyword>
+		<keyword>reference to the nile river</keyword>
+		<keyword>police procedural crime</keyword>
+		<keyword>whodunnit mystery</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>murder suspect</keyword>
+		<keyword>literature on screen</keyword>
+		<keyword>british literature on screen</keyword>
+		<keyword>european literature on screen</keyword>
+		<keyword>crime literature on screen</keyword>
+		<keyword>british crime literature on screen</keyword>
+		<keyword>european crime literature on screen</keyword>
+		<keyword>20th century literature on screen</keyword>
+		<keyword>1930s literature on screen</keyword>
+		<keyword>kidnapping a child</keyword>
+		<keyword>candlestick</keyword>
+		<keyword>pet owner relationship</keyword>
+		<keyword>british actor plays a belgian character</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>20th century</keyword>
+		<keyword>colonel the military rank</keyword>
+		<keyword>former nurse</keyword>
+		<keyword>former soldier</keyword>
+		<keyword>murder of a girl</keyword>
+		<keyword>murdered in bed</keyword>
+		<keyword>light sleeper</keyword>
+		<keyword>film projector</keyword>
+		<keyword>the number three</keyword>
+		<keyword>phonograph record</keyword>
+		<keyword>recovering text from a burned paper</keyword>
+		<keyword>train crosses an international border</keyword>
+		<keyword>walking on the top of a train car</keyword>
+		<keyword>word cut out of a message</keyword>
+		<keyword>memory</keyword>
+		<keyword>travel</keyword>
+		<keyword>countess</keyword>
+		<keyword>secretary</keyword>
+		<keyword>butler</keyword>
+		<keyword>missionary</keyword>
+		<keyword>train conductor</keyword>
+		<keyword>revenge</keyword>
+		<keyword>avalanche</keyword>
+		<keyword>gun</keyword>
+		<keyword>actress</keyword>
+		<keyword>male secretary</keyword>
+		<keyword>alibi</keyword>
+		<keyword>count</keyword>
+	</keywords>
+	<directors>
+		<director> Kenneth Branagh</director>
+	</directors>
+	<composers>
+		<composer> Patrick Doyle</composer>
+	</composers>
+	<producers>
+		<producer> Winston Azzopardi</producer>
+		<producer> Kenneth Branagh</producer>
+		<producer> Jérémie Chevret</producer>
+		<producer> Pip Gillings</producer>
+		<producer> Mark Gordon</producer>
+		<producer> Judy Hofflund</producer>
+		<producer> Matthew Jenkins</producer>
+		<producer> Simon Kinberg</producer>
+		<producer> Dillon Kivo</producer>
+		<producer> William Moseley</producer>
+		<producer> James Prichard</producer>
+		<producer> Michael Schaefer</producer>
+		<producer> Ridley Scott</producer>
+		<producer> Aditya Sood</producer>
+		<producer> Hilary Strong</producer>
+	</producers>
+	<writers>
+		<writer> Michael Green</writer>
+		<writer> Agatha Christie</writer>
+	</writers>
+	<editors>
+		<editor> Mick Audsley</editor>
+	</editors>
+</doc>

@@ -1,0 +1,592 @@
+<?xml version="1.0" ?>
+<doc id="tt6189022">
+	<docid>tt6189022</docid>
+	<title>Angel Has Fallen</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmRmMWZhZGItYzA4MC00ZDYyLWE0OTMtYmM0MWRiN2Q4NGU2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">121</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Surround 7.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Gerard Butler</actor>
+			<role>Mike Banning</role>
+		</credit>
+		<credit>
+			<actor>Frederick Schmidt</actor>
+			<role>Travis Cole</role>
+		</credit>
+		<credit>
+			<actor>Danny Huston</actor>
+			<role>Wade Jennings</role>
+		</credit>
+		<credit>
+			<actor>Rocci Boy Williams</actor>
+			<role>Bruno</role>
+		</credit>
+		<credit>
+			<actor>Piper Perabo</actor>
+			<role>Leah Banning</role>
+		</credit>
+		<credit>
+			<actor>Harry Ditson</actor>
+			<role>Neurologist</role>
+		</credit>
+		<credit>
+			<actor>Linda John-Pierre</actor>
+			<role>Receptionist</role>
+		</credit>
+		<credit>
+			<actor>Lance Reddick</actor>
+			<role>David Gentry</role>
+		</credit>
+		<credit>
+			<actor>Ori Pfeffer</actor>
+			<role>Agent Murphy</role>
+		</credit>
+		<credit>
+			<actor>Morgan Freeman</actor>
+			<role>President Trumbull</role>
+		</credit>
+		<credit>
+			<actor>Jasmine Hyde</actor>
+			<role>CNN Reporter</role>
+		</credit>
+		<credit>
+			<actor>Ian Porter</actor>
+			<role>Fox Reporter</role>
+		</credit>
+		<credit>
+			<actor>Laurel Lefkow</actor>
+			<role>MSNBC Reporter</role>
+		</credit>
+		<credit>
+			<actor>Michael Landes</actor>
+			<role>Sam Wilcox</role>
+		</credit>
+		<credit>
+			<actor>Mark Arnold</actor>
+			<role>James Haskell</role>
+		</credit>
+		<credit>
+			<actor>Kerry Shale</actor>
+			<role>Ad. Paul Sebring</role>
+		</credit>
+		<credit>
+			<actor>Tim Blake Nelson</actor>
+			<role>VP Kirby</role>
+		</credit>
+		<credit>
+			<actor>John Strong</actor>
+			<role>US Senator</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 20 2019</releasedate>
+		<releasedate country="United Kingdom">August 21 2019</releasedate>
+		<releasedate country="Indonesia">August 21 2019</releasedate>
+		<releasedate country="Ireland">August 21 2019</releasedate>
+		<releasedate country="Philippines">August 21 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-15</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>secret service agent</keyword>
+		<keyword>one against many</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>sequel</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>chase</keyword>
+		<keyword>shootout</keyword>
+		<keyword>hero</keyword>
+		<keyword>framed for murder</keyword>
+		<keyword>police</keyword>
+		<keyword>drone</keyword>
+		<keyword>forest</keyword>
+		<keyword>murder</keyword>
+		<keyword>hostage</keyword>
+		<keyword>manhunt</keyword>
+		<keyword>attempted assassination</keyword>
+		<keyword>armed drone</keyword>
+		<keyword>reference to the unabomber</keyword>
+		<keyword>f word</keyword>
+		<keyword>third part</keyword>
+		<keyword>murder frame up</keyword>
+		<keyword>frame up victim</keyword>
+		<keyword>vice president</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>u.s. secret service</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>three word title</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>profanity</keyword>
+		<keyword>suspense</keyword>
+		<keyword>car truck chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>head butt</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>battle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>police shootout</keyword>
+		<keyword>gun duel</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding boat</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>north carolina</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>stabbed in the side</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the ear</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the foot</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>slide locked back</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>rifle</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>gas grenade</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>night vision binoculars</keyword>
+		<keyword>training exercise</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>one man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>heroism</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>panic</keyword>
+		<keyword>survival</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>race against time</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>assassination plot</keyword>
+		<keyword>political conspiracy</keyword>
+		<keyword>corrupt politician</keyword>
+		<keyword>frame up</keyword>
+		<keyword>on the run</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>arrest</keyword>
+		<keyword>wrongful arrest</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>flashback</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>planting evidence</keyword>
+		<keyword>post cold war</keyword>
+		<keyword>news report</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>press conference</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>hospital</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>state police</keyword>
+		<keyword>blockade</keyword>
+		<keyword>police car</keyword>
+		<keyword>impersonating a police officer</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>female agent</keyword>
+		<keyword>swat team</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>security guard</keyword>
+		<keyword>power outage</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>montage</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>father son estrangement</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car accident</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>ambush</keyword>
+		<keyword>massacre</keyword>
+		<keyword>drone attack</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>politician</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>wiretapping</keyword>
+		<keyword>map</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>woods</keyword>
+		<keyword>coma</keyword>
+		<keyword>waking up from a coma</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>mountain</keyword>
+		<keyword>mountain man</keyword>
+		<keyword>landmine</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>cabin in the woods</keyword>
+		<keyword>survivalist</keyword>
+		<keyword>minefield</keyword>
+		<keyword>mob of reporters</keyword>
+		<keyword>radio</keyword>
+		<keyword>conspiracy theorist</keyword>
+		<keyword>iraq war veteran</keyword>
+		<keyword>night vision</keyword>
+		<keyword>corpse</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>war buddy</keyword>
+		<keyword>ex special forces</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>special forces</keyword>
+		<keyword>judge</keyword>
+		<keyword>female judge</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>fishing boat</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>gas explosion</keyword>
+		<keyword>boiler room</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>prisoner transport</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>dark past</keyword>
+		<keyword>insomnia</keyword>
+		<keyword>insomniac</keyword>
+		<keyword>investigation</keyword>
+		<keyword>shot point blank</keyword>
+		<keyword>glow stick</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>set up</keyword>
+		<keyword>disguise</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>body count</keyword>
+		<keyword>fire</keyword>
+		<keyword>voice changer</keyword>
+		<keyword>henchman</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>intrigue</keyword>
+		<keyword>sinister</keyword>
+		<keyword>revenge</keyword>
+		<keyword>reporter</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>secret</keyword>
+		<keyword>secret tunnel</keyword>
+		<keyword>secret room</keyword>
+		<keyword>paintball gun</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>domestic terrorism</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>migraine</keyword>
+		<keyword>retirement</keyword>
+		<keyword>fishing trip</keyword>
+		<keyword>political assassination</keyword>
+		<keyword>assassin</keyword>
+		<keyword>hired killer</keyword>
+		<keyword>contract killer</keyword>
+		<keyword>guilt</keyword>
+		<keyword>regret</keyword>
+		<keyword>traitor</keyword>
+		<keyword>job promotion</keyword>
+		<keyword>explosive</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>political thriller</keyword>
+		<keyword>lake</keyword>
+		<keyword>public phone</keyword>
+		<keyword>public telephone</keyword>
+		<keyword>collect call</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>reference to the korean war</keyword>
+		<keyword>reference to iraq war</keyword>
+		<keyword>rooftop fight</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police officer killed</keyword>
+		<keyword>police officer shot</keyword>
+		<keyword>police officer shot in the head</keyword>
+		<keyword>police officer killed in hospital</keyword>
+		<keyword>police officer ambushed</keyword>
+		<keyword>police officer shot in the back</keyword>
+		<keyword>police officer shot by a police officer</keyword>
+		<keyword>killed in police car</keyword>
+		<keyword>police officer bombed</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>virginia</keyword>
+		<keyword>private military company</keyword>
+		<keyword>pain medication</keyword>
+		<keyword>secret service</keyword>
+		<keyword>private security contractor</keyword>
+		<keyword>army buddy</keyword>
+		<keyword>ex military</keyword>
+		<keyword>car crashing into a tree</keyword>
+		<keyword>framed</keyword>
+		<keyword>car chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>war veteran</keyword>
+		<keyword>estranged father</keyword>
+		<keyword>treason</keyword>
+		<keyword>firefight</keyword>
+		<keyword>reference to blackwater</keyword>
+		<keyword>radio news</keyword>
+		<keyword>murder of fbi agent</keyword>
+		<keyword>handcuffed to a bed</keyword>
+		<keyword>death of secret service agent</keyword>
+		<keyword>breaking a car window</keyword>
+		<keyword>gun held to head</keyword>
+		<keyword>car theft</keyword>
+		<keyword>tv news</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>female fbi agent</keyword>
+		<keyword>weapon</keyword>
+		<keyword>automatic weapon</keyword>
+		<keyword>u.s. politician</keyword>
+		<keyword>freightliner</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>vietnam war veteran</keyword>
+		<keyword>west virginia</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>swearing on a bible</keyword>
+		<keyword>speedboat</keyword>
+		<keyword>man uses crutches</keyword>
+		<keyword>building explosion</keyword>
+		<keyword>father in law daughter in law relationship</keyword>
+		<keyword>blood pool</keyword>
+		<keyword>militiamen</keyword>
+		<keyword>offshore bank account</keyword>
+		<keyword>reference to russia</keyword>
+		<keyword>death of antagonist</keyword>
+		<keyword>zero gravity</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>conspiracy thriller</keyword>
+		<keyword>one person army action</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>female fbi agent killed</keyword>
+		<keyword>21th century</keyword>
+		<keyword>pledge of allegiance</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>politics</keyword>
+		<keyword>product placement</keyword>
+		<keyword>ski mask</keyword>
+		<keyword>nurse</keyword>
+		<keyword>doctor</keyword>
+		<keyword>van</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>mustache</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>truck stop</keyword>
+		<keyword>truck driver</keyword>
+		<keyword>truck</keyword>
+		<keyword>18 wheeler</keyword>
+		<keyword>gas station</keyword>
+		<keyword>origami</keyword>
+		<keyword>rain</keyword>
+		<keyword>typewriter</keyword>
+		<keyword>gore</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>payphone</keyword>
+		<keyword>man wears eyeglasses</keyword>
+	</keywords>
+	<directors>
+		<director> Ric Roman Waugh</director>
+	</directors>
+	<composers>
+		<composer> David Buckley</composer>
+	</composers>
+	<producers>
+		<producer> David Bernardi</producer>
+		<producer> Mark Birmingham</producer>
+		<producer> Ben Burt</producer>
+		<producer> Gerard Butler</producer>
+		<producer> Christa Campbell</producer>
+		<producer> Conor Charles</producer>
+		<producer> Boaz Davidson</producer>
+		<producer> Kirk Michael Fellows</producer>
+		<producer> Andrey Georgiev</producer>
+		<producer> Mark Gill</producer>
+		<producer> Jeffrey Greenstein</producer>
+		<producer> Lati Grobman</producer>
+		<producer> Cem Gürsel</producer>
+		<producer> Veselin Karadjov</producer>
+		<producer> Daniel Kaslow</producer>
+		<producer> Avi Lerner</producer>
+		<producer> Yariv Lerner</producer>
+		<producer> Gisella Marengo</producer>
+		<producer> Heidi Jo Markel</producer>
+		<producer> Matthew O'Toole</producer>
+		<producer> Lonnie Ramati</producer>
+		<producer> Danielle Robinson</producer>
+		<producer> Sebastian Serrell-Watts</producer>
+		<producer> Stephen Shiu</producer>
+		<producer> Trevor Short</producer>
+		<producer> Alan Siegel</producer>
+		<producer> John Thompson</producer>
+		<producer> Les Weldon</producer>
+		<producer> John Yarincik</producer>
+		<producer> Jonathan Yunger</producer>
+	</producers>
+	<writers>
+		<writer> Robert Mark Kamen</writer>
+		<writer> Matt Cook</writer>
+		<writer> Ric Roman Waugh</writer>
+		<writer> Creighton Rothenberger</writer>
+		<writer> Katrin Benedikt</writer>
+		<writer> Creighton Rothenberger</writer>
+		<writer> Katrin Benedikt</writer>
+	</writers>
+	<editors>
+		<editor> Gabriel Fleming</editor>
+	</editors>
+</doc>

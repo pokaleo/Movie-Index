@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<doc id="tt4834206">
+	<docid>tt4834206</docid>
+	<title>A Series of Unfortunate Events</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTYzMjA3OTgxOV5BMl5BanBnXkFtZTgwMjAwMDU5NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After the loss of their parents in a mysterious fire, the three Baudelaire children face trials and tribulations attempting to uncover dark family secrets.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Neil Patrick Harris</actor>
+			<role>Count Olaf</role>
+		</credit>
+		<credit>
+			<actor>Patrick Warburton</actor>
+			<role>Lemony Snicket</role>
+		</credit>
+		<credit>
+			<actor>Malina Pauli Weissman</actor>
+			<role>Violet Baudelaire</role>
+		</credit>
+		<credit>
+			<actor>Louis Hynes</actor>
+			<role>Klaus Baudelaire</role>
+		</credit>
+		<credit>
+			<actor>K. Todd Freeman</actor>
+			<role>Arthur Poe</role>
+		</credit>
+		<credit>
+			<actor>Presley Smith</actor>
+			<role>Sunny Baudelaire</role>
+		</credit>
+		<credit>
+			<actor>Usman Ally</actor>
+			<role>Hook-Handed Man</role>
+		</credit>
+		<credit>
+			<actor>Jacqueline Robbins</actor>
+			<role>White Faced Woman #1</role>
+		</credit>
+		<credit>
+			<actor>Matty Cardarople</actor>
+			<role>Henchperson of Indeterminate Gender</role>
+		</credit>
+		<credit>
+			<actor>Joyce Robbins</actor>
+			<role>White Faced Woman #2</role>
+		</credit>
+		<credit>
+			<actor>John DeSantis</actor>
+			<role>Bald Man</role>
+		</credit>
+		<credit>
+			<actor>Lucy Punch</actor>
+			<role>Esmé Squalor</role>
+		</credit>
+		<credit>
+			<actor>Dylan Kingwell</actor>
+			<role>Quigley Quagmire</role>
+		</credit>
+		<credit>
+			<actor>Tara Strong</actor>
+			<role>Sunny</role>
+		</credit>
+		<credit>
+			<actor>Nathan Fillion</actor>
+			<role>Jacques Snicket</role>
+		</credit>
+		<credit>
+			<actor>Patrick Breen</actor>
+			<role>Larry Your-Waiter</role>
+		</credit>
+		<credit>
+			<actor>Sara Canning</actor>
+			<role>Jacquelyn</role>
+		</credit>
+		<credit>
+			<actor>Will Arnett</actor>
+			<role>Father</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">January 11 2017</releasedate>
+		<releasedate country="United Arab Emirates">January 13 2017</releasedate>
+		<releasedate country="Argentina">January 13 2017</releasedate>
+		<releasedate country="Australia">January 13 2017</releasedate>
+		<releasedate country="Brazil">January 13 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="Ecuador">7+</certificate>
+		<certificate country="Egypt">7+</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">7+</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Israel">7+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">TV-PG</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Taiwan">7+</certificate>
+		<certificate country="Thailand">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>crossdressing</keyword>
+		<keyword>narrator on screen</keyword>
+		<keyword>steampunk</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>humorous narrator</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>comedy song</keyword>
+		<keyword>deadpan comedy</keyword>
+		<keyword>wordplay</keyword>
+		<keyword>self referential humor</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>neil patrick harris character</keyword>
+		<keyword>steampunk fantasy</keyword>
+		<keyword>supernatural drama</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>director cameo</keyword>
+		<keyword>infant</keyword>
+		<keyword>inventor</keyword>
+		<keyword>baby</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Barry Sonnenfeld</director>
+		<director> Bo Welch</director>
+		<director> Mark Palansky</director>
+		<director> Allan Arkush</director>
+		<director> Loni Peristere</director>
+		<director> Liza Johnson</director>
+		<director> Jonathan Teplitzky</director>
+	</directors>
+	<composers>
+		<composer> Jim Dooley</composer>
+		<composer> James Newton Howard</composer>
+		<composer> Chris Bacon</composer>
+		<composer> Sven Faulconer</composer>
+	</composers>
+	<producers>
+		<producer> Daniel Handler</producer>
+		<producer> Neil Patrick Harris</producer>
+		<producer> Rose Lam</producer>
+		<producer> Barry Sonnenfeld</producer>
+		<producer> Thomas M. Horton</producer>
+		<producer> Kiran Bhakta Joshi</producer>
+		<producer> Rupak Kayastha</producer>
+		<producer> John Weber</producer>
+		<producer> Michael C. Bolton</producer>
+		<producer> Ted Biaselli</producer>
+		<producer> Cindy Holland</producer>
+		<producer> Jack Kenny</producer>
+		<producer> April Nocifora</producer>
+		<producer> Tad Safran</producer>
+		<producer> Frank Siracusa</producer>
+		<producer> Brian Wright</producer>
+		<producer> Emily Fox</producer>
+		<producer> Rand Geiger</producer>
+		<producer> Joe Tracz</producer>
+	</producers>
+	<writers>
+		<writer> Joshua Conkel</writer>
+		<writer> Emily Fox</writer>
+		<writer> Sigrid Gilmer</writer>
+		<writer> Daniel Handler</writer>
+		<writer> Daniel Handler</writer>
+		<writer> Daniel Handler</writer>
+		<writer> Tatiana Suarez-Pico</writer>
+		<writer> Joe Tracz</writer>
+		<writer> Joe Tracz</writer>
+	</writers>
+	<editors>
+		<editor> Stuart Bass</editor>
+		<editor> Steve Welch</editor>
+		<editor> Skip Macdonald</editor>
+	</editors>
+</doc>

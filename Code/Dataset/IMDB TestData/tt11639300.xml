@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<doc id="tt11639300">
+	<docid>tt11639300</docid>
+	<title>Grace</title>
+	<image/>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Drama following Brighton-based Detective Superintendent Roy Grace, a hard-working police officer who has given his life to the job.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>John Simm</actor>
+			<role>DSI Roy Grace</role>
+		</credit>
+		<credit>
+			<actor>Richie Campbell</actor>
+			<role>DS Glenn Branson</role>
+		</credit>
+		<credit>
+			<actor>Brad Morrison</actor>
+			<role>DC Nick Nicholl</role>
+		</credit>
+		<credit>
+			<actor>Laura Elphinstone</actor>
+			<role>DS Bella Moy</role>
+		</credit>
+		<credit>
+			<actor>Craig Parkinson</actor>
+			<role>DS Norman Potting</role>
+		</credit>
+		<credit>
+			<actor>Rakie Ayola</actor>
+			<role>ACC Alison Vosper</role>
+		</credit>
+		<credit>
+			<actor>Zoë Tapper</actor>
+			<role>Cleo Morey</role>
+		</credit>
+		<credit>
+			<actor>Alexander Cobb</actor>
+			<role>Kevin Spinella</role>
+		</credit>
+		<credit>
+			<actor>Carolina Valdés</actor>
+			<role>Nadiuska De Sancha</role>
+		</credit>
+		<credit>
+			<actor>William Andrews</actor>
+			<role>Joe Tindall</role>
+		</credit>
+		<credit>
+			<actor>Clare Calbraith</actor>
+			<role>Sandy</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Scroggs</actor>
+			<role>Ari Branson</role>
+		</credit>
+		<credit>
+			<actor>Amaka Okafor</actor>
+			<role>DC Emma Jane Boutwood</role>
+		</credit>
+		<credit>
+			<actor>Adrian Rawlins</actor>
+			<role>Harry Frame</role>
+		</credit>
+		<credit>
+			<actor>Henry Miller</actor>
+			<role>Dr. Theobald</role>
+		</credit>
+		<credit>
+			<actor>Steve Broad</actor>
+			<role>Chris - Fisherman</role>
+		</credit>
+		<credit>
+			<actor>Amit Shah</actor>
+			<role>Zack Bryce</role>
+		</credit>
+		<credit>
+			<actor>Seham Aar</actor>
+			<role>Sia</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">March 14 2021</releasedate>
+		<releasedate country="France">March 14 2021</releasedate>
+		<releasedate country="United Kingdom">March 14 2021</releasedate>
+		<releasedate country="Canada">April 27 2021</releasedate>
+		<releasedate country="Sweden">June 20 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>brighton england</keyword>
+		<keyword>police detective</keyword>
+		<keyword>widower</keyword>
+		<keyword>police</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>detective superintendent</keyword>
+		<keyword>british police</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>seaside town</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>one word title</keyword>
+		<keyword>cop drama</keyword>
+		<keyword>police procedural crime</keyword>
+		<keyword>whodunnit mystery</keyword>
+	</keywords>
+	<directors>
+		<director> John Alexander</director>
+		<director> Julia Ford</director>
+		<director> Henrik Georgsson</director>
+		<director> Brian Kelly</director>
+		<director> Kate Saxon</director>
+		<director> Camilla Strøm Henriksen</director>
+	</directors>
+	<composers>
+		<composer> Matthew Slater</composer>
+	</composers>
+	<producers>
+		<producer> Peter James</producer>
+		<producer> Russell Lewis</producer>
+		<producer> Andrew O'Connor</producer>
+		<producer> Paul Sandler</producer>
+		<producer> Patrick Schweitzer</producer>
+		<producer> Kiaran Murray-Smith</producer>
+		<producer> Maya Shickell</producer>
+		<producer> Nathalie Tanner</producer>
+		<producer> Michael Vine</producer>
+		<producer> Martin Campbell</producer>
+	</producers>
+	<writers>
+		<writer> Peter James</writer>
+		<writer> Peter James</writer>
+		<writer> Russell Lewis</writer>
+		<writer> Russell Lewis</writer>
+		<writer> Caroline Ip</writer>
+		<writer> Caroline Ip</writer>
+		<writer> Ben Court</writer>
+		<writer> Ed Whitmore</writer>
+	</writers>
+	<editors>
+		<editor> David Thrasher</editor>
+		<editor> Justin Krish</editor>
+		<editor> Melanie Viner-Cuneo</editor>
+		<editor> David Barrett</editor>
+		<editor> Anthony Combes</editor>
+		<editor> James Earing</editor>
+	</editors>
+</doc>

@@ -1,0 +1,510 @@
+<?xml version="1.0" ?>
+<doc id="tt6161168">
+	<docid>tt6161168</docid>
+	<title>Red Dead Redemption II</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGRkMjYzNjAtNDNjOS00ZjUzLTlhZjAtOGE0MDEyMTU5ZDU3XkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_QL75_UY281_CR130,0,190,281_.jpg</image>
+	<year>2018 Video Game</year>
+	<runningtimes/>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>Amidst the decline of the Wild West at the turn of the 20th century, outlaw Arthur Morgan and his gang struggle to cope with the loss of their way of life.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Benjamin Byron Davis</actor>
+			<role>Dutch van der Linde</role>
+		</credit>
+		<credit>
+			<actor>Roger Clark</actor>
+			<role>Arthur Morgan</role>
+		</credit>
+		<credit>
+			<actor>Rob Wiethoff</actor>
+			<role>John Marston</role>
+		</credit>
+		<credit>
+			<actor>Cali Elizabeth Moore</actor>
+			<role>Abigail Roberts</role>
+		</credit>
+		<credit>
+			<actor>Steve J. Palmer</actor>
+			<role>Bill Williamson</role>
+		</credit>
+		<credit>
+			<actor>Noshir Dalal</actor>
+			<role>Charles Smith</role>
+		</credit>
+		<credit>
+			<actor>Curzon Dobell</actor>
+			<role>Hosea Matthews</role>
+		</credit>
+		<credit>
+			<actor>Marissa Buccianti</actor>
+			<role>Jack Marston</role>
+		</credit>
+		<credit>
+			<actor>Ted Sutherland</actor>
+			<role>Jack Marston</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Sloyer</actor>
+			<role>Javier Escuella</role>
+		</credit>
+		<credit>
+			<actor>Stephen Gevedon</actor>
+			<role>Josiah Trelawny</role>
+		</credit>
+		<credit>
+			<actor>Jo Armeniox</actor>
+			<role>Karen Jones</role>
+		</credit>
+		<credit>
+			<actor>Pico Alexander</actor>
+			<role>Kieran Duffy</role>
+		</credit>
+		<credit>
+			<actor>Harron Atkins</actor>
+			<role>Lenny Summers</role>
+		</credit>
+		<credit>
+			<actor>Howard Pinhasik</actor>
+			<role>Leopold Strauss</role>
+		</credit>
+		<credit>
+			<actor>Samantha Strelitz</actor>
+			<role>Mary-Beth Gaskill</role>
+		</credit>
+		<credit>
+			<actor>Peter Blomquist</actor>
+			<role>Micah Bell</role>
+		</credit>
+		<credit>
+			<actor>Penny O'Brien</actor>
+			<role>Molly O'Shea</role>
+		</credit>
+	</cast>
+	<type>other</type>
+	<releasedates>
+		<releasedate country="United Kingdom">October 26 2018</releasedate>
+		<releasedate country="United States">October 26 2018</releasedate>
+		<releasedate country="United States">November 2018</releasedate>
+		<releasedate country="United States">May 15 2019</releasedate>
+		<releasedate country="United States">May 15 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">M</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Japan">Z</certificate>
+		<certificate country="Netherlands">18</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">M</certificate>
+	</certificates>
+	<keywords>
+		<keyword>bounty hunter</keyword>
+		<keyword>cowboy</keyword>
+		<keyword>year 1899</keyword>
+		<keyword>wild west</keyword>
+		<keyword>terminal illness</keyword>
+		<keyword>native american</keyword>
+		<keyword>playing poker</keyword>
+		<keyword>automatic weapon</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>indian war</keyword>
+		<keyword>old west</keyword>
+		<keyword>playstation 4</keyword>
+		<keyword>xbox one</keyword>
+		<keyword>prequel</keyword>
+		<keyword>single player</keyword>
+		<keyword>third person</keyword>
+		<keyword>multiplayer</keyword>
+		<keyword>open world game</keyword>
+		<keyword>lieutenant</keyword>
+		<keyword>outlaw</keyword>
+		<keyword>gang</keyword>
+		<keyword>blood</keyword>
+		<keyword>gore</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>dismemberment</keyword>
+		<keyword>splatter</keyword>
+		<keyword>massacre</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>inbred</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>cave</keyword>
+		<keyword>nature</keyword>
+		<keyword>scenic beauty</keyword>
+		<keyword>snow</keyword>
+		<keyword>violence</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>blizzard</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>console game</keyword>
+		<keyword>cowboy hat</keyword>
+		<keyword>death</keyword>
+		<keyword>deer</keyword>
+		<keyword>deer carcass</keyword>
+		<keyword>drinking</keyword>
+		<keyword>fire</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>horse</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>killing an animal</keyword>
+		<keyword>knife</keyword>
+		<keyword>lantern</keyword>
+		<keyword>lasso</keyword>
+		<keyword>log cabin</keyword>
+		<keyword>mission</keyword>
+		<keyword>mountain</keyword>
+		<keyword>revolver</keyword>
+		<keyword>rifle</keyword>
+		<keyword>river</keyword>
+		<keyword>severe winter</keyword>
+		<keyword>shootout</keyword>
+		<keyword>snowstorm</keyword>
+		<keyword>snowy landscape</keyword>
+		<keyword>snowy mountain</keyword>
+		<keyword>stable</keyword>
+		<keyword>stagecoach</keyword>
+		<keyword>weapon</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>winter</keyword>
+		<keyword>wolf</keyword>
+		<keyword>bar fight</keyword>
+		<keyword>bear</keyword>
+		<keyword>bear attack</keyword>
+		<keyword>beating</keyword>
+		<keyword>bonfire</keyword>
+		<keyword>brutality</keyword>
+		<keyword>chapter headings</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>fight</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>forest</keyword>
+		<keyword>gun</keyword>
+		<keyword>murder</keyword>
+		<keyword>railroad</keyword>
+		<keyword>rhyme in title</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>steam locomotive</keyword>
+		<keyword>summer</keyword>
+		<keyword>thrown through a window</keyword>
+		<keyword>train</keyword>
+		<keyword>train robbery</keyword>
+		<keyword>wolf attack</keyword>
+		<keyword>barn</keyword>
+		<keyword>blackjack</keyword>
+		<keyword>candlelight</keyword>
+		<keyword>carbine</keyword>
+		<keyword>castration threat</keyword>
+		<keyword>color in title</keyword>
+		<keyword>coyote</keyword>
+		<keyword>domino</keyword>
+		<keyword>drink</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>encampment</keyword>
+		<keyword>escape from custody</keyword>
+		<keyword>evening</keyword>
+		<keyword>farm</keyword>
+		<keyword>farmer</keyword>
+		<keyword>gambling</keyword>
+		<keyword>gun belt</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>night</keyword>
+		<keyword>old love</keyword>
+		<keyword>part of series</keyword>
+		<keyword>poker</keyword>
+		<keyword>poker game</keyword>
+		<keyword>rescue</keyword>
+		<keyword>rocky mountains</keyword>
+		<keyword>saddle</keyword>
+		<keyword>saddlebags</keyword>
+		<keyword>sawed off shotgun</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the stomach</keyword>
+		<keyword>small western town</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>tied to a tree</keyword>
+		<keyword>twilight</keyword>
+		<keyword>valley</keyword>
+		<keyword>wagon train</keyword>
+		<keyword>wanted poster</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>widow</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>bison</keyword>
+		<keyword>bowler hat</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>nightfall</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>ambush</keyword>
+		<keyword>bandit</keyword>
+		<keyword>boat</keyword>
+		<keyword>chase</keyword>
+		<keyword>cowboy boots</keyword>
+		<keyword>fishing</keyword>
+		<keyword>fishing rod</keyword>
+		<keyword>flock of sheep</keyword>
+		<keyword>gang member</keyword>
+		<keyword>lake</keyword>
+		<keyword>little boy</keyword>
+		<keyword>outlaw gang</keyword>
+		<keyword>paddock</keyword>
+		<keyword>post office</keyword>
+		<keyword>train station</keyword>
+		<keyword>robbery</keyword>
+		<keyword>rowboat</keyword>
+		<keyword>sheep</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>theft</keyword>
+		<keyword>corpse</keyword>
+		<keyword>countryside</keyword>
+		<keyword>fog</keyword>
+		<keyword>hooch</keyword>
+		<keyword>horse and wagon</keyword>
+		<keyword>moonshine</keyword>
+		<keyword>moonshine still</keyword>
+		<keyword>saloon</keyword>
+		<keyword>swamp</keyword>
+		<keyword>hands tied behind back</keyword>
+		<keyword>bank robbery</keyword>
+		<keyword>burning barn</keyword>
+		<keyword>debt</keyword>
+		<keyword>suspense</keyword>
+		<keyword>woods</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>cougar</keyword>
+		<keyword>puma</keyword>
+		<keyword>candle</keyword>
+		<keyword>cauterizing a wound</keyword>
+		<keyword>escape</keyword>
+		<keyword>hanging upside down</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>tobacco plantation</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>house on fire</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>mansion</keyword>
+		<keyword>petty thief</keyword>
+		<keyword>beard</keyword>
+		<keyword>party</keyword>
+		<keyword>tuxedo</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>deception</keyword>
+		<keyword>dilapidated house</keyword>
+		<keyword>falling into water</keyword>
+		<keyword>fedora</keyword>
+		<keyword>gambler</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>headless corpse</keyword>
+		<keyword>photographer</keyword>
+		<keyword>severed head</keyword>
+		<keyword>theater</keyword>
+		<keyword>tram</keyword>
+		<keyword>anger</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>bloodshed</keyword>
+		<keyword>bridge</keyword>
+		<keyword>cannon</keyword>
+		<keyword>climbing out a window</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>drowning</keyword>
+		<keyword>explosion</keyword>
+		<keyword>gang leader</keyword>
+		<keyword>gold bar</keyword>
+		<keyword>gun duel</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>island</keyword>
+		<keyword>jumping into water</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>murder of an old woman</keyword>
+		<keyword>oil derrick</keyword>
+		<keyword>pigsty</keyword>
+		<keyword>pitchfork</keyword>
+		<keyword>quick draw</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>sea</keyword>
+		<keyword>shackles</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>steamboat</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>torch</keyword>
+		<keyword>torture</keyword>
+		<keyword>balloon</keyword>
+		<keyword>canoe</keyword>
+		<keyword>coughing</keyword>
+		<keyword>doctor</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>hostage</keyword>
+		<keyword>illness</keyword>
+		<keyword>palm tree</keyword>
+		<keyword>prison</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>tropical island</keyword>
+		<keyword>tuberculosis</keyword>
+		<keyword>federal agent</keyword>
+		<keyword>lightning</keyword>
+		<keyword>pike</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>stagecoach driver</keyword>
+		<keyword>thunderstorm</keyword>
+		<keyword>professor</keyword>
+		<keyword>sickness</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>conscience</keyword>
+		<keyword>bridge collapse</keyword>
+		<keyword>devotion</keyword>
+		<keyword>execution</keyword>
+		<keyword>execution by hanging</keyword>
+		<keyword>hanging</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>little person</keyword>
+		<keyword>prosthetic leg</keyword>
+		<keyword>railroad hand car</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>barrel</keyword>
+		<keyword>chieftain</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>guilt</keyword>
+		<keyword>reflection</keyword>
+		<keyword>remorse</keyword>
+		<keyword>self consciousness</keyword>
+		<keyword>action game</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>ranch</keyword>
+		<keyword>electric chair</keyword>
+		<keyword>train robber</keyword>
+		<keyword>money</keyword>
+		<keyword>ship</keyword>
+		<keyword>sinking ship</keyword>
+		<keyword>inventor</keyword>
+		<keyword>boy</keyword>
+		<keyword>map</keyword>
+		<keyword>letter</keyword>
+		<keyword>skinning an animal</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>soldier</keyword>
+		<keyword>u.s. soldier</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>death of horse</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>honor</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>showdown</keyword>
+		<keyword>village</keyword>
+		<keyword>bull</keyword>
+		<keyword>false name</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>horse and carriage</keyword>
+		<keyword>horse chase</keyword>
+		<keyword>milking a cow</keyword>
+		<keyword>rancher</keyword>
+		<keyword>family man</keyword>
+		<keyword>best selling video game</keyword>
+		<keyword>canyon</keyword>
+		<keyword>knife through hand</keyword>
+		<keyword>small town</keyword>
+		<keyword>blacksmith</keyword>
+		<keyword>desperation</keyword>
+		<keyword>thug</keyword>
+		<keyword>uncle</keyword>
+		<keyword>attack</keyword>
+		<keyword>building a house</keyword>
+		<keyword>dog</keyword>
+		<keyword>hammering a nail</keyword>
+		<keyword>revenge</keyword>
+		<keyword>stabbed in the stomach</keyword>
+		<keyword>symbolism</keyword>
+		<keyword>traitor</keyword>
+		<keyword>arabian horse</keyword>
+		<keyword>google stadia</keyword>
+		<keyword>revisionist western</keyword>
+		<keyword>american history</keyword>
+		<keyword>reference to spaghetti western films</keyword>
+		<keyword>microsoft windows</keyword>
+		<keyword>third part</keyword>
+		<keyword>multiplatform</keyword>
+		<keyword>west</keyword>
+		<keyword>second part</keyword>
+	</keywords>
+	<directors/>
+	<composers>
+		<composer> Woody Jackson</composer>
+	</composers>
+	<producers>
+		<producer> Adrián Castañeda</producer>
+		<producer> Chris Choi</producer>
+		<producer> Dan Houser</producer>
+		<producer> Sam Houser</producer>
+		<producer> David Kunkler</producer>
+		<producer> William Mills</producer>
+		<producer> Josh Needleman</producer>
+		<producer> Rob Nelson</producer>
+	</producers>
+	<writers>
+		<writer> Dan Houser</writer>
+		<writer> Michael Unsworth</writer>
+		<writer> Rupert Humphries</writer>
+		<writer> Dan Houser</writer>
+		<writer> Michael Unsworth</writer>
+		<writer> Rupert Humphries</writer>
+		<writer> James Horton</writer>
+		<writer> Chelsea Chun</writer>
+		<writer> Roland Schwartz</writer>
+		<writer> Michael Unsworth</writer>
+		<writer> Lazlow</writer>
+		<writer> Craig Gilmore</writer>
+		<writer> Elisa Olmedo</writer>
+		<writer> Forrest Karbowski</writer>
+		<writer> Greg Johnson</writer>
+		<writer> Hugh Michaels</writer>
+		<writer> Jason Escalante</writer>
+		<writer> Juan Biel</writer>
+		<writer> Logan Paton</writer>
+		<writer> Mark Eicher</writer>
+		<writer> Sanford Santacroce</writer>
+		<writer> Taryn Fondi</writer>
+		<writer> Tony Grinage</writer>
+		<writer> Veronica Stroever</writer>
+		<writer> Vincent Parker</writer>
+		<writer> Rupert Humphries</writer>
+		<writer> Dan Houser</writer>
+		<writer> James Horton</writer>
+		<writer> Lazlow</writer>
+		<writer> Dan Houser</writer>
+	</writers>
+	<editors/>
+</doc>

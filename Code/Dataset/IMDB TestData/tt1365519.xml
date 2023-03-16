@@ -1,0 +1,705 @@
+<?xml version="1.0" ?>
+<doc id="tt1365519">
+	<docid>tt1365519</docid>
+	<title>Tomb Raider</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTY4NDcyZGQtYmVlNy00ODgwLTljYTMtYzQ2OTE3NDhjODMwXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">119</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft disappeared.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Alicia Vikander</actor>
+			<role>Lara Croft</role>
+		</credit>
+		<credit>
+			<actor>Dominic West</actor>
+			<role>Richard Croft</role>
+		</credit>
+		<credit>
+			<actor>Walton Goggins</actor>
+			<role>Mathias Vogel</role>
+		</credit>
+		<credit>
+			<actor>Daniel Wu</actor>
+			<role>Lu Ren</role>
+		</credit>
+		<credit>
+			<actor>Kristin Scott Thomas</actor>
+			<role>Ana Miller</role>
+		</credit>
+		<credit>
+			<actor>Derek Jacobi</actor>
+			<role>Mr. Yaffe</role>
+		</credit>
+		<credit>
+			<actor>Alexandre Willaume</actor>
+			<role>Lieutenant</role>
+		</credit>
+		<credit>
+			<actor>Tamer Burjaq</actor>
+			<role>Mercenary</role>
+		</credit>
+		<credit>
+			<actor>Adrian Collins</actor>
+			<role>Mercenary</role>
+		</credit>
+		<credit>
+			<actor>Keenan Arrison</actor>
+			<role>Mercenary</role>
+		</credit>
+		<credit>
+			<actor>Andrian Mazive</actor>
+			<role>Mercenary</role>
+		</credit>
+		<credit>
+			<actor>Milton Schorr</actor>
+			<role>Mercenary</role>
+		</credit>
+		<credit>
+			<actor>Hannah John-Kamen</actor>
+			<role>Sophie</role>
+		</credit>
+		<credit>
+			<actor>Peter Waison</actor>
+			<role>Taxi Driver</role>
+		</credit>
+		<credit>
+			<actor>Samuel Mak</actor>
+			<role>Chinese Kid</role>
+		</credit>
+		<credit>
+			<actor>Sky Yang</actor>
+			<role>Chinese Kid</role>
+		</credit>
+		<credit>
+			<actor>Civic Chung</actor>
+			<role>Chinese Kid</role>
+		</credit>
+		<credit>
+			<actor>Josef Altin</actor>
+			<role>Bruce the Boss</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">March 2 2018</releasedate>
+		<releasedate country="United Kingdom">March 6 2018</releasedate>
+		<releasedate country="Indonesia">March 7 2018</releasedate>
+		<releasedate country="South Korea">March 8 2018</releasedate>
+		<releasedate country="Malaysia">March 8 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">12+</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>jungle</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>based on video game</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>chase</keyword>
+		<keyword>heroine</keyword>
+		<keyword>tomb raider</keyword>
+		<keyword>cave</keyword>
+		<keyword>tough woman</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>survival</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>island</keyword>
+		<keyword>strong female lead</keyword>
+		<keyword>two word title</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>lara croft character</keyword>
+		<keyword>tomb</keyword>
+		<keyword>storm</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>murder</keyword>
+		<keyword>brutality</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>slave labor</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>parkour chase</keyword>
+		<keyword>stitching a wound</keyword>
+		<keyword>origin of heroine</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>one against many</keyword>
+		<keyword>forced to kill</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>human shield</keyword>
+		<keyword>pointing a gun at someone's head</keyword>
+		<keyword>handgun</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>disease</keyword>
+		<keyword>hanging by one arm</keyword>
+		<keyword>out of ammunition</keyword>
+		<keyword>f rated</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>bicycle race</keyword>
+		<keyword>bicycle hit a police car</keyword>
+		<keyword>police car</keyword>
+		<keyword>out on bail</keyword>
+		<keyword>inheritance</keyword>
+		<keyword>key</keyword>
+		<keyword>pre recorded message</keyword>
+		<keyword>research</keyword>
+		<keyword>hong kong</keyword>
+		<keyword>boat captain</keyword>
+		<keyword>survivor</keyword>
+		<keyword>robbery</keyword>
+		<keyword>expedition</keyword>
+		<keyword>wound</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>fishermen</keyword>
+		<keyword>chinese</keyword>
+		<keyword>london england</keyword>
+		<keyword>henchman</keyword>
+		<keyword>sarcophagus</keyword>
+		<keyword>explosion</keyword>
+		<keyword>bomb</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>pawnshop</keyword>
+		<keyword>pawn</keyword>
+		<keyword>jade pendant</keyword>
+		<keyword>secret society</keyword>
+		<keyword>swedish actress playing british character</keyword>
+		<keyword>british lord</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>arrow</keyword>
+		<keyword>gun</keyword>
+		<keyword>being shot at</keyword>
+		<keyword>raging water</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>beating</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>kickboxing</keyword>
+		<keyword>2010s</keyword>
+		<keyword>reboot of series</keyword>
+		<keyword>boxing ring</keyword>
+		<keyword>boxing gym</keyword>
+		<keyword>locker room</keyword>
+		<keyword>adventure hero</keyword>
+		<keyword>shootout</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>suspense</keyword>
+		<keyword>courier</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>police station</keyword>
+		<keyword>heiress</keyword>
+		<keyword>map</keyword>
+		<keyword>journal</keyword>
+		<keyword>notebook</keyword>
+		<keyword>flashback</keyword>
+		<keyword>guardian</keyword>
+		<keyword>boardroom</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>photograph</keyword>
+		<keyword>manor house</keyword>
+		<keyword>mansion</keyword>
+		<keyword>crypt</keyword>
+		<keyword>secret room</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>secret door</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>superstition</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>world domination</keyword>
+		<keyword>elevator</keyword>
+		<keyword>revelation</keyword>
+		<keyword>ceo</keyword>
+		<keyword>search for father</keyword>
+		<keyword>widower</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>escape</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>double cross</keyword>
+		<keyword>slavery</keyword>
+		<keyword>explosive</keyword>
+		<keyword>campfire</keyword>
+		<keyword>drowning</keyword>
+		<keyword>running</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>target practice</keyword>
+		<keyword>apple</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>amulet</keyword>
+		<keyword>armory</keyword>
+		<keyword>open ended</keyword>
+		<keyword>glass building</keyword>
+		<keyword>race against time</keyword>
+		<keyword>montage</keyword>
+		<keyword>ship</keyword>
+		<keyword>harbor</keyword>
+		<keyword>ship captain</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>shipwreck</keyword>
+		<keyword>sailor</keyword>
+		<keyword>boat</keyword>
+		<keyword>torture</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>shower</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>storm at sea</keyword>
+		<keyword>lightning</keyword>
+		<keyword>tent</keyword>
+		<keyword>beach</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>cave in</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>faked death</keyword>
+		<keyword>hope</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>helicopter pilot</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>rainforest</keyword>
+		<keyword>flare gun</keyword>
+		<keyword>flare</keyword>
+		<keyword>skull</keyword>
+		<keyword>impalement</keyword>
+		<keyword>infection</keyword>
+		<keyword>mutation</keyword>
+		<keyword>mercy killing</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>ambush</keyword>
+		<keyword>death trap</keyword>
+		<keyword>corpse</keyword>
+		<keyword>severed finger</keyword>
+		<keyword>coffin</keyword>
+		<keyword>decomposing body</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>abandoned airplane</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>long take</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>river</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>knife</keyword>
+		<keyword>hunting</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>missing person</keyword>
+		<keyword>2000s</keyword>
+		<keyword>desperation</keyword>
+		<keyword>reference to william tell</keyword>
+		<keyword>fake passport</keyword>
+		<keyword>hit with a shovel</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>food delivery</keyword>
+		<keyword>delivery woman</keyword>
+		<keyword>bicycle chase</keyword>
+		<keyword>watching a video</keyword>
+		<keyword>pawnbroker</keyword>
+		<keyword>sea</keyword>
+		<keyword>hammock</keyword>
+		<keyword>falling into water</keyword>
+		<keyword>muscle girl</keyword>
+		<keyword>mural</keyword>
+		<keyword>queen</keyword>
+		<keyword>leather jacket</keyword>
+		<keyword>palace</keyword>
+		<keyword>security</keyword>
+		<keyword>security guard</keyword>
+		<keyword>reception</keyword>
+		<keyword>conference room</keyword>
+		<keyword>police</keyword>
+		<keyword>corporation</keyword>
+		<keyword>paperwork</keyword>
+		<keyword>legend</keyword>
+		<keyword>taxi</keyword>
+		<keyword>mausoleum</keyword>
+		<keyword>orphan</keyword>
+		<keyword>junk</keyword>
+		<keyword>secret</keyword>
+		<keyword>message from dead father</keyword>
+		<keyword>lost island</keyword>
+		<keyword>backpack</keyword>
+		<keyword>knapsack</keyword>
+		<keyword>clasp knife</keyword>
+		<keyword>rifle</keyword>
+		<keyword>tanktop</keyword>
+		<keyword>barrel</keyword>
+		<keyword>hosing someone down</keyword>
+		<keyword>bench</keyword>
+		<keyword>cassette</keyword>
+		<keyword>ponytail</keyword>
+		<keyword>washed overboard</keyword>
+		<keyword>begins with narration</keyword>
+		<keyword>begins with historical summary</keyword>
+		<keyword>riding a bicycle</keyword>
+		<keyword>bicycle delivery</keyword>
+		<keyword>paint can</keyword>
+		<keyword>bicycle pursuit</keyword>
+		<keyword>air horn</keyword>
+		<keyword>bicycle crash</keyword>
+		<keyword>covered with paint</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>childhood memory</keyword>
+		<keyword>fingertip kiss on forehead</keyword>
+		<keyword>puzzle box</keyword>
+		<keyword>scavenger hunt</keyword>
+		<keyword>biting</keyword>
+		<keyword>demolition</keyword>
+		<keyword>artifact</keyword>
+		<keyword>false passport</keyword>
+		<keyword>visiting fathers grave</keyword>
+		<keyword>video camera</keyword>
+		<keyword>posthumous request</keyword>
+		<keyword>posthumous video</keyword>
+		<keyword>drowned in a puddle</keyword>
+		<keyword>whispering in ear</keyword>
+		<keyword>spilling coffee on someone</keyword>
+		<keyword>kicked in the head</keyword>
+		<keyword>boat city</keyword>
+		<keyword>swinging on a rope</keyword>
+		<keyword>passed out drunk</keyword>
+		<keyword>freighter</keyword>
+		<keyword>sprayed with water</keyword>
+		<keyword>b 25</keyword>
+		<keyword>coded message</keyword>
+		<keyword>death by drowning</keyword>
+		<keyword>cipher wheel</keyword>
+		<keyword>caught in river rapids</keyword>
+		<keyword>parachute</keyword>
+		<keyword>shinnying along a pole</keyword>
+		<keyword>jumping from a boat</keyword>
+		<keyword>rock climbing</keyword>
+		<keyword>satellite phone</keyword>
+		<keyword>lowered on a rope</keyword>
+		<keyword>signing a power of attorney document</keyword>
+		<keyword>secret organization</keyword>
+		<keyword>ladder used as a bridge</keyword>
+		<keyword>exploring a cave</keyword>
+		<keyword>arsenal</keyword>
+		<keyword>necropsy</keyword>
+		<keyword>kicked while down</keyword>
+		<keyword>punched in the groin</keyword>
+		<keyword>fire bomb</keyword>
+		<keyword>robber</keyword>
+		<keyword>chokehold</keyword>
+		<keyword>chasing a thief</keyword>
+		<keyword>purse snatching</keyword>
+		<keyword>switchblade</keyword>
+		<keyword>lifeboat</keyword>
+		<keyword>collapsing bridge</keyword>
+		<keyword>pickaxe</keyword>
+		<keyword>judo throw</keyword>
+		<keyword>running and jumping</keyword>
+		<keyword>reboot</keyword>
+		<keyword>muted color scene</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>bicycle courier</keyword>
+		<keyword>murder of an innocent person</keyword>
+		<keyword>man hits a woman</keyword>
+		<keyword>theft</keyword>
+		<keyword>woman murders a man with her bare hands</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>woman tackles a man</keyword>
+		<keyword>richard croft character</keyword>
+		<keyword>microcassette recorder</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>night</keyword>
+		<keyword>plane wreckage</keyword>
+		<keyword>weapon</keyword>
+		<keyword>voice recording</keyword>
+		<keyword>firearm</keyword>
+		<keyword>batangas knife</keyword>
+		<keyword>airplane wreckage</keyword>
+		<keyword>father daughter reunion</keyword>
+		<keyword>injured abdomen</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>bow the weapon</keyword>
+		<keyword>aircraft wreckage</keyword>
+		<keyword>sidearm</keyword>
+		<keyword>skeletal remains</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>male versus female</keyword>
+		<keyword>suv</keyword>
+		<keyword>wounded abdomen</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>audio recording</keyword>
+		<keyword>britoness</keyword>
+		<keyword>hidden room</keyword>
+		<keyword>bespectacled male</keyword>
+		<keyword>manor</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>britoness abroad</keyword>
+		<keyword>opening narration</keyword>
+		<keyword>wall clock</keyword>
+		<keyword>search for missing father</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>audiovisual recording</keyword>
+		<keyword>jumping overboard</keyword>
+		<keyword>car</keyword>
+		<keyword>human remains</keyword>
+		<keyword>multitool</keyword>
+		<keyword>derelict airplane</keyword>
+		<keyword>girls with guns</keyword>
+		<keyword>japanese folklore</keyword>
+		<keyword>goddess</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>police officer</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>infectious disease</keyword>
+		<keyword>virus</keyword>
+		<keyword>zombie like</keyword>
+		<keyword>grieving daughter</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>collapsing cave</keyword>
+		<keyword>power of attorney</keyword>
+		<keyword>last will</keyword>
+		<keyword>testament</keyword>
+		<keyword>bicycle messenger</keyword>
+		<keyword>crashing into a police car</keyword>
+		<keyword>mixed martial arts match</keyword>
+		<keyword>england</keyword>
+		<keyword>great britain</keyword>
+		<keyword>united kingdom</keyword>
+		<keyword>clue</keyword>
+		<keyword>explorer</keyword>
+		<keyword>uninhabited island</keyword>
+		<keyword>sea voyage</keyword>
+		<keyword>ordeal</keyword>
+		<keyword>voice over</keyword>
+		<keyword>sinking ship</keyword>
+		<keyword>running aground</keyword>
+		<keyword>ship run aground</keyword>
+		<keyword>ship runs aground</keyword>
+		<keyword>dig site</keyword>
+		<keyword>knocked unconscious with a gun butt</keyword>
+		<keyword>forced labor</keyword>
+		<keyword>asia</keyword>
+		<keyword>east asia</keyword>
+		<keyword>tied hands</keyword>
+		<keyword>gorge</keyword>
+		<keyword>river rapids</keyword>
+		<keyword>gunshot wound</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>suffocating to death</keyword>
+		<keyword>climbing up a cliff</keyword>
+		<keyword>thought to be dead</keyword>
+		<keyword>living in a cave</keyword>
+		<keyword>believed to be dead</keyword>
+		<keyword>excavation</keyword>
+		<keyword>search for long lost father</keyword>
+		<keyword>long lost father</keyword>
+		<keyword>shot in the chest with an arrow</keyword>
+		<keyword>firefight</keyword>
+		<keyword>myth</keyword>
+		<keyword>opening a tomb</keyword>
+		<keyword>mummified body</keyword>
+		<keyword>pathogen</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>murdered with an arrow</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>murder of a man</keyword>
+		<keyword>shooting a man</keyword>
+		<keyword>timeframe 2000s</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>jungle adventure</keyword>
+		<keyword>sweating</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>ranged weapon</keyword>
+		<keyword>jumping onto a moving vehicle</keyword>
+		<keyword>death of father</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>spider</keyword>
+		<keyword>thumb</keyword>
+		<keyword>cutting off thumb</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>female aristocrat</keyword>
+		<keyword>glow stick</keyword>
+		<keyword>british woman</keyword>
+		<keyword>water</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>scottish accent</keyword>
+		<keyword>money</keyword>
+		<keyword>puzzle</keyword>
+		<keyword>deception</keyword>
+		<keyword>blood</keyword>
+		<keyword>mine</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>mud fight</keyword>
+		<keyword>archery</keyword>
+		<keyword>regret</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>scar</keyword>
+		<keyword>ladder</keyword>
+		<keyword>balisong</keyword>
+		<keyword>female boxing</keyword>
+		<keyword>eating an apple</keyword>
+		<keyword>double decker bus</keyword>
+		<keyword>receptionist</keyword>
+		<keyword>statue</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>name tag</keyword>
+		<keyword>towel on head</keyword>
+		<keyword>park bench</keyword>
+		<keyword>apple in mouth</keyword>
+		<keyword>mining</keyword>
+		<keyword>pump action shotgun</keyword>
+		<keyword>warning shot</keyword>
+		<keyword>climbing a rope</keyword>
+		<keyword>trimming beard</keyword>
+		<keyword>infected</keyword>
+	</keywords>
+	<directors>
+		<director> Roar Uthaug</director>
+	</directors>
+	<composers>
+		<composer> Tom Holkenborg</composer>
+	</composers>
+	<producers>
+		<producer> Genevieve Hofmeyr</producer>
+		<producer> Noah Hughes</producer>
+		<producer> Graham King</producer>
+		<producer> Patrick McCormick</producer>
+		<producer> Denis O'Sullivan</producer>
+	</producers>
+	<writers>
+		<writer> Geneva Robertson-Dworet</writer>
+		<writer> Alastair Siddons</writer>
+		<writer> Evan Daugherty</writer>
+		<writer> Geneva Robertson-Dworet</writer>
+		<writer> Susan O'Connor</writer>
+		<writer> Rhianna Pratchett</writer>
+	</writers>
+	<editors>
+		<editor> Stuart Baird</editor>
+		<editor> Tom Harrison-Read</editor>
+		<editor> Michael Tronick</editor>
+	</editors>
+</doc>

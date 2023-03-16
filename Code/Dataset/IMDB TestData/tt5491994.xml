@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<doc id="tt5491994">
+	<docid>tt5491994</docid>
+	<title>Planet Earth II</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGZmYmQ5NGQtNWQ1MC00NWZlLTg0MjYtYjJjMzQ5ODgxYzRkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">298</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>David Attenborough returns with a new wildlife documentary that shows life in a variety of habitats.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>David Attenborough</actor>
+			<role>Self - Narrator</role>
+		</credit>
+		<credit>
+			<actor>Chadden Hunter</actor>
+			<role>Self - Producer</role>
+		</credit>
+		<credit>
+			<actor>Gordon Buchanan</actor>
+			<role>Self - Cameraman</role>
+		</credit>
+		<credit>
+			<actor>Emma Brennand</actor>
+			<role>Self - Director</role>
+		</credit>
+		<credit>
+			<actor>Pete McCowen</actor>
+			<role>Self - Cameraman</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth White</actor>
+			<role>Self - Producer</role>
+		</credit>
+		<credit>
+			<actor>Fredi Devas</actor>
+			<role>Self - Producer</role>
+		</credit>
+		<credit>
+			<actor>Ed Charles</actor>
+			<role>Self - Producer</role>
+		</credit>
+		<credit>
+			<actor>Thomas Crowley</actor>
+			<role>Self - Cameraman</role>
+		</credit>
+		<credit>
+			<actor>Barrie Britton</actor>
+			<role>Self - Cameraman</role>
+		</credit>
+		<credit>
+			<actor>Emma Napper</actor>
+			<role>Self - Producer</role>
+		</credit>
+		<credit>
+			<actor>Sandesh Kadur</actor>
+			<role>Self - Cameraman</role>
+		</credit>
+		<credit>
+			<actor>Max Hug Williams</actor>
+			<role>Self - Cameraman</role>
+		</credit>
+		<credit>
+			<actor>Jerome Poncet</actor>
+			<role>Self - Antarctic expert</role>
+		</credit>
+		<credit>
+			<actor>Michael J. Sanderson</actor>
+			<role>Self - Drone Operator</role>
+		</credit>
+		<credit>
+			<actor>Armin Holtze</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Mark MacEwen</actor>
+			<role>Self - Cameraman</role>
+		</credit>
+		<credit>
+			<actor>Juarez Sena Feitoza</actor>
+			<role>Self - Field Assistant</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">November 6 2016</releasedate>
+		<releasedate country="France">November 6 2016</releasedate>
+		<releasedate country="United Kingdom">November 6 2016</releasedate>
+		<releasedate country="Hungary">November 6 2016</releasedate>
+		<releasedate country="United Arab Emirates">December 5 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Japan">All Ages</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Philippines">PG</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>nature documentary</keyword>
+		<keyword>mountain</keyword>
+		<keyword>desert</keyword>
+		<keyword>island</keyword>
+		<keyword>nature</keyword>
+		<keyword>animal</keyword>
+		<keyword>earth</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>high definition</keyword>
+		<keyword>astronomical object in title</keyword>
+		<keyword>roman numeral in title</keyword>
+		<keyword>animal documentary</keyword>
+		<keyword>documentary series</keyword>
+		<keyword>tv mini series</keyword>
+	</keywords>
+	<directors>
+		<director> Justin Anderson</director>
+		<director> Ed Charles</director>
+		<director> Fredi Devas</director>
+		<director> Chadden Hunter</director>
+		<director> Emma Napper</director>
+		<director> Elizabeth White</director>
+	</directors>
+	<composers>
+		<composer> Jasha Klebe</composer>
+		<composer> Jacob Shea</composer>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> Vanessa Berlowitz</producer>
+		<producer> James Brickell</producer>
+		<producer> Jonathan Keeling</producer>
+		<producer> Justin Anderson</producer>
+		<producer> Ed Charles</producer>
+		<producer> Fredi Devas</producer>
+		<producer> Michael Gunton</producer>
+		<producer> Tom Hugh-Jones</producer>
+		<producer> Chadden Hunter</producer>
+		<producer> Emma Napper</producer>
+		<producer> Elizabeth White</producer>
+	</producers>
+	<writers>
+		<writer> Elizabeth White</writer>
+	</writers>
+	<editors>
+		<editor> Nigel Buck</editor>
+		<editor> David Pearce</editor>
+		<editor> Nick Carline</editor>
+		<editor> Matt Meech</editor>
+		<editor> Tom Wright</editor>
+	</editors>
+</doc>

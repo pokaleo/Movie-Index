@@ -1,0 +1,389 @@
+<?xml version="1.0" ?>
+<doc id="tt2096673">
+	<docid>tt2096673</docid>
+	<title>Inside Out</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2015</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Amy Poehler</actor>
+			<role>Joy</role>
+		</credit>
+		<credit>
+			<actor>Bill Hader</actor>
+			<role>Fear</role>
+		</credit>
+		<credit>
+			<actor>Lewis Black</actor>
+			<role>Anger</role>
+		</credit>
+		<credit>
+			<actor>Mindy Kaling</actor>
+			<role>Disgust</role>
+		</credit>
+		<credit>
+			<actor>Phyllis Smith</actor>
+			<role>Sadness</role>
+		</credit>
+		<credit>
+			<actor>Richard Kind</actor>
+			<role>Bing Bong</role>
+		</credit>
+		<credit>
+			<actor>Kaitlyn Dias</actor>
+			<role>Riley</role>
+		</credit>
+		<credit>
+			<actor>Diane Lane</actor>
+			<role>Mom</role>
+		</credit>
+		<credit>
+			<actor>Kyle MacLachlan</actor>
+			<role>Dad</role>
+		</credit>
+		<credit>
+			<actor>Paula Poundstone</actor>
+			<role>Forgetter Paula</role>
+		</credit>
+		<credit>
+			<actor>Bobby Moynihan</actor>
+			<role>Forgetter Bobby</role>
+		</credit>
+		<credit>
+			<actor>Paula Pell</actor>
+			<role>Dream Director</role>
+		</credit>
+		<credit>
+			<actor>Dave Goelz</actor>
+			<role>Subconscious Guard Frank</role>
+		</credit>
+		<credit>
+			<actor>Frank Oz</actor>
+			<role>Subconscious Guard Dave</role>
+		</credit>
+		<credit>
+			<actor>Josh Cooley</actor>
+			<role>Jangles</role>
+		</credit>
+		<credit>
+			<actor>Flea</actor>
+			<role>Mind Worker Cop Jake</role>
+		</credit>
+		<credit>
+			<actor>John Ratzenberger</actor>
+			<role>Fritz</role>
+		</credit>
+		<credit>
+			<actor>Carlos Alazraqui</actor>
+			<role>Helicopter Pilot</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 18 2015</releasedate>
+		<releasedate country="United States">June 4 2015</releasedate>
+		<releasedate country="United States">June 8 2015</releasedate>
+		<releasedate country="Australia">June 9 2015</releasedate>
+		<releasedate country="United States">June 9 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">0</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Indonesia">R</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Maldives">PG</certificate>
+		<certificate country="Mexico">AA</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="New Zealand">G</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">b.o.</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Puerto Rico">PG</certificate>
+		<certificate country="Romania">A.G.</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">G</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">G</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>joy</keyword>
+		<keyword>sadness</keyword>
+		<keyword>anger</keyword>
+		<keyword>memory</keyword>
+		<keyword>running away</keyword>
+		<keyword>emotion</keyword>
+		<keyword>disgust</keyword>
+		<keyword>fear</keyword>
+		<keyword>bus</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>imaginary friend</keyword>
+		<keyword>mind</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>ice hockey</keyword>
+		<keyword>new house</keyword>
+		<keyword>dream</keyword>
+		<keyword>balloon</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>apology</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>running away from home</keyword>
+		<keyword>movie studio</keyword>
+		<keyword>erased memory</keyword>
+		<keyword>growing up</keyword>
+		<keyword>minnesota</keyword>
+		<keyword>tomboy</keyword>
+		<keyword>house of cards</keyword>
+		<keyword>trophy</keyword>
+		<keyword>baby</keyword>
+		<keyword>bus station</keyword>
+		<keyword>elephant</keyword>
+		<keyword>clown</keyword>
+		<keyword>bear</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>friendship</keyword>
+		<keyword>giant clown</keyword>
+		<keyword>balloon cage</keyword>
+		<keyword>trying to run away</keyword>
+		<keyword>tears</keyword>
+		<keyword>light bulb</keyword>
+		<keyword>greatest fear</keyword>
+		<keyword>snoring</keyword>
+		<keyword>imagination</keyword>
+		<keyword>lava</keyword>
+		<keyword>lombard street san francisco</keyword>
+		<keyword>giant</keyword>
+		<keyword>cliff</keyword>
+		<keyword>honesty</keyword>
+		<keyword>train of thought</keyword>
+		<keyword>subconscious</keyword>
+		<keyword>moving to city</keyword>
+		<keyword>first day of school</keyword>
+		<keyword>moving</keyword>
+		<keyword>iphone</keyword>
+		<keyword>road movie</keyword>
+		<keyword>bechdel test passed</keyword>
+		<keyword>broccoli</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>rat</keyword>
+		<keyword>eye</keyword>
+		<keyword>french fry</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>laziness</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>green hair</keyword>
+		<keyword>blue hair</keyword>
+		<keyword>girl</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>two word title</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>big eyes</keyword>
+		<keyword>nose</keyword>
+		<keyword>chinese food</keyword>
+		<keyword>schoolteacher</keyword>
+		<keyword>falling off a cliff</keyword>
+		<keyword>creating a flashback</keyword>
+		<keyword>hammer</keyword>
+		<keyword>cage</keyword>
+		<keyword>sneaking out</keyword>
+		<keyword>grounded</keyword>
+		<keyword>police officer</keyword>
+		<keyword>dizziness</keyword>
+		<keyword>newborn baby</keyword>
+		<keyword>punishment</keyword>
+		<keyword>rolling one's eyes</keyword>
+		<keyword>indifference</keyword>
+		<keyword>pizza</keyword>
+		<keyword>square</keyword>
+		<keyword>middle school</keyword>
+		<keyword>forgiveness</keyword>
+		<keyword>wanting to come back to old city</keyword>
+		<keyword>color</keyword>
+		<keyword>computer generated imagery</keyword>
+		<keyword>memory erasure</keyword>
+		<keyword>stuttering</keyword>
+		<keyword>inability to walk</keyword>
+		<keyword>california</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>fire extinguisher</keyword>
+		<keyword>crying baby</keyword>
+		<keyword>raincloud</keyword>
+		<keyword>11 year old</keyword>
+		<keyword>pixar</keyword>
+		<keyword>spit take</keyword>
+		<keyword>dog</keyword>
+		<keyword>welding mask</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>control center</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>headquarters</keyword>
+		<keyword>control</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>photo session</keyword>
+		<keyword>bad memory</keyword>
+		<keyword>family dinner</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>daydream</keyword>
+		<keyword>runaway girl</keyword>
+		<keyword>hybrid animal</keyword>
+		<keyword>sliding down a banister</keyword>
+		<keyword>tryout</keyword>
+		<keyword>dead animal</keyword>
+		<keyword>island</keyword>
+		<keyword>orb</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>preschool</keyword>
+		<keyword>toy wagon</keyword>
+		<keyword>abstract thought</keyword>
+		<keyword>memory core</keyword>
+		<keyword>cotton candy</keyword>
+		<keyword>maze</keyword>
+		<keyword>dump</keyword>
+		<keyword>dog costume</keyword>
+		<keyword>captive</keyword>
+		<keyword>filmmaking</keyword>
+		<keyword>child protagonist</keyword>
+		<keyword>inside body</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>runaway</keyword>
+		<keyword>chased by a dog</keyword>
+		<keyword>demolition</keyword>
+		<keyword>face paint</keyword>
+		<keyword>waking up from a nightmare</keyword>
+		<keyword>tear on cheek</keyword>
+		<keyword>golden gate bridge</keyword>
+		<keyword>ice skating</keyword>
+		<keyword>motivational</keyword>
+		<keyword>cereal box</keyword>
+		<keyword>cereal</keyword>
+		<keyword>bow tie</keyword>
+		<keyword>necktie</keyword>
+		<keyword>2010s</keyword>
+		<keyword>2000s</keyword>
+		<keyword>boyfriend</keyword>
+		<keyword>cloud</keyword>
+		<keyword>boy</keyword>
+		<keyword>mustache</keyword>
+		<keyword>reference to usagi tsukino</keyword>
+		<keyword>flashback</keyword>
+		<keyword>crying</keyword>
+		<keyword>little girl</keyword>
+		<keyword>cat</keyword>
+		<keyword>dolphin</keyword>
+		<keyword>magic</keyword>
+		<keyword>theft</keyword>
+		<keyword>handbag</keyword>
+		<keyword>sleep</keyword>
+		<keyword>train</keyword>
+		<keyword>classroom</keyword>
+		<keyword>unicorn</keyword>
+		<keyword>moving van</keyword>
+		<keyword>camera shot from inside human body</keyword>
+		<keyword>homesickness</keyword>
+		<keyword>big nose</keyword>
+		<keyword>personality</keyword>
+		<keyword>parent child relationship</keyword>
+		<keyword>pneumatic tube</keyword>
+		<keyword>parents</keyword>
+		<keyword>taking control of someone's body</keyword>
+		<keyword>personal raincloud</keyword>
+	</keywords>
+	<directors>
+		<director> Pete Docter</director>
+		<director> Ronnie Del Carmen</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> John Lasseter</producer>
+		<producer> Mark Nielsen</producer>
+		<producer> Jonas Rivera</producer>
+		<producer> Andrew Stanton</producer>
+	</producers>
+	<writers>
+		<writer> Pete Docter</writer>
+		<writer> Ronnie Del Carmen</writer>
+		<writer> Pete Docter</writer>
+		<writer> Meg LeFauve</writer>
+		<writer> Josh Cooley</writer>
+		<writer> Michael Arndt</writer>
+		<writer> Simon Rich</writer>
+		<writer> Bill Hader</writer>
+		<writer> Amy Poehler</writer>
+	</writers>
+	<editors>
+		<editor> Kevin Nolting</editor>
+	</editors>
+</doc>

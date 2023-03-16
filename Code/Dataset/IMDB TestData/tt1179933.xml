@@ -1,0 +1,479 @@
+<?xml version="1.0" ?>
+<doc id="tt1179933">
+	<docid>tt1179933</docid>
+	<title>10 Cloverfield Lane</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">103</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>John Goodman</actor>
+			<role>Howard</role>
+		</credit>
+		<credit>
+			<actor>Mary Elizabeth Winstead</actor>
+			<role>Michelle</role>
+		</credit>
+		<credit>
+			<actor>John Gallagher Jr.</actor>
+			<role>Emmett</role>
+		</credit>
+		<credit>
+			<actor>Douglas M. Griffin</actor>
+			<role>Driver</role>
+		</credit>
+		<credit>
+			<actor>Suzanne Cryer</actor>
+			<role>Woman</role>
+		</credit>
+		<credit>
+			<actor>Bradley Cooper</actor>
+			<role>Ben</role>
+		</credit>
+		<credit>
+			<actor>Sumalee Montano</actor>
+			<role>Voice on Radio</role>
+		</credit>
+		<credit>
+			<actor>Frank Mottek</actor>
+			<role>Radio Broadcaster</role>
+		</credit>
+		<credit>
+			<actor>Kayla Bechor</actor>
+			<role>Paper girl</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 8 2016</releasedate>
+		<releasedate country="Australia">March 10 2016</releasedate>
+		<releasedate country="Colombia">March 10 2016</releasedate>
+		<releasedate country="Denmark">March 10 2016</releasedate>
+		<releasedate country="Netherlands">March 10 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malta">12</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>bunker</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>alien</keyword>
+		<keyword>minimal cast</keyword>
+		<keyword>alien invasion</keyword>
+		<keyword>car crash</keyword>
+		<keyword>air vent</keyword>
+		<keyword>farmhouse</keyword>
+		<keyword>disposing of a dead body</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>crutches</keyword>
+		<keyword>panic</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>chained to a pipe</keyword>
+		<keyword>air filtration</keyword>
+		<keyword>acid</keyword>
+		<keyword>conspiracy theorist</keyword>
+		<keyword>shower curtain</keyword>
+		<keyword>hazmat suit</keyword>
+		<keyword>magazine</keyword>
+		<keyword>car accident</keyword>
+		<keyword>fallout shelter</keyword>
+		<keyword>containment</keyword>
+		<keyword>hidden truth</keyword>
+		<keyword>cat and mouse</keyword>
+		<keyword>psychological manipulation</keyword>
+		<keyword>suspense</keyword>
+		<keyword>improvised weapon</keyword>
+		<keyword>broken leg</keyword>
+		<keyword>injured woman</keyword>
+		<keyword>fashion design</keyword>
+		<keyword>shed</keyword>
+		<keyword>molotov cocktail</keyword>
+		<keyword>explosion</keyword>
+		<keyword>car alarm</keyword>
+		<keyword>locked door</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>murder</keyword>
+		<keyword>regret</keyword>
+		<keyword>earring</keyword>
+		<keyword>photograph</keyword>
+		<keyword>truck</keyword>
+		<keyword>airlock</keyword>
+		<keyword>breaking a bottle over someone's head</keyword>
+		<keyword>fire</keyword>
+		<keyword>arm sling</keyword>
+		<keyword>pistol</keyword>
+		<keyword>address as title</keyword>
+		<keyword>reference to santa claus</keyword>
+		<keyword>jukebox</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>hitchcockian</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>mind game</keyword>
+		<keyword>secret room</keyword>
+		<keyword>single set production</keyword>
+		<keyword>flashback</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>deception</keyword>
+		<keyword>doomsday prepper</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>fallout</keyword>
+		<keyword>barefoot</keyword>
+		<keyword>ex navy</keyword>
+		<keyword>doomsday</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>sequel</keyword>
+		<keyword>chemical weapon</keyword>
+		<keyword>claustrophobia</keyword>
+		<keyword>dead animal</keyword>
+		<keyword>table</keyword>
+		<keyword>heroine</keyword>
+		<keyword>warrioress</keyword>
+		<keyword>goose</keyword>
+		<keyword>fish</keyword>
+		<keyword>colored smoke</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>match</keyword>
+		<keyword>poisonous gas</keyword>
+		<keyword>running for one's life</keyword>
+		<keyword>moonshine</keyword>
+		<keyword>scream</keyword>
+		<keyword>stitch</keyword>
+		<keyword>death threat</keyword>
+		<keyword>unidentified flying object</keyword>
+		<keyword>unconsciousness</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>argument</keyword>
+		<keyword>sketchbook</keyword>
+		<keyword>cut</keyword>
+		<keyword>leg injury</keyword>
+		<keyword>shouting</keyword>
+		<keyword>board game</keyword>
+		<keyword>bottle</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>vhs</keyword>
+		<keyword>skepticism</keyword>
+		<keyword>beard</keyword>
+		<keyword>injured arm</keyword>
+		<keyword>memory</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>short term memory loss</keyword>
+		<keyword>prepper</keyword>
+		<keyword>woman uses crutches</keyword>
+		<keyword>low budget sci fi movie</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>trapped</keyword>
+		<keyword>isolated</keyword>
+		<keyword>isolation</keyword>
+		<keyword>car key</keyword>
+		<keyword>car</keyword>
+		<keyword>escape</keyword>
+		<keyword>perchloric acid</keyword>
+		<keyword>word game</keyword>
+		<keyword>game of life board game</keyword>
+		<keyword>monopoly the board game</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>55 gallon drum</keyword>
+		<keyword>matchbook</keyword>
+		<keyword>making a weapon</keyword>
+		<keyword>intravenous</keyword>
+		<keyword>no cell phone service</keyword>
+		<keyword>leg restraint</keyword>
+		<keyword>cantilever bridge</keyword>
+		<keyword>gun</keyword>
+		<keyword>reference to paris france</keyword>
+		<keyword>book</keyword>
+		<keyword>ventilation tunnel</keyword>
+		<keyword>video cassette</keyword>
+		<keyword>bonding in crisis</keyword>
+		<keyword>forehead wound</keyword>
+		<keyword>ex military</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>dinner</keyword>
+		<keyword>beer bottle</keyword>
+		<keyword>beer</keyword>
+		<keyword>animal carcass</keyword>
+		<keyword>pain medication</keyword>
+		<keyword>makeshift weapon</keyword>
+		<keyword>whittle</keyword>
+		<keyword>iv drip</keyword>
+		<keyword>iv line</keyword>
+		<keyword>acid burn</keyword>
+		<keyword>dead body</keyword>
+		<keyword>underground bunker</keyword>
+		<keyword>single setting</keyword>
+		<keyword>reference to houston texas</keyword>
+		<keyword>running from danger</keyword>
+		<keyword>acid burned face</keyword>
+		<keyword>missing piece</keyword>
+		<keyword>puzzle piece</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>egg timer</keyword>
+		<keyword>matchbox</keyword>
+		<keyword>matchstick</keyword>
+		<keyword>blood</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>darkness</keyword>
+		<keyword>alarm</keyword>
+		<keyword>alien abduction</keyword>
+		<keyword>electrical fire</keyword>
+		<keyword>vacuum cleaner</keyword>
+		<keyword>locked room</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>chase</keyword>
+		<keyword>toolbox</keyword>
+		<keyword>biohazard</keyword>
+		<keyword>secret</keyword>
+		<keyword>wallet</keyword>
+		<keyword>vinyl</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>reading</keyword>
+		<keyword>paranoid schizophrenic</keyword>
+		<keyword>schizophrenic</keyword>
+		<keyword>schizophrenia</keyword>
+		<keyword>missing person</keyword>
+		<keyword>water bottle</keyword>
+		<keyword>water</keyword>
+		<keyword>captive</keyword>
+		<keyword>baseball cap</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>map</keyword>
+		<keyword>self sufficiency</keyword>
+		<keyword>death</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>dread</keyword>
+		<keyword>baton rouge louisiana</keyword>
+		<keyword>new orleans louisiana</keyword>
+		<keyword>bird</keyword>
+		<keyword>amateur radio</keyword>
+		<keyword>ham radio</keyword>
+		<keyword>radio</keyword>
+		<keyword>emergency broadcast system</keyword>
+		<keyword>padlock</keyword>
+		<keyword>driving</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>lie</keyword>
+		<keyword>human monster</keyword>
+		<keyword>metaphor</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>anger</keyword>
+		<keyword>deeply disturbed person</keyword>
+		<keyword>monopoly</keyword>
+		<keyword>answering machine</keyword>
+		<keyword>gas</keyword>
+		<keyword>white light</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>sole survivor</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>tentacle</keyword>
+		<keyword>ladder</keyword>
+		<keyword>contamination</keyword>
+		<keyword>courage</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>videotape</keyword>
+		<keyword>dvd</keyword>
+		<keyword>fish tank</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>jigsaw puzzle</keyword>
+		<keyword>scar</keyword>
+		<keyword>ambiguity</keyword>
+		<keyword>drawing</keyword>
+		<keyword>bus ticket</keyword>
+		<keyword>snorricam</keyword>
+		<keyword>handcuffed to a pipe</keyword>
+		<keyword>bed</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>toilet</keyword>
+		<keyword>shower</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>ambush</keyword>
+		<keyword>creature</keyword>
+		<keyword>car radio</keyword>
+		<keyword>radio news</keyword>
+		<keyword>lightning</keyword>
+		<keyword>farm</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>pig</keyword>
+		<keyword>bomb shelter</keyword>
+		<keyword>head injury</keyword>
+		<keyword>stitching a wound</keyword>
+		<keyword>arson</keyword>
+		<keyword>scissors</keyword>
+		<keyword>duct tape</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>leg brace</keyword>
+		<keyword>apartment</keyword>
+		<keyword>vodka</keyword>
+		<keyword>liquid nitrogen</keyword>
+		<keyword>key</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>barn</keyword>
+		<keyword>abandoned car</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>revolver</keyword>
+		<keyword>hostage</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>survivalist</keyword>
+		<keyword>survival</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>distrust</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>alien contact</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>gas attack</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>yelling for help</keyword>
+		<keyword>smoke</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>post apocalypse</keyword>
+		<keyword>reference to al qaeda</keyword>
+		<keyword>blackout</keyword>
+		<keyword>breakup</keyword>
+		<keyword>driving at night</keyword>
+		<keyword>captivity</keyword>
+		<keyword>burned face</keyword>
+		<keyword>gasoline station</keyword>
+		<keyword>charades</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>confrontation</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>brawl</keyword>
+		<keyword>redneck</keyword>
+		<keyword>stalking</keyword>
+		<keyword>one liner</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>monster</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>orchestral music score</keyword>
+		<keyword>bridge</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>child molester</keyword>
+		<keyword>street in title</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>francophile</keyword>
+		<keyword>box cutter</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>spear</keyword>
+		<keyword>news report</keyword>
+		<keyword>corpse</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>revelation</keyword>
+		<keyword>threat</keyword>
+		<keyword>montage</keyword>
+		<keyword>no opening credits</keyword>
+	</keywords>
+	<directors>
+		<director> Dan Trachtenberg</director>
+	</directors>
+	<composers>
+		<composer> Bear McCreary</composer>
+	</composers>
+	<producers>
+		<producer> J.J. Abrams</producer>
+		<producer> Bryan Burk</producer>
+		<producer> Jon Cohen</producer>
+		<producer> Robert J. Dohrmann</producer>
+		<producer> Drew Goddard</producer>
+		<producer> Matt Reeves</producer>
+		<producer> Ben Rosenblatt</producer>
+		<producer> Lindsey Weber</producer>
+	</producers>
+	<writers>
+		<writer> Josh Campbell</writer>
+		<writer> Matt Stuecken</writer>
+		<writer> Damien Chazelle</writer>
+		<writer> Josh Campbell</writer>
+		<writer> Matt Stuecken</writer>
+	</writers>
+	<editors>
+		<editor> Stefan Grube</editor>
+	</editors>
+</doc>
