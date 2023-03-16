@@ -193,7 +193,7 @@ class WebScraping:
         flag = True
         curr_url = self.url
         count = 0
-        while count <38:
+        while count <10:
             print(count)
             count += 1
             response = requests.get(curr_url)
