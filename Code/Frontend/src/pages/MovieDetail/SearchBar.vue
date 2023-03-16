@@ -14,9 +14,11 @@
           <!--router-link :to="'/result/'+selected+'/'+query"-->
           <el-button
             class="searchButton"
+            id="searchBtn"
             @click="goSearchResult"
+            :loading="isLoading"
           >
-            <img src="@/assets/svg/icons8-search.svg" alt="search">
+            <img id="searchIcon" src="@/assets/svg/icons8-search.svg" alt="search">
           </el-button>
           <!-- <el-button :icon="Search" /> -->
         </template>
@@ -223,8 +225,9 @@
 </template>
 
 <script>
-import { defineComponent,ref,reactive, onActivated} from 'vue';
+import {defineComponent, ref, reactive, onActivated, computed} from 'vue';
 import { useRouter } from "vue-router";
+import {useStore} from "vuex";
 
 //import { getJson } from "serpapi";
 
@@ -238,6 +241,8 @@ export default defineComponent({
   //emits: ["update:modelValue"],
   setup(props){
     const router = useRouter()
+
+    const store = useStore()
 
     var query = reactive({
       queryMsg:null, by:"any",
@@ -332,9 +337,13 @@ export default defineComponent({
       form.time.to=null
     }
 
-    function goSearchResult(){
-      router.push({path:"/search",query:{q:query.queryMsg, t:"any", pro:false}})
-    }
+    const goSearchResult = () => {
+      router
+          .push({
+            path: '/search',
+            query: {q: query.queryMsg, t: 'any', pro: false},
+          });
+    };
 
     onActivated(()=>{
       query.queryMsg=props.q
@@ -343,6 +352,7 @@ export default defineComponent({
     })
 
     return{
+      isLoading: computed(() => store.state.isLoading),
       query,
       additions,
       goSearchResult,
@@ -445,6 +455,14 @@ img{
   -moz-box-shadow:2px 2px 10px #8794C0;
   -webkit-box-shadow:2px 2px 10px #8794C0;
   box-shadow:2px 2px 10px #8794C0;
+}
+
+#searchBtn {
+  background-color: #5A6794;
+}
+
+#searchIcon {
+  filter: invert(100%);
 }
 
 </style>
