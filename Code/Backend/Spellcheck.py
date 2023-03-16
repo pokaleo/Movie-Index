@@ -21,7 +21,8 @@ def spellcheck(string):
     params = {
         "q": string,
         "gl": "us",
-        "api_key": 'c',
+        ## ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07fcd40e0f98debfef1d
+        "api_key": 'ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07f',
         "num": "1"
 
     }

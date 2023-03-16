@@ -18,7 +18,7 @@
 
     <div style="background:linear-gradient(to left,#e7e9ee,#5a6794,#e7e9ee);height:2px;margin-top: 2%"></div>
     
-    <div class="content">
+    <div class="content" v-loading="loading" element-loading-text="Searching...">
       <div class="big-title" v-if="spellchecked.value.length>0">
         Do you mean: 
         <el-space spacer="or ">
@@ -86,9 +86,11 @@ import { reactive,watch,getCurrentInstance, ref, h,computed} from 'vue';
 import { useRouter,useRoute} from "vue-router"
 import { ElNotification, ElMessageBox} from 'element-plus'
 import SearchBar from '../MovieDetail/SearchBar.vue';
+import {useStore} from "vuex";
 // import http from "@/util/http"
 const router = useRouter()
 const route = useRoute()
+const store = useStore()
 
 let movieList = reactive({value:[],show:[], rel:[]})
 let spellchecked = reactive({value:[]})
@@ -98,6 +100,7 @@ let cpuTime = ref('')
 let totalNum = ref('')
 let chunck_id = ref(0)
 const relevence_ids = ref([])
+const loading = ref(true)
 
 let q = ref(route.query.q)
 let t = ref(route.query.t)
@@ -140,6 +143,7 @@ const goCorrectedPage = (newquery) => {
 //alert("New Search: "+route.query.q+route.query.t)
 let { proxy } = getCurrentInstance();
 const getData=async()=>{
+  store.commit('setLoading', true)
   await proxy.$http
      .get('/api/search',
      {params:
@@ -172,6 +176,8 @@ const getData=async()=>{
       relevence_ids.value = JSON.parse(JSON.stringify(res.data.ids))
       console.log(relevence_ids.value)
       console.timeEnd("getData");
+      store.commit('setLoading', false);
+      loading.value = false;
      })
      .catch(function(error) {
       console.log(error);
@@ -323,6 +329,9 @@ else{
 </script>
 
 <style scoped lang="less">
+.example-showcase .el-loading-mask {
+  z-index: 9;
+}
 .container {
   height: 100%;
   width: 100%;
@@ -447,5 +456,26 @@ else{
     order: 1;
     margin-bottom: 10px;
   }
+}
+</style>
+<style lang="scss">
+.el-loading-spinner .path {
+  -webkit-animation: loading-dash 1.5s ease-in-out infinite;
+  animation: loading-dash 1.5s ease-in-out infinite;
+  stroke-dasharray: 90, 150;
+  stroke-dashoffset: 0;
+  stroke-width: 2;
+  /* stroke: var(--el-color-primary); */
+  stroke-linecap: round;
+  stroke: #e7e9ee;
+}
+.el-loading-spinner .el-loading-text {
+  /* color: var(--el-color-primary); */
+  color: #e7e9ee;
+  margin: 3px 0;
+  font-size: 14px;
+}
+.el-loading-mask {
+  background-color: rgba(40, 45, 65, 0.76);
 }
 </style>

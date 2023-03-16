@@ -321,7 +321,6 @@ class Query:
             List -> A list of relevant docids
         """
         result = {}
-        print("test: ", word_to_be_queried)
         stemmed = Util.stem_data(word_to_be_queried)
         punctuationRemoved1 = Util.remove_punctuation(word_to_be_queried, True)
         punctuationRemoved2 = Util.remove_punctuation(word_to_be_queried)
@@ -618,35 +617,3 @@ class Query:
         if returnScore:
             return docid_list, bm25score_list
         return [x for _, x in sorted(zip(bm25score_list, docid_list), reverse=True)]
-
-    def alphabet_ranking(self, docid_list):
-        """
-        Sort a list of document by alphabet order
-
-        Args:
-            docid_list: List -> a list of document id
-
-        Returns:
-            List -> a list of document id sorted based on alphabet order
-        """
-        title_list = []
-        for docid in docid_list:
-            temp_list = self.__dataset[docid]['title']
-            title = ' '.join(temp_list)
-            title_list.append(title)
-        ordered_list = sorted(docid_list, key=lambda x: title_list[docid_list.index(x)], reverse=False)
-        return ordered_list
-
-    def year_ranking(self, docid_list):
-        year_list = []
-        for docid in docid_list:
-            year_list.append(int(self.__dataset[docid]['year']))
-        return [x for _, x in sorted(zip(year_list, docid_list))]
-
-    def year_ranking_reverse(self, docid_list):
-        year_list = []
-        for docid in docid_list:
-            year_list.append(int(self.__dataset[docid]['year']))
-        return [x for _, x in sorted(zip(year_list, docid_list), reverse=True)]
-
-    # TODO Is the above 3 method really useful?
