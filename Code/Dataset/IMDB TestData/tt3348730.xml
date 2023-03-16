@@ -1,0 +1,543 @@
+<?xml version="1.0" ?>
+<doc id="tt3348730">
+	<docid>tt3348730</docid>
+	<title>Jigsaw</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmRiZDM4ZmMtOTVjMi00YTNlLTkyNjMtMjI2OTAxNjgwMWM1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX190_CR0,6,190,281_.jpg</image>
+	<year>I 2017</year>
+	<runningtimes>
+		<runningtime country="default">92</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Matt Passmore</actor>
+			<role>Logan Nelson</role>
+		</credit>
+		<credit>
+			<actor>Tobin Bell</actor>
+			<role>Jigsaw</role>
+		</credit>
+		<credit>
+			<actor>Callum Keith Rennie</actor>
+			<role>Detective Halloran</role>
+		</credit>
+		<credit>
+			<actor>Hannah Emily Anderson</actor>
+			<role>Eleanor Bonneville</role>
+		</credit>
+		<credit>
+			<actor>Clé Bennett</actor>
+			<role>Detective Keith Hunt</role>
+		</credit>
+		<credit>
+			<actor>Laura Vandervoort</actor>
+			<role>Anna</role>
+		</credit>
+		<credit>
+			<actor>Paul Braunstein</actor>
+			<role>Ryan</role>
+		</credit>
+		<credit>
+			<actor>Mandela Van Peebles</actor>
+			<role>Mitch</role>
+		</credit>
+		<credit>
+			<actor>Brittany Allen</actor>
+			<role>Carly</role>
+		</credit>
+		<credit>
+			<actor>Josiah Black</actor>
+			<role>Edgar Munsen</role>
+		</credit>
+		<credit>
+			<actor>Edward Ruttle</actor>
+			<role>Matt</role>
+		</credit>
+		<credit>
+			<actor>Michael Boisvert</actor>
+			<role>Lee James</role>
+		</credit>
+		<credit>
+			<actor>Sam Koules</actor>
+			<role>Melissa</role>
+		</credit>
+		<credit>
+			<actor>Troy Feldman</actor>
+			<role>Officer Palermo</role>
+		</credit>
+		<credit>
+			<actor>Shaquan Lewis</actor>
+			<role>Officer Solomon</role>
+		</credit>
+		<credit>
+			<actor>Esther Thibault</actor>
+			<role>Asthmatic Woman</role>
+		</credit>
+		<credit>
+			<actor>Lauren Beatty</actor>
+			<role>Carly Look-a-Like</role>
+		</credit>
+		<credit>
+			<actor>Nadine Whiteman Roden</actor>
+			<role>News Reporter #1</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Russia">October 25 2017</releasedate>
+		<releasedate country="United Arab Emirates">October 26 2017</releasedate>
+		<releasedate country="Armenia">October 26 2017</releasedate>
+		<releasedate country="Bahrain">October 26 2017</releasedate>
+		<releasedate country="Germany">October 26 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Belgium">KNT/ENA</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Bulgaria">X</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Chile">18</certificate>
+		<certificate country="Colombia">18</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-18</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">21+</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Israel">18</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-18</certificate>
+		<certificate country="Malaysia">(Banned)</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R18</certificate>
+		<certificate country="Norway">18</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/18</certificate>
+		<certificate country="Romania">I.M.-18</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>suicide by hanging</keyword>
+		<keyword>chain</keyword>
+		<keyword>flashback</keyword>
+		<keyword>buzz saw</keyword>
+		<keyword>blade</keyword>
+		<keyword>hospital</keyword>
+		<keyword>exhume</keyword>
+		<keyword>grain silo</keyword>
+		<keyword>wire around leg</keyword>
+		<keyword>brake lever</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>barn</keyword>
+		<keyword>confess</keyword>
+		<keyword>laser cutter</keyword>
+		<keyword>laser collar</keyword>
+		<keyword>x ray</keyword>
+		<keyword>undiagnosed cancer</keyword>
+		<keyword>unseen assailant</keyword>
+		<keyword>purse theft</keyword>
+		<keyword>short shorts</keyword>
+		<keyword>eighth part</keyword>
+		<keyword>sequel</keyword>
+		<keyword>stealing purse</keyword>
+		<keyword>cutting</keyword>
+		<keyword>copycat killer</keyword>
+		<keyword>one word title</keyword>
+		<keyword>torture</keyword>
+		<keyword>suicide</keyword>
+		<keyword>jigsaw character</keyword>
+		<keyword>theft</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>car chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car accident</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>inhaler</keyword>
+		<keyword>heart attack</keyword>
+		<keyword>purse snatching</keyword>
+		<keyword>purse snatcher</keyword>
+		<keyword>frame up</keyword>
+		<keyword>framed for murder</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>prequel and sequel</keyword>
+		<keyword>murder</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>reboot of series</keyword>
+		<keyword>gory violence</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>prologue</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>2010s</keyword>
+		<keyword>2000s</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>criminal</keyword>
+		<keyword>redemption</keyword>
+		<keyword>confession</keyword>
+		<keyword>guilt</keyword>
+		<keyword>regret</keyword>
+		<keyword>f word</keyword>
+		<keyword>iraq war veteran</keyword>
+		<keyword>survival</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>investigation</keyword>
+		<keyword>forensics</keyword>
+		<keyword>pathologist</keyword>
+		<keyword>coroner</keyword>
+		<keyword>autopsy</keyword>
+		<keyword>corpse</keyword>
+		<keyword>exposed brain</keyword>
+		<keyword>scar</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>revelation</keyword>
+		<keyword>faked death</keyword>
+		<keyword>laser</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>cut into pieces</keyword>
+		<keyword>decomposed body</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>stitches</keyword>
+		<keyword>bucket</keyword>
+		<keyword>hacksaw</keyword>
+		<keyword>circular saw</keyword>
+		<keyword>knife</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>impalement</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>injection</keyword>
+		<keyword>game of death</keyword>
+		<keyword>poison</keyword>
+		<keyword>virus</keyword>
+		<keyword>antidote</keyword>
+		<keyword>acid</keyword>
+		<keyword>severed head</keyword>
+		<keyword>split head</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>pitchfork</keyword>
+		<keyword>shovel</keyword>
+		<keyword>blood sample</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>nurse</keyword>
+		<keyword>doctor</keyword>
+		<keyword>coma</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>hanging upside down</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>whodunit</keyword>
+		<keyword>red herring</keyword>
+		<keyword>mob of reporters</keyword>
+		<keyword>african american</keyword>
+		<keyword>black cop</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>race against time</keyword>
+		<keyword>police</keyword>
+		<keyword>police car</keyword>
+		<keyword>police officer</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>detonator</keyword>
+		<keyword>remote detonator</keyword>
+		<keyword>suicide by cop</keyword>
+		<keyword>escalation</keyword>
+		<keyword>jogger</keyword>
+		<keyword>jogging</keyword>
+		<keyword>news report</keyword>
+		<keyword>bar</keyword>
+		<keyword>fan</keyword>
+		<keyword>abandoned building</keyword>
+		<keyword>elevator</keyword>
+		<keyword>rain</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>arrest</keyword>
+		<keyword>torture device</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>screaming</keyword>
+		<keyword>yelling</keyword>
+		<keyword>security camera</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>coffin</keyword>
+		<keyword>gravedigging</keyword>
+		<keyword>baseball glove</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>key</keyword>
+		<keyword>self inflicted gunshot wound</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>baby</keyword>
+		<keyword>robbery</keyword>
+		<keyword>detective</keyword>
+		<keyword>police detective</keyword>
+		<keyword>police station</keyword>
+		<keyword>corrupt cop</keyword>
+		<keyword>revenge</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>sawed off shotgun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>badge</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>swat team</keyword>
+		<keyword>police raid</keyword>
+		<keyword>decision</keyword>
+		<keyword>acid burn</keyword>
+		<keyword>bleeding to death</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>audio cassete</keyword>
+		<keyword>tape recorder</keyword>
+		<keyword>beard</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>photograph</keyword>
+		<keyword>internal affairs</keyword>
+		<keyword>undercover</keyword>
+		<keyword>friendship</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>urban gothic</keyword>
+		<keyword>desperation</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>bridge</keyword>
+		<keyword>axe</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>pig mask</keyword>
+		<keyword>cowardice</keyword>
+		<keyword>simultaneous storylines</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>anger</keyword>
+		<keyword>widower</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>ambush</keyword>
+		<keyword>psychological torture</keyword>
+		<keyword>buried alive</keyword>
+		<keyword>death of nephew</keyword>
+		<keyword>jigsaw piece</keyword>
+		<keyword>falling debris</keyword>
+		<keyword>lever</keyword>
+		<keyword>distrust</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>burned face</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>famous score</keyword>
+		<keyword>rock music</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>camera</keyword>
+		<keyword>tension</keyword>
+		<keyword>protege</keyword>
+		<keyword>microscope</keyword>
+		<keyword>infanticide</keyword>
+		<keyword>asthma</keyword>
+		<keyword>following someone</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>fangirl</keyword>
+		<keyword>obsession</keyword>
+		<keyword>money</keyword>
+		<keyword>jumping from a car</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>asthma attack</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>redhead</keyword>
+		<keyword>captivity</keyword>
+		<keyword>captive</keyword>
+		<keyword>capture</keyword>
+		<keyword>tape recording</keyword>
+		<keyword>blood sacrifice</keyword>
+		<keyword>faulty brake</keyword>
+		<keyword>forensic evidence</keyword>
+		<keyword>loss of nephew</keyword>
+		<keyword>single father</keyword>
+		<keyword>single parent</keyword>
+		<keyword>studio</keyword>
+		<keyword>bullet</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>puzzle piece</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>loss of husband</keyword>
+		<keyword>darkness</keyword>
+		<keyword>night</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>left for dead</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>collar</keyword>
+		<keyword>entrails</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>loss of wife</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>insubordination</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>doll</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>policeman</keyword>
+		<keyword>body count</keyword>
+		<keyword>cassette tape</keyword>
+		<keyword>reference to the persian gulf war</keyword>
+		<keyword>reference to iraq</keyword>
+		<keyword>brunette</keyword>
+		<keyword>reference to gulf war</keyword>
+		<keyword>spikes</keyword>
+		<keyword>argument</keyword>
+		<keyword>tattooed arm</keyword>
+		<keyword>tattooed woman</keyword>
+		<keyword>three piece suit</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>expanding universe</keyword>
+		<keyword>jigsaw</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>horror icon</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>creepy doll</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>lionsgate</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>man</keyword>
+		<keyword>speeding automobile</keyword>
+		<keyword>firearm</keyword>
+		<keyword>law enforcement officer</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>gun</keyword>
+		<keyword>speeding car</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>man shot</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>car</keyword>
+		<keyword>woman</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>handgun</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>timeframe 2000s</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>requel</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>copycat</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>dead body</keyword>
+		<keyword>death</keyword>
+		<keyword>graphic violence</keyword>
+		<keyword>gore</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>motorcycle</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Spierig</director>
+		<director> Peter Spierig</director>
+	</directors>
+	<composers>
+		<composer> Charlie Clouser</composer>
+	</composers>
+	<producers>
+		<producer> Peter Block</producer>
+		<producer> Mark Burg</producer>
+		<producer> Jason Constantine</producer>
+		<producer> Kym Crepin</producer>
+		<producer> Daniel J. Heffner</producer>
+		<producer> Gregg Hoffman</producer>
+		<producer> Ketura Kestin</producer>
+		<producer> Oren Koules</producer>
+		<producer> Stacey Testro</producer>
+		<producer> James Wan</producer>
+		<producer> Leigh Whannell</producer>
+	</producers>
+	<writers>
+		<writer> Josh Stolberg</writer>
+		<writer> Pete Goldfinger</writer>
+	</writers>
+	<editors>
+		<editor> Kevin Greutert</editor>
+	</editors>
+</doc>

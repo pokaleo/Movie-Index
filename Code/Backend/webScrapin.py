@@ -31,140 +31,174 @@ class WebScraping:
     def certainResponse(self, container, curr_class, curr_str):
         res = []
         if curr_str == 'runtime':
-            temp = container.p.find(curr_class, class_=curr_str)
-            if temp == None:
+            if container == None:
                 return None
             else:
-                test = container.p.find(curr_class, class_=curr_str).text.replace(' min', '')
-                if test == None:
+                temp = container.p.find(curr_class, class_=curr_str)
+                if temp == None:
                     return None
                 else:
-                    res.append(test)
-                    return res
+                    test = container.p.find(curr_class, class_=curr_str).text.replace(' min', '')
+                    if test == None:
+                        return None
+                    else:
+                        res.append(test)
+                        return res
         elif curr_str == 'certificate':
-            data_cer = container.find(curr_class, attrs={'class': 'ipl-zebra-list__item', 'id': 'certifications-list'})
-            if data_cer == None:
+            if container == None:
                 return None
             else:
-                cert_ = data_cer.find_all('li', attrs={'class': 'ipl-inline-list__item'})
-                if cert_ == None:
+                data_cer = container.find(curr_class, attrs={'class': 'ipl-zebra-list__item', 'id': 'certifications-list'})
+                if data_cer == None:
                     return None
                 else:
-                    for i in cert_:
-                        raw_ = i.a.text.split(':')
-                        res.append((raw_[0], raw_[1]))
-                    return res
+                    cert_ = data_cer.find_all('li', attrs={'class': 'ipl-inline-list__item'})
+                    if cert_ == None:
+                        return None
+                    else:
+                        for i in cert_:
+                            raw_ = i.a.text.split(':')
+                            res.append((raw_[0], raw_[1]))
+                        return res
         elif curr_str == 'genre':
             res = []
-            temp = container.p.find(curr_class, class_=curr_str)
-            if temp == None:
+            if container == None:
                 return None
             else:
-                test = container.find(curr_class, class_=curr_str)
-                if test == None:
+                temp = container.p.find(curr_class, class_=curr_str)
+                if temp == None:
                     return None
                 else:
-                    raw_ = test.text.replace('\n', '')
-                    return re.sub(' +', '', raw_).split(',')
+                    test = container.find(curr_class, class_=curr_str)
+                    if test == None:
+                        return None
+                    else:
+                        raw_ = test.text.replace('\n', '')
+                        return re.sub(' +', '', raw_).split(',')
         elif curr_str == 'color':
             res = []
-            temp = container.find(curr_class,
-                                  attrs={'class': 'ipc-metadata-list__item', 'data-testid': 'title-techspec_color'})
-            if temp == None:
+            if container == None:
                 return None
             else:
-                res.append(temp.a.text)
-                return res
-        elif curr_str == 'soundmixes':
-            temp = container.find(curr_class,
-                                  attrs={'class': 'ipc-metadata-list__item', 'data-testid': 'title-techspec_soundmix'})
-            if temp == None:
-                return None
-            else:
-                res.append(temp.a.text)
-                return res
-        elif curr_str == 'keywords':
-            k_list = []
-            data_keyword_ = container.findAll(curr_class, attrs={'class': 'soda sodavote'})
-            if data_keyword_ == None:
-                return None
-            else:
-                for i in data_keyword_:
-                    k_list.append(i['data-item-keyword'])
-                return k_list
-        elif curr_str == 'country':
-            data_country = container.find(curr_class, attrs={'class': 'ipc-metadata-list__item',
-                                                             'data-testid': 'title-details-origin'})
-            if data_country == None:
-                return None
-            else:
-                res.append(data_country.a.text)
-                return res
-        elif curr_str == 'releasedate':
-            date_list = []
-            data_released = container.find(curr_class, attrs={'data-testid': 'sub-section-releases',
-                                                              'class': 'sc-f65f65be-0 fVkLRr'})
-            if data_released == None:
-                return None
-            else:
-                date_ = data_released.find_all('li', attrs={'data-testid': 'list-item'})
-                if date_ == None:
+                temp = container.find(curr_class,
+                                    attrs={'class': 'ipc-metadata-list__item', 'data-testid': 'title-techspec_color'})
+                if temp == None:
                     return None
                 else:
-                    for i in date_:
-                        date_ = ''.join(i.span.text.split(','))
-                        date_list.append((i.a['aria-label'], date_))
-                    return date_list
+                    res.append(temp.a.text)
+                    return res
+        elif curr_str == 'soundmixes':
+            if container == None:
+                return None
+            else:
+                temp = container.find(curr_class,
+                                    attrs={'class': 'ipc-metadata-list__item', 'data-testid': 'title-techspec_soundmix'})
+                if temp == None:
+                    return None
+                else:
+                    res.append(temp.a.text)
+                    return res
+        elif curr_str == 'keywords':
+            k_list = []
+            if container == None:
+                return None
+            else:
+                data_keyword_ = container.findAll(curr_class, attrs={'class': 'soda sodavote'})
+                if data_keyword_ == None:
+                    return None
+                else:
+                    for i in data_keyword_:
+                        k_list.append(i['data-item-keyword'])
+                    return k_list
+        elif curr_str == 'country':
+            if container == None:
+                return None
+            else:
+                data_country = container.find(curr_class, attrs={'class': 'ipc-metadata-list__item',
+                                                                'data-testid': 'title-details-origin'})
+                if data_country == None:
+                    return None
+                else:
+                    res.append(data_country.a.text)
+                    return res
+        elif curr_str == 'releasedate':
+            date_list = []
+            if container == None:
+                return None
+            else:
+                data_released = container.find(curr_class, attrs={'data-testid': 'sub-section-releases',
+                                                                'class': 'sc-f65f65be-0 fVkLRr'})
+                if data_released == None:
+                    return None
+                else:
+                    date_ = data_released.find_all('li', attrs={'data-testid': 'list-item'})
+                    if date_ == None:
+                        return None
+                    else:
+                        for i in date_:
+                            date_ = ''.join(i.span.text.split(','))
+                            date_list.append((i.a['aria-label'], date_))
+                        return date_list
             # res.append(container.find(curr_class, class_="ipc-inline-list__item").text)
             # return res
         elif curr_str == 'language':
-            data_language = container.find(curr_class, attrs={'class': 'ipc-metadata-list__item',
-                                                              'data-testid': 'title-details-languages'})
-            if data_language == None:
+            if container == None:
                 return None
             else:
-                res.append(data_language.a.text)
-                return res
+                data_language = container.find(curr_class, attrs={'class': 'ipc-metadata-list__item',
+                                                                'data-testid': 'title-details-languages'})
+                if data_language == None:
+                    return None
+                else:
+                    res.append(data_language.a.text)
+                    return res
 
     def getCrew(self, container, curr_class, curr_id):
-        crew_ = container.find(curr_class, attrs={'class': "dataHeaderWithBorder", 'id': curr_id})
-        if crew_ == None:
-            return None
+        if container == None:
+                return None
         else:
-            contents = crew_.next_sibling.next_sibling
-            all_cast = contents.find_all('tr')
-            if all_cast == None:
+            crew_ = container.find(curr_class, attrs={'class': "dataHeaderWithBorder", 'id': curr_id})
+            if crew_ == None:
                 return None
             else:
-                cr_list = []
-                for i in all_cast:
-                    if i.find('a') == None:
-                        continue
-                    else:
-                        name_ = i.find('a').text.replace('\n', '')
-                        cr_list.append(name_)
+                contents = crew_.next_sibling.next_sibling
+                all_cast = contents.find_all('tr')
+                if all_cast == None:
+                    return None
+                else:
+                    cr_list = []
+                    for i in all_cast:
+                        if i.find('a') == None:
+                            continue
+                        else:
+                            name_ = i.find('a').text.replace('\n', '')
+                            cr_list.append(name_)
 
-                return cr_list
+                    return cr_list
 
     def geCast(self, container, curr_class):
         cast_list = []
-        for i in container:
-            act_ = defaultdict(str)
-            char_ = defaultdict(str)
-            act_test = i.find(curr_class, attrs={'data-testid': 'title-cast-item__actor'})
-            if act_test == None:
-                act_['actor'] = None
-            else:
-                act_['actor'] = act_test.text
-            # role_ = i.find(curr_class, attrs={'data-testid': 'cast-item-characters-link'})
-            role_test = i.find('span', attrs={'class':'sc-bfec09a1-4 llsTve'})
-            if role_test == None:
-                char_['role'] = None
-            else:
-                char_['role'] = role_test.text
-            cast_list.append((act_, char_))
+        if container == None:
+                return None
+        else:
+            for i in container:
+                act_ = defaultdict(str)
+                char_ = defaultdict(str)
+                act_test = i.find(curr_class, attrs={'data-testid': 'title-cast-item__actor'})
+                if act_test == None:
+                    act_['actor'] = None
+                else:
+                    act_['actor'] = act_test.text
+                # role_ = i.find(curr_class, attrs={'data-testid': 'cast-item-characters-link'})
+                role_test = i.find('span', attrs={'class':'sc-bfec09a1-4 llsTve'})
+                if role_test == None:
+                    char_['role'] = None
+                else:
+                    char_['role'] = role_test.text
+                cast_list.append((act_, char_))
 
-        return cast_list
+            return cast_list
+    
     
     def getImage(self,title):
         encode_title = urllib.parse.quote(title)
@@ -193,7 +227,7 @@ class WebScraping:
         flag = True
         curr_url = self.url
         count = 0
-        while count <3:
+        while count <30:
             print(count)
             count += 1
             response = requests.get(curr_url)

@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<doc id="tt5761496">
+	<docid>tt5761496</docid>
+	<title>Get Shorty</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTExMTM2MTg3OTZeQTJeQWpwZ15BbWU4MDg0ODIxODIy._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>The adventures of a mobster-turned-movie producer in Hollywood. TV show based on Elmore Leonard's novel and subsequent film.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Chris O'Dowd</actor>
+			<role>Miles Daly</role>
+		</credit>
+		<credit>
+			<actor>Ray Romano</actor>
+			<role>Rick Moreweather</role>
+		</credit>
+		<credit>
+			<actor>Sean Bridgers</actor>
+			<role>Louis Darnell</role>
+		</credit>
+		<credit>
+			<actor>Carolyn Dodd</actor>
+			<role>Emma Daly</role>
+		</credit>
+		<credit>
+			<actor>Goya Robles</actor>
+			<role>Yago</role>
+		</credit>
+		<credit>
+			<actor>Lidia Porto</actor>
+			<role>Amara De Escalones</role>
+		</credit>
+		<credit>
+			<actor>Megan Stevenson</actor>
+			<role>April Quinn</role>
+		</credit>
+		<credit>
+			<actor>Isaac Keys</actor>
+			<role>Ed</role>
+		</credit>
+		<credit>
+			<actor>Sarah Stiles</actor>
+			<role>Gladys</role>
+		</credit>
+		<credit>
+			<actor>Lucy Walters</actor>
+			<role>Katie Daly</role>
+		</credit>
+		<credit>
+			<actor>Steven Weber</actor>
+			<role>Laurence Budd</role>
+		</credit>
+		<credit>
+			<actor>Andrew Leeds</actor>
+			<role>Agent Ken Stevenson</role>
+		</credit>
+		<credit>
+			<actor>Michael Selle</actor>
+			<role>Irish Mobster</role>
+		</credit>
+		<credit>
+			<actor>Sasha Feldman</actor>
+			<role>Bliz</role>
+		</credit>
+		<credit>
+			<actor>Brian Jordan Alvarez</actor>
+			<role>Jayson</role>
+		</credit>
+		<credit>
+			<actor>Darrell Britt-Gibson</actor>
+			<role>Moises</role>
+		</credit>
+		<credit>
+			<actor>Alex Sawyer</actor>
+			<role>David Oumou</role>
+		</credit>
+		<credit>
+			<actor>Bruce McIntosh</actor>
+			<role>George</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">2017</releasedate>
+		<releasedate country="Brazil">August 13 2017</releasedate>
+		<releasedate country="France">August 13 2017</releasedate>
+		<releasedate country="Turkey">August 13 2017</releasedate>
+		<releasedate country="United States">August 13 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>producer</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>crude humor comedy</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>showbiz comedy</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>nudity</keyword>
+	</keywords>
+	<directors>
+		<director> Adam Arkin</director>
+		<director> Daisy von Scherler Mayer</director>
+		<director> Daniel Attias</director>
+		<director> Ed Bianchi</director>
+		<director> So Yong Kim</director>
+		<director> Davey Holmes</director>
+		<director> Colin Bucksey</director>
+		<director> Allen Coulter</director>
+		<director> Eric Tignini</director>
+	</directors>
+	<composers>
+		<composer> Antonio Sanchez</composer>
+	</composers>
+	<producers>
+		<producer> Davey Holmes</producer>
+		<producer> Eric Tignini</producer>
+		<producer> Adam Arkin</producer>
+		<producer> Debra James</producer>
+		<producer> Dylan K. Massin</producer>
+		<producer> Laura Jacqmin</producer>
+		<producer> Michelle Dunker</producer>
+		<producer> Hiram Martinez</producer>
+		<producer> Tayah Geist</producer>
+		<producer> Brian Leslie Parker</producer>
+		<producer> Etan Frankel</producer>
+		<producer> Leslie Rodier</producer>
+		<producer> Allen Coulter</producer>
+		<producer> Nancy Fichman</producer>
+		<producer> Jennifer Hoppe</producer>
+		<producer> Dan Nowak</producer>
+		<producer> James Presson</producer>
+		<producer> Brian Parker</producer>
+		<producer> Sara E. White</producer>
+	</producers>
+	<writers>
+		<writer> Davey Holmes</writer>
+		<writer> Davey Holmes</writer>
+		<writer> Davey Holmes</writer>
+		<writer> Davey Holmes</writer>
+		<writer> Davey Holmes</writer>
+		<writer> Elmore Leonard</writer>
+		<writer> Alex Carmedelle</writer>
+		<writer> Alex Carmedelle</writer>
+		<writer> Alex Carmedelle</writer>
+		<writer> Alex Carmedelle</writer>
+		<writer> Alex Carmedelle</writer>
+		<writer> Laura Jacqmin</writer>
+		<writer> Laura Jacqmin</writer>
+		<writer> Laura Jacqmin</writer>
+		<writer> John Newman</writer>
+		<writer> John Newman</writer>
+		<writer> Hiram Martinez</writer>
+		<writer> Etan Frankel</writer>
+		<writer> Nancy Fichman</writer>
+		<writer> Jennifer Hoppe</writer>
+		<writer> Dan Nowak</writer>
+	</writers>
+	<editors>
+		<editor> David Dworetzky</editor>
+		<editor> Blake Maniquis</editor>
+		<editor> Keith Henderson</editor>
+		<editor> Annette Davey</editor>
+		<editor> Addison Donnell</editor>
+		<editor> Eli Nilsen</editor>
+		<editor> Scott Vickrey</editor>
+	</editors>
+</doc>

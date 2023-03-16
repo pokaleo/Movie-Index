@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt7217374">
+	<docid>tt7217374</docid>
+	<title>Hidden</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2Q2ZGQyOTAtMWYzYi00YzdiLWJlOGUtMmMyZWExMzc4Nzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Police investigate when the body of a girl is found in a lake.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>Welsh</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sian Reese-Williams</actor>
+			<role>DCI Cadi John</role>
+		</credit>
+		<credit>
+			<actor>Sion Alun Davies</actor>
+			<role>DS Owen Vaughan</role>
+		</credit>
+		<credit>
+			<actor>Victoria Pugh</actor>
+			<role>DSI Susan Lynn</role>
+		</credit>
+		<credit>
+			<actor>Sarah Tempest</actor>
+			<role>Alys Mitchell</role>
+		</credit>
+		<credit>
+			<actor>Garmon Rhys</actor>
+			<role>PC Ryan Davies</role>
+		</credit>
+		<credit>
+			<actor>Nia Roberts</actor>
+			<role>Elin Jones</role>
+		</credit>
+		<credit>
+			<actor>Lowri Izzard</actor>
+			<role>PC Mari James</role>
+		</credit>
+		<credit>
+			<actor>Lara Catrin</actor>
+			<role>Lea Pryce</role>
+		</credit>
+		<credit>
+			<actor>Megan Llyn</actor>
+			<role>Bethan John</role>
+		</credit>
+		<credit>
+			<actor>Rhodri Meilir</actor>
+			<role>Dylan Harris</role>
+		</credit>
+		<credit>
+			<actor>Gwyneth Keyworth</actor>
+			<role>Megan Ruddock</role>
+		</credit>
+		<credit>
+			<actor>Mali Tudno Jones</actor>
+			<role>Rachel West</role>
+		</credit>
+		<credit>
+			<actor>Gillian Elisa</actor>
+			<role>Iona Harris</role>
+		</credit>
+		<credit>
+			<actor>Ian Saynor</actor>
+			<role>Huw John</role>
+		</credit>
+		<credit>
+			<actor>Elodie Wilton</actor>
+			<role>Nia Harris</role>
+		</credit>
+		<credit>
+			<actor>Melangell Dolma</actor>
+			<role>Sam Shepherd</role>
+		</credit>
+		<credit>
+			<actor>Annes Elwy</actor>
+			<role>Mia Owen</role>
+		</credit>
+		<credit>
+			<actor>Sion Ifan</actor>
+			<role>Siôn Thomas</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">January 7 2018</releasedate>
+		<releasedate country="United Kingdom">June 9 2018</releasedate>
+		<releasedate country="Canada">July 16 2018</releasedate>
+		<releasedate country="United States">July 16 2018</releasedate>
+		<releasedate country="Belgium">September 1 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+		<keyword>murder</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>north wales</keyword>
+		<keyword>female police detective</keyword>
+		<keyword>lesbian protagonist</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>one word title</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>police procedural crime</keyword>
+		<keyword>cop drama</keyword>
+	</keywords>
+	<directors>
+		<director> Gareth Bryn</director>
+		<director> Chris Forster</director>
+		<director> Andy Newbery</director>
+		<director> Eric Styles</director>
+	</directors>
+	<composers>
+		<composer> Victoria Ashfield</composer>
+		<composer> Samuel Barnes</composer>
+		<composer> John E.R. Hardy</composer>
+		<composer> Benjamin Talbott</composer>
+	</composers>
+	<producers>
+		<producer> Ed Talfan</producer>
+		<producer> Hannah Thomas</producer>
+		<producer> Anna Evans</producer>
+		<producer> Mark Andrew</producer>
+		<producer> Jeff Murphy</producer>
+		<producer> Gareth I. Davies</producer>
+	</producers>
+	<writers>
+		<writer> Caryl Lewis</writer>
+		<writer> Caryl Lewis</writer>
+		<writer> Mark Andrew</writer>
+		<writer> Mark Andrew</writer>
+		<writer> James Rourke</writer>
+		<writer> James Rourke</writer>
+		<writer> Jeff Murphy</writer>
+		<writer> David Chidlow</writer>
+		<writer> Liam Foley</writer>
+		<writer> Manon Steffan Ros</writer>
+		<writer> Ed Talfan</writer>
+	</writers>
+	<editors>
+		<editor> Angharad Owen</editor>
+		<editor> Sara Jones</editor>
+		<editor> Tim Hodges</editor>
+		<editor> Mike Hopkins</editor>
+		<editor> Carmen Roberts</editor>
+	</editors>
+</doc>

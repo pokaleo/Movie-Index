@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<doc id="tt18224610">
+	<docid>tt18224610</docid>
+	<title>House of Darkness</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjE1MDQ2OTgtZWI1NS00ZTE4LThjYWItYzViMjJiZWVlMDVjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">88</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Hap offers Mina a ride home with ulterior motives, but his night takes a turn when he learns she lives in a creepy American castle...and the shadowy figures in the corridors make it clear that he isn't welcome.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kate Bosworth</actor>
+			<role>Mina Murray</role>
+		</credit>
+		<credit>
+			<actor>Justin Long</actor>
+			<role>Hap Jackson</role>
+		</credit>
+		<credit>
+			<actor>Gia Crovatin</actor>
+			<role>Lucy Murray</role>
+		</credit>
+		<credit>
+			<actor>Lucy Walters</actor>
+			<role>Nora Murray</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 8 2022</releasedate>
+		<releasedate country="Canada">July 22 2022</releasedate>
+		<releasedate country="United States">September 9 2022</releasedate>
+		<releasedate country="Canada">September 13 2022</releasedate>
+		<releasedate country="United States">September 13 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>supernatural horror</keyword>
+		<keyword>lucky</keyword>
+		<keyword>mysterious</keyword>
+	</keywords>
+	<directors>
+		<director> Neil LaBute</director>
+	</directors>
+	<composers>
+		<composer> Adam Bosarge</composer>
+	</composers>
+	<producers>
+		<producer> Michael Barnett</producer>
+		<producer> Blake Elder</producer>
+		<producer> Kerri Elder</producer>
+		<producer> Daryl Freimark</producer>
+		<producer> Tim Harms</producer>
+		<producer> Stephen Morgenstern</producer>
+		<producer> Shelley D. Needham</producer>
+		<producer> Jonathan Saba</producer>
+		<producer> Shaun Sanghani</producer>
+	</producers>
+	<writers>
+		<writer> Neil LaBute</writer>
+	</writers>
+	<editors>
+		<editor> Bridget Durnford</editor>
+	</editors>
+</doc>

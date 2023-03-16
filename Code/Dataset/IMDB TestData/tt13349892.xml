@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<doc id="tt13349892">
+	<docid>tt13349892</docid>
+	<title>Kompromat</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWE1OTM0ODQtOTQ0Yi00YWY0LWExZDctNGZiNzdmNjViYTc2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_QL75_UY281_CR10,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">127</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A French diplomat must escape an FSB plot in Siberia.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Gilles Lellouche</actor>
+			<role>Mathieu Roussel</role>
+		</credit>
+		<credit>
+			<actor>Joanna Kulig</actor>
+			<role>Svetlana</role>
+		</credit>
+		<credit>
+			<actor>Louis-Do de Lencquesaing</actor>
+			<role>L'ambassadeur de France</role>
+		</credit>
+		<credit>
+			<actor>Michael Gor</actor>
+			<role>Rostov</role>
+		</credit>
+		<credit>
+			<actor>Aleksey Gorbunov</actor>
+			<role>Borodin</role>
+		</credit>
+		<credit>
+			<actor>Elisa Lasowski</actor>
+			<role>Alice Roussel</role>
+		</credit>
+		<credit>
+			<actor>Daniil Vorobyov</actor>
+			<role>Sasha Rostov</role>
+		</credit>
+		<credit>
+			<actor>Judith Henry</actor>
+			<role>Michèle</role>
+		</credit>
+		<credit>
+			<actor>Igor Zhizhikin</actor>
+			<role>Sagarine</role>
+		</credit>
+		<credit>
+			<actor>Pierre Hancisse</actor>
+			<role>Julien</role>
+		</credit>
+		<credit>
+			<actor>Mikhail Safronov</actor>
+			<role>Ivanovich</role>
+		</credit>
+		<credit>
+			<actor>Marius Repsys</actor>
+			<role>Shakir</role>
+		</credit>
+		<credit>
+			<actor>Olivia Malahieude</actor>
+			<role>Rose Roussel</role>
+		</credit>
+		<credit>
+			<actor>Sasha Piltsin</actor>
+			<role>Sergey</role>
+		</credit>
+		<credit>
+			<actor>Marius Cizauskas</actor>
+			<role>Stanislas</role>
+		</credit>
+		<credit>
+			<actor>Tanel Jonas</actor>
+			<role>Vladimir</role>
+		</credit>
+		<credit>
+			<actor>Larisa Kalpokaite</actor>
+			<role>Julia</role>
+		</credit>
+		<credit>
+			<actor>Algirdas Latenas</actor>
+			<role>Boris</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">March 2022</releasedate>
+		<releasedate country="France">September 7 2022</releasedate>
+		<releasedate country="Estonia">September 30 2022</releasedate>
+		<releasedate country="Mexico">October 6 2022</releasedate>
+		<releasedate country="Lithuania">October 28 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>one word title</keyword>
+		<keyword>forest</keyword>
+		<keyword>chase</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>flashback</keyword>
+		<keyword>begins with a flashback</keyword>
+		<keyword>russia</keyword>
+		<keyword>siberia</keyword>
+		<keyword>snowing</keyword>
+		<keyword>snow</keyword>
+		<keyword>winter</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>show</keyword>
+		<keyword>dancing</keyword>
+		<keyword>kiss</keyword>
+		<keyword>gay kiss</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>toaster</keyword>
+		<keyword>prison</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>non linear</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>dispute</keyword>
+		<keyword>electronic bracelet</keyword>
+		<keyword>ankle monitor</keyword>
+		<keyword>shower</keyword>
+		<keyword>supermarket</keyword>
+		<keyword>escape</keyword>
+		<keyword>bus</keyword>
+		<keyword>border crossing</keyword>
+		<keyword>embassy</keyword>
+		<keyword>french embassy</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>suicide</keyword>
+		<keyword>suicide by hanging</keyword>
+		<keyword>drowning</keyword>
+		<keyword>conspiracy thriller</keyword>
+	</keywords>
+	<directors>
+		<director> Jérôme Salle</director>
+	</directors>
+	<composers>
+		<composer> Guillaume Roussel</composer>
+	</composers>
+	<producers>
+		<producer> Albane de Jourdan</producer>
+		<producer> Jérôme Salle</producer>
+		<producer> Marc Simoncini</producer>
+	</producers>
+	<writers>
+		<writer> Jérôme Salle</writer>
+		<writer> Caryl Ferey</writer>
+	</writers>
+	<editors>
+		<editor> Stan Collet</editor>
+	</editors>
+</doc>

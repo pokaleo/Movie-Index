@@ -1,0 +1,512 @@
+<?xml version="1.0" ?>
+<doc id="tt4520364">
+	<docid>tt4520364</docid>
+	<title>Morgan</title>
+	<image/>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">92</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A corporate risk-management consultant must decide whether or not to terminate an artificially created humanoid being.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kate Mara</actor>
+			<role>Lee Weathers</role>
+		</credit>
+		<credit>
+			<actor>Anya Taylor-Joy</actor>
+			<role>Morgan</role>
+		</credit>
+		<credit>
+			<actor>Rose Leslie</actor>
+			<role>Dr. Amy Menser</role>
+		</credit>
+		<credit>
+			<actor>Michael Yare</actor>
+			<role>Ted Brenner</role>
+		</credit>
+		<credit>
+			<actor>Toby Jones</actor>
+			<role>Dr. Simon Ziegler</role>
+		</credit>
+		<credit>
+			<actor>Chris Sullivan</actor>
+			<role>Dr. Darren Finch</role>
+		</credit>
+		<credit>
+			<actor>Boyd Holbrook</actor>
+			<role>Skip Vronsky</role>
+		</credit>
+		<credit>
+			<actor>Vinette Robinson</actor>
+			<role>Dr. Brenda Finch</role>
+		</credit>
+		<credit>
+			<actor>Michelle Yeoh</actor>
+			<role>Dr. Lui Cheng</role>
+		</credit>
+		<credit>
+			<actor>Brian Cox</actor>
+			<role>Jim Bryce</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Jason Leigh</actor>
+			<role>Dr. Kathy Grieff</role>
+		</credit>
+		<credit>
+			<actor>Paul Giamatti</actor>
+			<role>Dr. Alan Shapiro</role>
+		</credit>
+		<credit>
+			<actor>Crispian Belfrage</actor>
+			<role>Charles Grimes</role>
+		</credit>
+		<credit>
+			<actor>Amybeth McNulty</actor>
+			<role>Morgan Age 10</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Aris</actor>
+			<role>David Chance</role>
+		</credit>
+		<credit>
+			<actor>Charlotte Asprey</actor>
+			<role>Executive Assistant</role>
+		</credit>
+		<credit>
+			<actor>Frank Cannon</actor>
+			<role>CIA Agent</role>
+		</credit>
+		<credit>
+			<actor>Chrissie Harris</actor>
+			<role>Diner Passerby</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">September 1 2016</releasedate>
+		<releasedate country="Kuwait">September 1 2016</releasedate>
+		<releasedate country="Ukraine">September 1 2016</releasedate>
+		<releasedate country="Canada">September 2 2016</releasedate>
+		<releasedate country="United Kingdom">September 2 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Mexico">B-15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>humanoid</keyword>
+		<keyword>biosynthetic creature</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>violence</keyword>
+		<keyword>metaphor</keyword>
+		<keyword>crashing through a gate</keyword>
+		<keyword>female jogger</keyword>
+		<keyword>woman punches a woman</keyword>
+		<keyword>woman wears a tank top</keyword>
+		<keyword>crying teenage girl</keyword>
+		<keyword>one word title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>bouquet</keyword>
+		<keyword>eye patch</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>car crash</keyword>
+		<keyword>psychiatric evaluation</keyword>
+		<keyword>field test</keyword>
+		<keyword>bite on the neck</keyword>
+		<keyword>tear on cheek</keyword>
+		<keyword>injection in arm</keyword>
+		<keyword>facial cut</keyword>
+		<keyword>looking at one's reflection in water</keyword>
+		<keyword>shot in the belly</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>telescopic rifle</keyword>
+		<keyword>nutritionist</keyword>
+		<keyword>gray hoodie</keyword>
+		<keyword>red hoodie</keyword>
+		<keyword>threatened with a gun</keyword>
+		<keyword>broken nose</keyword>
+		<keyword>synthetic human</keyword>
+		<keyword>pushed through a window</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>walking in the woods</keyword>
+		<keyword>view through rifle scope</keyword>
+		<keyword>scratches on face</keyword>
+		<keyword>looking at the camera</keyword>
+		<keyword>rolling downhill</keyword>
+		<keyword>hit in the face with a rifle butt</keyword>
+		<keyword>body floating in water</keyword>
+		<keyword>body bag</keyword>
+		<keyword>staring at one's hands</keyword>
+		<keyword>floating body</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>woman murders a woman</keyword>
+		<keyword>woman wears a flannel shirt</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>character looks directly at the camera</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>ends with character looking at the camera</keyword>
+		<keyword>murderess</keyword>
+		<keyword>girl wears a hoody</keyword>
+		<keyword>impaled on a tree branch</keyword>
+		<keyword>murder of an innocent person</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>man cooks</keyword>
+		<keyword>risk management consultant</keyword>
+		<keyword>dna</keyword>
+		<keyword>5 year old</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>tranquilizer</keyword>
+		<keyword>sedation</keyword>
+		<keyword>strapped to a table</keyword>
+		<keyword>kiss</keyword>
+		<keyword>apology</keyword>
+		<keyword>surrogate mother surrogate daughter relationship</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>sadness</keyword>
+		<keyword>needle</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>prologue</keyword>
+		<keyword>suffocated to death</keyword>
+		<keyword>genetic research</keyword>
+		<keyword>lasagna</keyword>
+		<keyword>gate</keyword>
+		<keyword>barbed wire</keyword>
+		<keyword>holding someone under water</keyword>
+		<keyword>african american</keyword>
+		<keyword>black american</keyword>
+		<keyword>flowers</keyword>
+		<keyword>eye bandage</keyword>
+		<keyword>safety protocol</keyword>
+		<keyword>promise</keyword>
+		<keyword>worrying</keyword>
+		<keyword>lie</keyword>
+		<keyword>accusation of lying</keyword>
+		<keyword>flower</keyword>
+		<keyword>little girl</keyword>
+		<keyword>scientific experiment</keyword>
+		<keyword>baby</keyword>
+		<keyword>rapid growth</keyword>
+		<keyword>birthday</keyword>
+		<keyword>eco therapy</keyword>
+		<keyword>psychological evaluation</keyword>
+		<keyword>chess the game</keyword>
+		<keyword>listening to opera music</keyword>
+		<keyword>food</keyword>
+		<keyword>teenage girl sits on the floor in a corner</keyword>
+		<keyword>pride</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>eating</keyword>
+		<keyword>bloody mouth</keyword>
+		<keyword>sodium thiopental</keyword>
+		<keyword>chinese american</keyword>
+		<keyword>wine</keyword>
+		<keyword>singer</keyword>
+		<keyword>singing</keyword>
+		<keyword>song</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>dihydromorphinone</keyword>
+		<keyword>drinking from a bottle</keyword>
+		<keyword>memory</keyword>
+		<keyword>injured deer</keyword>
+		<keyword>love</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>dock</keyword>
+		<keyword>camera shot through a telescope</keyword>
+		<keyword>collateral damage</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>woman hits a woman</keyword>
+		<keyword>female female fight</keyword>
+		<keyword>mandarin chinese</keyword>
+		<keyword>kiss on the forehead</keyword>
+		<keyword>falling into water</keyword>
+		<keyword>car crashes into a tree</keyword>
+		<keyword>happiness</keyword>
+		<keyword>rifle with a telescope</keyword>
+		<keyword>fight in water</keyword>
+		<keyword>artificial intelligence sci fi</keyword>
+		<keyword>risk management</keyword>
+		<keyword>hooded sweatshirt</keyword>
+		<keyword>latex gloves</keyword>
+		<keyword>tied feet</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>jogging</keyword>
+		<keyword>suicide</keyword>
+		<keyword>mutation</keyword>
+		<keyword>mutant</keyword>
+		<keyword>prototype</keyword>
+		<keyword>ambush</keyword>
+		<keyword>compassion</keyword>
+		<keyword>revenge</keyword>
+		<keyword>interview</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>trust</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>incarceration</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>mercy killing</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>solitary confinement</keyword>
+		<keyword>revelation</keyword>
+		<keyword>hired killer</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>doctor</keyword>
+		<keyword>tree</keyword>
+		<keyword>shower</keyword>
+		<keyword>bed</keyword>
+		<keyword>isolation</keyword>
+		<keyword>high tech</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>corpse</keyword>
+		<keyword>strapped to a bed</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>suspense</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>investigation</keyword>
+		<keyword>stabbed with a pen</keyword>
+		<keyword>car accident</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>gash in the face</keyword>
+		<keyword>pier</keyword>
+		<keyword>distrust</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>rescue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>escape</keyword>
+		<keyword>car theft</keyword>
+		<keyword>psychologist</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>brutality</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>climbing through a window</keyword>
+		<keyword>blood</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>corporate conspiracy</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>cover up</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>mirror</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>chinese</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>full moon</keyword>
+		<keyword>unwanted kiss</keyword>
+		<keyword>bunker</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>injection</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>death of boyfriend</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>mysterious woman</keyword>
+		<keyword>tranquilizer gun</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>security camera</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>experiment gone wrong</keyword>
+		<keyword>video recording</keyword>
+		<keyword>computer</keyword>
+		<keyword>babe scientist</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>cook</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>pistol</keyword>
+		<keyword>rifle</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>manor house</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>cloning</keyword>
+		<keyword>clone</keyword>
+		<keyword>panic</keyword>
+		<keyword>flashback</keyword>
+		<keyword>river</keyword>
+		<keyword>farm</keyword>
+		<keyword>danger</keyword>
+		<keyword>fear</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>car chase</keyword>
+		<keyword>stick fight</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>corporation</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>rampage</keyword>
+		<keyword>kung fu</keyword>
+		<keyword>karate</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>diner</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>throat ripping</keyword>
+		<keyword>super strength</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>anger</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>showdown</keyword>
+		<keyword>catfight</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fight</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>head butt</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>improvised weapon</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>geneticist</keyword>
+		<keyword>genetics</keyword>
+		<keyword>science</keyword>
+		<keyword>near future</keyword>
+		<keyword>research facility</keyword>
+		<keyword>research station</keyword>
+		<keyword>android</keyword>
+		<keyword>smothered to death</keyword>
+		<keyword>hunting rifle</keyword>
+		<keyword>body in water</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>corporate executive</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>camera</keyword>
+		<keyword>locked in a room</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>woman's neck broken</keyword>
+		<keyword>broken neck</keyword>
+		<keyword>killing a deer</keyword>
+		<keyword>deer</keyword>
+		<keyword>impalement</keyword>
+		<keyword>head held underwater</keyword>
+		<keyword>drowning</keyword>
+		<keyword>lake</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>suicide by hanging</keyword>
+		<keyword>bloody hand print</keyword>
+		<keyword>bitten in the throat</keyword>
+		<keyword>lethal injection</keyword>
+		<keyword>scientist</keyword>
+		<keyword>behaviorist</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>psychological test</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>mutant human</keyword>
+		<keyword>car crashing into a tree</keyword>
+		<keyword>euthanasia</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>independent film</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>redheaded woman</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>assassin</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>forename as title</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Luke Scott</director>
+	</directors>
+	<composers>
+		<composer> Max Richter</composer>
+	</composers>
+	<producers>
+		<producer> Aidan Elliott</producer>
+		<producer> George F. Heller</producer>
+		<producer> Elishia Holmes</producer>
+		<producer> Mark Huffam</producer>
+		<producer> Michael Schaefer</producer>
+		<producer> Ridley Scott</producer>
+	</producers>
+	<writers>
+		<writer> Seth W. Owen</writer>
+	</writers>
+	<editors>
+		<editor> Laura Jennings</editor>
+	</editors>
+</doc>

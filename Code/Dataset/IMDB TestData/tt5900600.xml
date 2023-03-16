@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<doc id="tt5900600">
+	<docid>tt5900600</docid>
+	<title>Les Misérables</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">372</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>Television adaptation of Victor Hugo's classic novel, which follows Jean Valjean as he evades capture by the unyielding Inspector Javert. Set against a backdrop of post-Napoleonic France as unrest begins to grip the city of Paris once more.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dominic West</actor>
+			<role>Jean Valjean</role>
+		</credit>
+		<credit>
+			<actor>David Oyelowo</actor>
+			<role>Javert</role>
+		</credit>
+		<credit>
+			<actor>Adeel Akhtar</actor>
+			<role>Thénardier</role>
+		</credit>
+		<credit>
+			<actor>David Bradley</actor>
+			<role>Gillenormand</role>
+		</credit>
+		<credit>
+			<actor>Emma Fielding</actor>
+			<role>Nicolette</role>
+		</credit>
+		<credit>
+			<actor>Enzo Cilenti</actor>
+			<role>Rivette</role>
+		</credit>
+		<credit>
+			<actor>Olivia Colman</actor>
+			<role>Madame Thénardier</role>
+		</credit>
+		<credit>
+			<actor>Lily Collins</actor>
+			<role>Fantine</role>
+		</credit>
+		<credit>
+			<actor>Ellie Bamber</actor>
+			<role>Cosette</role>
+		</credit>
+		<credit>
+			<actor>Josh O'Connor</actor>
+			<role>Marius</role>
+		</credit>
+		<credit>
+			<actor>Joseph Quinn</actor>
+			<role>Enjolras</role>
+		</credit>
+		<credit>
+			<actor>Erin Kellyman</actor>
+			<role>Éponine</role>
+		</credit>
+		<credit>
+			<actor>Archie Madekwe</actor>
+			<role>Courfeyrac</role>
+		</credit>
+		<credit>
+			<actor>Turlough Convery</actor>
+			<role>Grantaire</role>
+		</credit>
+		<credit>
+			<actor>Natalie Simpson</actor>
+			<role>Sister Simplice</role>
+		</credit>
+		<credit>
+			<actor>Angela Wynter</actor>
+			<role>Toussaint</role>
+		</credit>
+		<credit>
+			<actor>Reece Yates</actor>
+			<role>Gavroche</role>
+		</credit>
+		<credit>
+			<actor>Donald Sumpter</actor>
+			<role>Mabeuf</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">December 30 2018</releasedate>
+		<releasedate country="Sweden">February 24 2019</releasedate>
+		<releasedate country="Netherlands">March 31 2019</releasedate>
+		<releasedate country="Finland">April 3 2019</releasedate>
+		<releasedate country="Canada">April 14 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Japan">Not Rated</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>poverty</keyword>
+		<keyword>thief</keyword>
+		<keyword>obsessed man</keyword>
+		<keyword>year 1832</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>convict</keyword>
+		<keyword>paris france</keyword>
+		<keyword>period drama</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>police officer</keyword>
+		<keyword>costume drama</keyword>
+		<keyword>alternate history</keyword>
+		<keyword>costume drama history</keyword>
+		<keyword>french historical setting</keyword>
+		<keyword>peasantry</keyword>
+		<keyword>19th century</keyword>
+		<keyword>tv mini series</keyword>
+	</keywords>
+	<directors>
+		<director> Tom Shankland</director>
+	</directors>
+	<composers>
+		<composer> John Murphy</composer>
+	</composers>
+	<producers>
+		<producer> Diana Barton</producer>
+		<producer> Chris Carey</producer>
+		<producer> Andrew Davies</producer>
+		<producer> Rebecca Eaton</producer>
+		<producer> Koen Fransen</producer>
+		<producer> Eurydice Gysel</producer>
+		<producer> Bethan Jones</producer>
+		<producer> David Oyelowo</producer>
+		<producer> Faith Penhale</producer>
+		<producer> Mona Qureshi</producer>
+		<producer> Louise Say</producer>
+		<producer> Dominic West</producer>
+		<producer> Sylvain Jouannet</producer>
+	</producers>
+	<writers>
+		<writer> Andrew Davies</writer>
+		<writer> Christine Donougher</writer>
+		<writer> Victor Hugo</writer>
+	</writers>
+	<editors>
+		<editor> Úna Ní Dhonghaíle</editor>
+		<editor> Danielle Palmer</editor>
+		<editor> Paulo Pandolpho</editor>
+	</editors>
+</doc>

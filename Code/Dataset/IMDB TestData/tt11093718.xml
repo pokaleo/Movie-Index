@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<doc id="tt11093718">
+	<docid>tt11093718</docid>
+	<title>Kurulus: Osman</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzgwZmIwZDktNTBjYi00NWUyLTljMzAtOTYxZDgwNzgyMjYxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_QL75_UX190_CR0,30,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The series will focus on the life of Osman Bey, the son of Ertugrul Gazi and the founder of the Ottoman Empire.</plot>
+	<countries>
+		<country>Turkey</country>
+	</countries>
+	<languages>
+		<language>Turkish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Burak Özçivit</actor>
+			<role>Osman Bey</role>
+		</credit>
+		<credit>
+			<actor>Özge Törer</actor>
+			<role>Bala Hatun</role>
+		</credit>
+		<credit>
+			<actor>Yigit Ucan</actor>
+			<role>Boran</role>
+		</credit>
+		<credit>
+			<actor>Buse Arslan</actor>
+			<role>Aygül Hatun</role>
+		</credit>
+		<credit>
+			<actor>Cagri Sensoy</actor>
+			<role>Cerkutay</role>
+		</credit>
+		<credit>
+			<actor>Emre Basalak</actor>
+			<role>Gündüz Bey</role>
+		</credit>
+		<credit>
+			<actor>Açelya Özcan</actor>
+			<role>Ayse Hatun</role>
+		</credit>
+		<credit>
+			<actor>Seda Yildiz</actor>
+			<role>Seyh Edebali</role>
+		</credit>
+		<credit>
+			<actor>Ömer Agan</actor>
+			<role>Saltuk Alp</role>
+		</credit>
+		<credit>
+			<actor>Didem Balçin</actor>
+			<role>Selcan Hatun</role>
+		</credit>
+		<credit>
+			<actor>Abidin Yerebakan</actor>
+			<role>Akça Dervis</role>
+		</credit>
+		<credit>
+			<actor>Emin Gürsoy</actor>
+			<role>Kumrul Abdal</role>
+		</credit>
+		<credit>
+			<actor>Fatih Ayhan</actor>
+			<role>Baysungur Alp</role>
+		</credit>
+		<credit>
+			<actor>Emel Dede</actor>
+			<role>Gonca Hatun</role>
+		</credit>
+		<credit>
+			<actor>Serkan Tatar</actor>
+			<role>Pehlivan Dervis</role>
+		</credit>
+		<credit>
+			<actor>Ahmet Yenilmez</actor>
+			<role>Demirci Davud</role>
+		</credit>
+		<credit>
+			<actor>Burak Çelik</actor>
+			<role>Göktug</role>
+		</credit>
+		<credit>
+			<actor>Erkan Avci</actor>
+			<role>Aya Nikola</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Turkey">2019</releasedate>
+		<releasedate country="France">October 20 2019</releasedate>
+		<releasedate country="Spain">November 20 2019</releasedate>
+		<releasedate country="Poland">November 20 2019</releasedate>
+		<releasedate country="Turkey">November 20 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">18+</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Israel">Not Rated</certificate>
+		<certificate country="South Africa">Not Rated</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Turkey">Not Rated</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>turkish history</keyword>
+		<keyword>ottoman history</keyword>
+		<keyword>turk</keyword>
+		<keyword>ottoman empire</keyword>
+		<keyword>ottoman</keyword>
+		<keyword>muslim</keyword>
+		<keyword>dream</keyword>
+	</keywords>
+	<directors>
+		<director> Ahmet Yilmaz</director>
+		<director> Fethi Bayram</director>
+		<director> Metin Günay</director>
+	</directors>
+	<composers>
+		<composer> Zeynep Alasya</composer>
+		<composer> Alpay Göltekin</composer>
+	</composers>
+	<producers>
+		<producer> Mehmet Bozdag</producer>
+	</producers>
+	<writers>
+		<writer> Asli Zeynep Peker Bozdag</writer>
+		<writer> Asli Zeynep Peker Bozdag</writer>
+		<writer> Mehmet Bozdag</writer>
+		<writer> Mehmet Bozdag</writer>
+		<writer> Mehmet Bozdag</writer>
+		<writer> Atilla Engin</writer>
+		<writer> Atilla Engin</writer>
+		<writer> Fatmanur Guldali</writer>
+		<writer> Abdulkadir Ilter</writer>
+		<writer> Ali Ozan Salkim</writer>
+		<writer> Ali Ozan Salkim</writer>
+		<writer> Rafet Elçi</writer>
+		<writer> Mehmet Ilker Altinay</writer>
+		<writer> Isa Yildiz</writer>
+		<writer> Ozan Bodur</writer>
+		<writer> Ozan Bodur</writer>
+		<writer> Mert Özel</writer>
+	</writers>
+	<editors>
+		<editor> Yarkin San</editor>
+		<editor> Akif Özkan</editor>
+		<editor> Esra Topal</editor>
+		<editor> Harun Özdemir</editor>
+	</editors>
+</doc>

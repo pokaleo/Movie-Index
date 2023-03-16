@@ -1,0 +1,564 @@
+<?xml version="1.0" ?>
+<doc id="tt1590193">
+	<docid>tt1590193</docid>
+	<title>The Commuter</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTU3Mjk2MDMwNl5BMl5BanBnXkFtZTgwNzQyODI1MzI@._V1_QL75_UX190_CR0,6,190,281_.jpg</image>
+	<year>I 2018</year>
+	<runningtimes>
+		<runningtime country="default">104</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Liam Neeson</actor>
+			<role>Michael MacCauley</role>
+		</credit>
+		<credit>
+			<actor>Vera Farmiga</actor>
+			<role>Joanna</role>
+		</credit>
+		<credit>
+			<actor>Patrick Wilson</actor>
+			<role>Alex Murphy</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Banks</actor>
+			<role>Walt</role>
+		</credit>
+		<credit>
+			<actor>Sam Neill</actor>
+			<role>Captain Hawthorne</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth McGovern</actor>
+			<role>Karen MacCauley</role>
+		</credit>
+		<credit>
+			<actor>Killian Scott</actor>
+			<role>Dylan</role>
+		</credit>
+		<credit>
+			<actor>Shazad Latif</actor>
+			<role>Vince</role>
+		</credit>
+		<credit>
+			<actor>Andy Nyman</actor>
+			<role>Tony</role>
+		</credit>
+		<credit>
+			<actor>Clara Lago</actor>
+			<role>Eva</role>
+		</credit>
+		<credit>
+			<actor>Roland Møller</actor>
+			<role>Jackson</role>
+		</credit>
+		<credit>
+			<actor>Florence Pugh</actor>
+			<role>Gwen</role>
+		</credit>
+		<credit>
+			<actor>Dean-Charles Chapman</actor>
+			<role>Danny MacCauley</role>
+		</credit>
+		<credit>
+			<actor>Ella-Rae Smith</actor>
+			<role>Sofia</role>
+		</credit>
+		<credit>
+			<actor>Nila Aalia</actor>
+			<role>Sherri</role>
+		</credit>
+		<credit>
+			<actor>Colin McFarlane</actor>
+			<role>Conductor Sam</role>
+		</credit>
+		<credit>
+			<actor>Kobna Holdbrook-Smith</actor>
+			<role>Oliver</role>
+		</credit>
+		<credit>
+			<actor>Adam Nagaitis</actor>
+			<role>Conductor Jimmy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 8 2018</releasedate>
+		<releasedate country="Philippines">January 10 2018</releasedate>
+		<releasedate country="United Arab Emirates">January 11 2018</releasedate>
+		<releasedate country="Austria">January 11 2018</releasedate>
+		<releasedate country="Colombia">January 11 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>passenger train</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>train</keyword>
+		<keyword>money</keyword>
+		<keyword>train derailment</keyword>
+		<keyword>hostage</keyword>
+		<keyword>race against time</keyword>
+		<keyword>train wreck</keyword>
+		<keyword>train station</keyword>
+		<keyword>fight</keyword>
+		<keyword>gun</keyword>
+		<keyword>train accident</keyword>
+		<keyword>witness</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>commute</keyword>
+		<keyword>fast train</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>courage</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>rogue cop</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>police</keyword>
+		<keyword>train passenger</keyword>
+		<keyword>train toilet</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>ring</keyword>
+		<keyword>hiding</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>scare tactic</keyword>
+		<keyword>commuting</keyword>
+		<keyword>rail</keyword>
+		<keyword>station</keyword>
+		<keyword>railroad</keyword>
+		<keyword>fast</keyword>
+		<keyword>high speed</keyword>
+		<keyword>deal</keyword>
+		<keyword>bargain</keyword>
+		<keyword>pact</keyword>
+		<keyword>negotiate</keyword>
+		<keyword>negotiation</keyword>
+		<keyword>sack</keyword>
+		<keyword>get one's life back</keyword>
+		<keyword>sacked</keyword>
+		<keyword>job</keyword>
+		<keyword>jobless</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>offspring</keyword>
+		<keyword>spouse</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood spatter</keyword>
+		<keyword>shatter</keyword>
+		<keyword>coach</keyword>
+		<keyword>jam</keyword>
+		<keyword>door jammed</keyword>
+		<keyword>jammed door</keyword>
+		<keyword>combat</keyword>
+		<keyword>close combat</keyword>
+		<keyword>knife</keyword>
+		<keyword>door jammed shut</keyword>
+		<keyword>experience</keyword>
+		<keyword>handgun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>swat</keyword>
+		<keyword>special forces</keyword>
+		<keyword>fear tactic</keyword>
+		<keyword>derailment</keyword>
+		<keyword>mayhem</keyword>
+		<keyword>destruction</keyword>
+		<keyword>outcome</keyword>
+		<keyword>deal or no deal</keyword>
+		<keyword>middle aged</keyword>
+		<keyword>age discrimination</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>mobile phone</keyword>
+		<keyword>mobile telephone</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>tattooed man</keyword>
+		<keyword>tattooed neck</keyword>
+		<keyword>handbag</keyword>
+		<keyword>public transportation</keyword>
+		<keyword>transit</keyword>
+		<keyword>man on the train</keyword>
+		<keyword>goatee</keyword>
+		<keyword>brunette</keyword>
+		<keyword>blonde</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>old man</keyword>
+		<keyword>cruiser</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>black man</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>sirens</keyword>
+		<keyword>explosion</keyword>
+		<keyword>cloud of smoke</keyword>
+		<keyword>bullet through a window</keyword>
+		<keyword>bullet through window</keyword>
+		<keyword>alarm</keyword>
+		<keyword>alarm clock</keyword>
+		<keyword>radio news</keyword>
+		<keyword>photograph</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>weather report</keyword>
+		<keyword>suv</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>university entrance</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>teenager</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>bmw</keyword>
+		<keyword>snow</keyword>
+		<keyword>walking in snow</keyword>
+		<keyword>train conductor</keyword>
+		<keyword>skull cap</keyword>
+		<keyword>train platform</keyword>
+		<keyword>conversationalist</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>office</keyword>
+		<keyword>meeting</keyword>
+		<keyword>irish immigrant</keyword>
+		<keyword>secretary</keyword>
+		<keyword>severance package</keyword>
+		<keyword>mortgage</keyword>
+		<keyword>worker lay off</keyword>
+		<keyword>pub</keyword>
+		<keyword>male bartender</keyword>
+		<keyword>bitterness</keyword>
+		<keyword>beer</keyword>
+		<keyword>drinking beer</keyword>
+		<keyword>irish flag</keyword>
+		<keyword>ex cop</keyword>
+		<keyword>ex policeman</keyword>
+		<keyword>boss</keyword>
+		<keyword>police captain</keyword>
+		<keyword>wedding ring</keyword>
+		<keyword>washroom</keyword>
+		<keyword>stranger</keyword>
+		<keyword>vent</keyword>
+		<keyword>hidden item</keyword>
+		<keyword>wad of cash</keyword>
+		<keyword>bald man</keyword>
+		<keyword>red signal</keyword>
+		<keyword>pushed in front of a bus</keyword>
+		<keyword>borrowing a phone</keyword>
+		<keyword>nose ring</keyword>
+		<keyword>vest</keyword>
+		<keyword>snob</keyword>
+		<keyword>maced</keyword>
+		<keyword>mace</keyword>
+		<keyword>fake identification</keyword>
+		<keyword>security check</keyword>
+		<keyword>random</keyword>
+		<keyword>federal agent</keyword>
+		<keyword>listening in</keyword>
+		<keyword>hiding from the police</keyword>
+		<keyword>jumping on a train</keyword>
+		<keyword>money blowing in the wind</keyword>
+		<keyword>playing cards</keyword>
+		<keyword>air conditioner</keyword>
+		<keyword>air conditioning not working properly</keyword>
+		<keyword>public announcement</keyword>
+		<keyword>broken air conditioner</keyword>
+		<keyword>reference to air conditioner</keyword>
+		<keyword>full house</keyword>
+		<keyword>detachment</keyword>
+		<keyword>threatened with a gun</keyword>
+		<keyword>brawl</keyword>
+		<keyword>guitar</keyword>
+		<keyword>hit with a guitar</keyword>
+		<keyword>hands up</keyword>
+		<keyword>nurse uniform</keyword>
+		<keyword>schoolgirl</keyword>
+		<keyword>schoolgirl uniform</keyword>
+		<keyword>schoolgirl costume</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>burnt man</keyword>
+		<keyword>deadline</keyword>
+		<keyword>malfunctioning brakes</keyword>
+		<keyword>montage</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>police officer</keyword>
+		<keyword>passenger</keyword>
+		<keyword>reading a novel</keyword>
+		<keyword>reference to john steinbeck</keyword>
+		<keyword>reference to charlotte bronte</keyword>
+		<keyword>reference to emily bronte</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>police detective</keyword>
+		<keyword>two word title</keyword>
+		<keyword>suspense</keyword>
+		<keyword>2010s</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>mysterious woman</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>hostage situation</keyword>
+		<keyword>detective</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>time lapse photography</keyword>
+		<keyword>new york city</keyword>
+		<keyword>grand central station manhattan new york city</keyword>
+		<keyword>subway station</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>badge</keyword>
+		<keyword>police car</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>product placement</keyword>
+		<keyword>irish</keyword>
+		<keyword>police lieutenant</keyword>
+		<keyword>exploding train</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>nypd</keyword>
+		<keyword>threat</keyword>
+		<keyword>reference to goldman sachs</keyword>
+		<keyword>stockbroker</keyword>
+		<keyword>investment banker</keyword>
+		<keyword>nurse</keyword>
+		<keyword>insurance salesman</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>swat team</keyword>
+		<keyword>claustrophobia</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>news report</keyword>
+		<keyword>hit by a bus</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>african american</keyword>
+		<keyword>irish american</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>life insurance</keyword>
+		<keyword>insurance</keyword>
+		<keyword>hitman</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>card game</keyword>
+		<keyword>salesman</keyword>
+		<keyword>flashback</keyword>
+		<keyword>ticket</keyword>
+		<keyword>frame up</keyword>
+		<keyword>cover up</keyword>
+		<keyword>framed for murder</keyword>
+		<keyword>witness protection program</keyword>
+		<keyword>runaway train</keyword>
+		<keyword>corpse</keyword>
+		<keyword>bag of money</keyword>
+		<keyword>money problems</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>friendship</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>business card</keyword>
+		<keyword>engagement ring</keyword>
+		<keyword>death threat</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>555 phone number</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>set up</keyword>
+		<keyword>corruption</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>power outage</keyword>
+		<keyword>musician</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>double cross</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>bravery</keyword>
+		<keyword>investigation</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>broken mirror</keyword>
+		<keyword>businessman</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>long take</keyword>
+		<keyword>reference to hillary clinton</keyword>
+		<keyword>reference to syracuse university</keyword>
+		<keyword>reference to lord of the flies</keyword>
+		<keyword>reference to the grapes of wrath the novel</keyword>
+		<keyword>cell phone battery dies</keyword>
+		<keyword>texas hold 'em</keyword>
+		<keyword>protection</keyword>
+		<keyword>solidarity</keyword>
+		<keyword>instrument case</keyword>
+		<keyword>last day on the job</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>bald man with a beard</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>man wears a suit</keyword>
+		<keyword>man wears a hat</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>woman on a train</keyword>
+		<keyword>financial trouble</keyword>
+		<keyword>commuter train</keyword>
+		<keyword>train journey</keyword>
+		<keyword>getting fired</keyword>
+		<keyword>losing a job</keyword>
+		<keyword>daily commute</keyword>
+		<keyword>offer</keyword>
+		<keyword>warning</keyword>
+		<keyword>ex partner</keyword>
+		<keyword>eyewitness</keyword>
+		<keyword>witness to a murder</keyword>
+		<keyword>dead body</keyword>
+		<keyword>hidden body</keyword>
+		<keyword>murder of fbi agent</keyword>
+		<keyword>thrown off a train</keyword>
+		<keyword>thrown from a moving train</keyword>
+		<keyword>thrown from a train</keyword>
+		<keyword>end of the line</keyword>
+		<keyword>train crash</keyword>
+		<keyword>corrupt cop</keyword>
+		<keyword>nypd detective</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>train movie</keyword>
+		<keyword>corrupt police officer</keyword>
+		<keyword>corrupt male police officer</keyword>
+		<keyword>crooked police officer</keyword>
+		<keyword>crooked male police officer</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>family man</keyword>
+		<keyword>bullseye</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>reading a newspaper</keyword>
+		<keyword>train travel</keyword>
+		<keyword>camera shot of a woman's feet in high heels</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>family in jeopardy</keyword>
+		<keyword>villainess</keyword>
+		<keyword>evil woman</keyword>
+		<keyword>fight on a moving train</keyword>
+		<keyword>train track</keyword>
+		<keyword>fight on a train</keyword>
+		<keyword>fight in a train</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>commuter</keyword>
+		<keyword>hitchcockian</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>poker</keyword>
+		<keyword>playing poker</keyword>
+		<keyword>reading the newspaper on the train</keyword>
+		<keyword>man and woman share a bed</keyword>
+		<keyword>bar</keyword>
+		<keyword>bartender</keyword>
+		<keyword>subway</keyword>
+		<keyword>nose piercing</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>shaving</keyword>
+	</keywords>
+	<directors>
+		<director> Jaume Collet-Serra</director>
+	</directors>
+	<composers>
+		<composer> Roque Baños</composer>
+	</composers>
+	<producers>
+		<producer> Stuart M. Besser</producer>
+		<producer> Jaume Collet-Serra</producer>
+		<producer> Michael Dreyer</producer>
+		<producer> Ron Halpern</producer>
+		<producer> Alex Heineman</producer>
+		<producer> Didier Lupfer</producer>
+		<producer> Lacey Darlene Paulson</producer>
+		<producer> Andrew Rona</producer>
+		<producer> Juan Sola</producer>
+	</producers>
+	<writers>
+		<writer> Byron Willinger</writer>
+		<writer> Philip de Blasi</writer>
+		<writer> Byron Willinger</writer>
+		<writer> Philip de Blasi</writer>
+		<writer> Ryan Engle</writer>
+	</writers>
+	<editors>
+		<editor> Nicolas De Toth</editor>
+	</editors>
+</doc>

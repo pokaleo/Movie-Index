@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<doc id="tt6538336">
+	<docid>tt6538336</docid>
+	<title>Downside Up</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2QxMDkxMzctODczMC00ZWE1LTgyZjAtM2VkNGM0ZDM3OTZhXkEyXkFqcGdeQXVyMTIyNDQxMTE@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">15</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>In a world where the whole population consists of people with Down syndrome a normal boy struggles to fit in.</plot>
+	<countries>
+		<country>Belgium</country>
+	</countries>
+	<languages>
+		<language>Dutch</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Milo Huyghebaert</actor>
+			<role>Erik (child)</role>
+		</credit>
+		<credit>
+			<actor>Nico Sturm</actor>
+			<role>Erik (adult)</role>
+		</credit>
+		<credit>
+			<actor>Tineke Van Haute</actor>
+			<role>Mother</role>
+		</credit>
+		<credit>
+			<actor>Peter Janssens</actor>
+			<role>Father</role>
+		</credit>
+		<credit>
+			<actor>Hélène De Vos</actor>
+			<role>Floor</role>
+		</credit>
+		<credit>
+			<actor>Paul Mertens</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Jan De Vroey</actor>
+			<role>Doctor</role>
+		</credit>
+		<credit>
+			<actor>Jelle Palmaerts</actor>
+			<role>Teacher</role>
+		</credit>
+		<credit>
+			<actor>Jason Van Laere</actor>
+			<role>Boxer</role>
+		</credit>
+		<credit>
+			<actor>Rik Van Raak</actor>
+			<role>Boxer</role>
+		</credit>
+		<credit>
+			<actor>Jonas Meerts</actor>
+			<role>Giant Boxer</role>
+		</credit>
+		<credit>
+			<actor>Dylan Slotboom</actor>
+			<role>Doctor on Boat</role>
+		</credit>
+		<credit>
+			<actor>Catherine Springuel</actor>
+			<role>Doctor on Boat</role>
+		</credit>
+		<credit>
+			<actor>Gitte Wens</actor>
+			<role>Cuddle Girl</role>
+		</credit>
+		<credit>
+			<actor>Dirk Raats</actor>
+			<role>Psychiatrist</role>
+		</credit>
+		<credit>
+			<actor>Gert Wellens</actor>
+			<role>Plastic Surgeon</role>
+		</credit>
+		<credit>
+			<actor>Bart Verbist</actor>
+			<role>Toilet Man</role>
+		</credit>
+		<credit>
+			<actor>Guy Dirken</actor>
+			<role>Shoe Man</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Belgium">December 15 2016</releasedate>
+		<releasedate country="Netherlands">June 10 2017</releasedate>
+		<releasedate country="Netherlands">April 13 2018</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Peter Ghesquière</director>
+	</directors>
+	<composers>
+		<composer> Hannes De Maeyer</composer>
+	</composers>
+	<producers>
+		<producer> Bo De Group</producer>
+		<producer> Frank Van Passel</producer>
+		<producer> Kobe Van Steenberghe</producer>
+		<producer> Hendrik Verthé</producer>
+	</producers>
+	<writers>
+		<writer> Nicolas Daenens</writer>
+		<writer> Jochen Decostere</writer>
+		<writer> Peter Ghesquière</writer>
+		<writer> Kobe Van Steenberghe</writer>
+	</writers>
+	<editors>
+		<editor> Jochen Decostere</editor>
+		<editor> Toon Mertens</editor>
+		<editor> Kobe Van Steenberghe</editor>
+	</editors>
+</doc>

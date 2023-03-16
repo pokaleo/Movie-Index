@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<doc id="tt6271042">
+	<docid>tt6271042</docid>
+	<title>McMafia</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTgzNzg0MjIzOF5BMl5BanBnXkFtZTgwNTE4ODc0NDM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Alex Godman has spent his life trying to escape the shadow of his family's past. But when a murder unearths their past, Alex is drawn into the criminal underworld where he must confront his values to protect those he loves.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>James Norton</actor>
+			<role>Alex Godman</role>
+		</credit>
+		<credit>
+			<actor>Merab Ninidze</actor>
+			<role>Vadim Kalyagin</role>
+		</credit>
+		<credit>
+			<actor>Kirill Pirogov</actor>
+			<role>Ilya Fedorov</role>
+		</credit>
+		<credit>
+			<actor>Igor Pokrajac</actor>
+			<role>Vadim's Bodyguard</role>
+		</credit>
+		<credit>
+			<actor>Juliet Rylance</actor>
+			<role>Rebecca Harper</role>
+		</credit>
+		<credit>
+			<actor>Oshri Cohen</actor>
+			<role>Joseph</role>
+		</credit>
+		<credit>
+			<actor>Faye Marsay</actor>
+			<role>Katya Godman</role>
+		</credit>
+		<credit>
+			<actor>Aleksey Serebryakov</actor>
+			<role>Dmitri Godman</role>
+		</credit>
+		<credit>
+			<actor>Mariya Shukshina</actor>
+			<role>Oksana Godman</role>
+		</credit>
+		<credit>
+			<actor>David Strathairn</actor>
+			<role>Semiyon Kleiman</role>
+		</credit>
+		<credit>
+			<actor>Sofya Lebedeva</actor>
+			<role>Lyudmilla Nikolayeva</role>
+		</credit>
+		<credit>
+			<actor>Yuval Scharf</actor>
+			<role>Tanya</role>
+		</credit>
+		<credit>
+			<actor>Clifford Samuel</actor>
+			<role>Femi</role>
+		</credit>
+		<credit>
+			<actor>Anna Levanova</actor>
+			<role>Natasha Kalyagina</role>
+		</credit>
+		<credit>
+			<actor>Evgeni Golan</actor>
+			<role>Marat</role>
+		</credit>
+		<credit>
+			<actor>Kemi-Bo Jacobs</actor>
+			<role>Karin</role>
+		</credit>
+		<credit>
+			<actor>Caio Blat</actor>
+			<role>Antonio Mendez</role>
+		</credit>
+		<credit>
+			<actor>Maria Mashkova</actor>
+			<role>Masha</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">January 1 2018</releasedate>
+		<releasedate country="United Kingdom">January 1 2018</releasedate>
+		<releasedate country="Poland">January 1 2018</releasedate>
+		<releasedate country="Turkey">January 1 2018</releasedate>
+		<releasedate country="Germany">January 2 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">13+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">13+</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="Mexico">13</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">15+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mafioso</keyword>
+		<keyword>russian expatriate</keyword>
+		<keyword>shady</keyword>
+		<keyword>mafia</keyword>
+	</keywords>
+	<directors>
+		<director> James Watkins</director>
+	</directors>
+	<composers>
+		<composer> Tom Hodge</composer>
+		<composer> Franz Kirmann</composer>
+	</composers>
+	<producers>
+		<producer> Hossein Amini</producer>
+		<producer> Andrew Boswell</producer>
+		<producer> Misha Glenny</producer>
+		<producer> Kate Glover</producer>
+		<producer> Ben Hall</producer>
+		<producer> Elizabeth Kilgarriff</producer>
+		<producer> Dixie Linder</producer>
+		<producer> Igor Nola</producer>
+		<producer> Matthew Read</producer>
+		<producer> Paul Ritchie</producer>
+		<producer> Pravesh Sahni</producer>
+		<producer> Robyn Slovo</producer>
+		<producer> Sunny Vohra</producer>
+		<producer> Nick Marston</producer>
+		<producer> James Watkins</producer>
+		<producer> Naomi Levari</producer>
+		<producer> Michael Kitaev</producer>
+		<producer> Justin Kramer</producer>
+		<producer> Martin Rakusen</producer>
+		<producer> Rakesh Singh</producer>
+		<producer> Andjelija Vlaisavljevic</producer>
+	</producers>
+	<writers>
+		<writer> Hossein Amini</writer>
+		<writer> Hossein Amini</writer>
+		<writer> Misha Glenny</writer>
+		<writer> James Watkins</writer>
+		<writer> James Watkins</writer>
+		<writer> Laurence Coriat</writer>
+		<writer> David Farr</writer>
+		<writer> Peter Harness</writer>
+	</writers>
+	<editors>
+		<editor> Stuart Gazzard</editor>
+		<editor> Jon Harris</editor>
+	</editors>
+</doc>
