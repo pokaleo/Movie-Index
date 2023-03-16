@@ -1,0 +1,981 @@
+<?xml version="1.0" ?>
+<doc id="tt1877830">
+	<docid>tt1877830</docid>
+	<title>The Batman</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">176</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Sonics-DDP</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Robert Pattinson</actor>
+			<role>Bruce Wayne</role>
+		</credit>
+		<credit>
+			<actor>Zoë Kravitz</actor>
+			<role>Selina Kyle</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Wright</actor>
+			<role>Lt. James Gordon</role>
+		</credit>
+		<credit>
+			<actor>Colin Farrell</actor>
+			<role>Oz</role>
+		</credit>
+		<credit>
+			<actor>Paul Dano</actor>
+			<role>The Riddler</role>
+		</credit>
+		<credit>
+			<actor>John Turturro</actor>
+			<role>Carmine Falcone</role>
+		</credit>
+		<credit>
+			<actor>Andy Serkis</actor>
+			<role>Alfred</role>
+		</credit>
+		<credit>
+			<actor>Peter Sarsgaard</actor>
+			<role>District Attorney Gil Colson</role>
+		</credit>
+		<credit>
+			<actor>Barry Keoghan</actor>
+			<role>Unseen Arkham Prisoner</role>
+		</credit>
+		<credit>
+			<actor>Jayme Lawson</actor>
+			<role>Bella Reál</role>
+		</credit>
+		<credit>
+			<actor>Gil Perez-Abraham</actor>
+			<role>Officer Martinez</role>
+		</credit>
+		<credit>
+			<actor>Peter McDonald</actor>
+			<role>Kenzie</role>
+		</credit>
+		<credit>
+			<actor>Con O'Neill</actor>
+			<role>Chief Mackenzie Bock</role>
+		</credit>
+		<credit>
+			<actor>Alex Ferns</actor>
+			<role>Commissioner Pete Savage</role>
+		</credit>
+		<credit>
+			<actor>Rupert Penry-Jones</actor>
+			<role>Mayor Don Mitchell, Jr.</role>
+		</credit>
+		<credit>
+			<actor>Kosha Engler</actor>
+			<role>Mrs. Mitchell</role>
+		</credit>
+		<credit>
+			<actor>Archie Barnes</actor>
+			<role>Mitchell's Son</role>
+		</credit>
+		<credit>
+			<actor>Janine Harouni</actor>
+			<role>Carla</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">March 1 2022</releasedate>
+		<releasedate country="United States">March 1 2022</releasedate>
+		<releasedate country="Armenia">March 2 2022</releasedate>
+		<releasedate country="Belgium">March 2 2022</releasedate>
+		<releasedate country="Belarus">March 2 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Belgium">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">R13+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">12+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>batman character</keyword>
+		<keyword>gotham city</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>riddle</keyword>
+		<keyword>masked superhero</keyword>
+		<keyword>superhero</keyword>
+		<keyword>bruce wayne character</keyword>
+		<keyword>catwoman character</keyword>
+		<keyword>penguin character</keyword>
+		<keyword>riddler character</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>corruption</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>alfred pennyworth character</keyword>
+		<keyword>gothic</keyword>
+		<keyword>batmobile</keyword>
+		<keyword>detective</keyword>
+		<keyword>masked vigilante</keyword>
+		<keyword>vigilante justice</keyword>
+		<keyword>gotham</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>james gordon character</keyword>
+		<keyword>crime fighter</keyword>
+		<keyword>violence</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>police</keyword>
+		<keyword>delayed release</keyword>
+		<keyword>hero</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>mayor</keyword>
+		<keyword>cat</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>renewal</keyword>
+		<keyword>orphan</keyword>
+		<keyword>cypher</keyword>
+		<keyword>greeting card</keyword>
+		<keyword>bat</keyword>
+		<keyword>bat in a cage</keyword>
+		<keyword>rat</keyword>
+		<keyword>rat in a cage</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>one against many</keyword>
+		<keyword>bat signal</keyword>
+		<keyword>fictional drug</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mayoral election</keyword>
+		<keyword>police commissioner</keyword>
+		<keyword>solving a riddle</keyword>
+		<keyword>ringing cell phone</keyword>
+		<keyword>ringing telephone</keyword>
+		<keyword>collar bomb</keyword>
+		<keyword>letter bomb</keyword>
+		<keyword>package bomb</keyword>
+		<keyword>car bomb</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>murder of father</keyword>
+		<keyword>murder of mother</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>informant</keyword>
+		<keyword>question mark</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>crime spree</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>two word title</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>carmine falcone character</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>reboot</keyword>
+		<keyword>dual identity</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>selina kyle character</keyword>
+		<keyword>flood</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>flooded city</keyword>
+		<keyword>arkham asylum</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>thumb drive</keyword>
+		<keyword>murder of a mayor</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>woman kisses a man</keyword>
+		<keyword>drug ring</keyword>
+		<keyword>discovering a dead body</keyword>
+		<keyword>death of parents</keyword>
+		<keyword>mental illness</keyword>
+		<keyword>online following</keyword>
+		<keyword>learning the truth</keyword>
+		<keyword>extremist group</keyword>
+		<keyword>funeral</keyword>
+		<keyword>church</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>voyeur</keyword>
+		<keyword>contact lens</keyword>
+		<keyword>revenge</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>seduction</keyword>
+		<keyword>police officer</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>woman wears a uniform</keyword>
+		<keyword>villain</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>face mask</keyword>
+		<keyword>masked man</keyword>
+		<keyword>costume</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>reboot of series</keyword>
+		<keyword>city</keyword>
+		<keyword>alter ego</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>password</keyword>
+		<keyword>explosion</keyword>
+		<keyword>mansion</keyword>
+		<keyword>murder</keyword>
+		<keyword>criminal investigation</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>police informant</keyword>
+		<keyword>necklace bomb</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>mentally ill man</keyword>
+		<keyword>accountant</keyword>
+		<keyword>corporation</keyword>
+		<keyword>orphanage</keyword>
+		<keyword>man rides a motorcycle</keyword>
+		<keyword>woman rides a motorcycle</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>usb drive</keyword>
+		<keyword>website</keyword>
+		<keyword>video chat</keyword>
+		<keyword>car chase</keyword>
+		<keyword>burglary</keyword>
+		<keyword>voice message</keyword>
+		<keyword>voice mail</keyword>
+		<keyword>politician</keyword>
+		<keyword>local politics</keyword>
+		<keyword>police station</keyword>
+		<keyword>district attorney</keyword>
+		<keyword>male district attorney</keyword>
+		<keyword>disguise</keyword>
+		<keyword>criminal</keyword>
+		<keyword>criminal conspiracy</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>strip club</keyword>
+		<keyword>stripper</keyword>
+		<keyword>bartender</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>newscaster</keyword>
+		<keyword>news report</keyword>
+		<keyword>watching news on tv</keyword>
+		<keyword>forensic photographer</keyword>
+		<keyword>forensics</keyword>
+		<keyword>gang</keyword>
+		<keyword>juvenile delinquent</keyword>
+		<keyword>woman wears black boots</keyword>
+		<keyword>twins</keyword>
+		<keyword>hiding in shadows</keyword>
+		<keyword>kiss</keyword>
+		<keyword>safecracking</keyword>
+		<keyword>safe hidden behind a painting</keyword>
+		<keyword>stealing money</keyword>
+		<keyword>corpse</keyword>
+		<keyword>female corpse</keyword>
+		<keyword>dead body</keyword>
+		<keyword>dead body in a car</keyword>
+		<keyword>loss of parents</keyword>
+		<keyword>murder of parents</keyword>
+		<keyword>hospital</keyword>
+		<keyword>hospital visit</keyword>
+		<keyword>mentally ill woman</keyword>
+		<keyword>forensic accountant</keyword>
+		<keyword>forensic accounting</keyword>
+		<keyword>online follower</keyword>
+		<keyword>corrupt police officer</keyword>
+		<keyword>corrupt policeman</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>corrupt district attorney</keyword>
+		<keyword>police department</keyword>
+		<keyword>driving at night</keyword>
+		<keyword>highway chase</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>shadow</keyword>
+		<keyword>rain</keyword>
+		<keyword>mayhem</keyword>
+		<keyword>crime fighting</keyword>
+		<keyword>burglar</keyword>
+		<keyword>crime lord</keyword>
+		<keyword>halloween</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>memorial</keyword>
+		<keyword>suspense</keyword>
+		<keyword>2020s</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>batcave</keyword>
+		<keyword>audio recording</keyword>
+		<keyword>water</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>social media</keyword>
+		<keyword>wayne manor</keyword>
+		<keyword>orchestral music score</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>explosive</keyword>
+		<keyword>bomb</keyword>
+		<keyword>voyeurism</keyword>
+		<keyword>strapped to a bomb</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>justice</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>darkness</keyword>
+		<keyword>manor house</keyword>
+		<keyword>secret camera</keyword>
+		<keyword>urban decay</keyword>
+		<keyword>social decay</keyword>
+		<keyword>following someone</keyword>
+		<keyword>diner</keyword>
+		<keyword>investigation</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>police chief</keyword>
+		<keyword>ninjutsu</keyword>
+		<keyword>police car</keyword>
+		<keyword>police detective</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>corrupt cop</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>flare</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hit with a hammer</keyword>
+		<keyword>martial artist</keyword>
+		<keyword>martial arts master</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>face paint</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>convenience store robbery</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>robbery</keyword>
+		<keyword>graffitti</keyword>
+		<keyword>el train</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>taser</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>wingsuit</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car accident</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>fast car</keyword>
+		<keyword>hammer</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>police shootout</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>russian</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>one man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic hero</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>dark heroine</keyword>
+		<keyword>tragic heroine</keyword>
+		<keyword>revelation</keyword>
+		<keyword>arrest</keyword>
+		<keyword>cover up</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>political corruption</keyword>
+		<keyword>corrupt official</keyword>
+		<keyword>security camera</keyword>
+		<keyword>security guard</keyword>
+		<keyword>mayoral candidate</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>election</keyword>
+		<keyword>convention center</keyword>
+		<keyword>duct tape over mouth</keyword>
+		<keyword>duct tape</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>sadism</keyword>
+		<keyword>class differences</keyword>
+		<keyword>evil man</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>evil</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>internet</keyword>
+		<keyword>apartment</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>protest</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>body bag</keyword>
+		<keyword>bag of money</keyword>
+		<keyword>money</keyword>
+		<keyword>tripwire</keyword>
+		<keyword>african american</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>elevator</keyword>
+		<keyword>abandoned building</keyword>
+		<keyword>warehouse</keyword>
+		<keyword>drug smuggling</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>pool cue</keyword>
+		<keyword>pool table</keyword>
+		<keyword>recluse</keyword>
+		<keyword>bouncer</keyword>
+		<keyword>henchman</keyword>
+		<keyword>thug</keyword>
+		<keyword>bridge</keyword>
+		<keyword>scar</keyword>
+		<keyword>obesity</keyword>
+		<keyword>italian american</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>mob boss</keyword>
+		<keyword>mafia boss</keyword>
+		<keyword>gangster</keyword>
+		<keyword>mobster</keyword>
+		<keyword>mafia</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>national guard</keyword>
+		<keyword>soldier</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>wig</keyword>
+		<keyword>female thief</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>cat burglar</keyword>
+		<keyword>safecracker</keyword>
+		<keyword>safe</keyword>
+		<keyword>passport</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>written by director</keyword>
+		<keyword>masked killer</keyword>
+		<keyword>metal detector</keyword>
+		<keyword>death</keyword>
+		<keyword>knife</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>ambush</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>race against time</keyword>
+		<keyword>survival</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>housekeeper</keyword>
+		<keyword>c4 explosives</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>power outage</keyword>
+		<keyword>graveyard</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>circular saw</keyword>
+		<keyword>machete</keyword>
+		<keyword>diary</keyword>
+		<keyword>journal</keyword>
+		<keyword>letter</keyword>
+		<keyword>bomb squad</keyword>
+		<keyword>swat team</keyword>
+		<keyword>cape</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>power</keyword>
+		<keyword>truck</keyword>
+		<keyword>super villain</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>politics</keyword>
+		<keyword>domestic terrorism</keyword>
+		<keyword>leadership</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>uzi</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>sawed off shotgun</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>ski mask</keyword>
+		<keyword>female criminal</keyword>
+		<keyword>robber</keyword>
+		<keyword>female robber</keyword>
+		<keyword>spray paint</keyword>
+		<keyword>destruction</keyword>
+		<keyword>secret</keyword>
+		<keyword>philanthropist</keyword>
+		<keyword>photograph</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>tombstone</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>little boy</keyword>
+		<keyword>card</keyword>
+		<keyword>reference to martha wayne</keyword>
+		<keyword>reference to thomas wayne</keyword>
+		<keyword>reference to zorro</keyword>
+		<keyword>insanity</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>severed thumb</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>factory</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>footprint</keyword>
+		<keyword>bloody footprint</keyword>
+		<keyword>epic</keyword>
+		<keyword>clue</keyword>
+		<keyword>deeply disturbed person</keyword>
+		<keyword>telephone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>insane asylum</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>roommate</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>waitress</keyword>
+		<keyword>nightclub owner</keyword>
+		<keyword>taxi</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>female politician</keyword>
+		<keyword>political candidate</keyword>
+		<keyword>election candidate</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>human monster</keyword>
+		<keyword>maniac</keyword>
+		<keyword>personal vendetta</keyword>
+		<keyword>obsession</keyword>
+		<keyword>abandoned train station</keyword>
+		<keyword>gadget</keyword>
+		<keyword>stalking</keyword>
+		<keyword>stalker</keyword>
+		<keyword>drug deal</keyword>
+		<keyword>body in a trunk</keyword>
+		<keyword>arena</keyword>
+		<keyword>bus</keyword>
+		<keyword>urban gothic</keyword>
+		<keyword>press conference</keyword>
+		<keyword>greed</keyword>
+		<keyword>maze</keyword>
+		<keyword>night</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>injection</keyword>
+		<keyword>horse</keyword>
+		<keyword>hope</keyword>
+		<keyword>psycho killer</keyword>
+		<keyword>joker character</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>latex catsuit</keyword>
+		<keyword>extremist</keyword>
+		<keyword>extremism</keyword>
+		<keyword>bombmaker</keyword>
+		<keyword>homemade explosive</keyword>
+		<keyword>undercover</keyword>
+		<keyword>doorman</keyword>
+		<keyword>bar</keyword>
+		<keyword>whip</keyword>
+		<keyword>stolen money</keyword>
+		<keyword>secret message</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>hidden message</keyword>
+		<keyword>notebook</keyword>
+		<keyword>loner</keyword>
+		<keyword>crime epic</keyword>
+		<keyword>pulp fiction</keyword>
+		<keyword>terror</keyword>
+		<keyword>broken nose</keyword>
+		<keyword>gang member</keyword>
+		<keyword>homeless person</keyword>
+		<keyword>drug addict</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>seclusion</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>manservant</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>prologue</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>lie</keyword>
+		<keyword>torture</keyword>
+		<keyword>hands tied</keyword>
+		<keyword>iceberg lounge</keyword>
+		<keyword>political assassination</keyword>
+		<keyword>political campaign</keyword>
+		<keyword>mayoral campaign</keyword>
+		<keyword>body armor</keyword>
+		<keyword>sea wall</keyword>
+		<keyword>internet video</keyword>
+		<keyword>police lieutenant</keyword>
+		<keyword>oswald cobblepot character</keyword>
+		<keyword>criminal gang</keyword>
+		<keyword>clown makeup</keyword>
+		<keyword>charitable foundation</keyword>
+		<keyword>death trap</keyword>
+		<keyword>drug lab</keyword>
+		<keyword>drug bust</keyword>
+		<keyword>asylum</keyword>
+		<keyword>asylum inmate</keyword>
+		<keyword>illegitimate daughter</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>carpet</keyword>
+		<keyword>coded message</keyword>
+		<keyword>skylight</keyword>
+		<keyword>fanatic</keyword>
+		<keyword>wayne tower</keyword>
+		<keyword>subway</keyword>
+		<keyword>evidence</keyword>
+		<keyword>map</keyword>
+		<keyword>master plan</keyword>
+		<keyword>view through rifle scope</keyword>
+		<keyword>driving the wrong way on a freeway</keyword>
+		<keyword>driving against traffic</keyword>
+		<keyword>criminal underworld</keyword>
+		<keyword>halloween costume</keyword>
+		<keyword>wall safe</keyword>
+		<keyword>instant messenger</keyword>
+		<keyword>martial law</keyword>
+		<keyword>tv news anchor</keyword>
+		<keyword>tv news</keyword>
+		<keyword>hidden camera</keyword>
+		<keyword>video footage</keyword>
+		<keyword>earpiece</keyword>
+		<keyword>facial recognition</keyword>
+		<keyword>missing person</keyword>
+		<keyword>woman undresses</keyword>
+		<keyword>fire escape</keyword>
+		<keyword>brutal murder</keyword>
+		<keyword>grapnel gun</keyword>
+		<keyword>brooding</keyword>
+		<keyword>corrupt politician</keyword>
+		<keyword>slush fund</keyword>
+		<keyword>government corruption</keyword>
+		<keyword>subway station</keyword>
+		<keyword>jumbotron</keyword>
+		<keyword>envelope</keyword>
+		<keyword>package</keyword>
+		<keyword>hospital bed</keyword>
+		<keyword>boys' choir</keyword>
+		<keyword>projector</keyword>
+		<keyword>encrypted thumb drive</keyword>
+		<keyword>dark secret</keyword>
+		<keyword>ulterior motive</keyword>
+		<keyword>disembodied voice</keyword>
+		<keyword>secret master villain</keyword>
+		<keyword>mad laughter</keyword>
+		<keyword>dark murderer</keyword>
+		<keyword>evil versus evil</keyword>
+		<keyword>bad guy kills bad guy</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>criminal organization</keyword>
+		<keyword>lurking in shadows</keyword>
+		<keyword>homicidal maniac</keyword>
+		<keyword>psychiatric hospital</keyword>
+		<keyword>begins with death</keyword>
+		<keyword>annihilation</keyword>
+		<keyword>mass destruction</keyword>
+		<keyword>social issues</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>gang violence</keyword>
+		<keyword>mysterious villain</keyword>
+		<keyword>insane man</keyword>
+		<keyword>evil laughter</keyword>
+		<keyword>mysterious death</keyword>
+		<keyword>evil organization</keyword>
+		<keyword>political murder</keyword>
+		<keyword>mystery individual</keyword>
+		<keyword>hitman</keyword>
+		<keyword>death threat</keyword>
+		<keyword>abuse of power</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>mysterious woman</keyword>
+		<keyword>anarchist</keyword>
+		<keyword>body count</keyword>
+		<keyword>mystery woman</keyword>
+		<keyword>memorial service</keyword>
+		<keyword>creepy man</keyword>
+		<keyword>menace</keyword>
+		<keyword>sadistic villain</keyword>
+		<keyword>cue stick</keyword>
+		<keyword>playing pool</keyword>
+		<keyword>duffel bag full of money</keyword>
+		<keyword>fake identification</keyword>
+		<keyword>video call</keyword>
+		<keyword>year 2021</keyword>
+		<keyword>catwalk</keyword>
+		<keyword>scratching someone's face</keyword>
+		<keyword>stool pigeon</keyword>
+		<keyword>coastal flooding</keyword>
+		<keyword>collar</keyword>
+		<keyword>cathedral</keyword>
+		<keyword>scheme</keyword>
+		<keyword>exposing corruption</keyword>
+		<keyword>balaclava</keyword>
+		<keyword>long fingernails</keyword>
+		<keyword>killing</keyword>
+		<keyword>final battle</keyword>
+		<keyword>mask</keyword>
+		<keyword>pixie haircut</keyword>
+		<keyword>knee high boots</keyword>
+		<keyword>secret revealed</keyword>
+		<keyword>criminally insane</keyword>
+		<keyword>psychosis</keyword>
+		<keyword>family history</keyword>
+		<keyword>murder of a reporter</keyword>
+		<keyword>avoiding scandal</keyword>
+		<keyword>leverage</keyword>
+		<keyword>rich family</keyword>
+		<keyword>family legacy</keyword>
+		<keyword>cufflinks</keyword>
+		<keyword>misguided</keyword>
+		<keyword>delusion</keyword>
+		<keyword>gcpd</keyword>
+		<keyword>police force</keyword>
+		<keyword>corrupt police detective</keyword>
+		<keyword>string of murders</keyword>
+		<keyword>assassination</keyword>
+		<keyword>subway tunnel</keyword>
+		<keyword>batarang</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>goth</keyword>
+		<keyword>construction site</keyword>
+		<keyword>extreme close up</keyword>
+		<keyword>secret room</keyword>
+		<keyword>solving a puzzle</keyword>
+		<keyword>writing on a wall</keyword>
+		<keyword>catastrophe</keyword>
+		<keyword>systemic injustice</keyword>
+		<keyword>systemic corruption</keyword>
+		<keyword>kingpin</keyword>
+		<keyword>violent man</keyword>
+		<keyword>crooked businessman</keyword>
+		<keyword>egotist</keyword>
+		<keyword>money laundering</keyword>
+		<keyword>election debate</keyword>
+		<keyword>political debate</keyword>
+		<keyword>election campaign</keyword>
+		<keyword>sadistic murderer</keyword>
+		<keyword>sadistic psychopath</keyword>
+		<keyword>sadistic serial killer</keyword>
+		<keyword>sadistic violence</keyword>
+		<keyword>blurred nudity</keyword>
+		<keyword>disaster</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>hand over mouth</keyword>
+		<keyword>virtual set</keyword>
+		<keyword>thomas wayne character</keyword>
+		<keyword>flooding</keyword>
+		<keyword>writer director producer</keyword>
+		<keyword>martha wayne character</keyword>
+		<keyword>masked crime fighter</keyword>
+		<keyword>red hair</keyword>
+		<keyword>wealth</keyword>
+		<keyword>caped superhero</keyword>
+		<keyword>manor</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>characters killed one by one</keyword>
+		<keyword>televised political debate</keyword>
+		<keyword>truck crash</keyword>
+		<keyword>car jump</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>outnumbered</keyword>
+		<keyword>double barreled shotgun</keyword>
+		<keyword>texting</keyword>
+		<keyword>mail bomb</keyword>
+		<keyword>stray cat</keyword>
+		<keyword>voice over inner thoughts</keyword>
+		<keyword>newscast</keyword>
+		<keyword>unsolved murder</keyword>
+		<keyword>message from a killer</keyword>
+		<keyword>crime scene photograph</keyword>
+		<keyword>usb port</keyword>
+		<keyword>firefight</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>police commissioner assassinated</keyword>
+		<keyword>injection with arsenic</keyword>
+		<keyword>cappucino</keyword>
+		<keyword>cipher</keyword>
+		<keyword>poisoned with arsenic</keyword>
+		<keyword>camera in contact lens</keyword>
+		<keyword>facial recognition software</keyword>
+		<keyword>hanging by one arm</keyword>
+		<keyword>punched in the face over and over</keyword>
+		<keyword>high on drugs</keyword>
+		<keyword>pole dancer</keyword>
+		<keyword>cityscape</keyword>
+		<keyword>signet cufflink</keyword>
+		<keyword>philosophy</keyword>
+		<keyword>mounted police</keyword>
+		<keyword>corvette stingray</keyword>
+		<keyword>mob of photographers</keyword>
+		<keyword>flash flood</keyword>
+		<keyword>car crashes through a window</keyword>
+		<keyword>explosive collar</keyword>
+		<keyword>wheeled robot</keyword>
+		<keyword>duct tape gag</keyword>
+		<keyword>head blown off</keyword>
+		<keyword>riding a motorcycle</keyword>
+		<keyword>car chase in the rain</keyword>
+		<keyword>tombstone inscription</keyword>
+		<keyword>lincoln motor company</keyword>
+		<keyword>pontiac</keyword>
+		<keyword>assassination of a police commissioner</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>bare chested man</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>cameo appearance</keyword>
+		<keyword>daughter tries to murder her father</keyword>
+		<keyword>father abandons his daughter</keyword>
+		<keyword>incriminating photograph</keyword>
+		<keyword>irish actor plays an american character</keyword>
+		<keyword>overweight man</keyword>
+		<keyword>protecting a passport</keyword>
+		<keyword>surveillance photograph</keyword>
+		<keyword>symbolism</keyword>
+		<keyword>theft</keyword>
+		<keyword>being followed</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>shotgun shell</keyword>
+		<keyword>action hero</keyword>
+		<keyword>reporter</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>butler</keyword>
+		<keyword>death of father</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>troubled production</keyword>
+	</keywords>
+	<directors>
+		<director> Matt Reeves</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Tina Anderson</producer>
+		<producer> Dylan Clark</producer>
+		<producer> Simon Emanuel</producer>
+		<producer> Walter Hamada</producer>
+		<producer> Toby Hefferman</producer>
+		<producer> Matt Reeves</producer>
+		<producer> Adam Sorin</producer>
+		<producer> Michael E. Uslan</producer>
+		<producer> Chantal Nong Vo</producer>
+	</producers>
+	<writers>
+		<writer> Matt Reeves</writer>
+		<writer> Peter Craig</writer>
+		<writer> Bob Kane</writer>
+		<writer> Bill Finger</writer>
+	</writers>
+	<editors>
+		<editor> William Hoy</editor>
+		<editor> Tyler Nelson</editor>
+	</editors>
+</doc>

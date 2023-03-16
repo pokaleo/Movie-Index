@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc id="tt14846026">
+	<docid>tt14846026</docid>
+	<title>Sisu</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWYwMzNkOWEtNjA3YS00YjE5LTlkMjYtMmRjMjExNjA1NDM0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">91</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>War</genre>
+	</genres>
+	<plot>When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, Nazi soldiers led by a brutal SS officer battle him.</plot>
+	<countries>
+		<country>Finland</country>
+	</countries>
+	<languages>
+		<language>Finnish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jorma Tommila</actor>
+			<role>Aatami Korpi</role>
+		</credit>
+		<credit>
+			<actor>Aksel Hennie</actor>
+			<role>SS Obersturmführer Bruno Helldorf</role>
+		</credit>
+		<credit>
+			<actor>Jack Doolan</actor>
+			<role>Wolf</role>
+		</credit>
+		<credit>
+			<actor>Mimosa Willamo</actor>
+			<role>Aino</role>
+		</credit>
+		<credit>
+			<actor>Onni Tommila</actor>
+			<role>Schütze</role>
+		</credit>
+		<credit>
+			<actor>Arttu Kapulainen</actor>
+			<role>Rower</role>
+		</credit>
+		<credit>
+			<actor>Tatu Sinisalo</actor>
+			<role>Nazi Death Squad Leader</role>
+		</credit>
+		<credit>
+			<actor>Vincent Willestrand</actor>
+			<role>SS Soldier 4</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 9 2022</releasedate>
+		<releasedate country="Spain">October 12 2022</releasedate>
+		<releasedate country="Finland">January 27 2023</releasedate>
+		<releasedate country="United Kingdom">March 9 2023</releasedate>
+		<releasedate country="Sweden">April 14 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>soldier</keyword>
+		<keyword>1940s</keyword>
+		<keyword>year 1944</keyword>
+		<keyword>timeframe 1940s</keyword>
+		<keyword>world war two</keyword>
+		<keyword>world war</keyword>
+		<keyword>gold</keyword>
+		<keyword>military</keyword>
+		<keyword>battle</keyword>
+		<keyword>lapland war</keyword>
+		<keyword>gun</keyword>
+		<keyword>handgun</keyword>
+		<keyword>knife</keyword>
+		<keyword>pickaxe</keyword>
+		<keyword>bomb</keyword>
+		<keyword>weapon</keyword>
+		<keyword>blood</keyword>
+		<keyword>violence</keyword>
+		<keyword>tank</keyword>
+		<keyword>fight</keyword>
+		<keyword>epic action</keyword>
+	</keywords>
+	<directors>
+		<director> Jalmari Helander</director>
+	</directors>
+	<composers>
+		<composer> Juri Seppä</composer>
+		<composer> Tuomas Wäinölä</composer>
+	</composers>
+	<producers>
+		<producer> Mike Goodridge</producer>
+		<producer> Petri Jokiranta</producer>
+		<producer> Gregory Ouanhon</producer>
+		<producer> Sirkka Rautiainen</producer>
+		<producer> Antonio Salas</producer>
+	</producers>
+	<writers>
+		<writer> Jalmari Helander</writer>
+	</writers>
+	<editors>
+		<editor> Juho Virolainen</editor>
+	</editors>
+</doc>

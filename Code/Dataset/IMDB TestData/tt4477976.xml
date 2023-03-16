@@ -1,0 +1,338 @@
+<?xml version="1.0" ?>
+<doc id="tt4477976">
+	<docid>tt4477976</docid>
+	<title>Superstore</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjUxOGY2YTItNjQ3YS00OTQxLTlhNTYtYWViZGRjZTlhZmY3XkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">22</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A look at the lives of employees at a big box store.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ben Feldman</actor>
+			<role>Jonah</role>
+		</credit>
+		<credit>
+			<actor>Lauren Ash</actor>
+			<role>Dina</role>
+		</credit>
+		<credit>
+			<actor>Colton Dunn</actor>
+			<role>Garrett</role>
+		</credit>
+		<credit>
+			<actor>Nico Santos</actor>
+			<role>Mateo</role>
+		</credit>
+		<credit>
+			<actor>Mark McKinney</actor>
+			<role>Glenn</role>
+		</credit>
+		<credit>
+			<actor>Nichole Sakura</actor>
+			<role>Cheyenne</role>
+		</credit>
+		<credit>
+			<actor>Danny Gura</actor>
+			<role>Elias</role>
+		</credit>
+		<credit>
+			<actor>Jon Miyahara</actor>
+			<role>Brett</role>
+		</credit>
+		<credit>
+			<actor>America Ferrera</actor>
+			<role>Amy</role>
+		</credit>
+		<credit>
+			<actor>Kaliko Kauahi</actor>
+			<role>Sandra</role>
+		</credit>
+		<credit>
+			<actor>Mariana Tosca</actor>
+			<role>Heather</role>
+		</credit>
+		<credit>
+			<actor>Selisha Shertick</actor>
+			<role>Sarah</role>
+		</credit>
+		<credit>
+			<actor>Kelly Schumann</actor>
+			<role>Justine</role>
+		</credit>
+		<credit>
+			<actor>Jon Barinholtz</actor>
+			<role>Marcus</role>
+		</credit>
+		<credit>
+			<actor>Irene White</actor>
+			<role>Carol</role>
+		</credit>
+		<credit>
+			<actor>Amir M. Korangy</actor>
+			<role>Sayid</role>
+		</credit>
+		<credit>
+			<actor>Linda Porter</actor>
+			<role>Myrtle</role>
+		</credit>
+		<credit>
+			<actor>Michael Bunin</actor>
+			<role>Jeff</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">November 30 2015</releasedate>
+		<releasedate country="Canada">November 30 2015</releasedate>
+		<releasedate country="Turkey">November 30 2015</releasedate>
+		<releasedate country="United States">November 30 2015</releasedate>
+		<releasedate country="Mexico">January 12 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Mexico">16</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>store</keyword>
+		<keyword>employee</keyword>
+		<keyword>workplace</keyword>
+		<keyword>sitcom</keyword>
+		<keyword>workplace comedy</keyword>
+		<keyword>superstore</keyword>
+		<keyword>workplace romance</keyword>
+		<keyword>main character romance</keyword>
+		<keyword>love interest</keyword>
+		<keyword>boss employee relationship</keyword>
+		<keyword>assistant manager</keyword>
+		<keyword>christian man</keyword>
+		<keyword>store clerk</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>friendship</keyword>
+		<keyword>competitiveness</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>2010s</keyword>
+		<keyword>filipino</keyword>
+		<keyword>supervisor</keyword>
+		<keyword>store manager</keyword>
+		<keyword>gay</keyword>
+		<keyword>lgbt</keyword>
+		<keyword>one word title</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>glasses</keyword>
+		<keyword>manager</keyword>
+		<keyword>missouri</keyword>
+		<keyword>st. louis missouri</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>sarcasm</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>man uses a wheelchair</keyword>
+	</keywords>
+	<directors>
+		<director> Victor Nelli Jr.</director>
+		<director> Matt Sohn</director>
+		<director> Ruben Fleischer</director>
+		<director> Betsy Thomas</director>
+		<director> Tristram Shapeero</director>
+		<director> Geeta Vasant Patel</director>
+		<director> Todd Biermann</director>
+		<director> America Ferrera</director>
+		<director> Ken Whittingham</director>
+		<director> Ryan Case</director>
+		<director> Jay Hunter</director>
+		<director> Rebecca Asher</director>
+		<director> Jeffrey Blitz</director>
+		<director> Linda Mendoza</director>
+		<director> Alex Reid</director>
+		<director> Michael Spiller</director>
+		<director> Ben Feldman</director>
+		<director> Jay Karas</director>
+		<director> Jackie Clarke</director>
+		<director> Daniella Eisman</director>
+		<director> Ross Novie</director>
+		<director> James Renfroe</director>
+		<director> Heather Jack</director>
+		<director> Michael Patrick Jann</director>
+		<director> Andy Ackerman</director>
+		<director> Christine Gernon</director>
+		<director> Alex Hardcastle</director>
+		<director> Beth McCarthy-Miller</director>
+		<director> Michael McDonald</director>
+		<director> Alisa Statman</director>
+		<director> Jay Chandrasekhar</director>
+		<director> Bill Purple</director>
+		<director> Michael Weaver</director>
+		<director> Jaffar Mahmood</director>
+		<director> Keith Powell</director>
+		<director> Phil Traill</director>
+		<director> Catalina Aguilar Mastretta</director>
+		<director> Richie Keen</director>
+		<director> Mark McKinney</director>
+		<director> Chioke Nassor</director>
+		<director> Amy York Rubin</director>
+		<director> Robert Cohen</director>
+		<director> Kris Lefcoe</director>
+		<director> Justin Spitzer</director>
+		<director> Kabir Akhtar</director>
+		<director> Kim O. Nguyen</director>
+		<director> Charles Stone III</director>
+	</directors>
+	<composers>
+		<composer> Mateo Messina</composer>
+	</composers>
+	<producers>
+		<producer> Josh Greene</producer>
+		<producer> Ruben Fleischer</producer>
+		<producer> Jonathan Green</producer>
+		<producer> Henry J. Lange Jr.</producer>
+		<producer> Gabe Miller</producer>
+		<producer> Justin Spitzer</producer>
+		<producer> David Bernad</producer>
+		<producer> Jackie Clarke</producer>
+		<producer> America Ferrera</producer>
+		<producer> Bridget Kyle</producer>
+		<producer> Vicky Luu</producer>
+		<producer> Owen Ellickson</producer>
+		<producer> Justin Shanes</producer>
+		<producer> James Renfroe</producer>
+		<producer> Josh Malmuth</producer>
+		<producer> Eric Ledgin</producer>
+		<producer> Richie Edelson</producer>
+		<producer> Ben Feldman</producer>
+		<producer> Rene Gube</producer>
+		<producer> Laura McCreary</producer>
+		<producer> Megan Scully</producer>
+		<producer> Sierra Teller Ornelas</producer>
+		<producer> Aaron Lee</producer>
+		<producer> Vanessa Ramos</producer>
+		<producer> Ben Dougan</producer>
+		<producer> Brian Gatewood</producer>
+		<producer> Matt Lawton</producer>
+		<producer> Alessandro Tanaka</producer>
+		<producer> Dayo Adesokan</producer>
+		<producer> John Kazlauskas</producer>
+		<producer> Victor Nelli Jr.</producer>
+		<producer> Lisa Owad</producer>
+		<producer> Karey Dornetto</producer>
+		<producer> Jake Aust</producer>
+		<producer> Moses Port</producer>
+		<producer> Matt Hubbard</producer>
+		<producer> John Blickstead</producer>
+		<producer> Trey Kollmer</producer>
+		<producer> Robert Boles</producer>
+		<producer> Patrick Kienlen</producer>
+		<producer> Sean Veder</producer>
+		<producer> Lon Zimmet</producer>
+	</producers>
+	<writers>
+		<writer> Justin Spitzer</writer>
+		<writer> Justin Spitzer</writer>
+		<writer> Justin Spitzer</writer>
+		<writer> John Kazlauskas</writer>
+		<writer> John Kazlauskas</writer>
+		<writer> John Kazlauskas</writer>
+		<writer> John Kazlauskas</writer>
+		<writer> John Kazlauskas</writer>
+		<writer> Hailey Chavez</writer>
+		<writer> Hailey Chavez</writer>
+		<writer> Hailey Chavez</writer>
+		<writer> Justin Shanes</writer>
+		<writer> Justin Shanes</writer>
+		<writer> Justin Shanes</writer>
+		<writer> Bridget Kyle</writer>
+		<writer> Bridget Kyle</writer>
+		<writer> Bridget Kyle</writer>
+		<writer> Vicky Luu</writer>
+		<writer> Vicky Luu</writer>
+		<writer> Vicky Luu</writer>
+		<writer> Dayo Adesokan</writer>
+		<writer> Dayo Adesokan</writer>
+		<writer> Vanessa Ramos</writer>
+		<writer> Vanessa Ramos</writer>
+		<writer> Vanessa Ramos</writer>
+		<writer> L.E. Correia</writer>
+		<writer> L.E. Correia</writer>
+		<writer> L.E. Correia</writer>
+		<writer> Brianna Brown</writer>
+		<writer> Jeny Batten</writer>
+		<writer> M. Dickson</writer>
+		<writer> Justin Hillian</writer>
+		<writer> Jack Kukoda</writer>
+		<writer> Jack Kukoda</writer>
+		<writer> Jonathan Green</writer>
+		<writer> Jonathan Green</writer>
+		<writer> Gabe Miller</writer>
+		<writer> Gabe Miller</writer>
+		<writer> Owen Ellickson</writer>
+		<writer> Jackie Clarke</writer>
+		<writer> Chiara Atik</writer>
+		<writer> Josh Malmuth</writer>
+		<writer> Eric Ledgin</writer>
+		<writer> Sierra Teller Ornelas</writer>
+		<writer> Matt Hubbard</writer>
+		<writer> Rene Gube</writer>
+		<writer> Laura McCreary</writer>
+		<writer> Jen Vierck</writer>
+		<writer> Lon Zimmet</writer>
+		<writer> Ben Dougan</writer>
+		<writer> Brian Gatewood</writer>
+		<writer> Brian Gatewood</writer>
+		<writer> Matt Lawton</writer>
+		<writer> Aaron Lee</writer>
+		<writer> Alessandro Tanaka</writer>
+		<writer> Alessandro Tanaka</writer>
+		<writer> Colton Dunn</writer>
+		<writer> Karey Dornetto</writer>
+		<writer> Joe Barrasas</writer>
+		<writer> Lauren Ash</writer>
+		<writer> Sean Lee</writer>
+	</writers>
+	<editors>
+		<editor> James Renfroe</editor>
+		<editor> Richie Edelson</editor>
+		<editor> Christian Kinnard</editor>
+		<editor> Steven Lang</editor>
+		<editor> Missy Hernandez</editor>
+		<editor> Dennis R. McElroy</editor>
+		<editor> Mark Sadlek</editor>
+	</editors>
+</doc>

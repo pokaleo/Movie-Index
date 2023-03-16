@@ -1,0 +1,423 @@
+<?xml version="1.0" ?>
+<doc id="tt1844624">
+	<docid>tt1844624</docid>
+	<title>American Horror Story</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWNkYmFlZTMtMzMwNy00NmY1LWI0NjEtZmJhM2Y1MjEzZmNhXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>An anthology series centering on different characters and locations, including a house with a murderous past, an insane asylum, a witch coven, a freak show circus, a haunted hotel, a possessed farmhouse, a cult, the apocalypse, a slasher summer camp, a bleak beach town and desert valley, and NYC.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Lady Gaga</actor>
+			<role>The Countess</role>
+		</credit>
+		<credit>
+			<actor>Kathy Bates</actor>
+			<role>Madame Delphine LaLaurie</role>
+		</credit>
+		<credit>
+			<actor>Angela Bassett</actor>
+			<role>Desiree Dupree</role>
+		</credit>
+		<credit>
+			<actor>Sarah Paulson</actor>
+			<role>Lana Winters</role>
+		</credit>
+		<credit>
+			<actor>Evan Peters</actor>
+			<role>James March</role>
+		</credit>
+		<credit>
+			<actor>Denis O'Hare</actor>
+			<role>Spalding</role>
+		</credit>
+		<credit>
+			<actor>Lily Rabe</actor>
+			<role>Misty Day</role>
+		</credit>
+		<credit>
+			<actor>Frances Conroy</actor>
+			<role>Myrtle Snow</role>
+		</credit>
+		<credit>
+			<actor>Jessica Lange</actor>
+			<role>Constance Langdon</role>
+		</credit>
+		<credit>
+			<actor>Billie Lourd</actor>
+			<role>Winter Anderson</role>
+		</credit>
+		<credit>
+			<actor>Emma Roberts</actor>
+			<role>Madison Montgomery</role>
+		</credit>
+		<credit>
+			<actor>Leslie Grossman</actor>
+			<role>Barbara Read</role>
+		</credit>
+		<credit>
+			<actor>Cheyenne Jackson</actor>
+			<role>Will Drake</role>
+		</credit>
+		<credit>
+			<actor>Adina Porter</actor>
+			<role>Beverly Hope</role>
+		</credit>
+		<credit>
+			<actor>Taissa Farmiga</actor>
+			<role>Zoe Benson</role>
+		</credit>
+		<credit>
+			<actor>Finn Wittrock</actor>
+			<role>Dandy Mott</role>
+		</credit>
+		<credit>
+			<actor>Zachary Quinto</actor>
+			<role>Dr. Oliver Thredson</role>
+		</credit>
+		<credit>
+			<actor>Wes Bentley</actor>
+			<role>John Lowe</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Indonesia">October 5 2011</releasedate>
+		<releasedate country="India">October 5 2011</releasedate>
+		<releasedate country="Thailand">October 5 2011</releasedate>
+		<releasedate country="United States">October 5 2011</releasedate>
+		<releasedate country="Canada">October 24 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Colombia">18</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Finland">K-18</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">20+</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">18</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="New Zealand">R18</certificate>
+		<certificate country="Norway">18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Thailand">20</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>anthology</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>homophobia</keyword>
+		<keyword>coven</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>hotel</keyword>
+		<keyword>insane asylum</keyword>
+		<keyword>roanoke</keyword>
+		<keyword>witch</keyword>
+		<keyword>ghost</keyword>
+		<keyword>haunted house</keyword>
+		<keyword>seasonal anthology series</keyword>
+		<keyword>murder</keyword>
+		<keyword>vampire</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>death</keyword>
+		<keyword>carnival</keyword>
+		<keyword>freakshow</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>menage a trois</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>camp</keyword>
+		<keyword>campy</keyword>
+		<keyword>grindhouse series</keyword>
+		<keyword>returning actor with different character</keyword>
+		<keyword>three word title</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>cult</keyword>
+		<keyword>asylum</keyword>
+		<keyword>alien</keyword>
+		<keyword>nymphomaniac</keyword>
+		<keyword>racist</keyword>
+		<keyword>mass shooting</keyword>
+		<keyword>coven of witches</keyword>
+		<keyword>gay</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>racism</keyword>
+		<keyword>torture</keyword>
+		<keyword>found footage</keyword>
+		<keyword>freak</keyword>
+		<keyword>disabled</keyword>
+		<keyword>circus</keyword>
+		<keyword>filmmaking</keyword>
+		<keyword>freak show</keyword>
+		<keyword>writer</keyword>
+		<keyword>screenwriter</keyword>
+		<keyword>transgender</keyword>
+		<keyword>lgbt</keyword>
+		<keyword>lgbtq</keyword>
+		<keyword>filmmaker</keyword>
+		<keyword>mockumentary</keyword>
+		<keyword>actor</keyword>
+		<keyword>acting</keyword>
+		<keyword>clown</keyword>
+		<keyword>slasher</keyword>
+		<keyword>politics</keyword>
+		<keyword>post apocalypse</keyword>
+		<keyword>antichrist</keyword>
+		<keyword>1984</keyword>
+		<keyword>summer camp</keyword>
+		<keyword>supernatural drama</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>supernatural thriller</keyword>
+		<keyword>1980s</keyword>
+		<keyword>contemporary</keyword>
+		<keyword>lesbian</keyword>
+		<keyword>non horror host</keyword>
+		<keyword>usa non horror host</keyword>
+		<keyword>slasher horror</keyword>
+		<keyword>psychological horror</keyword>
+		<keyword>splatter horror</keyword>
+		<keyword>hollywood california</keyword>
+		<keyword>north carolina</keyword>
+		<keyword>female vampire</keyword>
+		<keyword>blood</keyword>
+		<keyword>lynchian</keyword>
+		<keyword>year 1952</keyword>
+		<keyword>florida</keyword>
+		<keyword>year 2013</keyword>
+		<keyword>year 1964</keyword>
+		<keyword>year 2011</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>new orleans louisiana</keyword>
+		<keyword>massachusetts</keyword>
+		<keyword>los angeles california</keyword>
+	</keywords>
+	<directors>
+		<director> Bradley Buecker</director>
+		<director> Alfonso Gomez-Rejon</director>
+		<director> Michael Uppendahl</director>
+		<director> Loni Peristere</director>
+		<director> John J. Gray</director>
+		<director> Jennifer Lynch</director>
+		<director> Gwyneth Horder-Payton</director>
+		<director> Michael Goi</director>
+		<director> Ryan Murphy</director>
+		<director> Michael Lehmann</director>
+		<director> David Semel</director>
+		<director> Howard Deutch</director>
+		<director> Jeremy Podeswa</director>
+		<director> Michael Rymer</director>
+		<director> Angela Bassett</director>
+		<director> Max Winkler</director>
+		<director> Axelle Carolyn</director>
+		<director> Paris Barclay</director>
+		<director> Miguel Arteta</director>
+		<director> Tim Hunter</director>
+		<director> John Scott</director>
+		<director> Craig Zisk</director>
+		<director> Anthony Hemingway</director>
+		<director> Nelson Cragg</director>
+		<director> Marita Grabiak</director>
+		<director> Elodie Keene</director>
+		<director> Alexis Ostrander</director>
+		<director> Barbara Brown</director>
+		<director> Rachel Goldberg</director>
+		<director> Liza Johnson</director>
+		<director> Maggie Kiley</director>
+		<director> Jennifer Arnold</director>
+		<director> Sheree Folkson</director>
+		<director> Sarah Paulson</director>
+		<director> Liz Friedlander</director>
+		<director> Mary Wigmore</director>
+		<director> Laura Belsey</director>
+		<director> Tessa Blake</director>
+		<director> Our Lady J</director>
+	</directors>
+	<composers>
+		<composer> Mac Quayle</composer>
+		<composer> James S. Levine</composer>
+	</composers>
+	<producers>
+		<producer> Brad Falchuk</producer>
+		<producer> Ryan Murphy</producer>
+		<producer> Alexis Martin Woodall</producer>
+		<producer> Bradley Buecker</producer>
+		<producer> Tim Minear</producer>
+		<producer> James Wong</producer>
+		<producer> Todd Nenninger</producer>
+		<producer> Jennifer Salt</producer>
+		<producer> John J. Gray</producer>
+		<producer> Sara Stelwagen</producer>
+		<producer> Dante Di Loreto</producer>
+		<producer> Jessica Sharzer</producer>
+		<producer> Lou Eyrich</producer>
+		<producer> Eryn Krueger Mekash</producer>
+		<producer> Robert M. Williams Jr.</producer>
+		<producer> Tanase Popa</producer>
+		<producer> Ned Martel</producer>
+		<producer> Crystal Liu</producer>
+		<producer> Adam Penn</producer>
+		<producer> Manny Coto</producer>
+		<producer> Chip Vucelich</producer>
+		<producer> James E. Williams</producer>
+		<producer> Crystal Whelan</producer>
+		<producer> Karen Romero</producer>
+		<producer> Mark Douglas</producer>
+		<producer> Alfonso Gomez-Rejon</producer>
+		<producer> Joe Incaprera</producer>
+		<producer> Douglas Petrie</producer>
+		<producer> Todd Brown</producer>
+		<producer> Akela Cooper</producer>
+		<producer> Eric Kovtun</producer>
+		<producer> Julie Herrin</producer>
+		<producer> Jason King</producer>
+		<producer> Sarah Paulson</producer>
+		<producer> Charlie Carver</producer>
+		<producer> Genevieve Fontaine</producer>
+		<producer> Kip Myers</producer>
+		<producer> Our Lady J</producer>
+		<producer> Michael Cedar</producer>
+		<producer> Jay Beattie</producer>
+		<producer> Dan Dworkin</producer>
+		<producer> Joshua Green</producer>
+		<producer> Todd Kubrak</producer>
+		<producer> Evan Peters</producer>
+		<producer> Matt Woodall</producer>
+		<producer> Melissa Wylie</producer>
+		<producer> Kristen Reidel</producer>
+		<producer> Reilly Smith</producer>
+		<producer> Patrick McKee</producer>
+	</producers>
+	<writers>
+		<writer> Brad Falchuk</writer>
+		<writer> Brad Falchuk</writer>
+		<writer> Ryan Murphy</writer>
+		<writer> Ryan Murphy</writer>
+		<writer> John J. Gray</writer>
+		<writer> John J. Gray</writer>
+		<writer> John J. Gray</writer>
+		<writer> John J. Gray</writer>
+		<writer> John J. Gray</writer>
+		<writer> Crystal Liu</writer>
+		<writer> Crystal Liu</writer>
+		<writer> Crystal Liu</writer>
+		<writer> Crystal Liu</writer>
+		<writer> Todd Kubrak</writer>
+		<writer> Todd Kubrak</writer>
+		<writer> Todd Kubrak</writer>
+		<writer> Todd Kubrak</writer>
+		<writer> Joshua Green</writer>
+		<writer> Joshua Green</writer>
+		<writer> Joshua Green</writer>
+		<writer> Joshua Green</writer>
+		<writer> Joshua Green</writer>
+		<writer> Asha Michelle Wilson</writer>
+		<writer> Asha Michelle Wilson</writer>
+		<writer> Asha Michelle Wilson</writer>
+		<writer> Tim Minear</writer>
+		<writer> James Wong</writer>
+		<writer> Manny Coto</writer>
+		<writer> Jennifer Salt</writer>
+		<writer> Jessica Sharzer</writer>
+		<writer> Andrew J. Paulsen</writer>
+		<writer> Rachel Rush</writer>
+		<writer> Ned Martel</writer>
+		<writer> Our Lady J</writer>
+		<writer> Kristen Reidel</writer>
+		<writer> Charlie Carver</writer>
+		<writer> Adam Penn</writer>
+		<writer> Douglas Petrie</writer>
+		<writer> Reilly Smith</writer>
+		<writer> Akela Cooper</writer>
+		<writer> Jay Beattie</writer>
+		<writer> Dan Dworkin</writer>
+	</writers>
+	<editors>
+		<editor> Fabienne Bouville</editor>
+		<editor> Adam Penn</editor>
+		<editor> Ken Ramos</editor>
+		<editor> Regis Kimble</editor>
+		<editor> Danielle Wang</editor>
+		<editor> Stewart Schill</editor>
+		<editor> Justin Krohn</editor>
+		<editor> Bradley Buecker</editor>
+		<editor> Adriaan van Zyl</editor>
+		<editor> Sean Aylward</editor>
+		<editor> Jared Siess</editor>
+		<editor> Travis Weaver</editor>
+		<editor> Lisa Trulli</editor>
+		<editor> Angela Jackson</editor>
+		<editor> Chris A. Peterson</editor>
+		<editor> Tom Kipley</editor>
+		<editor> Julia Franklin</editor>
+		<editor> Thomas Mitchell</editor>
+		<editor> Robert Komatsu</editor>
+		<editor> Franzis Muller</editor>
+		<editor> Erick Fefferman</editor>
+		<editor> Bradinn French</editor>
+		<editor> Micky Blythe</editor>
+		<editor> Kaja Fehr</editor>
+		<editor> Joe Leonard</editor>
+		<editor> John Petaja</editor>
+		<editor> Lizzy Calhoun</editor>
+		<editor> Shelly Westerman</editor>
+		<editor> Peggy Tachdjian</editor>
+		<editor> Yaniv Dabach</editor>
+	</editors>
+</doc>

@@ -1,0 +1,781 @@
+<?xml version="1.0" ?>
+<doc id="tt2382320">
+	<docid>tt2382320</docid>
+	<title>No Time to Die</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjgxNzRjYjEtZjdhZC00MmNmLWFlYzktMGFlZjA3M2YzZDFkXkEyXkFqcGdeQXVyMTI0NTA1MDI3._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">163</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Surround 7.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Daniel Craig</actor>
+			<role>James Bond</role>
+		</credit>
+		<credit>
+			<actor>Ana de Armas</actor>
+			<role>Paloma</role>
+		</credit>
+		<credit>
+			<actor>Rami Malek</actor>
+			<role>Lyutsifer Safin</role>
+		</credit>
+		<credit>
+			<actor>Léa Seydoux</actor>
+			<role>Madeleine</role>
+		</credit>
+		<credit>
+			<actor>Lashana Lynch</actor>
+			<role>Nomi</role>
+		</credit>
+		<credit>
+			<actor>Ralph Fiennes</actor>
+			<role>M</role>
+		</credit>
+		<credit>
+			<actor>Ben Whishaw</actor>
+			<role>Q</role>
+		</credit>
+		<credit>
+			<actor>Naomie Harris</actor>
+			<role>Moneypenny</role>
+		</credit>
+		<credit>
+			<actor>Rory Kinnear</actor>
+			<role>Tanner</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Wright</actor>
+			<role>Felix Leiter</role>
+		</credit>
+		<credit>
+			<actor>Billy Magnussen</actor>
+			<role>Logan Ash</role>
+		</credit>
+		<credit>
+			<actor>Christoph Waltz</actor>
+			<role>Blofeld</role>
+		</credit>
+		<credit>
+			<actor>David Dencik</actor>
+			<role>Valdo Obruchev</role>
+		</credit>
+		<credit>
+			<actor>Dali Benssalah</actor>
+			<role>Primo (Cyclops)</role>
+		</credit>
+		<credit>
+			<actor>Lisa-Dorah Sonnet</actor>
+			<role>Mathilde</role>
+		</credit>
+		<credit>
+			<actor>Coline Defaud</actor>
+			<role>Young Madeleine</role>
+		</credit>
+		<credit>
+			<actor>Mathilde Bourbin</actor>
+			<role>Madeleine's Mother</role>
+		</credit>
+		<credit>
+			<actor>Hugh Dennis</actor>
+			<role>Dr. Hardy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Switzerland">September 28 2021</releasedate>
+		<releasedate country="United Kingdom">September 28 2021</releasedate>
+		<releasedate country="Belgium">September 29 2021</releasedate>
+		<releasedate country="Switzerland">September 29 2021</releasedate>
+		<releasedate country="South Korea">September 29 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Belgium">KT</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">13+</certificate>
+		<certificate country="Egypt">12+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">R13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Saudi Arabia">R12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">12+</certificate>
+		<certificate country="Thailand">u 13+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>official james bond series</keyword>
+		<keyword>james bond character</keyword>
+		<keyword>espionage</keyword>
+		<keyword>spy</keyword>
+		<keyword>mi6</keyword>
+		<keyword>poison</keyword>
+		<keyword>shooting</keyword>
+		<keyword>007</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>m character</keyword>
+		<keyword>action hero</keyword>
+		<keyword>q character</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>female spy</keyword>
+		<keyword>female agent</keyword>
+		<keyword>shootout</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>island</keyword>
+		<keyword>cat</keyword>
+		<keyword>scientist</keyword>
+		<keyword>gun</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>ernst stavro blofeld character</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>felix leiter character</keyword>
+		<keyword>masked killer</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>nanotechnology</keyword>
+		<keyword>bioterrorism</keyword>
+		<keyword>alcoholic mother</keyword>
+		<keyword>undercover</keyword>
+		<keyword>child with a gun</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>falling through ice</keyword>
+		<keyword>rescue</keyword>
+		<keyword>car chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>russian scientist</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>frenchwoman</keyword>
+		<keyword>race against time</keyword>
+		<keyword>assassin</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>missile strike</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>one eyed man</keyword>
+		<keyword>gadget car</keyword>
+		<keyword>santiago de cuba</keyword>
+		<keyword>seaplane</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>elevator shaft</keyword>
+		<keyword>coming out of retirement</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>prosthetic eye</keyword>
+		<keyword>train</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>poison gas</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>secret lair</keyword>
+		<keyword>aston martin</keyword>
+		<keyword>biological weapon</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>trapped under ice</keyword>
+		<keyword>bulletproof car</keyword>
+		<keyword>spectre the organization</keyword>
+		<keyword>prison</keyword>
+		<keyword>nanobot</keyword>
+		<keyword>childhood memory</keyword>
+		<keyword>dna</keyword>
+		<keyword>hairless cat</keyword>
+		<keyword>vial</keyword>
+		<keyword>spy thriller</keyword>
+		<keyword>visiting a grave</keyword>
+		<keyword>russian villain</keyword>
+		<keyword>matera italy</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>secret service agent</keyword>
+		<keyword>hostage</keyword>
+		<keyword>death</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>revenge</keyword>
+		<keyword>little girl</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>life raft</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>bar</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>jamaica</keyword>
+		<keyword>spy film</keyword>
+		<keyword>british secret service</keyword>
+		<keyword>italy</keyword>
+		<keyword>norway</keyword>
+		<keyword>kidnapped scientist</keyword>
+		<keyword>land rover</keyword>
+		<keyword>miss moneypenny character</keyword>
+		<keyword>explosion</keyword>
+		<keyword>british intelligence</keyword>
+		<keyword>spy hero</keyword>
+		<keyword>british agent</keyword>
+		<keyword>british spy</keyword>
+		<keyword>mission</keyword>
+		<keyword>special assignment</keyword>
+		<keyword>tuxedo</keyword>
+		<keyword>london england</keyword>
+		<keyword>glock 17</keyword>
+		<keyword>pistol</keyword>
+		<keyword>handgun</keyword>
+		<keyword>rifle</keyword>
+		<keyword>9 mm sig sauer</keyword>
+		<keyword>secretary</keyword>
+		<keyword>escape</keyword>
+		<keyword>murder</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>fake accent</keyword>
+		<keyword>slide locked back</keyword>
+		<keyword>uzi</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>police car</keyword>
+		<keyword>airplane</keyword>
+		<keyword>forest</keyword>
+		<keyword>orphan</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>secret service</keyword>
+		<keyword>agent</keyword>
+		<keyword>spying</keyword>
+		<keyword>suit</keyword>
+		<keyword>snow</keyword>
+		<keyword>hero</keyword>
+		<keyword>twenty fifth part</keyword>
+		<keyword>sequel</keyword>
+		<keyword>troubled production</keyword>
+		<keyword>oil rig</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>face mask</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>one against many</keyword>
+		<keyword>two against many</keyword>
+		<keyword>long take</keyword>
+		<keyword>prologue</keyword>
+		<keyword>masked man</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>investigation</keyword>
+		<keyword>criminal organization</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>product placement</keyword>
+		<keyword>photograph</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>car motorcycle chase</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>beating</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>bomb</keyword>
+		<keyword>deception</keyword>
+		<keyword>defector</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>german</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>violence</keyword>
+		<keyword>ambush</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>danger</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>ship</keyword>
+		<keyword>henchman</keyword>
+		<keyword>graveyard</keyword>
+		<keyword>funeral</keyword>
+		<keyword>missile</keyword>
+		<keyword>missile silo</keyword>
+		<keyword>british navy</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>pun</keyword>
+		<keyword>bridge</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>smoke grenade</keyword>
+		<keyword>armored car</keyword>
+		<keyword>gadget</keyword>
+		<keyword>gadgetry</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>spy mission</keyword>
+		<keyword>experimental aircraft</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>maximum security prison</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>two way mirror</keyword>
+		<keyword>female psychiatrist</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>blood sample</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>power outage</keyword>
+		<keyword>laser cutter</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>death of family</keyword>
+		<keyword>loss of family</keyword>
+		<keyword>murder of a family</keyword>
+		<keyword>knife</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>disguise</keyword>
+		<keyword>wine cellar</keyword>
+		<keyword>jeep</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>glass cutter</keyword>
+		<keyword>special forces</keyword>
+		<keyword>rookie</keyword>
+		<keyword>magnet</keyword>
+		<keyword>hotel</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>love</keyword>
+		<keyword>lipstick</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>jungle</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>drive by shooting</keyword>
+		<keyword>car theft</keyword>
+		<keyword>motorcycle stunt</keyword>
+		<keyword>car crash</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>car stunt</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>train station</keyword>
+		<keyword>sailboat</keyword>
+		<keyword>security camera</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>blood</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>injection</keyword>
+		<keyword>wig</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>god complex</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>kiss</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>fear</keyword>
+		<keyword>panic</keyword>
+		<keyword>radar</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>abandoned power plant</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>scar</keyword>
+		<keyword>bioweapon</keyword>
+		<keyword>infection</keyword>
+		<keyword>genetics</keyword>
+		<keyword>cuba</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>warship</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>firearm</keyword>
+		<keyword>final battle</keyword>
+		<keyword>hidden camera</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>glass building</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>bond girl</keyword>
+		<keyword>havana cuba</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>destruction</keyword>
+		<keyword>digital pet</keyword>
+		<keyword>frozen lake</keyword>
+		<keyword>sparing a life</keyword>
+		<keyword>japanese mask</keyword>
+		<keyword>spy car</keyword>
+		<keyword>tinnitus</keyword>
+		<keyword>distrust</keyword>
+		<keyword>acropolis</keyword>
+		<keyword>female secret agent</keyword>
+		<keyword>last mission</keyword>
+		<keyword>weapon of mass destruction</keyword>
+		<keyword>contagion</keyword>
+		<keyword>poisonous plant</keyword>
+		<keyword>garden</keyword>
+		<keyword>hazmat suit</keyword>
+		<keyword>choking someone</keyword>
+		<keyword>bionic eye</keyword>
+		<keyword>quartermaster</keyword>
+		<keyword>birthday party</keyword>
+		<keyword>plan goes wrong</keyword>
+		<keyword>usb drive</keyword>
+		<keyword>hard drive</keyword>
+		<keyword>database</keyword>
+		<keyword>outdoor shower</keyword>
+		<keyword>hiding under a bed</keyword>
+		<keyword>death of recurring character</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>death of villain</keyword>
+		<keyword>death of hero</keyword>
+		<keyword>gunshot wound</keyword>
+		<keyword>concealed weapon</keyword>
+		<keyword>peeling an apple</keyword>
+		<keyword>range rover</keyword>
+		<keyword>suv</keyword>
+		<keyword>nemesis</keyword>
+		<keyword>international incident</keyword>
+		<keyword>blast door</keyword>
+		<keyword>control room</keyword>
+		<keyword>earpiece</keyword>
+		<keyword>switcheroo</keyword>
+		<keyword>guilt</keyword>
+		<keyword>biting someone's hand</keyword>
+		<keyword>trapdoor</keyword>
+		<keyword>blue eyes</keyword>
+		<keyword>single mother</keyword>
+		<keyword>home invader</keyword>
+		<keyword>inflatable raft</keyword>
+		<keyword>reinstated</keyword>
+		<keyword>tow rope</keyword>
+		<keyword>off road driving</keyword>
+		<keyword>lake house</keyword>
+		<keyword>reference to heracles the greek hero</keyword>
+		<keyword>dna database</keyword>
+		<keyword>ex lovers reunited</keyword>
+		<keyword>ex lover ex lover relationship</keyword>
+		<keyword>learning that one is a father</keyword>
+		<keyword>noh mask</keyword>
+		<keyword>motorcycle jump</keyword>
+		<keyword>smokescreen</keyword>
+		<keyword>amphibious aircraft</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>infected</keyword>
+		<keyword>broken vial</keyword>
+		<keyword>human hair</keyword>
+		<keyword>visitor's pass</keyword>
+		<keyword>5 years later</keyword>
+		<keyword>killing</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>shipwreck</keyword>
+		<keyword>stuffed animal</keyword>
+		<keyword>cartoon on tv</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>wooden mask</keyword>
+		<keyword>spy action</keyword>
+		<keyword>russian man</keyword>
+		<keyword>implied male nudity</keyword>
+		<keyword>male underwear</keyword>
+		<keyword>action thriller</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>shot repeatedly</keyword>
+		<keyword>tackling someone on a motorcycle</keyword>
+		<keyword>prison visit</keyword>
+		<keyword>implied female nudity</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>delayed release</keyword>
+		<keyword>biological laboratory</keyword>
+		<keyword>machine gunned</keyword>
+		<keyword>dragged along the ground</keyword>
+		<keyword>crossing a frozen lake</keyword>
+		<keyword>failed assassination attempt</keyword>
+		<keyword>swimming in the ocean</keyword>
+		<keyword>pulled from a motorcycle</keyword>
+		<keyword>passionate kiss</keyword>
+		<keyword>shooting an attacker</keyword>
+		<keyword>man and woman riding a motor scooter</keyword>
+		<keyword>bush plane</keyword>
+		<keyword>flock of sheep</keyword>
+		<keyword>deliberate car crash</keyword>
+		<keyword>bell tolling</keyword>
+		<keyword>passenger train</keyword>
+		<keyword>man changing clothes</keyword>
+		<keyword>mausoleum explosion</keyword>
+		<keyword>chugging a double martini</keyword>
+		<keyword>crashing through a skylight</keyword>
+		<keyword>firefight</keyword>
+		<keyword>scuttling a boat</keyword>
+		<keyword>sphynx cat</keyword>
+		<keyword>thumb drive</keyword>
+		<keyword>slinky toy</keyword>
+		<keyword>foxglove</keyword>
+		<keyword>fog</keyword>
+		<keyword>c 17 globemaster</keyword>
+		<keyword>zen garden</keyword>
+		<keyword>flying submarine</keyword>
+		<keyword>submarine pen</keyword>
+		<keyword>agustawestland aw139 helicopter</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>robbery</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>gay co worker</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>british</keyword>
+		<keyword>vodka martini</keyword>
+		<keyword>martini</keyword>
+		<keyword>intelligence</keyword>
+		<keyword>intelligence agency</keyword>
+		<keyword>intelligence agent</keyword>
+		<keyword>intelligence service</keyword>
+		<keyword>official bond film</keyword>
+		<keyword>based on story</keyword>
+		<keyword>rogue scientist</keyword>
+		<keyword>cia officer</keyword>
+		<keyword>molecular nanobot</keyword>
+		<keyword>retired spy</keyword>
+		<keyword>state department agent</keyword>
+		<keyword>trawler</keyword>
+		<keyword>sailing</keyword>
+		<keyword>begins with flashback</keyword>
+		<keyword>father meets unknown daughter</keyword>
+		<keyword>submersible vehicle</keyword>
+		<keyword>sea of japan</keyword>
+		<keyword>psychotherapist</keyword>
+		<keyword>pet cat</keyword>
+		<keyword>revenge plot</keyword>
+		<keyword>double agent</keyword>
+		<keyword>foster brother foster brother relationship</keyword>
+		<keyword>chief of staff</keyword>
+		<keyword>disfigured man</keyword>
+		<keyword>pilot</keyword>
+		<keyword>trapped in a sinking ship</keyword>
+		<keyword>spy headquarters</keyword>
+		<keyword>death of antagonist</keyword>
+		<keyword>contamination</keyword>
+		<keyword>disaster action</keyword>
+		<keyword>epic action</keyword>
+		<keyword>one person army action</keyword>
+		<keyword>epic adventure</keyword>
+		<keyword>globetrotting adventure</keyword>
+		<keyword>conspiracy thriller</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>romantic thriller</keyword>
+		<keyword>science fiction thriller</keyword>
+		<keyword>techno thriller</keyword>
+		<keyword>extortion</keyword>
+		<keyword>child hostage</keyword>
+		<keyword>mi6 agent</keyword>
+		<keyword>age disparate romance</keyword>
+		<keyword>safe room</keyword>
+		<keyword>5 year old</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>sea</keyword>
+		<keyword>safe</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>headquarters</keyword>
+		<keyword>sinking ship</keyword>
+		<keyword>staff</keyword>
+		<keyword>little boy</keyword>
+		<keyword>secret room</keyword>
+		<keyword>english</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>ex boyfriend ex girlfriend relationship</keyword>
+		<keyword>peril</keyword>
+		<keyword>sheep</keyword>
+		<keyword>army</keyword>
+		<keyword>beard</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>body count</keyword>
+		<keyword>chemical weapon</keyword>
+		<keyword>evil man</keyword>
+		<keyword>cargo ship</keyword>
+		<keyword>birthday</keyword>
+		<keyword>cuban</keyword>
+		<keyword>double cross</keyword>
+		<keyword>epic</keyword>
+		<keyword>eyeball</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>blond</keyword>
+		<keyword>flood</keyword>
+		<keyword>flower</keyword>
+		<keyword>foreshadow</keyword>
+		<keyword>glass eye</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>heroism</keyword>
+		<keyword>map</keyword>
+		<keyword>car accident</keyword>
+		<keyword>party</keyword>
+		<keyword>priest</keyword>
+		<keyword>rubber boat</keyword>
+		<keyword>mask</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>submarine</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>symbolism</keyword>
+		<keyword>tombstone</keyword>
+		<keyword>ocean</keyword>
+		<keyword>virus</keyword>
+		<keyword>villain</keyword>
+		<keyword>british secret agent</keyword>
+		<keyword>british scret service agent</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>apartment</keyword>
+		<keyword>anger</keyword>
+		<keyword>power</keyword>
+		<keyword>russian</keyword>
+		<keyword>british intelligence agent</keyword>
+		<keyword>vodka</keyword>
+		<keyword>rage</keyword>
+		<keyword>license to kill</keyword>
+		<keyword>cracked ice</keyword>
+		<keyword>headstone</keyword>
+		<keyword>mistrust</keyword>
+		<keyword>past</keyword>
+		<keyword>artificial eye</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>disfigured face</keyword>
+		<keyword>haunted by past</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>profession</keyword>
+		<keyword>tearjerker romance</keyword>
+		<keyword>tragic romance</keyword>
+		<keyword>female commander</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>jamaican</keyword>
+		<keyword>technology</keyword>
+		<keyword>speargun</keyword>
+		<keyword>operative</keyword>
+		<keyword>top secret</keyword>
+		<keyword>intelligence operative</keyword>
+		<keyword>secret assignment</keyword>
+		<keyword>walther ppk</keyword>
+		<keyword>business suit</keyword>
+		<keyword>carribean sea</keyword>
+		<keyword>man wears a tuxedo</keyword>
+		<keyword>four word title</keyword>
+		<keyword>one liner</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>silencer</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>no time to die</keyword>
+		<keyword>flashback</keyword>
+		<keyword>assignment</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>ice</keyword>
+		<keyword>nordic</keyword>
+		<keyword>spear fishing</keyword>
+		<keyword>woods</keyword>
+		<keyword>yacht</keyword>
+	</keywords>
+	<directors>
+		<director> Cary Joji Fukunaga</director>
+	</directors>
+	<composers>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> Per Henry Borch</producer>
+		<producer> Chris Brigham</producer>
+		<producer> Barbara Broccoli</producer>
+		<producer> Daniel Craig</producer>
+		<producer> Jon Gudmundsson</producer>
+		<producer> Andrew Noakes</producer>
+		<producer> David Pope</producer>
+		<producer> Enzo Sisti</producer>
+		<producer> Natalie Thompson</producer>
+		<producer> Gregg Wilson</producer>
+		<producer> Michael G. Wilson</producer>
+	</producers>
+	<writers>
+		<writer> Neal Purvis</writer>
+		<writer> Robert Wade</writer>
+		<writer> Cary Joji Fukunaga</writer>
+		<writer> Phoebe Waller-Bridge</writer>
+		<writer> Neal Purvis</writer>
+		<writer> Robert Wade</writer>
+		<writer> Cary Joji Fukunaga</writer>
+	</writers>
+	<editors>
+		<editor> Tom Cross</editor>
+		<editor> Elliot Graham</editor>
+	</editors>
+</doc>

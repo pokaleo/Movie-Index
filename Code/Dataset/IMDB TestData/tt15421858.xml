@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<doc id="tt15421858">
+	<docid>tt15421858</docid>
+	<title>Alaska Daily</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmMzNjE3NTgtYmI5Ny00YzdiLWE5YmQtZmJkMWYxOWE1MDA0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">47</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A journalist seeks a fresh start in Alaska working for a newspaper in Anchorage.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Hilary Swank</actor>
+			<role>Eileen Fitzgerald</role>
+		</credit>
+		<credit>
+			<actor>Jeff Perry</actor>
+			<role>Stanley Cornik</role>
+		</credit>
+		<credit>
+			<actor>Grace Dove</actor>
+			<role>Rosalind 'Roz' Friendly</role>
+		</credit>
+		<credit>
+			<actor>Meredith Holzman</actor>
+			<role>Claire Muncy</role>
+		</credit>
+		<credit>
+			<actor>Matt Malloy</actor>
+			<role>Bob Young</role>
+		</credit>
+		<credit>
+			<actor>Pablo Castelblanco</actor>
+			<role>Gabriel Martin</role>
+		</credit>
+		<credit>
+			<actor>Ami Park</actor>
+			<role>Jieun Park</role>
+		</credit>
+		<credit>
+			<actor>Craig Frank</actor>
+			<role>Austin Greene</role>
+		</credit>
+		<credit>
+			<actor>Shane McRae</actor>
+			<role>Aaron Pritchard</role>
+		</credit>
+		<credit>
+			<actor>Bill Dawes</actor>
+			<role>Concerned Citizen</role>
+		</credit>
+		<credit>
+			<actor>Joe Tippett</actor>
+			<role>Jamie</role>
+		</credit>
+		<credit>
+			<actor>Kourtney Bell</actor>
+			<role>Karla</role>
+		</credit>
+		<credit>
+			<actor>Phillip Lewitski</actor>
+			<role>Miles</role>
+		</credit>
+		<credit>
+			<actor>Irene Bedard</actor>
+			<role>Sylvie Nanmac</role>
+		</credit>
+		<credit>
+			<actor>Mamie Eva Cecilia Pete</actor>
+			<role>Gloria Nammac</role>
+		</credit>
+		<credit>
+			<actor>Lamine Quiqui</actor>
+			<role>Zachary Teague</role>
+		</credit>
+		<credit>
+			<actor>Veena Sood</actor>
+			<role>Rushmi</role>
+		</credit>
+		<credit>
+			<actor>James McDaniel</actor>
+			<role>General Raymond Green</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">October 6 2022</releasedate>
+		<releasedate country="Canada">October 6 2022</releasedate>
+		<releasedate country="Spain">October 6 2022</releasedate>
+		<releasedate country="France">October 6 2022</releasedate>
+		<releasedate country="Mexico">October 6 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>newspaper</keyword>
+	</keywords>
+	<directors>
+		<director> Tom McCarthy</director>
+		<director> Oliver Bokelberg</director>
+		<director> Danis Goulet</director>
+		<director> Clark Johnson</director>
+		<director> Patricia Riggen</director>
+		<director> Craig William Macneill</director>
+		<director> Ruba Nadda</director>
+	</directors>
+	<composers>
+		<composer> Peter Nashel</composer>
+	</composers>
+	<producers>
+		<producer> Oliver Bokelberg</producer>
+		<producer> Powertan Blanchett</producer>
+		<producer> Rae Baron</producer>
+		<producer> Sandra Chwialkowska</producer>
+		<producer> Kyle Hopkins</producer>
+		<producer> Tom McCarthy</producer>
+		<producer> David A. Rosemont</producer>
+		<producer> Bert Salke</producer>
+		<producer> Radha Subramaniam</producer>
+		<producer> Hilary Swank</producer>
+		<producer> Melissa Wells</producer>
+		<producer> Ryan Binkley</producer>
+		<producer> Peter Elkoff</producer>
+		<producer> Chitra Sampath</producer>
+		<producer> Gabriel Sherman</producer>
+		<producer> Liz Tuccillo</producer>
+		<producer> Stuart Zicherman</producer>
+		<producer> Jay Beattie</producer>
+		<producer> Ron Rapiel</producer>
+	</producers>
+	<writers>
+		<writer> Tom McCarthy</writer>
+		<writer> Tom McCarthy</writer>
+		<writer> Tom McCarthy</writer>
+		<writer> Kyle Hopkins</writer>
+		<writer> Miranda Rose Hall</writer>
+		<writer> Miranda Rose Hall</writer>
+		<writer> Andrew Okpeaha MacLean</writer>
+		<writer> Michael Rezendes</writer>
+		<writer> Vera Starbard</writer>
+		<writer> Sandra Chwialkowska</writer>
+		<writer> Chitra Sampath</writer>
+		<writer> Gabriel Sherman</writer>
+		<writer> Liz Tuccillo</writer>
+		<writer> Stuart Zicherman</writer>
+		<writer> Stuart Zicherman</writer>
+		<writer> Jay Beattie</writer>
+		<writer> Jay Beattie</writer>
+		<writer> Peter Elkoff</writer>
+	</writers>
+	<editors>
+		<editor> Sheri Bylander</editor>
+		<editor> Erica Freed Marker</editor>
+		<editor> Andrew Pang</editor>
+		<editor> Ryan Allen</editor>
+		<editor> Sidney Wolinsky</editor>
+	</editors>
+</doc>

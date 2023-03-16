@@ -1,0 +1,622 @@
+<?xml version="1.0" ?>
+<doc id="tt0448115">
+	<docid>tt0448115</docid>
+	<title>Shazam!</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNGVlMDFhNGQtNjIyMy00YjkxLWJjZjQtNGUxMDI0YjYzYzZmXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">132</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Zachary Levi</actor>
+			<role>Shazam</role>
+		</credit>
+		<credit>
+			<actor>Mark Strong</actor>
+			<role>Dr. Sivana</role>
+		</credit>
+		<credit>
+			<actor>Asher Angel</actor>
+			<role>Billy Batson</role>
+		</credit>
+		<credit>
+			<actor>Jack Dylan Grazer</actor>
+			<role>Freddy Freeman</role>
+		</credit>
+		<credit>
+			<actor>Adam Brody</actor>
+			<role>Super Hero Freddy</role>
+		</credit>
+		<credit>
+			<actor>Djimon Hounsou</actor>
+			<role>Wizard</role>
+		</credit>
+		<credit>
+			<actor>Faithe Herman</actor>
+			<role>Darla Dudley</role>
+		</credit>
+		<credit>
+			<actor>Meagan Good</actor>
+			<role>Super Hero Darla</role>
+		</credit>
+		<credit>
+			<actor>Grace Caroline Currey</actor>
+			<role>Mary Bromfield</role>
+		</credit>
+		<credit>
+			<actor>Michelle Borth</actor>
+			<role>Super Hero Mary</role>
+		</credit>
+		<credit>
+			<actor>Ian Chen</actor>
+			<role>Eugene Choi</role>
+		</credit>
+		<credit>
+			<actor>Ross Butler</actor>
+			<role>Super Hero Eugene</role>
+		</credit>
+		<credit>
+			<actor>Jovan Armand</actor>
+			<role>Pedro Peña</role>
+		</credit>
+		<credit>
+			<actor>D.J. Cotrona</actor>
+			<role>Super Hero Pedro</role>
+		</credit>
+		<credit>
+			<actor>Marta Milans</actor>
+			<role>Rosa Vasquez</role>
+		</credit>
+		<credit>
+			<actor>Cooper Andrews</actor>
+			<role>Victor Vasquez</role>
+		</credit>
+		<credit>
+			<actor>Ethan Pugiotto</actor>
+			<role>Thaddeus Sivana (1974)</role>
+		</credit>
+		<credit>
+			<actor>John Glover</actor>
+			<role>Mr. Sivana</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Netherlands">March 25 2019</releasedate>
+		<releasedate country="Indonesia">April 2 2019</releasedate>
+		<releasedate country="Belgium">April 3 2019</releasedate>
+		<releasedate country="France">April 3 2019</releasedate>
+		<releasedate country="Italy">April 3 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Bulgaria">C</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-15</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">10</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">12A</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>superhero</keyword>
+		<keyword>dc extended universe</keyword>
+		<keyword>caped superhero</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>captain marvel a.k.a. shazam character</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>exclamation point in title</keyword>
+		<keyword>seven deadly sins</keyword>
+		<keyword>super villain</keyword>
+		<keyword>foster family</keyword>
+		<keyword>reference to superman</keyword>
+		<keyword>reference to aquaman</keyword>
+		<keyword>reference to batman</keyword>
+		<keyword>reference to the flash</keyword>
+		<keyword>reference to wonder woman</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>one word title</keyword>
+		<keyword>reference to yoda</keyword>
+		<keyword>young superhero</keyword>
+		<keyword>christmas</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>foster home</keyword>
+		<keyword>shazam the wizard character</keyword>
+		<keyword>mother son reunion</keyword>
+		<keyword>animated credits</keyword>
+		<keyword>animated scene during end credits</keyword>
+		<keyword>punctuation in title</keyword>
+		<keyword>santa claus costume</keyword>
+		<keyword>superhero team</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>demon</keyword>
+		<keyword>gamer</keyword>
+		<keyword>social worker</keyword>
+		<keyword>fratricide</keyword>
+		<keyword>child abandonment</keyword>
+		<keyword>reference to mahatma gandhi</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>misunderstanding</keyword>
+		<keyword>vegan food</keyword>
+		<keyword>overweight boy</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>magic 8 ball</keyword>
+		<keyword>multiple time frames</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>fawcett comics</keyword>
+		<keyword>philadelphia pennsylvania</keyword>
+		<keyword>origin story</keyword>
+		<keyword>compass</keyword>
+		<keyword>search for birth mother</keyword>
+		<keyword>foster child</keyword>
+		<keyword>smoke alarm</keyword>
+		<keyword>batarang</keyword>
+		<keyword>superman character</keyword>
+		<keyword>hitting a person by car</keyword>
+		<keyword>subway</keyword>
+		<keyword>set up for a sequel</keyword>
+		<keyword>strip club</keyword>
+		<keyword>city bus</keyword>
+		<keyword>upstate new york</keyword>
+		<keyword>year 1974</keyword>
+		<keyword>symbol</keyword>
+		<keyword>cave</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>doctor sivana character</keyword>
+		<keyword>gargoyle</keyword>
+		<keyword>temptation</keyword>
+		<keyword>pure heart</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>car crash</keyword>
+		<keyword>worthiness</keyword>
+		<keyword>prologue</keyword>
+		<keyword>prank</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police car</keyword>
+		<keyword>foster care</keyword>
+		<keyword>computer database</keyword>
+		<keyword>flashback</keyword>
+		<keyword>carnival</keyword>
+		<keyword>keychain</keyword>
+		<keyword>lost child</keyword>
+		<keyword>foster parent</keyword>
+		<keyword>prize</keyword>
+		<keyword>college interview</keyword>
+		<keyword>reference to fawcett comics</keyword>
+		<keyword>search for parent</keyword>
+		<keyword>reference to harry potter</keyword>
+		<keyword>mass hysteria</keyword>
+		<keyword>abduction</keyword>
+		<keyword>subway train</keyword>
+		<keyword>new school</keyword>
+		<keyword>researcher</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>testimonial</keyword>
+		<keyword>reference to king solomon</keyword>
+		<keyword>reference to hercules</keyword>
+		<keyword>reference to atlas</keyword>
+		<keyword>reference to zeus</keyword>
+		<keyword>reference to achilles</keyword>
+		<keyword>reference to mercury the roman god</keyword>
+		<keyword>runaway</keyword>
+		<keyword>subway station</keyword>
+		<keyword>electricity</keyword>
+		<keyword>power outage</keyword>
+		<keyword>mugger</keyword>
+		<keyword>super speed</keyword>
+		<keyword>pepper spray</keyword>
+		<keyword>robbery</keyword>
+		<keyword>super strength</keyword>
+		<keyword>bulletproof</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>underage drinking</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>thwarted robbery</keyword>
+		<keyword>reference to rocky balboa</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>boardroom</keyword>
+		<keyword>thrown through a window</keyword>
+		<keyword>monster</keyword>
+		<keyword>biting someone's head off</keyword>
+		<keyword>massacre</keyword>
+		<keyword>elevator</keyword>
+		<keyword>security guard</keyword>
+		<keyword>school security</keyword>
+		<keyword>halfpipe</keyword>
+		<keyword>lightning</keyword>
+		<keyword>vending machine</keyword>
+		<keyword>charging a cell phone</keyword>
+		<keyword>fanboy</keyword>
+		<keyword>playing a video game</keyword>
+		<keyword>keeping a secret</keyword>
+		<keyword>posting a video online</keyword>
+		<keyword>rescue</keyword>
+		<keyword>college acceptance letter</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>mall santa</keyword>
+		<keyword>shopping mall</keyword>
+		<keyword>bad parent</keyword>
+		<keyword>hostage</keyword>
+		<keyword>winter carnival</keyword>
+		<keyword>winter</keyword>
+		<keyword>internet video</keyword>
+		<keyword>action figure</keyword>
+		<keyword>wedgie</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>superhero family</keyword>
+		<keyword>prison cell</keyword>
+		<keyword>mid credits scene</keyword>
+		<keyword>animated end credits</keyword>
+		<keyword>cafeteria</keyword>
+		<keyword>childhood</keyword>
+		<keyword>talking to a fish</keyword>
+		<keyword>post credits scene</keyword>
+		<keyword>walking on piano keys</keyword>
+		<keyword>toy store</keyword>
+		<keyword>child in adult body</keyword>
+		<keyword>transformation</keyword>
+		<keyword>telepathy</keyword>
+		<keyword>alien worm</keyword>
+		<keyword>ethnic diversity</keyword>
+		<keyword>body transformation</keyword>
+		<keyword>memorabilia</keyword>
+		<keyword>reference to the daily planet</keyword>
+		<keyword>social outcast</keyword>
+		<keyword>year 2018</keyword>
+		<keyword>superpower</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>profanity</keyword>
+		<keyword>spit take</keyword>
+		<keyword>montage</keyword>
+		<keyword>training</keyword>
+		<keyword>training montage</keyword>
+		<keyword>product placement</keyword>
+		<keyword>money falling through the air</keyword>
+		<keyword>department store</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>ceo</keyword>
+		<keyword>revenge</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>ski mask</keyword>
+		<keyword>pistol</keyword>
+		<keyword>murder</keyword>
+		<keyword>violence</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>hearing voices</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>orchestral music score</keyword>
+		<keyword>school bus</keyword>
+		<keyword>demonic possession</keyword>
+		<keyword>obsession</keyword>
+		<keyword>power</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>bald man</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>alter ego</keyword>
+		<keyword>levitation</keyword>
+		<keyword>atm machine</keyword>
+		<keyword>self referential</keyword>
+		<keyword>ambush</keyword>
+		<keyword>bleeped dialogue</keyword>
+		<keyword>prankster</keyword>
+		<keyword>humor</keyword>
+		<keyword>child's point of view</keyword>
+		<keyword>bulldozer</keyword>
+		<keyword>snow</keyword>
+		<keyword>ice</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>explosion</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>showdown</keyword>
+		<keyword>fighting in the air</keyword>
+		<keyword>battle</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>free fall</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>orphan</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>death threat</keyword>
+		<keyword>race against time</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>little boy</keyword>
+		<keyword>little girl</keyword>
+		<keyword>fairground</keyword>
+		<keyword>fear</keyword>
+		<keyword>courage</keyword>
+		<keyword>bravery</keyword>
+		<keyword>heroism</keyword>
+		<keyword>hero</keyword>
+		<keyword>dog</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>temple</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>scepter</keyword>
+		<keyword>news reporter</keyword>
+		<keyword>reporter</keyword>
+		<keyword>female reporter</keyword>
+		<keyword>news report</keyword>
+		<keyword>bully comeuppance</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>portal</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>orb</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>interview</keyword>
+		<keyword>doctor</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>mad doctor</keyword>
+		<keyword>mind control</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>tragic villain</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>social media</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>envy</keyword>
+		<keyword>greed</keyword>
+		<keyword>long tongue</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>bullet catching</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>scar</keyword>
+		<keyword>youtube</keyword>
+		<keyword>teenage hero</keyword>
+		<keyword>video recording</keyword>
+		<keyword>child hero</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>cameo</keyword>
+		<keyword>comic book</keyword>
+		<keyword>photograph</keyword>
+		<keyword>foster father foster son relationship</keyword>
+		<keyword>dysfunctional family</keyword>
+		<keyword>friendship</keyword>
+		<keyword>champion</keyword>
+		<keyword>notebook</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>attack</keyword>
+		<keyword>evil</keyword>
+		<keyword>hit in the groin</keyword>
+		<keyword>parallel dimension</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>realtor</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>scientist</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>reference to captain america</keyword>
+		<keyword>backpack</keyword>
+		<keyword>superhero toy</keyword>
+		<keyword>asian superhero</keyword>
+		<keyword>flying superhero</keyword>
+		<keyword>chosen one</keyword>
+		<keyword>superhero comedy</keyword>
+		<keyword>helmet camera</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>self healing</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>action girl</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>nunchaku</keyword>
+		<keyword>billy batson character</keyword>
+		<keyword>magical door</keyword>
+		<keyword>magical word</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>pawnshop</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>saying grace</keyword>
+		<keyword>california institute of technology</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>panhandling</keyword>
+		<keyword>border collie</keyword>
+		<keyword>bus accident</keyword>
+		<keyword>convenience store robbery</keyword>
+		<keyword>atm robbery</keyword>
+		<keyword>abandoned by mother</keyword>
+		<keyword>balloon dart</keyword>
+		<keyword>stuffed toy tiger</keyword>
+		<keyword>broken ferris wheel</keyword>
+		<keyword>fake out</keyword>
+		<keyword>boy uses a crutch</keyword>
+		<keyword>dead body turns to dust</keyword>
+		<keyword>boy wears eyeglasses</keyword>
+		<keyword>mother son estrangement</keyword>
+		<keyword>high school student</keyword>
+		<keyword>new york city</keyword>
+		<keyword>school bully</keyword>
+		<keyword>ferris wheel</keyword>
+		<keyword>walking piano</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>bully</keyword>
+		<keyword>bullying</keyword>
+		<keyword>high school</keyword>
+		<keyword>school</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>flying</keyword>
+		<keyword>superhero origin</keyword>
+		<keyword>cape</keyword>
+		<keyword>marriage</keyword>
+		<keyword>stuffed animal</keyword>
+		<keyword>adopted son</keyword>
+		<keyword>foster brother foster brother relationship</keyword>
+		<keyword>foster mother foster son relationship</keyword>
+		<keyword>disabled</keyword>
+		<keyword>abusive father</keyword>
+		<keyword>believe in yourself</keyword>
+		<keyword>perseverance</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>carnival game</keyword>
+		<keyword>dual identity</keyword>
+		<keyword>floss dance</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>christmas movie</keyword>
+		<keyword>holiday movie</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>mexican</keyword>
+		<keyword>mexican teenager</keyword>
+		<keyword>mexican superhero</keyword>
+		<keyword>wizard</keyword>
+		<keyword>magic</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>surrealism</keyword>
+	</keywords>
+	<directors>
+		<director> David F. Sandberg</director>
+	</directors>
+	<composers>
+		<composer> Benjamin Wallfisch</composer>
+	</composers>
+	<producers>
+		<producer> Richard Brener</producer>
+		<producer> Jeffrey Chernov</producer>
+		<producer> Dany Garcia</producer>
+		<producer> Hiram Garcia</producer>
+		<producer> Christopher Godsick</producer>
+		<producer> Walter Hamada</producer>
+		<producer> Geoff Johns</producer>
+		<producer> Dwayne Johnson</producer>
+		<producer> Dave Neustadter</producer>
+		<producer> Peter Safran</producer>
+		<producer> Adam Schlagman</producer>
+		<producer> David Siegel</producer>
+		<producer> David Witz</producer>
+	</producers>
+	<writers>
+		<writer> Henry Gayden</writer>
+		<writer> Henry Gayden</writer>
+		<writer> Darren Lemke</writer>
+		<writer> Bill Parker</writer>
+		<writer> C.C. Beck</writer>
+	</writers>
+	<editors>
+		<editor> Michel Aller</editor>
+	</editors>
+</doc>

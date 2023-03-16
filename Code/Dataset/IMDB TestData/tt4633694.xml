@@ -1,0 +1,810 @@
+<?xml version="1.0" ?>
+<doc id="tt4633694">
+	<docid>tt4633694</docid>
+	<title>Spider-Man: Into the Spider-Verse</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTI1NTA0MTQ4Nl5BMl5BanBnXkFtZTgwNjkwNTQ3NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">117</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Shameik Moore</actor>
+			<role>Miles Morales</role>
+		</credit>
+		<credit>
+			<actor>Jake Johnson</actor>
+			<role>Peter B. Parker</role>
+		</credit>
+		<credit>
+			<actor>Hailee Steinfeld</actor>
+			<role>Gwen Stacy</role>
+		</credit>
+		<credit>
+			<actor>Mahershala Ali</actor>
+			<role>Uncle Aaron</role>
+		</credit>
+		<credit>
+			<actor>Brian Tyree Henry</actor>
+			<role>Jefferson Davis</role>
+		</credit>
+		<credit>
+			<actor>Lily Tomlin</actor>
+			<role>Aunt May</role>
+		</credit>
+		<credit>
+			<actor>Luna Lauren Velez</actor>
+			<role>Rio Morales</role>
+		</credit>
+		<credit>
+			<actor>Zoë Kravitz</actor>
+			<role>Mary Jane</role>
+		</credit>
+		<credit>
+			<actor>John Mulaney</actor>
+			<role>Spider-Ham</role>
+		</credit>
+		<credit>
+			<actor>Kimiko Glenn</actor>
+			<role>Peni Parker</role>
+		</credit>
+		<credit>
+			<actor>Nicolas Cage</actor>
+			<role>Spider-Man Noir</role>
+		</credit>
+		<credit>
+			<actor>Kathryn Hahn</actor>
+			<role>Doc Ock</role>
+		</credit>
+		<credit>
+			<actor>Liev Schreiber</actor>
+			<role>Wilson Fisk</role>
+		</credit>
+		<credit>
+			<actor>Chris Pine</actor>
+			<role>Peter Parker</role>
+		</credit>
+		<credit>
+			<actor>Natalie Morales</actor>
+			<role>Miss Calleros</role>
+		</credit>
+		<credit>
+			<actor>Edwin R. Habacon</actor>
+			<role>Brooklyn Visions Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Oscar Isaac</actor>
+			<role>Interesting Person #1</role>
+		</credit>
+		<credit>
+			<actor>Greta Lee</actor>
+			<role>Interesting Person #2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Singapore">December 6 2018</releasedate>
+		<releasedate country="Belgium">December 8 2018</releasedate>
+		<releasedate country="France">December 12 2018</releasedate>
+		<releasedate country="United Kingdom">December 12 2018</releasedate>
+		<releasedate country="Ireland">December 12 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Bulgaria">B</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-7</certificate>
+		<certificate country="Luxembourg">6</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Malta">U</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Nigeria">PG</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">8</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>teenage superhero</keyword>
+		<keyword>superhero</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>posthumous cameo</keyword>
+		<keyword>interdimensional travel</keyword>
+		<keyword>pig</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>black superhero</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>african american</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>parallel world</keyword>
+		<keyword>graffiti</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>spider man character</keyword>
+		<keyword>miles morales character</keyword>
+		<keyword>spider ham character</keyword>
+		<keyword>spider gwen character</keyword>
+		<keyword>stan lee cameo</keyword>
+		<keyword>spider bite</keyword>
+		<keyword>barrel</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>cameo</keyword>
+		<keyword>reference to looney tunes</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>cartoon pig</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>crying in the shower</keyword>
+		<keyword>urban adventure</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>vaporwave</keyword>
+		<keyword>superhero fight</keyword>
+		<keyword>secret headquarters</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>building swing</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>tagging</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>teenager</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>split screen</keyword>
+		<keyword>snowing</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>grave</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>evil man</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>cinematic universe</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>peter parker character</keyword>
+		<keyword>gwen stacy character</keyword>
+		<keyword>spider man noir character</keyword>
+		<keyword>prowler the marvel comics character</keyword>
+		<keyword>mary jane watson character</keyword>
+		<keyword>doctor octopus character</keyword>
+		<keyword>wilson fisk a.k.a. kingpin character</keyword>
+		<keyword>green goblin character</keyword>
+		<keyword>scorpion character</keyword>
+		<keyword>tombstone character</keyword>
+		<keyword>reference to albert einstein</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>reference to banksy</keyword>
+		<keyword>funeral</keyword>
+		<keyword>visiting a grave</keyword>
+		<keyword>divorce</keyword>
+		<keyword>riding a bus</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>mallet</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>rubik's cube</keyword>
+		<keyword>christmas music</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>narrated by title character</keyword>
+		<keyword>highlighter</keyword>
+		<keyword>father driving son to school</keyword>
+		<keyword>spray paint</keyword>
+		<keyword>sweaty face</keyword>
+		<keyword>spider number 42</keyword>
+		<keyword>internal view of body</keyword>
+		<keyword>killing a spider</keyword>
+		<keyword>pulling someone's hair</keyword>
+		<keyword>sticky hands</keyword>
+		<keyword>comic book</keyword>
+		<keyword>charter school</keyword>
+		<keyword>subway</keyword>
+		<keyword>monster</keyword>
+		<keyword>shoe untied</keyword>
+		<keyword>gigantic machine</keyword>
+		<keyword>one liner</keyword>
+		<keyword>child</keyword>
+		<keyword>teen movie</keyword>
+		<keyword>headphones</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>laundry</keyword>
+		<keyword>messy room</keyword>
+		<keyword>school uniform</keyword>
+		<keyword>costume</keyword>
+		<keyword>hoop earrings</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>sneakers</keyword>
+		<keyword>baseball cap</keyword>
+		<keyword>ghetto</keyword>
+		<keyword>schoolyard</keyword>
+		<keyword>school</keyword>
+		<keyword>police</keyword>
+		<keyword>cruiser</keyword>
+		<keyword>glasses</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>mustache</keyword>
+		<keyword>blonde girl</keyword>
+		<keyword>argument</keyword>
+		<keyword>school life</keyword>
+		<keyword>projector</keyword>
+		<keyword>class</keyword>
+		<keyword>classroom</keyword>
+		<keyword>teacher</keyword>
+		<keyword>student</keyword>
+		<keyword>lateness</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>pick up line</keyword>
+		<keyword>boom box</keyword>
+		<keyword>zebra crossing</keyword>
+		<keyword>illegal entry</keyword>
+		<keyword>jumping over a fence</keyword>
+		<keyword>rap</keyword>
+		<keyword>vandal</keyword>
+		<keyword>vandalism</keyword>
+		<keyword>climbing over a fence</keyword>
+		<keyword>climbing over a fence gate</keyword>
+		<keyword>apartment</keyword>
+		<keyword>alarm</keyword>
+		<keyword>backpack</keyword>
+		<keyword>new student</keyword>
+		<keyword>expatriate</keyword>
+		<keyword>infirmary</keyword>
+		<keyword>meeting</keyword>
+		<keyword>untied shoelace</keyword>
+		<keyword>mentor</keyword>
+		<keyword>mentee</keyword>
+		<keyword>interracial</keyword>
+		<keyword>fight</keyword>
+		<keyword>turbine</keyword>
+		<keyword>nemesis</keyword>
+		<keyword>enemy</keyword>
+		<keyword>goading</keyword>
+		<keyword>computer monitor</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>keyboard</keyword>
+		<keyword>hostile intent</keyword>
+		<keyword>gadget</keyword>
+		<keyword>aunt may character</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>midlife crisis</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>teen angst</keyword>
+		<keyword>marvel entertainment</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>hero</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>heroism</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>courage</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>fast motion scene</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>time lapse photography</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>bravery</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>race against time</keyword>
+		<keyword>robot</keyword>
+		<keyword>robot suit</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>high tech suit</keyword>
+		<keyword>super villain</keyword>
+		<keyword>henchman</keyword>
+		<keyword>henchwoman</keyword>
+		<keyword>villainess</keyword>
+		<keyword>superhero team</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>gadgetry</keyword>
+		<keyword>training</keyword>
+		<keyword>teenage hero</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>action hero</keyword>
+		<keyword>masked woman</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>masked vigilante</keyword>
+		<keyword>costumed vigilante</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>crime fighter</keyword>
+		<keyword>montage</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>warrior</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>revelation</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>death of uncle</keyword>
+		<keyword>loss of uncle</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>loss of brother</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>memorial</keyword>
+		<keyword>dark past</keyword>
+		<keyword>news report</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police car</keyword>
+		<keyword>pistol</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>tragic hero</keyword>
+		<keyword>academy</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>new york city</keyword>
+		<keyword>brooklyn new york city</keyword>
+		<keyword>queens new york city</keyword>
+		<keyword>times square manhattan new york city</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>brooklyn bridge</keyword>
+		<keyword>el train</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>subway station</keyword>
+		<keyword>abandoned subway station</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>tragic heroine</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>security guard</keyword>
+		<keyword>catfight</keyword>
+		<keyword>hearing voices</keyword>
+		<keyword>train</keyword>
+		<keyword>self referential</keyword>
+		<keyword>creature</keyword>
+		<keyword>scientist</keyword>
+		<keyword>giant</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>crime lord</keyword>
+		<keyword>italian american</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>loss of wife</keyword>
+		<keyword>loss of son</keyword>
+		<keyword>death of family</keyword>
+		<keyword>loss of family</keyword>
+		<keyword>regret</keyword>
+		<keyword>guilt</keyword>
+		<keyword>revenge</keyword>
+		<keyword>redemption</keyword>
+		<keyword>desperation</keyword>
+		<keyword>flashback</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>penthouse</keyword>
+		<keyword>elevator</keyword>
+		<keyword>secret lair</keyword>
+		<keyword>underground lair</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>particle accelerator</keyword>
+		<keyword>large hadron collider</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>quantum physics</keyword>
+		<keyword>subway train</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>fighting in the air</keyword>
+		<keyword>walking up a wall</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>jumping from a rooftop</keyword>
+		<keyword>pizza</keyword>
+		<keyword>sticker</keyword>
+		<keyword>statue</keyword>
+		<keyword>alley</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>showdown</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>photograph</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>battle</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>head butt</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>web</keyword>
+		<keyword>spider</keyword>
+		<keyword>mutation</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>portal</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>air vent</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>alternate world</keyword>
+		<keyword>alternate universe</keyword>
+		<keyword>wormhole</keyword>
+		<keyword>parallel universe</keyword>
+		<keyword>alternate dimension</keyword>
+		<keyword>parallel dimension</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>power outage</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car accident</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>snow</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>punching bag</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>motorcycle crash</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>hit by a train</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>bald man</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>deforestation</keyword>
+		<keyword>circular saw</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>invisibility</keyword>
+		<keyword>singing</keyword>
+		<keyword>drawing</keyword>
+		<keyword>fainting</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>product placement</keyword>
+		<keyword>physics</keyword>
+		<keyword>flying</keyword>
+		<keyword>boarding school</keyword>
+		<keyword>burger</keyword>
+		<keyword>fast food restaurant</keyword>
+		<keyword>bus</keyword>
+		<keyword>mission</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>tragic villain</keyword>
+		<keyword>radioactive spider</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>russian</keyword>
+		<keyword>anvil</keyword>
+		<keyword>magnet</keyword>
+		<keyword>sweating</keyword>
+		<keyword>teenage life</keyword>
+		<keyword>taxi</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>punctuation in title</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>climbing up a wall</keyword>
+		<keyword>black costume</keyword>
+		<keyword>earthquake</keyword>
+		<keyword>destruction</keyword>
+		<keyword>nurse</keyword>
+		<keyword>hospital</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>latina</keyword>
+		<keyword>interracial love</keyword>
+		<keyword>boy wears a suit</keyword>
+		<keyword>african latino</keyword>
+		<keyword>reference to emo peter parker</keyword>
+		<keyword>action girl</keyword>
+		<keyword>cult film</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>hyphen in title</keyword>
+		<keyword>cartoon physics</keyword>
+		<keyword>comicbook movie</keyword>
+		<keyword>teenage boy wears a suit</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>suburb</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>cgi film</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>giant robot</keyword>
+		<keyword>anime style</keyword>
+		<keyword>time traveler</keyword>
+		<keyword>time travel</keyword>
+		<keyword>backward time travel</keyword>
+		<keyword>female time traveler</keyword>
+		<keyword>growth</keyword>
+		<keyword>columbia tristar</keyword>
+		<keyword>hyperbolic physical distortion</keyword>
+		<keyword>spider man 2099 character</keyword>
+		<keyword>african mexican</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>suburbia</keyword>
+		<keyword>black protagonist</keyword>
+		<keyword>cartoon violence</keyword>
+		<keyword>six word title</keyword>
+		<keyword>marvel</keyword>
+		<keyword>villain</keyword>
+		<keyword>city</keyword>
+		<keyword>heroine</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>car</keyword>
+		<keyword>uniformed police officer</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>animal</keyword>
+		<keyword>night</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>arachnid</keyword>
+		<keyword>touchscreen</keyword>
+		<keyword>mobile telephone</keyword>
+		<keyword>arthropod</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>masked superhero</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>usb key</keyword>
+		<keyword>dorm room</keyword>
+		<keyword>spider man costume</keyword>
+		<keyword>hardcover book</keyword>
+		<keyword>north america</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>book</keyword>
+		<keyword>computer</keyword>
+		<keyword>weapon</keyword>
+		<keyword>wilson fisk character</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>sport utility vehicle</keyword>
+		<keyword>talking pig</keyword>
+		<keyword>peter b. parker character</keyword>
+		<keyword>house</keyword>
+		<keyword>handgun</keyword>
+		<keyword>suv</keyword>
+		<keyword>anthropomorphic pig</keyword>
+		<keyword>fire escape</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>firearm</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>passenger compartment</keyword>
+		<keyword>gun</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>blond hair</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>biopunk</keyword>
+		<keyword>first part</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>teen adventure</keyword>
+		<keyword>origin story</keyword>
+		<keyword>alternate version of someone</keyword>
+		<keyword>new school</keyword>
+		<keyword>private school</keyword>
+		<keyword>dormitory</keyword>
+		<keyword>roommate</keyword>
+		<keyword>reference to great expectations the novel</keyword>
+		<keyword>portal to another dimension</keyword>
+		<keyword>super collider</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>death of hero</keyword>
+		<keyword>superhero costume</keyword>
+		<keyword>death of superhero</keyword>
+		<keyword>subway tunnel</keyword>
+		<keyword>hip hop</keyword>
+		<keyword>air jordan sneakers</keyword>
+		<keyword>usb drive</keyword>
+		<keyword>override code</keyword>
+		<keyword>glitch</keyword>
+		<keyword>unmasking</keyword>
+		<keyword>secret revealed</keyword>
+		<keyword>learning the truth</keyword>
+		<keyword>spider sense</keyword>
+		<keyword>fight or flight</keyword>
+		<keyword>new powers</keyword>
+		<keyword>haircut</keyword>
+		<keyword>transported to another dimension</keyword>
+		<keyword>trapped in another dimension</keyword>
+		<keyword>puberty</keyword>
+		<keyword>adolescence</keyword>
+		<keyword>comic caption</keyword>
+		<keyword>inner monologue</keyword>
+		<keyword>internal monologue</keyword>
+		<keyword>computer password</keyword>
+		<keyword>jaded</keyword>
+		<keyword>depressed</keyword>
+		<keyword>over the hill</keyword>
+		<keyword>out of shape</keyword>
+		<keyword>sweatpants</keyword>
+		<keyword>shed</keyword>
+		<keyword>infiltration</keyword>
+		<keyword>posing as a waiter</keyword>
+		<keyword>impersonating a waiter</keyword>
+		<keyword>bow tie</keyword>
+		<keyword>reference to chance the rapper</keyword>
+		<keyword>comic book panel</keyword>
+		<keyword>hand on shoulder</keyword>
+		<keyword>security officer</keyword>
+		<keyword>walking on the wall</keyword>
+		<keyword>crawling through an air shaft</keyword>
+		<keyword>elevated train</keyword>
+		<keyword>wall crawling</keyword>
+		<keyword>entering through a window</keyword>
+		<keyword>jumping off a rooftop</keyword>
+		<keyword>name tag</keyword>
+		<keyword>electric shock</keyword>
+		<keyword>snowman</keyword>
+		<keyword>air duct</keyword>
+		<keyword>saliva sample</keyword>
+		<keyword>view through microscope</keyword>
+		<keyword>hudson valley</keyword>
+		<keyword>hudson valley new york</keyword>
+		<keyword>ballet shoes</keyword>
+		<keyword>cape</keyword>
+		<keyword>team up</keyword>
+		<keyword>new look</keyword>
+		<keyword>fedora</keyword>
+		<keyword>worried parents</keyword>
+		<keyword>worried father</keyword>
+		<keyword>mech</keyword>
+		<keyword>japanese american</keyword>
+		<keyword>puerto rican american</keyword>
+		<keyword>eyebrow piercing</keyword>
+		<keyword>gala</keyword>
+		<keyword>21st century</keyword>
+		<keyword>2010s</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>reference to spider man 3</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>mexican</keyword>
+		<keyword>afro</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>dimension</keyword>
+		<keyword>divorced couple</keyword>
+		<keyword>another dimension</keyword>
+		<keyword>woman with long hair</keyword>
+		<keyword>spiderweb</keyword>
+		<keyword>trenchcoat</keyword>
+		<keyword>fish out of water</keyword>
+		<keyword>biracial</keyword>
+		<keyword>mexican superhero</keyword>
+		<keyword>masked man</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>sony spiderverse</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>death of son</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Bob Persichetti</director>
+		<director> Peter Ramsey</director>
+		<director> Rodney Rothman</director>
+	</directors>
+	<composers>
+		<composer> Daniel Pemberton</composer>
+	</composers>
+	<producers>
+		<producer> Will Allegra</producer>
+		<producer> Avi Arad</producer>
+		<producer> Brian Michael Bendis</producer>
+		<producer> Theresa Bentz</producer>
+		<producer> Christian Hejnal</producer>
+		<producer> Stan Lee</producer>
+		<producer> Phil Lord</producer>
+		<producer> Christopher Miller</producer>
+		<producer> Amy Pascal</producer>
+		<producer> Craig Sost</producer>
+		<producer> Christina Steinberg</producer>
+	</producers>
+	<writers>
+		<writer> Phil Lord</writer>
+		<writer> Rodney Rothman</writer>
+		<writer> Phil Lord</writer>
+	</writers>
+	<editors>
+		<editor> Robert Fisher Jr.</editor>
+	</editors>
+</doc>

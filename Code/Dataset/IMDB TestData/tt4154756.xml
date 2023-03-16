@@ -1,0 +1,813 @@
+<?xml version="1.0" ?>
+<doc id="tt4154756">
+	<docid>tt4154756</docid>
+	<title>Avengers: Infinity War</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">149</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>IMAX 6-Track</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Robert Downey Jr.</actor>
+			<role>Tony Stark</role>
+		</credit>
+		<credit>
+			<actor>Chris Hemsworth</actor>
+			<role>Thor</role>
+		</credit>
+		<credit>
+			<actor>Mark Ruffalo</actor>
+			<role>Bruce Banner</role>
+		</credit>
+		<credit>
+			<actor>Chris Evans</actor>
+			<role>Steve Rogers</role>
+		</credit>
+		<credit>
+			<actor>Scarlett Johansson</actor>
+			<role>Natasha Romanoff</role>
+		</credit>
+		<credit>
+			<actor>Don Cheadle</actor>
+			<role>James Rhodes</role>
+		</credit>
+		<credit>
+			<actor>Benedict Cumberbatch</actor>
+			<role>Doctor Strange</role>
+		</credit>
+		<credit>
+			<actor>Tom Holland</actor>
+			<role>Peter Parker</role>
+		</credit>
+		<credit>
+			<actor>Chadwick Boseman</actor>
+			<role>T'Challa</role>
+		</credit>
+		<credit>
+			<actor>Zoe Saldana</actor>
+			<role>Gamora</role>
+		</credit>
+		<credit>
+			<actor>Karen Gillan</actor>
+			<role>Nebula</role>
+		</credit>
+		<credit>
+			<actor>Tom Hiddleston</actor>
+			<role>Loki</role>
+		</credit>
+		<credit>
+			<actor>Paul Bettany</actor>
+			<role>Vision</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Olsen</actor>
+			<role>Wanda Maximoff</role>
+		</credit>
+		<credit>
+			<actor>Anthony Mackie</actor>
+			<role>Sam Wilson</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Stan</actor>
+			<role>Bucky Barnes</role>
+		</credit>
+		<credit>
+			<actor>Idris Elba</actor>
+			<role>Heimdall</role>
+		</credit>
+		<credit>
+			<actor>Danai Gurira</actor>
+			<role>Okoye</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">April 23 2018</releasedate>
+		<releasedate country="Australia">April 25 2018</releasedate>
+		<releasedate country="Belgium">April 25 2018</releasedate>
+		<releasedate country="Switzerland">April 25 2018</releasedate>
+		<releasedate country="Colombia">April 25 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">13 +</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">10</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">12A</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>superhero</keyword>
+		<keyword>death of recurring character</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>marvel cinematic universe</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>wakanda</keyword>
+		<keyword>infinity stone</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>flying superhero</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>teenage superhero</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>sequel</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>iron man character</keyword>
+		<keyword>bruce banner character</keyword>
+		<keyword>spider man character</keyword>
+		<keyword>captain america character</keyword>
+		<keyword>talking raccoon</keyword>
+		<keyword>death of major character</keyword>
+		<keyword>final battle</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>fictional planet</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>avengers</keyword>
+		<keyword>third part</keyword>
+		<keyword>natasha romanoff character</keyword>
+		<keyword>tony stark character</keyword>
+		<keyword>race against time</keyword>
+		<keyword>genocide</keyword>
+		<keyword>time reversal</keyword>
+		<keyword>star lord character</keyword>
+		<keyword>gamora character</keyword>
+		<keyword>groot character</keyword>
+		<keyword>nebula character</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>adoptive daughter</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>black panther character</keyword>
+		<keyword>black widow character</keyword>
+		<keyword>rocket raccoon character</keyword>
+		<keyword>the incredible hulk character</keyword>
+		<keyword>thor the marvel comics character</keyword>
+		<keyword>shot back to back</keyword>
+		<keyword>action hero</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>superhero team</keyword>
+		<keyword>epic</keyword>
+		<keyword>bucky barnes character</keyword>
+		<keyword>marvel entertainment</keyword>
+		<keyword>cosmic</keyword>
+		<keyword>steve rogers character</keyword>
+		<keyword>peter parker character</keyword>
+		<keyword>sam wilson character</keyword>
+		<keyword>raccoon</keyword>
+		<keyword>hammer axe</keyword>
+		<keyword>death of a comic book character</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>battle</keyword>
+		<keyword>sacrificing a loved one</keyword>
+		<keyword>stabbed through back</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>s.h.i.e.l.d.</keyword>
+		<keyword>world domination</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>tesseract</keyword>
+		<keyword>alien supervillain</keyword>
+		<keyword>force field</keyword>
+		<keyword>distress signal</keyword>
+		<keyword>outer space</keyword>
+		<keyword>alternate dimension</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>sorcerer</keyword>
+		<keyword>flashback</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>torture</keyword>
+		<keyword>guardians of the galaxy</keyword>
+		<keyword>pepper potts character</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>space travel</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>bubble</keyword>
+		<keyword>new york city</keyword>
+		<keyword>fictional african country</keyword>
+		<keyword>sanctum sanctorum</keyword>
+		<keyword>stan lee cameo</keyword>
+		<keyword>black superhero</keyword>
+		<keyword>gauntlet</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>drax the destroyer character</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>android</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>army</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>high tech suit</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>alter ego</keyword>
+		<keyword>conquest</keyword>
+		<keyword>power</keyword>
+		<keyword>invasion</keyword>
+		<keyword>bad guy wins</keyword>
+		<keyword>universe</keyword>
+		<keyword>doctor strange character</keyword>
+		<keyword>loki character</keyword>
+		<keyword>red skull character</keyword>
+		<keyword>scarlet witch character</keyword>
+		<keyword>henchman</keyword>
+		<keyword>supervillainess</keyword>
+		<keyword>thanos character</keyword>
+		<keyword>war machine character</keyword>
+		<keyword>asgardian</keyword>
+		<keyword>cloak of levitation</keyword>
+		<keyword>alien superhero</keyword>
+		<keyword>vision character</keyword>
+		<keyword>heimdall character</keyword>
+		<keyword>falcon character</keyword>
+		<keyword>time manipulation</keyword>
+		<keyword>reality bending</keyword>
+		<keyword>reference to captain marvel the marvel comics character</keyword>
+		<keyword>maria hill character</keyword>
+		<keyword>reference to spongebob squarepants</keyword>
+		<keyword>crossover</keyword>
+		<keyword>iron spider armor</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>alien</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>nick fury character</keyword>
+		<keyword>implied death of character</keyword>
+		<keyword>reference to starbucks</keyword>
+		<keyword>taxi</keyword>
+		<keyword>three word title</keyword>
+		<keyword>cliffhanger</keyword>
+		<keyword>cliffhanger ending</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>reference to kevin bacon</keyword>
+		<keyword>showdown</keyword>
+		<keyword>thrown from height</keyword>
+		<keyword>pushed from height</keyword>
+		<keyword>mass murder</keyword>
+		<keyword>mass murderer</keyword>
+		<keyword>wizard</keyword>
+		<keyword>magic</keyword>
+		<keyword>magician</keyword>
+		<keyword>open ended</keyword>
+		<keyword>returning character with different actor</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>fictional world</keyword>
+		<keyword>extraterrestrial being</keyword>
+		<keyword>reference to the beatles</keyword>
+		<keyword>thanos invasion</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>destruction</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>mind control</keyword>
+		<keyword>mind reading</keyword>
+		<keyword>telepathy</keyword>
+		<keyword>levitation</keyword>
+		<keyword>flying</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>rocket</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>hologram</keyword>
+		<keyword>laser</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>uzi</keyword>
+		<keyword>grenade</keyword>
+		<keyword>bomb</keyword>
+		<keyword>missile</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>portal</keyword>
+		<keyword>wormhole</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>tech genius</keyword>
+		<keyword>secretary</keyword>
+		<keyword>love interest</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>death of loved one</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>death of boyfriend</keyword>
+		<keyword>loss of boyfriend</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>reference to flash gordon</keyword>
+		<keyword>suicide attempt</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>suspense</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>chrysler building manhattan new york city</keyword>
+		<keyword>central park manhattan new york city</keyword>
+		<keyword>brooklyn bridge</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>scotland</keyword>
+		<keyword>africa</keyword>
+		<keyword>quinjet</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>corpse</keyword>
+		<keyword>planet</keyword>
+		<keyword>floating in space</keyword>
+		<keyword>explosive decompression</keyword>
+		<keyword>witch</keyword>
+		<keyword>energy beam</keyword>
+		<keyword>school bus</keyword>
+		<keyword>school bus driver</keyword>
+		<keyword>cameo</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>severed head</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>blacksmith</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>train station</keyword>
+		<keyword>news report</keyword>
+		<keyword>church</keyword>
+		<keyword>bell tower</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>star</keyword>
+		<keyword>axe</keyword>
+		<keyword>knife</keyword>
+		<keyword>spear</keyword>
+		<keyword>sword</keyword>
+		<keyword>shield</keyword>
+		<keyword>drone</keyword>
+		<keyword>wingsuit</keyword>
+		<keyword>black hero</keyword>
+		<keyword>gemstone</keyword>
+		<keyword>cube</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>beard</keyword>
+		<keyword>humor</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>half brother</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>loss of brother</keyword>
+		<keyword>special forces</keyword>
+		<keyword>king</keyword>
+		<keyword>massacre</keyword>
+		<keyword>green skin</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>purple skin</keyword>
+		<keyword>suit of armor</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>throne</keyword>
+		<keyword>revenge</keyword>
+		<keyword>redemption</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>kingdom</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>mission</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>general</keyword>
+		<keyword>female general</keyword>
+		<keyword>soldier</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>assassin</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>female mercenary</keyword>
+		<keyword>overpopulation</keyword>
+		<keyword>scientist</keyword>
+		<keyword>african</keyword>
+		<keyword>costume</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>masked man</keyword>
+		<keyword>masked superhero</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>teenager</keyword>
+		<keyword>teenage hero</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>saving the world</keyword>
+		<keyword>robot suit</keyword>
+		<keyword>nanotechnology</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>courage</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>norse god</keyword>
+		<keyword>god</keyword>
+		<keyword>human alien</keyword>
+		<keyword>lightning</keyword>
+		<keyword>thunder</keyword>
+		<keyword>bravery</keyword>
+		<keyword>creature</keyword>
+		<keyword>one eyed man</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>giant</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>earth viewed from space</keyword>
+		<keyword>mountain</keyword>
+		<keyword>snow</keyword>
+		<keyword>monster</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>helmet</keyword>
+		<keyword>split personality</keyword>
+		<keyword>alien monster</keyword>
+		<keyword>world war two veteran</keyword>
+		<keyword>war hero</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>hero</keyword>
+		<keyword>heroism</keyword>
+		<keyword>dog</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>ambush</keyword>
+		<keyword>scar</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>death threat</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>chase</keyword>
+		<keyword>fighting in the air</keyword>
+		<keyword>little person</keyword>
+		<keyword>one against many</keyword>
+		<keyword>two against one</keyword>
+		<keyword>catfight</keyword>
+		<keyword>villainess</keyword>
+		<keyword>woods</keyword>
+		<keyword>combat</keyword>
+		<keyword>forest</keyword>
+		<keyword>swamp</keyword>
+		<keyword>quest</keyword>
+		<keyword>prologue</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>cloak</keyword>
+		<keyword>kiss</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>factory</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>destiny</keyword>
+		<keyword>alien contact</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>alien invasion</keyword>
+		<keyword>car crash</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>car accident</keyword>
+		<keyword>laser beam</keyword>
+		<keyword>laser cutter</keyword>
+		<keyword>operation</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>mercy killing</keyword>
+		<keyword>surgery</keyword>
+		<keyword>dagger</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>bifrost</keyword>
+		<keyword>cape</keyword>
+		<keyword>disguise</keyword>
+		<keyword>warrior race</keyword>
+		<keyword>tribe</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>empath</keyword>
+		<keyword>warlord</keyword>
+		<keyword>alien warlord</keyword>
+		<keyword>conqueror</keyword>
+		<keyword>fire</keyword>
+		<keyword>campfire</keyword>
+		<keyword>prosthetic limb</keyword>
+		<keyword>crying</keyword>
+		<keyword>yelling</keyword>
+		<keyword>screaming</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>prosthetic arm</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>magical power</keyword>
+		<keyword>emergency exit</keyword>
+		<keyword>yellow cab</keyword>
+		<keyword>transformation</keyword>
+		<keyword>hole in the ground</keyword>
+		<keyword>falling tree</keyword>
+		<keyword>man slaps himself</keyword>
+		<keyword>web</keyword>
+		<keyword>floating</keyword>
+		<keyword>levitating</keyword>
+		<keyword>sanctum</keyword>
+		<keyword>mobile phone</keyword>
+		<keyword>mobile telephone</keyword>
+		<keyword>orbit</keyword>
+		<keyword>running out of oxygen</keyword>
+		<keyword>earthling</keyword>
+		<keyword>death by alien</keyword>
+		<keyword>big headed alien</keyword>
+		<keyword>attacked by an alien</keyword>
+		<keyword>bipedal alien</keyword>
+		<keyword>asteroid belt</keyword>
+		<keyword>earth music</keyword>
+		<keyword>singing</keyword>
+		<keyword>sleeping man</keyword>
+		<keyword>asleep at the wheel</keyword>
+		<keyword>leather jacket</keyword>
+		<keyword>product placement</keyword>
+		<keyword>green alien</keyword>
+		<keyword>green woman</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>lift off</keyword>
+		<keyword>tv news</keyword>
+		<keyword>television report</keyword>
+		<keyword>forehead scar</keyword>
+		<keyword>winged creature</keyword>
+		<keyword>weapons drawn</keyword>
+		<keyword>hushing someone</keyword>
+		<keyword>outlaw's daughter</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>sucked into space</keyword>
+		<keyword>life sucked out</keyword>
+		<keyword>sucked out an air lock</keyword>
+		<keyword>space debris</keyword>
+		<keyword>weapon maker</keyword>
+		<keyword>leather boots</keyword>
+		<keyword>weapons manufacturer</keyword>
+		<keyword>snowing</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>evil alien</keyword>
+		<keyword>human alien hybrid</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>mystic arts</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>caped superhero</keyword>
+		<keyword>male human alien hybrid</keyword>
+		<keyword>human in outer space</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>advanced technology</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>half human</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>enchanted cloak</keyword>
+		<keyword>weapon</keyword>
+		<keyword>god of mischief</keyword>
+		<keyword>newlywed</keyword>
+		<keyword>newlywed couple</keyword>
+		<keyword>female secret agent</keyword>
+		<keyword>cybernetic arm</keyword>
+		<keyword>col. james 'rhodey' rhodes character</keyword>
+		<keyword>thunderbolt ross character</keyword>
+		<keyword>infinity gauntlet</keyword>
+		<keyword>superhero team up</keyword>
+		<keyword>reference to the museum of modern art manhattan new york city</keyword>
+		<keyword>reference to moma</keyword>
+		<keyword>reference to squidward</keyword>
+		<keyword>tractor beam</keyword>
+		<keyword>reference to mcdonald's character grimace</keyword>
+		<keyword>reference to ant man</keyword>
+		<keyword>reference to scott lang</keyword>
+		<keyword>reference to clint barton</keyword>
+		<keyword>reference to hawkeye</keyword>
+		<keyword>shuri character</keyword>
+		<keyword>powered armor</keyword>
+		<keyword>adopted father</keyword>
+		<keyword>adopted daughter</keyword>
+		<keyword>african superhero</keyword>
+		<keyword>superhero suit</keyword>
+		<keyword>peter quill character</keyword>
+		<keyword>walking along a riverbank</keyword>
+		<keyword>all star cast</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>infinity saga</keyword>
+		<keyword>cleavage</keyword>
+		<keyword>rage</keyword>
+		<keyword>grief</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>man wears a suit and tie</keyword>
+		<keyword>man wears sunglasses</keyword>
+		<keyword>superhero crying</keyword>
+		<keyword>mistaken belief that one is invisible</keyword>
+		<keyword>extraterrestrial supervillain</keyword>
+		<keyword>comicbook movie</keyword>
+		<keyword>disney marvel</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>action girl</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>human alien kiss</keyword>
+		<keyword>human alien romance</keyword>
+		<keyword>reference to ben and jerry's</keyword>
+		<keyword>reference to bowflex</keyword>
+		<keyword>united states secretary of state</keyword>
+		<keyword>winter soldier character</keyword>
+		<keyword>disintegration</keyword>
+		<keyword>woman wears a uniform</keyword>
+		<keyword>black uniform</keyword>
+		<keyword>woman wears tactical outfit</keyword>
+		<keyword>woman wears gloves</keyword>
+		<keyword>woman wears boots</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>2010s</keyword>
+		<keyword>abusive stepfather</keyword>
+		<keyword>choking to death</keyword>
+		<keyword>marvel</keyword>
+		<keyword>superhero villain</keyword>
+		<keyword>spider sense</keyword>
+		<keyword>humanity in jeopardy</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>anthropomorphic raccoon</keyword>
+		<keyword>anthropomorphic plant</keyword>
+		<keyword>tree</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>eye patch</keyword>
+		<keyword>man wears an eye patch</keyword>
+		<keyword>spiderweb</keyword>
+		<keyword>wanda maximoff character</keyword>
+		<keyword>mantis character</keyword>
+		<keyword>unhappy ending</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>glass eye</keyword>
+		<keyword>chaos</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>brutality</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>unidentified flying object</keyword>
+		<keyword>tyrant</keyword>
+		<keyword>airplane</keyword>
+		<keyword>bi pedal</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>drinking soup</keyword>
+		<keyword>staring into each other's eyes</keyword>
+		<keyword>looking into someone's eyes</keyword>
+		<keyword>debris</keyword>
+		<keyword>wind in hair</keyword>
+		<keyword>stepfather stepdaughter relationship</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>stormbreaker</keyword>
+		<keyword>cult film</keyword>
+		<keyword>male villain</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>hulkbuster armor</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>surrealist</keyword>
+	</keywords>
+	<directors>
+		<director> Anthony Russo</director>
+		<director> Joe Russo</director>
+	</directors>
+	<composers>
+		<composer> Alan Silvestri</composer>
+	</composers>
+	<producers>
+		<producer> Victoria Alonso</producer>
+		<producer> Mitchell Bell</producer>
+		<producer> Ari Costa</producer>
+		<producer> Louis D'Esposito</producer>
+		<producer> Jon Favreau</producer>
+		<producer> Kevin Feige</producer>
+		<producer> Michael Grillo</producer>
+		<producer> James Gunn</producer>
+		<producer> Stan Lee</producer>
+		<producer> JoAnn Perritano</producer>
+		<producer> Edu Sallouti</producer>
+		<producer> Nicholas Simon</producer>
+		<producer> Trinh Tran</producer>
+		<producer> Jen Underdahl</producer>
+	</producers>
+	<writers>
+		<writer> Christopher Markus</writer>
+		<writer> Stephen McFeely</writer>
+		<writer> Stan Lee</writer>
+		<writer> Jack Kirby</writer>
+		<writer> Joe Simon</writer>
+		<writer> Jack Kirby</writer>
+		<writer> Steve Englehart</writer>
+		<writer> Steve Gan</writer>
+		<writer> Bill Mantlo</writer>
+		<writer> Keith Giffen</writer>
+		<writer> Jim Starlin</writer>
+		<writer> Stan Lee</writer>
+		<writer> Larry Lieber</writer>
+		<writer> Jack Kirby</writer>
+		<writer> Steve Englehart</writer>
+		<writer> Don Heck</writer>
+		<writer> Jim Starlin</writer>
+	</writers>
+	<editors>
+		<editor> Jeffrey Ford</editor>
+		<editor> Matthew Schmidt</editor>
+	</editors>
+</doc>

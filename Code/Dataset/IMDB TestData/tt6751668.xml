@@ -1,0 +1,502 @@
+<?xml version="1.0" ?>
+<doc id="tt6751668">
+	<docid>tt6751668</docid>
+	<title>Parasite</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWJhYmMzY2ItNDZjYi00NjJiLWI4MWItZjlkMzk1OGZjNGZmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">132</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Song Kang-ho</actor>
+			<role>Ki Taek</role>
+		</credit>
+		<credit>
+			<actor>Lee Sun-kyun</actor>
+			<role>Dong Ik</role>
+		</credit>
+		<credit>
+			<actor>Cho Yeo-jeong</actor>
+			<role>Yeon Kyo</role>
+		</credit>
+		<credit>
+			<actor>Choi Woo-sik</actor>
+			<role>Ki Woo</role>
+		</credit>
+		<credit>
+			<actor>Park So-dam</actor>
+			<role>Ki Jung</role>
+		</credit>
+		<credit>
+			<actor>Lee Jeong-eun</actor>
+			<role>Moon Gwang</role>
+		</credit>
+		<credit>
+			<actor>Jang Hye-jin</actor>
+			<role>Chung Sook</role>
+		</credit>
+		<credit>
+			<actor>Park Myeong-hoon</actor>
+			<role>Geun Se</role>
+		</credit>
+		<credit>
+			<actor>Jung Ji-so</actor>
+			<role>Da Hye</role>
+		</credit>
+		<credit>
+			<actor>Jung Hyun-jun</actor>
+			<role>Da Song</role>
+		</credit>
+		<credit>
+			<actor>Park Keun-rok</actor>
+			<role>Driver Yoon</role>
+		</credit>
+		<credit>
+			<actor>Jung Yi-seo</actor>
+			<role>CEO of Pizza Place</role>
+		</credit>
+		<credit>
+			<actor>Jo Jae-myeong</actor>
+			<role>CEO's Brother of Pizza Place</role>
+		</credit>
+		<credit>
+			<actor>Jung Ik-han</actor>
+			<role>Neighbor</role>
+		</credit>
+		<credit>
+			<actor>Kim Kyu-baek</actor>
+			<role>Drunk Person 1</role>
+		</credit>
+		<credit>
+			<actor>Hwang In-kyung</actor>
+			<role>Internet Cafe Staff</role>
+		</credit>
+		<credit>
+			<actor>Ahn Seong-bong</actor>
+			<role>Street Fighting Person 1</role>
+		</credit>
+		<credit>
+			<actor>Kim Jin-hyung</actor>
+			<role>Street Fighting Person 2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 21 2019</releasedate>
+		<releasedate country="South Korea">May 30 2019</releasedate>
+		<releasedate country="France">June 5 2019</releasedate>
+		<releasedate country="Australia">June 15 2019</releasedate>
+		<releasedate country="Switzerland">June 19 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Belgium">12</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">PG</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Nigeria">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Saudi Arabia">R12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>class differences</keyword>
+		<keyword>plot twist</keyword>
+		<keyword>social satire</keyword>
+		<keyword>fraud</keyword>
+		<keyword>house</keyword>
+		<keyword>scam</keyword>
+		<keyword>fake identity</keyword>
+		<keyword>wealth</keyword>
+		<keyword>housekeeper</keyword>
+		<keyword>murder</keyword>
+		<keyword>tutor</keyword>
+		<keyword>maid</keyword>
+		<keyword>rich family</keyword>
+		<keyword>class struggle</keyword>
+		<keyword>chauffeur</keyword>
+		<keyword>birthday</keyword>
+		<keyword>poor family</keyword>
+		<keyword>rain</keyword>
+		<keyword>driver</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>basement</keyword>
+		<keyword>morse code</keyword>
+		<keyword>south korea</keyword>
+		<keyword>peach</keyword>
+		<keyword>poverty</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>wifi</keyword>
+		<keyword>toilet</keyword>
+		<keyword>forgery</keyword>
+		<keyword>english lesson</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>allergy</keyword>
+		<keyword>camping</keyword>
+		<keyword>bunker</keyword>
+		<keyword>hiding under a table</keyword>
+		<keyword>flood</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>secret door</keyword>
+		<keyword>cellar hideout</keyword>
+		<keyword>secret cellar</keyword>
+		<keyword>flooded city</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>flooded apartment</keyword>
+		<keyword>social class</keyword>
+		<keyword>rich snob</keyword>
+		<keyword>satire of capitalist society</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>slum</keyword>
+		<keyword>child's painting</keyword>
+		<keyword>reference to kim jong un</keyword>
+		<keyword>breast fondling</keyword>
+		<keyword>one word title</keyword>
+		<keyword>dog</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>public urination</keyword>
+		<keyword>human eats dog food</keyword>
+		<keyword>thunderstorm</keyword>
+		<keyword>blood</keyword>
+		<keyword>hiding</keyword>
+		<keyword>hiding under a bed</keyword>
+		<keyword>tent</keyword>
+		<keyword>birthday party</keyword>
+		<keyword>police</keyword>
+		<keyword>pizza box</keyword>
+		<keyword>reading someone else's diary</keyword>
+		<keyword>locked in a cellar</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>skewer</keyword>
+		<keyword>bug</keyword>
+		<keyword>concussion</keyword>
+		<keyword>villa</keyword>
+		<keyword>garden</keyword>
+		<keyword>flooded road</keyword>
+		<keyword>tomahawk</keyword>
+		<keyword>axe</keyword>
+		<keyword>big knife</keyword>
+		<keyword>personal tutor</keyword>
+		<keyword>false credentials</keyword>
+		<keyword>teenager</keyword>
+		<keyword>secret underground bunker</keyword>
+		<keyword>hiding in the basement</keyword>
+		<keyword>peach allergy</keyword>
+		<keyword>head injury</keyword>
+		<keyword>hired help</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>killing a witness</keyword>
+		<keyword>lucky rock</keyword>
+		<keyword>mistaken for a ghost</keyword>
+		<keyword>secretly living in someone's home</keyword>
+		<keyword>grifting family</keyword>
+		<keyword>getting someone fired</keyword>
+		<keyword>american indian costume</keyword>
+		<keyword>joblessness</keyword>
+		<keyword>food</keyword>
+		<keyword>art therapy</keyword>
+		<keyword>video surveillance</keyword>
+		<keyword>toy teepee</keyword>
+		<keyword>toy bow and arrow</keyword>
+		<keyword>security system</keyword>
+		<keyword>camping trip</keyword>
+		<keyword>looking out a window</keyword>
+		<keyword>sewage</keyword>
+		<keyword>urinating in public</keyword>
+		<keyword>bomb shelter</keyword>
+		<keyword>stink bug</keyword>
+		<keyword>smell</keyword>
+		<keyword>fumigation</keyword>
+		<keyword>money</keyword>
+		<keyword>flickering light</keyword>
+		<keyword>underground bunker</keyword>
+		<keyword>hit with a rock</keyword>
+		<keyword>violence</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>brutal violence</keyword>
+		<keyword>bathroom</keyword>
+		<keyword>tragic ending</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>reference to admiral yi sun sin</keyword>
+		<keyword>reference to the battle of hansan island</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>english teacher</keyword>
+		<keyword>kiss</keyword>
+		<keyword>little boy</keyword>
+		<keyword>pet dog</keyword>
+		<keyword>drawing</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>diary</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>drinking alcohol</keyword>
+		<keyword>dog food</keyword>
+		<keyword>hidden door</keyword>
+		<keyword>secret</keyword>
+		<keyword>hunger</keyword>
+		<keyword>making a video</keyword>
+		<keyword>cell phone video</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>hospital</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>loss of daughter</keyword>
+		<keyword>letter</keyword>
+		<keyword>fake diploma</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>architect's house</keyword>
+		<keyword>tuberculosis</keyword>
+		<keyword>allergen</keyword>
+		<keyword>first person narration</keyword>
+		<keyword>employee dismissal</keyword>
+		<keyword>penniless</keyword>
+		<keyword>apartment living</keyword>
+		<keyword>apartment</keyword>
+		<keyword>cricket</keyword>
+		<keyword>signal</keyword>
+		<keyword>mercedes</keyword>
+		<keyword>message</keyword>
+		<keyword>instructor</keyword>
+		<keyword>plan</keyword>
+		<keyword>english</keyword>
+		<keyword>cement</keyword>
+		<keyword>corporation</keyword>
+		<keyword>ambition</keyword>
+		<keyword>scheme</keyword>
+		<keyword>lawn</keyword>
+		<keyword>attack</keyword>
+		<keyword>knife</keyword>
+		<keyword>kitchen knife</keyword>
+		<keyword>plum</keyword>
+		<keyword>rock</keyword>
+		<keyword>class war</keyword>
+		<keyword>unemployment</keyword>
+		<keyword>fraudster</keyword>
+		<keyword>hustle</keyword>
+		<keyword>flashback</keyword>
+		<keyword>battle of wills</keyword>
+		<keyword>torrential rain</keyword>
+		<keyword>loss of sister</keyword>
+		<keyword>loss of a child</keyword>
+		<keyword>social parasite</keyword>
+		<keyword>desperate behavior</keyword>
+		<keyword>attempted blackmail</keyword>
+		<keyword>pet rock</keyword>
+		<keyword>plan backfires</keyword>
+		<keyword>ironic ending</keyword>
+		<keyword>traumatized child</keyword>
+		<keyword>swindling scheme</keyword>
+		<keyword>swindling family</keyword>
+		<keyword>nepotism</keyword>
+		<keyword>house party</keyword>
+		<keyword>murder of daughter</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>employee murders employer</keyword>
+		<keyword>odor</keyword>
+		<keyword>murder of sister</keyword>
+		<keyword>sense of smell</keyword>
+		<keyword>snowing</keyword>
+		<keyword>murder of wife</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>eating</keyword>
+		<keyword>valet</keyword>
+		<keyword>belief in ghosts</keyword>
+		<keyword>feeling for a pulse</keyword>
+		<keyword>gullibility</keyword>
+		<keyword>naivete</keyword>
+		<keyword>stairway</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>escape room</keyword>
+		<keyword>murder of father</keyword>
+		<keyword>coma</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>upstairs downstairs</keyword>
+		<keyword>naive woman</keyword>
+		<keyword>pizza</keyword>
+		<keyword>noodles</keyword>
+		<keyword>steak</keyword>
+		<keyword>family as protagonists</keyword>
+		<keyword>death of sister</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>mobile phone</keyword>
+		<keyword>education</keyword>
+		<keyword>drinking</keyword>
+		<keyword>raincoat</keyword>
+		<keyword>sofa</keyword>
+		<keyword>art</keyword>
+		<keyword>native american</keyword>
+		<keyword>hidden basement</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>metaphorical title</keyword>
+		<keyword>costume</keyword>
+		<keyword>business</keyword>
+		<keyword>car</keyword>
+		<keyword>cooking</keyword>
+		<keyword>fruit</keyword>
+		<keyword>deception</keyword>
+		<keyword>lamp</keyword>
+		<keyword>asia</keyword>
+		<keyword>modern house</keyword>
+		<keyword>street</keyword>
+		<keyword>child</keyword>
+		<keyword>view from a window</keyword>
+		<keyword>planting evidence</keyword>
+		<keyword>south korean woman</keyword>
+		<keyword>wifi password</keyword>
+		<keyword>sitting on floor</keyword>
+		<keyword>medal</keyword>
+		<keyword>lie</keyword>
+		<keyword>liar</keyword>
+		<keyword>south korean girl</keyword>
+		<keyword>south korean school girl</keyword>
+		<keyword>exam</keyword>
+		<keyword>examination</keyword>
+		<keyword>simpleton</keyword>
+		<keyword>bowing</keyword>
+		<keyword>kiss on the lips</keyword>
+		<keyword>kissing on the lip</keyword>
+		<keyword>feeding someone</keyword>
+		<keyword>transcript</keyword>
+		<keyword>betrayer</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>kiss on the mouth</keyword>
+		<keyword>worrying</keyword>
+		<keyword>shopping</keyword>
+		<keyword>confiding in one's servant</keyword>
+		<keyword>ribs</keyword>
+		<keyword>korean food</keyword>
+		<keyword>sibling relationship</keyword>
+		<keyword>husband wife sex</keyword>
+		<keyword>trophy wife</keyword>
+		<keyword>brain damage</keyword>
+		<keyword>family photograph</keyword>
+		<keyword>photograph</keyword>
+		<keyword>cult film</keyword>
+		<keyword>sleeping on the floor</keyword>
+		<keyword>high school teacher</keyword>
+		<keyword>forged document</keyword>
+		<keyword>reference to jean michel basquiat</keyword>
+		<keyword>job interview</keyword>
+		<keyword>secret room</keyword>
+		<keyword>accidental death</keyword>
+		<keyword>waking up in a hospital</keyword>
+		<keyword>kitchen knife as weapon</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>fainting</keyword>
+		<keyword>tv news</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>dead body buried in a garden</keyword>
+		<keyword>bourgeoisie</keyword>
+		<keyword>impostor</keyword>
+		<keyword>nihilism</keyword>
+		<keyword>bathing</keyword>
+		<keyword>domestic drama</keyword>
+		<keyword>2010s</keyword>
+		<keyword>comedic scene</keyword>
+		<keyword>bare feet</keyword>
+		<keyword>psychological horror</keyword>
+		<keyword>dramedy drama</keyword>
+		<keyword>foot fetish</keyword>
+		<keyword>foot focus</keyword>
+		<keyword>female feet</keyword>
+		<keyword>sexy feet</keyword>
+		<keyword>urination</keyword>
+		<keyword>horniness</keyword>
+		<keyword>hog tied</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Bong Joon Ho</director>
+	</directors>
+	<composers>
+		<composer> Jung Jae-il</composer>
+	</composers>
+	<producers>
+		<producer> Min Heoi Heo</producer>
+		<producer> Bong Joon Ho</producer>
+		<producer> Miky Lee</producer>
+		<producer> Min Chul Park</producer>
+		<producer> Kwak Sin-ae</producer>
+		<producer> Moon Yang Kwon</producer>
+		<producer> Jang Young Hwan</producer>
+	</producers>
+	<writers>
+		<writer> Bong Joon Ho</writer>
+		<writer> Bong Joon Ho</writer>
+		<writer> Han Jin-won</writer>
+	</writers>
+	<editors>
+		<editor> Jinmo Yang</editor>
+	</editors>
+</doc>

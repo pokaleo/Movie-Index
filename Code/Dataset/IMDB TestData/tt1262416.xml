@@ -1,0 +1,461 @@
+<?xml version="1.0" ?>
+<doc id="tt1262416">
+	<docid>tt1262416</docid>
+	<title>Scream 4</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTk5OTcxNTUyNF5BMl5BanBnXkFtZTcwMDczMzE0NA@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">111</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Ten years have passed, and Sidney Prescott, who has put herself back together thanks in part to her writing, is visited by the Ghostface Killer.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Neve Campbell</actor>
+			<role>Sidney Prescott</role>
+		</credit>
+		<credit>
+			<actor>Courteney Cox</actor>
+			<role>Gale Weathers-Riley</role>
+		</credit>
+		<credit>
+			<actor>David Arquette</actor>
+			<role>Dewey Riley</role>
+		</credit>
+		<credit>
+			<actor>Lucy Hale</actor>
+			<role>Sherrie</role>
+		</credit>
+		<credit>
+			<actor>Roger Jackson</actor>
+			<role>The Voice</role>
+		</credit>
+		<credit>
+			<actor>Shenae Grimes-Beech</actor>
+			<role>Trudie</role>
+		</credit>
+		<credit>
+			<actor>Dane Farwell</actor>
+			<role>Ghostface</role>
+		</credit>
+		<credit>
+			<actor>Anna Paquin</actor>
+			<role>Rachel</role>
+		</credit>
+		<credit>
+			<actor>Kristen Bell</actor>
+			<role>Chloe</role>
+		</credit>
+		<credit>
+			<actor>Aimee Teegarden</actor>
+			<role>Jenny Randall</role>
+		</credit>
+		<credit>
+			<actor>Britt Robertson</actor>
+			<role>Marnie Cooper</role>
+		</credit>
+		<credit>
+			<actor>Alison Brie</actor>
+			<role>Rebecca Walters</role>
+		</credit>
+		<credit>
+			<actor>Hayden Panettiere</actor>
+			<role>Kirby Reed</role>
+		</credit>
+		<credit>
+			<actor>Emma Roberts</actor>
+			<role>Jill Roberts</role>
+		</credit>
+		<credit>
+			<actor>Marielle Jaffe</actor>
+			<role>Olivia Morris</role>
+		</credit>
+		<credit>
+			<actor>Marley Shelton</actor>
+			<role>Deputy Judy Hicks</role>
+		</credit>
+		<credit>
+			<actor>Nancy O'Dell</actor>
+			<role>TV Host</role>
+		</credit>
+		<credit>
+			<actor>Justin Michael Brandt</actor>
+			<role>Film Geek</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">April 11 2011</releasedate>
+		<releasedate country="Netherlands">April 12 2011</releasedate>
+		<releasedate country="Belgium">April 13 2011</releasedate>
+		<releasedate country="Egypt">April 13 2011</releasedate>
+		<releasedate country="France">April 13 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-15</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Romania">I.M.-18</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">NC-16</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">18+</certificate>
+		<certificate country="Thailand">u 18+</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>masked murderer</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>slasher killer</keyword>
+		<keyword>teen horror</keyword>
+		<keyword>revenge</keyword>
+		<keyword>film within a film within a film</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>small town</keyword>
+		<keyword>high school student</keyword>
+		<keyword>high school</keyword>
+		<keyword>satire</keyword>
+		<keyword>self referential</keyword>
+		<keyword>film within a film</keyword>
+		<keyword>mysterious murderer</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>horror icon</keyword>
+		<keyword>unknown killer</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>return to hometown</keyword>
+		<keyword>return home</keyword>
+		<keyword>fictional town</keyword>
+		<keyword>author</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>teenager</keyword>
+		<keyword>slasher</keyword>
+		<keyword>unmasking</keyword>
+		<keyword>deeply disturbed person</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>fame</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>self inflicted wound</keyword>
+		<keyword>duct tape over mouth</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>aunt niece relationship</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>publicist</keyword>
+		<keyword>bookstore</keyword>
+		<keyword>group of friends</keyword>
+		<keyword>red dress</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>stupid victim</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>whodunit</keyword>
+		<keyword>fourth in series</keyword>
+		<keyword>sequel to cult favorite</keyword>
+		<keyword>sequel</keyword>
+		<keyword>actress shares last name with character</keyword>
+		<keyword>fourth part</keyword>
+		<keyword>blood on knife</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>dead woman on the floor</keyword>
+		<keyword>deleted scenes</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police protection</keyword>
+		<keyword>police officer knocked unconscious</keyword>
+		<keyword>assaulting a police officer</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>murder by stabbing</keyword>
+		<keyword>intense violence</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>extended scenes</keyword>
+		<keyword>dvd extra</keyword>
+		<keyword>blu ray extra</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>girl in jeopardy</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>stabbing a police officer</keyword>
+		<keyword>murder of police protection</keyword>
+		<keyword>end credits roll call</keyword>
+		<keyword>teenage murderer</keyword>
+		<keyword>slasher horror</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>reference to 'stab' fictional horror movie</keyword>
+		<keyword>fictional horror movie</keyword>
+		<keyword>fictional movie</keyword>
+		<keyword>fictional horror movie franchise</keyword>
+		<keyword>movie reference</keyword>
+		<keyword>deputy sheriff</keyword>
+		<keyword>sidney prescott character</keyword>
+		<keyword>dewey riley character</keyword>
+		<keyword>gale weathers character</keyword>
+		<keyword>call is coming from the same location</keyword>
+		<keyword>serial killer duo</keyword>
+		<keyword>police officer stabbed in the back</keyword>
+		<keyword>stabbed in the palm of the hand</keyword>
+		<keyword>stabbed through the hand</keyword>
+		<keyword>villainess</keyword>
+		<keyword>body count</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>ghostface character</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>meta</keyword>
+		<keyword>lemon square</keyword>
+		<keyword>cousins</keyword>
+		<keyword>exiting through a window</keyword>
+		<keyword>reference to channing tatum</keyword>
+		<keyword>exiting through window</keyword>
+		<keyword>reference to peter pan</keyword>
+		<keyword>crossword puzzle</keyword>
+		<keyword>reference to harry potter</keyword>
+		<keyword>reference to j.k. rowling</keyword>
+		<keyword>reference to daniel radcliffe</keyword>
+		<keyword>reference to nancy grace</keyword>
+		<keyword>reference to jamie lee curtis</keyword>
+		<keyword>reference to linda blair</keyword>
+		<keyword>reference to robert rodriguez</keyword>
+		<keyword>jiffy pop</keyword>
+		<keyword>reference to gunnar hansen</keyword>
+		<keyword>reference to jason voorhees</keyword>
+		<keyword>reference to michael myers</keyword>
+		<keyword>reference to leatherface</keyword>
+		<keyword>reference to freddy krueger</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>reference to abercrombie &amp; fitch</keyword>
+		<keyword>killed in a hospital</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>book</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>murder</keyword>
+		<keyword>deputy</keyword>
+		<keyword>mise en abyme</keyword>
+		<keyword>telephone terror</keyword>
+		<keyword>millennial generation</keyword>
+		<keyword>dead teenager</keyword>
+		<keyword>mask</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>answering machine</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>elevator</keyword>
+		<keyword>escape</keyword>
+		<keyword>f word</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>security camera</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>news report</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>blogger</keyword>
+		<keyword>barn</keyword>
+		<keyword>book signing</keyword>
+		<keyword>police</keyword>
+		<keyword>virgin</keyword>
+		<keyword>stabbed in the foot</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>2010s</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>crashing through window</keyword>
+		<keyword>breaking down a door</keyword>
+		<keyword>spitting blood</keyword>
+		<keyword>garage door opener</keyword>
+		<keyword>watching a horror movie</keyword>
+		<keyword>startled</keyword>
+		<keyword>doorbell</keyword>
+		<keyword>stabbing a woman</keyword>
+		<keyword>dead woman with eyes open</keyword>
+		<keyword>disembowelment</keyword>
+		<keyword>hiding evidence</keyword>
+		<keyword>draw blade</keyword>
+		<keyword>disguise</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>love</keyword>
+		<keyword>impersonation</keyword>
+		<keyword>tension</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>investigation</keyword>
+		<keyword>accomplice</keyword>
+		<keyword>party crashing</keyword>
+		<keyword>suspense</keyword>
+		<keyword>sudden disappearance</keyword>
+		<keyword>taunting</keyword>
+		<keyword>death threat</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>motive</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>rescue</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>reference to bruce willis</keyword>
+		<keyword>party</keyword>
+		<keyword>web camera</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>punched in the stomach</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>reference to jeffrey dahmer</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>deception</keyword>
+		<keyword>threatening telephone call</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>reporter</keyword>
+		<keyword>press conference</keyword>
+		<keyword>greed</keyword>
+		<keyword>defibrillator</keyword>
+		<keyword>shooting a police officer</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the groin</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>underage drinking</keyword>
+		<keyword>reference to facebook</keyword>
+		<keyword>reference to twitter</keyword>
+		<keyword>ex boyfriend ex girlfriend relationship</keyword>
+		<keyword>running into a wall</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>revelation</keyword>
+		<keyword>breaking through a door</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>police station</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>hidden camera</keyword>
+		<keyword>cinephile</keyword>
+		<keyword>red herring</keyword>
+		<keyword>climbing through a window</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood</keyword>
+		<keyword>gore</keyword>
+		<keyword>intestines</keyword>
+		<keyword>hiding under a bed</keyword>
+		<keyword>hiding in a closet</keyword>
+		<keyword>corpse</keyword>
+		<keyword>school club</keyword>
+		<keyword>webcam</keyword>
+		<keyword>video camera</keyword>
+		<keyword>hospital</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>thrown through a glass door</keyword>
+		<keyword>pistol</keyword>
+		<keyword>knife</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the hand</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the forehead</keyword>
+		<keyword>stabbed in the stomach</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>pretending to be dead</keyword>
+		<keyword>thrown off a balcony</keyword>
+		<keyword>chase</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>exposed intestines</keyword>
+		<keyword>intestines hanging out</keyword>
+		<keyword>the weinstein company</keyword>
+		<keyword>generation y</keyword>
+		<keyword>facebook</keyword>
+		<keyword>post modern</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>cult film</keyword>
+		<keyword>sole black character dies cliche</keyword>
+		<keyword>cliche</keyword>
+		<keyword>numbered sequel</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Wes Craven</director>
+	</directors>
+	<composers>
+		<composer> Marco Beltrami</composer>
+	</composers>
+	<producers>
+		<producer> Wes Craven</producer>
+		<producer> Carly Feingold</producer>
+		<producer> Cathy Konrad</producer>
+		<producer> Ehren Kruger</producer>
+		<producer> Iya Labunka</producer>
+		<producer> Marianne Maddalena</producer>
+		<producer> Ron Schmidt</producer>
+		<producer> Matthew Stein</producer>
+		<producer> Bob Weinstein</producer>
+		<producer> Harvey Weinstein</producer>
+		<producer> Kevin Williamson</producer>
+	</producers>
+	<writers>
+		<writer> Kevin Williamson</writer>
+		<writer> Kevin Williamson</writer>
+		<writer> Kevin Williamson</writer>
+	</writers>
+	<editors>
+		<editor> Peter McNulty</editor>
+	</editors>
+</doc>

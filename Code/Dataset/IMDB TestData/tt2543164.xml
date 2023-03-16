@@ -1,0 +1,424 @@
+<?xml version="1.0" ?>
+<doc id="tt2543164">
+	<docid>tt2543164</docid>
+	<title>Arrival</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_QL75_UX190_CR0,8,190,281_.jpg</image>
+	<year>II 2016</year>
+	<runningtimes>
+		<runningtime country="default">116</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Amy Adams</actor>
+			<role>Louise Banks</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Renner</actor>
+			<role>Ian Donnelly</role>
+		</credit>
+		<credit>
+			<actor>Forest Whitaker</actor>
+			<role>Colonel Weber</role>
+		</credit>
+		<credit>
+			<actor>Michael Stuhlbarg</actor>
+			<role>Agent Halpern</role>
+		</credit>
+		<credit>
+			<actor>Mark O'Brien</actor>
+			<role>Captain Marks</role>
+		</credit>
+		<credit>
+			<actor>Tzi Ma</actor>
+			<role>General Shang</role>
+		</credit>
+		<credit>
+			<actor>Abigail Pniowsky</actor>
+			<role>8-Year-Old-Hannah</role>
+		</credit>
+		<credit>
+			<actor>Julia Scarlett Dan</actor>
+			<role>12-Year-Old-Hannah</role>
+		</credit>
+		<credit>
+			<actor>Jadyn Malone</actor>
+			<role>6-Year-Old-Hannah</role>
+		</credit>
+		<credit>
+			<actor>Frank Schorpion</actor>
+			<role>Dr. Kettler</role>
+		</credit>
+		<credit>
+			<actor>Lucas Chartier-Dessert</actor>
+			<role>Private Lasky</role>
+		</credit>
+		<credit>
+			<actor>Christian Jadah</actor>
+			<role>Private Combs</role>
+		</credit>
+		<credit>
+			<actor>Lucy Van Oldenbarneveld</actor>
+			<role>CNAC Anchor</role>
+		</credit>
+		<credit>
+			<actor>Andrew Shaver</actor>
+			<role>Environmental Tech</role>
+		</credit>
+		<credit>
+			<actor>Pat Kiely</actor>
+			<role>Environmental Tech</role>
+		</credit>
+		<credit>
+			<actor>Sonia Vigneault</actor>
+			<role>Dr. J. Bydwell</role>
+		</credit>
+		<credit>
+			<actor>Mark Camacho</actor>
+			<role>Richard Riley</role>
+		</credit>
+		<credit>
+			<actor>Sabrina Reeves</actor>
+			<role>Press Secretary</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">September 1 2016</releasedate>
+		<releasedate country="United States">September 2 2016</releasedate>
+		<releasedate country="Canada">September 9 2016</releasedate>
+		<releasedate country="United States">September 22 2016</releasedate>
+		<releasedate country="Spain">September 23 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">PG</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>linguistics</keyword>
+		<keyword>alien contact</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>linguist</keyword>
+		<keyword>based on short story</keyword>
+		<keyword>first contact</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>alien</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>seeing the future</keyword>
+		<keyword>reference to abbott and costello</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>one word title</keyword>
+		<keyword>military officer</keyword>
+		<keyword>memory</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>montana</keyword>
+		<keyword>colonel</keyword>
+		<keyword>physicist</keyword>
+		<keyword>theoretical physicist</keyword>
+		<keyword>fate</keyword>
+		<keyword>zero gravity</keyword>
+		<keyword>loss of daughter</keyword>
+		<keyword>time paradox</keyword>
+		<keyword>suspense</keyword>
+		<keyword>sanskrit</keyword>
+		<keyword>militarism</keyword>
+		<keyword>foresight</keyword>
+		<keyword>language barrier</keyword>
+		<keyword>u.s. soldier</keyword>
+		<keyword>kid art</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>bird in a cage</keyword>
+		<keyword>palindrome</keyword>
+		<keyword>hazmat suit</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>little girl</keyword>
+		<keyword>china</keyword>
+		<keyword>computer</keyword>
+		<keyword>baby girl</keyword>
+		<keyword>girl</keyword>
+		<keyword>disease</keyword>
+		<keyword>death</keyword>
+		<keyword>time travel</keyword>
+		<keyword>cowgirl costume</keyword>
+		<keyword>outer space</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>prophecy</keyword>
+		<keyword>grieving mother</keyword>
+		<keyword>loss</keyword>
+		<keyword>grief</keyword>
+		<keyword>premonition</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>man wears a tuxedo</keyword>
+		<keyword>time traveler</keyword>
+		<keyword>female time traveler</keyword>
+		<keyword>paramount</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>alien invasion sci fi</keyword>
+		<keyword>psychological drama</keyword>
+		<keyword>epic sci fi</keyword>
+		<keyword>learning a language</keyword>
+		<keyword>professor</keyword>
+		<keyword>communications</keyword>
+		<keyword>military</keyword>
+		<keyword>race against time</keyword>
+		<keyword>alien language</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>symbol</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>panic</keyword>
+		<keyword>threat</keyword>
+		<keyword>clay figure</keyword>
+		<keyword>departure</keyword>
+		<keyword>brink of war</keyword>
+		<keyword>precognition</keyword>
+		<keyword>mi 24 hind helicopter</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>impatience</keyword>
+		<keyword>protest</keyword>
+		<keyword>flip chart</keyword>
+		<keyword>weightless</keyword>
+		<keyword>precaution</keyword>
+		<keyword>scissor lift jack</keyword>
+		<keyword>ch 47 chinook helicopter</keyword>
+		<keyword>sleeping with a body pillow</keyword>
+		<keyword>alien spaceship</keyword>
+		<keyword>insight</keyword>
+		<keyword>change of mind</keyword>
+		<keyword>newscast</keyword>
+		<keyword>portuguese class</keyword>
+		<keyword>philosophical conversation</keyword>
+		<keyword>canary</keyword>
+		<keyword>birdcage</keyword>
+		<keyword>tank</keyword>
+		<keyword>2010s</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>logogram</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>college campus</keyword>
+		<keyword>captain</keyword>
+		<keyword>army base</keyword>
+		<keyword>shuttle craft</keyword>
+		<keyword>russia</keyword>
+		<keyword>press conference</keyword>
+		<keyword>interpretation</keyword>
+		<keyword>audio message</keyword>
+		<keyword>translator</keyword>
+		<keyword>interpreter</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>bomb</keyword>
+		<keyword>message</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>misunderstanding</keyword>
+		<keyword>satellite</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>drawing</keyword>
+		<keyword>college professor</keyword>
+		<keyword>united nations</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>rain</keyword>
+		<keyword>massachusetts</keyword>
+		<keyword>soldier</keyword>
+		<keyword>ink</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>escape</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>injection</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>terminal illness</keyword>
+		<keyword>cancer</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>single mother</keyword>
+		<keyword>general</keyword>
+		<keyword>explosion</keyword>
+		<keyword>bootstrap paradox</keyword>
+		<keyword>media manipulation</keyword>
+		<keyword>news report</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>single parent</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>shock jock</keyword>
+		<keyword>creature</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>alien life form</keyword>
+		<keyword>alien spacecraft</keyword>
+		<keyword>heptapod</keyword>
+		<keyword>squid</keyword>
+		<keyword>tentacle</keyword>
+		<keyword>circle</keyword>
+		<keyword>alien invasion</keyword>
+		<keyword>doctor</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>alien race</keyword>
+		<keyword>library</keyword>
+		<keyword>reference to sheena easton</keyword>
+		<keyword>warship</keyword>
+		<keyword>venezuela</keyword>
+		<keyword>riot</keyword>
+		<keyword>looting</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>aircraft carrier</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>escalation</keyword>
+		<keyword>chinese army officer</keyword>
+		<keyword>international relations</keyword>
+		<keyword>military aggression</keyword>
+		<keyword>low gravity</keyword>
+		<keyword>reminiscence</keyword>
+		<keyword>unidentified flying object</keyword>
+		<keyword>first person narration</keyword>
+		<keyword>begins with narration</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>death of child</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>time</keyword>
+		<keyword>one twelfth</keyword>
+		<keyword>childbirth</keyword>
+		<keyword>politics</keyword>
+		<keyword>sudan</keyword>
+		<keyword>pakistan</keyword>
+		<keyword>vision</keyword>
+		<keyword>baby</keyword>
+		<keyword>tent</keyword>
+		<keyword>pakistani</keyword>
+		<keyword>camera</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>alien abduction</keyword>
+		<keyword>dream</keyword>
+		<keyword>australian</keyword>
+		<keyword>hospital</keyword>
+		<keyword>englishman</keyword>
+		<keyword>map</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>scientist</keyword>
+		<keyword>sphere</keyword>
+		<keyword>hope</keyword>
+		<keyword>fear</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>chinese</keyword>
+		<keyword>breaking news</keyword>
+		<keyword>news channel</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>wine</keyword>
+		<keyword>montage</keyword>
+		<keyword>flashback</keyword>
+		<keyword>decontamination</keyword>
+		<keyword>contamination</keyword>
+		<keyword>absent father</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Denis Villeneuve</director>
+	</directors>
+	<composers>
+		<composer> Jóhann Jóhannsson</composer>
+	</composers>
+	<producers>
+		<producer> Paul Barbeau</producer>
+		<producer> Glen Basner</producer>
+		<producer> Dan Cohen</producer>
+		<producer> Eric Heisserer</producer>
+		<producer> Martin Henri</producer>
+		<producer> Michael Jackman</producer>
+		<producer> Dan Levine</producer>
+		<producer> Shawn Levy</producer>
+		<producer> David Linde</producer>
+		<producer> Karen Lunder</producer>
+		<producer> Tory Metzger</producer>
+		<producer> Milan Popelka</producer>
+		<producer> Aaron Ryder</producer>
+		<producer> Stan Wlodkowski</producer>
+	</producers>
+	<writers>
+		<writer> Eric Heisserer</writer>
+		<writer> Ted Chiang</writer>
+	</writers>
+	<editors>
+		<editor> Joe Walker</editor>
+	</editors>
+</doc>

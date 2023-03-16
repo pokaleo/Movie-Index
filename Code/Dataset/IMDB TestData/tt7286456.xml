@@ -1,0 +1,727 @@
+<?xml version="1.0" ?>
+<doc id="tt7286456">
+	<docid>tt7286456</docid>
+	<title>Joker</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWZiZGExMzUtNThlOC00NzYzLThjNDAtZjJjZjg0NWRkZWUxXkEyXkFqcGdeQXVyMTA3NTY4MDQw._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>I 2019</year>
+	<runningtimes>
+		<runningtime country="default">122</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>SDDS</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Joaquin Phoenix</actor>
+			<role>Arthur Fleck</role>
+		</credit>
+		<credit>
+			<actor>Robert De Niro</actor>
+			<role>Murray Franklin</role>
+		</credit>
+		<credit>
+			<actor>Zazie Beetz</actor>
+			<role>Sophie Dumond</role>
+		</credit>
+		<credit>
+			<actor>Frances Conroy</actor>
+			<role>Penny Fleck</role>
+		</credit>
+		<credit>
+			<actor>Brett Cullen</actor>
+			<role>Thomas Wayne</role>
+		</credit>
+		<credit>
+			<actor>Shea Whigham</actor>
+			<role>Detective Burke</role>
+		</credit>
+		<credit>
+			<actor>Bill Camp</actor>
+			<role>Detective Garrity</role>
+		</credit>
+		<credit>
+			<actor>Glenn Fleshler</actor>
+			<role>Randall</role>
+		</credit>
+		<credit>
+			<actor>Leigh Gill</actor>
+			<role>Gary</role>
+		</credit>
+		<credit>
+			<actor>Josh Pais</actor>
+			<role>Hoyt Vaughn</role>
+		</credit>
+		<credit>
+			<actor>Rocco Luna</actor>
+			<role>GiGi Dumond</role>
+		</credit>
+		<credit>
+			<actor>Marc Maron</actor>
+			<role>Gene Ufland</role>
+		</credit>
+		<credit>
+			<actor>Sondra James</actor>
+			<role>Dr. Sally</role>
+		</credit>
+		<credit>
+			<actor>Murphy Guyer</actor>
+			<role>Barry O'Donnell</role>
+		</credit>
+		<credit>
+			<actor>Douglas Hodge</actor>
+			<role>Alfred Pennyworth</role>
+		</credit>
+		<credit>
+			<actor>Dante Pereira-Olson</actor>
+			<role>Bruce Wayne</role>
+		</credit>
+		<credit>
+			<actor>Carrie Louise Putrello</actor>
+			<role>Martha Wayne</role>
+		</credit>
+		<credit>
+			<actor>Sharon Washington</actor>
+			<role>Social Worker</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">August 31 2019</releasedate>
+		<releasedate country="Canada">September 9 2019</releasedate>
+		<releasedate country="Germany">September 21 2019</releasedate>
+		<releasedate country="Spain">September 28 2019</releasedate>
+		<releasedate country="Spain">September 28 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Belgium">KNT/ENA</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">A-18</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Kuwait">18+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Nigeria">18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mental illness</keyword>
+		<keyword>evil clown</keyword>
+		<keyword>stand up comedian</keyword>
+		<keyword>nihilism</keyword>
+		<keyword>clown</keyword>
+		<keyword>comedian</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>joker character</keyword>
+		<keyword>laughter</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>uncontrollable laughter</keyword>
+		<keyword>green hair</keyword>
+		<keyword>evil</keyword>
+		<keyword>dysfunctional society</keyword>
+		<keyword>tv show</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>clown makeup</keyword>
+		<keyword>loner</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>gun</keyword>
+		<keyword>vandalism</keyword>
+		<keyword>out of control</keyword>
+		<keyword>loss of control</keyword>
+		<keyword>antisocial behavior</keyword>
+		<keyword>rage</keyword>
+		<keyword>urban violence</keyword>
+		<keyword>breakdown</keyword>
+		<keyword>origin of villain</keyword>
+		<keyword>tv news</keyword>
+		<keyword>1980s</keyword>
+		<keyword>one word title</keyword>
+		<keyword>insane asylum</keyword>
+		<keyword>revolver</keyword>
+		<keyword>protest</keyword>
+		<keyword>riot</keyword>
+		<keyword>police</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>single mother</keyword>
+		<keyword>finger gun</keyword>
+		<keyword>anger</keyword>
+		<keyword>deeply disturbed person</keyword>
+		<keyword>smile</keyword>
+		<keyword>subway</keyword>
+		<keyword>subway train</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>face paint</keyword>
+		<keyword>face mask</keyword>
+		<keyword>letter</keyword>
+		<keyword>social worker</keyword>
+		<keyword>garbage strike</keyword>
+		<keyword>flashback</keyword>
+		<keyword>staircase</keyword>
+		<keyword>city</keyword>
+		<keyword>journal</keyword>
+		<keyword>notebook</keyword>
+		<keyword>stalking</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>urban chaos</keyword>
+		<keyword>chaos</keyword>
+		<keyword>rampage</keyword>
+		<keyword>smiling</keyword>
+		<keyword>decadence</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>rat</keyword>
+		<keyword>psychological trauma</keyword>
+		<keyword>dysfunctional person</keyword>
+		<keyword>dysfunctional relationship</keyword>
+		<keyword>unhappiness</keyword>
+		<keyword>grudge</keyword>
+		<keyword>bitterness</keyword>
+		<keyword>profanity</keyword>
+		<keyword>mistreatment</keyword>
+		<keyword>villain</keyword>
+		<keyword>erratic behavior</keyword>
+		<keyword>irrational behavior</keyword>
+		<keyword>psychological disorder</keyword>
+		<keyword>psychological torment</keyword>
+		<keyword>joke</keyword>
+		<keyword>urban decadence</keyword>
+		<keyword>disillusionment</keyword>
+		<keyword>neighbor neighbor relationship</keyword>
+		<keyword>killer clown</keyword>
+		<keyword>gotham city</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>origin story</keyword>
+		<keyword>clown mask</keyword>
+		<keyword>arkham asylum</keyword>
+		<keyword>murder</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>death</keyword>
+		<keyword>tragic villain</keyword>
+		<keyword>social decay</keyword>
+		<keyword>revenge</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>violence</keyword>
+		<keyword>burning car</keyword>
+		<keyword>car crash</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>police car</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police detective</keyword>
+		<keyword>arrest</keyword>
+		<keyword>investigation</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>apartment</keyword>
+		<keyword>elevator</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>diner</keyword>
+		<keyword>news report</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>obsession</keyword>
+		<keyword>bus</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>magic trick</keyword>
+		<keyword>little boy</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>bloody footprint</keyword>
+		<keyword>movie theater</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>subway station</keyword>
+		<keyword>masked man</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>female psychiatrist</keyword>
+		<keyword>running</keyword>
+		<keyword>disguise</keyword>
+		<keyword>businessman</keyword>
+		<keyword>dressing room</keyword>
+		<keyword>outcast</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>strike</keyword>
+		<keyword>interview</keyword>
+		<keyword>millionaire</keyword>
+		<keyword>self defense</keyword>
+		<keyword>white paint</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>sadness</keyword>
+		<keyword>hatred</keyword>
+		<keyword>humiliation</keyword>
+		<keyword>fame</keyword>
+		<keyword>orphan</keyword>
+		<keyword>stalker</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>piano</keyword>
+		<keyword>telephone</keyword>
+		<keyword>applying makeup</keyword>
+		<keyword>locker room</keyword>
+		<keyword>strange behavior</keyword>
+		<keyword>killing</keyword>
+		<keyword>mass media</keyword>
+		<keyword>television</keyword>
+		<keyword>filth</keyword>
+		<keyword>schizophrenia</keyword>
+		<keyword>garbage</keyword>
+		<keyword>corruption</keyword>
+		<keyword>money problems</keyword>
+		<keyword>apartment building</keyword>
+		<keyword>alienation</keyword>
+		<keyword>rejection</keyword>
+		<keyword>hospital room</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>audience</keyword>
+		<keyword>stage</keyword>
+		<keyword>mirror</keyword>
+		<keyword>dark secret</keyword>
+		<keyword>dark past</keyword>
+		<keyword>african american woman</keyword>
+		<keyword>crowd</keyword>
+		<keyword>delirium</keyword>
+		<keyword>illusion</keyword>
+		<keyword>delusion</keyword>
+		<keyword>money</keyword>
+		<keyword>misfit</keyword>
+		<keyword>kicking</keyword>
+		<keyword>delinquency</keyword>
+		<keyword>pistol</keyword>
+		<keyword>shooting</keyword>
+		<keyword>mental disorder</keyword>
+		<keyword>sidewalk</keyword>
+		<keyword>street</keyword>
+		<keyword>unemployment</keyword>
+		<keyword>confession</keyword>
+		<keyword>revelation</keyword>
+		<keyword>fight</keyword>
+		<keyword>street riot</keyword>
+		<keyword>street trash</keyword>
+		<keyword>danger</keyword>
+		<keyword>street gang</keyword>
+		<keyword>corridor</keyword>
+		<keyword>hallway</keyword>
+		<keyword>sordidness</keyword>
+		<keyword>emptiness</keyword>
+		<keyword>suffering</keyword>
+		<keyword>psycho</keyword>
+		<keyword>back alley</keyword>
+		<keyword>sign</keyword>
+		<keyword>forced smile</keyword>
+		<keyword>happy face</keyword>
+		<keyword>criminally insane</keyword>
+		<keyword>garbage can</keyword>
+		<keyword>reading a letter</keyword>
+		<keyword>questioning</keyword>
+		<keyword>argument</keyword>
+		<keyword>medicine</keyword>
+		<keyword>reading</keyword>
+		<keyword>writing</keyword>
+		<keyword>threat</keyword>
+		<keyword>pain</keyword>
+		<keyword>card</keyword>
+		<keyword>internal conflict</keyword>
+		<keyword>inner conflict</keyword>
+		<keyword>nervousness</keyword>
+		<keyword>irony</keyword>
+		<keyword>walking</keyword>
+		<keyword>fury</keyword>
+		<keyword>disbelief</keyword>
+		<keyword>menace</keyword>
+		<keyword>sarcasm</keyword>
+		<keyword>disorder</keyword>
+		<keyword>solitude</keyword>
+		<keyword>desolation</keyword>
+		<keyword>isolation</keyword>
+		<keyword>crisis</keyword>
+		<keyword>catharsis</keyword>
+		<keyword>subway platform</keyword>
+		<keyword>weight loss</keyword>
+		<keyword>underweight</keyword>
+		<keyword>crash</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>fictional talk show</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>stand up comedy</keyword>
+		<keyword>red suit</keyword>
+		<keyword>hostility</keyword>
+		<keyword>mask</keyword>
+		<keyword>social unrest</keyword>
+		<keyword>love</keyword>
+		<keyword>driven over the edge</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>existentialism</keyword>
+		<keyword>ill mother</keyword>
+		<keyword>black woman</keyword>
+		<keyword>television studio</keyword>
+		<keyword>criminal</keyword>
+		<keyword>origin</keyword>
+		<keyword>alter ego</keyword>
+		<keyword>villain as protagonist</keyword>
+		<keyword>sympathetic villain</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>fire</keyword>
+		<keyword>alley</keyword>
+		<keyword>insanity</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>talk show host</keyword>
+		<keyword>bruce wayne character</keyword>
+		<keyword>sad clown</keyword>
+		<keyword>dancing in the street</keyword>
+		<keyword>blood</keyword>
+		<keyword>thomas wayne character</keyword>
+		<keyword>martha wayne character</keyword>
+		<keyword>civil unrest</keyword>
+		<keyword>urban decay</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>dancing</keyword>
+		<keyword>f word</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>love interest</keyword>
+		<keyword>medication</keyword>
+		<keyword>dancing on stairs</keyword>
+		<keyword>children's hospital</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>brutality</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>ambush</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>butler</keyword>
+		<keyword>class differences</keyword>
+		<keyword>narcissism</keyword>
+		<keyword>discussion</keyword>
+		<keyword>conversation</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>written by director</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>stabbed with scissors</keyword>
+		<keyword>single parent</keyword>
+		<keyword>wayne manor</keyword>
+		<keyword>men's bathroom</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>singing</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>impersonation</keyword>
+		<keyword>rise to fame</keyword>
+		<keyword>pianist</keyword>
+		<keyword>nickname as title</keyword>
+		<keyword>maniac</keyword>
+		<keyword>psycho killer</keyword>
+		<keyword>first kill</keyword>
+		<keyword>depression</keyword>
+		<keyword>scissors</keyword>
+		<keyword>running from the police</keyword>
+		<keyword>assault</keyword>
+		<keyword>going out of business sale</keyword>
+		<keyword>accidental gunshot</keyword>
+		<keyword>gate</keyword>
+		<keyword>comedy club</keyword>
+		<keyword>charity benefit</keyword>
+		<keyword>medical record</keyword>
+		<keyword>smothered with a pillow</keyword>
+		<keyword>son murders mother</keyword>
+		<keyword>knock knock joke</keyword>
+		<keyword>dancing in underwear</keyword>
+		<keyword>murdered on live television</keyword>
+		<keyword>mental breakdown</keyword>
+		<keyword>broken system</keyword>
+		<keyword>social breakdown</keyword>
+		<keyword>social tension</keyword>
+		<keyword>dance</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>childhood trauma</keyword>
+		<keyword>mass protest</keyword>
+		<keyword>nihilist</keyword>
+		<keyword>emotionally pushed over the edge</keyword>
+		<keyword>live broadcast</keyword>
+		<keyword>downward spiral</keyword>
+		<keyword>graffiti</keyword>
+		<keyword>protagonist becomes antagonist</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>alfred pennyworth character</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>bad guy wins</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>singing on a train</keyword>
+		<keyword>matricide</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>bleeped dialogue</keyword>
+		<keyword>year 1981</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>psychiatric hospital</keyword>
+		<keyword>psychiatric patient</keyword>
+		<keyword>el train</keyword>
+		<keyword>extreme close up</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>ghostface</keyword>
+		<keyword>long take</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>door lock and chain</keyword>
+		<keyword>confession of a crime</keyword>
+		<keyword>reference to batman</keyword>
+		<keyword>little person</keyword>
+		<keyword>losing a job</keyword>
+		<keyword>false friend</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>reference to wall street</keyword>
+		<keyword>moral ambiguity</keyword>
+		<keyword>indifference</keyword>
+		<keyword>austerity</keyword>
+		<keyword>emotional tension</keyword>
+		<keyword>pscyhological tension</keyword>
+		<keyword>struggle</keyword>
+		<keyword>outburst</keyword>
+		<keyword>violent outburst</keyword>
+		<keyword>mayhem</keyword>
+		<keyword>eruption</keyword>
+		<keyword>resentment</keyword>
+		<keyword>lashing out</keyword>
+		<keyword>death wish</keyword>
+		<keyword>lack of love</keyword>
+		<keyword>outrage</keyword>
+		<keyword>police violence</keyword>
+		<keyword>police brutality</keyword>
+		<keyword>on the edge</keyword>
+		<keyword>emaciation</keyword>
+		<keyword>malnourishment</keyword>
+		<keyword>clown shoes</keyword>
+		<keyword>street performer</keyword>
+		<keyword>subway ride</keyword>
+		<keyword>bus ride</keyword>
+		<keyword>pretentious</keyword>
+		<keyword>righteous kill</keyword>
+		<keyword>killing a rat</keyword>
+		<keyword>interracial kiss</keyword>
+		<keyword>diary</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>swearing</keyword>
+		<keyword>strong language</keyword>
+		<keyword>exit sign</keyword>
+		<keyword>portrait</keyword>
+		<keyword>clapping</keyword>
+		<keyword>applause</keyword>
+		<keyword>opening someone else's letter</keyword>
+		<keyword>street vendor</keyword>
+		<keyword>son bathing mother</keyword>
+		<keyword>vest</keyword>
+		<keyword>microphone</keyword>
+		<keyword>spotlight</keyword>
+		<keyword>nurse</keyword>
+		<keyword>public transportation</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>anarchist</keyword>
+		<keyword>banging head against wall</keyword>
+		<keyword>blood on wall</keyword>
+		<keyword>blood spattered face</keyword>
+		<keyword>gore</keyword>
+		<keyword>questioned by police</keyword>
+		<keyword>hospital visit</keyword>
+		<keyword>hit by a taxi</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>retro</keyword>
+		<keyword>retro horror</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>domestic violence</keyword>
+		<keyword>cult film</keyword>
+		<keyword>reference to the warriors</keyword>
+		<keyword>mayoral candidate</keyword>
+		<keyword>stockbroker</keyword>
+		<keyword>candy cinema</keyword>
+		<keyword>nurse uniform</keyword>
+		<keyword>class conflict</keyword>
+		<keyword>adult son lives with his mother</keyword>
+		<keyword>psychological drama</keyword>
+		<keyword>gritty</keyword>
+		<keyword>tragedy drama</keyword>
+		<keyword>abuse victim</keyword>
+		<keyword>schizotypal personality disorder</keyword>
+		<keyword>lack of empathy</keyword>
+		<keyword>alleyway attack</keyword>
+		<keyword>abusive mother</keyword>
+		<keyword>implied sex</keyword>
+		<keyword>time clock</keyword>
+		<keyword>paternity question</keyword>
+		<keyword>man beaten</keyword>
+		<keyword>reference to occupy wall street</keyword>
+		<keyword>movie theatre usher costume</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>tragic protagonist</keyword>
+		<keyword>imaginary girlfriend</keyword>
+		<keyword>murder of parents</keyword>
+		<keyword>arson</keyword>
+		<keyword>melee</keyword>
+		<keyword>orphan boy</keyword>
+		<keyword>siren</keyword>
+		<keyword>african american</keyword>
+		<keyword>man wears jockey shorts</keyword>
+		<keyword>fictional tv talk show</keyword>
+		<keyword>talk show appearance</keyword>
+		<keyword>talk show interview</keyword>
+		<keyword>tv talk show host</keyword>
+		<keyword>fictional tv talk show host</keyword>
+		<keyword>fictional tv show</keyword>
+		<keyword>talk show as subject</keyword>
+		<keyword>tv talk show as subject</keyword>
+		<keyword>tv show as subject</keyword>
+		<keyword>man in a fridge</keyword>
+		<keyword>train</keyword>
+		<keyword>station</keyword>
+		<keyword>mentally ill man</keyword>
+		<keyword>insane man</keyword>
+		<keyword>social outcast</keyword>
+		<keyword>going insane</keyword>
+		<keyword>mentally ill protagonist</keyword>
+		<keyword>evil laughter</keyword>
+		<keyword>manic laughter</keyword>
+		<keyword>mansion</keyword>
+		<keyword>seeing parents murdered</keyword>
+		<keyword>writer director producer</keyword>
+		<keyword>manor house</keyword>
+		<keyword>videotape</keyword>
+		<keyword>urination</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>weapon</keyword>
+		<keyword>ambiguity</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>empathy</keyword>
+		<keyword>controversy</keyword>
+		<keyword>vcr</keyword>
+		<keyword>lie</keyword>
+		<keyword>liar</keyword>
+		<keyword>man wears a vest</keyword>
+		<keyword>opening a door</keyword>
+		<keyword>suspense</keyword>
+		<keyword>t boned</keyword>
+		<keyword>abuse</keyword>
+	</keywords>
+	<directors>
+		<director> Todd Phillips</director>
+	</directors>
+	<composers>
+		<composer> Hildur Guðnadóttir</composer>
+	</composers>
+	<producers>
+		<producer> Richard Baratta</producer>
+		<producer> Bruce Berman</producer>
+		<producer> Jason Cloth</producer>
+		<producer> Bradley Cooper</producer>
+		<producer> Joseph Garner</producer>
+		<producer> Aaron L. Gilbert</producer>
+		<producer> Walter Hamada</producer>
+		<producer> Anjay Nagpal</producer>
+		<producer> Todd Phillips</producer>
+		<producer> Emma Tillinger Koskoff</producer>
+		<producer> Michael E. Uslan</producer>
+		<producer> David Webb</producer>
+	</producers>
+	<writers>
+		<writer> Todd Phillips</writer>
+		<writer> Scott Silver</writer>
+		<writer> Bob Kane</writer>
+		<writer> Bill Finger</writer>
+		<writer> Jerry Robinson</writer>
+	</writers>
+	<editors>
+		<editor> Jeff Groth</editor>
+	</editors>
+</doc>

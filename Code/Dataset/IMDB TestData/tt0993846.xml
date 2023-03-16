@@ -1,0 +1,1039 @@
+<?xml version="1.0" ?>
+<doc id="tt0993846">
+	<docid>tt0993846</docid>
+	<title>The Wolf of Wall Street</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">180</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Leonardo DiCaprio</actor>
+			<role>Jordan Belfort</role>
+		</credit>
+		<credit>
+			<actor>Jonah Hill</actor>
+			<role>Donnie Azoff</role>
+		</credit>
+		<credit>
+			<actor>Margot Robbie</actor>
+			<role>Naomi Lapaglia</role>
+		</credit>
+		<credit>
+			<actor>Matthew McConaughey</actor>
+			<role>Mark Hanna</role>
+		</credit>
+		<credit>
+			<actor>Kyle Chandler</actor>
+			<role>Agent Patrick Denham</role>
+		</credit>
+		<credit>
+			<actor>Rob Reiner</actor>
+			<role>Max Belfort</role>
+		</credit>
+		<credit>
+			<actor>Jon Bernthal</actor>
+			<role>Brad</role>
+		</credit>
+		<credit>
+			<actor>Jon Favreau</actor>
+			<role>Manny Riskin</role>
+		</credit>
+		<credit>
+			<actor>Jean Dujardin</actor>
+			<role>Jean Jacques Saurel</role>
+		</credit>
+		<credit>
+			<actor>Joanna Lumley</actor>
+			<role>Aunt Emma</role>
+		</credit>
+		<credit>
+			<actor>Cristin Milioti</actor>
+			<role>Teresa Petrillo</role>
+		</credit>
+		<credit>
+			<actor>Christine Ebersole</actor>
+			<role>Leah Belfort</role>
+		</credit>
+		<credit>
+			<actor>Shea Whigham</actor>
+			<role>Captain Ted Beecham</role>
+		</credit>
+		<credit>
+			<actor>Katarina Cas</actor>
+			<role>Chantalle</role>
+		</credit>
+		<credit>
+			<actor>P.J. Byrne</actor>
+			<role>Nicky Koskoff ('Rugrat')</role>
+		</credit>
+		<credit>
+			<actor>Kenneth Choi</actor>
+			<role>Chester Ming</role>
+		</credit>
+		<credit>
+			<actor>Brian Sacca</actor>
+			<role>Robbie Feinberg ('Pinhead')</role>
+		</credit>
+		<credit>
+			<actor>Henry Zebrowski</actor>
+			<role>Alden Kupferberg ('Sea Otter')</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">December 9 2013</releasedate>
+		<releasedate country="United States">December 17 2013</releasedate>
+		<releasedate country="Canada">December 25 2013</releasedate>
+		<releasedate country="France">December 25 2013</releasedate>
+		<releasedate country="United States">December 25 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Belgium">16</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Chile">18</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">21+</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Malaysia">(Banned)</certificate>
+		<certificate country="Maldives">18+R</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-18</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Romania">I.M.-18</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Saudi Arabia">R18</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Sweden">18</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on true story</keyword>
+		<keyword>stockbroker</keyword>
+		<keyword>debauchery</keyword>
+		<keyword>extramarital affair</keyword>
+		<keyword>oral sex</keyword>
+		<keyword>caught masturbating</keyword>
+		<keyword>anal sex</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>fellatio</keyword>
+		<keyword>1990s</keyword>
+		<keyword>adultery</keyword>
+		<keyword>sex in bed</keyword>
+		<keyword>hot candle wax during sex</keyword>
+		<keyword>marital rape</keyword>
+		<keyword>sex standing up</keyword>
+		<keyword>dysfunctional marriage</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>wall street manhattan new york city</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>lust</keyword>
+		<keyword>corruption</keyword>
+		<keyword>masturbating in public</keyword>
+		<keyword>mile high club</keyword>
+		<keyword>stock manipulation</keyword>
+		<keyword>marriage</keyword>
+		<keyword>fellatio in an elevator</keyword>
+		<keyword>sex in a limousine</keyword>
+		<keyword>sex with prostitute</keyword>
+		<keyword>sex with multiple partners</keyword>
+		<keyword>orgy</keyword>
+		<keyword>swiss banker</keyword>
+		<keyword>manager</keyword>
+		<keyword>ankle monitor</keyword>
+		<keyword>black monday</keyword>
+		<keyword>sex in public</keyword>
+		<keyword>london england</keyword>
+		<keyword>drug addiction</keyword>
+		<keyword>drug addict</keyword>
+		<keyword>interrupted sex</keyword>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>corporate fraud</keyword>
+		<keyword>financial ruin</keyword>
+		<keyword>white collar crime</keyword>
+		<keyword>stock market</keyword>
+		<keyword>money laundering</keyword>
+		<keyword>snorting cocaine from a naked woman</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>male frontal nudity</keyword>
+		<keyword>quaalude</keyword>
+		<keyword>public nudity</keyword>
+		<keyword>promiscuity</keyword>
+		<keyword>new york stock exchange</keyword>
+		<keyword>securities manipulation</keyword>
+		<keyword>nudity</keyword>
+		<keyword>wealth</keyword>
+		<keyword>prison</keyword>
+		<keyword>party</keyword>
+		<keyword>sex in a taxi</keyword>
+		<keyword>fellatio while driving</keyword>
+		<keyword>lesbian</keyword>
+		<keyword>nasdaq stock market</keyword>
+		<keyword>stripper</keyword>
+		<keyword>fellatio in a car</keyword>
+		<keyword>condom</keyword>
+		<keyword>orgasm</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>strip mall</keyword>
+		<keyword>lamborghini</keyword>
+		<keyword>playing tennis</keyword>
+		<keyword>falling into a pool</keyword>
+		<keyword>sex in restroom</keyword>
+		<keyword>narrated by character</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>crack cocaine</keyword>
+		<keyword>bachelor party</keyword>
+		<keyword>threesome</keyword>
+		<keyword>sex in an elevator</keyword>
+		<keyword>hidden camera</keyword>
+		<keyword>drink thrown into someone's face</keyword>
+		<keyword>dominatrix</keyword>
+		<keyword>talking during sex</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>cocaine</keyword>
+		<keyword>pool party</keyword>
+		<keyword>troubled marriage</keyword>
+		<keyword>divorce</keyword>
+		<keyword>geneva switzerland</keyword>
+		<keyword>based on book</keyword>
+		<keyword>pubic hair</keyword>
+		<keyword>erection</keyword>
+		<keyword>strip club</keyword>
+		<keyword>female pubic hair</keyword>
+		<keyword>cunnilingus</keyword>
+		<keyword>no panties</keyword>
+		<keyword>butt slap</keyword>
+		<keyword>bikini</keyword>
+		<keyword>striptease</keyword>
+		<keyword>kissing someone's breasts</keyword>
+		<keyword>testicles</keyword>
+		<keyword>male male kiss</keyword>
+		<keyword>reference to captain ahab</keyword>
+		<keyword>reference to warren buffett</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>1980s</keyword>
+		<keyword>hidden gun</keyword>
+		<keyword>blow job</keyword>
+		<keyword>stocktrader</keyword>
+		<keyword>stock market crash</keyword>
+		<keyword>brokerage firm</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>corporate greed</keyword>
+		<keyword>corporate corruption</keyword>
+		<keyword>scam</keyword>
+		<keyword>teddy bear</keyword>
+		<keyword>sexual attraction</keyword>
+		<keyword>stock market manipulation</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>underwear</keyword>
+		<keyword>forbes magazine</keyword>
+		<keyword>briefcase full of money</keyword>
+		<keyword>dumb blonde</keyword>
+		<keyword>sex toy</keyword>
+		<keyword>second wife</keyword>
+		<keyword>first wife</keyword>
+		<keyword>withholding sex</keyword>
+		<keyword>sex with first cousin</keyword>
+		<keyword>furniture salesman</keyword>
+		<keyword>white lamborghini</keyword>
+		<keyword>rape</keyword>
+		<keyword>high on drugs</keyword>
+		<keyword>bacchanal</keyword>
+		<keyword>pole dancer</keyword>
+		<keyword>sex addict</keyword>
+		<keyword>jewish slur</keyword>
+		<keyword>drinking</keyword>
+		<keyword>drug use</keyword>
+		<keyword>drugs</keyword>
+		<keyword>prostitution</keyword>
+		<keyword>unfaithfulness</keyword>
+		<keyword>bride and groom</keyword>
+		<keyword>paying for sex</keyword>
+		<keyword>morning after</keyword>
+		<keyword>brooklyn bridge</keyword>
+		<keyword>mediterranean sea</keyword>
+		<keyword>public urination</keyword>
+		<keyword>security camera</keyword>
+		<keyword>promiscuous woman</keyword>
+		<keyword>career change</keyword>
+		<keyword>beer pong</keyword>
+		<keyword>fake commercial</keyword>
+		<keyword>year 1987</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>satire</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>shaving head</keyword>
+		<keyword>choking</keyword>
+		<keyword>brooklyn new york city</keyword>
+		<keyword>motivational speaker</keyword>
+		<keyword>police officer</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>wearing a wire</keyword>
+		<keyword>italy</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>reporter</keyword>
+		<keyword>wedding</keyword>
+		<keyword>mansion</keyword>
+		<keyword>goldfish</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>yacht</keyword>
+		<keyword>financial deregulation</keyword>
+		<keyword>business ethics</keyword>
+		<keyword>new york city</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>gay orgy</keyword>
+		<keyword>gay sex</keyword>
+		<keyword>panties</keyword>
+		<keyword>public masturbation</keyword>
+		<keyword>women's shoes</keyword>
+		<keyword>gay butler</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>vagina</keyword>
+		<keyword>throwing a lobster</keyword>
+		<keyword>reference to james bond</keyword>
+		<keyword>reference to coco chanel</keyword>
+		<keyword>reference to jimmy buffett</keyword>
+		<keyword>hibachi grill</keyword>
+		<keyword>eurocopter as355 twin squirrel</keyword>
+		<keyword>enema</keyword>
+		<keyword>python</keyword>
+		<keyword>celebration</keyword>
+		<keyword>excess</keyword>
+		<keyword>punched in the stomach</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>white bra</keyword>
+		<keyword>white panties</keyword>
+		<keyword>american flag</keyword>
+		<keyword>gay slur</keyword>
+		<keyword>tv advertisement</keyword>
+		<keyword>vulgarity</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>losing a job</keyword>
+		<keyword>helicopter accident</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>woman slaps a man</keyword>
+		<keyword>inner thoughts</keyword>
+		<keyword>man punches a woman</keyword>
+		<keyword>actor talks to audience</keyword>
+		<keyword>italian navy</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>ship captain</keyword>
+		<keyword>flood</keyword>
+		<keyword>tidal wave</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>lightning</keyword>
+		<keyword>country club</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>bank</keyword>
+		<keyword>decadence</keyword>
+		<keyword>insanity</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>panic</keyword>
+		<keyword>extreme close up</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>deception</keyword>
+		<keyword>pill popping</keyword>
+		<keyword>american in the uk</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>diner</keyword>
+		<keyword>check</keyword>
+		<keyword>taxi</keyword>
+		<keyword>revenge</keyword>
+		<keyword>flight attendant</keyword>
+		<keyword>scheme</keyword>
+		<keyword>computer</keyword>
+		<keyword>beach</keyword>
+		<keyword>long take</keyword>
+		<keyword>beach house</keyword>
+		<keyword>apartment</keyword>
+		<keyword>reference to gordon gekko</keyword>
+		<keyword>realtor</keyword>
+		<keyword>rise to power</keyword>
+		<keyword>journalist</keyword>
+		<keyword>trial</keyword>
+		<keyword>escape</keyword>
+		<keyword>prison bus</keyword>
+		<keyword>office</keyword>
+		<keyword>office worker</keyword>
+		<keyword>wiretapping</keyword>
+		<keyword>masturbation joke</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>deal</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>security guard</keyword>
+		<keyword>pink slip</keyword>
+		<keyword>training</keyword>
+		<keyword>555 phone number</keyword>
+		<keyword>pump and dump</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>fax machine</keyword>
+		<keyword>shoe designer</keyword>
+		<keyword>metal detector</keyword>
+		<keyword>disguise</keyword>
+		<keyword>big ben london</keyword>
+		<keyword>capsizing ship</keyword>
+		<keyword>hotel</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>knife</keyword>
+		<keyword>bed</keyword>
+		<keyword>scar</keyword>
+		<keyword>bruise</keyword>
+		<keyword>seminar</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>single parent</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>fortune</keyword>
+		<keyword>fraudster</keyword>
+		<keyword>playboy</keyword>
+		<keyword>marijuana joint</keyword>
+		<keyword>junkie</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>heroin</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>crooked businessman</keyword>
+		<keyword>magazine article</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>immorality</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>actor playing himself</keyword>
+		<keyword>controversial</keyword>
+		<keyword>cameo</keyword>
+		<keyword>jewish american</keyword>
+		<keyword>rise and fall</keyword>
+		<keyword>adderall</keyword>
+		<keyword>vulture capitalist</keyword>
+		<keyword>cameo appearance by real life subject</keyword>
+		<keyword>attraction</keyword>
+		<keyword>desperation</keyword>
+		<keyword>drug snorting</keyword>
+		<keyword>drugged</keyword>
+		<keyword>telephone cord</keyword>
+		<keyword>violence</keyword>
+		<keyword>controversy</keyword>
+		<keyword>drug</keyword>
+		<keyword>based on real person</keyword>
+		<keyword>20th century</keyword>
+		<keyword>u.s. securities and exchange commission</keyword>
+		<keyword>sales training</keyword>
+		<keyword>year's salary</keyword>
+		<keyword>shrimp</keyword>
+		<keyword>wedding guest list</keyword>
+		<keyword>lobster</keyword>
+		<keyword>series seven</keyword>
+		<keyword>married to first cousin</keyword>
+		<keyword>rides the subway</keyword>
+		<keyword>handgun</keyword>
+		<keyword>swiss passport</keyword>
+		<keyword>italian american</keyword>
+		<keyword>drinking straw</keyword>
+		<keyword>trying to start a fire</keyword>
+		<keyword>rosehips tea</keyword>
+		<keyword>wedding videographer</keyword>
+		<keyword>triple bypass surgery</keyword>
+		<keyword>candle wax</keyword>
+		<keyword>armani suit</keyword>
+		<keyword>bespoke suit</keyword>
+		<keyword>gold watch</keyword>
+		<keyword>dog barks</keyword>
+		<keyword>steve madden</keyword>
+		<keyword>ipo</keyword>
+		<keyword>eating a live goldfish</keyword>
+		<keyword>stock shares</keyword>
+		<keyword>new york stock exchange building</keyword>
+		<keyword>firing range</keyword>
+		<keyword>delayed reaction</keyword>
+		<keyword>workout</keyword>
+		<keyword>brookville country club</keyword>
+		<keyword>dud</keyword>
+		<keyword>jail time</keyword>
+		<keyword>rathole</keyword>
+		<keyword>european passport</keyword>
+		<keyword>shopping mall</keyword>
+		<keyword>customs interview</keyword>
+		<keyword>cerebral palsy phase</keyword>
+		<keyword>amnesia phase</keyword>
+		<keyword>lemons</keyword>
+		<keyword>delayed fuse</keyword>
+		<keyword>tingle phase</keyword>
+		<keyword>drool phase</keyword>
+		<keyword>horse farm</keyword>
+		<keyword>dance on a yacht</keyword>
+		<keyword>barter</keyword>
+		<keyword>tennis bracelet</keyword>
+		<keyword>stock boy</keyword>
+		<keyword>popeye music</keyword>
+		<keyword>slurring one's words</keyword>
+		<keyword>horn rimmed glasses</keyword>
+		<keyword>pounding chest</keyword>
+		<keyword>doughnut</keyword>
+		<keyword>slovakian</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>market manipulation</keyword>
+		<keyword>majorette</keyword>
+		<keyword>baton twirler</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>saving a life</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>fishbowl</keyword>
+		<keyword>lion</keyword>
+		<keyword>car</keyword>
+		<keyword>italian car</keyword>
+		<keyword>ferrari</keyword>
+		<keyword>ferrari car</keyword>
+		<keyword>ferrari motor vehicle</keyword>
+		<keyword>ferrari testarossa</keyword>
+		<keyword>lamborghini motor vehicle</keyword>
+		<keyword>lamborghini countach</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>police</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>docudrama drama</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>true crime</keyword>
+		<keyword>lesbian sex</keyword>
+		<keyword>comedic scene</keyword>
+		<keyword>22 year old man</keyword>
+		<keyword>24 year old woman</keyword>
+		<keyword>26 year old man</keyword>
+		<keyword>35 year old man</keyword>
+		<keyword>bull</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>drug material</keyword>
+		<keyword>reference to delorean motor company</keyword>
+		<keyword>unfaithful husband</keyword>
+		<keyword>nude female group</keyword>
+		<keyword>clothed female naked female scene</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>sex in an office</keyword>
+		<keyword>swearing</keyword>
+		<keyword>boat</keyword>
+		<keyword>ship</keyword>
+		<keyword>profanity</keyword>
+		<keyword>strong language</keyword>
+		<keyword>snorting cocaine off someone's body</keyword>
+		<keyword>love</keyword>
+		<keyword>selfishness</keyword>
+		<keyword>video monitor</keyword>
+		<keyword>hedonism</keyword>
+		<keyword>screwdriver</keyword>
+		<keyword>fix</keyword>
+		<keyword>incompetence</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>scene told from more than one perspective</keyword>
+		<keyword>sweatpants</keyword>
+		<keyword>teacher</keyword>
+		<keyword>home gym</keyword>
+		<keyword>sexually transmitted disease</keyword>
+		<keyword>std</keyword>
+		<keyword>penicillin shot</keyword>
+		<keyword>bad lover</keyword>
+		<keyword>cheating</keyword>
+		<keyword>business venture</keyword>
+		<keyword>spousal abuse</keyword>
+		<keyword>worrying about a friend</keyword>
+		<keyword>newspaper article</keyword>
+		<keyword>media frenzy</keyword>
+		<keyword>media</keyword>
+		<keyword>newspaper photo</keyword>
+		<keyword>publicity</keyword>
+		<keyword>running a business</keyword>
+		<keyword>law student</keyword>
+		<keyword>french swiss</keyword>
+		<keyword>swiss accent</keyword>
+		<keyword>conference table</keyword>
+		<keyword>speaking french</keyword>
+		<keyword>rags to riches</keyword>
+		<keyword>swiss bank account</keyword>
+		<keyword>manic behavior</keyword>
+		<keyword>mania</keyword>
+		<keyword>british accent</keyword>
+		<keyword>kodak</keyword>
+		<keyword>superstar</keyword>
+		<keyword>job applicant</keyword>
+		<keyword>marching band</keyword>
+		<keyword>gestapo</keyword>
+		<keyword>enforcer</keyword>
+		<keyword>fast paced</keyword>
+		<keyword>alcoholism</keyword>
+		<keyword>drunk</keyword>
+		<keyword>drunk driving</keyword>
+		<keyword>second chance</keyword>
+		<keyword>crawling</keyword>
+		<keyword>teaching</keyword>
+		<keyword>cardiopulmonary resuscitation</keyword>
+		<keyword>sunbathing</keyword>
+		<keyword>maid</keyword>
+		<keyword>near drowning</keyword>
+		<keyword>disco</keyword>
+		<keyword>idealist</keyword>
+		<keyword>mentor</keyword>
+		<keyword>bullseye</keyword>
+		<keyword>air conditioning</keyword>
+		<keyword>conference room</keyword>
+		<keyword>round table</keyword>
+		<keyword>amish</keyword>
+		<keyword>buddhist</keyword>
+		<keyword>justification</keyword>
+		<keyword>fear</keyword>
+		<keyword>victim</keyword>
+		<keyword>restitution</keyword>
+		<keyword>fbi raid</keyword>
+		<keyword>desktop computer</keyword>
+		<keyword>delete key</keyword>
+		<keyword>double team</keyword>
+		<keyword>evidence</keyword>
+		<keyword>nemesis</keyword>
+		<keyword>napkin</keyword>
+		<keyword>bento box</keyword>
+		<keyword>stock tip</keyword>
+		<keyword>business associate</keyword>
+		<keyword>chamomile</keyword>
+		<keyword>earl grey tea</keyword>
+		<keyword>aunt nephew relationship</keyword>
+		<keyword>bus to prison</keyword>
+		<keyword>italian riviera</keyword>
+		<keyword>defendent</keyword>
+		<keyword>speaking spanish</keyword>
+		<keyword>auckland new zealand</keyword>
+		<keyword>swiss culture</keyword>
+		<keyword>testify</keyword>
+		<keyword>federal prison</keyword>
+		<keyword>courtroom</keyword>
+		<keyword>day in court</keyword>
+		<keyword>ankle bracelet</keyword>
+		<keyword>grenada</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>male african lion</keyword>
+		<keyword>hard helicopter landing</keyword>
+		<keyword>fictional tv commercial</keyword>
+		<keyword>luck</keyword>
+		<keyword>hands held in the air</keyword>
+		<keyword>heart bypass surgery</keyword>
+		<keyword>female judge</keyword>
+		<keyword>mayday</keyword>
+		<keyword>anxiety</keyword>
+		<keyword>movie camera</keyword>
+		<keyword>cleaning a fish bowl</keyword>
+		<keyword>tea</keyword>
+		<keyword>the hamptons long island new york</keyword>
+		<keyword>running</keyword>
+		<keyword>helicopter pilot</keyword>
+		<keyword>confetti</keyword>
+		<keyword>bar</keyword>
+		<keyword>bail</keyword>
+		<keyword>judge</keyword>
+		<keyword>tennis court</keyword>
+		<keyword>tennis</keyword>
+		<keyword>sushi</keyword>
+		<keyword>fraud</keyword>
+		<keyword>megaphone</keyword>
+		<keyword>british</keyword>
+		<keyword>slipped disc</keyword>
+		<keyword>suicide</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>throwing water onto someone</keyword>
+		<keyword>throwing a wristwatch</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>interview</keyword>
+		<keyword>jasmine</keyword>
+		<keyword>steam room</keyword>
+		<keyword>falling into a swimming pool</keyword>
+		<keyword>securities exchange commission</keyword>
+		<keyword>attorney</keyword>
+		<keyword>wife slaps husband</keyword>
+		<keyword>golf club</keyword>
+		<keyword>golf</keyword>
+		<keyword>duchess</keyword>
+		<keyword>aunt niece relationship</keyword>
+		<keyword>sports car</keyword>
+		<keyword>imitating fellatio</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>men's bathroom</keyword>
+		<keyword>tv commercial</keyword>
+		<keyword>jewelry</keyword>
+		<keyword>jaguar the car</keyword>
+		<keyword>weightlifting</keyword>
+		<keyword>kicking</keyword>
+		<keyword>morphine</keyword>
+		<keyword>diamond bracelet</keyword>
+		<keyword>salesman</keyword>
+		<keyword>millionaire</keyword>
+		<keyword>mortgage</keyword>
+		<keyword>quitting a job</keyword>
+		<keyword>harassment</keyword>
+		<keyword>finger placed down throat</keyword>
+		<keyword>fugazi</keyword>
+		<keyword>little girl</keyword>
+		<keyword>wedding video</keyword>
+		<keyword>crawling on the floor</keyword>
+		<keyword>reckless driving</keyword>
+		<keyword>sales meeting</keyword>
+		<keyword>father son kiss</keyword>
+		<keyword>passing out</keyword>
+		<keyword>miami florida</keyword>
+		<keyword>mouth to mouth resuscitation</keyword>
+		<keyword>pounding one's chest like tarzan</keyword>
+		<keyword>student loan</keyword>
+		<keyword>douchebag</keyword>
+		<keyword>throwing a kiss</keyword>
+		<keyword>hit in the face</keyword>
+		<keyword>rolling on the ground</keyword>
+		<keyword>slovenian</keyword>
+		<keyword>eviction</keyword>
+		<keyword>jet ski</keyword>
+		<keyword>u.s. criminal code</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>businessman</keyword>
+		<keyword>business</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>eating</keyword>
+		<keyword>food</keyword>
+		<keyword>smuggling</keyword>
+		<keyword>gun</keyword>
+		<keyword>apology</keyword>
+		<keyword>prank</keyword>
+		<keyword>banker</keyword>
+		<keyword>valium</keyword>
+		<keyword>debt</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>drink</keyword>
+		<keyword>candle</keyword>
+		<keyword>greed</keyword>
+		<keyword>telephone</keyword>
+		<keyword>xanax</keyword>
+		<keyword>marijuana</keyword>
+		<keyword>limousine</keyword>
+		<keyword>applause</keyword>
+		<keyword>reading a newspaper</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>beer</keyword>
+		<keyword>boxer shorts</keyword>
+		<keyword>name calling</keyword>
+		<keyword>money</keyword>
+		<keyword>kiss</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>skateboard</keyword>
+		<keyword>dartboard</keyword>
+		<keyword>pellet gun</keyword>
+		<keyword>mirror</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>dancing</keyword>
+		<keyword>dancer</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>testosterone</keyword>
+		<keyword>lie</keyword>
+		<keyword>theft</keyword>
+		<keyword>thief</keyword>
+		<keyword>blood</keyword>
+		<keyword>beating</keyword>
+		<keyword>eating a goldfish</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>microphone</keyword>
+		<keyword>photograph</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>cafe</keyword>
+		<keyword>montage</keyword>
+		<keyword>airplane</keyword>
+		<keyword>hangover</keyword>
+		<keyword>french</keyword>
+		<keyword>investigation</keyword>
+		<keyword>sedative</keyword>
+		<keyword>forgery</keyword>
+		<keyword>rescue</keyword>
+		<keyword>bribe</keyword>
+		<keyword>bribery</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>criminal</keyword>
+		<keyword>promise</keyword>
+		<keyword>urination</keyword>
+		<keyword>briefcase</keyword>
+		<keyword>answering machine</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>spoken inner thoughts</keyword>
+		<keyword>horse</keyword>
+		<keyword>ex policeman</keyword>
+		<keyword>single mother</keyword>
+		<keyword>hypocrite</keyword>
+		<keyword>intern</keyword>
+		<keyword>airline stewardess</keyword>
+		<keyword>u.s. justice department</keyword>
+		<keyword>homophobia</keyword>
+		<keyword>latvian</keyword>
+		<keyword>police car</keyword>
+		<keyword>switzerland</keyword>
+		<keyword>lobster as food</keyword>
+		<keyword>caviar</keyword>
+		<keyword>courthouse</keyword>
+		<keyword>court</keyword>
+		<keyword>pep talk</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>jail</keyword>
+		<keyword>car accident</keyword>
+		<keyword>guilt</keyword>
+		<keyword>friendship</keyword>
+		<keyword>friend</keyword>
+		<keyword>year 1983</keyword>
+		<keyword>fight</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>elevator</keyword>
+		<keyword>sense of smell</keyword>
+		<keyword>gossip</keyword>
+		<keyword>las vegas nevada</keyword>
+		<keyword>finance</keyword>
+		<keyword>gold coast</keyword>
+		<keyword>customs</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>bitch slap</keyword>
+		<keyword>japanese restaurant</keyword>
+		<keyword>pen</keyword>
+		<keyword>child custody</keyword>
+		<keyword>hair piece</keyword>
+		<keyword>punch in mouth</keyword>
+		<keyword>snorting cocaine</keyword>
+		<keyword>first person narration</keyword>
+		<keyword>commission</keyword>
+		<keyword>butler</keyword>
+		<keyword>penny stock</keyword>
+		<keyword>infant</keyword>
+		<keyword>phone tap</keyword>
+		<keyword>dog</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>talking to the camera</keyword>
+		<keyword>arrest</keyword>
+		<keyword>management</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>moral ambiguity</keyword>
+		<keyword>subway</keyword>
+		<keyword>mugshot</keyword>
+		<keyword>shipwreck</keyword>
+		<keyword>storm at sea</keyword>
+		<keyword>swiss bank</keyword>
+		<keyword>toupee</keyword>
+		<keyword>subpoena</keyword>
+		<keyword>exercycle</keyword>
+		<keyword>treadmill</keyword>
+		<keyword>money counter</keyword>
+		<keyword>pile of money</keyword>
+		<keyword>aquarium</keyword>
+		<keyword>passport</keyword>
+		<keyword>swallowing a goldfish</keyword>
+		<keyword>nanny cam</keyword>
+		<keyword>engagement ring</keyword>
+		<keyword>wedding photograph</keyword>
+		<keyword>tailor</keyword>
+		<keyword>champagne</keyword>
+		<keyword>brass band</keyword>
+		<keyword>diamond necklace</keyword>
+		<keyword>jaguar e type</keyword>
+		<keyword>olive</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>boiler room</keyword>
+		<keyword>hundred dollar bill</keyword>
+		<keyword>chauffeured limousine</keyword>
+		<keyword>african lion</keyword>
+		<keyword>villain as protagonist</keyword>
+		<keyword>cartoon on tv</keyword>
+		<keyword>domestic violence</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>boat captain</keyword>
+		<keyword>attempted bribery</keyword>
+		<keyword>heart attack</keyword>
+		<keyword>bahamas</keyword>
+		<keyword>sex on an airplane</keyword>
+		<keyword>driving under the influence</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>bag of money</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>long island new york</keyword>
+		<keyword>car crash</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>little person</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>flashback</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>private investigator</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>f word</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>infomercial</keyword>
+		<keyword>fake accent</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>wearing a sound wire</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>taxi driver</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>pool table</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>five word title</keyword>
+		<keyword>cult film</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>crash land helicopter</keyword>
+		<keyword>delorean</keyword>
+		<keyword>brassiere</keyword>
+		<keyword>barefoot female</keyword>
+		<keyword>tossing little person</keyword>
+		<keyword>hairy bush</keyword>
+		<keyword>clothed male naked female scene</keyword>
+		<keyword>gratuitous female nudity</keyword>
+		<keyword>yuppie</keyword>
+		<keyword>chanting</keyword>
+		<keyword>orange juice</keyword>
+		<keyword>idealism</keyword>
+		<keyword>premature ejaculation</keyword>
+		<keyword>fish tank</keyword>
+		<keyword>manic depression</keyword>
+		<keyword>marriage between cousins</keyword>
+		<keyword>incest</keyword>
+		<keyword>first cousin</keyword>
+		<keyword>tailor made clothing</keyword>
+		<keyword>narrated flashback</keyword>
+		<keyword>flaming onion</keyword>
+		<keyword>sashimi</keyword>
+		<keyword>rat</keyword>
+		<keyword>golf cart</keyword>
+		<keyword>golf course</keyword>
+		<keyword>credit card</keyword>
+		<keyword>reference to willy wonka</keyword>
+		<keyword>reference to yves saint laurent</keyword>
+		<keyword>reference to gianni versace</keyword>
+		<keyword>reference to giorgio armani</keyword>
+		<keyword>reference to steve madden</keyword>
+		<keyword>feng shui</keyword>
+		<keyword>reference to robin hood</keyword>
+		<keyword>reference to tarzan</keyword>
+		<keyword>24 year old</keyword>
+		<keyword>35 year old</keyword>
+		<keyword>reference to don johnson</keyword>
+		<keyword>reference to popeye</keyword>
+		<keyword>pills</keyword>
+		<keyword>26 year old</keyword>
+		<keyword>22 year old</keyword>
+		<keyword>reference to george washington</keyword>
+		<keyword>gay</keyword>
+		<keyword>n word</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>reference to wolfgang amadeus mozart</keyword>
+		<keyword>eurocopter as350 squirrel</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>mustache</keyword>
+		<keyword>actor shares first name with character</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Martin Scorsese</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Riza Aziz</producer>
+		<producer> Richard Baratta</producer>
+		<producer> Marianne Bower</producer>
+		<producer> Leonardo DiCaprio</producer>
+		<producer> Danny Dimbort</producer>
+		<producer> Joel Gotler</producer>
+		<producer> Ted Griffin</producer>
+		<producer> Georgia Kacandes</producer>
+		<producer> Joey McFarland</producer>
+		<producer> Alexandra Milchan</producer>
+		<producer> Martin Scorsese</producer>
+		<producer> Adam Somner</producer>
+		<producer> Emma Tillinger Koskoff</producer>
+		<producer> Irwin Winkler</producer>
+		<producer> Rick Yorn</producer>
+	</producers>
+	<writers>
+		<writer> Terence Winter</writer>
+		<writer> Jordan Belfort</writer>
+	</writers>
+	<editors>
+		<editor> Thelma Schoonmaker</editor>
+	</editors>
+</doc>

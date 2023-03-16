@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<doc id="tt4565380">
+	<docid>tt4565380</docid>
+	<title>Fauda</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTk5OTU5Y2EtY2M1NC00N2E5LWJlMTMtODgzMDc2NDk1MTczXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The human stories on both sides of the Israel-Palestine conflict.</plot>
+	<countries>
+		<country>Israel</country>
+	</countries>
+	<languages>
+		<language>Hebrew</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Lior Raz</actor>
+			<role>Doron Kavillio</role>
+		</credit>
+		<credit>
+			<actor>Itzik Cohen</actor>
+			<role>Gabi 'Captain Eyov'</role>
+		</credit>
+		<credit>
+			<actor>Neta Garty</actor>
+			<role>Gali Kavillio</role>
+		</credit>
+		<credit>
+			<actor>Rona-Lee Shimon</actor>
+			<role>Nurit</role>
+		</credit>
+		<credit>
+			<actor>Doron Ben-David</actor>
+			<role>Hertzel 'Steve' Pinto</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Avigdori</actor>
+			<role>Doron Kavillio</role>
+		</credit>
+		<credit>
+			<actor>Assaf Cohen</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Yaakov Zada-Daniel</actor>
+			<role>Eli</role>
+		</credit>
+		<credit>
+			<actor>Boaz Konforty</actor>
+			<role>Avichay</role>
+		</credit>
+		<credit>
+			<actor>Idan Amedi</actor>
+			<role>Sagi</role>
+		</credit>
+		<credit>
+			<actor>Aylam Orian</actor>
+			<role>Gabi 'Captain Eyov'</role>
+		</credit>
+		<credit>
+			<actor>Matt Gottlieb</actor>
+			<role>Sagi</role>
+		</credit>
+		<credit>
+			<actor>Tsahi Halevi</actor>
+			<role>Naor</role>
+		</credit>
+		<credit>
+			<actor>Shadi Mar'i</actor>
+			<role>Walid El Abed</role>
+		</credit>
+		<credit>
+			<actor>Laëtitia Eïdo</actor>
+			<role>Dr. Shirin El Abed</role>
+		</credit>
+		<credit>
+			<actor>Adam Karst</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Meirav Shirom</actor>
+			<role>Dana</role>
+		</credit>
+		<credit>
+			<actor>Jameel Khoury</actor>
+			<role>Abu Smara</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">February 15 2015</releasedate>
+		<releasedate country="Israel">February 15 2015</releasedate>
+		<releasedate country="Israel">February 15 2015</releasedate>
+		<releasedate country="Japan">February 15 2015</releasedate>
+		<releasedate country="Turkey">February 15 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">18+</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>docudrama drama</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>hamas</keyword>
+		<keyword>unit</keyword>
+		<keyword>israeli</keyword>
+		<keyword>israel</keyword>
+		<keyword>undercover operation</keyword>
+		<keyword>undercover mission</keyword>
+		<keyword>arabic speaker</keyword>
+		<keyword>israeli army</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>terror</keyword>
+		<keyword>man in disguise</keyword>
+		<keyword>war on terrorism</keyword>
+		<keyword>palestinian terrorist</keyword>
+		<keyword>operation</keyword>
+		<keyword>disguise</keyword>
+		<keyword>idf</keyword>
+		<keyword>israeli palestinian conflict</keyword>
+	</keywords>
+	<directors>
+		<director> Rotem Shamir</director>
+		<director> Assaf Bernstein</director>
+		<director> Omri Givon</director>
+	</directors>
+	<composers>
+		<composer> Gilad Benamram</composer>
+	</composers>
+	<producers>
+		<producer> Liat Benasuly Amit</producer>
+		<producer> Lior Raz</producer>
+		<producer> Shimrit Yekutieli</producer>
+		<producer> Avi Issacharoff</producer>
+		<producer> David Betzer</producer>
+		<producer> Maria Feldman</producer>
+		<producer> Zohar Hanuni</producer>
+	</producers>
+	<writers>
+		<writer> Avi Issacharoff</writer>
+		<writer> Avi Issacharoff</writer>
+		<writer> Avi Issacharoff</writer>
+		<writer> Lior Raz</writer>
+		<writer> Lior Raz</writer>
+		<writer> Lior Raz</writer>
+		<writer> Michal Aviram</writer>
+		<writer> Michal Aviram</writer>
+		<writer> Noah Stollman</writer>
+		<writer> Noah Stollman</writer>
+		<writer> Noah Stollman</writer>
+		<writer> Assaf Beiser</writer>
+		<writer> Assaf Beiser</writer>
+		<writer> Leora Kamenetzky</writer>
+		<writer> Moshe Zonder</writer>
+		<writer> Amir Mann</writer>
+		<writer> Amir Mann</writer>
+		<writer> Maayan Oz</writer>
+		<writer> Yuval Yefet</writer>
+		<writer> Tyler Rhoads</writer>
+		<writer> Uzi Weil</writer>
+		<writer> Omri van Essen</writer>
+		<writer> Lilach Barnea</writer>
+		<writer> Shuki Ben-Naim</writer>
+		<writer> Natalie Marcus</writer>
+		<writer> Tomer Shushan</writer>
+	</writers>
+	<editors>
+		<editor> Omri Zalmona</editor>
+		<editor> Boaz Mann</editor>
+		<editor> Danny Rafic</editor>
+		<editor> Sergio Liberman</editor>
+		<editor> Amit Ginton</editor>
+	</editors>
+</doc>

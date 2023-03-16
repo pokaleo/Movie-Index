@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<doc id="tt8415836">
+	<docid>tt8415836</docid>
+	<title>Guillermo del Toro's Cabinet of Curiosities</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTFlZGMyMzEtZDAyZi00MTY4LWI4OWQtYmVjN2JlZDJmOGYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Bizarre nightmares unfold in eight tales of terror in a visually stunning, spine-tingling horror collection curated by Guillermo del Toro.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Lize Johnston</actor>
+			<role>Dottie</role>
+		</credit>
+		<credit>
+			<actor>Kevin Keppy</actor>
+			<role>Blob Man</role>
+		</credit>
+		<credit>
+			<actor>Ben Barnes</actor>
+			<role>William Thurber</role>
+		</credit>
+		<credit>
+			<actor>F. Murray Abraham</actor>
+			<role>Dr. Carl Winters</role>
+		</credit>
+		<credit>
+			<actor>Rupert Grint</actor>
+			<role>Walter Gilman</role>
+		</credit>
+		<credit>
+			<actor>Kate Micucci</actor>
+			<role>Stacey</role>
+		</credit>
+		<credit>
+			<actor>Tim Blake Nelson</actor>
+			<role>Nick Appleton</role>
+		</credit>
+		<credit>
+			<actor>Essie Davis</actor>
+			<role>Nancy Bradley</role>
+		</credit>
+		<credit>
+			<actor>Peter Weller</actor>
+			<role>Lionel Lassiter</role>
+		</credit>
+		<credit>
+			<actor>David Hewlett</actor>
+			<role>Masson</role>
+		</credit>
+		<credit>
+			<actor>Andrew Lincoln</actor>
+			<role>Edgar Bradley</role>
+		</credit>
+		<credit>
+			<actor>Martin Starr</actor>
+			<role>Keith</role>
+		</credit>
+		<credit>
+			<actor>Crispin Glover</actor>
+			<role>Richard Upton Pickman</role>
+		</credit>
+		<credit>
+			<actor>Ismael Cruz Cordova</actor>
+			<role>Frank Elwood</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Roché</actor>
+			<role>Roland</role>
+		</credit>
+		<credit>
+			<actor>Glynn Turman</actor>
+			<role>Sheriff Nate Craven</role>
+		</credit>
+		<credit>
+			<actor>Steve Agee</actor>
+			<role>Guy Landon</role>
+		</credit>
+		<credit>
+			<actor>Alexander Eling</actor>
+			<role>Burton</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">October 25 2022</releasedate>
+		<releasedate country="Argentina">October 25 2022</releasedate>
+		<releasedate country="Australia">October 25 2022</releasedate>
+		<releasedate country="Belgium">October 25 2022</releasedate>
+		<releasedate country="Brazil">October 25 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">Youth not allowed</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>anthology</keyword>
+		<keyword>midnight</keyword>
+		<keyword>horrific</keyword>
+		<keyword>horrifying</keyword>
+		<keyword>sinister</keyword>
+		<keyword>based on short story</keyword>
+		<keyword>anthology series</keyword>
+		<keyword>collection</keyword>
+		<keyword>mysterious</keyword>
+		<keyword>ghost</keyword>
+		<keyword>chilling</keyword>
+		<keyword>inspiration</keyword>
+		<keyword>life</keyword>
+		<keyword>horror host</keyword>
+		<keyword>usa horror host</keyword>
+		<keyword>usa non horror host</keyword>
+		<keyword>non horror host</keyword>
+		<keyword>secret</keyword>
+		<keyword>compilation</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>horror anthology</keyword>
+		<keyword>based on book</keyword>
+	</keywords>
+	<directors>
+		<director> Ana Lily Amirpour</director>
+		<director> Panos Cosmatos</director>
+		<director> Catherine Hardwicke</director>
+		<director> Jennifer Kent</director>
+		<director> Vincenzo Natali</director>
+		<director> Guillermo Navarro</director>
+		<director> David Prior</director>
+		<director> Keith Thomas</director>
+	</directors>
+	<composers>
+		<composer> Anne Chmelewsky</composer>
+		<composer> Jeff Danna</composer>
+		<composer> Tim Davies</composer>
+		<composer> Jed Kurzel</composer>
+		<composer> Daniel Lopatin</composer>
+		<composer> Daniele Luppi</composer>
+		<composer> Michael Yezerski</composer>
+		<composer> Christopher Young</composer>
+	</composers>
+	<producers>
+		<producer> Jeff J.J. Authors</producer>
+		<producer> J. Miles Dale</producer>
+		<producer> Guillermo del Toro</producer>
+		<producer> Gary Ungar</producer>
+		<producer> Regina Corrado</producer>
+	</producers>
+	<writers>
+		<writer> Guillermo del Toro</writer>
+		<writer> Guillermo del Toro</writer>
+		<writer> Guillermo del Toro</writer>
+		<writer> Guillermo del Toro</writer>
+		<writer> H.P. Lovecraft</writer>
+		<writer> Haley Z. Boston</writer>
+		<writer> Emily Carroll</writer>
+		<writer> Regina Corrado</writer>
+		<writer> Panos Cosmatos</writer>
+		<writer> David S. Goyer</writer>
+		<writer> Jennifer Kent</writer>
+		<writer> Henry Kuttner</writer>
+		<writer> Vincenzo Natali</writer>
+		<writer> Lee Patterson</writer>
+		<writer> Michael Shea</writer>
+		<writer> Aaron Stewart-Ahn</writer>
+		<writer> Mika Watkins</writer>
+	</writers>
+	<editors>
+		<editor> Michele Conroy</editor>
+		<editor> Ben Wilkinson</editor>
+		<editor> Cam McLauchlin</editor>
+		<editor> Marc Roussel</editor>
+	</editors>
+</doc>

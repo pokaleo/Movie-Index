@@ -1,0 +1,523 @@
+<?xml version="1.0" ?>
+<doc id="tt0369610">
+	<docid>tt0369610</docid>
+	<title>Jurassic World</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">124</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Chris Pratt</actor>
+			<role>Owen Grady</role>
+		</credit>
+		<credit>
+			<actor>Bryce Dallas Howard</actor>
+			<role>Claire Dearing</role>
+		</credit>
+		<credit>
+			<actor>Ty Simpkins</actor>
+			<role>Gray</role>
+		</credit>
+		<credit>
+			<actor>Judy Greer</actor>
+			<role>Karen</role>
+		</credit>
+		<credit>
+			<actor>Irrfan Khan</actor>
+			<role>Masrani</role>
+		</credit>
+		<credit>
+			<actor>Vincent D'Onofrio</actor>
+			<role>Vic Hoskins</role>
+		</credit>
+		<credit>
+			<actor>Nick Robinson</actor>
+			<role>Zach</role>
+		</credit>
+		<credit>
+			<actor>Jake Johnson</actor>
+			<role>Lowery</role>
+		</credit>
+		<credit>
+			<actor>Omar Sy</actor>
+			<role>Barry</role>
+		</credit>
+		<credit>
+			<actor>BD Wong</actor>
+			<role>Dr. Henry Wu</role>
+		</credit>
+		<credit>
+			<actor>Lauren Lapkus</actor>
+			<role>Vivian</role>
+		</credit>
+		<credit>
+			<actor>Brian Tee</actor>
+			<role>Hamada</role>
+		</credit>
+		<credit>
+			<actor>Katie McGrath</actor>
+			<role>Zara</role>
+		</credit>
+		<credit>
+			<actor>Andy Buckley</actor>
+			<role>Scott</role>
+		</credit>
+		<credit>
+			<actor>Eric Edelstein</actor>
+			<role>Paddock Supervisor</role>
+		</credit>
+		<credit>
+			<actor>Courtney James Clark</actor>
+			<role>Mosasaurus Announcer</role>
+		</credit>
+		<credit>
+			<actor>Colby Boothman</actor>
+			<role>Young Raptor Handler</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Fallon</actor>
+			<role>Jimmy Fallon</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 29 2015</releasedate>
+		<releasedate country="United States">June 9 2015</releasedate>
+		<releasedate country="Belgium">June 10 2015</releasedate>
+		<releasedate country="China">June 10 2015</releasedate>
+		<releasedate country="Egypt">June 10 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-13</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">6+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dinosaur</keyword>
+		<keyword>velociraptor</keyword>
+		<keyword>theme park</keyword>
+		<keyword>disaster film</keyword>
+		<keyword>experiment gone wrong</keyword>
+		<keyword>aquarium</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>jurassic park</keyword>
+		<keyword>pig</keyword>
+		<keyword>island</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>chase</keyword>
+		<keyword>jeep</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>monster movie</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>monorail</keyword>
+		<keyword>jumping into river</keyword>
+		<keyword>forest</keyword>
+		<keyword>teenage love</keyword>
+		<keyword>tooth</keyword>
+		<keyword>indominus rex</keyword>
+		<keyword>animal attack</keyword>
+		<keyword>tyrannosaurus rex</keyword>
+		<keyword>sea creature</keyword>
+		<keyword>pterodactyl</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>amusement park</keyword>
+		<keyword>rampage</keyword>
+		<keyword>dinosaur egg</keyword>
+		<keyword>sequel</keyword>
+		<keyword>famous score</keyword>
+		<keyword>egg</keyword>
+		<keyword>jurassic</keyword>
+		<keyword>monster</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>jungle</keyword>
+		<keyword>shark</keyword>
+		<keyword>battle</keyword>
+		<keyword>showdown</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>fourth part</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>dinosaur feature</keyword>
+		<keyword>scientist</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>rescue</keyword>
+		<keyword>violence</keyword>
+		<keyword>redheaded woman</keyword>
+		<keyword>two brothers</keyword>
+		<keyword>dinosaur versus dinosaur</keyword>
+		<keyword>science run amok</keyword>
+		<keyword>giant dinosaur</keyword>
+		<keyword>killer dinosaur</keyword>
+		<keyword>fight between dinosaurs</keyword>
+		<keyword>reboot of series</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>cameo</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>part of series</keyword>
+		<keyword>night</keyword>
+		<keyword>rifle</keyword>
+		<keyword>fire</keyword>
+		<keyword>cgi</keyword>
+		<keyword>reboot</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>flare</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>irish</keyword>
+		<keyword>disaster</keyword>
+		<keyword>henry wu character</keyword>
+		<keyword>written by director</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>goat</keyword>
+		<keyword>warrior</keyword>
+		<keyword>long take</keyword>
+		<keyword>hot dog stand</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>multi monster finale</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>high tech</keyword>
+		<keyword>ex navy</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>cattle prod</keyword>
+		<keyword>hotwiring</keyword>
+		<keyword>camouflage</keyword>
+		<keyword>lifting someone into the air</keyword>
+		<keyword>cgi animal in live action title</keyword>
+		<keyword>isla nublar</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>genetic</keyword>
+		<keyword>boy</keyword>
+		<keyword>rexy character</keyword>
+		<keyword>escape</keyword>
+		<keyword>dinosaur theme park</keyword>
+		<keyword>hybrid animal</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>search and rescue</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>hotel</keyword>
+		<keyword>survival</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>night vision goggles</keyword>
+		<keyword>museum</keyword>
+		<keyword>animal killing</keyword>
+		<keyword>forest fire</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>christmas</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>monster versus monster</keyword>
+		<keyword>hologram</keyword>
+		<keyword>torch</keyword>
+		<keyword>genetic hybrid</keyword>
+		<keyword>mission</keyword>
+		<keyword>guard</keyword>
+		<keyword>ceo</keyword>
+		<keyword>footprint</keyword>
+		<keyword>pteranodon</keyword>
+		<keyword>danger</keyword>
+		<keyword>fight</keyword>
+		<keyword>peril</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>costa rica</keyword>
+		<keyword>fear</keyword>
+		<keyword>blood</keyword>
+		<keyword>bipedal dinosaur</keyword>
+		<keyword>aircraft cockpit</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>navajo indian</keyword>
+		<keyword>navajo</keyword>
+		<keyword>bio dome</keyword>
+		<keyword>biosphere</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>panic</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>ferry</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>corporation</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>carnivorous dinosaur</keyword>
+		<keyword>hybrid dinosaur</keyword>
+		<keyword>mosasaurus</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>beach</keyword>
+		<keyword>snow</keyword>
+		<keyword>soldier</keyword>
+		<keyword>taser</keyword>
+		<keyword>knife</keyword>
+		<keyword>nanny</keyword>
+		<keyword>corpse</keyword>
+		<keyword>elevator</keyword>
+		<keyword>combat</keyword>
+		<keyword>suv</keyword>
+		<keyword>map</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>product placement</keyword>
+		<keyword>el train</keyword>
+		<keyword>lizard</keyword>
+		<keyword>arena</keyword>
+		<keyword>dripping blood</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>self referential</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>jumping off a cliff</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>pager</keyword>
+		<keyword>verizon</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>trainer</keyword>
+		<keyword>deus ex machina</keyword>
+		<keyword>tourist</keyword>
+		<keyword>training</keyword>
+		<keyword>search</keyword>
+		<keyword>old flame</keyword>
+		<keyword>commander</keyword>
+		<keyword>genetics</keyword>
+		<keyword>vibrating cell phone</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>death</keyword>
+		<keyword>hunting</keyword>
+		<keyword>commando</keyword>
+		<keyword>mauling</keyword>
+		<keyword>night vision</keyword>
+		<keyword>special forces</keyword>
+		<keyword>manager</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>airport</keyword>
+		<keyword>weapon</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>dinosaur attack</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>river</keyword>
+		<keyword>human animal relationship</keyword>
+		<keyword>ankylosaurus</keyword>
+		<keyword>dinosaur kills dinosaur</keyword>
+		<keyword>reference to the land before time</keyword>
+		<keyword>pigeon</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>murder of a woman</keyword>
+		<keyword>requel</keyword>
+		<keyword>furry</keyword>
+		<keyword>dinosaur monster</keyword>
+		<keyword>apatosaurus</keyword>
+		<keyword>camera shot of a woman's feet in high heels</keyword>
+		<keyword>dimorphodon</keyword>
+		<keyword>jungle adventure</keyword>
+		<keyword>1990s</keyword>
+		<keyword>20th century</keyword>
+		<keyword>dinosaur adventure</keyword>
+		<keyword>vacation gone wrong</keyword>
+		<keyword>biotech sci fi</keyword>
+		<keyword>retcon</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>armory</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>jumping into water</keyword>
+		<keyword>teenager</keyword>
+		<keyword>airplane</keyword>
+		<keyword>courage</keyword>
+		<keyword>redhead</keyword>
+		<keyword>sibling relationship</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>gun</keyword>
+		<keyword>dna</keyword>
+		<keyword>control room</keyword>
+		<keyword>science</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>geneticist</keyword>
+		<keyword>first part</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>2010s</keyword>
+		<keyword>owen grady character</keyword>
+		<keyword>claire dearing character</keyword>
+		<keyword>cgi animal</keyword>
+		<keyword>fade to white</keyword>
+		<keyword>hk 417</keyword>
+		<keyword>security guard</keyword>
+		<keyword>chaos</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>raptor dinosaur</keyword>
+		<keyword>air raid siren</keyword>
+		<keyword>dinosaur fight</keyword>
+		<keyword>dinosaur footprint</keyword>
+		<keyword>dinosaur skull</keyword>
+		<keyword>winged dinosaur</keyword>
+		<keyword>flying dinosaur</keyword>
+		<keyword>human dinosaur relationship</keyword>
+		<keyword>human versus dinosaur</keyword>
+		<keyword>construction site</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>heart rate monitor</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>bravery</keyword>
+		<keyword>destruction</keyword>
+		<keyword>employee employee relationship</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>night vision binoculars</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>caught in a net</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>corporate executive</keyword>
+		<keyword>impalement</keyword>
+		<keyword>deception</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>helicopter pilot</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>aunt nephew relationship</keyword>
+		<keyword>paleontology</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>mouse</keyword>
+		<keyword>satire</keyword>
+		<keyword>explosion</keyword>
+		<keyword>two word title</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>action hero</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>african</keyword>
+		<keyword>trailer home</keyword>
+		<keyword>swamp</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>chimera</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>final battle</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>cloning</keyword>
+	</keywords>
+	<directors>
+		<director> Colin Trevorrow</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Patrick Crowley</producer>
+		<producer> Frank Marshall</producer>
+		<producer> Christopher Raimo</producer>
+		<producer> Steven Spielberg</producer>
+		<producer> Thomas Tull</producer>
+		<producer> Trevor Waterson</producer>
+	</producers>
+	<writers>
+		<writer> Rick Jaffa</writer>
+		<writer> Amanda Silver</writer>
+		<writer> Colin Trevorrow</writer>
+		<writer> Derek Connolly</writer>
+		<writer> Rick Jaffa</writer>
+		<writer> Amanda Silver</writer>
+		<writer> Michael Crichton</writer>
+	</writers>
+	<editors>
+		<editor> Kevin Stitt</editor>
+	</editors>
+</doc>

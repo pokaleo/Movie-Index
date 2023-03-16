@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<doc id="tt10541088">
+	<docid>tt10541088</docid>
+	<title>Clarkson's Farm</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTJjN2Y0ZGMtN2QxNS00ZjZmLWI1ZGQtZjg2OTQ1NzQ4ZmUwXkEyXkFqcGdeQXVyMTI3NDk1ODY0._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Comedy</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>Follow Jeremy Clarkson as he attempts to run a farm in the countryside.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jeremy Clarkson</actor>
+			<role>Self - Presenter</role>
+		</credit>
+		<credit>
+			<actor>Kaleb Cooper</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Charlie Ireland</actor>
+			<role>Self - Land Agent</role>
+		</credit>
+		<credit>
+			<actor>Lisa Hogan</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Gerald Cooper</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Kevin Harrison</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Ellen Helliwell</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Alan Townsend</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Simon Strong</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Georgia Craig</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Patrick Edwards</actor>
+			<role>Self - Tractor shop owner</role>
+		</credit>
+		<credit>
+			<actor>Dave Clay</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Vernon Kay</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">June 10 2021</releasedate>
+		<releasedate country="Canada">June 10 2021</releasedate>
+		<releasedate country="Spain">June 10 2021</releasedate>
+		<releasedate country="France">June 10 2021</releasedate>
+		<releasedate country="Japan">June 10 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Japan">(Banned)</certificate>
+		<certificate country="Mexico">18+</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>farm</keyword>
+		<keyword>england</keyword>
+		<keyword>farming</keyword>
+		<keyword>cotswolds</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>farmhand</keyword>
+		<keyword>timeframe 21st century</keyword>
+	</keywords>
+	<directors>
+		<director> Gavin Whitehead</director>
+		<director> Will Yapp</director>
+		<director> Kit Lynch Robinson</director>
+	</directors>
+	<composers>
+		<composer> Vik Sharma</composer>
+	</composers>
+	<producers>
+		<producer> Peter Fincham</producer>
+		<producer> Conor Tighe</producer>
+		<producer> Andy Wilman</producer>
+		<producer> Peter Richardson</producer>
+		<producer> Gavin Whitehead</producer>
+		<producer> Oliver Heath</producer>
+		<producer> Dan Grabiner</producer>
+		<producer> Adrian Sutton</producer>
+		<producer> Lauren Morton</producer>
+		<producer> Mia Veglio-Taylor</producer>
+		<producer> Rachel Ramsay</producer>
+		<producer> Catrina Lear</producer>
+		<producer> Jordan Livermore</producer>
+		<producer> Vicky Hoy</producer>
+	</producers>
+	<writers>
+		<writer> Jeremy Clarkson</writer>
+	</writers>
+	<editors>
+		<editor> James Hart</editor>
+		<editor> Adam Hutchings</editor>
+		<editor> Chris Denton</editor>
+		<editor> Craig Harbour</editor>
+		<editor> Paddy Lynas</editor>
+	</editors>
+</doc>

@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<doc id="tt4647692">
+	<docid>tt4647692</docid>
+	<title>Letterkenny</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzRjOWYyNDUtYTJhMC00ZmZmLThlYmYtOWJkMzk4MGQ2NDFhXkEyXkFqcGdeQXVyMjQyMDc5MA@@._V1_QL75_UX190_CR0,6,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Quick-witted, fast-paced snappy comedy about rural folk getting by in a small town.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jared Keeso</actor>
+			<role>Wayne</role>
+		</credit>
+		<credit>
+			<actor>Nathan Dales</actor>
+			<role>Daryl</role>
+		</credit>
+		<credit>
+			<actor>Michelle Mylett</actor>
+			<role>Katy</role>
+		</credit>
+		<credit>
+			<actor>K. Trevor Wilson</actor>
+			<role>Dan</role>
+		</credit>
+		<credit>
+			<actor>Dylan Playfair</actor>
+			<role>Reilly</role>
+		</credit>
+		<credit>
+			<actor>Andrew Herr</actor>
+			<role>Jonesy</role>
+		</credit>
+		<credit>
+			<actor>Tyler Johnston</actor>
+			<role>Stewart</role>
+		</credit>
+		<credit>
+			<actor>Evan Stern</actor>
+			<role>Roald</role>
+		</credit>
+		<credit>
+			<actor>Lisa Codrington</actor>
+			<role>Gail</role>
+		</credit>
+		<credit>
+			<actor>Kamilla Kowal</actor>
+			<role>Bonnie McMurray</role>
+		</credit>
+		<credit>
+			<actor>Patrick McNeil</actor>
+			<role>Connor</role>
+		</credit>
+		<credit>
+			<actor>Jacob Tierney</actor>
+			<role>Glen</role>
+		</credit>
+		<credit>
+			<actor>Dan Petronijevic</actor>
+			<role>McMurray</role>
+		</credit>
+		<credit>
+			<actor>Mark Forward</actor>
+			<role>Coach</role>
+		</credit>
+		<credit>
+			<actor>Clark Backo</actor>
+			<role>Rosie</role>
+		</credit>
+		<credit>
+			<actor>Jay Bertin</actor>
+			<role>Tyson</role>
+		</credit>
+		<credit>
+			<actor>Joel Gagne</actor>
+			<role>Joint Boy</role>
+		</credit>
+		<credit>
+			<actor>Kaniehtiio Horn</actor>
+			<role>Tanis</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">February 7 2016</releasedate>
+		<releasedate country="Canada">February 7 2016</releasedate>
+		<releasedate country="France">February 7 2016</releasedate>
+		<releasedate country="Italy">February 7 2016</releasedate>
+		<releasedate country="Mexico">February 7 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="Italy">VM18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>schmelt</keyword>
+		<keyword>hockey</keyword>
+		<keyword>choring</keyword>
+		<keyword>jock</keyword>
+		<keyword>hick</keyword>
+		<keyword>skid</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>smoking</keyword>
+		<keyword>drinking</keyword>
+		<keyword>ice fishing</keyword>
+		<keyword>degens</keyword>
+		<keyword>natives</keyword>
+		<keyword>dive bar</keyword>
+		<keyword>farm</keyword>
+		<keyword>drug use</keyword>
+		<keyword>crude humor comedy</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+	</keywords>
+	<directors>
+		<director> Jacob Tierney</director>
+		<director> Theo Kim</director>
+		<director> Spencer Maybee</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Mark Montefiore</producer>
+		<producer> Jared Keeso</producer>
+		<producer> Jacob Tierney</producer>
+		<producer> Patrick O'Sullivan</producer>
+		<producer> Kara Haflidson</producer>
+		<producer> Cameron MacLaren</producer>
+		<producer> Ben Nemtin</producer>
+		<producer> Duncan Penn</producer>
+		<producer> Brendan Brady</producer>
+		<producer> Greg Copeland</producer>
+		<producer> Peter Harvey</producer>
+		<producer> Christopher J. Danton</producer>
+	</producers>
+	<writers>
+		<writer> Jared Keeso</writer>
+		<writer> Jared Keeso</writer>
+		<writer> Jared Keeso</writer>
+		<writer> Jared Keeso</writer>
+		<writer> Jacob Tierney</writer>
+		<writer> Jacob Tierney</writer>
+		<writer> Jacob Tierney</writer>
+		<writer> Jonathan Torrens</writer>
+		<writer> Jonathan Torrens</writer>
+		<writer> Jason Kitts</writer>
+		<writer> Trevor Risk</writer>
+		<writer> Trevor Risk</writer>
+		<writer> Jesse McKeown</writer>
+		<writer> Sonja Bennett</writer>
+		<writer> Daniel Harroch</writer>
+		<writer> Lynne Kamm</writer>
+		<writer> Mark Forward</writer>
+		<writer> Sara Wren</writer>
+	</writers>
+	<editors>
+		<editor> Drew MacLeod</editor>
+		<editor> Kyle Martin</editor>
+		<editor> Christopher Minns</editor>
+		<editor> Jonathan Eagan</editor>
+		<editor> Duncan Christie</editor>
+		<editor> Erin Deck</editor>
+		<editor> Mike T. King</editor>
+	</editors>
+</doc>

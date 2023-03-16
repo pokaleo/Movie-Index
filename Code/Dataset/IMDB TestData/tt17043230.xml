@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<doc id="tt17043230">
+	<docid>tt17043230</docid>
+	<title>Quantum Leap</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzNlMjU2ZDAtYWQyMS00YjQ5LWFjMjQtYjdiNDI5ODg1YjBjXkEyXkFqcGdeQXVyMTUwMzM5ODkz._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Set 30 years after Dr. Sam Beckett stepped into the Quantum Leap accelerator and vanished, follows a new team that must restart the project hoping to understand the mysteries behind the machine and its creator.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Raymond Lee</actor>
+			<role>Dr. Benjamin 'Ben' Song</role>
+		</credit>
+		<credit>
+			<actor>Caitlin Bassett</actor>
+			<role>Addison Augustine</role>
+		</credit>
+		<credit>
+			<actor>Mason Alexander Park</actor>
+			<role>Ian Wright</role>
+		</credit>
+		<credit>
+			<actor>Nanrisa Lee</actor>
+			<role>Jenn Chu</role>
+		</credit>
+		<credit>
+			<actor>Ernie Hudson</actor>
+			<role>Herbert 'Magic' Williams</role>
+		</credit>
+		<credit>
+			<actor>Georgina Reilly</actor>
+			<role>Janis Calavicci</role>
+		</credit>
+		<credit>
+			<actor>Walter Perez</actor>
+			<role>Richard Martinez</role>
+		</credit>
+		<credit>
+			<actor>Susan Diol</actor>
+			<role>Beth Calavicci</role>
+		</credit>
+		<credit>
+			<actor>Colleen Foy</actor>
+			<role>Magda Pardo</role>
+		</credit>
+		<credit>
+			<actor>Elyse Levesque</actor>
+			<role>Lola Gray</role>
+		</credit>
+		<credit>
+			<actor>Tyson Turrou</actor>
+			<role>Sleazy Guy</role>
+		</credit>
+		<credit>
+			<actor>Anastasia Antonia</actor>
+			<role>Eva</role>
+		</credit>
+		<credit>
+			<actor>Guerrin Gardner</actor>
+			<role>Pregnant Woman</role>
+		</credit>
+		<credit>
+			<actor>Mark Sipka</actor>
+			<role>Bartender</role>
+		</credit>
+		<credit>
+			<actor>Wes Armstrong</actor>
+			<role>Husband</role>
+		</credit>
+		<credit>
+			<actor>Jessica Ramirez</actor>
+			<role>Orderly</role>
+		</credit>
+		<credit>
+			<actor>Raquel Justice</actor>
+			<role>Stacy Thompson</role>
+		</credit>
+		<credit>
+			<actor>Carly Pope</actor>
+			<role>Samantha Stratton</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">September 19 2022</releasedate>
+		<releasedate country="Spain">September 19 2022</releasedate>
+		<releasedate country="France">September 19 2022</releasedate>
+		<releasedate country="Mexico">September 19 2022</releasedate>
+		<releasedate country="United States">September 19 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mysteries</keyword>
+		<keyword>vanished</keyword>
+		<keyword>machine</keyword>
+	</keywords>
+	<directors>
+		<director> Chris Grismer</director>
+		<director> Thor Freudenthal</director>
+		<director> Silas Howard</director>
+		<director> David McWhirter</director>
+		<director> Helen Shaver</director>
+		<director> Marcus Stokes</director>
+		<director> Rachel Talalay</director>
+		<director> Avi Youabian</director>
+		<director> Tessa Blake</director>
+		<director> Morenike Joela Evans</director>
+		<director> David Grossman</director>
+		<director> Deborah Pratt</director>
+		<director> Pamela Romanowsky</director>
+		<director> Shakina</director>
+		<director> Kristin Windell</director>
+	</directors>
+	<composers>
+		<composer> Daniel James Chan</composer>
+	</composers>
+	<producers>
+		<producer> Tim Scanlan</producer>
+		<producer> Benjamin Raab</producer>
+		<producer> Meg Fister</producer>
+		<producer> Chris Grismer</producer>
+		<producer> Deric A. Hughes</producer>
+		<producer> Moira Kirland</producer>
+		<producer> Steven Lilien</producer>
+		<producer> Drew Lindo</producer>
+		<producer> Aadrita Mukerji</producer>
+		<producer> Bryan Wynbrandt</producer>
+		<producer> Donald P. Bellisario</producer>
+		<producer> Dean Georgaris</producer>
+		<producer> Martin Gero</producer>
+		<producer> Deborah Pratt</producer>
+		<producer> Ethan Henderson</producer>
+		<producer> Marc Bienstock</producer>
+		<producer> Robert Hull</producer>
+		<producer> Tracey Baird</producer>
+		<producer> Alex Berger</producer>
+		<producer> Thor Freudenthal</producer>
+		<producer> Jill Risk</producer>
+		<producer> Helen Shaver</producer>
+	</producers>
+	<writers>
+		<writer> Margarita Matthews</writer>
+		<writer> Margarita Matthews</writer>
+		<writer> Donald P. Bellisario</writer>
+		<writer> Steven Lilien</writer>
+		<writer> Steven Lilien</writer>
+		<writer> Steven Lilien</writer>
+		<writer> Steven Lilien</writer>
+		<writer> Bryan Wynbrandt</writer>
+		<writer> Bryan Wynbrandt</writer>
+		<writer> Bryan Wynbrandt</writer>
+		<writer> Bryan Wynbrandt</writer>
+		<writer> Emily Kim</writer>
+		<writer> Emily Kim</writer>
+		<writer> Deric A. Hughes</writer>
+		<writer> Drew Lindo</writer>
+		<writer> Drew Lindo</writer>
+		<writer> Drew Lindo</writer>
+		<writer> Benjamin Raab</writer>
+		<writer> Dean Georgaris</writer>
+		<writer> Dean Georgaris</writer>
+		<writer> Martin Gero</writer>
+		<writer> Robert Hull</writer>
+		<writer> Moira Kirland</writer>
+		<writer> Romy Loor</writer>
+		<writer> Aadrita Mukerji</writer>
+		<writer> Shakina</writer>
+	</writers>
+	<editors>
+		<editor> Benjamin J. Bumgarner</editor>
+		<editor> Piper Kroeze</editor>
+		<editor> Ian Mayberry</editor>
+		<editor> Finnian Murray</editor>
+		<editor> Christina Sophia Castro</editor>
+	</editors>
+</doc>

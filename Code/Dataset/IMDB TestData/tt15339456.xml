@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<doc id="tt15339456">
+	<docid>tt15339456</docid>
+	<title>Marcel the Shell with Shoes On</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODgzZGEwZGQtZjA2Mi00OTI5LWIwZmYtZDQ4OTMxODE0YmU4XkEyXkFqcGdeQXVyOTQ5MDIyNDM@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Feature adaptation of the animated short film interviewing a mollusk named Marcel.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jenny Slate</actor>
+			<role>Marcel</role>
+		</credit>
+		<credit>
+			<actor>Dean Fleischer Camp</actor>
+			<role>Dean</role>
+		</credit>
+		<credit>
+			<actor>Isabella Rossellini</actor>
+			<role>Connie</role>
+		</credit>
+		<credit>
+			<actor>Joe Gabler</actor>
+			<role>Haysack Rep</role>
+		</credit>
+		<credit>
+			<actor>Shari Finkelstein</actor>
+			<role>60 Minutes Producer</role>
+		</credit>
+		<credit>
+			<actor>Samuel Painter</actor>
+			<role>60 Minutes Camera Operator</role>
+		</credit>
+		<credit>
+			<actor>Blake Hottle</actor>
+			<role>60 Minutes Camera Operator</role>
+		</credit>
+		<credit>
+			<actor>Scott Osterman</actor>
+			<role>60 Minutes Sound Mixer</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Evans</actor>
+			<role>60 Minutes Grip</role>
+		</credit>
+		<credit>
+			<actor>Lesley Stahl</actor>
+			<role>Lesley Stahl</role>
+		</credit>
+		<credit>
+			<actor>Rosa Salazar</actor>
+			<role>Larissa</role>
+		</credit>
+		<credit>
+			<actor>Thomas Mann</actor>
+			<role>Mark</role>
+		</credit>
+		<credit>
+			<actor>Sarah Thyre</actor>
+			<role>Catherine</role>
+		</credit>
+		<credit>
+			<actor>Andy Richter</actor>
+			<role>Mario</role>
+		</credit>
+		<credit>
+			<actor>Nathan Fielder</actor>
+			<role>Justin</role>
+		</credit>
+		<credit>
+			<actor>Jessi Klein</actor>
+			<role>Judy</role>
+		</credit>
+		<credit>
+			<actor>Peter Bonerz</actor>
+			<role>The Maestro</role>
+		</credit>
+		<credit>
+			<actor>Jamie Leonhart</actor>
+			<role>Shell Family</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 3 2021</releasedate>
+		<releasedate country="United States">March 12 2022</releasedate>
+		<releasedate country="United States">April 10 2022</releasedate>
+		<releasedate country="United States">April 16 2022</releasedate>
+		<releasedate country="United States">April 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Taiwan">0+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>surreal comedy</keyword>
+		<keyword>mollusk</keyword>
+		<keyword>based on short film</keyword>
+		<keyword>mockumentary comedy</keyword>
+		<keyword>animated</keyword>
+		<keyword>mockumentary</keyword>
+		<keyword>reference to wayne gretzky</keyword>
+		<keyword>reference to whoopi goldberg</keyword>
+		<keyword>airbnb</keyword>
+	</keywords>
+	<directors>
+		<director> Dean Fleischer Camp</director>
+	</directors>
+	<composers>
+		<composer> Disasterpeace</composer>
+	</composers>
+	<producers>
+		<producer> William Byerley</producer>
+		<producer> Edward Chiodo</producer>
+		<producer> Philipp Engelhorn</producer>
+		<producer> Dean Fleischer Camp</producer>
+		<producer> Andrew Goldman</producer>
+		<producer> Elisabeth Holm</producer>
+		<producer> Caroline Kaplan</producer>
+		<producer> Terry Leonard</producer>
+		<producer> Nion McEvoy</producer>
+		<producer> Paul Mezey</producer>
+		<producer> Nick Paley</producer>
+		<producer> Michael Raisler</producer>
+		<producer> George Rush</producer>
+		<producer> Jenny Slate</producer>
+	</producers>
+	<writers>
+		<writer> Dean Fleischer Camp</writer>
+		<writer> Jenny Slate</writer>
+		<writer> Nick Paley</writer>
+		<writer> Dean Fleischer Camp</writer>
+		<writer> Jenny Slate</writer>
+		<writer> Nick Paley</writer>
+		<writer> Elisabeth Holm</writer>
+		<writer> Dean Fleischer Camp</writer>
+		<writer> Jenny Slate</writer>
+	</writers>
+	<editors>
+		<editor> Dean Fleischer Camp</editor>
+		<editor> Nick Paley</editor>
+	</editors>
+</doc>

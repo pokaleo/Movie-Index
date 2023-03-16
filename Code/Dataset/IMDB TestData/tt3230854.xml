@@ -1,0 +1,443 @@
+<?xml version="1.0" ?>
+<doc id="tt3230854">
+	<docid>tt3230854</docid>
+	<title>The Expanse</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDVmMDljM2QtZDkzZC00ZDg2LWFiMGItZjNiNjliZjg2MGEzXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>In the 24th century, a group of humans untangle a vast plot which threatens the Solar System's fragile state of detente.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Steven Strait</actor>
+			<role>Jim Holden</role>
+		</credit>
+		<credit>
+			<actor>Dominique Tipper</actor>
+			<role>Naomi Nagata</role>
+		</credit>
+		<credit>
+			<actor>Wes Chatham</actor>
+			<role>Amos Burton</role>
+		</credit>
+		<credit>
+			<actor>Shohreh Aghdashloo</actor>
+			<role>Chrisjen Avasarala</role>
+		</credit>
+		<credit>
+			<actor>Cas Anvar</actor>
+			<role>Alex Kamal</role>
+		</credit>
+		<credit>
+			<actor>Frankie Adams</actor>
+			<role>Roberta 'Bobbie' W. Draper</role>
+		</credit>
+		<credit>
+			<actor>Cara Gee</actor>
+			<role>Camina Drummer</role>
+		</credit>
+		<credit>
+			<actor>Shawn Doyle</actor>
+			<role>Sadavir Errinwright</role>
+		</credit>
+		<credit>
+			<actor>Thomas Jane</actor>
+			<role>Joe Miller</role>
+		</credit>
+		<credit>
+			<actor>Florence Faivre</actor>
+			<role>Julie Mao</role>
+		</credit>
+		<credit>
+			<actor>Nadine Nicole</actor>
+			<role>Clarissa Mao</role>
+		</credit>
+		<credit>
+			<actor>Chad L. Coleman</actor>
+			<role>Col. Frederick Lucius Johnson</role>
+		</credit>
+		<credit>
+			<actor>Anna Hopkins</actor>
+			<role>Monica Stuart</role>
+		</credit>
+		<credit>
+			<actor>Keon Alexander</actor>
+			<role>Marco Inaros</role>
+		</credit>
+		<credit>
+			<actor>Jasai Chase Owens</actor>
+			<role>Filip</role>
+		</credit>
+		<credit>
+			<actor>Andrew Rotilio</actor>
+			<role>Diogo</role>
+		</credit>
+		<credit>
+			<actor>Nick E. Tarabay</actor>
+			<role>Cotyar</role>
+		</credit>
+		<credit>
+			<actor>David Strathairn</actor>
+			<role>Commander Klaes Ashford</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Turkey">September 15 2015</releasedate>
+		<releasedate country="Philippines">November 23 2015</releasedate>
+		<releasedate country="United States">November 23 2015</releasedate>
+		<releasedate country="Brazil">December 14 2015</releasedate>
+		<releasedate country="Canada">December 14 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">16+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Mexico">TV-14</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">16</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>asteroid belt</keyword>
+		<keyword>outer space</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>solar system</keyword>
+		<keyword>wormhole</keyword>
+		<keyword>alien technology</keyword>
+		<keyword>false flag operation</keyword>
+		<keyword>spacesuit</keyword>
+		<keyword>set in future</keyword>
+		<keyword>human in outer space</keyword>
+		<keyword>biosphere</keyword>
+		<keyword>alien race</keyword>
+		<keyword>space travel</keyword>
+		<keyword>alien planet</keyword>
+		<keyword>science</keyword>
+		<keyword>space marine</keyword>
+		<keyword>same sex couple</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>advanced technology</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>space exploration</keyword>
+		<keyword>space war</keyword>
+		<keyword>24th century</keyword>
+		<keyword>space opera</keyword>
+		<keyword>dead girlfriend</keyword>
+		<keyword>shootout</keyword>
+		<keyword>civilian death</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>nuclear weapon</keyword>
+		<keyword>ancient astronaut</keyword>
+		<keyword>ancient ruins</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>totalitarianism</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>astrophysicist</keyword>
+		<keyword>man in uniform</keyword>
+		<keyword>alternate history</keyword>
+		<keyword>revenge</keyword>
+		<keyword>deception</keyword>
+		<keyword>fictional world</keyword>
+		<keyword>alien</keyword>
+		<keyword>parasite</keyword>
+		<keyword>battle</keyword>
+		<keyword>violence</keyword>
+		<keyword>climate change</keyword>
+		<keyword>civil war</keyword>
+		<keyword>murder</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>morality</keyword>
+		<keyword>bounty hunter</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>exploration</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>spaceship setting</keyword>
+		<keyword>same sex marriage</keyword>
+		<keyword>alien species</keyword>
+		<keyword>alien life form</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>robot</keyword>
+		<keyword>space western</keyword>
+		<keyword>reincarnation</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>love</keyword>
+		<keyword>female president</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>torture</keyword>
+		<keyword>refugee</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>genocide</keyword>
+		<keyword>heroine</keyword>
+		<keyword>moral ambiguity</keyword>
+		<keyword>soldier</keyword>
+		<keyword>action hero</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>armageddon</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>political fiction</keyword>
+		<keyword>american literature on screen</keyword>
+		<keyword>21st century literature on screen</keyword>
+		<keyword>hatred</keyword>
+		<keyword>leadership</keyword>
+		<keyword>speculative fiction</keyword>
+		<keyword>fictional universe</keyword>
+		<keyword>alternate world</keyword>
+		<keyword>women in war</keyword>
+		<keyword>warfare</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>scientific experiment</keyword>
+		<keyword>government conspiracy</keyword>
+		<keyword>propaganda</keyword>
+		<keyword>cover up</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>scientist</keyword>
+		<keyword>military</keyword>
+		<keyword>preacher</keyword>
+		<keyword>starship captain</keyword>
+		<keyword>spaceport</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>infirmary</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>interracial marriage</keyword>
+		<keyword>mechanic</keyword>
+		<keyword>mysterious past</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>warrior woman</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>space shuttle</keyword>
+		<keyword>cargo</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>death</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>galaxy</keyword>
+		<keyword>planet</keyword>
+		<keyword>social conflict</keyword>
+		<keyword>rationing</keyword>
+		<keyword>space crew</keyword>
+		<keyword>woman wears a uniform</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>rescue</keyword>
+		<keyword>loss of son</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>blood</keyword>
+		<keyword>f word</keyword>
+		<keyword>united nations</keyword>
+		<keyword>martian</keyword>
+		<keyword>mars the planet</keyword>
+		<keyword>moon</keyword>
+		<keyword>earth</keyword>
+		<keyword>jupiter the planet</keyword>
+		<keyword>future</keyword>
+		<keyword>venus the planet</keyword>
+		<keyword>space station</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>saturn the planet</keyword>
+		<keyword>planet earth</keyword>
+		<keyword>sun</keyword>
+		<keyword>astronomy</keyword>
+		<keyword>mass destruction</keyword>
+		<keyword>monster</keyword>
+		<keyword>survival</keyword>
+		<keyword>explosion</keyword>
+		<keyword>humanoid alien</keyword>
+		<keyword>political oppression</keyword>
+		<keyword>power struggle</keyword>
+		<keyword>intrigue</keyword>
+		<keyword>ethnic conflict</keyword>
+		<keyword>darkness</keyword>
+		<keyword>literature on screen</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>dystopian sci fi</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>epic sci fi</keyword>
+		<keyword>space opera sci fi</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>23rd century</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>corruption</keyword>
+		<keyword>team leader</keyword>
+		<keyword>factions</keyword>
+		<keyword>space battle</keyword>
+		<keyword>independence movement</keyword>
+		<keyword>power grab</keyword>
+		<keyword>cynic</keyword>
+		<keyword>political intrigue</keyword>
+		<keyword>investigation</keyword>
+		<keyword>guilt ridden</keyword>
+		<keyword>rebel leader</keyword>
+		<keyword>attempted genocide</keyword>
+		<keyword>space freighter</keyword>
+		<keyword>missing persons case</keyword>
+		<keyword>biological weapon</keyword>
+		<keyword>political conspiracy</keyword>
+		<keyword>colonized mars</keyword>
+		<keyword>space colony</keyword>
+		<keyword>dark future</keyword>
+		<keyword>hardboiled detective</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>android</keyword>
+		<keyword>profanity</keyword>
+		<keyword>cunning</keyword>
+		<keyword>female politician</keyword>
+	</keywords>
+	<directors>
+		<director> Breck Eisner</director>
+		<director> Jeff Woolnough</director>
+		<director> Terry McDonough</director>
+		<director> Robert Lieberman</director>
+		<director> Kenneth Fink</director>
+		<director> David Grossman</director>
+		<director> Thor Freudenthal</director>
+		<director> Bill Johnson</director>
+		<director> Mikael Salomon</director>
+		<director> Jennifer Phang</director>
+		<director> Sarah Harding</director>
+		<director> David Petrarca</director>
+		<director> Anya Adams</director>
+		<director> Marisol Adler</director>
+		<director> Simon Cellan Jones</director>
+		<director> Nick Gomez</director>
+		<director> Thomas Jane</director>
+	</directors>
+	<composers>
+		<composer> Clinton Shorter</composer>
+	</composers>
+	<producers>
+		<producer> Jason F. Brown</producer>
+		<producer> Sean Daniel</producer>
+		<producer> Broderick Johnson</producer>
+		<producer> Andrew A. Kosove</producer>
+		<producer> Naren Shankar</producer>
+		<producer> Daniel Abraham</producer>
+		<producer> Ty Franck</producer>
+		<producer> Ben Cook</producer>
+		<producer> Sharon Hall</producer>
+		<producer> Dan Nowak</producer>
+		<producer> Ben Roberts</producer>
+		<producer> Gary Mueller</producer>
+		<producer> Laura Lancaster</producer>
+		<producer> Mark Fergus</producer>
+		<producer> Hawk Ostby</producer>
+		<producer> Emanuele 'Manny' Danelon</producer>
+		<producer> Steven Strait</producer>
+		<producer> Lewin Webb</producer>
+		<producer> Kenn Fisher</producer>
+		<producer> Robin Veith</producer>
+		<producer> Lynn Raynor</producer>
+		<producer> Bob Munroe</producer>
+		<producer> Kevin Hamburger</producer>
+		<producer> Georgia Lee</producer>
+		<producer> Jason Ning</producer>
+		<producer> Alan DiFiore</producer>
+		<producer> Shohreh Aghdashloo</producer>
+		<producer> Jeremy Benning</producer>
+		<producer> Wes Chatham</producer>
+		<producer> Kenneth Fisher</producer>
+		<producer> Kristie Sills</producer>
+		<producer> Dominique Tipper</producer>
+		<producer> Terry McDonough</producer>
+	</producers>
+	<writers>
+		<writer> Daniel Abraham</writer>
+		<writer> Daniel Abraham</writer>
+		<writer> Daniel Abraham</writer>
+		<writer> Mark Fergus</writer>
+		<writer> Mark Fergus</writer>
+		<writer> Ty Franck</writer>
+		<writer> Ty Franck</writer>
+		<writer> Ty Franck</writer>
+		<writer> Hawk Ostby</writer>
+		<writer> Hawk Ostby</writer>
+		<writer> Hallie Lambert</writer>
+		<writer> Hallie Lambert</writer>
+		<writer> Hallie Lambert</writer>
+		<writer> Hallie Lambert</writer>
+		<writer> Matthew Rasmussen</writer>
+		<writer> Matthew Rasmussen</writer>
+		<writer> Matthew Rasmussen</writer>
+		<writer> Georgia Lee</writer>
+		<writer> Georgia Lee</writer>
+		<writer> Georgia Lee</writer>
+		<writer> Dan Nowak</writer>
+		<writer> Dan Nowak</writer>
+		<writer> Naren Shankar</writer>
+		<writer> Naren Shankar</writer>
+		<writer> Denise Harkavy</writer>
+		<writer> Robin Veith</writer>
+		<writer> Julianna Damewood</writer>
+		<writer> Glenton Richards</writer>
+		<writer> Jason Ning</writer>
+		<writer> Alan DiFiore</writer>
+		<writer> Laura Marks</writer>
+	</writers>
+	<editors>
+		<editor> Stephen Lawrence</editor>
+		<editor> Stephen Roque</editor>
+		<editor> Roderick Deogrades</editor>
+		<editor> D. Gillian Truster</editor>
+		<editor> Susan Shipton</editor>
+		<editor> Matthew Hannam</editor>
+		<editor> Nicholas Wong</editor>
+		<editor> Paul G. Day</editor>
+		<editor> Harvey Rosenstock</editor>
+		<editor> Dev Singh</editor>
+		<editor> Michelle Szemberg</editor>
+	</editors>
+</doc>

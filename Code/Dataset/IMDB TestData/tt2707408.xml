@@ -1,0 +1,602 @@
+<?xml version="1.0" ?>
+<doc id="tt2707408">
+	<docid>tt2707408</docid>
+	<title>Narcos</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">49</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Pedro Pascal</actor>
+			<role>Javier Peña</role>
+		</credit>
+		<credit>
+			<actor>Wagner Moura</actor>
+			<role>Pablo Escobar</role>
+		</credit>
+		<credit>
+			<actor>Boyd Holbrook</actor>
+			<role>Steve Murphy</role>
+		</credit>
+		<credit>
+			<actor>Alberto Ammann</actor>
+			<role>Pacho Herrera</role>
+		</credit>
+		<credit>
+			<actor>Paulina Gaitan</actor>
+			<role>Tata Escobar</role>
+		</credit>
+		<credit>
+			<actor>Juan Murcia</actor>
+			<role>Juan Pablo Escobar</role>
+		</credit>
+		<credit>
+			<actor>Jorge Monterrosa</actor>
+			<role>Trujillo</role>
+		</credit>
+		<credit>
+			<actor>Damián Alcázar</actor>
+			<role>Gilberto Rodríguez Orejuela</role>
+		</credit>
+		<credit>
+			<actor>Francisco Denis</actor>
+			<role>Miguel Rodríguez Orejuela</role>
+		</credit>
+		<credit>
+			<actor>Raúl Méndez</actor>
+			<role>César Gaviria</role>
+		</credit>
+		<credit>
+			<actor>Juan Sebastián Calero</actor>
+			<role>Navegante</role>
+		</credit>
+		<credit>
+			<actor>Paulina García</actor>
+			<role>Hermilda Gaviria</role>
+		</credit>
+		<credit>
+			<actor>Diego Cataño</actor>
+			<role>La Quica</role>
+		</credit>
+		<credit>
+			<actor>Brett Cullen</actor>
+			<role>Arthur Crosby</role>
+		</credit>
+		<credit>
+			<actor>Julián Díaz</actor>
+			<role>Blackie</role>
+		</credit>
+		<credit>
+			<actor>Joanna Christie</actor>
+			<role>Connie Murphy</role>
+		</credit>
+		<credit>
+			<actor>Maurice Compte</actor>
+			<role>Horacio Carrillo</role>
+		</credit>
+		<credit>
+			<actor>María José Sanchez Real</actor>
+			<role>Manuela</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">August 28 2015</releasedate>
+		<releasedate country="Austria">August 28 2015</releasedate>
+		<releasedate country="Australia">August 28 2015</releasedate>
+		<releasedate country="Belgium">August 28 2015</releasedate>
+		<releasedate country="Brazil">August 28 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Colombia">18</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-18</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>colombia</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>murder</keyword>
+		<keyword>deception</keyword>
+		<keyword>jungle</keyword>
+		<keyword>drug cartel</keyword>
+		<keyword>police officer</keyword>
+		<keyword>guerilla</keyword>
+		<keyword>civilian death</keyword>
+		<keyword>payoff</keyword>
+		<keyword>police shootout</keyword>
+		<keyword>mexico</keyword>
+		<keyword>true crime</keyword>
+		<keyword>south america</keyword>
+		<keyword>latin america</keyword>
+		<keyword>drug lord</keyword>
+		<keyword>death</keyword>
+		<keyword>criminal</keyword>
+		<keyword>blood</keyword>
+		<keyword>violence</keyword>
+		<keyword>mob</keyword>
+		<keyword>gangster</keyword>
+		<keyword>cocaine</keyword>
+		<keyword>drug</keyword>
+		<keyword>drugs</keyword>
+		<keyword>brutality</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>police</keyword>
+		<keyword>danger</keyword>
+		<keyword>money</keyword>
+		<keyword>mob boss</keyword>
+		<keyword>homicide</keyword>
+		<keyword>killing</keyword>
+		<keyword>explosion</keyword>
+		<keyword>drug trafficking</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>cali colombia</keyword>
+		<keyword>medellin colombia</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>criminal organization</keyword>
+		<keyword>mafia boss</keyword>
+		<keyword>mafia</keyword>
+		<keyword>gangster boss</keyword>
+		<keyword>weapon</keyword>
+		<keyword>firearm</keyword>
+		<keyword>gun</keyword>
+		<keyword>revolver</keyword>
+		<keyword>revenge</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>threat</keyword>
+		<keyword>menace</keyword>
+		<keyword>risk</keyword>
+		<keyword>massacre</keyword>
+		<keyword>slaughter</keyword>
+		<keyword>bomb</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>telephone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>jail</keyword>
+		<keyword>love</keyword>
+		<keyword>lover</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>journalist</keyword>
+		<keyword>prostitution</keyword>
+		<keyword>profanity</keyword>
+		<keyword>vulgarity</keyword>
+		<keyword>sadism</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>trap</keyword>
+		<keyword>abduction</keyword>
+		<keyword>shooting</keyword>
+		<keyword>submachine gun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>evil</keyword>
+		<keyword>panama</keyword>
+		<keyword>chile</keyword>
+		<keyword>1970s</keyword>
+		<keyword>investigation</keyword>
+		<keyword>information</keyword>
+		<keyword>politician</keyword>
+		<keyword>policy</keyword>
+		<keyword>drug kingpin</keyword>
+		<keyword>kingpin</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>map</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>corpse</keyword>
+		<keyword>knife</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>money laundering</keyword>
+		<keyword>escape</keyword>
+		<keyword>cocaine use</keyword>
+		<keyword>drug use</keyword>
+		<keyword>drug money</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>car</keyword>
+		<keyword>mass media</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>television</keyword>
+		<keyword>hostage</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>mass death</keyword>
+		<keyword>mass murder</keyword>
+		<keyword>mass homicide</keyword>
+		<keyword>mass killing</keyword>
+		<keyword>truck</keyword>
+		<keyword>truck driving</keyword>
+		<keyword>police station</keyword>
+		<keyword>dead man</keyword>
+		<keyword>dead woman</keyword>
+		<keyword>destruction</keyword>
+		<keyword>ruthlessness</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>explosive</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>payback</keyword>
+		<keyword>bloodbath</keyword>
+		<keyword>informant</keyword>
+		<keyword>radio</keyword>
+		<keyword>execution</keyword>
+		<keyword>rifle</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>police car</keyword>
+		<keyword>fire</keyword>
+		<keyword>bullet</keyword>
+		<keyword>photograph</keyword>
+		<keyword>road</keyword>
+		<keyword>mountain</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>city</keyword>
+		<keyword>countryside</keyword>
+		<keyword>neighborhood</keyword>
+		<keyword>new york city</keyword>
+		<keyword>miami florida</keyword>
+		<keyword>spain</keyword>
+		<keyword>trafficker</keyword>
+		<keyword>rape</keyword>
+		<keyword>torture</keyword>
+		<keyword>interview</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>cartel</keyword>
+		<keyword>gore</keyword>
+		<keyword>ambush</keyword>
+		<keyword>setup</keyword>
+		<keyword>set up</keyword>
+		<keyword>drug dealing</keyword>
+		<keyword>treachery</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>unscrupulousness</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>dead child</keyword>
+		<keyword>dead boy</keyword>
+		<keyword>dead girl</keyword>
+		<keyword>mass destruction</keyword>
+		<keyword>jeep</keyword>
+		<keyword>colombian flag</keyword>
+		<keyword>bundle of money</keyword>
+		<keyword>mutilation</keyword>
+		<keyword>television journalist</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>carnage</keyword>
+		<keyword>bloodshed</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>police operation</keyword>
+		<keyword>political corruption</keyword>
+		<keyword>secret operation</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>curacao</keyword>
+		<keyword>juarez mexico</keyword>
+		<keyword>friendship</keyword>
+		<keyword>friend</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>killer</keyword>
+		<keyword>assassin</keyword>
+		<keyword>pistol</keyword>
+		<keyword>handgun</keyword>
+		<keyword>home</keyword>
+		<keyword>apartment building</keyword>
+		<keyword>apartment</keyword>
+		<keyword>house</keyword>
+		<keyword>search</keyword>
+		<keyword>raid</keyword>
+		<keyword>audio recording</keyword>
+		<keyword>audio cassette</keyword>
+		<keyword>evidence</keyword>
+		<keyword>witness</keyword>
+		<keyword>government corruption</keyword>
+		<keyword>incriminating evidence</keyword>
+		<keyword>account book</keyword>
+		<keyword>accountant</keyword>
+		<keyword>politics</keyword>
+		<keyword>surprise</keyword>
+		<keyword>press conference</keyword>
+		<keyword>mole</keyword>
+		<keyword>spying</keyword>
+		<keyword>tapped telephone</keyword>
+		<keyword>telephone tapping</keyword>
+		<keyword>car chase</keyword>
+		<keyword>dismemberment</keyword>
+		<keyword>secret information</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>van</keyword>
+		<keyword>scandal</keyword>
+		<keyword>extradition</keyword>
+		<keyword>airplane</keyword>
+		<keyword>plane</keyword>
+		<keyword>buried money</keyword>
+		<keyword>money launderer</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>prison cell</keyword>
+		<keyword>colombian drug cartel</keyword>
+		<keyword>dea</keyword>
+		<keyword>drug enforcement administration</keyword>
+		<keyword>dea agent</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>hidden money</keyword>
+		<keyword>extradition treaty</keyword>
+		<keyword>exploding aircraft</keyword>
+		<keyword>narcotic</keyword>
+		<keyword>1990s</keyword>
+		<keyword>cop killer</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>u.s. foreign policy</keyword>
+		<keyword>news anchor</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>siege</keyword>
+		<keyword>colombian parliament</keyword>
+		<keyword>prison</keyword>
+		<keyword>hideout</keyword>
+		<keyword>checkpoint</keyword>
+		<keyword>cold war</keyword>
+		<keyword>street shooting</keyword>
+		<keyword>paramilitary group</keyword>
+		<keyword>smuggling</keyword>
+		<keyword>drug war</keyword>
+		<keyword>car bomb</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>corruption</keyword>
+		<keyword>ham radio</keyword>
+		<keyword>attorney general</keyword>
+		<keyword>president</keyword>
+		<keyword>protective custody</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>death squad</keyword>
+		<keyword>police informant</keyword>
+		<keyword>colombian government</keyword>
+		<keyword>cocaine lab</keyword>
+		<keyword>spy plane</keyword>
+		<keyword>electronic surveillance</keyword>
+		<keyword>medellin cartel</keyword>
+		<keyword>cali cartel</keyword>
+		<keyword>bogota colombia</keyword>
+		<keyword>hitman</keyword>
+		<keyword>assassination</keyword>
+		<keyword>u.s. embassy</keyword>
+		<keyword>u.s. government</keyword>
+		<keyword>1980s</keyword>
+		<keyword>army</keyword>
+		<keyword>sex</keyword>
+		<keyword>nudity</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>breasts</keyword>
+		<keyword>nipples</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>tv news</keyword>
+		<keyword>latin american history</keyword>
+		<keyword>latin american politics</keyword>
+		<keyword>based on real people</keyword>
+		<keyword>based on real person</keyword>
+		<keyword>drug trafficking in latin america</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>dea drug enforcement administration</keyword>
+		<keyword>bribery</keyword>
+		<keyword>farc revolutionary armed forces of colombia people's army</keyword>
+		<keyword>brazilian actor playing colombian character</keyword>
+		<keyword>web series</keyword>
+		<keyword>crime in latin america</keyword>
+		<keyword>agitprop</keyword>
+		<keyword>colombian drug dealer</keyword>
+		<keyword>colombian</keyword>
+		<keyword>narco</keyword>
+		<keyword>colombian narco</keyword>
+		<keyword>drug trafficker</keyword>
+		<keyword>drug trade</keyword>
+		<keyword>cocaine trafficking</keyword>
+		<keyword>cocaine smuggling</keyword>
+		<keyword>cocaine empire</keyword>
+		<keyword>war on drugs</keyword>
+		<keyword>pablo escobar</keyword>
+		<keyword>miguel rodriguez orejuela and gilberto rodriguez orejuela</keyword>
+		<keyword>search bloc</keyword>
+		<keyword>drug enforcement administration agent</keyword>
+		<keyword>sicario</keyword>
+		<keyword>drug crime</keyword>
+		<keyword>epic drama</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>hairy chest</keyword>
+		<keyword>drug material</keyword>
+		<keyword>drug task force</keyword>
+		<keyword>cocaine war</keyword>
+		<keyword>pablo escobar character</keyword>
+		<keyword>crime syndicate</keyword>
+		<keyword>crime empire</keyword>
+		<keyword>criminal empire</keyword>
+		<keyword>caleta</keyword>
+		<keyword>crime lord</keyword>
+		<keyword>dea raid</keyword>
+		<keyword>colombian politics</keyword>
+		<keyword>colombian police</keyword>
+		<keyword>dea informant</keyword>
+		<keyword>m 19</keyword>
+		<keyword>american in colombia</keyword>
+		<keyword>using an airplane for smuggling</keyword>
+		<keyword>drug smuggling</keyword>
+		<keyword>narcoterrorist</keyword>
+		<keyword>narcoterrorism</keyword>
+		<keyword>narcotics agent</keyword>
+		<keyword>narc</keyword>
+		<keyword>gangsterism</keyword>
+		<keyword>persona non grata</keyword>
+		<keyword>drug policy</keyword>
+		<keyword>desperation</keyword>
+		<keyword>obsession</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>idol status</keyword>
+		<keyword>family man</keyword>
+		<keyword>20th century</keyword>
+	</keywords>
+	<directors>
+		<director> Andrés Baiz</director>
+		<director> Josef Kubota Wladyka</director>
+		<director> Fernando Coimbra</director>
+		<director> Gerardo Naranjo</director>
+		<director> Guillermo Navarro</director>
+		<director> José Padilha</director>
+		<director> Gabriel Ripstein</director>
+	</directors>
+	<composers>
+		<composer> Pedro Bromfman</composer>
+	</composers>
+	<producers>
+		<producer> Jesse Rose Moore</producer>
+		<producer> Eric Newman</producer>
+		<producer> Christophe Riandee</producer>
+		<producer> José Padilha</producer>
+		<producer> Tim King</producer>
+		<producer> Lorenzo O'Brien</producer>
+		<producer> Gene Stein</producer>
+		<producer> Tara Duncan</producer>
+		<producer> Carlo Bernard</producer>
+		<producer> Chris Brancato</producer>
+		<producer> Elisa Todd Ellis</producer>
+		<producer> Doug Miro</producer>
+		<producer> Katie O'Connell</producer>
+		<producer> Andrés Calderón</producer>
+		<producer> Dana Calvo</producer>
+		<producer> Mariano Carranco</producer>
+		<producer> Sidonie Dumas</producer>
+		<producer> Paul Eckstein</producer>
+		<producer> José Luis Escolar</producer>
+		<producer> Curtis Gwinn</producer>
+		<producer> Jack LoGiudice</producer>
+		<producer> Paul Marks</producer>
+		<producer> Zachary Reiter</producer>
+		<producer> Julie Siege</producer>
+		<producer> Batan Silva</producer>
+		<producer> Matthew Colonna</producer>
+		<producer> Adam Fishbach</producer>
+		<producer> Jason George</producer>
+		<producer> Ashley Lyle</producer>
+		<producer> Bart Nickerson</producer>
+		<producer> Allison Abner</producer>
+		<producer> Juliana Florez</producer>
+		<producer> Carolina Paiz</producer>
+		<producer> Cindy Holland</producer>
+		<producer> David Straiton</producer>
+		<producer> Jane Wiseman</producer>
+		<producer> Andrés Baiz</producer>
+		<producer> T.J. Brady</producer>
+		<producer> Peter Friedlander</producer>
+		<producer> Steve Lightfoot</producer>
+		<producer> Rasheed Newson</producer>
+		<producer> Adam Fierro</producer>
+	</producers>
+	<writers>
+		<writer> Carlo Bernard</writer>
+		<writer> Carlo Bernard</writer>
+		<writer> Carlo Bernard</writer>
+		<writer> Chris Brancato</writer>
+		<writer> Chris Brancato</writer>
+		<writer> Doug Miro</writer>
+		<writer> Doug Miro</writer>
+		<writer> Doug Miro</writer>
+		<writer> Andrew Black</writer>
+		<writer> Andrew Black</writer>
+		<writer> Clayton Trussell</writer>
+		<writer> Clayton Trussell</writer>
+		<writer> Dana Ledoux Miller</writer>
+		<writer> Dana Ledoux Miller</writer>
+		<writer> Zachary Reiter</writer>
+		<writer> Zachary Reiter</writer>
+		<writer> Dana Calvo</writer>
+		<writer> Nick Schenk</writer>
+		<writer> T.J. Brady</writer>
+		<writer> T.J. Brady</writer>
+		<writer> Steve Lightfoot</writer>
+		<writer> Steve Lightfoot</writer>
+		<writer> Rasheed Newson</writer>
+		<writer> Rasheed Newson</writer>
+		<writer> Julie Siege</writer>
+		<writer> Jason George</writer>
+		<writer> Eric Newman</writer>
+		<writer> Allison Abner</writer>
+		<writer> Zach Calig</writer>
+		<writer> Adam Fierro</writer>
+		<writer> Curtis Gwinn</writer>
+		<writer> Gideon Yago</writer>
+		<writer> Gideon Yago</writer>
+		<writer> Ashley Lyle</writer>
+		<writer> David Matthews</writer>
+		<writer> Bart Nickerson</writer>
+		<writer> Santa Sierra</writer>
+		<writer> Paul Eckstein</writer>
+		<writer> Samir Mehta</writer>
+	</writers>
+	<editors>
+		<editor> Matthew Colonna</editor>
+		<editor> Trevor Baker</editor>
+		<editor> Luis Carballar</editor>
+		<editor> Leo Trombetta</editor>
+		<editor> Nathan Gunn</editor>
+		<editor> Chris McCaleb</editor>
+		<editor> Ryan Jones</editor>
+		<editor> Jon Otazua</editor>
+		<editor> Victor Du Bois</editor>
+		<editor> Alex Márquez</editor>
+	</editors>
+</doc>

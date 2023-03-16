@@ -1,0 +1,530 @@
+<?xml version="1.0" ?>
+<doc id="tt2911666">
+	<docid>tt2911666</docid>
+	<title>John Wick</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">101</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took his car.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Keanu Reeves</actor>
+			<role>John Wick</role>
+		</credit>
+		<credit>
+			<actor>Michael Nyqvist</actor>
+			<role>Viggo Tarasov</role>
+		</credit>
+		<credit>
+			<actor>Alfie Allen</actor>
+			<role>Iosef Tarasov</role>
+		</credit>
+		<credit>
+			<actor>Willem Dafoe</actor>
+			<role>Marcus</role>
+		</credit>
+		<credit>
+			<actor>Dean Winters</actor>
+			<role>Avi</role>
+		</credit>
+		<credit>
+			<actor>Adrianne Palicki</actor>
+			<role>Ms. Perkins</role>
+		</credit>
+		<credit>
+			<actor>Omer Barnea</actor>
+			<role>Gregori</role>
+		</credit>
+		<credit>
+			<actor>Toby Leonard Moore</actor>
+			<role>Victor</role>
+		</credit>
+		<credit>
+			<actor>Daniel Bernhardt</actor>
+			<role>Kirill</role>
+		</credit>
+		<credit>
+			<actor>Bridget Moynahan</actor>
+			<role>Helen</role>
+		</credit>
+		<credit>
+			<actor>John Leguizamo</actor>
+			<role>Aurelio</role>
+		</credit>
+		<credit>
+			<actor>Ian McShane</actor>
+			<role>Winston</role>
+		</credit>
+		<credit>
+			<actor>Bridget Regan</actor>
+			<role>Addy</role>
+		</credit>
+		<credit>
+			<actor>Lance Reddick</actor>
+			<role>Hotel Manager</role>
+		</credit>
+		<credit>
+			<actor>Keith Jardine</actor>
+			<role>Kuzma</role>
+		</credit>
+		<credit>
+			<actor>Tait Fletcher</actor>
+			<role>Nicholai</role>
+		</credit>
+		<credit>
+			<actor>Kazy Tauginas</actor>
+			<role>Ivan</role>
+		</credit>
+		<credit>
+			<actor>Alexander Frekey</actor>
+			<role>Alexander</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 19 2014</releasedate>
+		<releasedate country="United States">October 13 2014</releasedate>
+		<releasedate country="Czech Republic">October 23 2014</releasedate>
+		<releasedate country="Denmark">October 23 2014</releasedate>
+		<releasedate country="Israel">October 23 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>one man army</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>revenge</keyword>
+		<keyword>professional killer</keyword>
+		<keyword>professional assassin</keyword>
+		<keyword>dog</keyword>
+		<keyword>hired killer</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>mob boss</keyword>
+		<keyword>assassin</keyword>
+		<keyword>russian mafia</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>coming out of retirement</keyword>
+		<keyword>death of pet</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>sniper</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>funeral</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>church</keyword>
+		<keyword>hitman</keyword>
+		<keyword>club</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>indestructible</keyword>
+		<keyword>cell phone video</keyword>
+		<keyword>new york city</keyword>
+		<keyword>original story</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>loss of wife</keyword>
+		<keyword>gangster</keyword>
+		<keyword>pet dog</keyword>
+		<keyword>stitching a wound</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>killing an animal</keyword>
+		<keyword>one against many</keyword>
+		<keyword>action hero</keyword>
+		<keyword>killed with a gun</keyword>
+		<keyword>fury</keyword>
+		<keyword>fight</keyword>
+		<keyword>grief</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>rampage</keyword>
+		<keyword>anger</keyword>
+		<keyword>burning money</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>bar</keyword>
+		<keyword>showdown</keyword>
+		<keyword>contract killer</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>hotel</keyword>
+		<keyword>disposing of a dead body</keyword>
+		<keyword>gold coin</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>chop shop</keyword>
+		<keyword>russian</keyword>
+		<keyword>death of dog</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>violence</keyword>
+		<keyword>murder</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>two word title</keyword>
+		<keyword>elimination</keyword>
+		<keyword>slug</keyword>
+		<keyword>carbine</keyword>
+		<keyword>shot</keyword>
+		<keyword>annihilation</keyword>
+		<keyword>streak of blood</keyword>
+		<keyword>call girl</keyword>
+		<keyword>dance</keyword>
+		<keyword>wetness</keyword>
+		<keyword>invincible</keyword>
+		<keyword>weapon</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>daisy the dog ii character</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>dark</keyword>
+		<keyword>ankle holster</keyword>
+		<keyword>sleeve knife</keyword>
+		<keyword>tape over mouth</keyword>
+		<keyword>2010s</keyword>
+		<keyword>semi automatic pistol</keyword>
+		<keyword>semi automatic weapon</keyword>
+		<keyword>cult film</keyword>
+		<keyword>first of series</keyword>
+		<keyword>knocked out from characters point of view</keyword>
+		<keyword>first part</keyword>
+		<keyword>camera shot from inside a safe</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>one person army action</keyword>
+		<keyword>1960s</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>sledgehammer</keyword>
+		<keyword>villainess</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>john wick character</keyword>
+		<keyword>ford mustang</keyword>
+		<keyword>criminal underworld</keyword>
+		<keyword>code of conduct</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>view through rifle scope</keyword>
+		<keyword>beagle</keyword>
+		<keyword>message from beyond the grave</keyword>
+		<keyword>widower</keyword>
+		<keyword>burial</keyword>
+		<keyword>owner dog relationship</keyword>
+		<keyword>last straw</keyword>
+		<keyword>safe house</keyword>
+		<keyword>forced out of retirement</keyword>
+		<keyword>retirement</keyword>
+		<keyword>basement</keyword>
+		<keyword>caught in the rain</keyword>
+		<keyword>mob execution</keyword>
+		<keyword>handcuffed</keyword>
+		<keyword>dislocated thumb</keyword>
+		<keyword>shot multiple times</keyword>
+		<keyword>duct tape gag</keyword>
+		<keyword>front organization</keyword>
+		<keyword>hitwoman</keyword>
+		<keyword>hot tub</keyword>
+		<keyword>dressed to kill</keyword>
+		<keyword>female singer</keyword>
+		<keyword>overhead cityscape</keyword>
+		<keyword>video of wife</keyword>
+		<keyword>mopping up blood</keyword>
+		<keyword>crime scene cleaner</keyword>
+		<keyword>stack of gold coins</keyword>
+		<keyword>paid in gold</keyword>
+		<keyword>father hits son</keyword>
+		<keyword>gun held to head</keyword>
+		<keyword>stolen car racket</keyword>
+		<keyword>1969 mustang</keyword>
+		<keyword>pumping gas</keyword>
+		<keyword>bowl of cereal</keyword>
+		<keyword>letter from dead wife</keyword>
+		<keyword>puppy</keyword>
+		<keyword>pet carrier</keyword>
+		<keyword>grave side ceremony</keyword>
+		<keyword>funeral in the rain</keyword>
+		<keyword>in medias res</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>stick fight</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>limousine</keyword>
+		<keyword>professional hit</keyword>
+		<keyword>masked man</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>double cross</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>bartender</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>helicopter shot</keyword>
+		<keyword>strangled to death</keyword>
+		<keyword>stolen car</keyword>
+		<keyword>information</keyword>
+		<keyword>wrestling</keyword>
+		<keyword>car</keyword>
+		<keyword>mask</keyword>
+		<keyword>pain</keyword>
+		<keyword>hit in the face</keyword>
+		<keyword>gift</keyword>
+		<keyword>explosion</keyword>
+		<keyword>loss of control</keyword>
+		<keyword>out of control</keyword>
+		<keyword>mass destruction</keyword>
+		<keyword>broken bone</keyword>
+		<keyword>payback</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>brutality</keyword>
+		<keyword>bleeding to death</keyword>
+		<keyword>bloodshed</keyword>
+		<keyword>security guard</keyword>
+		<keyword>judo</keyword>
+		<keyword>racetrack</keyword>
+		<keyword>animal shelter</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>massacre</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>torture</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>deception</keyword>
+		<keyword>police officer</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>long take</keyword>
+		<keyword>gunslinger</keyword>
+		<keyword>mafia boss</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>vault</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>spitting blood</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>gore</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood</keyword>
+		<keyword>bus</keyword>
+		<keyword>school bus</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>ambush</keyword>
+		<keyword>death</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>shower</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>photograph</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>brooklyn bridge</keyword>
+		<keyword>corpse</keyword>
+		<keyword>brawl</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>grenade</keyword>
+		<keyword>female bartender</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>car accident</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>cancer</keyword>
+		<keyword>warehouse</keyword>
+		<keyword>lightning</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>head butt</keyword>
+		<keyword>armory</keyword>
+		<keyword>knife</keyword>
+		<keyword>shot in the throat</keyword>
+		<keyword>shot in the neck</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>car chase</keyword>
+		<keyword>car crash</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>marijuana joint</keyword>
+		<keyword>brooklyn new york city</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>shot through a pillow</keyword>
+		<keyword>bag over head</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>silencer</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>stabbed in the stomach</keyword>
+		<keyword>shot in the eye</keyword>
+		<keyword>shot in the foot</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>stabbed through the chin</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>kicked in the groin</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>punched in the stomach</keyword>
+		<keyword>pistol</keyword>
+		<keyword>car theft</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>beating</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>gas station</keyword>
+		<keyword>new jersey</keyword>
+		<keyword>rain</keyword>
+		<keyword>hospital</keyword>
+		<keyword>flashback</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>henchman</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>friendship</keyword>
+		<keyword>spoiled son</keyword>
+		<keyword>mobster</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>shootout</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>dancing</keyword>
+		<keyword>motor</keyword>
+		<keyword>petrol</keyword>
+		<keyword>maelstrom</keyword>
+		<keyword>killing a dog</keyword>
+		<keyword>man wrapped in a towel</keyword>
+		<keyword>martini</keyword>
+		<keyword>arsenal</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>f word</keyword>
+		<keyword>help</keyword>
+		<keyword>friend</keyword>
+		<keyword>risk</keyword>
+		<keyword>jeopardy</keyword>
+		<keyword>peril</keyword>
+		<keyword>danger</keyword>
+		<keyword>jumping</keyword>
+		<keyword>jump</keyword>
+		<keyword>sadism</keyword>
+		<keyword>video game</keyword>
+		<keyword>airport</keyword>
+		<keyword>jazz singer</keyword>
+	</keywords>
+	<directors>
+		<director> Chad Stahelski</director>
+		<director> David Leitch</director>
+	</directors>
+	<composers>
+		<composer> Tyler Bates</composer>
+		<composer> Joel J. Richard</composer>
+	</composers>
+	<producers>
+		<producer> Darren Blumenthal</producer>
+		<producer> Sam X. Eyde</producer>
+		<producer> Tara Finegan</producer>
+		<producer> Kevin Scott Frakes</producer>
+		<producer> Avi Grondin</producer>
+		<producer> Stephen Hamel</producer>
+		<producer> Basil Iwanyk</producer>
+		<producer> Peter Lawson</producer>
+		<producer> Erica Lee</producer>
+		<producer> David Leitch</producer>
+		<producer> Noel Lohr</producer>
+		<producer> Eva Longoria</producer>
+		<producer> Doug Monticciolo</producer>
+		<producer> Andrew C. Robinson</producer>
+		<producer> Raj Brinder Singh</producer>
+		<producer> Jared Underwood</producer>
+		<producer> Mike Upton</producer>
+		<producer> Giuseppe Vincenti</producer>
+		<producer> Jamie Wing</producer>
+		<producer> Mike Witherill</producer>
+	</producers>
+	<writers>
+		<writer> Derek Kolstad</writer>
+	</writers>
+	<editors>
+		<editor> Elísabet Ronaldsdóttir</editor>
+	</editors>
+</doc>

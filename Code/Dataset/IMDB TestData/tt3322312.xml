@@ -1,0 +1,372 @@
+<?xml version="1.0" ?>
+<doc id="tt3322312">
+	<docid>tt3322312</docid>
+	<title>Daredevil</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">54</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Charlie Cox</actor>
+			<role>Matt Murdock</role>
+		</credit>
+		<credit>
+			<actor>Vincent D'Onofrio</actor>
+			<role>Wilson Fisk</role>
+		</credit>
+		<credit>
+			<actor>Deborah Ann Woll</actor>
+			<role>Karen Page</role>
+		</credit>
+		<credit>
+			<actor>Elden Henson</actor>
+			<role>Foggy Nelson</role>
+		</credit>
+		<credit>
+			<actor>Royce Johnson</actor>
+			<role>Brett Mahoney</role>
+		</credit>
+		<credit>
+			<actor>Geoffrey Cantor</actor>
+			<role>Mitchell Ellison</role>
+		</credit>
+		<credit>
+			<actor>Jay Ali</actor>
+			<role>Ray Nadeem</role>
+		</credit>
+		<credit>
+			<actor>Jon Bernthal</actor>
+			<role>Frank Castle</role>
+		</credit>
+		<credit>
+			<actor>Stephen Rider</actor>
+			<role>Blake Tower</role>
+		</credit>
+		<credit>
+			<actor>Wilson Bethel</actor>
+			<role>Benjamin 'Dex' Poindexter</role>
+		</credit>
+		<credit>
+			<actor>Ayelet Zurer</actor>
+			<role>Vanessa Marianna</role>
+		</credit>
+		<credit>
+			<actor>Peter McRobbie</actor>
+			<role>Father Lantom</role>
+		</credit>
+		<credit>
+			<actor>Amy Rutberg</actor>
+			<role>Marci Stahl</role>
+		</credit>
+		<credit>
+			<actor>Elodie Yung</actor>
+			<role>Elektra Natchios</role>
+		</credit>
+		<credit>
+			<actor>Toby Leonard Moore</actor>
+			<role>James Wesley</role>
+		</credit>
+		<credit>
+			<actor>Joanne Whalley</actor>
+			<role>Sister Maggie</role>
+		</credit>
+		<credit>
+			<actor>Vondie Curtis-Hall</actor>
+			<role>Ben Urich</role>
+		</credit>
+		<credit>
+			<actor>Bob Gunton</actor>
+			<role>Leland Owlsley</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">April 2 2015</releasedate>
+		<releasedate country="Argentina">April 10 2015</releasedate>
+		<releasedate country="Austria">April 10 2015</releasedate>
+		<releasedate country="Australia">April 10 2015</releasedate>
+		<releasedate country="Belgium">April 10 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Hong Kong">18+</certificate>
+		<certificate country="India">UA 16+</certificate>
+		<certificate country="India">18+</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">18</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">18+</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">18+</certificate>
+		<certificate country="Taiwan">18+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>vigilante</keyword>
+		<keyword>superhero</keyword>
+		<keyword>blind man</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>ninja</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>hell's kitchen manhattan new york city</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>daredevil the marvel comics character</keyword>
+		<keyword>matt murdock character</keyword>
+		<keyword>wilson fisk a.k.a. kingpin character</keyword>
+		<keyword>one against many</keyword>
+		<keyword>blood</keyword>
+		<keyword>masked man</keyword>
+		<keyword>reporter</keyword>
+		<keyword>catholic</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>marvel cinematic universe</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>foggy nelson character</keyword>
+		<keyword>one man army</keyword>
+		<keyword>2010s</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>violence</keyword>
+		<keyword>cane</keyword>
+		<keyword>corruption</keyword>
+		<keyword>partnership</keyword>
+		<keyword>nurse</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>yakuza</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>karen page character</keyword>
+		<keyword>new york city</keyword>
+		<keyword>fictional character</keyword>
+		<keyword>red suit</keyword>
+		<keyword>red armour</keyword>
+		<keyword>prison fight</keyword>
+		<keyword>blindness</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>the punisher character</keyword>
+		<keyword>elektra natchios character</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>crime organization</keyword>
+		<keyword>bullseye character</keyword>
+		<keyword>cult tv</keyword>
+		<keyword>boxing</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>nypd</keyword>
+		<keyword>detective</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>priest</keyword>
+		<keyword>church</keyword>
+		<keyword>character impersonates another character</keyword>
+		<keyword>fight scene</keyword>
+		<keyword>hallway</keyword>
+		<keyword>gritty</keyword>
+		<keyword>blind superhero</keyword>
+		<keyword>superhero suit</keyword>
+		<keyword>baton</keyword>
+		<keyword>law firm</keyword>
+		<keyword>antihero</keyword>
+		<keyword>martial arts master</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>vigilante justice</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>origin of villain</keyword>
+		<keyword>bald villain</keyword>
+		<keyword>flashback</keyword>
+		<keyword>district attorney</keyword>
+		<keyword>mafia</keyword>
+		<keyword>criminal underworld</keyword>
+		<keyword>irish mafia</keyword>
+		<keyword>motorcycle gang</keyword>
+		<keyword>mexican cartel</keyword>
+		<keyword>vanessa fisk character</keyword>
+		<keyword>reference to the hulk</keyword>
+		<keyword>reference to the avengers</keyword>
+		<keyword>courtroom</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>action hero</keyword>
+		<keyword>supernatural drama</keyword>
+		<keyword>marvel</keyword>
+		<keyword>web series</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>criminal</keyword>
+		<keyword>police</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>one word title</keyword>
+		<keyword>death of father</keyword>
+	</keywords>
+	<directors>
+		<director> Phil Abraham</director>
+		<director> Stephen Surjik</director>
+		<director> Peter Hoar</director>
+		<director> Ken Girotti</director>
+		<director> Euros Lyn</director>
+		<director> Farren Blackburn</director>
+		<director> Marc Jobst</director>
+		<director> Alex Garcia Lopez</director>
+		<director> Steven S. DeKnight</director>
+		<director> Guy Ferland</director>
+		<director> Nick Gomez</director>
+		<director> Adam Kane</director>
+		<director> Nelson McCormick</director>
+		<director> Brad Turner</director>
+		<director> Andy Goddard</director>
+		<director> Floria Sigismondi</director>
+		<director> Michael Uppendahl</director>
+		<director> Lukas Ettlin</director>
+		<director> Toa Fraser</director>
+		<director> Jennifer Getzinger</director>
+		<director> Julian Holmes</director>
+		<director> Jennifer Lynch</director>
+		<director> Sam Miller</director>
+		<director> Jet Wilkinson</director>
+		<director> Alex Zakrzewski</director>
+	</directors>
+	<composers>
+		<composer> John Paesano</composer>
+	</composers>
+	<producers>
+		<producer> Jim Chory</producer>
+		<producer> Alan Fine</producer>
+		<producer> Drew Goddard</producer>
+		<producer> Stan Lee</producer>
+		<producer> Jeph Loeb</producer>
+		<producer> Erik Oleson</producer>
+		<producer> Joe Quesada</producer>
+		<producer> Dan Buckley</producer>
+		<producer> Allie Goss</producer>
+		<producer> Kris Henigman</producer>
+		<producer> Cindy Holland</producer>
+		<producer> Douglas Petrie</producer>
+		<producer> Marco Ramirez</producer>
+		<producer> Tom Lieber</producer>
+		<producer> Karim Zreik</producer>
+		<producer> Peter Friedlander</producer>
+		<producer> Steven S. DeKnight</producer>
+		<producer> Kati Johnston</producer>
+		<producer> Alex Shevchenko</producer>
+		<producer> Alison Engel</producer>
+		<producer> Emma Fleischer</producer>
+		<producer> Daniel Hank</producer>
+		<producer> John C. Kelley</producer>
+		<producer> Keira Morrisette</producer>
+		<producer> Lauren Schmidt</producer>
+		<producer> Michael Stricks</producer>
+		<producer> Mark Verheiden</producer>
+		<producer> Tamara Becher</producer>
+		<producer> Jim Dunn</producer>
+		<producer> Sam Ernst</producer>
+		<producer> Sonay Hoffman</producer>
+		<producer> Lewaa Nasserdeen</producer>
+		<producer> Evan Perazzo</producer>
+		<producer> Dara Resnik</producer>
+		<producer> Jim Sodini</producer>
+		<producer> Joe Pokaski</producer>
+		<producer> Matthew S. O'Brien</producer>
+		<producer> Mary-Margaret Kunze</producer>
+		<producer> Holly S. Rymon</producer>
+		<producer> Margaret Scarpello</producer>
+		<producer> Melissa Morkus</producer>
+		<producer> Bryce Garcia</producer>
+	</producers>
+	<writers>
+		<writer> Bill Everett</writer>
+		<writer> Drew Goddard</writer>
+		<writer> Drew Goddard</writer>
+		<writer> Stan Lee</writer>
+		<writer> Luke Kalteux</writer>
+		<writer> Luke Kalteux</writer>
+		<writer> Luke Kalteux</writer>
+		<writer> Ruth Fletcher</writer>
+		<writer> Ruth Fletcher</writer>
+		<writer> Christos N. Gage</writer>
+		<writer> Christos N. Gage</writer>
+		<writer> Whit Anderson</writer>
+		<writer> Whit Anderson</writer>
+		<writer> Whit Anderson</writer>
+		<writer> Sneha Koorse</writer>
+		<writer> Sneha Koorse</writer>
+		<writer> Sneha Koorse</writer>
+		<writer> Tonya Kong</writer>
+		<writer> Tonya Kong</writer>
+		<writer> Dylan Gallagher</writer>
+		<writer> Dylan Gallagher</writer>
+		<writer> Sarah Streicher</writer>
+		<writer> Sarah Streicher</writer>
+		<writer> Douglas Petrie</writer>
+		<writer> Marco Ramirez</writer>
+		<writer> Steven S. DeKnight</writer>
+		<writer> Lauren Schmidt</writer>
+		<writer> Erik Oleson</writer>
+		<writer> Joe Pokaski</writer>
+		<writer> John C. Kelley</writer>
+		<writer> John C. Kelley</writer>
+		<writer> Mark Verheiden</writer>
+		<writer> Jim Dunn</writer>
+		<writer> Sam Ernst</writer>
+		<writer> Dara Resnik</writer>
+		<writer> Tamara Becher</writer>
+		<writer> Sonay Hoffman</writer>
+		<writer> Lewaa Nasserdeen</writer>
+		<writer> Wally Wood</writer>
+	</writers>
+	<editors>
+		<editor> Michael N. Knue</editor>
+		<editor> Monty DeGraff</editor>
+		<editor> Jonathan Chibnall</editor>
+		<editor> Jo Francis</editor>
+		<editor> Jesse Ellis</editor>
+		<editor> Damien Smith</editor>
+		<editor> Trey Ordonez</editor>
+	</editors>
+</doc>

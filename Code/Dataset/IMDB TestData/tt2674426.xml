@@ -1,0 +1,422 @@
+<?xml version="1.0" ?>
+<doc id="tt2674426">
+	<docid>tt2674426</docid>
+	<title>Me Before You</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A girl in a small town forms an unlikely bond with a recently-paralyzed man she's taking care of.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Emilia Clarke</actor>
+			<role>Lou Clark</role>
+		</credit>
+		<credit>
+			<actor>Sam Claflin</actor>
+			<role>Will Traynor</role>
+		</credit>
+		<credit>
+			<actor>Janet McTeer</actor>
+			<role>Camilla Traynor</role>
+		</credit>
+		<credit>
+			<actor>Charles Dance</actor>
+			<role>Stephen Traynor</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Kirby</actor>
+			<role>Alicia</role>
+		</credit>
+		<credit>
+			<actor>Eileen Dunwoodie</actor>
+			<role>Café Customer</role>
+		</credit>
+		<credit>
+			<actor>Pablo Raybould</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Gabrielle Downey</actor>
+			<role>Daphne</role>
+		</credit>
+		<credit>
+			<actor>Henri Charles</actor>
+			<role>Thomas Clark</role>
+		</credit>
+		<credit>
+			<actor>Samantha Spiro</actor>
+			<role>Josie Clark</role>
+		</credit>
+		<credit>
+			<actor>Brendan Coyle</actor>
+			<role>Bernard Clark</role>
+		</credit>
+		<credit>
+			<actor>Jenna Coleman</actor>
+			<role>Katrina &quot;Treena&quot; Clark</role>
+		</credit>
+		<credit>
+			<actor>Alan Breck</actor>
+			<role>Grandad</role>
+		</credit>
+		<credit>
+			<actor>Matthew Lewis</actor>
+			<role>Patrick</role>
+		</credit>
+		<credit>
+			<actor>Muzz Khan</actor>
+			<role>Syed</role>
+		</credit>
+		<credit>
+			<actor>Stephen Peacocke</actor>
+			<role>Nathan</role>
+		</credit>
+		<credit>
+			<actor>Ben Lloyd-Hughes</actor>
+			<role>Rupert</role>
+		</credit>
+		<credit>
+			<actor>Richard Goulding</actor>
+			<role>Freddie Foster</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">May 23 2016</releasedate>
+		<releasedate country="United Arab Emirates">June 2 2016</releasedate>
+		<releasedate country="Denmark">June 2 2016</releasedate>
+		<releasedate country="Israel">June 2 2016</releasedate>
+		<releasedate country="South Korea">June 2 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">S</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">7-9</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>euthanasia</keyword>
+		<keyword>assisted suicide</keyword>
+		<keyword>accident</keyword>
+		<keyword>unemployment</keyword>
+		<keyword>male nurse</keyword>
+		<keyword>disability</keyword>
+		<keyword>unskilled worker</keyword>
+		<keyword>working class family</keyword>
+		<keyword>extreme wealth</keyword>
+		<keyword>f rated</keyword>
+		<keyword>parent son relationship</keyword>
+		<keyword>caretaker</keyword>
+		<keyword>birthday party</keyword>
+		<keyword>making a will</keyword>
+		<keyword>castle</keyword>
+		<keyword>fitness fanatic</keyword>
+		<keyword>pain</keyword>
+		<keyword>companion</keyword>
+		<keyword>luxury lifestyle</keyword>
+		<keyword>running</keyword>
+		<keyword>caregiver patient relationship</keyword>
+		<keyword>pneumonia</keyword>
+		<keyword>catholic family</keyword>
+		<keyword>job search</keyword>
+		<keyword>suicide watch</keyword>
+		<keyword>vacation</keyword>
+		<keyword>economic hardship</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>bed</keyword>
+		<keyword>dinner</keyword>
+		<keyword>medical examination</keyword>
+		<keyword>diving</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>massage</keyword>
+		<keyword>gift</keyword>
+		<keyword>bathing scene</keyword>
+		<keyword>kiss</keyword>
+		<keyword>screenplay adapted by author</keyword>
+		<keyword>dancing in a wheelchair</keyword>
+		<keyword>ex banker</keyword>
+		<keyword>woman feeds a man</keyword>
+		<keyword>chore</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>watching the video of a foreign film</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>woman wears a purple hat</keyword>
+		<keyword>quadriplegic man</keyword>
+		<keyword>woman wears a red dress</keyword>
+		<keyword>torn shirt</keyword>
+		<keyword>suicidal thoughts</keyword>
+		<keyword>man uses a motorized wheelchair</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>tea shop</keyword>
+		<keyword>waitress</keyword>
+		<keyword>26 year old</keyword>
+		<keyword>26 year old woman</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>implied sex</keyword>
+		<keyword>grandfather granddaughter relationship</keyword>
+		<keyword>motorcycle accident</keyword>
+		<keyword>man in a shower</keyword>
+		<keyword>ex athlete</keyword>
+		<keyword>man dresses</keyword>
+		<keyword>mirror</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>almost hit by a bicycle</keyword>
+		<keyword>prologue</keyword>
+		<keyword>taxi</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>boy</keyword>
+		<keyword>running man</keyword>
+		<keyword>running woman</keyword>
+		<keyword>seeking a job</keyword>
+		<keyword>blowing a kiss</keyword>
+		<keyword>woman wears a stocking cap</keyword>
+		<keyword>bus</keyword>
+		<keyword>job interview</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>aunt nephew relationship</keyword>
+		<keyword>medication</keyword>
+		<keyword>bench</keyword>
+		<keyword>alarm clock</keyword>
+		<keyword>montage</keyword>
+		<keyword>tea</keyword>
+		<keyword>wood pile</keyword>
+		<keyword>best friend</keyword>
+		<keyword>name calling</keyword>
+		<keyword>broken picture frame</keyword>
+		<keyword>repairing a broken picture frame</keyword>
+		<keyword>smashing a picture frame</keyword>
+		<keyword>dvd</keyword>
+		<keyword>31 year old</keyword>
+		<keyword>31 year old man</keyword>
+		<keyword>reference to bruce willis</keyword>
+		<keyword>van</keyword>
+		<keyword>doctor's waiting room</keyword>
+		<keyword>movie theater</keyword>
+		<keyword>snow</keyword>
+		<keyword>snowing</keyword>
+		<keyword>mobile phone</keyword>
+		<keyword>worrying</keyword>
+		<keyword>computer</keyword>
+		<keyword>apple computer</keyword>
+		<keyword>snow skiing</keyword>
+		<keyword>jumping off a cliff</keyword>
+		<keyword>singing</keyword>
+		<keyword>singer</keyword>
+		<keyword>song</keyword>
+		<keyword>woman reads a book</keyword>
+		<keyword>reference to marian keyes</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>cafe</keyword>
+		<keyword>woman shaves a man</keyword>
+		<keyword>overhearing a conversation</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>woman wears a short skirt</keyword>
+		<keyword>drinking from a bottle</keyword>
+		<keyword>bookstore</keyword>
+		<keyword>split screen</keyword>
+		<keyword>horse</keyword>
+		<keyword>haircut</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>restaurant hostess</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>name tag</keyword>
+		<keyword>classical music concert</keyword>
+		<keyword>reference to jay z</keyword>
+		<keyword>reference to wolfgang amadeus mozart</keyword>
+		<keyword>woman stands on a chair</keyword>
+		<keyword>reference to neil diamond</keyword>
+		<keyword>reference to metallica the band</keyword>
+		<keyword>video telephone call</keyword>
+		<keyword>scarf</keyword>
+		<keyword>concert</keyword>
+		<keyword>classical music</keyword>
+		<keyword>picnic</keyword>
+		<keyword>birthday</keyword>
+		<keyword>handshake</keyword>
+		<keyword>telling a joke</keyword>
+		<keyword>praying</keyword>
+		<keyword>kiss on the cheek</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>personal trainer</keyword>
+		<keyword>birthday cake</keyword>
+		<keyword>happy birthday to you</keyword>
+		<keyword>photo album</keyword>
+		<keyword>birthday present</keyword>
+		<keyword>favorite place in the world</keyword>
+		<keyword>smiling</keyword>
+		<keyword>memory</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>last will and testament</keyword>
+		<keyword>wedding reception</keyword>
+		<keyword>microphone</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dancing</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>divorcee</keyword>
+		<keyword>bride and groom</keyword>
+		<keyword>woman rides a bicycle</keyword>
+		<keyword>hospital</keyword>
+		<keyword>man uses an oxygen mask</keyword>
+		<keyword>airplane</keyword>
+		<keyword>beach</keyword>
+		<keyword>lightning</keyword>
+		<keyword>thunder</keyword>
+		<keyword>tropical storm</keyword>
+		<keyword>woman wears a bikini</keyword>
+		<keyword>tropical drink</keyword>
+		<keyword>scuba diving</keyword>
+		<keyword>boat</keyword>
+		<keyword>woman wears a flower over her ear</keyword>
+		<keyword>switzerland</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>torch</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>airport terminal</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>sister sister embrace</keyword>
+		<keyword>swing</keyword>
+		<keyword>clumsiness</keyword>
+		<keyword>sadness</keyword>
+		<keyword>falling leaf</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>money</keyword>
+		<keyword>scene during closing credits</keyword>
+		<keyword>place dauphine paris</keyword>
+		<keyword>pont neuf paris</keyword>
+		<keyword>paris france</keyword>
+		<keyword>mallorca</keyword>
+		<keyword>eiffel tower paris</keyword>
+		<keyword>outdoor cafe</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>feel good romance</keyword>
+		<keyword>tearjerker romance</keyword>
+		<keyword>wardrobe malfunction</keyword>
+		<keyword>female director</keyword>
+		<keyword>female filmmaker</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>small town</keyword>
+		<keyword>dress</keyword>
+		<keyword>death</keyword>
+		<keyword>broken glass</keyword>
+		<keyword>glass</keyword>
+		<keyword>rain</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>photograph</keyword>
+		<keyword>flowers</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>reference to james bond</keyword>
+		<keyword>spinal cord injury</keyword>
+		<keyword>life changing injury</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>depression</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>dignity</keyword>
+		<keyword>caregiver</keyword>
+		<keyword>class difference</keyword>
+		<keyword>millionaire</keyword>
+		<keyword>horse racing</keyword>
+		<keyword>dream holiday</keyword>
+		<keyword>losing a job</keyword>
+		<keyword>bucket list</keyword>
+		<keyword>wedding</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>employment agency</keyword>
+		<keyword>road accident</keyword>
+		<keyword>high society</keyword>
+		<keyword>sarcasm</keyword>
+	</keywords>
+	<directors>
+		<director> Thea Sharrock</director>
+	</directors>
+	<composers>
+		<composer> Craig Armstrong</composer>
+	</composers>
+	<producers>
+		<producer> Sue Baden-Powell</producer>
+		<producer> John Bernard</producer>
+		<producer> Sol Jonas MacKinlay</producer>
+		<producer> Alison Owen</producer>
+		<producer> Karen Rosenfelt</producer>
+		<producer> Joan Schneider</producer>
+		<producer> Trent Walton</producer>
+	</producers>
+	<writers>
+		<writer> Jojo Moyes</writer>
+		<writer> Jojo Moyes</writer>
+	</writers>
+	<editors>
+		<editor> John Wilson</editor>
+	</editors>
+</doc>

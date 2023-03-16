@@ -1,0 +1,720 @@
+<?xml version="1.0" ?>
+<doc id="tt1201607">
+	<docid>tt1201607</docid>
+	<title>Harry Potter and the Deathly Hallows: Part 2</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjE5OTE4N2UtNzllYi00OTgzLWIzZWMtNzNjMThmZTc5ZGFkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR19,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Family</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Daniel Radcliffe</actor>
+			<role>Harry Potter</role>
+		</credit>
+		<credit>
+			<actor>Emma Watson</actor>
+			<role>Hermione Granger</role>
+		</credit>
+		<credit>
+			<actor>Rupert Grint</actor>
+			<role>Ron Weasley</role>
+		</credit>
+		<credit>
+			<actor>Michael Gambon</actor>
+			<role>Professor Albus Dumbledore</role>
+		</credit>
+		<credit>
+			<actor>Ralph Fiennes</actor>
+			<role>Lord Voldemort</role>
+		</credit>
+		<credit>
+			<actor>Alan Rickman</actor>
+			<role>Professor Severus Snape</role>
+		</credit>
+		<credit>
+			<actor>Evanna Lynch</actor>
+			<role>Luna Lovegood</role>
+		</credit>
+		<credit>
+			<actor>Domhnall Gleeson</actor>
+			<role>Bill Weasley</role>
+		</credit>
+		<credit>
+			<actor>Clémence Poésy</actor>
+			<role>Fleur Delacour</role>
+		</credit>
+		<credit>
+			<actor>Warwick Davis</actor>
+			<role>Griphook</role>
+		</credit>
+		<credit>
+			<actor>John Hurt</actor>
+			<role>Ollivander</role>
+		</credit>
+		<credit>
+			<actor>Helena Bonham Carter</actor>
+			<role>Bellatrix Lestrange</role>
+		</credit>
+		<credit>
+			<actor>Graham Duff</actor>
+			<role>Death Eater</role>
+		</credit>
+		<credit>
+			<actor>Anthony Allgood</actor>
+			<role>Gringotts' Guard</role>
+		</credit>
+		<credit>
+			<actor>Rusty Goffe</actor>
+			<role>Aged Gringotts' Goblin</role>
+		</credit>
+		<credit>
+			<actor>Jon Key</actor>
+			<role>Bogrod</role>
+		</credit>
+		<credit>
+			<actor>Kelly Macdonald</actor>
+			<role>Helena Ravenclaw</role>
+		</credit>
+		<credit>
+			<actor>Jason Isaacs</actor>
+			<role>Lucius Malfoy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">July 7 2011</releasedate>
+		<releasedate country="United States">July 11 2011</releasedate>
+		<releasedate country="Argentina">July 12 2011</releasedate>
+		<releasedate country="Kuwait">July 12 2011</releasedate>
+		<releasedate country="Austria">July 13 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">Not Rated</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-11</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-7</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Mexico">PG</certificate>
+		<certificate country="Mongolia">PG</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">Not Rated</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>friendship</keyword>
+		<keyword>snake</keyword>
+		<keyword>ginny weasley character</keyword>
+		<keyword>lucius malfoy character</keyword>
+		<keyword>hermione granger character</keyword>
+		<keyword>twins</keyword>
+		<keyword>good wins</keyword>
+		<keyword>reign of terror</keyword>
+		<keyword>battle</keyword>
+		<keyword>final battle</keyword>
+		<keyword>strong female lead</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>school of magic</keyword>
+		<keyword>evil sorcerer</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>teacher</keyword>
+		<keyword>disguise</keyword>
+		<keyword>teenager</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>rescue</keyword>
+		<keyword>ghost</keyword>
+		<keyword>hero</keyword>
+		<keyword>witch</keyword>
+		<keyword>spider</keyword>
+		<keyword>castle</keyword>
+		<keyword>fire</keyword>
+		<keyword>blood</keyword>
+		<keyword>showdown</keyword>
+		<keyword>sword</keyword>
+		<keyword>train</keyword>
+		<keyword>forest</keyword>
+		<keyword>bank</keyword>
+		<keyword>dragon</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>death</keyword>
+		<keyword>sequel</keyword>
+		<keyword>magic</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>remus lupin character</keyword>
+		<keyword>draco malfoy character</keyword>
+		<keyword>rubeus hagrid character</keyword>
+		<keyword>peter pettigrew character</keyword>
+		<keyword>neville longbottom character</keyword>
+		<keyword>lord voldemort character</keyword>
+		<keyword>pansy parkinson character</keyword>
+		<keyword>arthur weasley character</keyword>
+		<keyword>lily potter character</keyword>
+		<keyword>harry potter character</keyword>
+		<keyword>seamus finnigan character</keyword>
+		<keyword>james potter character</keyword>
+		<keyword>gregory goyle character</keyword>
+		<keyword>dean thomas character</keyword>
+		<keyword>filius flitwick character</keyword>
+		<keyword>argus filch character</keyword>
+		<keyword>cho chang character</keyword>
+		<keyword>george weasley character</keyword>
+		<keyword>minerva mcgonagall character</keyword>
+		<keyword>ron weasley character</keyword>
+		<keyword>fred weasley character</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>petunia dursley character</keyword>
+		<keyword>death eater</keyword>
+		<keyword>molly weasley character</keyword>
+		<keyword>albus dumbledore character</keyword>
+		<keyword>severus snape character</keyword>
+		<keyword>luna lovegood character</keyword>
+		<keyword>bellatrix lestrange character</keyword>
+		<keyword>sirius black character</keyword>
+		<keyword>harry potter movie franchise</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>all star cast</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>boy wears eyeglasses</keyword>
+		<keyword>second part</keyword>
+		<keyword>grave</keyword>
+		<keyword>disembodied voice</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>conclusion</keyword>
+		<keyword>professor</keyword>
+		<keyword>gringotts wizarding bank</keyword>
+		<keyword>identical twins</keyword>
+		<keyword>teenage witch</keyword>
+		<keyword>fang</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>sword of gryffindor</keyword>
+		<keyword>dementor</keyword>
+		<keyword>teenage wizard</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>snake attack</keyword>
+		<keyword>arachnid</keyword>
+		<keyword>boathouse</keyword>
+		<keyword>headmaster</keyword>
+		<keyword>magical shield</keyword>
+		<keyword>pensieve</keyword>
+		<keyword>male caretaker</keyword>
+		<keyword>chamber of secrets</keyword>
+		<keyword>forehead scar</keyword>
+		<keyword>female professor</keyword>
+		<keyword>map</keyword>
+		<keyword>sorting hat</keyword>
+		<keyword>evil witch</keyword>
+		<keyword>room of requirement</keyword>
+		<keyword>locomotive</keyword>
+		<keyword>twin brothers</keyword>
+		<keyword>diadem</keyword>
+		<keyword>passenger compartment</keyword>
+		<keyword>female ghost</keyword>
+		<keyword>flying broomstick</keyword>
+		<keyword>horace slughorn character</keyword>
+		<keyword>enchanted object</keyword>
+		<keyword>train platform</keyword>
+		<keyword>teenager versus adult</keyword>
+		<keyword>staircase</keyword>
+		<keyword>animal</keyword>
+		<keyword>goblin</keyword>
+		<keyword>serpent</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>teenage protagonist</keyword>
+		<keyword>caretaker</keyword>
+		<keyword>flying dragon</keyword>
+		<keyword>levitating object</keyword>
+		<keyword>weapon</keyword>
+		<keyword>steam locomotive</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>secret passageway</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>shirtless teenage boy</keyword>
+		<keyword>female teacher</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>nymphadora tonks character</keyword>
+		<keyword>baby boy</keyword>
+		<keyword>scar on the forehead</keyword>
+		<keyword>woman killed</keyword>
+		<keyword>bridge</keyword>
+		<keyword>narcissa malfoy character</keyword>
+		<keyword>impassioned speech</keyword>
+		<keyword>blond teenage boy</keyword>
+		<keyword>kingsley shacklebolt character</keyword>
+		<keyword>bill weasley character</keyword>
+		<keyword>fleur delacour character</keyword>
+		<keyword>magic shield</keyword>
+		<keyword>statue</keyword>
+		<keyword>male versus female</keyword>
+		<keyword>winged dragon</keyword>
+		<keyword>vial</keyword>
+		<keyword>female impostor</keyword>
+		<keyword>footbridge</keyword>
+		<keyword>hogwarts</keyword>
+		<keyword>man wears an earring</keyword>
+		<keyword>dungeon</keyword>
+		<keyword>guard</keyword>
+		<keyword>heroine</keyword>
+		<keyword>winged creature</keyword>
+		<keyword>male wears an earring</keyword>
+		<keyword>resurrection stone</keyword>
+		<keyword>headmaster's office</keyword>
+		<keyword>corpse</keyword>
+		<keyword>bald headed villain</keyword>
+		<keyword>trolley</keyword>
+		<keyword>bald man</keyword>
+		<keyword>bald villain</keyword>
+		<keyword>luggage trolley</keyword>
+		<keyword>male guard</keyword>
+		<keyword>actor plays multiple roles</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>man with long hair</keyword>
+		<keyword>teenage girl with long hair</keyword>
+		<keyword>woman with long hair</keyword>
+		<keyword>bare chested teenage boy</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>teenage boy wears eyeglasses</keyword>
+		<keyword>teenager wears eyeglasses</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>eighth part</keyword>
+		<keyword>repeat sequel</keyword>
+		<keyword>shot back to back</keyword>
+		<keyword>arthropod</keyword>
+		<keyword>high fantasy</keyword>
+		<keyword>title directed by male</keyword>
+		<keyword>title directed by man</keyword>
+		<keyword>title written by male</keyword>
+		<keyword>title written by female</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>gungehouse</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>resistance movement</keyword>
+		<keyword>evil sorceress</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>villain turns good</keyword>
+		<keyword>freedom fighter</keyword>
+		<keyword>heroic bloodshed</keyword>
+		<keyword>revenge</keyword>
+		<keyword>psychic</keyword>
+		<keyword>defection</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>villainess</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>evil woman</keyword>
+		<keyword>psychic power</keyword>
+		<keyword>paranormal phenomenon</keyword>
+		<keyword>afterlife</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>action hero</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>corrupt system</keyword>
+		<keyword>demonic voice</keyword>
+		<keyword>mind control</keyword>
+		<keyword>brainwashing</keyword>
+		<keyword>calcification</keyword>
+		<keyword>post apocalypse</keyword>
+		<keyword>female terrorist</keyword>
+		<keyword>revolution</keyword>
+		<keyword>mass murder</keyword>
+		<keyword>survival</keyword>
+		<keyword>revolutionary</keyword>
+		<keyword>retribution</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>clairvoyance</keyword>
+		<keyword>resistance fighter</keyword>
+		<keyword>rebel leader</keyword>
+		<keyword>divine retribution</keyword>
+		<keyword>able to see the dead</keyword>
+		<keyword>dying in someone's arms</keyword>
+		<keyword>undying love</keyword>
+		<keyword>crying</keyword>
+		<keyword>martyr</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>extrasensory perception</keyword>
+		<keyword>female spirit</keyword>
+		<keyword>hospitality</keyword>
+		<keyword>martial law</keyword>
+		<keyword>siege</keyword>
+		<keyword>insurrection</keyword>
+		<keyword>dead girl</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>death of teacher</keyword>
+		<keyword>resurrection power</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>disintegration</keyword>
+		<keyword>catastrophe</keyword>
+		<keyword>last stand</keyword>
+		<keyword>student movement</keyword>
+		<keyword>revolutionary leader</keyword>
+		<keyword>armageddon</keyword>
+		<keyword>destroying a bridge</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>death of villain</keyword>
+		<keyword>funeral</keyword>
+		<keyword>corpses</keyword>
+		<keyword>murder victim</keyword>
+		<keyword>devil</keyword>
+		<keyword>hell on earth</keyword>
+		<keyword>reunion</keyword>
+		<keyword>abduction</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>sympathetic villainess</keyword>
+		<keyword>talking to the dead</keyword>
+		<keyword>solving a puzzle</keyword>
+		<keyword>world domination</keyword>
+		<keyword>supremacy</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>retaliation</keyword>
+		<keyword>sadistic villainess</keyword>
+		<keyword>killed in war</keyword>
+		<keyword>tsunami</keyword>
+		<keyword>last battle</keyword>
+		<keyword>saying goodbye</keyword>
+		<keyword>revolutionary war</keyword>
+		<keyword>raid</keyword>
+		<keyword>roller coaster</keyword>
+		<keyword>mimicry</keyword>
+		<keyword>death of lover</keyword>
+		<keyword>ex boyfriend ex girlfriend relationship</keyword>
+		<keyword>murder of parents</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>dead man</keyword>
+		<keyword>killed in a fire</keyword>
+		<keyword>bad guy kills bad guy</keyword>
+		<keyword>annihilation</keyword>
+		<keyword>mass death</keyword>
+		<keyword>final chapter</keyword>
+		<keyword>doomsday</keyword>
+		<keyword>comeback</keyword>
+		<keyword>guerilla fighter</keyword>
+		<keyword>guerilla</keyword>
+		<keyword>guerilla warfare</keyword>
+		<keyword>assault</keyword>
+		<keyword>bleeding to death</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>mystic</keyword>
+		<keyword>mysticism</keyword>
+		<keyword>crystal ball</keyword>
+		<keyword>killed in an explosion</keyword>
+		<keyword>evil student</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>cursed object</keyword>
+		<keyword>attempted genocide</keyword>
+		<keyword>genocide</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>evil organization</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>mass murderer</keyword>
+		<keyword>psycho killer</keyword>
+		<keyword>kissing scene</keyword>
+		<keyword>gothic horror</keyword>
+		<keyword>mayhem</keyword>
+		<keyword>chaos</keyword>
+		<keyword>unrest</keyword>
+		<keyword>civil war</keyword>
+		<keyword>manor</keyword>
+		<keyword>incantation</keyword>
+		<keyword>slaughter</keyword>
+		<keyword>dark murderer</keyword>
+		<keyword>suspense</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>evil werewolf</keyword>
+		<keyword>bloody corpse</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>strife</keyword>
+		<keyword>gore</keyword>
+		<keyword>gory violence</keyword>
+		<keyword>uprising</keyword>
+		<keyword>femicide</keyword>
+		<keyword>mass homicide</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>visiting a grave</keyword>
+		<keyword>mass funeral</keyword>
+		<keyword>tombstone</keyword>
+		<keyword>destroyed building</keyword>
+		<keyword>evil spirit</keyword>
+		<keyword>demon</keyword>
+		<keyword>evil man</keyword>
+		<keyword>demonic spirit</keyword>
+		<keyword>school attack</keyword>
+		<keyword>school on fire</keyword>
+		<keyword>setting a building on fire</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>murder of student</keyword>
+		<keyword>human versus monster</keyword>
+		<keyword>killing a demon</keyword>
+		<keyword>evil cousin</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>action thriller</keyword>
+		<keyword>psychic ability</keyword>
+		<keyword>mission accomplished</keyword>
+		<keyword>ghost of father</keyword>
+		<keyword>ghost of mother</keyword>
+		<keyword>death of student</keyword>
+		<keyword>body count</keyword>
+		<keyword>screaming child</keyword>
+		<keyword>diabolical</keyword>
+		<keyword>demonic entity</keyword>
+		<keyword>man torn to pieces</keyword>
+		<keyword>dead woman</keyword>
+		<keyword>breaking and entering</keyword>
+		<keyword>evil laughter</keyword>
+		<keyword>teen fantasy</keyword>
+		<keyword>dead body with eyes open</keyword>
+		<keyword>playing dead</keyword>
+		<keyword>1990s</keyword>
+		<keyword>20th century</keyword>
+		<keyword>teen adventure</keyword>
+		<keyword>male teacher</keyword>
+		<keyword>adult actress playing teenage girl</keyword>
+		<keyword>witch horror</keyword>
+		<keyword>british horror</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>deadly duel</keyword>
+		<keyword>blitzkrieg</keyword>
+		<keyword>state terrorism</keyword>
+		<keyword>blonde haired teenage boy</keyword>
+		<keyword>seeking immortality</keyword>
+		<keyword>long haired man</keyword>
+		<keyword>long haired teenage girl</keyword>
+		<keyword>long haired woman</keyword>
+		<keyword>peril</keyword>
+		<keyword>red haired teenage boy</keyword>
+		<keyword>surrender</keyword>
+		<keyword>brown haired teenage girl</keyword>
+		<keyword>black haired teenage boy</keyword>
+		<keyword>reference to adolf hitler</keyword>
+		<keyword>tyranny</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>power hungry</keyword>
+		<keyword>dark haired teenage girl</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>red haired teenage girl</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>deal making</keyword>
+		<keyword>blonde haired teenage girl</keyword>
+		<keyword>short haired teenage boy</keyword>
+		<keyword>reference to death</keyword>
+		<keyword>mastermind</keyword>
+		<keyword>reference to king's cross station london</keyword>
+		<keyword>evil versus evil</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>the wizarding world of harry potter</keyword>
+		<keyword>immortality</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>destruction</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>violence</keyword>
+		<keyword>combat</keyword>
+		<keyword>double cross</keyword>
+		<keyword>bank vault</keyword>
+		<keyword>impostor</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>magical broomstick</keyword>
+		<keyword>force field</keyword>
+		<keyword>animate statue</keyword>
+		<keyword>moving statue</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>bildungsroman</keyword>
+		<keyword>based on young adult novel</keyword>
+		<keyword>year 2017</keyword>
+		<keyword>near future</keyword>
+		<keyword>year 1998</keyword>
+		<keyword>year 1997</keyword>
+		<keyword>teenage hero</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>exploding bridge</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>inspirational speech</keyword>
+		<keyword>aftermath</keyword>
+		<keyword>duel to the death</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>dead woman on floor</keyword>
+		<keyword>soaked clothes</keyword>
+		<keyword>wet jeans</keyword>
+		<keyword>killing a snake</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>scar</keyword>
+		<keyword>limbo</keyword>
+		<keyword>spy</keyword>
+		<keyword>cup</keyword>
+		<keyword>arson</keyword>
+		<keyword>frog</keyword>
+		<keyword>elf</keyword>
+		<keyword>broom</keyword>
+		<keyword>eighth in series</keyword>
+		<keyword>sorcerer</keyword>
+		<keyword>fire breathing dragon</keyword>
+		<keyword>wand</keyword>
+		<keyword>python</keyword>
+		<keyword>wizard</keyword>
+		<keyword>giant spider</keyword>
+		<keyword>giant snake</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>chosen one</keyword>
+		<keyword>ambush</keyword>
+		<keyword>power</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>kiss</keyword>
+		<keyword>threat</keyword>
+		<keyword>dying words</keyword>
+		<keyword>race against time</keyword>
+		<keyword>black magic</keyword>
+		<keyword>dark secret</keyword>
+		<keyword>giant</keyword>
+		<keyword>dead body</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>vault</keyword>
+		<keyword>artifact</keyword>
+		<keyword>main characters killed off</keyword>
+		<keyword>explosion</keyword>
+		<keyword>throat slashed</keyword>
+		<keyword>mass destruction</keyword>
+		<keyword>hero versus villain</keyword>
+		<keyword>flashback</keyword>
+		<keyword>legend</keyword>
+		<keyword>infiltration</keyword>
+		<keyword>bitten by a snake</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>life and death battle</keyword>
+		<keyword>dark past</keyword>
+		<keyword>double agent</keyword>
+		<keyword>hereditary gift of witchcraft</keyword>
+		<keyword>corruption</keyword>
+		<keyword>curse</keyword>
+		<keyword>torture</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>attack</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>destiny</keyword>
+		<keyword>evil wizard</keyword>
+		<keyword>train station</keyword>
+		<keyword>fear</keyword>
+		<keyword>revelation</keyword>
+		<keyword>memory</keyword>
+		<keyword>snake bite</keyword>
+		<keyword>assumed identity</keyword>
+		<keyword>magic wand</keyword>
+		<keyword>bravery</keyword>
+		<keyword>death of relative</keyword>
+		<keyword>redemption</keyword>
+		<keyword>heroism</keyword>
+		<keyword>last of series</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>cult figure</keyword>
+		<keyword>cult film</keyword>
+		<keyword>werewolf</keyword>
+		<keyword>roman numeral in title</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>duel</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>english subtitles in original</keyword>
+		<keyword>deception</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>disaster</keyword>
+	</keywords>
+	<directors>
+		<director> David Yates</director>
+	</directors>
+	<composers>
+		<composer> Alexandre Desplat</composer>
+	</composers>
+	<producers>
+		<producer> David Barron</producer>
+		<producer> Debbi Bossi</producer>
+		<producer> Roy Button</producer>
+		<producer> David Heyman</producer>
+		<producer> Tim Lewis</producer>
+		<producer> J.K. Rowling</producer>
+		<producer> John Trehy</producer>
+		<producer> Lionel Wigram</producer>
+	</producers>
+	<writers>
+		<writer> Steve Kloves</writer>
+		<writer> J.K. Rowling</writer>
+	</writers>
+	<editors>
+		<editor> Mark Day</editor>
+	</editors>
+</doc>

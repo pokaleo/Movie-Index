@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<doc id="tt2861424">
+	<docid>tt2861424</docid>
+	<title>Rick and Morty</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">23</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>An animated series that follows the exploits of a super scientist and his not-so-bright grandson.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Justin Roiland</actor>
+			<role>Rick Sanchez</role>
+		</credit>
+		<credit>
+			<actor>Chris Parnell</actor>
+			<role>Jerry Smith</role>
+		</credit>
+		<credit>
+			<actor>Spencer Grammer</actor>
+			<role>Summer Smith</role>
+		</credit>
+		<credit>
+			<actor>Sarah Chalke</actor>
+			<role>Beth Smith</role>
+		</credit>
+		<credit>
+			<actor>Kari Wahlgren</actor>
+			<role>Jessica</role>
+		</credit>
+		<credit>
+			<actor>Maurice LaMarche</actor>
+			<role>Abradolph Lincler</role>
+		</credit>
+		<credit>
+			<actor>Dan Harmon</actor>
+			<role>Birdperson</role>
+		</credit>
+		<credit>
+			<actor>Tom Kenny</actor>
+			<role>Squanchy</role>
+		</credit>
+		<credit>
+			<actor>Brandon Johnson</actor>
+			<role>Mr. Goldenfold</role>
+		</credit>
+		<credit>
+			<actor>Nolan North</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Ryan Ridley</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Cassie Steele</actor>
+			<role>Tammy</role>
+		</credit>
+		<credit>
+			<actor>Keith David</actor>
+			<role>The President</role>
+		</credit>
+		<credit>
+			<actor>Phil Hendrie</actor>
+			<role>Principal Vagina</role>
+		</credit>
+		<credit>
+			<actor>Rob Schrab</actor>
+			<role>Alexander</role>
+		</credit>
+		<credit>
+			<actor>Echo Kellum</actor>
+			<role>Brad</role>
+		</credit>
+		<credit>
+			<actor>Lee Harting</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Nick Reczynski</actor>
+			<role>Gromflomite Guard #2</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">December 2 2013</releasedate>
+		<releasedate country="Canada">December 2 2013</releasedate>
+		<releasedate country="Indonesia">December 2 2013</releasedate>
+		<releasedate country="Turkey">December 2 2013</releasedate>
+		<releasedate country="United States">December 2 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">16+</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">16+</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">SPG</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>scientist</keyword>
+		<keyword>monster</keyword>
+		<keyword>adult animation</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>satire</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>shock humor</keyword>
+		<keyword>adult humor</keyword>
+		<keyword>nihilism</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>sitcom</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>garage</keyword>
+		<keyword>actor voicing multiple characters</keyword>
+		<keyword>portal gun</keyword>
+		<keyword>morty smith character</keyword>
+		<keyword>rick sanchez character</keyword>
+		<keyword>summer smith character</keyword>
+		<keyword>jerry smith character</keyword>
+		<keyword>beth smith character</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>social satire</keyword>
+		<keyword>2d animation</keyword>
+		<keyword>gross out comedy</keyword>
+		<keyword>parody</keyword>
+		<keyword>political satire</keyword>
+		<keyword>sardonic</keyword>
+		<keyword>painful humor</keyword>
+		<keyword>scatological humor</keyword>
+		<keyword>crude humor</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>adult swim</keyword>
+		<keyword>absurd comedy</keyword>
+		<keyword>spoof</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>alien</keyword>
+		<keyword>brown haired teenage boy</keyword>
+		<keyword>violence</keyword>
+		<keyword>red haired teenage girl</keyword>
+		<keyword>long haired teenage girl</keyword>
+		<keyword>multiple versions of the same character</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>brown haired teenage girl</keyword>
+		<keyword>reference to back to the future</keyword>
+		<keyword>brown haired man</keyword>
+		<keyword>actress voicing multiple characters</keyword>
+		<keyword>evil versus evil</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>outer space</keyword>
+		<keyword>for grown ups animation</keyword>
+		<keyword>crude humor comedy</keyword>
+		<keyword>surreal comedy</keyword>
+		<keyword>interdimensional sci fi</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>reference to sega dreamcast</keyword>
+		<keyword>ponytail</keyword>
+		<keyword>mature animation</keyword>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>parody comedy</keyword>
+		<keyword>buttock nudity</keyword>
+		<keyword>nudity</keyword>
+		<keyword>character names as title</keyword>
+		<keyword>forenames as title</keyword>
+		<keyword>three word title</keyword>
+		<keyword>f word</keyword>
+	</keywords>
+	<directors>
+		<director> Wesley Archer</director>
+		<director> Pete Michels</director>
+		<director> Johnny Tesoro</director>
+		<director> Nathan Litz</director>
+		<director> Jacob Hair</director>
+		<director> Bryan Newton</director>
+		<director> Juan Jose Meza-Leon</director>
+		<director> Kyoung Hee Lim</director>
+		<director> Dominic Polcino</director>
+		<director> Erica Hayes</director>
+		<director> Anthony Chun</director>
+		<director> John Rice</director>
+		<director> Stephen Sandoval</director>
+		<director> Douglas Einar Olsen</director>
+		<director> Jeff Myers</director>
+		<director> Lucas Gray</director>
+		<director> Justin Roiland</director>
+		<director> Fill Marc Sagadraca</director>
+	</directors>
+	<composers>
+		<composer> Ryan Elder</composer>
+		<composer> Jason Nesmith</composer>
+	</composers>
+	<producers>
+		<producer> Ollie Green</producer>
+		<producer> Dan Harmon</producer>
+		<producer> Justin Roiland</producer>
+		<producer> Keith Crofford</producer>
+		<producer> J. Michael Mendel</producer>
+		<producer> Sydney Ryan</producer>
+		<producer> Mike Lazzo</producer>
+		<producer> Delna Bhesania</producer>
+		<producer> Barry Ward</producer>
+		<producer> Ryan Ridley</producer>
+		<producer> Richard Grieve</producer>
+		<producer> Lee Harting</producer>
+		<producer> Steven Levy</producer>
+		<producer> James Siciliano</producer>
+		<producer> Suzanne Belk</producer>
+		<producer> Anne Lane</producer>
+		<producer> Albro Lundy IV</producer>
+		<producer> Scott Marder</producer>
+		<producer> Nicholas Rutherford</producer>
+		<producer> Rob Schrab</producer>
+		<producer> Alex Rubens</producer>
+		<producer> Dan Guterman</producer>
+		<producer> Mike McMahan</producer>
+		<producer> Rick Mischel</producer>
+		<producer> Emily Deere</producer>
+		<producer> Walter Newman</producer>
+		<producer> Jeff Loveness</producer>
+		<producer> David Otterby</producer>
+		<producer> James Fino</producer>
+		<producer> Joe Russo II</producer>
+		<producer> Tom Kauffman</producer>
+		<producer> Mark Van Ee</producer>
+		<producer> Michael Waldron</producer>
+		<producer> David Marshall</producer>
+		<producer> Deirdre Brenner</producer>
+		<producer> Heather Anne Campbell</producer>
+		<producer> Tina Chow</producer>
+		<producer> Monica Mitchell</producer>
+		<producer> Jonathan Roig</producer>
+		<producer> John Harris</producer>
+		<producer> Matthew Enright</producer>
+		<producer> Mehar Sethi</producer>
+		<producer> Kenny Micka</producer>
+		<producer> Anthony Alfonso</producer>
+	</producers>
+	<writers>
+		<writer> Dan Harmon</writer>
+		<writer> Dan Harmon</writer>
+		<writer> Dan Harmon</writer>
+		<writer> Justin Roiland</writer>
+		<writer> Justin Roiland</writer>
+		<writer> Justin Roiland</writer>
+		<writer> Tom Kauffman</writer>
+		<writer> Tom Kauffman</writer>
+		<writer> Eric Acosta</writer>
+		<writer> Eric Acosta</writer>
+		<writer> Wade Randolph</writer>
+		<writer> Wade Randolph</writer>
+		<writer> Mike McMahan</writer>
+		<writer> Mike McMahan</writer>
+		<writer> Siobhan Thompson</writer>
+		<writer> Siobhan Thompson</writer>
+		<writer> Anne Lane</writer>
+		<writer> Anne Lane</writer>
+		<writer> Ryan Ridley</writer>
+		<writer> Matt Roller</writer>
+		<writer> Matt Roller</writer>
+		<writer> Jane Becker</writer>
+		<writer> Jane Becker</writer>
+		<writer> Sarah Carbiener</writer>
+		<writer> Sarah Carbiener</writer>
+		<writer> Erica Rosbe</writer>
+		<writer> Erica Rosbe</writer>
+		<writer> Florian Wagner</writer>
+		<writer> Caitie Delaney</writer>
+		<writer> Caitie Delaney</writer>
+		<writer> Dave Horwitz</writer>
+		<writer> Shawn Pearlman</writer>
+		<writer> Edward Voccola</writer>
+		<writer> Brian Wysol</writer>
+		<writer> Brian Wysol</writer>
+		<writer> David Phillips</writer>
+		<writer> David Phillips</writer>
+		<writer> Jessica Gao</writer>
+		<writer> Jessica Gao</writer>
+		<writer> Jeff Loveness</writer>
+		<writer> James Siciliano</writer>
+		<writer> Brandon Johnson</writer>
+		<writer> Dan Guterman</writer>
+		<writer> Albro Lundy IV</writer>
+		<writer> Alex Rubens</writer>
+		<writer> Tanner Tananbaum</writer>
+		<writer> Abed Gheith</writer>
+		<writer> Rashad Gheith</writer>
+		<writer> Scott Marder</writer>
+		<writer> Nicholas Rutherford</writer>
+		<writer> Rob Schrab</writer>
+		<writer> Rich Fulcher</writer>
+		<writer> Michael Waldron</writer>
+		<writer> John Harris</writer>
+		<writer> Heather Anne Campbell</writer>
+	</writers>
+	<editors>
+		<editor> Lee Harting</editor>
+		<editor> Nick Reczynski</editor>
+		<editor> Ken MacKenzie</editor>
+		<editor> Matthew Sipple</editor>
+		<editor> Ruthie Aslan</editor>
+		<editor> Francis Hooper</editor>
+		<editor> Steve Ingram</editor>
+		<editor> Justin Roiland</editor>
+		<editor> Anne Harting</editor>
+	</editors>
+</doc>

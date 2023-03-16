@@ -1,0 +1,768 @@
+<?xml version="1.0" ?>
+<doc id="tt2015381">
+	<docid>tt2015381</docid>
+	<title>Guardians of the Galaxy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTkwZjU3MTctMGExMi00YjU5LTgwMDMtOWNkZDRlZjQ4NmZhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">121</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Chris Pratt</actor>
+			<role>Peter Quill</role>
+		</credit>
+		<credit>
+			<actor>Vin Diesel</actor>
+			<role>Groot</role>
+		</credit>
+		<credit>
+			<actor>Bradley Cooper</actor>
+			<role>Rocket</role>
+		</credit>
+		<credit>
+			<actor>Zoe Saldana</actor>
+			<role>Gamora</role>
+		</credit>
+		<credit>
+			<actor>Dave Bautista</actor>
+			<role>Drax</role>
+		</credit>
+		<credit>
+			<actor>Lee Pace</actor>
+			<role>Ronan</role>
+		</credit>
+		<credit>
+			<actor>Michael Rooker</actor>
+			<role>Yondu Udonta</role>
+		</credit>
+		<credit>
+			<actor>Karen Gillan</actor>
+			<role>Nebula</role>
+		</credit>
+		<credit>
+			<actor>Djimon Hounsou</actor>
+			<role>Korath</role>
+		</credit>
+		<credit>
+			<actor>John C. Reilly</actor>
+			<role>Corpsman Dey</role>
+		</credit>
+		<credit>
+			<actor>Glenn Close</actor>
+			<role>Nova Prime</role>
+		</credit>
+		<credit>
+			<actor>Benicio Del Toro</actor>
+			<role>The Collector</role>
+		</credit>
+		<credit>
+			<actor>Laura Haddock</actor>
+			<role>Meredith Quill</role>
+		</credit>
+		<credit>
+			<actor>Sean Gunn</actor>
+			<role>Kraglin</role>
+		</credit>
+		<credit>
+			<actor>Peter Serafinowicz</actor>
+			<role>Denarian Saal</role>
+		</credit>
+		<credit>
+			<actor>Christopher Fairbank</actor>
+			<role>The Broker</role>
+		</credit>
+		<credit>
+			<actor>Krystian Godlewski</actor>
+			<role>On Set Groot</role>
+		</credit>
+		<credit>
+			<actor>Wyatt Oleff</actor>
+			<role>Young Quill</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">July 21 2014</releasedate>
+		<releasedate country="United Kingdom">July 24 2014</releasedate>
+		<releasedate country="Canada">July 29 2014</releasedate>
+		<releasedate country="Iceland">July 30 2014</releasedate>
+		<releasedate country="Argentina">July 31 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">13+</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>outer space</keyword>
+		<keyword>bounty hunter</keyword>
+		<keyword>tree</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>raccoon</keyword>
+		<keyword>space travel</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>marvel cinematic universe</keyword>
+		<keyword>sony walkman</keyword>
+		<keyword>cassette tape</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>super villain</keyword>
+		<keyword>troll doll</keyword>
+		<keyword>blue skinned alien</keyword>
+		<keyword>prison riot</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>friendship</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>superhero team</keyword>
+		<keyword>space battle</keyword>
+		<keyword>space opera</keyword>
+		<keyword>1980s</keyword>
+		<keyword>reference to kevin bacon</keyword>
+		<keyword>marvel entertainment</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>artificial gravity</keyword>
+		<keyword>groot character</keyword>
+		<keyword>gamora character</keyword>
+		<keyword>drax the destroyer character</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>rocket raccoon character</keyword>
+		<keyword>star lord character</keyword>
+		<keyword>thanos character</keyword>
+		<keyword>nebula character</keyword>
+		<keyword>ronan the accuser character</keyword>
+		<keyword>nova corps</keyword>
+		<keyword>guardians of the galaxy</keyword>
+		<keyword>kree</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>prison</keyword>
+		<keyword>alien</keyword>
+		<keyword>listening to music on headphones</keyword>
+		<keyword>human in outer space</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>smuggler</keyword>
+		<keyword>stuffed in a sack</keyword>
+		<keyword>starship</keyword>
+		<keyword>female green skinned humanoid alien</keyword>
+		<keyword>adopted daughter</keyword>
+		<keyword>face paint</keyword>
+		<keyword>outrunning explosion</keyword>
+		<keyword>zero gravity</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>green skin</keyword>
+		<keyword>deception</keyword>
+		<keyword>hostage</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>alien abduction</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>space pirate</keyword>
+		<keyword>superhero</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>written by director</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>reference to howard the duck</keyword>
+		<keyword>revenge</keyword>
+		<keyword>year 2014</keyword>
+		<keyword>year 1988</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>action hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>swashbuckler</keyword>
+		<keyword>pulp fiction</keyword>
+		<keyword>science fantasy</keyword>
+		<keyword>male human alien hybrid</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>pigtails</keyword>
+		<keyword>throne</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>interspecies friendship</keyword>
+		<keyword>female villain</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>weapon</keyword>
+		<keyword>anthropomorphic raccoon</keyword>
+		<keyword>talking raccoon</keyword>
+		<keyword>crying</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>final battle</keyword>
+		<keyword>open ended</keyword>
+		<keyword>infinity stone</keyword>
+		<keyword>howard the duck character</keyword>
+		<keyword>yondu character</keyword>
+		<keyword>peter quill character</keyword>
+		<keyword>death of sister</keyword>
+		<keyword>drinking from a fountain</keyword>
+		<keyword>levitation</keyword>
+		<keyword>getting dressed</keyword>
+		<keyword>incarceration</keyword>
+		<keyword>green woman</keyword>
+		<keyword>blue man</keyword>
+		<keyword>reference to ranger rick</keyword>
+		<keyword>bomb</keyword>
+		<keyword>knowhere</keyword>
+		<keyword>severed head</keyword>
+		<keyword>mining</keyword>
+		<keyword>black market</keyword>
+		<keyword>reference to john stamos</keyword>
+		<keyword>distraction</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>death of best friend</keyword>
+		<keyword>crying in grief</keyword>
+		<keyword>switch</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>profanity</keyword>
+		<keyword>flying car</keyword>
+		<keyword>hovercar</keyword>
+		<keyword>infinity saga</keyword>
+		<keyword>spaghetti western imitation</keyword>
+		<keyword>gunslinger</keyword>
+		<keyword>gunfighter</keyword>
+		<keyword>sci fi western</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>action girl</keyword>
+		<keyword>half human</keyword>
+		<keyword>cult film</keyword>
+		<keyword>space prison</keyword>
+		<keyword>human alien romance</keyword>
+		<keyword>part of franchise</keyword>
+		<keyword>part of series</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>literature on screen</keyword>
+		<keyword>american literature on screen</keyword>
+		<keyword>american science fiction literature on screen</keyword>
+		<keyword>american comics literature on screen</keyword>
+		<keyword>21st century literature on screen</keyword>
+		<keyword>science fiction comedy</keyword>
+		<keyword>xenophobic remark</keyword>
+		<keyword>xenophobia</keyword>
+		<keyword>xenophobe</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>boy</keyword>
+		<keyword>little boy</keyword>
+		<keyword>dance scene</keyword>
+		<keyword>hospital room</keyword>
+		<keyword>ill mother</keyword>
+		<keyword>ill woman</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>bald woman</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>gift</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>absent father</keyword>
+		<keyword>rocket powered shoe</keyword>
+		<keyword>gadget shoes</keyword>
+		<keyword>scream</keyword>
+		<keyword>screaming boy</keyword>
+		<keyword>trauma</keyword>
+		<keyword>downpour</keyword>
+		<keyword>storm</keyword>
+		<keyword>xenophobic man</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>artifact</keyword>
+		<keyword>shooting</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>girl</keyword>
+		<keyword>wanted man</keyword>
+		<keyword>little girl</keyword>
+		<keyword>fountain</keyword>
+		<keyword>fanatic</keyword>
+		<keyword>smuggling</keyword>
+		<keyword>nickname</keyword>
+		<keyword>throwing something at someone</keyword>
+		<keyword>male female fight</keyword>
+		<keyword>bad reputation</keyword>
+		<keyword>biting someone</keyword>
+		<keyword>woman kicks a man in the stomach</keyword>
+		<keyword>woman punches a man in the face</keyword>
+		<keyword>taser</keyword>
+		<keyword>gadget gun</keyword>
+		<keyword>gadget pistol</keyword>
+		<keyword>threatened with a sword</keyword>
+		<keyword>disembodied arm</keyword>
+		<keyword>arm cut off</keyword>
+		<keyword>opportunist</keyword>
+		<keyword>opportunism</keyword>
+		<keyword>gay sexual offender</keyword>
+		<keyword>violent woman</keyword>
+		<keyword>violent man</keyword>
+		<keyword>politician</keyword>
+		<keyword>female politician</keyword>
+		<keyword>aggressive woman</keyword>
+		<keyword>spitting</keyword>
+		<keyword>spitting on the floor</keyword>
+		<keyword>sexual harassment</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>jail</keyword>
+		<keyword>anthropomorphic plant</keyword>
+		<keyword>man sexually harassed by a man</keyword>
+		<keyword>handcuffed man</keyword>
+		<keyword>handcuffed woman</keyword>
+		<keyword>sexually harassed man</keyword>
+		<keyword>genocide scheme</keyword>
+		<keyword>scheme</keyword>
+		<keyword>secretly observing</keyword>
+		<keyword>overhearing a conversation</keyword>
+		<keyword>gadget hammer</keyword>
+		<keyword>criminal</keyword>
+		<keyword>female criminal</keyword>
+		<keyword>gadget weapon</keyword>
+		<keyword>shirt lifting</keyword>
+		<keyword>scar</keyword>
+		<keyword>scar on chest</keyword>
+		<keyword>dagger</keyword>
+		<keyword>threatened with a dagger</keyword>
+		<keyword>accomplice</keyword>
+		<keyword>convict</keyword>
+		<keyword>hammer used as a weapon</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>levitating chair</keyword>
+		<keyword>arrogant woman</keyword>
+		<keyword>arrogance</keyword>
+		<keyword>one legged man</keyword>
+		<keyword>prosthetic leg</keyword>
+		<keyword>passive aggressive behavior</keyword>
+		<keyword>passive aggressive woman</keyword>
+		<keyword>hit on the head</keyword>
+		<keyword>battery</keyword>
+		<keyword>alarm</keyword>
+		<keyword>hammer as weapon</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>kicked in the head</keyword>
+		<keyword>ethnicity slur</keyword>
+		<keyword>racist remark</keyword>
+		<keyword>racist</keyword>
+		<keyword>racial stereotype</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>broken window</keyword>
+		<keyword>breaking a window</keyword>
+		<keyword>stolen walkman</keyword>
+		<keyword>levitating man</keyword>
+		<keyword>anti gravity</keyword>
+		<keyword>escape from jail</keyword>
+		<keyword>matronizing</keyword>
+		<keyword>patronizing</keyword>
+		<keyword>kidnapped boy</keyword>
+		<keyword>misandry</keyword>
+		<keyword>misandric woman</keyword>
+		<keyword>misandrist</keyword>
+		<keyword>sexist remark</keyword>
+		<keyword>sexist</keyword>
+		<keyword>sexism</keyword>
+		<keyword>statuette</keyword>
+		<keyword>assistant</keyword>
+		<keyword>mine</keyword>
+		<keyword>reference to michael douglas</keyword>
+		<keyword>reference to billy the kid</keyword>
+		<keyword>reference to bonnie and clyde</keyword>
+		<keyword>urban fantasy</keyword>
+		<keyword>father issues</keyword>
+		<keyword>daddy issues</keyword>
+		<keyword>traumatized woman</keyword>
+		<keyword>traumatized man</keyword>
+		<keyword>traumatized protagonist</keyword>
+		<keyword>electra complex</keyword>
+		<keyword>emotionally unstable woman</keyword>
+		<keyword>revolt</keyword>
+		<keyword>rebel</keyword>
+		<keyword>xenophobic woman</keyword>
+		<keyword>collection</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>kissing someone's hand</keyword>
+		<keyword>hand kissing</keyword>
+		<keyword>slow motion explosion</keyword>
+		<keyword>surviving an explosion</keyword>
+		<keyword>dog in outer space</keyword>
+		<keyword>animal in outer space</keyword>
+		<keyword>capsule</keyword>
+		<keyword>dragging someone</keyword>
+		<keyword>lying on the floor</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>captain</keyword>
+		<keyword>punishment</keyword>
+		<keyword>superiority complex</keyword>
+		<keyword>countdown</keyword>
+		<keyword>talking to a raccoon</keyword>
+		<keyword>talking to an animal</keyword>
+		<keyword>female boss</keyword>
+		<keyword>evil woman</keyword>
+		<keyword>close up of mouth</keyword>
+		<keyword>friend</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>whistling</keyword>
+		<keyword>disembodied hand</keyword>
+		<keyword>hand cut off</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>choking</keyword>
+		<keyword>mistaken belief that someone is dead</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>interracial romance</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>reading a letter</keyword>
+		<keyword>disembodied voice</keyword>
+		<keyword>audio cassette</keyword>
+		<keyword>audio cassette as a gift</keyword>
+		<keyword>crying man</keyword>
+		<keyword>doll</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>dog wears a spacesuit</keyword>
+		<keyword>dog wears a costume</keyword>
+		<keyword>man wears underwear</keyword>
+		<keyword>man kisses a man's hand</keyword>
+		<keyword>man wears a leather jacket</keyword>
+		<keyword>man wears boxer shorts</keyword>
+		<keyword>man wears shorts</keyword>
+		<keyword>strong female protagonist</keyword>
+		<keyword>theft</keyword>
+		<keyword>woman hits a man</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>male villain</keyword>
+		<keyword>male hero male villain</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>first of series</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>white male lead in a diverse cast</keyword>
+		<keyword>rotoscoping</keyword>
+		<keyword>joke in end credits</keyword>
+		<keyword>tree creature</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>motion capture</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>mothership</keyword>
+		<keyword>saving a life</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>space western</keyword>
+		<keyword>transformation</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>one man army</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>power</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>space opera sci fi</keyword>
+		<keyword>team action</keyword>
+		<keyword>marvel</keyword>
+		<keyword>3d</keyword>
+		<keyword>cosmo the spacedog character</keyword>
+		<keyword>orb</keyword>
+		<keyword>money</keyword>
+		<keyword>escape</keyword>
+		<keyword>fight</keyword>
+		<keyword>planet</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>plan</keyword>
+		<keyword>hero</keyword>
+		<keyword>pencil skirt</keyword>
+		<keyword>bipedal alien</keyword>
+		<keyword>first part</keyword>
+		<keyword>singing along to a song</keyword>
+		<keyword>four word title</keyword>
+		<keyword>death</keyword>
+		<keyword>heroine</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>interspecies sex</keyword>
+		<keyword>experiment</keyword>
+		<keyword>human alien hybrid</keyword>
+		<keyword>force field</keyword>
+		<keyword>based on graphic novel</keyword>
+		<keyword>dance off</keyword>
+		<keyword>aerial bombardment</keyword>
+		<keyword>aerial combat</keyword>
+		<keyword>stun weapon</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>female humanoid alien</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>holographic projection</keyword>
+		<keyword>exploding starship</keyword>
+		<keyword>humanoid alien</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>futuristic</keyword>
+		<keyword>laser</keyword>
+		<keyword>cameo</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>arrow</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>decoy</keyword>
+		<keyword>montage</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>helmet</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>prison fight</keyword>
+		<keyword>peace treaty</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>x rayed skeleton</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>gadgetry</keyword>
+		<keyword>gadget</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>lightning</keyword>
+		<keyword>catfight</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>torture</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>flashback</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>android</keyword>
+		<keyword>blue skin</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>warlord</keyword>
+		<keyword>pilot</keyword>
+		<keyword>hit with a hammer</keyword>
+		<keyword>hammer</keyword>
+		<keyword>soldier</keyword>
+		<keyword>army</keyword>
+		<keyword>human alien</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>rescue</keyword>
+		<keyword>alien race</keyword>
+		<keyword>missouri</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>ex convict</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>escape pod</keyword>
+		<keyword>giant</keyword>
+		<keyword>creature</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>end tease for sequel</keyword>
+		<keyword>escape plan</keyword>
+		<keyword>violence</keyword>
+		<keyword>sister</keyword>
+		<keyword>pirate</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>cancer</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>interspecies relationship</keyword>
+		<keyword>interspecies romance</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>dog</keyword>
+		<keyword>letter</keyword>
+		<keyword>present</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>on the run</keyword>
+		<keyword>chase</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>broken jaw</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>battle</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>double impalement</keyword>
+		<keyword>lifted by the throat</keyword>
+		<keyword>hologram</keyword>
+		<keyword>suicide</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>explosion</keyword>
+		<keyword>head spin</keyword>
+		<keyword>prosthetic limb</keyword>
+		<keyword>knife</keyword>
+		<keyword>impalement</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>collector</keyword>
+		<keyword>arrest</keyword>
+		<keyword>dancing</keyword>
+		<keyword>masked man</keyword>
+		<keyword>murder</keyword>
+		<keyword>assassin</keyword>
+		<keyword>alien planet</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shootout</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>child abduction</keyword>
+		<keyword>hospital</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fictional planet</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>outlaw</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>showdown</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>sword</keyword>
+		<keyword>orphan</keyword>
+		<keyword>prison planet</keyword>
+		<keyword>walkman</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>2010s</keyword>
+		<keyword>revisionist western</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>lesbian</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>warrior</keyword>
+		<keyword>reference to pulp fiction</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>bridge</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>gambling</keyword>
+		<keyword>gun fu</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>cave</keyword>
+		<keyword>sequel mentioned during end credits</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>bar</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>martial arts</keyword>
+	</keywords>
+	<directors>
+		<director> James Gunn</director>
+	</directors>
+	<composers>
+		<composer> Tyler Bates</composer>
+	</composers>
+	<producers>
+		<producer> Victoria Alonso</producer>
+		<producer> Jamie Christopher</producer>
+		<producer> Louis D'Esposito</producer>
+		<producer> Kevin Feige</producer>
+		<producer> Alan Fine</producer>
+		<producer> David J. Grant</producer>
+		<producer> Nikolas Korda</producer>
+		<producer> Jeremy Latcham</producer>
+		<producer> Stan Lee</producer>
+		<producer> Jonathan Schwartz</producer>
+	</producers>
+	<writers>
+		<writer> James Gunn</writer>
+		<writer> Nicole Perlman</writer>
+		<writer> Dan Abnett</writer>
+		<writer> Andy Lanning</writer>
+		<writer> Bill Mantlo</writer>
+		<writer> Keith Giffen</writer>
+		<writer> Jim Starlin</writer>
+		<writer> Steve Englehart</writer>
+		<writer> Steve Gan</writer>
+		<writer> Steve Gerber</writer>
+		<writer> Val Mayerik</writer>
+	</writers>
+	<editors>
+		<editor> Fred Raskin</editor>
+		<editor> Hughes Winborne</editor>
+		<editor> Craig Wood</editor>
+	</editors>
+</doc>

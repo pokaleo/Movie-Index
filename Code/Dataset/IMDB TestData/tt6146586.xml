@@ -1,0 +1,723 @@
+<?xml version="1.0" ?>
+<doc id="tt6146586">
+	<docid>tt6146586</docid>
+	<title>John Wick: Chapter 3 - Parabellum</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzRlMTZmZGItMTEwYS00NTZhLWFhODUtZTVmNGU1NWMzNzgwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Surround 7.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Keanu Reeves</actor>
+			<role>John Wick</role>
+		</credit>
+		<credit>
+			<actor>Halle Berry</actor>
+			<role>Sofia</role>
+		</credit>
+		<credit>
+			<actor>Ian McShane</actor>
+			<role>Winston</role>
+		</credit>
+		<credit>
+			<actor>Laurence Fishburne</actor>
+			<role>Bowery King</role>
+		</credit>
+		<credit>
+			<actor>Mark Dacascos</actor>
+			<role>Zero</role>
+		</credit>
+		<credit>
+			<actor>Asia Kate Dillon</actor>
+			<role>The Adjudicator</role>
+		</credit>
+		<credit>
+			<actor>Lance Reddick</actor>
+			<role>Charon</role>
+		</credit>
+		<credit>
+			<actor>Tobias Segal</actor>
+			<role>Earl</role>
+		</credit>
+		<credit>
+			<actor>Anjelica Huston</actor>
+			<role>The Director</role>
+		</credit>
+		<credit>
+			<actor>Saïd Taghmaoui</actor>
+			<role>The Elder</role>
+		</credit>
+		<credit>
+			<actor>Jerome Flynn</actor>
+			<role>Berrada</role>
+		</credit>
+		<credit>
+			<actor>Randall Duk Kim</actor>
+			<role>Doctor</role>
+		</credit>
+		<credit>
+			<actor>Margaret Daly</actor>
+			<role>Operator</role>
+		</credit>
+		<credit>
+			<actor>Robin Lord Taylor</actor>
+			<role>Administrator</role>
+		</credit>
+		<credit>
+			<actor>Susan Blommaert</actor>
+			<role>Librarian</role>
+		</credit>
+		<credit>
+			<actor>Unity Phelan</actor>
+			<role>Ballerina</role>
+		</credit>
+		<credit>
+			<actor>Jason Mantzoukas</actor>
+			<role>Tick Tock Man</role>
+		</credit>
+		<credit>
+			<actor>Andrea Sooch</actor>
+			<role>Ticket Taker</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Finland">May 15 2019</releasedate>
+		<releasedate country="United Kingdom">May 15 2019</releasedate>
+		<releasedate country="Indonesia">May 15 2019</releasedate>
+		<releasedate country="Ireland">May 15 2019</releasedate>
+		<releasedate country="Philippines">May 15 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Belgium">KNT/ENA</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Greece">K-15</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+R</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>third part</keyword>
+		<keyword>desert</keyword>
+		<keyword>sequel</keyword>
+		<keyword>chase</keyword>
+		<keyword>assassin</keyword>
+		<keyword>kicked by a horse</keyword>
+		<keyword>wanted man</keyword>
+		<keyword>one man army</keyword>
+		<keyword>dog</keyword>
+		<keyword>past coming back to haunt</keyword>
+		<keyword>excommunicado</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>bulletproof clothing</keyword>
+		<keyword>honor</keyword>
+		<keyword>library</keyword>
+		<keyword>brutal violence</keyword>
+		<keyword>ultraviolence</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>race against time</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>hotel</keyword>
+		<keyword>survival</keyword>
+		<keyword>horse</keyword>
+		<keyword>body count</keyword>
+		<keyword>sword</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>arab man</keyword>
+		<keyword>favor returned</keyword>
+		<keyword>punishment</keyword>
+		<keyword>arabian girl</keyword>
+		<keyword>extreme violence</keyword>
+		<keyword>action hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>photograph</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the throat</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>stabbed in the hand</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed through the hand</keyword>
+		<keyword>stabbed through the head</keyword>
+		<keyword>stabbed through the chest</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>new york city</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>taxi</keyword>
+		<keyword>taxi driver</keyword>
+		<keyword>coin</keyword>
+		<keyword>severed finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>branding</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>doctor</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>secret society</keyword>
+		<keyword>casablanca morocco</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gun fu</keyword>
+		<keyword>animal attack</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>telephone</keyword>
+		<keyword>vault</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>corpse</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>head butt</keyword>
+		<keyword>one against many</keyword>
+		<keyword>ballerina</keyword>
+		<keyword>camel</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>smoke grenade</keyword>
+		<keyword>concierge</keyword>
+		<keyword>knife</keyword>
+		<keyword>hitman</keyword>
+		<keyword>contract killer</keyword>
+		<keyword>hired killer</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>female killer</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>knife throwing</keyword>
+		<keyword>revolver</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>knocked out with a gun butt</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>impalement</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>axe</keyword>
+		<keyword>axe fight</keyword>
+		<keyword>axe throwing</keyword>
+		<keyword>axe in the head</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>motorcycle chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>stable</keyword>
+		<keyword>water bottle</keyword>
+		<keyword>revenge</keyword>
+		<keyword>bus</keyword>
+		<keyword>shopping cart</keyword>
+		<keyword>book</keyword>
+		<keyword>gun</keyword>
+		<keyword>throwing knife</keyword>
+		<keyword>tattoo on back</keyword>
+		<keyword>adjudicator</keyword>
+		<keyword>dog attack</keyword>
+		<keyword>severed ring finger</keyword>
+		<keyword>belt</keyword>
+		<keyword>gun violence</keyword>
+		<keyword>attacked by a dog</keyword>
+		<keyword>finger cut off</keyword>
+		<keyword>cutting off own finger</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>weapon</keyword>
+		<keyword>dog is shot</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>horse stable</keyword>
+		<keyword>human branding</keyword>
+		<keyword>set up for a sequel</keyword>
+		<keyword>bounty</keyword>
+		<keyword>running in the rain</keyword>
+		<keyword>checking watch</keyword>
+		<keyword>pit bull</keyword>
+		<keyword>bloody hand</keyword>
+		<keyword>assembling a gun</keyword>
+		<keyword>breaking glass</keyword>
+		<keyword>german shepherd</keyword>
+		<keyword>shot point blank</keyword>
+		<keyword>reloading a gun</keyword>
+		<keyword>dog jumping into a car</keyword>
+		<keyword>bullet proof vest</keyword>
+		<keyword>knocked off a motorcycle</keyword>
+		<keyword>shot multiple times</keyword>
+		<keyword>armor piercing round</keyword>
+		<keyword>belt used as a weapon</keyword>
+		<keyword>man in a shopping cart</keyword>
+		<keyword>trained dog</keyword>
+		<keyword>bald man</keyword>
+		<keyword>firearm</keyword>
+		<keyword>third in series</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>ninja</keyword>
+		<keyword>muslim man</keyword>
+		<keyword>head scarf</keyword>
+		<keyword>north africa</keyword>
+		<keyword>arabian desert</keyword>
+		<keyword>asian man</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>open ended</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>improvised weapon</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>gory violence</keyword>
+		<keyword>hostage</keyword>
+		<keyword>rescue</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>deception</keyword>
+		<keyword>gore</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>statue of liberty new york city</keyword>
+		<keyword>flatiron building manhattan new york city</keyword>
+		<keyword>2010s</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>lightning</keyword>
+		<keyword>necklace</keyword>
+		<keyword>engagement ring</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>cauterization</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>fire poker</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>reference to elvis presley</keyword>
+		<keyword>surgery</keyword>
+		<keyword>russian</keyword>
+		<keyword>russian gangster</keyword>
+		<keyword>russian mafia</keyword>
+		<keyword>mafia</keyword>
+		<keyword>italian</keyword>
+		<keyword>man with a ponytail</keyword>
+		<keyword>japanese</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>mob boss</keyword>
+		<keyword>mafia boss</keyword>
+		<keyword>gangster</keyword>
+		<keyword>mobster</keyword>
+		<keyword>times square manhattan new york city</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>bullet ballet</keyword>
+		<keyword>brooklyn bridge</keyword>
+		<keyword>pigeon</keyword>
+		<keyword>scar</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>battle</keyword>
+		<keyword>grand central station manhattan new york city</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>old flame</keyword>
+		<keyword>hotel manager</keyword>
+		<keyword>cat</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>hall of records</keyword>
+		<keyword>armory</keyword>
+		<keyword>furnace</keyword>
+		<keyword>faked death</keyword>
+		<keyword>homeless man</keyword>
+		<keyword>homeless person</keyword>
+		<keyword>cook</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>slide locked back</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>underwater fight</keyword>
+		<keyword>hit in the groin</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>long take</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>machismo</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>theater</keyword>
+		<keyword>henchman</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>thug</keyword>
+		<keyword>two against one</keyword>
+		<keyword>on the run</keyword>
+		<keyword>reference to baba yaga</keyword>
+		<keyword>neon</keyword>
+		<keyword>fragments of glass</keyword>
+		<keyword>vinyl</keyword>
+		<keyword>army</keyword>
+		<keyword>crime lord</keyword>
+		<keyword>reference to dante's inferno</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>massacre</keyword>
+		<keyword>power outage</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>train station</keyword>
+		<keyword>subway</keyword>
+		<keyword>subway station</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>gang</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>broken hand</keyword>
+		<keyword>antique store</keyword>
+		<keyword>antique gun</keyword>
+		<keyword>six shooter</keyword>
+		<keyword>pistol</keyword>
+		<keyword>silencer</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>butterfly knife</keyword>
+		<keyword>dagger</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>bridge</keyword>
+		<keyword>motorcycle accident</keyword>
+		<keyword>product placement</keyword>
+		<keyword>constellation</keyword>
+		<keyword>spit take</keyword>
+		<keyword>arab</keyword>
+		<keyword>redemption</keyword>
+		<keyword>professional hit</keyword>
+		<keyword>gang violence</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>ambush</keyword>
+		<keyword>statue</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>kung fu</keyword>
+		<keyword>karate</keyword>
+		<keyword>guard dog</keyword>
+		<keyword>rain</keyword>
+		<keyword>throwing a knife</keyword>
+		<keyword>throwing a knife at someone</keyword>
+		<keyword>horse motorcycle chase</keyword>
+		<keyword>ballet dancer</keyword>
+		<keyword>tattoo on head</keyword>
+		<keyword>tattooed man</keyword>
+		<keyword>dog shot</keyword>
+		<keyword>bottle of water</keyword>
+		<keyword>ringing telephone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>travel</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>morocco</keyword>
+		<keyword>tattooed arm</keyword>
+		<keyword>tattooed neck</keyword>
+		<keyword>stitching one's own wound</keyword>
+		<keyword>cauterizing a wound</keyword>
+		<keyword>new york night cityscape</keyword>
+		<keyword>tattooed woman</keyword>
+		<keyword>cutout book</keyword>
+		<keyword>rosary</keyword>
+		<keyword>medalion</keyword>
+		<keyword>stabbed with multiple knives</keyword>
+		<keyword>stitching own wound</keyword>
+		<keyword>crossword puzzle</keyword>
+		<keyword>shot twice</keyword>
+		<keyword>running for one's life</keyword>
+		<keyword>savage dog</keyword>
+		<keyword>hatchet stuck in head</keyword>
+		<keyword>hatchet throwing</keyword>
+		<keyword>blowfish</keyword>
+		<keyword>sashimi</keyword>
+		<keyword>climbing a sand dune</keyword>
+		<keyword>kicked in the groin</keyword>
+		<keyword>horse riding in a city</keyword>
+		<keyword>riding a motorcycle</keyword>
+		<keyword>ballet practice</keyword>
+		<keyword>kimber 1911 pistol</keyword>
+		<keyword>starry night</keyword>
+		<keyword>tanto</keyword>
+		<keyword>arsenal</keyword>
+		<keyword>out of ammunition</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>driving through the desert</keyword>
+		<keyword>fire fight</keyword>
+		<keyword>assault team</keyword>
+		<keyword>alcoa chess set</keyword>
+		<keyword>woman with facial piercings</keyword>
+		<keyword>rubber stamp</keyword>
+		<keyword>shaving one's head</keyword>
+		<keyword>head blown off</keyword>
+		<keyword>fast reload</keyword>
+		<keyword>shootout underwater</keyword>
+		<keyword>glass skull</keyword>
+		<keyword>wagging finger</keyword>
+		<keyword>hall of mirrors</keyword>
+		<keyword>austin cox alcoa 1962 chess set</keyword>
+		<keyword>impaled by a sword</keyword>
+		<keyword>orange fanta</keyword>
+		<keyword>raw fish</keyword>
+		<keyword>cleavage</keyword>
+		<keyword>blood spatter</keyword>
+		<keyword>song during end credits</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>disguised as homeless person</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>night</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>man wears an earring</keyword>
+		<keyword>mammal</keyword>
+		<keyword>ungulate</keyword>
+		<keyword>john wick character</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>animal</keyword>
+		<keyword>handgun</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>semi automatic weapon</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>suv</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>bespectacled male</keyword>
+		<keyword>semi automatic pistol</keyword>
+		<keyword>sport utility vehicle</keyword>
+		<keyword>bespectacled man</keyword>
+		<keyword>color photograph</keyword>
+		<keyword>bone breaking</keyword>
+		<keyword>belting</keyword>
+		<keyword>falling through a ceiling</keyword>
+		<keyword>one person army action</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>laughter</keyword>
+		<keyword>director cameo</keyword>
+		<keyword>criminal underworld</keyword>
+		<keyword>code of conduct</keyword>
+		<keyword>code of honor</keyword>
+		<keyword>consequences</keyword>
+		<keyword>ballet</keyword>
+		<keyword>belarusian</keyword>
+		<keyword>attack dog</keyword>
+		<keyword>fealty</keyword>
+		<keyword>second chance</keyword>
+		<keyword>chopping off finger</keyword>
+		<keyword>beggar</keyword>
+		<keyword>armor piercing ammunition</keyword>
+		<keyword>excommunication</keyword>
+		<keyword>switchboard operator</keyword>
+		<keyword>typewriter</keyword>
+		<keyword>widower</keyword>
+		<keyword>sanctuary</keyword>
+		<keyword>owner dog relationship</keyword>
+		<keyword>hollowed out book</keyword>
+		<keyword>hiding place in book</keyword>
+		<keyword>new york public library</keyword>
+		<keyword>talisman</keyword>
+		<keyword>rosary beads</keyword>
+		<keyword>back tattoo</keyword>
+		<keyword>branding iron</keyword>
+		<keyword>wedding ring</keyword>
+		<keyword>cutting off one's own finger</keyword>
+		<keyword>cutting off a finger</keyword>
+		<keyword>bounty killer</keyword>
+		<keyword>countdown</keyword>
+		<keyword>sushi chef</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>parlay</keyword>
+		<keyword>skirmish</keyword>
+		<keyword>antique sword</keyword>
+		<keyword>falling from a building</keyword>
+		<keyword>ballet school</keyword>
+		<keyword>calling in a favor</keyword>
+		<keyword>blood debt</keyword>
+		<keyword>bottled water</keyword>
+		<keyword>repentence</keyword>
+		<keyword>judo</keyword>
+		<keyword>medallion</keyword>
+		<keyword>amnesty</keyword>
+		<keyword>safe passage</keyword>
+		<keyword>stealing a motorcycle</keyword>
+		<keyword>service</keyword>
+		<keyword>clock</keyword>
+		<keyword>bloody fingerprint</keyword>
+		<keyword>thumb print</keyword>
+		<keyword>gold coin</keyword>
+		<keyword>underwater gun</keyword>
+		<keyword>shooting underwater</keyword>
+		<keyword>shaving head</keyword>
+		<keyword>dead body</keyword>
+		<keyword>safe haven</keyword>
+		<keyword>rebellious</keyword>
+		<keyword>anti establishment</keyword>
+		<keyword>bowery</keyword>
+		<keyword>spitting</keyword>
+		<keyword>fight in a library</keyword>
+		<keyword>the high table</keyword>
+		<keyword>shadowy cabal</keyword>
+		<keyword>dog shot with a gun</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>stabbed in the torso</keyword>
+		<keyword>shot in the torso</keyword>
+		<keyword>dead animal</keyword>
+		<keyword>dead dog</keyword>
+		<keyword>stitches</keyword>
+		<keyword>kick</keyword>
+		<keyword>woman stabbed</keyword>
+		<keyword>woman stabbed in the hand</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>muslim woman</keyword>
+		<keyword>muslim girl</keyword>
+		<keyword>hijab</keyword>
+		<keyword>shot in the eye</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>animal killing</keyword>
+		<keyword>ninja magic</keyword>
+		<keyword>dog died</keyword>
+	</keywords>
+	<directors>
+		<director> Chad Stahelski</director>
+	</directors>
+	<composers>
+		<composer> Tyler Bates</composer>
+		<composer> Joel J. Richard</composer>
+	</composers>
+	<producers>
+		<producer> Karim Abouobayd</producer>
+		<producer> Joby Harold</producer>
+		<producer> Basil Iwanyk</producer>
+		<producer> Erica Lee</producer>
+		<producer> David Leitch</producer>
+		<producer> Jennifer Madeloff</producer>
+		<producer> Udi Nedivi</producer>
+		<producer> Guy Riedel</producer>
+		<producer> Steven P. Saeta</producer>
+		<producer> John R. Saunders</producer>
+		<producer> Chad Stahelski</producer>
+		<producer> Jeff G. Waxman</producer>
+	</producers>
+	<writers>
+		<writer> Derek Kolstad</writer>
+		<writer> Shay Hatten</writer>
+		<writer> Chris Collins</writer>
+		<writer> Marc Abrams</writer>
+		<writer> Derek Kolstad</writer>
+		<writer> Derek Kolstad</writer>
+	</writers>
+	<editors>
+		<editor> Evan Schiff</editor>
+	</editors>
+</doc>

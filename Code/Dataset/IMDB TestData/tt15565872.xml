@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<doc id="tt15565872">
+	<docid>tt15565872</docid>
+	<title>A Spy Among Friends</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDhlOWFiMGUtMWU1Zi00NGNjLWIzOTUtZjFmNTU5YTFjYzRlXkEyXkFqcGdeQXVyMTM5NDQ2NjMw._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">55</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Based on the New York Times best-selling book written by Ben Macintyre.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Guy Pearce</actor>
+			<role>Kim Philby</role>
+		</credit>
+		<credit>
+			<actor>Damian Lewis</actor>
+			<role>Nicholas Elliott</role>
+		</credit>
+		<credit>
+			<actor>Anna Maxwell Martin</actor>
+			<role>Lily Thomas</role>
+		</credit>
+		<credit>
+			<actor>Adrian Edmondson</actor>
+			<role>Sir Roger Hollis</role>
+		</credit>
+		<credit>
+			<actor>Stephen Kunken</actor>
+			<role>James Jesus Angleton</role>
+		</credit>
+		<credit>
+			<actor>Monika Gossmann</actor>
+			<role>Galina</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Rowe</actor>
+			<role>Sir Anthony Blunt</role>
+		</credit>
+		<credit>
+			<actor>Lucy Russell</actor>
+			<role>Jane Sissmore</role>
+		</credit>
+		<credit>
+			<actor>Lucy Akhurst</actor>
+			<role>Elizabeth Elliott</role>
+		</credit>
+		<credit>
+			<actor>Puiu Mircea Lascus</actor>
+			<role>Russian Drunk</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Marsala</actor>
+			<role>Iris</role>
+		</credit>
+		<credit>
+			<actor>Alexander Terentyev</actor>
+			<role>Orchis</role>
+		</credit>
+		<credit>
+			<actor>Anastasia Hille</actor>
+			<role>Flora Solomon</role>
+		</credit>
+		<credit>
+			<actor>Karel Roden</actor>
+			<role>Col. Sergei Brontov</role>
+		</credit>
+		<credit>
+			<actor>Gershwyn Eustache Jnr</actor>
+			<role>Dr Robert Thomas</role>
+		</credit>
+		<credit>
+			<actor>Gilly Gilchrist</actor>
+			<role>MI5 Plumber</role>
+		</credit>
+		<credit>
+			<actor>Alex Price</actor>
+			<role>Watcher</role>
+		</credit>
+		<credit>
+			<actor>Steven Elder</actor>
+			<role>Tim Milne</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">October 7 2022</releasedate>
+		<releasedate country="Australia">December 8 2022</releasedate>
+		<releasedate country="France">December 8 2022</releasedate>
+		<releasedate country="United Kingdom">December 8 2022</releasedate>
+		<releasedate country="United States">December 8 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">18+</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>espionage</keyword>
+		<keyword>british intelligence officer and kgb double agent</keyword>
+		<keyword>british intelligence officer</keyword>
+		<keyword>british intelligence</keyword>
+		<keyword>intelligence officer</keyword>
+		<keyword>treasonous british intelligence officer</keyword>
+		<keyword>treason</keyword>
+		<keyword>mi5 investigator</keyword>
+		<keyword>mi5</keyword>
+	</keywords>
+	<directors>
+		<director> Nick Murphy</director>
+	</directors>
+	<composers>
+		<composer> Dustin O'Halloran</composer>
+	</composers>
+	<producers>
+		<producer> Bob Bookman</producer>
+		<producer> Alexander Cary</producer>
+		<producer> Chris Clough</producer>
+		<producer> Katrine Dudley</producer>
+		<producer> Alan Gasmer</producer>
+		<producer> Peter Jaysen</producer>
+		<producer> Damian Lewis</producer>
+		<producer> Ben Macintyre</producer>
+		<producer> Nick Murphy</producer>
+		<producer> David E. O'Brien</producer>
+		<producer> David Packham</producer>
+		<producer> Chrissy Skinns</producer>
+		<producer> Patrick Spence</producer>
+		<producer> Ionut Mihalcea</producer>
+	</producers>
+	<writers>
+		<writer> Alexander Cary</writer>
+		<writer> Alexander Cary</writer>
+		<writer> Ben Macintyre</writer>
+	</writers>
+	<editors>
+		<editor> Matthew Gray</editor>
+		<editor> Edel McDonnell</editor>
+	</editors>
+</doc>

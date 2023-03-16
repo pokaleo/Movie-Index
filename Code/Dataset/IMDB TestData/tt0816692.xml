@@ -1,0 +1,455 @@
+<?xml version="1.0" ?>
+<doc id="tt0816692">
+	<docid>tt0816692</docid>
+	<title>Interstellar</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">169</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Matthew McConaughey</actor>
+			<role>Cooper</role>
+		</credit>
+		<credit>
+			<actor>Anne Hathaway</actor>
+			<role>Brand</role>
+		</credit>
+		<credit>
+			<actor>Jessica Chastain</actor>
+			<role>Murph</role>
+		</credit>
+		<credit>
+			<actor>Mackenzie Foy</actor>
+			<role>Murph (10 Yrs.)</role>
+		</credit>
+		<credit>
+			<actor>Ellen Burstyn</actor>
+			<role>Murph (Older)</role>
+		</credit>
+		<credit>
+			<actor>John Lithgow</actor>
+			<role>Donald</role>
+		</credit>
+		<credit>
+			<actor>Timothée Chalamet</actor>
+			<role>Tom (15 Yrs.)</role>
+		</credit>
+		<credit>
+			<actor>David Oyelowo</actor>
+			<role>School Principal</role>
+		</credit>
+		<credit>
+			<actor>Collette Wolfe</actor>
+			<role>Ms. Hanley</role>
+		</credit>
+		<credit>
+			<actor>Francis X. McCarthy</actor>
+			<role>Boots</role>
+		</credit>
+		<credit>
+			<actor>Bill Irwin</actor>
+			<role>TARS</role>
+		</credit>
+		<credit>
+			<actor>Andrew Borba</actor>
+			<role>Smith</role>
+		</credit>
+		<credit>
+			<actor>Wes Bentley</actor>
+			<role>Doyle</role>
+		</credit>
+		<credit>
+			<actor>William Devane</actor>
+			<role>Williams</role>
+		</credit>
+		<credit>
+			<actor>Michael Caine</actor>
+			<role>Professor Brand</role>
+		</credit>
+		<credit>
+			<actor>David Gyasi</actor>
+			<role>Romilly</role>
+		</credit>
+		<credit>
+			<actor>Josh Stewart</actor>
+			<role>CASE</role>
+		</credit>
+		<credit>
+			<actor>Casey Affleck</actor>
+			<role>Tom</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 26 2014</releasedate>
+		<releasedate country="United Kingdom">October 29 2014</releasedate>
+		<releasedate country="Russia">October 29 2014</releasedate>
+		<releasedate country="France">October 31 2014</releasedate>
+		<releasedate country="United States">November 3 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">Not Rated</certificate>
+		<certificate country="Egypt">13+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">R</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">G</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Romania">A.G.</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Saudi Arabia">G</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>astronaut</keyword>
+		<keyword>saving the world</keyword>
+		<keyword>space travel</keyword>
+		<keyword>wormhole</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>gravity</keyword>
+		<keyword>nasa</keyword>
+		<keyword>relativity</keyword>
+		<keyword>time paradox</keyword>
+		<keyword>famine</keyword>
+		<keyword>outer space</keyword>
+		<keyword>black hole</keyword>
+		<keyword>event horizon</keyword>
+		<keyword>race against time</keyword>
+		<keyword>single parent</keyword>
+		<keyword>morse code</keyword>
+		<keyword>space time</keyword>
+		<keyword>dust storm</keyword>
+		<keyword>giant wave</keyword>
+		<keyword>love</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>scientist</keyword>
+		<keyword>physicist</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>space shuttle</keyword>
+		<keyword>space station</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>dust</keyword>
+		<keyword>set in future</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>alternate dimension</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>time travel</keyword>
+		<keyword>single father</keyword>
+		<keyword>planet</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>futuristic</keyword>
+		<keyword>interstellar travel</keyword>
+		<keyword>water planet</keyword>
+		<keyword>zero gravity</keyword>
+		<keyword>tidal wave</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>space exploration</keyword>
+		<keyword>robot</keyword>
+		<keyword>bookcase</keyword>
+		<keyword>bookshelf</keyword>
+		<keyword>reference to moon landing conspiracy</keyword>
+		<keyword>farmer</keyword>
+		<keyword>widower</keyword>
+		<keyword>drone</keyword>
+		<keyword>time</keyword>
+		<keyword>mission</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>helmet</keyword>
+		<keyword>ice</keyword>
+		<keyword>survival</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>brawl</keyword>
+		<keyword>suspense</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>rescue</keyword>
+		<keyword>video message</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>bootstrap paradox</keyword>
+		<keyword>book</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>rocket</keyword>
+		<keyword>courage</keyword>
+		<keyword>hope</keyword>
+		<keyword>time dilatation</keyword>
+		<keyword>expedition</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>dust cloud</keyword>
+		<keyword>reference to dylan thomas</keyword>
+		<keyword>baseball game</keyword>
+		<keyword>lung disease</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>one word title</keyword>
+		<keyword>crop failure</keyword>
+		<keyword>binary code</keyword>
+		<keyword>time dilation</keyword>
+		<keyword>reference to murphy's law</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>epic</keyword>
+		<keyword>farm</keyword>
+		<keyword>professor</keyword>
+		<keyword>ambush</keyword>
+		<keyword>montage</keyword>
+		<keyword>melodrama</keyword>
+		<keyword>fight</keyword>
+		<keyword>desperation</keyword>
+		<keyword>pilot</keyword>
+		<keyword>flood</keyword>
+		<keyword>water</keyword>
+		<keyword>drowning</keyword>
+		<keyword>corpse</keyword>
+		<keyword>flashback</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>genetic ark</keyword>
+		<keyword>food</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>glacier</keyword>
+		<keyword>mountain</keyword>
+		<keyword>beer</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>destiny</keyword>
+		<keyword>birthday</keyword>
+		<keyword>parallel dimension</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>coughing</keyword>
+		<keyword>school</keyword>
+		<keyword>crying</keyword>
+		<keyword>farming</keyword>
+		<keyword>rocket launch</keyword>
+		<keyword>top secret</keyword>
+		<keyword>grandfather granddaughter relationship</keyword>
+		<keyword>floating in space</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>astrophysics</keyword>
+		<keyword>gravitational pull</keyword>
+		<keyword>cult film</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>70mm film</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>spacesuit</keyword>
+		<keyword>alien world</keyword>
+		<keyword>deathbed confession</keyword>
+		<keyword>science</keyword>
+		<keyword>written by director</keyword>
+		<keyword>corn</keyword>
+		<keyword>imax</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>fire</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>baseball</keyword>
+		<keyword>farmhouse</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>cryostasis</keyword>
+		<keyword>escape</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>original story</keyword>
+		<keyword>wrench</keyword>
+		<keyword>future</keyword>
+		<keyword>engineer</keyword>
+		<keyword>galaxy</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>food shortage</keyword>
+		<keyword>american midwest</keyword>
+		<keyword>in medias res</keyword>
+		<keyword>future shock</keyword>
+		<keyword>asphyxiation</keyword>
+		<keyword>snow</keyword>
+		<keyword>ex pilot</keyword>
+		<keyword>chase</keyword>
+		<keyword>tesseract</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>cryogenics</keyword>
+		<keyword>school principal</keyword>
+		<keyword>alien planet</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>saturn the planet</keyword>
+		<keyword>helmet camera</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>sphere</keyword>
+		<keyword>love connection</keyword>
+		<keyword>snowy planet</keyword>
+		<keyword>reference to apollo mission</keyword>
+		<keyword>american flag</keyword>
+		<keyword>double cross</keyword>
+		<keyword>deception</keyword>
+		<keyword>schoolteacher</keyword>
+		<keyword>space habitat</keyword>
+		<keyword>dimension</keyword>
+		<keyword>telemetry</keyword>
+		<keyword>cryopreservation</keyword>
+		<keyword>combine harvester</keyword>
+		<keyword>quantum physics</keyword>
+		<keyword>clock</keyword>
+		<keyword>organ</keyword>
+		<keyword>toy</keyword>
+		<keyword>strings</keyword>
+		<keyword>teenager</keyword>
+		<keyword>dying</keyword>
+		<keyword>ocean</keyword>
+		<keyword>waves</keyword>
+		<keyword>bed</keyword>
+		<keyword>bending spacetime</keyword>
+		<keyword>paper</keyword>
+		<keyword>wormhole explained by folding paper</keyword>
+		<keyword>ice planets</keyword>
+		<keyword>time traveler</keyword>
+		<keyword>male time traveler</keyword>
+		<keyword>female time traveler</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>time loop</keyword>
+		<keyword>backward time travel</keyword>
+		<keyword>forward time travel</keyword>
+		<keyword>writer director producer</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>21st century</keyword>
+		<keyword>epic adventure</keyword>
+		<keyword>epic sci fi</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>humanity in jeopardy</keyword>
+		<keyword>famous score</keyword>
+		<keyword>headbutt</keyword>
+		<keyword>plot twist</keyword>
+		<keyword>babe scientist</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>death of father</keyword>
+		<keyword>popcorn</keyword>
+		<keyword>embryo</keyword>
+		<keyword>escape pod</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>drawing</keyword>
+		<keyword>cryosleep</keyword>
+		<keyword>death</keyword>
+		<keyword>disaster</keyword>
+		<keyword>flare</keyword>
+		<keyword>environmental damage</keyword>
+		<keyword>colorado</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>kubrickian</keyword>
+		<keyword>music score features piano</keyword>
+		<keyword>orchestral music score</keyword>
+		<keyword>bechdel test failed</keyword>
+		<keyword>beating</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>teacher</keyword>
+		<keyword>school bus</keyword>
+		<keyword>crying man</keyword>
+		<keyword>desert</keyword>
+		<keyword>truck</keyword>
+		<keyword>bomb</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>hospital</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>near future</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>reference to isaac newton</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>biologist</keyword>
+	</keywords>
+	<directors>
+		<director> Christopher Nolan</director>
+	</directors>
+	<composers>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> Kaari Autry</producer>
+		<producer> Jenny Basen</producer>
+		<producer> Jill Christensen</producer>
+		<producer> Stacey Douglas</producer>
+		<producer> Stephanie Fraser</producer>
+		<producer> Kim Goddard-Rains</producer>
+		<producer> Jordan Goldberg</producer>
+		<producer> Harrison Goldstein</producer>
+		<producer> Árni Björn Helgason</producer>
+		<producer> Jake Myers</producer>
+		<producer> Christopher Nolan</producer>
+		<producer> Lynda Obst</producer>
+		<producer> Graeme Puttock</producer>
+		<producer> Debbie Schwab</producer>
+		<producer> Brock Skretting</producer>
+		<producer> Inga Björk Sólnes</producer>
+		<producer> Emma Thomas</producer>
+		<producer> Gudlaug O. Thorisdottir</producer>
+		<producer> Kip Thorne</producer>
+		<producer> Thomas Tull</producer>
+	</producers>
+	<writers>
+		<writer> Jonathan Nolan</writer>
+		<writer> Christopher Nolan</writer>
+	</writers>
+	<editors>
+		<editor> Lee Smith</editor>
+	</editors>
+</doc>

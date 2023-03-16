@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<doc id="tt16098700">
+	<docid>tt16098700</docid>
+	<title>Fire Country</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTBkZjVlNDItZTM3Mi00MzU2LTk5YzItYjE2MmMzMGVjZDRiXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">44</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A young convict joins a firefighting program looking for redemption and a shortened prison sentence. He and other inmates work alongside elite firefighters to extinguish massive blazes across the region.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Max Thieriot</actor>
+			<role>Bode Donovan</role>
+		</credit>
+		<credit>
+			<actor>Kevin Alejandro</actor>
+			<role>Manny Perez</role>
+		</credit>
+		<credit>
+			<actor>Jordan Calloway</actor>
+			<role>Jake Crawford</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Arcila</actor>
+			<role>Gabriela Perez</role>
+		</credit>
+		<credit>
+			<actor>Jules Latimer</actor>
+			<role>Eve Edwards</role>
+		</credit>
+		<credit>
+			<actor>Diane Farr</actor>
+			<role>Sharon Leone</role>
+		</credit>
+		<credit>
+			<actor>Billy Burke</actor>
+			<role>Vince Leone</role>
+		</credit>
+		<credit>
+			<actor>W. Tré Davis</actor>
+			<role>Freddy Mills</role>
+		</credit>
+		<credit>
+			<actor>Fiona Rene</actor>
+			<role>Rebecca Lee</role>
+		</credit>
+		<credit>
+			<actor>Zach Tinker</actor>
+			<role>Collin O'Reilly</role>
+		</credit>
+		<credit>
+			<actor>Michael Trucco</actor>
+			<role>Luke Leone</role>
+		</credit>
+		<credit>
+			<actor>Tom Pickett</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Sabina Gadecki</actor>
+			<role>Cara</role>
+		</credit>
+		<credit>
+			<actor>Kaylah Zander</actor>
+			<role>Aydan Sato</role>
+		</credit>
+		<credit>
+			<actor>Mark Krysko</actor>
+			<role>Lonnegan</role>
+		</credit>
+		<credit>
+			<actor>Jade Pettyjohn</actor>
+			<role>Riley Leone</role>
+		</credit>
+		<credit>
+			<actor>Karen LeBlanc</actor>
+			<role>Dr. Lilly Crawford</role>
+		</credit>
+		<credit>
+			<actor>Ty Olsson</actor>
+			<role>Cory Walters</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">October 7 2022</releasedate>
+		<releasedate country="France">October 7 2022</releasedate>
+		<releasedate country="Mexico">October 7 2022</releasedate>
+		<releasedate country="United States">October 7 2022</releasedate>
+		<releasedate country="Australia">October 9 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>northern california</keyword>
+		<keyword>humboldt county california</keyword>
+		<keyword>wildfire</keyword>
+		<keyword>california department of corrections</keyword>
+		<keyword>prison</keyword>
+		<keyword>california wildfire &amp; forest resilience task force</keyword>
+		<keyword>cal fire</keyword>
+		<keyword>department of forestry and fire protection</keyword>
+		<keyword>firefighter team</keyword>
+	</keywords>
+	<directors>
+		<director> Gonzalo Amat</director>
+		<director> Dermott Downs</director>
+		<director> Eagle Egilsson</director>
+		<director> Kevin Alejandro</director>
+		<director> Jacquie Gould</director>
+		<director> Antonio Negret</director>
+		<director> James Strong</director>
+		<director> Erica Watson</director>
+		<director> Chi Yoon Chung</director>
+		<director> Anton Cropper</director>
+		<director> Marie Jamora</director>
+		<director> Kantu Lentz</director>
+		<director> Laura Nisbet-Peters</director>
+		<director> Bill Purple</director>
+		<director> Sarah Wayne Callies</director>
+	</directors>
+	<composers>
+		<composer> Fil Eisler</composer>
+	</composers>
+	<producers>
+		<producer> Natalia Fernandez</producer>
+		<producer> Jerry Bruckheimer</producer>
+		<producer> A.J. Buckley</producer>
+		<producer> Tony Phelan</producer>
+		<producer> Joan Rater</producer>
+		<producer> KristieAnne Reed</producer>
+		<producer> Val Stefoff</producer>
+		<producer> Max Thieriot</producer>
+		<producer> Ted Babcock</producer>
+		<producer> Dermott Downs</producer>
+		<producer> Barbara Friend</producer>
+		<producer> David Gould</producer>
+		<producer> Justin Hood</producer>
+		<producer> Tia Napolitano</producer>
+		<producer> Dwain Worrell</producer>
+		<producer> Tonya Kong</producer>
+		<producer> Julia Fontana</producer>
+		<producer> David Grae</producer>
+		<producer> Tamara Isaac</producer>
+		<producer> Nathan Lee</producer>
+		<producer> Jonathan Littman</producer>
+		<producer> James Strong</producer>
+	</producers>
+	<writers>
+		<writer> Tony Phelan</writer>
+		<writer> Tony Phelan</writer>
+		<writer> Tony Phelan</writer>
+		<writer> Tony Phelan</writer>
+		<writer> Joan Rater</writer>
+		<writer> Joan Rater</writer>
+		<writer> Joan Rater</writer>
+		<writer> Joan Rater</writer>
+		<writer> Max Thieriot</writer>
+		<writer> Max Thieriot</writer>
+		<writer> Sara Casey</writer>
+		<writer> Sara Casey</writer>
+		<writer> Manuel Herrera</writer>
+		<writer> Manuel Herrera</writer>
+		<writer> Riley Perez</writer>
+		<writer> Tia Napolitano</writer>
+		<writer> Natalia Fernandez</writer>
+		<writer> David Gould</writer>
+		<writer> Barbara Friend</writer>
+		<writer> Dwain Worrell</writer>
+		<writer> Julia Fontana</writer>
+		<writer> Tonya Kong</writer>
+	</writers>
+	<editors>
+		<editor> Roderick Davis</editor>
+		<editor> Meridith Sommers</editor>
+		<editor> Amy McGrath</editor>
+		<editor> Ray Daniels III</editor>
+		<editor> Jason Hellmann</editor>
+	</editors>
+</doc>

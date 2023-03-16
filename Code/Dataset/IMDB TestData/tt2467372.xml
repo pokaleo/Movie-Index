@@ -1,0 +1,452 @@
+<?xml version="1.0" ?>
+<doc id="tt2467372">
+	<docid>tt2467372</docid>
+	<title>Brooklyn Nine-Nine</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">22</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Andy Samberg</actor>
+			<role>Jake Peralta</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Beatriz</actor>
+			<role>Rosa Diaz</role>
+		</credit>
+		<credit>
+			<actor>Terry Crews</actor>
+			<role>Terry Jeffords</role>
+		</credit>
+		<credit>
+			<actor>Melissa Fumero</actor>
+			<role>Amy Santiago</role>
+		</credit>
+		<credit>
+			<actor>Joe Lo Truglio</actor>
+			<role>Charles Boyle</role>
+		</credit>
+		<credit>
+			<actor>Andre Braugher</actor>
+			<role>Raymond Holt</role>
+		</credit>
+		<credit>
+			<actor>Dirk Blocker</actor>
+			<role>Hitchcock</role>
+		</credit>
+		<credit>
+			<actor>Joel McKinnon Miller</actor>
+			<role>Scully</role>
+		</credit>
+		<credit>
+			<actor>Chelsea Peretti</actor>
+			<role>Gina Linetti</role>
+		</credit>
+		<credit>
+			<actor>Marc Evan Jackson</actor>
+			<role>Kevin Cozner</role>
+		</credit>
+		<credit>
+			<actor>Kyra Sedgwick</actor>
+			<role>Madeline Wuntch</role>
+		</credit>
+		<credit>
+			<actor>Jason Mantzoukas</actor>
+			<role>Adrian Pimento</role>
+		</credit>
+		<credit>
+			<actor>Craig Robinson</actor>
+			<role>Doug Judy</role>
+		</credit>
+		<credit>
+			<actor>Dean Winters</actor>
+			<role>Keith 'The Vulture' Pembroke</role>
+		</credit>
+		<credit>
+			<actor>Kyle Bornheimer</actor>
+			<role>Teddy Wells</role>
+		</credit>
+		<credit>
+			<actor>Winston Story</actor>
+			<role>Bill Hummertrout</role>
+		</credit>
+		<credit>
+			<actor>Nick Cannon</actor>
+			<role>Marcus</role>
+		</credit>
+		<credit>
+			<actor>Kevin Dorff</actor>
+			<role>Hank</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">September 17 2013</releasedate>
+		<releasedate country="Canada">September 17 2013</releasedate>
+		<releasedate country="Spain">September 17 2013</releasedate>
+		<releasedate country="Turkey">September 17 2013</releasedate>
+		<releasedate country="United States">September 17 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">TV-14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">13+</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="Finland">S</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-13</certificate>
+		<certificate country="Greece">K-8</certificate>
+		<certificate country="Hong Kong">13+</certificate>
+		<certificate country="India">13+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">TV-14</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+		<keyword>new york city</keyword>
+		<keyword>police detective</keyword>
+		<keyword>police captain</keyword>
+		<keyword>gay cop</keyword>
+		<keyword>gay character</keyword>
+		<keyword>gay african american</keyword>
+		<keyword>latina cop</keyword>
+		<keyword>foodie</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>man child</keyword>
+		<keyword>overachiever</keyword>
+		<keyword>administrator</keyword>
+		<keyword>plain clothes police officer</keyword>
+		<keyword>break room</keyword>
+		<keyword>mentor</keyword>
+		<keyword>boss employee relationship</keyword>
+		<keyword>best friend</keyword>
+		<keyword>male male friendship</keyword>
+		<keyword>tough female</keyword>
+		<keyword>cold open</keyword>
+		<keyword>sitcom</keyword>
+		<keyword>office romance</keyword>
+		<keyword>father figure</keyword>
+		<keyword>bullpen</keyword>
+		<keyword>holding cell</keyword>
+		<keyword>roof</keyword>
+		<keyword>evidence locker</keyword>
+		<keyword>suspenders</keyword>
+		<keyword>sensitive male</keyword>
+		<keyword>taking credit for another's work</keyword>
+		<keyword>briefing room</keyword>
+		<keyword>cop comedy</keyword>
+		<keyword>interrogation room</keyword>
+		<keyword>vulture</keyword>
+		<keyword>female cop</keyword>
+		<keyword>detective</keyword>
+		<keyword>law enforcement satire</keyword>
+		<keyword>satire</keyword>
+		<keyword>criminal</keyword>
+		<keyword>arrest</keyword>
+		<keyword>police precinct</keyword>
+		<keyword>solving crime</keyword>
+		<keyword>case</keyword>
+		<keyword>investigation</keyword>
+		<keyword>new york</keyword>
+		<keyword>brooklyn new york city</keyword>
+		<keyword>black cop</keyword>
+		<keyword>slob</keyword>
+		<keyword>yogurt</keyword>
+		<keyword>leather jacket</keyword>
+		<keyword>bar</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>borough name in series title</keyword>
+		<keyword>number in series title</keyword>
+		<keyword>punctuation in series title</keyword>
+		<keyword>male commanding officer</keyword>
+		<keyword>curse</keyword>
+		<keyword>male lead</keyword>
+		<keyword>white male lead in a diverse cast</keyword>
+		<keyword>male female cop partnership</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>police officer</keyword>
+		<keyword>criminal investigation</keyword>
+		<keyword>police procedural crime</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>2020s</keyword>
+		<keyword>gay</keyword>
+		<keyword>bisexual</keyword>
+		<keyword>bisexual woman</keyword>
+		<keyword>lgbt</keyword>
+		<keyword>workplace comedy</keyword>
+		<keyword>workplace</keyword>
+		<keyword>gay policeman</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>locker</keyword>
+		<keyword>mouse</keyword>
+		<keyword>throwing a cell phone</keyword>
+		<keyword>dropping a cellphone in a toilet</keyword>
+		<keyword>rabbit's foot</keyword>
+		<keyword>bad luck</keyword>
+		<keyword>unlucky</keyword>
+		<keyword>paperwork</keyword>
+		<keyword>fraud</keyword>
+	</keywords>
+	<directors>
+		<director> Michael McDonald</director>
+		<director> Claire Scanlon</director>
+		<director> Linda Mendoza</director>
+		<director> Dean Holland</director>
+		<director> Beth McCarthy-Miller</director>
+		<director> Victor Nelli Jr.</director>
+		<director> Craig Zisk</director>
+		<director> Rebecca Asher</director>
+		<director> Tristram Shapeero</director>
+		<director> Dan Goor</director>
+		<director> Cortney Carrillo</director>
+		<director> Eric Appel</director>
+		<director> Maggie Carey</director>
+		<director> Payman Benz</director>
+		<director> Matthew Nodella</director>
+		<director> Trent O'Donnell</director>
+		<director> Nisha Ganatra</director>
+		<director> Ryan Case</director>
+		<director> Alex Reid</director>
+		<director> Luke Del Tredici</director>
+		<director> Giovani Lampassi</director>
+		<director> Julie Anne Robinson</director>
+		<director> Akiva Schaffer</director>
+		<director> Max Winkler</director>
+		<director> Fred Goss</director>
+		<director> Ken Whittingham</director>
+		<director> Jamie Babbit</director>
+		<director> Michael Schur</director>
+		<director> Jaffar Mahmood</director>
+		<director> Jason Ensler</director>
+		<director> Peter Lauer</director>
+		<director> Phil Lord</director>
+		<director> Christopher Miller</director>
+		<director> Troy Miller</director>
+		<director> Jake Szymanski</director>
+		<director> Jorma Taccone</director>
+		<director> Michael Blieden</director>
+		<director> Michael Engler</director>
+		<director> Julian Farino</director>
+		<director> Tucker Gates</director>
+		<director> Jay Karas</director>
+		<director> Tim Kirkby</director>
+		<director> Phil Traill</director>
+		<director> Bruce McCulloch</director>
+		<director> Michael Spiller</director>
+		<director> Kat Coiro</director>
+		<director> Rebecca Addelman</director>
+		<director> Jennifer Arnold</director>
+		<director> Stephanie Beatriz</director>
+		<director> Melissa Fumero</director>
+		<director> Phil Augusta Jackson</director>
+		<director> Joe Lo Truglio</director>
+		<director> Neil Campbell</director>
+		<director> Kim O. Nguyen</director>
+		<director> Kyra Sedgwick</director>
+		<director> Thembi Banks</director>
+		<director> Kevin Bray</director>
+		<director> Daniella Eisman</director>
+		<director> Gail Mancuso</director>
+	</directors>
+	<composers>
+		<composer> Dan Marocco</composer>
+	</composers>
+	<producers>
+		<producer> Dan Goor</producer>
+		<producer> David Miner</producer>
+		<producer> Andy Samberg</producer>
+		<producer> Michael Schur</producer>
+		<producer> Matthew Nodella</producer>
+		<producer> Luke Del Tredici</producer>
+		<producer> Travis E. Gates</producer>
+		<producer> Marshall Boone</producer>
+		<producer> Richard H. Prince</producer>
+		<producer> Neil Campbell</producer>
+		<producer> Cortney Carrillo</producer>
+		<producer> Carol Kolb</producer>
+		<producer> Andrew Guest</producer>
+		<producer> Norm Hiscock</producer>
+		<producer> Laura McCreary</producer>
+		<producer> David Phillips</producer>
+		<producer> Justin Noble</producer>
+		<producer> Matt Murray</producer>
+		<producer> Phil Augusta Jackson</producer>
+		<producer> Prentice Penny</producer>
+		<producer> Matt Lawton</producer>
+		<producer> Lang Fisher</producer>
+		<producer> Brian Reich</producer>
+		<producer> Gabe Liedman</producer>
+		<producer> Erica Djafroodi</producer>
+		<producer> Jess Dweck</producer>
+		<producer> Andy Bobrow</producer>
+		<producer> Aeysha Carr</producer>
+		<producer> Vanessa Ramos</producer>
+		<producer> Craig Zisk</producer>
+		<producer> Van Robichaux</producer>
+		<producer> Evan Susser</producer>
+		<producer> Sierra Teller Ornelas</producer>
+		<producer> Lakshmi Sundaram</producer>
+		<producer> Maureen Dunn</producer>
+		<producer> Dewayne Perkins</producer>
+		<producer> Madeline Walter</producer>
+		<producer> Paul Welsh</producer>
+		<producer> Lamar Woods</producer>
+		<producer> Payman Benz</producer>
+		<producer> David Hyman</producer>
+		<producer> Phil Lord</producer>
+		<producer> Christopher Miller</producer>
+		<producer> Tom Ragazzo</producer>
+		<producer> Morgan Sackett</producer>
+	</producers>
+	<writers>
+		<writer> Dan Goor</writer>
+		<writer> Dan Goor</writer>
+		<writer> Michael Schur</writer>
+		<writer> Michael Schur</writer>
+		<writer> David Phillips</writer>
+		<writer> David Phillips</writer>
+		<writer> David Phillips</writer>
+		<writer> Justin Noble</writer>
+		<writer> Justin Noble</writer>
+		<writer> Justin Noble</writer>
+		<writer> Lakshmi Sundaram</writer>
+		<writer> Lakshmi Sundaram</writer>
+		<writer> Lakshmi Sundaram</writer>
+		<writer> Phil Augusta Jackson</writer>
+		<writer> Phil Augusta Jackson</writer>
+		<writer> Phil Augusta Jackson</writer>
+		<writer> Tricia McAlpin</writer>
+		<writer> Tricia McAlpin</writer>
+		<writer> Tricia McAlpin</writer>
+		<writer> Marcy Jarreau</writer>
+		<writer> Marcy Jarreau</writer>
+		<writer> Marcy Jarreau</writer>
+		<writer> Marcy Jarreau</writer>
+		<writer> Marcy Jarreau</writer>
+		<writer> Carly Hallam</writer>
+		<writer> Carly Hallam</writer>
+		<writer> Carly Hallam</writer>
+		<writer> Matt O'Brien</writer>
+		<writer> Matt O'Brien</writer>
+		<writer> Matt O'Brien</writer>
+		<writer> Gabe Liedman</writer>
+		<writer> Gabe Liedman</writer>
+		<writer> Jessica Polonsky</writer>
+		<writer> Jessica Polonsky</writer>
+		<writer> Vanessa Ramos</writer>
+		<writer> Vanessa Ramos</writer>
+		<writer> Gil Ozeri</writer>
+		<writer> Gil Ozeri</writer>
+		<writer> Luke Del Tredici</writer>
+		<writer> Van Robichaux</writer>
+		<writer> Van Robichaux</writer>
+		<writer> Evan Susser</writer>
+		<writer> Evan Susser</writer>
+		<writer> Dewayne Perkins</writer>
+		<writer> Dewayne Perkins</writer>
+		<writer> Jeff Topolski</writer>
+		<writer> Jeff Topolski</writer>
+		<writer> Jeff Topolski</writer>
+		<writer> Lesley Arfin</writer>
+		<writer> Lesley Arfin</writer>
+		<writer> Brigitte Muñoz-Liebowitz</writer>
+		<writer> Brigitte Muñoz-Liebowitz</writer>
+		<writer> Alexis Wilkinson</writer>
+		<writer> Alexis Wilkinson</writer>
+		<writer> Stephanie Amante-Ritter</writer>
+		<writer> Stephanie Amante-Ritter</writer>
+		<writer> April Quioh</writer>
+		<writer> April Quioh</writer>
+		<writer> Madeline Walter</writer>
+		<writer> Madeline Walter</writer>
+		<writer> Paul Welsh</writer>
+		<writer> Paul Welsh</writer>
+		<writer> Laura McCreary</writer>
+		<writer> Carol Kolb</writer>
+		<writer> Neil Campbell</writer>
+		<writer> Andrew Guest</writer>
+		<writer> Prentice Penny</writer>
+		<writer> Carl Tart</writer>
+		<writer> Norm Hiscock</writer>
+		<writer> Matt Lawton</writer>
+		<writer> Matt Murray</writer>
+		<writer> Andy Gosche</writer>
+		<writer> Lang Fisher</writer>
+		<writer> Brian Reich</writer>
+		<writer> Alison Agosti</writer>
+		<writer> Jess Dweck</writer>
+		<writer> Nick Perdue</writer>
+		<writer> Beau Rawlins</writer>
+		<writer> David Quandt</writer>
+		<writer> Kylie Condon</writer>
+		<writer> Andy Bobrow</writer>
+		<writer> Aeysha Carr</writer>
+		<writer> Audrey E. Goodman</writer>
+		<writer> Lamar Woods</writer>
+	</writers>
+	<editors>
+		<editor> Jason Gill</editor>
+		<editor> Cortney Carrillo</editor>
+		<editor> Sandra Montiel</editor>
+		<editor> Jeremy Reuben</editor>
+		<editor> Ryan Neatha Johnson</editor>
+		<editor> Ryan Case</editor>
+		<editor> Emily E. O'Brien</editor>
+	</editors>
+</doc>

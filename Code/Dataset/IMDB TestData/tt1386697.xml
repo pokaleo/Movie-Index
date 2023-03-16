@@ -1,0 +1,738 @@
+<?xml version="1.0" ?>
+<doc id="tt1386697">
+	<docid>tt1386697</docid>
+	<title>Suicide Squad</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">123</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Will Smith</actor>
+			<role>Deadshot</role>
+		</credit>
+		<credit>
+			<actor>Jared Leto</actor>
+			<role>The Joker</role>
+		</credit>
+		<credit>
+			<actor>Margot Robbie</actor>
+			<role>Harley Quinn</role>
+		</credit>
+		<credit>
+			<actor>Viola Davis</actor>
+			<role>Amanda Waller</role>
+		</credit>
+		<credit>
+			<actor>Jaime FitzSimons</actor>
+			<role>Sergeant Ames Bravo 14</role>
+		</credit>
+		<credit>
+			<actor>Ike Barinholtz</actor>
+			<role>Griggs</role>
+		</credit>
+		<credit>
+			<actor>Christopher Dyson</actor>
+			<role>Missing Hand Guard</role>
+		</credit>
+		<credit>
+			<actor>Bambadjan Bamba</actor>
+			<role>T-Shirt Vendor</role>
+		</credit>
+		<credit>
+			<actor>Ted Whittall</actor>
+			<role>Admiral Olsen</role>
+		</credit>
+		<credit>
+			<actor>David Harbour</actor>
+			<role>Dexter Tolliver</role>
+		</credit>
+		<credit>
+			<actor>Robin Atkin Downes</actor>
+			<role>Angelo</role>
+		</credit>
+		<credit>
+			<actor>Robert B. Kennedy</actor>
+			<role>U.S. Marshal</role>
+		</credit>
+		<credit>
+			<actor>Billy Otis</actor>
+			<role>Mafia Snitch</role>
+		</credit>
+		<credit>
+			<actor>Shailyn Pierre-Dixon</actor>
+			<role>Zoe</role>
+		</credit>
+		<credit>
+			<actor>James McGowan</actor>
+			<role>Panda Man</role>
+		</credit>
+		<credit>
+			<actor>Jim Parrack</actor>
+			<role>Frost</role>
+		</credit>
+		<credit>
+			<actor>Derek Perks</actor>
+			<role>Psych Patient</role>
+		</credit>
+		<credit>
+			<actor>Common</actor>
+			<role>Monster T</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 1 2016</releasedate>
+		<releasedate country="Belgium">August 3 2016</releasedate>
+		<releasedate country="Colombia">August 3 2016</releasedate>
+		<releasedate country="France">August 3 2016</releasedate>
+		<releasedate country="Indonesia">August 3 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="China">(Banned)</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on comic book</keyword>
+		<keyword>reference to superman</keyword>
+		<keyword>dc extended universe</keyword>
+		<keyword>mission</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>super villain</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>villain turns good</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>redemption</keyword>
+		<keyword>insanity</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>violence</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>secret mission</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>superhero</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>action girl</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>meta human</keyword>
+		<keyword>female samurai</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>female prisoner</keyword>
+		<keyword>abandoned building</keyword>
+		<keyword>street fight</keyword>
+		<keyword>female gunfighter</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>nanotechnology</keyword>
+		<keyword>sorceress</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>archeologist</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>machine pistol</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>mutation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>black ops</keyword>
+		<keyword>chaos</keyword>
+		<keyword>alliterative title</keyword>
+		<keyword>cannibal</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>government</keyword>
+		<keyword>tank top</keyword>
+		<keyword>unicorn stuffed animal</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>man hits a woman</keyword>
+		<keyword>man punches a woman</keyword>
+		<keyword>man wears a tank top</keyword>
+		<keyword>joker character</keyword>
+		<keyword>deadshot character</keyword>
+		<keyword>batman character</keyword>
+		<keyword>bruce wayne character</keyword>
+		<keyword>harley quinn character</keyword>
+		<keyword>captain boomerang character</keyword>
+		<keyword>killer croc character</keyword>
+		<keyword>katana character</keyword>
+		<keyword>the flash character</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>black woman</keyword>
+		<keyword>amphibian</keyword>
+		<keyword>japanese woman</keyword>
+		<keyword>all star cast</keyword>
+		<keyword>controversy</keyword>
+		<keyword>open ended</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>altered version of warner bros. logo</keyword>
+		<keyword>female fbi agent</keyword>
+		<keyword>female fbi agent shot</keyword>
+		<keyword>female fbi agent wears raid jacket</keyword>
+		<keyword>police</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>female uniformed police officer</keyword>
+		<keyword>female police officer shot</keyword>
+		<keyword>tactical team</keyword>
+		<keyword>female tactical team member</keyword>
+		<keyword>female prison guard</keyword>
+		<keyword>female prison warden</keyword>
+		<keyword>uniform windbreaker raid jacket</keyword>
+		<keyword>woman wears a uniform</keyword>
+		<keyword>black uniform</keyword>
+		<keyword>military uniform</keyword>
+		<keyword>woman wears gloves</keyword>
+		<keyword>woman wears a helmet</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>police officer</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>panda costume</keyword>
+		<keyword>batman costume</keyword>
+		<keyword>nanite</keyword>
+		<keyword>suicide mission</keyword>
+		<keyword>belle reve prison</keyword>
+		<keyword>team up</keyword>
+		<keyword>motley crew</keyword>
+		<keyword>villain team up</keyword>
+		<keyword>antihero</keyword>
+		<keyword>marksman</keyword>
+		<keyword>trigonometry</keyword>
+		<keyword>special ops</keyword>
+		<keyword>military secret</keyword>
+		<keyword>the pentagon</keyword>
+		<keyword>solitary confinement</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>electroshock</keyword>
+		<keyword>shock therapy</keyword>
+		<keyword>chemical factory</keyword>
+		<keyword>mouth to mouth resuscitation</keyword>
+		<keyword>archaeologist</keyword>
+		<keyword>reptile man</keyword>
+		<keyword>reptilian</keyword>
+		<keyword>tattooed face</keyword>
+		<keyword>illusion</keyword>
+		<keyword>espresso machine</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>rescue from drowning</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>team action</keyword>
+		<keyword>combat helmet</keyword>
+		<keyword>tactical gloves</keyword>
+		<keyword>tactical belt</keyword>
+		<keyword>tactical uniform</keyword>
+		<keyword>military boots</keyword>
+		<keyword>tactical boots</keyword>
+		<keyword>leg holster</keyword>
+		<keyword>tactical vest</keyword>
+		<keyword>uniform tactical vest</keyword>
+		<keyword>female swat team officer</keyword>
+		<keyword>male swat team officer</keyword>
+		<keyword>yakuza</keyword>
+		<keyword>3d</keyword>
+		<keyword>fbi windbreaker jacket</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>bomb</keyword>
+		<keyword>weapon</keyword>
+		<keyword>love</keyword>
+		<keyword>army</keyword>
+		<keyword>mutant</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>death</keyword>
+		<keyword>captain</keyword>
+		<keyword>colonel</keyword>
+		<keyword>criminal</keyword>
+		<keyword>boomerang</keyword>
+		<keyword>monster</keyword>
+		<keyword>thief</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>witch</keyword>
+		<keyword>geometry homework</keyword>
+		<keyword>heart cut out</keyword>
+		<keyword>caught in the rain</keyword>
+		<keyword>uh 60 blackhawk helicopter</keyword>
+		<keyword>tasered</keyword>
+		<keyword>diving into a river</keyword>
+		<keyword>house fire</keyword>
+		<keyword>ch 47 chinook helicopter</keyword>
+		<keyword>ricochet</keyword>
+		<keyword>costumed criminal</keyword>
+		<keyword>flyover</keyword>
+		<keyword>flag draped coffin</keyword>
+		<keyword>f 18 hornet</keyword>
+		<keyword>injection in neck</keyword>
+		<keyword>locked in a cage</keyword>
+		<keyword>multiple versions</keyword>
+		<keyword>alternate version</keyword>
+		<keyword>director cameo</keyword>
+		<keyword>elevator</keyword>
+		<keyword>samurai</keyword>
+		<keyword>cameo</keyword>
+		<keyword>female agent</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>female archeologist</keyword>
+		<keyword>stripper</keyword>
+		<keyword>jungle</keyword>
+		<keyword>evil laughter</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>escape from jail</keyword>
+		<keyword>shooting range</keyword>
+		<keyword>escaped psychiatric patient</keyword>
+		<keyword>van</keyword>
+		<keyword>rescue attempt</keyword>
+		<keyword>tragic hero</keyword>
+		<keyword>latino american</keyword>
+		<keyword>latino</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>beard</keyword>
+		<keyword>top secret</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>pigtails</keyword>
+		<keyword>distrust</keyword>
+		<keyword>showdown</keyword>
+		<keyword>explosive</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>military</keyword>
+		<keyword>photograph</keyword>
+		<keyword>sadism</keyword>
+		<keyword>sadist</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>final battle</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>female convict</keyword>
+		<keyword>brutality</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>fear</keyword>
+		<keyword>fight</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>battle</keyword>
+		<keyword>diver</keyword>
+		<keyword>behind enemy lines</keyword>
+		<keyword>machete</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>navy sea air and land force</keyword>
+		<keyword>lieutenant</keyword>
+		<keyword>department store</keyword>
+		<keyword>rampage</keyword>
+		<keyword>cover up</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>cuckolding</keyword>
+		<keyword>diving</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>scar</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>insane asylum</keyword>
+		<keyword>evil clown</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>armory</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>sergeant</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>necklace</keyword>
+		<keyword>female bodyguard</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>map</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>immortality</keyword>
+		<keyword>heist</keyword>
+		<keyword>destruction</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>hearing voices</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>swordswoman</keyword>
+		<keyword>helicopter shot down</keyword>
+		<keyword>missile</keyword>
+		<keyword>hanging upside down</keyword>
+		<keyword>chemical vat</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>hostile takeover</keyword>
+		<keyword>armored car</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>catfight</keyword>
+		<keyword>domino mask</keyword>
+		<keyword>gold tooth</keyword>
+		<keyword>security camera</keyword>
+		<keyword>skull</keyword>
+		<keyword>taser</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>power outage</keyword>
+		<keyword>head butt</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>flare</keyword>
+		<keyword>gambling debt</keyword>
+		<keyword>hit by a train</keyword>
+		<keyword>torture</keyword>
+		<keyword>injection</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>scientist</keyword>
+		<keyword>gang</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>commando</keyword>
+		<keyword>magic</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>split personality</keyword>
+		<keyword>letter</keyword>
+		<keyword>corpse</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security guard</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>creature</keyword>
+		<keyword>telepathy</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>mind control</keyword>
+		<keyword>mind reading</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>tentacle</keyword>
+		<keyword>hand through chest</keyword>
+		<keyword>cave</keyword>
+		<keyword>massacre</keyword>
+		<keyword>ambush</keyword>
+		<keyword>survival</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>dark past</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>masked man</keyword>
+		<keyword>night vision</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>thrown through a windshield</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car chase</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>severed head</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>flood</keyword>
+		<keyword>sewer</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>mugshot</keyword>
+		<keyword>government agent</keyword>
+		<keyword>green hair</keyword>
+		<keyword>subway</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>one against many</keyword>
+		<keyword>double cross</keyword>
+		<keyword>secret government organization</keyword>
+		<keyword>special forces</keyword>
+		<keyword>soldier</keyword>
+		<keyword>swat team</keyword>
+		<keyword>impersonating a police officer</keyword>
+		<keyword>alley</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>villainess</keyword>
+		<keyword>death of family</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>race against time</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>aircraft carrier</keyword>
+		<keyword>satellite</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>abandoned city</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>airplane</keyword>
+		<keyword>tank</keyword>
+		<keyword>beam of light</keyword>
+		<keyword>lightning</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>japanese</keyword>
+		<keyword>batmobile</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>diamond heist</keyword>
+		<keyword>diamond</keyword>
+		<keyword>australian</keyword>
+		<keyword>contract killer</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>female psychopath</keyword>
+		<keyword>female criminal</keyword>
+		<keyword>target practice</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>montage</keyword>
+		<keyword>implant</keyword>
+		<keyword>psychological manipulation</keyword>
+		<keyword>maximum security prison</keyword>
+		<keyword>human in a cage</keyword>
+		<keyword>gotham city</keyword>
+		<keyword>christmas</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>sniper</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>henchman</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>uzi</keyword>
+		<keyword>silencer</keyword>
+		<keyword>revolver</keyword>
+		<keyword>mallet</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>latin american</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>airport</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>head cut in half</keyword>
+		<keyword>tattoo on face</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>stabbed in the heart</keyword>
+		<keyword>heart in hand</keyword>
+		<keyword>heart ripped out</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>murder of a family</keyword>
+		<keyword>revenge</keyword>
+		<keyword>convict</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>explosion</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>transformation</keyword>
+		<keyword>possession</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>gangster</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>impalement</keyword>
+		<keyword>shootout</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>head blown off</keyword>
+		<keyword>head bashed in</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>assassin</keyword>
+		<keyword>hitman</keyword>
+		<keyword>beating</keyword>
+		<keyword>hit in the stomach</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>arkham asylum</keyword>
+		<keyword>crocodile</keyword>
+		<keyword>pentagon</keyword>
+		<keyword>louisiana</keyword>
+		<keyword>murder</keyword>
+		<keyword>knife</keyword>
+		<keyword>arrest</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>pyrokinesis</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>robbery</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>killed in an elevator</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>target shooting</keyword>
+		<keyword>prison</keyword>
+		<keyword>two word title</keyword>
+		<keyword>sword</keyword>
+		<keyword>fire</keyword>
+		<keyword>flashback</keyword>
+		<keyword>car in water</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>subway station</keyword>
+		<keyword>reference to nelson mandela</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>shoplifting</keyword>
+		<keyword>breaking a store window</keyword>
+		<keyword>zippo lighter</keyword>
+		<keyword>african american</keyword>
+		<keyword>katana sword</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>admiral</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>casino</keyword>
+		<keyword>hotel</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>2010s</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>snow</keyword>
+		<keyword>warrior</keyword>
+		<keyword>action hero</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>written by director</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>bar</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> David Ayer</director>
+	</directors>
+	<composers>
+		<composer> Steven Price</composer>
+	</composers>
+	<producers>
+		<producer> Bruce Franklin</producer>
+		<producer> Andy Horwitz</producer>
+		<producer> Geoff Johns</producer>
+		<producer> Steven Mnuchin</producer>
+		<producer> Alex Ott</producer>
+		<producer> Charles Roven</producer>
+		<producer> Deborah Snyder</producer>
+		<producer> Zack Snyder</producer>
+		<producer> Richard Suckle</producer>
+		<producer> Colin Wilson</producer>
+	</producers>
+	<writers>
+		<writer> David Ayer</writer>
+		<writer> John Ostrander</writer>
+	</writers>
+	<editors>
+		<editor> John Gilroy</editor>
+	</editors>
+</doc>

@@ -1,0 +1,519 @@
+<?xml version="1.0" ?>
+<doc id="tt6105098">
+	<docid>tt6105098</docid>
+	<title>The Lion King</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDBiYTA4NzQtZTU4OC00N2IwLTg0NDAtYzc1YzNkYTMzNWFmXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">118</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Donald Glover</actor>
+			<role>Simba</role>
+		</credit>
+		<credit>
+			<actor>Beyoncé</actor>
+			<role>Nala</role>
+		</credit>
+		<credit>
+			<actor>Seth Rogen</actor>
+			<role>Pumbaa</role>
+		</credit>
+		<credit>
+			<actor>Chiwetel Ejiofor</actor>
+			<role>Scar</role>
+		</credit>
+		<credit>
+			<actor>John Oliver</actor>
+			<role>Zazu</role>
+		</credit>
+		<credit>
+			<actor>James Earl Jones</actor>
+			<role>Mufasa</role>
+		</credit>
+		<credit>
+			<actor>John Kani</actor>
+			<role>Rafiki</role>
+		</credit>
+		<credit>
+			<actor>Alfre Woodard</actor>
+			<role>Sarabi</role>
+		</credit>
+		<credit>
+			<actor>JD McCrary</actor>
+			<role>Young Simba</role>
+		</credit>
+		<credit>
+			<actor>Shahadi Wright Joseph</actor>
+			<role>Young Nala</role>
+		</credit>
+		<credit>
+			<actor>Penny Johnson Jerald</actor>
+			<role>Sarafina</role>
+		</credit>
+		<credit>
+			<actor>Keegan-Michael Key</actor>
+			<role>Kamari</role>
+		</credit>
+		<credit>
+			<actor>Eric André</actor>
+			<role>Azizi</role>
+		</credit>
+		<credit>
+			<actor>Florence Kasumba</actor>
+			<role>Shenzi</role>
+		</credit>
+		<credit>
+			<actor>Billy Eichner</actor>
+			<role>Timon</role>
+		</credit>
+		<credit>
+			<actor>Amy Sedaris</actor>
+			<role>Guinea Fowl</role>
+		</credit>
+		<credit>
+			<actor>Chance the Rapper</actor>
+			<role>Bush Baby</role>
+		</credit>
+		<credit>
+			<actor>Josh McCrary</actor>
+			<role>Elephant Shrew</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">July 9 2019</releasedate>
+		<releasedate country="China">July 12 2019</releasedate>
+		<releasedate country="United Arab Emirates">July 17 2019</releasedate>
+		<releasedate country="Austria">July 17 2019</releasedate>
+		<releasedate country="Australia">July 17 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Bulgaria">B</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">7 +</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">7</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Indonesia">R</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">8 +</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Luxembourg">6</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">PG</certificate>
+		<certificate country="Malta">PG</certificate>
+		<certificate country="Mexico">AA</certificate>
+		<certificate country="Mongolia">PG</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Nigeria">G</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Puerto Rico">PG</certificate>
+		<certificate country="Romania">A.G.</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>remake of remake</keyword>
+		<keyword>remake</keyword>
+		<keyword>lion</keyword>
+		<keyword>warthog</keyword>
+		<keyword>meerkat</keyword>
+		<keyword>hornbill</keyword>
+		<keyword>hyena</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>murder of father</keyword>
+		<keyword>lioness</keyword>
+		<keyword>roar</keyword>
+		<keyword>sunrise</keyword>
+		<keyword>cub</keyword>
+		<keyword>remake of oscar winner</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>cgi animal in live action title</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>based on cartoon</keyword>
+		<keyword>insect</keyword>
+		<keyword>musical number</keyword>
+		<keyword>motion capture</keyword>
+		<keyword>lion cub</keyword>
+		<keyword>jungle</keyword>
+		<keyword>savannah</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>nature</keyword>
+		<keyword>virtual set</keyword>
+		<keyword>africa</keyword>
+		<keyword>king</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>mufasa character</keyword>
+		<keyword>baboon</keyword>
+		<keyword>live action remake</keyword>
+		<keyword>eating an insect</keyword>
+		<keyword>political succession</keyword>
+		<keyword>grief</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>prince</keyword>
+		<keyword>mandrill</keyword>
+		<keyword>battle</keyword>
+		<keyword>elephant graveyard</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>desert</keyword>
+		<keyword>uncle nephew reunion</keyword>
+		<keyword>combat</keyword>
+		<keyword>monkey</keyword>
+		<keyword>friendship</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>revenge</keyword>
+		<keyword>hero</keyword>
+		<keyword>remake of cult favorite</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>attack</keyword>
+		<keyword>claw fight</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>bird</keyword>
+		<keyword>dark past</keyword>
+		<keyword>spirituality</keyword>
+		<keyword>famous score</keyword>
+		<keyword>famous song</keyword>
+		<keyword>fight</keyword>
+		<keyword>family betrayal</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>singing</keyword>
+		<keyword>cyclical</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>dancing</keyword>
+		<keyword>dance</keyword>
+		<keyword>song</keyword>
+		<keyword>animal</keyword>
+		<keyword>cloud</keyword>
+		<keyword>regicide</keyword>
+		<keyword>canyon</keyword>
+		<keyword>trauma</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>jealous brother</keyword>
+		<keyword>carnivore</keyword>
+		<keyword>insectivore</keyword>
+		<keyword>circle of life</keyword>
+		<keyword>surrogate family</keyword>
+		<keyword>responsibility</keyword>
+		<keyword>fratricide</keyword>
+		<keyword>wildebeest</keyword>
+		<keyword>farting</keyword>
+		<keyword>flatulence</keyword>
+		<keyword>vulture</keyword>
+		<keyword>stars</keyword>
+		<keyword>scar</keyword>
+		<keyword>fighting back</keyword>
+		<keyword>ceremony</keyword>
+		<keyword>ritual</keyword>
+		<keyword>royalty</keyword>
+		<keyword>childhood trauma</keyword>
+		<keyword>journey</keyword>
+		<keyword>photorealistic</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>death in family</keyword>
+		<keyword>simba character</keyword>
+		<keyword>rafiki character</keyword>
+		<keyword>scar character</keyword>
+		<keyword>disney live action remake of animated film</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>showdown</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>growing up</keyword>
+		<keyword>wildlife</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>shaman</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>stampede</keyword>
+		<keyword>swahili</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>singing animal</keyword>
+		<keyword>lie</keyword>
+		<keyword>timon character</keyword>
+		<keyword>pumbaa character</keyword>
+		<keyword>redemption</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>dysfunctional family</keyword>
+		<keyword>shakespearean</keyword>
+		<keyword>cuddling</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>absence</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>talking lion</keyword>
+		<keyword>talking warthog</keyword>
+		<keyword>talking meerkat</keyword>
+		<keyword>talking hyena</keyword>
+		<keyword>talking mandrill</keyword>
+		<keyword>antelope</keyword>
+		<keyword>aardvark</keyword>
+		<keyword>bush baby</keyword>
+		<keyword>animal kingdom</keyword>
+		<keyword>ecosystem</keyword>
+		<keyword>grasslands</keyword>
+		<keyword>rainforest</keyword>
+		<keyword>lightning strike</keyword>
+		<keyword>tree</keyword>
+		<keyword>beetle</keyword>
+		<keyword>giraffe</keyword>
+		<keyword>rhinoceros</keyword>
+		<keyword>elephant</keyword>
+		<keyword>zebra</keyword>
+		<keyword>dung beetle</keyword>
+		<keyword>dung</keyword>
+		<keyword>fur</keyword>
+		<keyword>termite</keyword>
+		<keyword>butterfly</keyword>
+		<keyword>carefree</keyword>
+		<keyword>guilt</keyword>
+		<keyword>self imposed exile</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>betrothed</keyword>
+		<keyword>major domo</keyword>
+		<keyword>trampled</keyword>
+		<keyword>private army</keyword>
+		<keyword>authoritarian</keyword>
+		<keyword>hunting</keyword>
+		<keyword>wasteland</keyword>
+		<keyword>gorge</keyword>
+		<keyword>echo</keyword>
+		<keyword>return home</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>legacy</keyword>
+		<keyword>heir to the throne</keyword>
+		<keyword>challenger to the throne</keyword>
+		<keyword>sneaking out</keyword>
+		<keyword>diversion</keyword>
+		<keyword>burrow</keyword>
+		<keyword>underground</keyword>
+		<keyword>food shortage</keyword>
+		<keyword>embers</keyword>
+		<keyword>trap</keyword>
+		<keyword>kingdom</keyword>
+		<keyword>live bait</keyword>
+		<keyword>anti bullying</keyword>
+		<keyword>body shaming</keyword>
+		<keyword>bowing</keyword>
+		<keyword>confessing to murder</keyword>
+		<keyword>uprising</keyword>
+		<keyword>hanging from a ledge</keyword>
+		<keyword>brother desires brother's wife</keyword>
+		<keyword>gazelle</keyword>
+		<keyword>guinea fowl</keyword>
+		<keyword>ostrich</keyword>
+		<keyword>chameleon</keyword>
+		<keyword>impala</keyword>
+		<keyword>benevolence</keyword>
+		<keyword>sand dune</keyword>
+		<keyword>ant</keyword>
+		<keyword>running from the past</keyword>
+		<keyword>spiritual guidance</keyword>
+		<keyword>blaming oneself</keyword>
+		<keyword>controversy</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>spotted hyena</keyword>
+		<keyword>father son reunion</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>mother son reunion</keyword>
+		<keyword>chance meeting</keyword>
+		<keyword>national geographic</keyword>
+		<keyword>wild boar</keyword>
+		<keyword>shot for shot remake</keyword>
+		<keyword>strong willed</keyword>
+		<keyword>stubborn</keyword>
+		<keyword>feline in title</keyword>
+		<keyword>predator</keyword>
+		<keyword>feline</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>male villain</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>african culture</keyword>
+		<keyword>asian culture</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>live action adaptation</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>roaring</keyword>
+		<keyword>nihilism</keyword>
+		<keyword>liar</keyword>
+		<keyword>heroism</keyword>
+		<keyword>animal hero</keyword>
+		<keyword>animal villain</keyword>
+		<keyword>foster child</keyword>
+		<keyword>foster family</keyword>
+		<keyword>warrior</keyword>
+		<keyword>shakespeare's hamlet</keyword>
+		<keyword>animal protagonist</keyword>
+		<keyword>african animal</keyword>
+		<keyword>african wildlife</keyword>
+		<keyword>furry</keyword>
+		<keyword>lion king</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>forest adventure</keyword>
+		<keyword>epic adventure</keyword>
+		<keyword>evil uncle</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>brother murders brother</keyword>
+		<keyword>based on adaptation</keyword>
+		<keyword>coup d'etat</keyword>
+		<keyword>song and dance</keyword>
+		<keyword>confession</keyword>
+		<keyword>revealing the truth</keyword>
+		<keyword>traumatic past</keyword>
+		<keyword>animal violence</keyword>
+		<keyword>guilt complex</keyword>
+		<keyword>grassland</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>parenthood</keyword>
+		<keyword>bug</keyword>
+		<keyword>runaway</keyword>
+		<keyword>reflection</keyword>
+		<keyword>first love</keyword>
+		<keyword>truth</keyword>
+		<keyword>cheating death</keyword>
+		<keyword>mourning</keyword>
+		<keyword>family life</keyword>
+		<keyword>all star cast</keyword>
+		<keyword>childhood friend</keyword>
+		<keyword>villain</keyword>
+		<keyword>hog</keyword>
+		<keyword>friend</keyword>
+		<keyword>unnecessary guilt</keyword>
+		<keyword>childhood</keyword>
+		<keyword>adulthood</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>death of father</keyword>
+		<keyword>celebrity voices</keyword>
+		<keyword>three word title</keyword>
+		<keyword>love interest</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>chase</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>reference to beauty and the beast</keyword>
+		<keyword>interspecies friendship</keyword>
+		<keyword>beating</keyword>
+		<keyword>violence</keyword>
+		<keyword>duel</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>escape</keyword>
+		<keyword>dance number</keyword>
+		<keyword>mouse</keyword>
+		<keyword>falling in love</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>epic</keyword>
+		<keyword>melodrama</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>widow</keyword>
+		<keyword>rescue</keyword>
+		<keyword>wildfire</keyword>
+		<keyword>nihilist</keyword>
+		<keyword>optimistic nihilism</keyword>
+		<keyword>territory</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>brawl</keyword>
+		<keyword>reflection in water</keyword>
+		<keyword>cliff</keyword>
+		<keyword>pun</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>famine</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Jon Favreau</director>
+	</directors>
+	<composers>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> John Bartnicki</producer>
+		<producer> Debbi Bossi</producer>
+		<producer> Jon Favreau</producer>
+		<producer> Karen Gilchrist</producer>
+		<producer> Tom C. Peitzman</producer>
+		<producer> Thomas Schumacher</producer>
+		<producer> Jeffrey Silver</producer>
+		<producer> Julie Taymor</producer>
+		<producer> David H. Venghaus Jr.</producer>
+	</producers>
+	<writers>
+		<writer> Jeff Nathanson</writer>
+		<writer> Irene Mecchi</writer>
+		<writer> Jonathan Roberts</writer>
+		<writer> Linda Woolverton</writer>
+	</writers>
+	<editors>
+		<editor> Adam Gerstel</editor>
+		<editor> Mark Livolsi</editor>
+	</editors>
+</doc>

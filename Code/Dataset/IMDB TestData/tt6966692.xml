@@ -1,0 +1,633 @@
+<?xml version="1.0" ?>
+<doc id="tt6966692">
+	<docid>tt6966692</docid>
+	<title>Green Book</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDcyYjgyNWUtZTllZi00ZDQ3LThhMzEtOTczMWMyMWY5YWY3XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Surround 7.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Viggo Mortensen</actor>
+			<role>Tony Lip</role>
+		</credit>
+		<credit>
+			<actor>Mahershala Ali</actor>
+			<role>Dr. Donald Shirley</role>
+		</credit>
+		<credit>
+			<actor>Linda Cardellini</actor>
+			<role>Dolores</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Maniscalco</actor>
+			<role>Johnny Venere</role>
+		</credit>
+		<credit>
+			<actor>Dimiter D. Marinov</actor>
+			<role>Oleg</role>
+		</credit>
+		<credit>
+			<actor>Mike Hatton</actor>
+			<role>George</role>
+		</credit>
+		<credit>
+			<actor>P.J. Byrne</actor>
+			<role>Record Exec</role>
+		</credit>
+		<credit>
+			<actor>Joe Cortese</actor>
+			<role>Gio Loscudo</role>
+		</credit>
+		<credit>
+			<actor>Maggie Nixon</actor>
+			<role>Copa Coat Check Girl</role>
+		</credit>
+		<credit>
+			<actor>Von Lewis</actor>
+			<role>Bobby Rydell</role>
+		</credit>
+		<credit>
+			<actor>Jon Sortland</actor>
+			<role>Rydell Band Leader</role>
+		</credit>
+		<credit>
+			<actor>Don Stark</actor>
+			<role>Jules Podell</role>
+		</credit>
+		<credit>
+			<actor>Anthony Mangano</actor>
+			<role>Copa Bouncer Danny</role>
+		</credit>
+		<credit>
+			<actor>Paul Sloan</actor>
+			<role>Copa Maître D' Carmine</role>
+		</credit>
+		<credit>
+			<actor>Quinn Duffy</actor>
+			<role>Mikey Cerrone</role>
+		</credit>
+		<credit>
+			<actor>Seth Hurwitz</actor>
+			<role>Johnny Randazzo</role>
+		</credit>
+		<credit>
+			<actor>Hudson Galloway</actor>
+			<role>Nick Vallelonga</role>
+		</credit>
+		<credit>
+			<actor>Gavin Lyle Foley</actor>
+			<role>Frankie Vallelonga</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 11 2018</releasedate>
+		<releasedate country="Switzerland">September 28 2018</releasedate>
+		<releasedate country="United States">October 4 2018</releasedate>
+		<releasedate country="United States">October 6 2018</releasedate>
+		<releasedate country="United Kingdom">October 12 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Bulgaria">C</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-15</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">6</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>on the road</keyword>
+		<keyword>jail</keyword>
+		<keyword>piano</keyword>
+		<keyword>pianist</keyword>
+		<keyword>racially segregated restroom</keyword>
+		<keyword>road movie</keyword>
+		<keyword>racism</keyword>
+		<keyword>piano playing</keyword>
+		<keyword>chauffeur</keyword>
+		<keyword>fried chicken</keyword>
+		<keyword>road trip</keyword>
+		<keyword>cutty sark whiskey</keyword>
+		<keyword>travel</keyword>
+		<keyword>driving</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>buddy movie</keyword>
+		<keyword>negro motorist green book</keyword>
+		<keyword>picking up litter</keyword>
+		<keyword>magical negro stereotype</keyword>
+		<keyword>jazz piano</keyword>
+		<keyword>employer employee friendship</keyword>
+		<keyword>musician</keyword>
+		<keyword>segregation</keyword>
+		<keyword>friendship</keyword>
+		<keyword>christmas</keyword>
+		<keyword>hotel</keyword>
+		<keyword>closeted gay man</keyword>
+		<keyword>year 1962</keyword>
+		<keyword>african american</keyword>
+		<keyword>black american</keyword>
+		<keyword>race relations</keyword>
+		<keyword>musical trio</keyword>
+		<keyword>italian american</keyword>
+		<keyword>ymca</keyword>
+		<keyword>implied male nudity</keyword>
+		<keyword>writing a letter</keyword>
+		<keyword>reference to robert f. kennedy</keyword>
+		<keyword>pizza</keyword>
+		<keyword>letter writing</keyword>
+		<keyword>assaulting a police officer</keyword>
+		<keyword>travel guide book</keyword>
+		<keyword>family dinner</keyword>
+		<keyword>playing piano</keyword>
+		<keyword>racial discrimination</keyword>
+		<keyword>white savior</keyword>
+		<keyword>dignity</keyword>
+		<keyword>make a difference</keyword>
+		<keyword>black man</keyword>
+		<keyword>racial injustice</keyword>
+		<keyword>uneducated</keyword>
+		<keyword>dictating a letter</keyword>
+		<keyword>prejudiced man</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>deep south</keyword>
+		<keyword>gay</keyword>
+		<keyword>color in title</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>racial epithet</keyword>
+		<keyword>new york city</keyword>
+		<keyword>unlikely friendship</keyword>
+		<keyword>american south</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>bronx new york city</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>concert hall</keyword>
+		<keyword>carnegie hall manhattan new york city</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>christmas tree</keyword>
+		<keyword>christmas decorations</keyword>
+		<keyword>chicken as food</keyword>
+		<keyword>motel</keyword>
+		<keyword>cafe</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>kentucky fried chicken</keyword>
+		<keyword>birmingham alabama</keyword>
+		<keyword>arrest</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>flat tire</keyword>
+		<keyword>rain</keyword>
+		<keyword>snow</keyword>
+		<keyword>snowing</keyword>
+		<keyword>macon georgia</keyword>
+		<keyword>memphis tennessee</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>bigotry</keyword>
+		<keyword>friend</keyword>
+		<keyword>reference to little richard</keyword>
+		<keyword>reference to sam cooke</keyword>
+		<keyword>reference to aretha franklin</keyword>
+		<keyword>bouncer</keyword>
+		<keyword>violence</keyword>
+		<keyword>anti violence</keyword>
+		<keyword>singer</keyword>
+		<keyword>singing</keyword>
+		<keyword>song</keyword>
+		<keyword>hit in the face</keyword>
+		<keyword>mirror</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>letter</keyword>
+		<keyword>reference to frederic chopin</keyword>
+		<keyword>classical pianist</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>pawnshop</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>bar</keyword>
+		<keyword>switchblade</keyword>
+		<keyword>gun</keyword>
+		<keyword>gas station</keyword>
+		<keyword>dressing room</keyword>
+		<keyword>money</keyword>
+		<keyword>telephone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>kiss</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>driver</keyword>
+		<keyword>personal assistant</keyword>
+		<keyword>men's clothing store</keyword>
+		<keyword>motel room</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>throne</keyword>
+		<keyword>dashiki</keyword>
+		<keyword>men's suit</keyword>
+		<keyword>watching baseball on tv</keyword>
+		<keyword>gambling</keyword>
+		<keyword>faux pas</keyword>
+		<keyword>jim crow</keyword>
+		<keyword>multi lingual</keyword>
+		<keyword>christmas dinner</keyword>
+		<keyword>alcoholism</keyword>
+		<keyword>interracial cooperation</keyword>
+		<keyword>reference to dmitri shostakovich</keyword>
+		<keyword>traffic stop</keyword>
+		<keyword>racial profiling</keyword>
+		<keyword>reference to chubby checker</keyword>
+		<keyword>reference to liberace</keyword>
+		<keyword>reference to ludwig van beethoven</keyword>
+		<keyword>littering</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>assault</keyword>
+		<keyword>period piece</keyword>
+		<keyword>job interview</keyword>
+		<keyword>out of work</keyword>
+		<keyword>tour</keyword>
+		<keyword>vodka</keyword>
+		<keyword>blizzard</keyword>
+		<keyword>concert</keyword>
+		<keyword>caught in the act</keyword>
+		<keyword>luxury apartment</keyword>
+		<keyword>rental car</keyword>
+		<keyword>cadillac</keyword>
+		<keyword>steinway piano</keyword>
+		<keyword>based on real person</keyword>
+		<keyword>fight</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>hat</keyword>
+		<keyword>watching sports on tv</keyword>
+		<keyword>bet</keyword>
+		<keyword>sandwich</keyword>
+		<keyword>pittsburgh pennsylvania</keyword>
+		<keyword>louisville kentucky</keyword>
+		<keyword>raleigh north carolina</keyword>
+		<keyword>police officer</keyword>
+		<keyword>little rock arkansas</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>racial tension</keyword>
+		<keyword>racial prejudice</keyword>
+		<keyword>american</keyword>
+		<keyword>trip</keyword>
+		<keyword>journey</keyword>
+		<keyword>valet</keyword>
+		<keyword>helper</keyword>
+		<keyword>music company</keyword>
+		<keyword>executive</keyword>
+		<keyword>music industry</keyword>
+		<keyword>talent</keyword>
+		<keyword>sedan</keyword>
+		<keyword>conductor</keyword>
+		<keyword>change</keyword>
+		<keyword>frock</keyword>
+		<keyword>recital</keyword>
+		<keyword>steinberg piano</keyword>
+		<keyword>steinberg</keyword>
+		<keyword>articulation</keyword>
+		<keyword>vocal</keyword>
+		<keyword>vocal exercise</keyword>
+		<keyword>guide</keyword>
+		<keyword>guide book</keyword>
+		<keyword>handbook</keyword>
+		<keyword>green</keyword>
+		<keyword>litter</keyword>
+		<keyword>fried chicken franchise</keyword>
+		<keyword>deep fried</keyword>
+		<keyword>bucket of fried chicken</keyword>
+		<keyword>reference to kentucky fried chicken</keyword>
+		<keyword>kentucky</keyword>
+		<keyword>craps</keyword>
+		<keyword>jade</keyword>
+		<keyword>gem stone</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>pub</keyword>
+		<keyword>decorations</keyword>
+		<keyword>progress</keyword>
+		<keyword>racial</keyword>
+		<keyword>racist</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>ends with real life photos</keyword>
+		<keyword>injustice</keyword>
+		<keyword>gorilla</keyword>
+		<keyword>societal injustice</keyword>
+		<keyword>passenger</keyword>
+		<keyword>microphone</keyword>
+		<keyword>waiter</keyword>
+		<keyword>waitress</keyword>
+		<keyword>trumpet</keyword>
+		<keyword>vocalist</keyword>
+		<keyword>band</keyword>
+		<keyword>orchestra</keyword>
+		<keyword>man smoking</keyword>
+		<keyword>pocket squares</keyword>
+		<keyword>greeting</keyword>
+		<keyword>customer</keyword>
+		<keyword>patron</keyword>
+		<keyword>wife beater</keyword>
+		<keyword>brawl</keyword>
+		<keyword>kicked out</keyword>
+		<keyword>kicking someone out</keyword>
+		<keyword>saxophone</keyword>
+		<keyword>apartment</keyword>
+		<keyword>trash</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>milk</keyword>
+		<keyword>drinking milk</keyword>
+		<keyword>man and woman share a bed</keyword>
+		<keyword>shouting</keyword>
+		<keyword>lunch</keyword>
+		<keyword>black and white television</keyword>
+		<keyword>prayer</keyword>
+		<keyword>embrace</keyword>
+		<keyword>hotdog</keyword>
+		<keyword>wager</keyword>
+		<keyword>interview</keyword>
+		<keyword>job application</keyword>
+		<keyword>assistant</keyword>
+		<keyword>man wears suspenders</keyword>
+		<keyword>refusing a job</keyword>
+		<keyword>ringing telephone</keyword>
+		<keyword>bartender</keyword>
+		<keyword>draft beer</keyword>
+		<keyword>mafioso</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>map</keyword>
+		<keyword>nickname</keyword>
+		<keyword>brown bag</keyword>
+		<keyword>veteran</keyword>
+		<keyword>bridge</keyword>
+		<keyword>rural road</keyword>
+		<keyword>reading a newspaper</keyword>
+		<keyword>mustache</keyword>
+		<keyword>meet and greet</keyword>
+		<keyword>offer to help</keyword>
+		<keyword>balcony</keyword>
+		<keyword>pool side</keyword>
+		<keyword>drinking from a bottle</keyword>
+		<keyword>improvement</keyword>
+		<keyword>offer of employment</keyword>
+		<keyword>profanity</keyword>
+		<keyword>mansion</keyword>
+		<keyword>cello</keyword>
+		<keyword>contract</keyword>
+		<keyword>contractual obligation</keyword>
+		<keyword>criticism</keyword>
+		<keyword>new york accent</keyword>
+		<keyword>writing home</keyword>
+		<keyword>bible belt</keyword>
+		<keyword>car radio</keyword>
+		<keyword>listening to music on a radio</keyword>
+		<keyword>listening to car radio</keyword>
+		<keyword>listening to music on a car radio</keyword>
+		<keyword>thief</keyword>
+		<keyword>apple</keyword>
+		<keyword>tailor</keyword>
+		<keyword>toilet</keyword>
+		<keyword>farm hand</keyword>
+		<keyword>expressing love</keyword>
+		<keyword>professing love</keyword>
+		<keyword>crying</keyword>
+		<keyword>tear</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>shopping</keyword>
+		<keyword>clothing boutique</keyword>
+		<keyword>fashion boutique</keyword>
+		<keyword>boutique owner</keyword>
+		<keyword>xenophobe</keyword>
+		<keyword>pretending to have a gun in one's pocket</keyword>
+		<keyword>driving in the rain</keyword>
+		<keyword>cell mate</keyword>
+		<keyword>lgbt</keyword>
+		<keyword>copacabana nightclub new york city</keyword>
+		<keyword>hat check girl</keyword>
+		<keyword>reference to roger maris</keyword>
+		<keyword>repairman</keyword>
+		<keyword>reference to the white house</keyword>
+		<keyword>eating while driving</keyword>
+		<keyword>smoking in a car</keyword>
+		<keyword>ohio</keyword>
+		<keyword>ear slap</keyword>
+		<keyword>cedar rapids iowa</keyword>
+		<keyword>reference to willie mays</keyword>
+		<keyword>reference to joe dimaggio</keyword>
+		<keyword>suit shopping</keyword>
+		<keyword>governor</keyword>
+		<keyword>u.s. attorney general</keyword>
+		<keyword>reference to the boston celtics</keyword>
+		<keyword>reference to nat king cole</keyword>
+		<keyword>reference to bill russell</keyword>
+		<keyword>bribe</keyword>
+		<keyword>shooting a gun into the air</keyword>
+		<keyword>pulled over by the police</keyword>
+		<keyword>christmas eve</keyword>
+		<keyword>patrolman</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>reference to igor stravinsky</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>reference to the new york yankees</keyword>
+		<keyword>lgbt plus</keyword>
+		<keyword>man carries a child</keyword>
+		<keyword>man wears a suit and tie</keyword>
+		<keyword>man wears a hat</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>limousine driver</keyword>
+		<keyword>male bonding</keyword>
+		<keyword>male friendship</keyword>
+		<keyword>friendship between men</keyword>
+		<keyword>rock and roll music</keyword>
+		<keyword>tongue twister</keyword>
+		<keyword>solitude</keyword>
+		<keyword>gratitude</keyword>
+		<keyword>speaking italian</keyword>
+		<keyword>speaking russian</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>little boy</keyword>
+		<keyword>slur</keyword>
+		<keyword>two word title</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bobby rydell character</keyword>
+		<keyword>don shirley character</keyword>
+		<keyword>boy</keyword>
+		<keyword>boxer shorts</keyword>
+		<keyword>stuckey's</keyword>
+		<keyword>code switching</keyword>
+		<keyword>outhouse</keyword>
+		<keyword>token black person</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>vert</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>clapping</keyword>
+		<keyword>applause</keyword>
+		<keyword>fire hydrant</keyword>
+		<keyword>garbage can</keyword>
+		<keyword>watching a baseball game</keyword>
+		<keyword>baseball on tv</keyword>
+		<keyword>diner</keyword>
+		<keyword>suspenders</keyword>
+		<keyword>phone on the wall</keyword>
+		<keyword>telephone on the wall</keyword>
+		<keyword>rotary phone</keyword>
+		<keyword>rotary telephone</keyword>
+		<keyword>clipboard</keyword>
+		<keyword>black telephone</keyword>
+		<keyword>wall phone</keyword>
+		<keyword>clothes</keyword>
+		<keyword>juke box</keyword>
+		<keyword>sleeves rolled up</keyword>
+		<keyword>proprietor</keyword>
+		<keyword>cross on a wall</keyword>
+		<keyword>crucifix</keyword>
+		<keyword>crucifix necklace</keyword>
+		<keyword>mockery</keyword>
+		<keyword>touching foreheads</keyword>
+		<keyword>introduction</keyword>
+		<keyword>fiddle</keyword>
+		<keyword>rider</keyword>
+		<keyword>dressing down</keyword>
+		<keyword>product placement</keyword>
+		<keyword>dog</keyword>
+		<keyword>cat</keyword>
+		<keyword>boutique</keyword>
+		<keyword>title spoken in dialogue</keyword>
+		<keyword>dice</keyword>
+		<keyword>horseshoes</keyword>
+		<keyword>handcuffed to a pipe</keyword>
+		<keyword>n word</keyword>
+		<keyword>juke joint</keyword>
+		<keyword>reference to andrew carnegie</keyword>
+		<keyword>man wears underwear</keyword>
+		<keyword>tragicomedy</keyword>
+		<keyword>cult film</keyword>
+		<keyword>nativity</keyword>
+		<keyword>hugging</keyword>
+		<keyword>winking</keyword>
+		<keyword>looking through a window</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>punching</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>helping</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>christian</keyword>
+		<keyword>saying grace</keyword>
+		<keyword>docudrama drama</keyword>
+		<keyword>jazz music</keyword>
+		<keyword>timeframe 1960s</keyword>
+		<keyword>baseball game</keyword>
+		<keyword>smoking tobacco</keyword>
+		<keyword>closeted homosexual</keyword>
+		<keyword>hotdog eating contest</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Peter Farrelly</director>
+	</directors>
+	<composers>
+		<composer> Kris Bowers</composer>
+	</composers>
+	<producers>
+		<producer> Jim Burke</producer>
+		<producer> Brian Hayes Currie</producer>
+		<producer> Steven Farneth</producer>
+		<producer> Peter Farrelly</producer>
+		<producer> Jonathan King</producer>
+		<producer> Kwame Parker</producer>
+		<producer> J.B. Rogers</producer>
+		<producer> Jeff Skoll</producer>
+		<producer> John Sloss</producer>
+		<producer> Octavia Spencer</producer>
+		<producer> Nick Vallelonga</producer>
+		<producer> Ted Virtue</producer>
+		<producer> Charles B. Wessler</producer>
+	</producers>
+	<writers>
+		<writer> Nick Vallelonga</writer>
+		<writer> Brian Hayes Currie</writer>
+		<writer> Peter Farrelly</writer>
+	</writers>
+	<editors>
+		<editor> Patrick J. Don Vito</editor>
+	</editors>
+</doc>

@@ -1,0 +1,883 @@
+<?xml version="1.0" ?>
+<doc id="tt7131622">
+	<docid>tt7131622</docid>
+	<title>Once Upon a Time... in Hollywood</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">161</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Leonardo DiCaprio</actor>
+			<role>Rick Dalton</role>
+		</credit>
+		<credit>
+			<actor>Brad Pitt</actor>
+			<role>Cliff Booth</role>
+		</credit>
+		<credit>
+			<actor>Margot Robbie</actor>
+			<role>Sharon Tate</role>
+		</credit>
+		<credit>
+			<actor>Emile Hirsch</actor>
+			<role>Jay Sebring</role>
+		</credit>
+		<credit>
+			<actor>Margaret Qualley</actor>
+			<role>Pussycat</role>
+		</credit>
+		<credit>
+			<actor>Timothy Olyphant</actor>
+			<role>James Stacy</role>
+		</credit>
+		<credit>
+			<actor>Julia Butters</actor>
+			<role>Trudi Fraser</role>
+		</credit>
+		<credit>
+			<actor>Austin Butler</actor>
+			<role>Tex Watson</role>
+		</credit>
+		<credit>
+			<actor>Dakota Fanning</actor>
+			<role>Squeaky Fromme</role>
+		</credit>
+		<credit>
+			<actor>Bruce Dern</actor>
+			<role>George Spahn</role>
+		</credit>
+		<credit>
+			<actor>Mike Moh</actor>
+			<role>Bruce Lee</role>
+		</credit>
+		<credit>
+			<actor>Luke Perry</actor>
+			<role>Wayne Maunder</role>
+		</credit>
+		<credit>
+			<actor>Damian Lewis</actor>
+			<role>Steve McQueen</role>
+		</credit>
+		<credit>
+			<actor>Al Pacino</actor>
+			<role>Marvin Schwarz</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Hammond</actor>
+			<role>Sam Wanamaker</role>
+		</credit>
+		<credit>
+			<actor>Samantha Robinson</actor>
+			<role>Abigail Folger</role>
+		</credit>
+		<credit>
+			<actor>Rafal Zawierucha</actor>
+			<role>Roman Polanski</role>
+		</credit>
+		<credit>
+			<actor>Lorenza Izzo</actor>
+			<role>Francesca Capucci</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 21 2019</releasedate>
+		<releasedate country="United States">July 22 2019</releasedate>
+		<releasedate country="Spain">July 24 2019</releasedate>
+		<releasedate country="Taiwan">July 24 2019</releasedate>
+		<releasedate country="Hong Kong">July 25 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="China">(Banned)</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">18TC</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">A-18</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Malta">18</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Nigeria">18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>manson murders</keyword>
+		<keyword>place in title</keyword>
+		<keyword>1960s</keyword>
+		<keyword>violence</keyword>
+		<keyword>film within a film</keyword>
+		<keyword>actor as protagonist</keyword>
+		<keyword>western town movie set</keyword>
+		<keyword>alternate history</keyword>
+		<keyword>revisionist history</keyword>
+		<keyword>murder</keyword>
+		<keyword>stunt double</keyword>
+		<keyword>manson family</keyword>
+		<keyword>friendship between men</keyword>
+		<keyword>struggling actor</keyword>
+		<keyword>movie theater</keyword>
+		<keyword>actress</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>hollywood california</keyword>
+		<keyword>sharon tate character</keyword>
+		<keyword>charles manson character</keyword>
+		<keyword>steve mcqueen the actor character</keyword>
+		<keyword>actor</keyword>
+		<keyword>roman polanski character</keyword>
+		<keyword>dog</keyword>
+		<keyword>dog attack</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>playboy mansion</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>western novel</keyword>
+		<keyword>reference to batman and robin</keyword>
+		<keyword>hippie girl</keyword>
+		<keyword>western filmmaking</keyword>
+		<keyword>hollywood</keyword>
+		<keyword>foot fetish</keyword>
+		<keyword>male friendship</keyword>
+		<keyword>cult</keyword>
+		<keyword>reference to walt disney</keyword>
+		<keyword>based on real person</keyword>
+		<keyword>death</keyword>
+		<keyword>blonde</keyword>
+		<keyword>california</keyword>
+		<keyword>bruce lee character</keyword>
+		<keyword>connie stevens character</keyword>
+		<keyword>fictional tv show</keyword>
+		<keyword>fictional tv commercial</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>acting</keyword>
+		<keyword>child actress</keyword>
+		<keyword>gun</keyword>
+		<keyword>dog food</keyword>
+		<keyword>beating</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>movie lot</keyword>
+		<keyword>reference to telly savalas</keyword>
+		<keyword>ranch</keyword>
+		<keyword>watching oneself in a movie</keyword>
+		<keyword>hippie</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>giving someone a ride</keyword>
+		<keyword>buying a book</keyword>
+		<keyword>friendship</keyword>
+		<keyword>film director</keyword>
+		<keyword>bashing someone's head into a fireplace mantle</keyword>
+		<keyword>bashing someone's head into a wall</keyword>
+		<keyword>slashed tire</keyword>
+		<keyword>changing a tire</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>airplane</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>watching oneself on tv</keyword>
+		<keyword>flashback</keyword>
+		<keyword>driver</keyword>
+		<keyword>hitchhiking</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>flashback within a flashback</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>actor forgetting line</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>action star</keyword>
+		<keyword>western star</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>stuntman</keyword>
+		<keyword>tv interview</keyword>
+		<keyword>drive in theater</keyword>
+		<keyword>hollywood hills</keyword>
+		<keyword>trailer home</keyword>
+		<keyword>tv guide the magazine</keyword>
+		<keyword>bloody mary the drink</keyword>
+		<keyword>taking off shirt</keyword>
+		<keyword>tv antenna</keyword>
+		<keyword>fight</keyword>
+		<keyword>reference to patty duke</keyword>
+		<keyword>reference to cassius clay</keyword>
+		<keyword>reference to jim morrison</keyword>
+		<keyword>saloon</keyword>
+		<keyword>6 months later</keyword>
+		<keyword>pitcher of margaritas</keyword>
+		<keyword>acid trip</keyword>
+		<keyword>reference to dennis hopper</keyword>
+		<keyword>six word title</keyword>
+		<keyword>reference to dennis wilson</keyword>
+		<keyword>hollywood agent</keyword>
+		<keyword>alternate timeline</keyword>
+		<keyword>child actor</keyword>
+		<keyword>star died before release</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>older man younger woman relationship</keyword>
+		<keyword>precocious child</keyword>
+		<keyword>contemporary western</keyword>
+		<keyword>cowboy</keyword>
+		<keyword>playboy bunny</keyword>
+		<keyword>world war two veteran</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>old man</keyword>
+		<keyword>multiple storylines</keyword>
+		<keyword>reference to kato</keyword>
+		<keyword>reference to the green hornet</keyword>
+		<keyword>reference to bruce lee</keyword>
+		<keyword>reference to batman</keyword>
+		<keyword>reference to tarzan</keyword>
+		<keyword>stuttering</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>reference to charles manson</keyword>
+		<keyword>head bashed in</keyword>
+		<keyword>defenestration</keyword>
+		<keyword>flamethrower</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>stabbed in the thigh</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>hitchhiker</keyword>
+		<keyword>flower child</keyword>
+		<keyword>movie poster</keyword>
+		<keyword>film set</keyword>
+		<keyword>marijuana joint</keyword>
+		<keyword>movie industry</keyword>
+		<keyword>makeup artist</keyword>
+		<keyword>head scarf</keyword>
+		<keyword>italian woman</keyword>
+		<keyword>grauman's chinese theater</keyword>
+		<keyword>hawaiian shirt</keyword>
+		<keyword>lsd</keyword>
+		<keyword>spear gun</keyword>
+		<keyword>reference to muhammad ali</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>western town</keyword>
+		<keyword>little girl</keyword>
+		<keyword>police officer</keyword>
+		<keyword>dirty feet</keyword>
+		<keyword>colt single action army revolver</keyword>
+		<keyword>bounty hunter</keyword>
+		<keyword>floating in a swimming pool</keyword>
+		<keyword>television antenna</keyword>
+		<keyword>method acting</keyword>
+		<keyword>dented car door</keyword>
+		<keyword>lsd cigarette</keyword>
+		<keyword>spahn ranch</keyword>
+		<keyword>dog bite</keyword>
+		<keyword>head smashed over and over</keyword>
+		<keyword>burned alive in a swimming pool</keyword>
+		<keyword>chain smoking</keyword>
+		<keyword>historical fiction</keyword>
+		<keyword>nostalgic</keyword>
+		<keyword>teenage girl tries to seduce a man</keyword>
+		<keyword>stuntperson</keyword>
+		<keyword>washed up actor</keyword>
+		<keyword>self doubt</keyword>
+		<keyword>mobile home</keyword>
+		<keyword>changing times</keyword>
+		<keyword>forgetting one's lines</keyword>
+		<keyword>drive in movie theatre</keyword>
+		<keyword>home invader</keyword>
+		<keyword>method actress</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>pregnant woman</keyword>
+		<keyword>canned dog food</keyword>
+		<keyword>reference to elke sommer</keyword>
+		<keyword>movie theater box office</keyword>
+		<keyword>hippie commune</keyword>
+		<keyword>uxoricide</keyword>
+		<keyword>career in decline</keyword>
+		<keyword>reference to norman fell</keyword>
+		<keyword>hippie murder cult</keyword>
+		<keyword>movie ranch</keyword>
+		<keyword>reference to raquel welch</keyword>
+		<keyword>pet dog</keyword>
+		<keyword>macaroni and cheese</keyword>
+		<keyword>pet owner relationship</keyword>
+		<keyword>trained dog</keyword>
+		<keyword>floating in a pool chair</keyword>
+		<keyword>reference to the mamas and the papas</keyword>
+		<keyword>paperback novel</keyword>
+		<keyword>flask</keyword>
+		<keyword>reading a paperback novel</keyword>
+		<keyword>mauled by a dog</keyword>
+		<keyword>cigarette ad</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>girl</keyword>
+		<keyword>el coyote restaurant hollywood</keyword>
+		<keyword>squeaky fromme character</keyword>
+		<keyword>reference to george maharis</keyword>
+		<keyword>reference to george chakiris</keyword>
+		<keyword>reference to george peppard</keyword>
+		<keyword>once upon a time in the title</keyword>
+		<keyword>ellipsis in title</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>man wears a hawaiian shirt</keyword>
+		<keyword>famous person</keyword>
+		<keyword>reference to sharon tate</keyword>
+		<keyword>television star</keyword>
+		<keyword>blood</keyword>
+		<keyword>knife</keyword>
+		<keyword>horse</keyword>
+		<keyword>karate</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>movie set</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>walking a dog</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>theater audience</keyword>
+		<keyword>telephone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>sam wanamaker character</keyword>
+		<keyword>hair stylist</keyword>
+		<keyword>bookstore</keyword>
+		<keyword>bookstore clerk</keyword>
+		<keyword>party</keyword>
+		<keyword>pantages theatre hollywood</keyword>
+		<keyword>cinerama dome theatre hollywood</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dancing</keyword>
+		<keyword>watching a movie</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>driving</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>punctuation in title</keyword>
+		<keyword>interview</keyword>
+		<keyword>airport</keyword>
+		<keyword>nazi</keyword>
+		<keyword>singing</keyword>
+		<keyword>antenna</keyword>
+		<keyword>taking a photograph</keyword>
+		<keyword>community</keyword>
+		<keyword>rat</keyword>
+		<keyword>blind man</keyword>
+		<keyword>split screen</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>playing piano</keyword>
+		<keyword>taxi</keyword>
+		<keyword>written by director</keyword>
+		<keyword>climbing on a roof</keyword>
+		<keyword>reference to tess of the d'urbervilles</keyword>
+		<keyword>australian actor playing american character</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>brutal violence</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>action hero</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>brutality</keyword>
+		<keyword>weapon</keyword>
+		<keyword>tape recorder</keyword>
+		<keyword>citizen watch</keyword>
+		<keyword>ami continental jukebox</keyword>
+		<keyword>day date on screen</keyword>
+		<keyword>pan am</keyword>
+		<keyword>valet parking</keyword>
+		<keyword>mural</keyword>
+		<keyword>van nuys california</keyword>
+		<keyword>snoring woman</keyword>
+		<keyword>reference to nbc</keyword>
+		<keyword>running lines</keyword>
+		<keyword>character's name shown on screen</keyword>
+		<keyword>french press</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>jump kick</keyword>
+		<keyword>big glasses</keyword>
+		<keyword>reference to yul brynner</keyword>
+		<keyword>reference to sonny liston</keyword>
+		<keyword>reference to joe louis</keyword>
+		<keyword>reference to paul revere and the raiders</keyword>
+		<keyword>musso frank restaurant hollywood</keyword>
+		<keyword>shooting behind the back</keyword>
+		<keyword>talking to oneself in a mirror</keyword>
+		<keyword>improvisation</keyword>
+		<keyword>italian wife</keyword>
+		<keyword>neon sign</keyword>
+		<keyword>casa vega</keyword>
+		<keyword>blender</keyword>
+		<keyword>screaming</keyword>
+		<keyword>reference to shakespeare's hamlet</keyword>
+		<keyword>reference to sergio corbucci</keyword>
+		<keyword>reference to joseph cotten</keyword>
+		<keyword>reference to terry melcher</keyword>
+		<keyword>reference to candice bergen</keyword>
+		<keyword>talent agent</keyword>
+		<keyword>flight</keyword>
+		<keyword>flying first class</keyword>
+		<keyword>jumbo jet</keyword>
+		<keyword>crying man</keyword>
+		<keyword>film history</keyword>
+		<keyword>blowjob offer</keyword>
+		<keyword>baggage carousel</keyword>
+		<keyword>preparing food for a dog</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>flirting</keyword>
+		<keyword>widower</keyword>
+		<keyword>husband suspected of murdering his wife</keyword>
+		<keyword>bromance</keyword>
+		<keyword>can opener</keyword>
+		<keyword>pet</keyword>
+		<keyword>feeding a dog</keyword>
+		<keyword>speeding</keyword>
+		<keyword>peace sign</keyword>
+		<keyword>dumpster</keyword>
+		<keyword>dumpster diving</keyword>
+		<keyword>searching for food</keyword>
+		<keyword>valet</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>insecurity</keyword>
+		<keyword>footage</keyword>
+		<keyword>home theater</keyword>
+		<keyword>listening to a car radio</keyword>
+		<keyword>marquee</keyword>
+		<keyword>poster</keyword>
+		<keyword>cinema</keyword>
+		<keyword>decadence</keyword>
+		<keyword>dog with a bone</keyword>
+		<keyword>revving engine</keyword>
+		<keyword>canned food</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>ashtray</keyword>
+		<keyword>dog bowl</keyword>
+		<keyword>comic book</keyword>
+		<keyword>automated gate</keyword>
+		<keyword>guest</keyword>
+		<keyword>mansion</keyword>
+		<keyword>stewardess</keyword>
+		<keyword>dog licking someone's face</keyword>
+		<keyword>director</keyword>
+		<keyword>rabbit ears</keyword>
+		<keyword>weather report</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>costume</keyword>
+		<keyword>cast</keyword>
+		<keyword>crew</keyword>
+		<keyword>sedan</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>tattooed arm</keyword>
+		<keyword>character asks checking in</keyword>
+		<keyword>consoling someone</keyword>
+		<keyword>wicket</keyword>
+		<keyword>posing</keyword>
+		<keyword>new wife</keyword>
+		<keyword>hoop earrings</keyword>
+		<keyword>mexican restaurant</keyword>
+		<keyword>houseguest</keyword>
+		<keyword>jetlag</keyword>
+		<keyword>sheet music</keyword>
+		<keyword>criminal</keyword>
+		<keyword>dancing girl</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>man refuses sex</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>palm tree</keyword>
+		<keyword>sports car</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>dutch angle</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>tv advertisement</keyword>
+		<keyword>montage</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>machismo</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>long take</keyword>
+		<keyword>reference to ron ely</keyword>
+		<keyword>reference to james bond</keyword>
+		<keyword>blindness</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>audio recording</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>commune</keyword>
+		<keyword>beer</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>interviewer</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>car radio</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial artist</keyword>
+		<keyword>animal attack</keyword>
+		<keyword>product placement</keyword>
+		<keyword>catfight</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>revolver</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>training</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>martial arts training</keyword>
+		<keyword>panic</keyword>
+		<keyword>corpse</keyword>
+		<keyword>fear</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>freeway</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>ambush</keyword>
+		<keyword>highway</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>bar</keyword>
+		<keyword>swastika</keyword>
+		<keyword>massacre</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>television</keyword>
+		<keyword>agent</keyword>
+		<keyword>painting</keyword>
+		<keyword>cocktail</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>trailer park</keyword>
+		<keyword>handyman</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>stunt coordinator</keyword>
+		<keyword>new zealander</keyword>
+		<keyword>italian</keyword>
+		<keyword>anger</keyword>
+		<keyword>flat tire</keyword>
+		<keyword>old friend</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>celebrity</keyword>
+		<keyword>fame</keyword>
+		<keyword>filmmaking</keyword>
+		<keyword>camera</keyword>
+		<keyword>loud shirt</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>night</keyword>
+		<keyword>asian man</keyword>
+		<keyword>diving suit</keyword>
+		<keyword>boat</keyword>
+		<keyword>has been actor</keyword>
+		<keyword>reference to thomas hardy</keyword>
+		<keyword>revenge</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>marriage</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>8 year old</keyword>
+		<keyword>16 year old</keyword>
+		<keyword>radio</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>teenager</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>heiress</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>reference to simon and garfunkel</keyword>
+		<keyword>hope</keyword>
+		<keyword>news report</keyword>
+		<keyword>acid</keyword>
+		<keyword>brunette</keyword>
+		<keyword>fading star</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>cult director</keyword>
+		<keyword>mistaken identity</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>kung fu</keyword>
+		<keyword>parkour</keyword>
+		<keyword>judo</keyword>
+		<keyword>martial arts master</keyword>
+		<keyword>movie studio</keyword>
+		<keyword>film studio</keyword>
+		<keyword>film industry</keyword>
+		<keyword>junk food</keyword>
+		<keyword>bending over</keyword>
+		<keyword>reference to cbs</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>drive in</keyword>
+		<keyword>karmann ghia</keyword>
+		<keyword>fictional television show</keyword>
+		<keyword>box of cigars</keyword>
+		<keyword>reference to morey amsterdam</keyword>
+		<keyword>reference to rose marie</keyword>
+		<keyword>baggage claim</keyword>
+		<keyword>cigarette butt</keyword>
+		<keyword>pet carrier</keyword>
+		<keyword>walking on a roof</keyword>
+		<keyword>cognac</keyword>
+		<keyword>nazi burned alive</keyword>
+		<keyword>film clip</keyword>
+		<keyword>shadow</keyword>
+		<keyword>wanted poster</keyword>
+		<keyword>type casting</keyword>
+		<keyword>reference to robert conrad</keyword>
+		<keyword>reference to joe mannix</keyword>
+		<keyword>parking valet</keyword>
+		<keyword>has been</keyword>
+		<keyword>peace hand gesture</keyword>
+		<keyword>reference to bill cosby</keyword>
+		<keyword>reference to nancy sinatra</keyword>
+		<keyword>reference to ray bradbury</keyword>
+		<keyword>gesture conversation</keyword>
+		<keyword>some scenes in black and white</keyword>
+		<keyword>boeing 747</keyword>
+		<keyword>golf cart</keyword>
+		<keyword>smoking a joint</keyword>
+		<keyword>bloody mary</keyword>
+		<keyword>reference to fabian</keyword>
+		<keyword>female singer</keyword>
+		<keyword>sleeping with a blindfold</keyword>
+		<keyword>margarita</keyword>
+		<keyword>radio contest</keyword>
+		<keyword>shooting a gun into the air</keyword>
+		<keyword>stabbed in the hip</keyword>
+		<keyword>wkhj radio station</keyword>
+		<keyword>features during end credits</keyword>
+		<keyword>man wears a tuxedo</keyword>
+		<keyword>woman hits a woman</keyword>
+		<keyword>dog walking</keyword>
+		<keyword>1960s fashion</keyword>
+		<keyword>man teenage girl relationship</keyword>
+		<keyword>showbiz</keyword>
+		<keyword>television actor</keyword>
+		<keyword>western actor</keyword>
+		<keyword>television industry</keyword>
+		<keyword>television show within a film</keyword>
+		<keyword>fictional tv show within a film</keyword>
+		<keyword>movie within a movie</keyword>
+		<keyword>narrator</keyword>
+		<keyword>shooting a pilot episode</keyword>
+		<keyword>former television star</keyword>
+		<keyword>next door neighbor</keyword>
+		<keyword>drinking alcohol</keyword>
+		<keyword>fictional tv series</keyword>
+		<keyword>western tv series</keyword>
+		<keyword>reference to steve mcqueen the actor</keyword>
+		<keyword>television director</keyword>
+		<keyword>pitbull</keyword>
+		<keyword>studio backlot</keyword>
+		<keyword>filming television show</keyword>
+		<keyword>trailer</keyword>
+		<keyword>fictional movie</keyword>
+		<keyword>mama cass elliot character</keyword>
+		<keyword>italy</keyword>
+		<keyword>reference to dean martin</keyword>
+		<keyword>reference to joe namath</keyword>
+		<keyword>reference to ann margret</keyword>
+		<keyword>rooftop antenna</keyword>
+		<keyword>listening to a radio</keyword>
+		<keyword>playing a record</keyword>
+		<keyword>pig as epithet for cop</keyword>
+		<keyword>pig as epithet</keyword>
+		<keyword>inebriated</keyword>
+		<keyword>high</keyword>
+		<keyword>box office ticket seller</keyword>
+		<keyword>parallel narrative</keyword>
+		<keyword>suspicious</keyword>
+		<keyword>emotional wreck</keyword>
+		<keyword>pistol</keyword>
+		<keyword>headphones</keyword>
+		<keyword>getaway car</keyword>
+		<keyword>ice cube tray</keyword>
+		<keyword>backdoor</keyword>
+		<keyword>intruder</keyword>
+		<keyword>italian actress</keyword>
+		<keyword>alternative history</keyword>
+		<keyword>fake movie posters</keyword>
+		<keyword>movie poster on wall</keyword>
+		<keyword>reference to john sturges</keyword>
+		<keyword>reference to tess of the d'urbervilles the novel</keyword>
+		<keyword>reference to emiliano zapata</keyword>
+		<keyword>reference to frank sinatra</keyword>
+		<keyword>show business</keyword>
+		<keyword>starlet</keyword>
+		<keyword>posing for a photograph</keyword>
+		<keyword>reference to kid colt</keyword>
+		<keyword>reference to sgt. fury and his howling commandos</keyword>
+		<keyword>reference to nick fury</keyword>
+		<keyword>roof</keyword>
+		<keyword>hollywood party</keyword>
+		<keyword>secretive</keyword>
+		<keyword>movie theater marquee</keyword>
+		<keyword>reference to barbara parkins</keyword>
+		<keyword>reference to nancy kwan</keyword>
+		<keyword>talking to one's reflection</keyword>
+		<keyword>reference to alfred e. neuman</keyword>
+		<keyword>private road</keyword>
+		<keyword>gate</keyword>
+		<keyword>gated driveway</keyword>
+		<keyword>squalor</keyword>
+		<keyword>george spahn character</keyword>
+		<keyword>reference to screen gems</keyword>
+		<keyword>reference to john wilkes booth</keyword>
+		<keyword>jump cut</keyword>
+		<keyword>paparazzi</keyword>
+		<keyword>drinking liquor</keyword>
+		<keyword>intoxicated</keyword>
+		<keyword>screening room</keyword>
+		<keyword>marital quarrel</keyword>
+		<keyword>diving mask</keyword>
+		<keyword>reference to robin the boy wonder</keyword>
+		<keyword>parking attendant</keyword>
+		<keyword>reference to charlie chaplin</keyword>
+		<keyword>crosswalk</keyword>
+		<keyword>makeup trailer</keyword>
+		<keyword>reference to the illustrated man</keyword>
+		<keyword>reference to audie murphy</keyword>
+		<keyword>oil derrick</keyword>
+		<keyword>bone</keyword>
+		<keyword>reference to helena rubinstein</keyword>
+		<keyword>tape recording</keyword>
+		<keyword>floating chair</keyword>
+		<keyword>rehearsing lines</keyword>
+		<keyword>movie director</keyword>
+		<keyword>michelle phillips character</keyword>
+		<keyword>milk carton</keyword>
+		<keyword>car dent</keyword>
+		<keyword>reading a book</keyword>
+		<keyword>spitting</keyword>
+		<keyword>coughing</keyword>
+		<keyword>professionalism</keyword>
+		<keyword>fake mustache</keyword>
+		<keyword>reference to richard kiley</keyword>
+		<keyword>reference to jean seberg</keyword>
+		<keyword>tool shed</keyword>
+		<keyword>nap</keyword>
+		<keyword>remote control</keyword>
+		<keyword>taking a nap</keyword>
+		<keyword>waking someone</keyword>
+		<keyword>intercom</keyword>
+		<keyword>reference to efrem zimbalist jr.</keyword>
+		<keyword>reference to carroll baker</keyword>
+		<keyword>italian cinema</keyword>
+		<keyword>italian filmmaking</keyword>
+		<keyword>carrying bride across threshold</keyword>
+		<keyword>reference to cinerama</keyword>
+		<keyword>melancholy</keyword>
+		<keyword>time stamp</keyword>
+		<keyword>police</keyword>
+		<keyword>speaking italian</keyword>
+		<keyword>italian in america</keyword>
+		<keyword>beer can</keyword>
+		<keyword>home movie</keyword>
+		<keyword>showbiz drama</keyword>
+		<keyword>comedic scene</keyword>
+		<keyword>deceased</keyword>
+		<keyword>dog barks</keyword>
+		<keyword>newlywed</keyword>
+		<keyword>searchlight</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>man driving a car</keyword>
+		<keyword>smoking tobacco</keyword>
+		<keyword>flubbing a line</keyword>
+		<keyword>m2 flamethrower</keyword>
+		<keyword>tobacco</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>man wears a wetsuit</keyword>
+		<keyword>husband</keyword>
+		<keyword>wife</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>shotgun shell</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>mexican</keyword>
+		<keyword>mexican man</keyword>
+		<keyword>tire slashed</keyword>
+	</keywords>
+	<directors>
+		<director> Quentin Tarantino</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Jeffrey Chan</producer>
+		<producer> William Paul Clark</producer>
+		<producer> David Heyman</producer>
+		<producer> Georgia Kacandes</producer>
+		<producer> Shannon McIntosh</producer>
+		<producer> Daren Metropoulos</producer>
+		<producer> Quentin Tarantino</producer>
+		<producer> Dong Yu</producer>
+	</producers>
+	<writers>
+		<writer> Quentin Tarantino</writer>
+	</writers>
+	<editors>
+		<editor> Fred Raskin</editor>
+	</editors>
+</doc>

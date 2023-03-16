@@ -1,0 +1,295 @@
+<?xml version="1.0" ?>
+<doc id="tt1485796">
+	<docid>tt1485796</docid>
+	<title>The Greatest Showman</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI1NDYzNzY2Ml5BMl5BanBnXkFtZTgwODQwODczNTM@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">105</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>Musical</genre>
+	</genres>
+	<plot>Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Hugh Jackman</actor>
+			<role>P.T. Barnum</role>
+		</credit>
+		<credit>
+			<actor>Michelle Williams</actor>
+			<role>Charity Barnum</role>
+		</credit>
+		<credit>
+			<actor>Zac Efron</actor>
+			<role>Phillip Carlyle</role>
+		</credit>
+		<credit>
+			<actor>Zendaya</actor>
+			<role>Anne Wheeler</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Ferguson</actor>
+			<role>Jenny Lind</role>
+		</credit>
+		<credit>
+			<actor>Austyn Johnson</actor>
+			<role>Caroline Barnum</role>
+		</credit>
+		<credit>
+			<actor>Cameron Seely</actor>
+			<role>Helen Barnum</role>
+		</credit>
+		<credit>
+			<actor>Keala Settle</actor>
+			<role>Lettie Lutz</role>
+		</credit>
+		<credit>
+			<actor>Sam Humphrey</actor>
+			<role>Tom Thumb</role>
+		</credit>
+		<credit>
+			<actor>Yahya Abdul-Mateen II</actor>
+			<role>W.D. Wheeler</role>
+		</credit>
+		<credit>
+			<actor>Eric Anderson</actor>
+			<role>Mr. O'Malley</role>
+		</credit>
+		<credit>
+			<actor>Ellis Rubin</actor>
+			<role>Young Barnum</role>
+		</credit>
+		<credit>
+			<actor>Skylar Dunn</actor>
+			<role>Young Charity</role>
+		</credit>
+		<credit>
+			<actor>Daniel Everidge</actor>
+			<role>Lord of Leeds</role>
+		</credit>
+		<credit>
+			<actor>Radu Spinghel</actor>
+			<role>O'Clancy</role>
+		</credit>
+		<credit>
+			<actor>Yusaku Komori</actor>
+			<role>Chang</role>
+		</credit>
+		<credit>
+			<actor>Danial Son</actor>
+			<role>Eng</role>
+		</credit>
+		<credit>
+			<actor>Paul Sparks</actor>
+			<role>James Gordon Bennett</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">December 20 2017</releasedate>
+		<releasedate country="South Korea">December 20 2017</releasedate>
+		<releasedate country="Taiwan">December 20 2017</releasedate>
+		<releasedate country="United States">December 20 2017</releasedate>
+		<releasedate country="Hong Kong">December 21 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Costa Rica">TP</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K-8</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">6</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Nigeria">12A</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>singing</keyword>
+		<keyword>circus</keyword>
+		<keyword>bearded lady</keyword>
+		<keyword>social outcast</keyword>
+		<keyword>social prejudice</keyword>
+		<keyword>circus act</keyword>
+		<keyword>success</keyword>
+		<keyword>opera</keyword>
+		<keyword>dancing</keyword>
+		<keyword>bank loan</keyword>
+		<keyword>mansion</keyword>
+		<keyword>showman</keyword>
+		<keyword>three word title</keyword>
+		<keyword>female acrobat</keyword>
+		<keyword>ringmaster</keyword>
+		<keyword>opera singer</keyword>
+		<keyword>falling in love</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>museum</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>interracial love</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>acrobat</keyword>
+		<keyword>oddity</keyword>
+		<keyword>live act</keyword>
+		<keyword>singer</keyword>
+		<keyword>discrimination</keyword>
+		<keyword>family man</keyword>
+		<keyword>friendship</keyword>
+		<keyword>freak show</keyword>
+		<keyword>tattooed man</keyword>
+		<keyword>giant</keyword>
+		<keyword>elephant</keyword>
+		<keyword>ballet</keyword>
+		<keyword>ballet shoes</keyword>
+		<keyword>dancer</keyword>
+		<keyword>trapeze artist</keyword>
+		<keyword>tailor</keyword>
+		<keyword>dog boy</keyword>
+		<keyword>obese man</keyword>
+		<keyword>party</keyword>
+		<keyword>protest</keyword>
+		<keyword>demonstration</keyword>
+		<keyword>fight</keyword>
+		<keyword>lantern</keyword>
+		<keyword>kiss</keyword>
+		<keyword>theatre critic</keyword>
+		<keyword>ticket taker</keyword>
+		<keyword>lion</keyword>
+		<keyword>fire</keyword>
+		<keyword>arson</keyword>
+		<keyword>building on fire</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>bar</keyword>
+		<keyword>little person</keyword>
+		<keyword>children</keyword>
+		<keyword>controversial historical figure</keyword>
+		<keyword>theatre fire</keyword>
+		<keyword>stage</keyword>
+		<keyword>gift</keyword>
+		<keyword>song</keyword>
+		<keyword>girl</keyword>
+		<keyword>father disapproves of daughter's boyfriend</keyword>
+		<keyword>australian actor playing american character</keyword>
+		<keyword>truth</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>wax museum</keyword>
+		<keyword>limelight</keyword>
+		<keyword>ambition</keyword>
+		<keyword>primadonna</keyword>
+		<keyword>taboo</keyword>
+		<keyword>siamese twins</keyword>
+		<keyword>female albino</keyword>
+		<keyword>spinning lamp</keyword>
+		<keyword>wishing machine</keyword>
+		<keyword>playwright</keyword>
+		<keyword>beach</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>child abuse</keyword>
+		<keyword>reference to leonardo da vinci</keyword>
+		<keyword>reference to marie antoinette</keyword>
+		<keyword>queen victoria</keyword>
+		<keyword>in medias res</keyword>
+		<keyword>whispering</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>2010s</keyword>
+		<keyword>2017</keyword>
+		<keyword>newspaper theater critic</keyword>
+		<keyword>circus performer</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>pop musical</keyword>
+		<keyword>stage musical</keyword>
+		<keyword>love triangle</keyword>
+		<keyword>alcoholism</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Gracey</director>
+	</directors>
+	<composers>
+		<composer> John Debney</composer>
+		<composer> Joseph Trapanese</composer>
+	</composers>
+	<producers>
+		<producer> Peter Chernin</producer>
+		<producer> Tonia Davis</producer>
+		<producer> Deb Dyer</producer>
+		<producer> Peter Kohn</producer>
+		<producer> Donald J. Lee Jr.</producer>
+		<producer> James Mangold</producer>
+		<producer> Laurence Mark</producer>
+		<producer> Jenno Topping</producer>
+	</producers>
+	<writers>
+		<writer> Jenny Bicks</writer>
+		<writer> Bill Condon</writer>
+		<writer> Jenny Bicks</writer>
+	</writers>
+	<editors>
+		<editor> Tom Cross</editor>
+		<editor> Robert Duffy</editor>
+		<editor> Joe Hutshing</editor>
+		<editor> Michael McCusker</editor>
+		<editor> Jon Poll</editor>
+		<editor> Spencer Susser</editor>
+	</editors>
+</doc>

@@ -1,0 +1,776 @@
+<?xml version="1.0" ?>
+<doc id="tt8946378">
+	<docid>tt8946378</docid>
+	<title>Knives Out</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A detective investigates the death of the patriarch of an eccentric, combative family.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Daniel Craig</actor>
+			<role>Benoit Blanc</role>
+		</credit>
+		<credit>
+			<actor>Chris Evans</actor>
+			<role>Ransom Drysdale</role>
+		</credit>
+		<credit>
+			<actor>Ana de Armas</actor>
+			<role>Marta Cabrera</role>
+		</credit>
+		<credit>
+			<actor>Jamie Lee Curtis</actor>
+			<role>Linda Drysdale</role>
+		</credit>
+		<credit>
+			<actor>Michael Shannon</actor>
+			<role>Walt Thrombey</role>
+		</credit>
+		<credit>
+			<actor>Don Johnson</actor>
+			<role>Richard Drysdale</role>
+		</credit>
+		<credit>
+			<actor>Toni Collette</actor>
+			<role>Joni Thrombey</role>
+		</credit>
+		<credit>
+			<actor>LaKeith Stanfield</actor>
+			<role>Lieutenant Elliott</role>
+		</credit>
+		<credit>
+			<actor>Christopher Plummer</actor>
+			<role>Harlan Thrombey</role>
+		</credit>
+		<credit>
+			<actor>Katherine Langford</actor>
+			<role>Meg Thrombey</role>
+		</credit>
+		<credit>
+			<actor>Jaeden Martell</actor>
+			<role>Jacob Thrombey</role>
+		</credit>
+		<credit>
+			<actor>Riki Lindhome</actor>
+			<role>Donna Thrombey</role>
+		</credit>
+		<credit>
+			<actor>Edi Patterson</actor>
+			<role>Fran</role>
+		</credit>
+		<credit>
+			<actor>Frank Oz</actor>
+			<role>Alan Stevens</role>
+		</credit>
+		<credit>
+			<actor>K Callan</actor>
+			<role>Greatnana Wanetta</role>
+		</credit>
+		<credit>
+			<actor>Noah Segan</actor>
+			<role>Trooper Wagner</role>
+		</credit>
+		<credit>
+			<actor>M. Emmet Walsh</actor>
+			<role>Mr. Proofroc</role>
+		</credit>
+		<credit>
+			<actor>Marlene Forte</actor>
+			<role>Marta's Mom</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 7 2019</releasedate>
+		<releasedate country="United States">September 26 2019</releasedate>
+		<releasedate country="United States">October 4 2019</releasedate>
+		<releasedate country="United Kingdom">October 8 2019</releasedate>
+		<releasedate country="Belgium">October 10 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">All ages</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">8</certificate>
+		<certificate country="Taiwan">6+</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>private detective</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>suspected suicide</keyword>
+		<keyword>last will and testament</keyword>
+		<keyword>detective</keyword>
+		<keyword>police</keyword>
+		<keyword>nurse</keyword>
+		<keyword>murder</keyword>
+		<keyword>old man</keyword>
+		<keyword>old woman</keyword>
+		<keyword>vomiting on someone</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>racism</keyword>
+		<keyword>cover up</keyword>
+		<keyword>birthday party</keyword>
+		<keyword>novelist</keyword>
+		<keyword>inheritance</keyword>
+		<keyword>framed for murder</keyword>
+		<keyword>dysfunctional family</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>house</keyword>
+		<keyword>car chase</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>dog</keyword>
+		<keyword>sneakers</keyword>
+		<keyword>clue</keyword>
+		<keyword>hispanic american woman</keyword>
+		<keyword>chase</keyword>
+		<keyword>suspect</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>housekeeper</keyword>
+		<keyword>flashback</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>knife collection</keyword>
+		<keyword>retractable knife blade</keyword>
+		<keyword>investigation</keyword>
+		<keyword>police car</keyword>
+		<keyword>abandoned laundromat</keyword>
+		<keyword>trellis</keyword>
+		<keyword>guard dog</keyword>
+		<keyword>climbing a trellis</keyword>
+		<keyword>blood</keyword>
+		<keyword>statue</keyword>
+		<keyword>portrait painting</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>greed</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>college tuition</keyword>
+		<keyword>latina</keyword>
+		<keyword>black american</keyword>
+		<keyword>two word title</keyword>
+		<keyword>mystery killer</keyword>
+		<keyword>racist</keyword>
+		<keyword>maid</keyword>
+		<keyword>nazi</keyword>
+		<keyword>suicide</keyword>
+		<keyword>hand over mouth</keyword>
+		<keyword>chloroform</keyword>
+		<keyword>injection</keyword>
+		<keyword>morphine</keyword>
+		<keyword>overdose</keyword>
+		<keyword>interfering with an investigation</keyword>
+		<keyword>frame up</keyword>
+		<keyword>security camera</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>death</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>birthday</keyword>
+		<keyword>birthday cake</keyword>
+		<keyword>piano</keyword>
+		<keyword>knife</keyword>
+		<keyword>medicine</keyword>
+		<keyword>profanity</keyword>
+		<keyword>blood spot</keyword>
+		<keyword>invisible ink</keyword>
+		<keyword>crime writer</keyword>
+		<keyword>patriarch</keyword>
+		<keyword>death of grandfather</keyword>
+		<keyword>upper class</keyword>
+		<keyword>great grandmother</keyword>
+		<keyword>mansion</keyword>
+		<keyword>private nurse</keyword>
+		<keyword>police chase</keyword>
+		<keyword>arson</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>anger</keyword>
+		<keyword>needle</keyword>
+		<keyword>syringe</keyword>
+		<keyword>police officer</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>state trooper</keyword>
+		<keyword>suspense</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>molotov cocktail</keyword>
+		<keyword>fire</keyword>
+		<keyword>illegal immigrant</keyword>
+		<keyword>south american</keyword>
+		<keyword>spider</keyword>
+		<keyword>author</keyword>
+		<keyword>writer</keyword>
+		<keyword>mystery writer</keyword>
+		<keyword>mystery novelist</keyword>
+		<keyword>laundromat</keyword>
+		<keyword>hospital</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>reference to donald trump</keyword>
+		<keyword>reference to colonel sanders</keyword>
+		<keyword>corpse</keyword>
+		<keyword>car accident</keyword>
+		<keyword>manor house</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>jewish american</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>private investigator</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>guilt</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>videotape</keyword>
+		<keyword>memorial</keyword>
+		<keyword>cannabis</keyword>
+		<keyword>drug addict</keyword>
+		<keyword>drug overdose</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>flipping a coin</keyword>
+		<keyword>climbing up a wall</keyword>
+		<keyword>climbing through a window</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>disguise</keyword>
+		<keyword>party</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>rescue</keyword>
+		<keyword>e mail</keyword>
+		<keyword>texting</keyword>
+		<keyword>escape</keyword>
+		<keyword>bar</keyword>
+		<keyword>secret passageway</keyword>
+		<keyword>news report</keyword>
+		<keyword>publisher</keyword>
+		<keyword>lifestyle guru</keyword>
+		<keyword>embezzlement</keyword>
+		<keyword>money</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>self referential</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>widow</keyword>
+		<keyword>letter</keyword>
+		<keyword>extramarital affair</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>adultery</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>coercion</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>painting</keyword>
+		<keyword>grandfather granddaughter relationship</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>medication</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>forensic evidence</keyword>
+		<keyword>reference to sherlock holmes</keyword>
+		<keyword>reference to doctor john watson</keyword>
+		<keyword>telephone</keyword>
+		<keyword>teenager</keyword>
+		<keyword>college student</keyword>
+		<keyword>security guard</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>argument</keyword>
+		<keyword>attic</keyword>
+		<keyword>magnifying glass</keyword>
+		<keyword>deduction</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>red herring</keyword>
+		<keyword>end credits roll call</keyword>
+		<keyword>gothic</keyword>
+		<keyword>crime novelist</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>panic</keyword>
+		<keyword>antidote</keyword>
+		<keyword>interview</keyword>
+		<keyword>arrest</keyword>
+		<keyword>walking stick</keyword>
+		<keyword>product placement</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>garbage truck</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>photograph</keyword>
+		<keyword>anxiety</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>rain</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>notebook</keyword>
+		<keyword>evidence</keyword>
+		<keyword>playboy</keyword>
+		<keyword>property developer</keyword>
+		<keyword>blood stain</keyword>
+		<keyword>mud</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>confession</keyword>
+		<keyword>loss of fortune</keyword>
+		<keyword>female lawyer</keyword>
+		<keyword>cpr</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>yelling</keyword>
+		<keyword>class differences</keyword>
+		<keyword>unsubtitled foreign language</keyword>
+		<keyword>law</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>hidden door</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>country house</keyword>
+		<keyword>tennis ball</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>murder suicide</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>real estate developer</keyword>
+		<keyword>collectibles</keyword>
+		<keyword>anonymous employer</keyword>
+		<keyword>murder confession</keyword>
+		<keyword>writer director producer</keyword>
+		<keyword>evil rich family</keyword>
+		<keyword>police interrogation</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>parent child relationship</keyword>
+		<keyword>father in law son in law relationship</keyword>
+		<keyword>adulterous husband</keyword>
+		<keyword>caregiver</keyword>
+		<keyword>morphine overdose</keyword>
+		<keyword>memorial service</keyword>
+		<keyword>secret</keyword>
+		<keyword>security camera footage</keyword>
+		<keyword>destroying evidence</keyword>
+		<keyword>family feud</keyword>
+		<keyword>new england</keyword>
+		<keyword>reading of a last will and testament</keyword>
+		<keyword>false alibi</keyword>
+		<keyword>performing cpr</keyword>
+		<keyword>lie</keyword>
+		<keyword>toxicology report</keyword>
+		<keyword>go the board game</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>crime fiction writer</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>sitting on stairs</keyword>
+		<keyword>businesswoman</keyword>
+		<keyword>finding a dead body</keyword>
+		<keyword>discovering a dead body</keyword>
+		<keyword>mysterious death</keyword>
+		<keyword>knife collector</keyword>
+		<keyword>spilled drink</keyword>
+		<keyword>watching a movie</keyword>
+		<keyword>watching a movie on a laptop</keyword>
+		<keyword>watching a movie on a computer</keyword>
+		<keyword>rich man</keyword>
+		<keyword>rich woman</keyword>
+		<keyword>student</keyword>
+		<keyword>publishing house</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>home care nurse</keyword>
+		<keyword>private eye</keyword>
+		<keyword>crying</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>ecuadorian in usa</keyword>
+		<keyword>murder suspect</keyword>
+		<keyword>cake</keyword>
+		<keyword>african american</keyword>
+		<keyword>african american detective</keyword>
+		<keyword>african american policeman</keyword>
+		<keyword>political activist</keyword>
+		<keyword>ecuadorian abroad</keyword>
+		<keyword>ecuadorian immigrant</keyword>
+		<keyword>family business</keyword>
+		<keyword>fired from a job</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>activist</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>punishment</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>puzzle plot</keyword>
+		<keyword>greedy woman</keyword>
+		<keyword>camera shot of feet</keyword>
+		<keyword>greedy man</keyword>
+		<keyword>check</keyword>
+		<keyword>cheque</keyword>
+		<keyword>frenchman in usa</keyword>
+		<keyword>european in usa</keyword>
+		<keyword>caught eavesdropping</keyword>
+		<keyword>downpour</keyword>
+		<keyword>gag reflex</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>dog barks</keyword>
+		<keyword>meditation</keyword>
+		<keyword>cheating husband</keyword>
+		<keyword>sitting on the floor</keyword>
+		<keyword>compromising photograph</keyword>
+		<keyword>board game</keyword>
+		<keyword>woken up by noises</keyword>
+		<keyword>secret relationship</keyword>
+		<keyword>walking with a cane</keyword>
+		<keyword>reference to cluedo</keyword>
+		<keyword>snoring</keyword>
+		<keyword>snoring woman</keyword>
+		<keyword>game</keyword>
+		<keyword>death by throat slitting</keyword>
+		<keyword>dagger</keyword>
+		<keyword>reference to adolf hitler</keyword>
+		<keyword>politics</keyword>
+		<keyword>nationalist</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>scene told from more than one perspective</keyword>
+		<keyword>covering someone's mouth</keyword>
+		<keyword>repeated scene from a different perspective</keyword>
+		<keyword>scheme</keyword>
+		<keyword>elephant statue</keyword>
+		<keyword>nationalism</keyword>
+		<keyword>american nationalist</keyword>
+		<keyword>accomplice</keyword>
+		<keyword>climbing up a ladder</keyword>
+		<keyword>secret door</keyword>
+		<keyword>tv show within a film</keyword>
+		<keyword>intrigue</keyword>
+		<keyword>pretending to be someone else</keyword>
+		<keyword>marijuana</keyword>
+		<keyword>suspicious man</keyword>
+		<keyword>high society</keyword>
+		<keyword>rich family</keyword>
+		<keyword>f rated</keyword>
+		<keyword>death by throat cutting</keyword>
+		<keyword>reference to angela lansbury</keyword>
+		<keyword>disembodied voice</keyword>
+		<keyword>voice over flashback</keyword>
+		<keyword>slitting one's throat</keyword>
+		<keyword>taking off shoes</keyword>
+		<keyword>working class</keyword>
+		<keyword>videocassette recorder</keyword>
+		<keyword>whistling</keyword>
+		<keyword>whistling on fingers</keyword>
+		<keyword>compromising video</keyword>
+		<keyword>vhs</keyword>
+		<keyword>video cassette</keyword>
+		<keyword>watching a video</keyword>
+		<keyword>isolated house</keyword>
+		<keyword>magnet</keyword>
+		<keyword>looking glass</keyword>
+		<keyword>brother in law brother in law relationship</keyword>
+		<keyword>slacker</keyword>
+		<keyword>matronizing</keyword>
+		<keyword>reading a letter aloud</keyword>
+		<keyword>heir</keyword>
+		<keyword>reading aloud</keyword>
+		<keyword>talking to a dog</keyword>
+		<keyword>talking to an animal</keyword>
+		<keyword>throwing a ball for a dog</keyword>
+		<keyword>biscuit</keyword>
+		<keyword>cookie</keyword>
+		<keyword>heiress</keyword>
+		<keyword>sole heir</keyword>
+		<keyword>sole heiress</keyword>
+		<keyword>outburst</keyword>
+		<keyword>hysterical outburst</keyword>
+		<keyword>racist remark</keyword>
+		<keyword>malice</keyword>
+		<keyword>malicious man</keyword>
+		<keyword>racist boy</keyword>
+		<keyword>xenophobic remark</keyword>
+		<keyword>xenophobic society</keyword>
+		<keyword>xenophobic boy</keyword>
+		<keyword>xenophobic man</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>malicious woman</keyword>
+		<keyword>disbelief</keyword>
+		<keyword>twisted thriller</keyword>
+		<keyword>manipulative man</keyword>
+		<keyword>manipulator</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>manipulative behavior</keyword>
+		<keyword>manipulative woman</keyword>
+		<keyword>googling for information</keyword>
+		<keyword>reference to o.j. simpson</keyword>
+		<keyword>comedy of manners</keyword>
+		<keyword>drinking beer</keyword>
+		<keyword>emotional blackmail</keyword>
+		<keyword>listening to country music</keyword>
+		<keyword>mind game</keyword>
+		<keyword>lack of money</keyword>
+		<keyword>news reporter</keyword>
+		<keyword>reporter</keyword>
+		<keyword>television reporter</keyword>
+		<keyword>listening to classical music</keyword>
+		<keyword>witness</keyword>
+		<keyword>note</keyword>
+		<keyword>nurse as protagonist</keyword>
+		<keyword>home care nurse as protagonist</keyword>
+		<keyword>house on fire</keyword>
+		<keyword>drinking coffee</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>laboratory on fire</keyword>
+		<keyword>hairdressing salon</keyword>
+		<keyword>blackmailer</keyword>
+		<keyword>listening to music in a car</keyword>
+		<keyword>running from police</keyword>
+		<keyword>chased by police</keyword>
+		<keyword>following someone</keyword>
+		<keyword>following a car</keyword>
+		<keyword>following someone in a car</keyword>
+		<keyword>being followed</keyword>
+		<keyword>lying on the floor</keyword>
+		<keyword>one shoe off one shoe on</keyword>
+		<keyword>emergency call</keyword>
+		<keyword>housemaid</keyword>
+		<keyword>wanted woman</keyword>
+		<keyword>knocking on a window</keyword>
+		<keyword>knocking on a car window</keyword>
+		<keyword>vomiting into a cup</keyword>
+		<keyword>hiding place</keyword>
+		<keyword>neo nazi</keyword>
+		<keyword>entering through a window</keyword>
+		<keyword>learning the truth</keyword>
+		<keyword>character appears in newspaper</keyword>
+		<keyword>female blackmailer</keyword>
+		<keyword>setting a fire</keyword>
+		<keyword>setting a house on fire</keyword>
+		<keyword>anonymous letter</keyword>
+		<keyword>chloroformed woman</keyword>
+		<keyword>murder attempt</keyword>
+		<keyword>vomiting in someone's face</keyword>
+		<keyword>covered in vomit</keyword>
+		<keyword>chekhov's gun</keyword>
+		<keyword>switchblade</keyword>
+		<keyword>suicide by throat slitting</keyword>
+		<keyword>handcuffed man</keyword>
+		<keyword>handcuffed by the police</keyword>
+		<keyword>man wears sunglasses</keyword>
+		<keyword>man wears a leather jacket</keyword>
+		<keyword>woman wears a bathrobe</keyword>
+		<keyword>woman wears a nightgown</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>breaking into a desk</keyword>
+		<keyword>caretaker</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>sleuth</keyword>
+		<keyword>threat</keyword>
+		<keyword>light sleeper</keyword>
+		<keyword>morgan silver dollar</keyword>
+		<keyword>baseball</keyword>
+		<keyword>motive for murder</keyword>
+		<keyword>injection in arm</keyword>
+		<keyword>drug mixup</keyword>
+		<keyword>hidden window</keyword>
+		<keyword>drop of blood</keyword>
+		<keyword>surveilance video</keyword>
+		<keyword>vhs cassette</keyword>
+		<keyword>car won't start</keyword>
+		<keyword>mob of reporters</keyword>
+		<keyword>attacked with a knife</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>car</keyword>
+		<keyword>south korean car</keyword>
+		<keyword>hyundai</keyword>
+		<keyword>hyundai accent</keyword>
+		<keyword>german car</keyword>
+		<keyword>classic car</keyword>
+		<keyword>bmw</keyword>
+		<keyword>erasing a videotape</keyword>
+		<keyword>envelope</keyword>
+		<keyword>undocumented immigrant</keyword>
+		<keyword>coffee mug</keyword>
+		<keyword>switching medication</keyword>
+		<keyword>tampering with medication</keyword>
+		<keyword>medicine bag</keyword>
+		<keyword>reference to danica mckellar</keyword>
+		<keyword>shoe</keyword>
+		<keyword>reference to kentucky fried chicken</keyword>
+		<keyword>reference to clue the board game</keyword>
+		<keyword>tripping someone</keyword>
+		<keyword>robe</keyword>
+		<keyword>mystery author</keyword>
+		<keyword>reference to the hallmark channel</keyword>
+		<keyword>hispanic</keyword>
+		<keyword>marijuana cigarette</keyword>
+		<keyword>marijuana stash</keyword>
+		<keyword>political argument</keyword>
+		<keyword>refrigerator magnet</keyword>
+		<keyword>reference to hamilton the stage musical</keyword>
+		<keyword>envelope full of money</keyword>
+		<keyword>reference to the new yorker the magazine</keyword>
+		<keyword>reflex reaction</keyword>
+		<keyword>anti immigrant</keyword>
+		<keyword>security video</keyword>
+		<keyword>vhs tape</keyword>
+		<keyword>vcr</keyword>
+		<keyword>middle name</keyword>
+		<keyword>caterer</keyword>
+		<keyword>footprints</keyword>
+		<keyword>playing fetch</keyword>
+		<keyword>overhearing a conversation</keyword>
+		<keyword>cane</keyword>
+		<keyword>sweater</keyword>
+		<keyword>baked beans</keyword>
+		<keyword>audio recording</keyword>
+		<keyword>calling 911</keyword>
+		<keyword>lethal dose</keyword>
+		<keyword>photocopy</keyword>
+		<keyword>crime scene tape</keyword>
+		<keyword>murder plot</keyword>
+		<keyword>black police officer</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>u.s. car</keyword>
+		<keyword>ford car</keyword>
+		<keyword>whodunnit mystery</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>knife sculpture</keyword>
+		<keyword>sparkler on a cake</keyword>
+		<keyword>fidgeting</keyword>
+		<keyword>apparent suicide</keyword>
+		<keyword>medicine vial</keyword>
+		<keyword>personal check</keyword>
+		<keyword>accidental overdose</keyword>
+		<keyword>morgan dollar</keyword>
+		<keyword>hippopotamus statue</keyword>
+		<keyword>walking in the woods</keyword>
+		<keyword>benoit blanc character</keyword>
+		<keyword>gay protagonist</keyword>
+		<keyword>21th century</keyword>
+		<keyword>chauvinism</keyword>
+		<keyword>australian actress plays an american character</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>car crash</keyword>
+		<keyword>police car crash</keyword>
+		<keyword>creating an alibi</keyword>
+		<keyword>cutting one's own throat</keyword>
+		<keyword>dance</keyword>
+		<keyword>gay character</keyword>
+		<keyword>german shepherd the dog</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>reference to masturbation</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>saving a life</keyword>
+		<keyword>spider crawls on someone's face</keyword>
+		<keyword>woman vomits</keyword>
+		<keyword>written out of a will</keyword>
+		<keyword>unfaithfulness</keyword>
+		<keyword>all star cast</keyword>
+		<keyword>gay</keyword>
+		<keyword>death of father</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>plot twist</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>f word</keyword>
+		<keyword>reference to foghorn leghorn</keyword>
+		<keyword>southern american accent</keyword>
+		<keyword>father in law daughter in law relationship</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>footprint in mud</keyword>
+		<keyword>anti racism</keyword>
+		<keyword>written by director</keyword>
+		<keyword>police detective</keyword>
+		<keyword>massachusetts</keyword>
+		<keyword>cult film</keyword>
+		<keyword>groundskeeper</keyword>
+		<keyword>prop knife</keyword>
+	</keywords>
+	<directors>
+		<director> Rian Johnson</director>
+	</directors>
+	<composers>
+		<composer> Nathan Johnson</composer>
+	</composers>
+	<producers>
+		<producer> Ram Bergman</producer>
+		<producer> Leopold Hughes</producer>
+		<producer> Rian Johnson</producer>
+		<producer> Nikos Karamigios</producer>
+		<producer> Tom Karnowski</producer>
+	</producers>
+	<writers>
+		<writer> Rian Johnson</writer>
+	</writers>
+	<editors>
+		<editor> Bob Ducsay</editor>
+	</editors>
+</doc>

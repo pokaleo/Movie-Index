@@ -1,0 +1,450 @@
+<?xml version="1.0" ?>
+<doc id="tt2380307">
+	<docid>tt2380307</docid>
+	<title>Coco</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>I 2017</year>
+	<runningtimes>
+		<runningtime country="default">105</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Anthony Gonzalez</actor>
+			<role>Miguel</role>
+		</credit>
+		<credit>
+			<actor>Gael García Bernal</actor>
+			<role>Héctor</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Bratt</actor>
+			<role>Ernesto de la Cruz</role>
+		</credit>
+		<credit>
+			<actor>Alanna Ubach</actor>
+			<role>Mamá Imelda</role>
+		</credit>
+		<credit>
+			<actor>Renee Victor</actor>
+			<role>Abuelita</role>
+		</credit>
+		<credit>
+			<actor>Jaime Camil</actor>
+			<role>Papá</role>
+		</credit>
+		<credit>
+			<actor>Alfonso Arau</actor>
+			<role>Papá Julio</role>
+		</credit>
+		<credit>
+			<actor>Herbert Siguenza</actor>
+			<role>Tío Oscar</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Iglesias</actor>
+			<role>Clerk</role>
+		</credit>
+		<credit>
+			<actor>Lombardo Boyar</actor>
+			<role>Plaza Mariachi</role>
+		</credit>
+		<credit>
+			<actor>Ana Ofelia Murguía</actor>
+			<role>Mamá Coco</role>
+		</credit>
+		<credit>
+			<actor>Natalia Cordova-Buckley</actor>
+			<role>Frida Kahlo</role>
+		</credit>
+		<credit>
+			<actor>Selene Luna</actor>
+			<role>Tía Rosita</role>
+		</credit>
+		<credit>
+			<actor>Edward James Olmos</actor>
+			<role>Chicharrón</role>
+		</credit>
+		<credit>
+			<actor>Sofía Espinosa</actor>
+			<role>Mamá</role>
+		</credit>
+		<credit>
+			<actor>Carla Medina</actor>
+			<role>Departures Agent</role>
+		</credit>
+		<credit>
+			<actor>Dyana Ortelli</actor>
+			<role>Tía Victoria</role>
+		</credit>
+		<credit>
+			<actor>Luis Valdez</actor>
+			<role>Tío Berto</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Mexico">October 20 2017</releasedate>
+		<releasedate country="Mexico">October 27 2017</releasedate>
+		<releasedate country="France">November 14 2017</releasedate>
+		<releasedate country="Canada">November 22 2017</releasedate>
+		<releasedate country="Egypt">November 22 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Costa Rica">TP</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">PG-15</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">All</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Luxembourg">A</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Nigeria">G</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">0</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Russia">0+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="South Korea">7</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+		<certificate country="Vietnam">P</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mexico</keyword>
+		<keyword>afterlife</keyword>
+		<keyword>musician</keyword>
+		<keyword>death</keyword>
+		<keyword>day of the dead</keyword>
+		<keyword>petal</keyword>
+		<keyword>singing</keyword>
+		<keyword>memory</keyword>
+		<keyword>ban on music</keyword>
+		<keyword>dog</keyword>
+		<keyword>mexican culture</keyword>
+		<keyword>exclusive party</keyword>
+		<keyword>murder</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>bell falling on someone</keyword>
+		<keyword>child protagonist</keyword>
+		<keyword>disney</keyword>
+		<keyword>guitar</keyword>
+		<keyword>shoeshine boy</keyword>
+		<keyword>shoeshine</keyword>
+		<keyword>breaking a guitar</keyword>
+		<keyword>photograph</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>tomb</keyword>
+		<keyword>land of the dead</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>falling into a swimming pool</keyword>
+		<keyword>show</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>death of loved one</keyword>
+		<keyword>gender disguise</keyword>
+		<keyword>city view</keyword>
+		<keyword>acoustic guitar</keyword>
+		<keyword>dancer</keyword>
+		<keyword>hit on the head with a shoe</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>flower</keyword>
+		<keyword>statue</keyword>
+		<keyword>face paint</keyword>
+		<keyword>running away from home</keyword>
+		<keyword>breaking in</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>police</keyword>
+		<keyword>stage fright</keyword>
+		<keyword>bouncer</keyword>
+		<keyword>carrying a boy on one's shoulders</keyword>
+		<keyword>living skeleton</keyword>
+		<keyword>skull makeup</keyword>
+		<keyword>great great grandfather great great grandson relationship</keyword>
+		<keyword>grandmother grandson relationship</keyword>
+		<keyword>shoemaker</keyword>
+		<keyword>giving a blessing</keyword>
+		<keyword>movie star</keyword>
+		<keyword>talent show</keyword>
+		<keyword>talent contest</keyword>
+		<keyword>forgotten</keyword>
+		<keyword>animate skeleton</keyword>
+		<keyword>talking skeleton</keyword>
+		<keyword>male hero</keyword>
+		<keyword>male villain</keyword>
+		<keyword>entering through a window</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>police officer</keyword>
+		<keyword>plot twist</keyword>
+		<keyword>ghost</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>shoemaking</keyword>
+		<keyword>boy</keyword>
+		<keyword>great grandmother</keyword>
+		<keyword>ancestor</keyword>
+		<keyword>bell</keyword>
+		<keyword>dia de los muertos</keyword>
+		<keyword>flashback</keyword>
+		<keyword>poisoning</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>revenge</keyword>
+		<keyword>poison</keyword>
+		<keyword>tears</keyword>
+		<keyword>frida kahlo</keyword>
+		<keyword>leaf</keyword>
+		<keyword>smoke</keyword>
+		<keyword>purple sky</keyword>
+		<keyword>record album</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>son in law</keyword>
+		<keyword>mother in law</keyword>
+		<keyword>family portrait</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>anniversary</keyword>
+		<keyword>cross</keyword>
+		<keyword>crucifix</keyword>
+		<keyword>crucifix mounted on a wall</keyword>
+		<keyword>workshop</keyword>
+		<keyword>air guitar</keyword>
+		<keyword>record player</keyword>
+		<keyword>attic</keyword>
+		<keyword>tour</keyword>
+		<keyword>mustache</keyword>
+		<keyword>apron</keyword>
+		<keyword>repressed</keyword>
+		<keyword>repression</keyword>
+		<keyword>contest</keyword>
+		<keyword>stray dog</keyword>
+		<keyword>hit in the face with a shoe</keyword>
+		<keyword>fate</keyword>
+		<keyword>pinching cheek</keyword>
+		<keyword>monument</keyword>
+		<keyword>motto</keyword>
+		<keyword>breaking a window</keyword>
+		<keyword>theft</keyword>
+		<keyword>running away</keyword>
+		<keyword>thief</keyword>
+		<keyword>robbing</keyword>
+		<keyword>bridge</keyword>
+		<keyword>public announcement</keyword>
+		<keyword>customs</keyword>
+		<keyword>uniform</keyword>
+		<keyword>visor</keyword>
+		<keyword>doorman</keyword>
+		<keyword>straw hat</keyword>
+		<keyword>funicular</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>telephone booth</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>public phone</keyword>
+		<keyword>cable car</keyword>
+		<keyword>monkey on shoulder</keyword>
+		<keyword>blessing</keyword>
+		<keyword>descendant</keyword>
+		<keyword>stage</keyword>
+		<keyword>hammock</keyword>
+		<keyword>lantern</keyword>
+		<keyword>bungalow</keyword>
+		<keyword>shack</keyword>
+		<keyword>love song</keyword>
+		<keyword>superstition</keyword>
+		<keyword>slit skirt</keyword>
+		<keyword>microphone</keyword>
+		<keyword>duet</keyword>
+		<keyword>alley</keyword>
+		<keyword>singer</keyword>
+		<keyword>eye shadow</keyword>
+		<keyword>persistence</keyword>
+		<keyword>mimicking</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>villain</keyword>
+		<keyword>traitor</keyword>
+		<keyword>instrument tuning</keyword>
+		<keyword>cobbler the shoemaker</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>disability</keyword>
+		<keyword>year 2017</keyword>
+		<keyword>skunk</keyword>
+		<keyword>bad smell</keyword>
+		<keyword>grief</keyword>
+		<keyword>lost memory</keyword>
+		<keyword>dead</keyword>
+		<keyword>family business</keyword>
+		<keyword>flower petal</keyword>
+		<keyword>frida kahlo character</keyword>
+		<keyword>reference to frida kahlo</keyword>
+		<keyword>unibrow</keyword>
+		<keyword>disguise</keyword>
+		<keyword>man disguised as a woman</keyword>
+		<keyword>band</keyword>
+		<keyword>mariachi</keyword>
+		<keyword>celebrity</keyword>
+		<keyword>secret revealed</keyword>
+		<keyword>mistaken assumption</keyword>
+		<keyword>torn photograph</keyword>
+		<keyword>memory loss</keyword>
+		<keyword>songwriter</keyword>
+		<keyword>great grandmother great grandson relationship</keyword>
+		<keyword>great great grandmother great great grandson relationship</keyword>
+		<keyword>race against time</keyword>
+		<keyword>curse</keyword>
+		<keyword>spirit guide</keyword>
+		<keyword>facial recognition</keyword>
+		<keyword>shrine</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>letter</keyword>
+		<keyword>concert</keyword>
+		<keyword>luchador</keyword>
+		<keyword>sunrise</keyword>
+		<keyword>vhs tape</keyword>
+		<keyword>partner</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>cartoon dog</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>cgi film</keyword>
+		<keyword>an aesop</keyword>
+		<keyword>male antagonist</keyword>
+		<keyword>pixar</keyword>
+		<keyword>bouquet</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>old woman uses a wheelchair</keyword>
+		<keyword>videotape</keyword>
+		<keyword>woman uses a wheelchair</keyword>
+		<keyword>furry</keyword>
+		<keyword>cow</keyword>
+		<keyword>dead skunk</keyword>
+		<keyword>farming</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>cgi</keyword>
+		<keyword>mexican stereotype</keyword>
+		<keyword>mexican</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>2010s</keyword>
+		<keyword>heroine</keyword>
+		<keyword>pop music</keyword>
+		<keyword>1 year later</keyword>
+		<keyword>searchlight</keyword>
+		<keyword>reference to footloose</keyword>
+		<keyword>reference to footloose remake</keyword>
+		<keyword>reference to veggietales the little drummer boy</keyword>
+		<keyword>reference to the jungle book</keyword>
+		<keyword>reference to blazing saddles</keyword>
+		<keyword>reference to the shining</keyword>
+		<keyword>reference to luxo jr</keyword>
+		<keyword>reference to toy story</keyword>
+		<keyword>reference to monsters inc</keyword>
+		<keyword>reference to the little mermaid ariel's beginning</keyword>
+		<keyword>orphan</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>reference to the flying nun</keyword>
+		<keyword>reference to the wizard of oz</keyword>
+		<keyword>reference to dorothy gale</keyword>
+		<keyword>reference to toto the dog</keyword>
+		<keyword>reference to the wicked witch of the east</keyword>
+		<keyword>perfectionist</keyword>
+		<keyword>strict grandmother</keyword>
+		<keyword>possessions</keyword>
+		<keyword>forced to apologize</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>candle</keyword>
+		<keyword>robber</keyword>
+		<keyword>strong female character</keyword>
+	</keywords>
+	<directors>
+		<director> Lee Unkrich</director>
+		<director> Adrian Molina</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Darla K. Anderson</producer>
+		<producer> Mary Alice Drumm</producer>
+		<producer> John Lasseter</producer>
+	</producers>
+	<writers>
+		<writer> Lee Unkrich</writer>
+		<writer> Jason Katz</writer>
+		<writer> Matthew Aldrich</writer>
+		<writer> Adrian Molina</writer>
+		<writer> Adrian Molina</writer>
+		<writer> Matthew Aldrich</writer>
+	</writers>
+	<editors>
+		<editor> Steve Bloom</editor>
+		<editor> Lee Unkrich</editor>
+	</editors>
+</doc>

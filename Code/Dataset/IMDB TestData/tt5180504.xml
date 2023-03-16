@@ -1,0 +1,356 @@
+<?xml version="1.0" ?>
+<doc id="tt5180504">
+	<docid>tt5180504</docid>
+	<title>The Witcher</title>
+	<image>https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.</plot>
+	<countries>
+		<country>Poland</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Henry Cavill</actor>
+			<role>Geralt of Rivia</role>
+		</credit>
+		<credit>
+			<actor>Freya Allan</actor>
+			<role>Ciri</role>
+		</credit>
+		<credit>
+			<actor>Anya Chalotra</actor>
+			<role>Yennefer</role>
+		</credit>
+		<credit>
+			<actor>Mimi Ndiweni</actor>
+			<role>Fringilla</role>
+		</credit>
+		<credit>
+			<actor>Eamon Farren</actor>
+			<role>Cahir</role>
+		</credit>
+		<credit>
+			<actor>MyAnna Buring</actor>
+			<role>Tissaia</role>
+		</credit>
+		<credit>
+			<actor>Wilson Mbomio</actor>
+			<role>Dara</role>
+		</credit>
+		<credit>
+			<actor>Anna Shaffer</actor>
+			<role>Triss</role>
+		</credit>
+		<credit>
+			<actor>Joey Batey</actor>
+			<role>Jaskier</role>
+		</credit>
+		<credit>
+			<actor>Royce Pierreson</actor>
+			<role>Istredd</role>
+		</credit>
+		<credit>
+			<actor>Liam Bobby James Richard Howe</actor>
+			<role>Scout Elf</role>
+		</credit>
+		<credit>
+			<actor>Tom Canton</actor>
+			<role>Filavandrel</role>
+		</credit>
+		<credit>
+			<actor>Lars Mikkelsen</actor>
+			<role>Stregobor</role>
+		</credit>
+		<credit>
+			<actor>Mecia Simson</actor>
+			<role>Francesca</role>
+		</credit>
+		<credit>
+			<actor>Adam Levy</actor>
+			<role>Mousesack</role>
+		</credit>
+		<credit>
+			<actor>Kim Bodnia</actor>
+			<role>Vesemir</role>
+		</credit>
+		<credit>
+			<actor>Paul Bullion</actor>
+			<role>Lambert</role>
+		</credit>
+		<credit>
+			<actor>Yasen Zates Atour</actor>
+			<role>Coen</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">December 20 2019</releasedate>
+		<releasedate country="Argentina">December 20 2019</releasedate>
+		<releasedate country="Australia">December 20 2019</releasedate>
+		<releasedate country="Brazil">December 20 2019</releasedate>
+		<releasedate country="Canada">December 20 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>violence</keyword>
+		<keyword>magic</keyword>
+		<keyword>monster hunter</keyword>
+		<keyword>warrior queen</keyword>
+		<keyword>man in leather clothes</keyword>
+		<keyword>evil army</keyword>
+		<keyword>medieval fantasy</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>mutation</keyword>
+		<keyword>web series</keyword>
+		<keyword>mage</keyword>
+		<keyword>baby killed</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>sword fighter</keyword>
+		<keyword>bigotry</keyword>
+		<keyword>abuse</keyword>
+		<keyword>monster</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>elf</keyword>
+		<keyword>dragon</keyword>
+		<keyword>antihero</keyword>
+		<keyword>man with long gray hair</keyword>
+		<keyword>mutant</keyword>
+		<keyword>part of franchise</keyword>
+		<keyword>colonialism</keyword>
+		<keyword>vision</keyword>
+		<keyword>psychokinesis</keyword>
+		<keyword>little girl</keyword>
+		<keyword>dark magic</keyword>
+		<keyword>multiple villains</keyword>
+		<keyword>people slaughtered</keyword>
+		<keyword>magic battle</keyword>
+		<keyword>teleporting</keyword>
+		<keyword>zealot</keyword>
+		<keyword>flashback</keyword>
+		<keyword>multiple timelines</keyword>
+		<keyword>female monster</keyword>
+		<keyword>body transformation</keyword>
+		<keyword>faustian bargain</keyword>
+		<keyword>cgi monster</keyword>
+		<keyword>evil female mage</keyword>
+		<keyword>evil sorceress</keyword>
+		<keyword>gore</keyword>
+		<keyword>leather vest</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>based on video game</keyword>
+		<keyword>pubic hair</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>bard</keyword>
+		<keyword>destiny</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>slaughter</keyword>
+		<keyword>blood</keyword>
+		<keyword>love interest</keyword>
+		<keyword>girl on the run</keyword>
+		<keyword>little person</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>total war</keyword>
+		<keyword>female mage</keyword>
+		<keyword>mage school</keyword>
+		<keyword>unable to have children</keyword>
+		<keyword>adoptive daughter</keyword>
+		<keyword>curse</keyword>
+		<keyword>born out of incest</keyword>
+		<keyword>tragic monster</keyword>
+		<keyword>alternate dimension</keyword>
+		<keyword>anti heroine</keyword>
+		<keyword>multiple protagonists</keyword>
+		<keyword>political strife</keyword>
+		<keyword>prophecy</keyword>
+		<keyword>defying destiny</keyword>
+		<keyword>performing a song</keyword>
+		<keyword>musician</keyword>
+		<keyword>composing a song</keyword>
+		<keyword>sword fighting</keyword>
+		<keyword>sorceress</keyword>
+		<keyword>mind control</keyword>
+		<keyword>ancient law</keyword>
+		<keyword>destiny revealed</keyword>
+		<keyword>intolerance</keyword>
+		<keyword>compassion</keyword>
+		<keyword>saving a life</keyword>
+		<keyword>life debt</keyword>
+		<keyword>evil mage</keyword>
+		<keyword>war atrocity</keyword>
+		<keyword>refugee camp</keyword>
+		<keyword>last stand</keyword>
+		<keyword>pyrokinesis</keyword>
+		<keyword>opening a portal</keyword>
+		<keyword>assassin</keyword>
+		<keyword>refusing to accept one's destiny</keyword>
+		<keyword>hunchback girl</keyword>
+		<keyword>regret</keyword>
+		<keyword>orphaned</keyword>
+		<keyword>strong silent type</keyword>
+		<keyword>one man army</keyword>
+		<keyword>one against many</keyword>
+		<keyword>action hero</keyword>
+		<keyword>high fantasy</keyword>
+		<keyword>fictional kingdom</keyword>
+		<keyword>fantasy world</keyword>
+		<keyword>leather jacket</keyword>
+		<keyword>leather pants</keyword>
+		<keyword>leather outfit</keyword>
+		<keyword>leather armor</keyword>
+		<keyword>magician</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>one person army action</keyword>
+		<keyword>gritty</keyword>
+		<keyword>politics</keyword>
+		<keyword>mentor student relationship</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>post classical history</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>sword and sorcery fantasy</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>beast</keyword>
+		<keyword>weapon</keyword>
+		<keyword>gritty fantasy</keyword>
+		<keyword>sword and sorcery</keyword>
+		<keyword>full frontal nudity</keyword>
+		<keyword>clothed female naked female scene</keyword>
+		<keyword>clothed male naked female scene</keyword>
+		<keyword>school of magic</keyword>
+		<keyword>sword</keyword>
+		<keyword>horns on head</keyword>
+		<keyword>fate</keyword>
+		<keyword>female tutor female student relationship</keyword>
+		<keyword>djinn</keyword>
+	</keywords>
+	<directors>
+		<director> Alik Sakharov</director>
+		<director> Stephen Surjik</director>
+		<director> Charlotte Brändström</director>
+		<director> Alex Garcia Lopez</director>
+		<director> Marc Jobst</director>
+		<director> Edward Bazalgette</director>
+		<director> Louise Hooper</director>
+		<director> Sarah O'Gorman</director>
+		<director> Bola Ogun</director>
+	</directors>
+	<composers>
+		<composer> Joseph Trapanese</composer>
+		<composer> Sonya Belousova</composer>
+		<composer> Giona Ostinelli</composer>
+	</composers>
+	<producers>
+		<producer> Jason F. Brown</producer>
+		<producer> Simon Emanuel</producer>
+		<producer> Steve Gaub</producer>
+		<producer> Tomasz Baginski</producer>
+		<producer> Katie Bullock-Webster</producer>
+		<producer> Sean Daniel</producer>
+		<producer> Declan De Barra</producer>
+		<producer> Ildiko Kemeny</producer>
+		<producer> Jenny Klein</producer>
+		<producer> Sneha Koorse</producer>
+		<producer> David Minkowski</producer>
+		<producer> Mike Ostrowski</producer>
+		<producer> Jaroslaw Sawko</producer>
+		<producer> Lauren Schmidt</producer>
+		<producer> Suzie Shearer</producer>
+		<producer> Piotr Sikora</producer>
+		<producer> Mark Birmingham</producer>
+		<producer> Sean Guest</producer>
+		<producer> Matthew O'Toole</producer>
+		<producer> Alik Sakharov</producer>
+		<producer> Kathy Lingg</producer>
+		<producer> Juan Cano Nono</producer>
+		<producer> Matthew Bouch</producer>
+		<producer> Beau DeMayo</producer>
+		<producer> Marc Jobst</producer>
+		<producer> Veselin Karadjov</producer>
+	</producers>
+	<writers>
+		<writer> Andrzej Sapkowski</writer>
+		<writer> Andrzej Sapkowski</writer>
+		<writer> Lauren Schmidt</writer>
+		<writer> Lauren Schmidt</writer>
+		<writer> Lauren Schmidt</writer>
+		<writer> Lauren Schmidt</writer>
+		<writer> Matthew D'Ambrosio</writer>
+		<writer> Matthew D'Ambrosio</writer>
+		<writer> Haily Hall</writer>
+		<writer> Haily Hall</writer>
+		<writer> Declan De Barra</writer>
+		<writer> Beau DeMayo</writer>
+		<writer> Sneha Koorse</writer>
+		<writer> Mike Ostrowski</writer>
+		<writer> Jenny Klein</writer>
+		<writer> Clare Higgins</writer>
+		<writer> Clare Higgins</writer>
+	</writers>
+	<editors>
+		<editor> Nick Arthurs</editor>
+		<editor> Jean-Daniel Fernandez Qundez</editor>
+		<editor> Liana Del Giudice</editor>
+		<editor> Mike Phillips</editor>
+		<editor> Xavier Russell</editor>
+		<editor> Adam Green</editor>
+	</editors>
+</doc>

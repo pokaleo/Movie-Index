@@ -1,0 +1,367 @@
+<?xml version="1.0" ?>
+<doc id="tt3470600">
+	<docid>tt3470600</docid>
+	<title>Sing</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Matthew McConaughey</actor>
+			<role>Buster Moon</role>
+		</credit>
+		<credit>
+			<actor>Reese Witherspoon</actor>
+			<role>Rosita</role>
+		</credit>
+		<credit>
+			<actor>Seth MacFarlane</actor>
+			<role>Mike</role>
+		</credit>
+		<credit>
+			<actor>Scarlett Johansson</actor>
+			<role>Ash</role>
+		</credit>
+		<credit>
+			<actor>John C. Reilly</actor>
+			<role>Eddie</role>
+		</credit>
+		<credit>
+			<actor>Taron Egerton</actor>
+			<role>Johnny</role>
+		</credit>
+		<credit>
+			<actor>Tori Kelly</actor>
+			<role>Meena</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Saunders</actor>
+			<role>Nana</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Hudson</actor>
+			<role>Young Nana</role>
+		</credit>
+		<credit>
+			<actor>Garth Jennings</actor>
+			<role>Miss Crawly</role>
+		</credit>
+		<credit>
+			<actor>Peter Serafinowicz</actor>
+			<role>Big Daddy</role>
+		</credit>
+		<credit>
+			<actor>Nick Kroll</actor>
+			<role>Gunter</role>
+		</credit>
+		<credit>
+			<actor>Beck Bennett</actor>
+			<role>Lance</role>
+		</credit>
+		<credit>
+			<actor>Jay Pharoah</actor>
+			<role>Meena's Grandfather</role>
+		</credit>
+		<credit>
+			<actor>Nick Offerman</actor>
+			<role>Norman</role>
+		</credit>
+		<credit>
+			<actor>Leslie Jones</actor>
+			<role>Meena's Mother</role>
+		</credit>
+		<credit>
+			<actor>Rhea Perlman</actor>
+			<role>Judith</role>
+		</credit>
+		<credit>
+			<actor>Laraine Newman</actor>
+			<role>Meena's Grandmother</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 11 2016</releasedate>
+		<releasedate country="Norway">December 2 2016</releasedate>
+		<releasedate country="United States">December 3 2016</releasedate>
+		<releasedate country="Austria">December 8 2016</releasedate>
+		<releasedate country="Germany">December 8 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Luxembourg">A</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Malta">U</certificate>
+		<certificate country="Mexico">AA</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">G</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="Switzerland">0</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">G</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>singing</keyword>
+		<keyword>jukebox musical</keyword>
+		<keyword>furry</keyword>
+		<keyword>singing contest</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>gangster</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>number 6</keyword>
+		<keyword>musician</keyword>
+		<keyword>sheep</keyword>
+		<keyword>iguana</keyword>
+		<keyword>elephant</keyword>
+		<keyword>talent contest</keyword>
+		<keyword>gorilla</keyword>
+		<keyword>mouse</keyword>
+		<keyword>pig</keyword>
+		<keyword>criminal</keyword>
+		<keyword>gang</keyword>
+		<keyword>gang leader</keyword>
+		<keyword>orange prison jumpsuit</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>prison uniform</keyword>
+		<keyword>prison visit</keyword>
+		<keyword>flood</keyword>
+		<keyword>talent show</keyword>
+		<keyword>koala</keyword>
+		<keyword>concert</keyword>
+		<keyword>porcupine</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>dog</keyword>
+		<keyword>spider</keyword>
+		<keyword>flatulence</keyword>
+		<keyword>grandmother grandson relationship</keyword>
+		<keyword>birthday</keyword>
+		<keyword>water</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>cartoon mouse</keyword>
+		<keyword>anthropomorphic turtle</keyword>
+		<keyword>criminal gang</keyword>
+		<keyword>gang member</keyword>
+		<keyword>turtle</keyword>
+		<keyword>prize money</keyword>
+		<keyword>elephant wears eyeglasses</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>hippopotamus</keyword>
+		<keyword>anthropomorphic animal as protagonist</keyword>
+		<keyword>anthropomorphic hippo</keyword>
+		<keyword>red panda</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>stagehand</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>shrekcore</keyword>
+		<keyword>first part</keyword>
+		<keyword>animal protagonist</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>family comedy</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>reference to back to the future</keyword>
+		<keyword>reference to jerry maguire</keyword>
+		<keyword>reference to elf</keyword>
+		<keyword>reference to happy days the time capsule</keyword>
+		<keyword>reference to the muppet show</keyword>
+		<keyword>reference to the war of the woods</keyword>
+		<keyword>reference to sunset blvd</keyword>
+		<keyword>reference to once upon a time in america</keyword>
+		<keyword>reference to dumbo</keyword>
+		<keyword>reference to the porky pig show</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>theater</keyword>
+		<keyword>city</keyword>
+		<keyword>cheating at cards</keyword>
+		<keyword>money problems</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>self confidence</keyword>
+		<keyword>microphone</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>construction worker</keyword>
+		<keyword>anthropomorphic hippopotamus</keyword>
+		<keyword>singing rabbit</keyword>
+		<keyword>anthropomorphic snail</keyword>
+		<keyword>female mouse</keyword>
+		<keyword>stage fright</keyword>
+		<keyword>talking cat</keyword>
+		<keyword>anthropomorphic cat</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>father son hug</keyword>
+		<keyword>singing mouse</keyword>
+		<keyword>guitar playing</keyword>
+		<keyword>guitar</keyword>
+		<keyword>porcupine quill</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>female porcupine</keyword>
+		<keyword>clapping crowd</keyword>
+		<keyword>electric guitar</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>anthropomorphic giraffe</keyword>
+		<keyword>playing piano</keyword>
+		<keyword>anthropomorphic rhinoceros</keyword>
+		<keyword>piano playing</keyword>
+		<keyword>anthropomorphic beaver</keyword>
+		<keyword>beaver</keyword>
+		<keyword>dancing pig</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>anthropomorphic rabbit</keyword>
+		<keyword>television reporter</keyword>
+		<keyword>bullhorn</keyword>
+		<keyword>talking mouse</keyword>
+		<keyword>talking porcupine</keyword>
+		<keyword>talking dog</keyword>
+		<keyword>anthropomorphic dog</keyword>
+		<keyword>talking lizard</keyword>
+		<keyword>talking gorilla</keyword>
+		<keyword>talking pig</keyword>
+		<keyword>talking sheep</keyword>
+		<keyword>talking koala</keyword>
+		<keyword>talking elephant</keyword>
+		<keyword>speedo</keyword>
+		<keyword>rubble</keyword>
+		<keyword>one word title</keyword>
+		<keyword>washing a car</keyword>
+		<keyword>car wash</keyword>
+		<keyword>front end loader</keyword>
+		<keyword>female pig</keyword>
+		<keyword>glass eye</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>pool house</keyword>
+		<keyword>tv news</keyword>
+		<keyword>prison cell</keyword>
+		<keyword>grandfather</keyword>
+		<keyword>chest</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>singing porcupine</keyword>
+		<keyword>singing gorilla</keyword>
+		<keyword>female elephant</keyword>
+		<keyword>singing pig</keyword>
+		<keyword>singing elephant</keyword>
+		<keyword>singing animal</keyword>
+		<keyword>supermarket</keyword>
+		<keyword>piano</keyword>
+		<keyword>rabbit mask</keyword>
+		<keyword>anthropomorphic lizard</keyword>
+		<keyword>stuck in traffic</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>anthropomorphic koala</keyword>
+		<keyword>anthropomorphic porcupine</keyword>
+		<keyword>anthropomorphic mouse</keyword>
+		<keyword>anthropomorphic bear</keyword>
+		<keyword>anthropomorphic sheep</keyword>
+		<keyword>anthropomorphic gorilla</keyword>
+		<keyword>anthropomorphic elephant</keyword>
+		<keyword>anthropomorphic pig</keyword>
+		<keyword>building collapse</keyword>
+		<keyword>despair</keyword>
+		<keyword>romantic betrayal</keyword>
+		<keyword>amateur musician</keyword>
+		<keyword>prison</keyword>
+		<keyword>rhinoceros</keyword>
+		<keyword>flashback</keyword>
+		<keyword>penguin</keyword>
+		<keyword>shrimp</keyword>
+		<keyword>monkey</keyword>
+		<keyword>snail</keyword>
+		<keyword>squid</keyword>
+		<keyword>goat</keyword>
+		<keyword>giraffe</keyword>
+		<keyword>frog</keyword>
+		<keyword>cow</keyword>
+		<keyword>chimpanzee</keyword>
+		<keyword>chicken</keyword>
+		<keyword>cat</keyword>
+		<keyword>bear</keyword>
+		<keyword>alligator</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>disaster film</keyword>
+	</keywords>
+	<directors>
+		<director> Garth Jennings</director>
+		<director> Christophe Lourdelet</director>
+	</directors>
+	<composers>
+		<composer> Joby Talbot</composer>
+	</composers>
+	<producers>
+		<producer> Janet Healy</producer>
+		<producer> Brett Hoffman</producer>
+		<producer> Igor Khait</producer>
+		<producer> Christopher Meledandri</producer>
+		<producer> Robert Taylor</producer>
+	</producers>
+	<writers>
+		<writer> Garth Jennings</writer>
+	</writers>
+	<editors>
+		<editor> Gregory Perler</editor>
+	</editors>
+</doc>

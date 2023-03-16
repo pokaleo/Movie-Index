@@ -1,0 +1,770 @@
+<?xml version="1.0" ?>
+<doc id="tt1431045">
+	<docid>tt1431045</docid>
+	<title>Deadpool</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ryan Reynolds</actor>
+			<role>Wade</role>
+		</credit>
+		<credit>
+			<actor>Morena Baccarin</actor>
+			<role>Vanessa</role>
+		</credit>
+		<credit>
+			<actor>T.J. Miller</actor>
+			<role>Weasel</role>
+		</credit>
+		<credit>
+			<actor>Ed Skrein</actor>
+			<role>Ajax</role>
+		</credit>
+		<credit>
+			<actor>Karan Soni</actor>
+			<role>Dopinder</role>
+		</credit>
+		<credit>
+			<actor>Michael Benyaer</actor>
+			<role>Warlord</role>
+		</credit>
+		<credit>
+			<actor>Stefan Kapicic</actor>
+			<role>Colossus</role>
+		</credit>
+		<credit>
+			<actor>Brianna Hildebrand</actor>
+			<role>Negasonic Teenage Warhead</role>
+		</credit>
+		<credit>
+			<actor>Style Dayne</actor>
+			<role>Jeremy (Pizza Guy)</role>
+		</credit>
+		<credit>
+			<actor>Kyle Cassie</actor>
+			<role>Gavin Merchant</role>
+		</credit>
+		<credit>
+			<actor>Taylor Hickson</actor>
+			<role>Meghan Orlovsky</role>
+		</credit>
+		<credit>
+			<actor>Ayzee</actor>
+			<role>Teen Girl #1</role>
+		</credit>
+		<credit>
+			<actor>Naika Toussaint</actor>
+			<role>Teen Girl #2</role>
+		</credit>
+		<credit>
+			<actor>Randal Reeder</actor>
+			<role>Buck</role>
+		</credit>
+		<credit>
+			<actor>Isaac C. Singleton Jr.</actor>
+			<role>Boothe</role>
+		</credit>
+		<credit>
+			<actor>Justyn Shippelt</actor>
+			<role>Arcade Ticket Taker</role>
+		</credit>
+		<credit>
+			<actor>Donna Yamamoto</actor>
+			<role>Oncologist</role>
+		</credit>
+		<credit>
+			<actor>Jed Rees</actor>
+			<role>Recruiter</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Taiwan">January 21 2016</releasedate>
+		<releasedate country="France">February 8 2016</releasedate>
+		<releasedate country="Hong Kong">February 9 2016</releasedate>
+		<releasedate country="Taiwan">February 9 2016</releasedate>
+		<releasedate country="Belgium">February 10 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="China">(Banned)</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">D</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>revenge</keyword>
+		<keyword>mutant</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>talking to the camera</keyword>
+		<keyword>cancer</keyword>
+		<keyword>violence</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>self healing</keyword>
+		<keyword>torture</keyword>
+		<keyword>strip club</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>x men</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>masked man</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>impalement</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>reference to wolverine</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>male rear nudity</keyword>
+		<keyword>nude fight</keyword>
+		<keyword>sadistic psychopath</keyword>
+		<keyword>cult film</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>superhero</keyword>
+		<keyword>multiple sex positions</keyword>
+		<keyword>three men shot with one bullet</keyword>
+		<keyword>male masturbation</keyword>
+		<keyword>disfigured face</keyword>
+		<keyword>katana sword</keyword>
+		<keyword>sex in bed</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>action hero</keyword>
+		<keyword>sadism</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>pizza delivery boy</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>lifted by the throat</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>severed head</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>motorcycle crash</keyword>
+		<keyword>self referential</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>taxi driver</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>broken hand</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>murder</keyword>
+		<keyword>blind woman</keyword>
+		<keyword>reference to x men</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>bar fight</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>cunnilingus</keyword>
+		<keyword>gun violence</keyword>
+		<keyword>action violence</keyword>
+		<keyword>violent death</keyword>
+		<keyword>torture device</keyword>
+		<keyword>sadistic torture</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>intergenerational friendship</keyword>
+		<keyword>suv</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>animated end credits</keyword>
+		<keyword>slow motion shootout</keyword>
+		<keyword>shooting from a car</keyword>
+		<keyword>shooting out a car window</keyword>
+		<keyword>car motorcycle chase</keyword>
+		<keyword>reference to gandalf character</keyword>
+		<keyword>reference to wham the band</keyword>
+		<keyword>bet</keyword>
+		<keyword>betting pool</keyword>
+		<keyword>colossus character</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>breaking the fourth wall by talking to the audience</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>pistol</keyword>
+		<keyword>oral sex under covers</keyword>
+		<keyword>oral sex</keyword>
+		<keyword>strap on dildo</keyword>
+		<keyword>sex against a wall</keyword>
+		<keyword>androgynous female</keyword>
+		<keyword>cowgirl sex position</keyword>
+		<keyword>standing sex</keyword>
+		<keyword>car cigarette lighter</keyword>
+		<keyword>parody</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>reference to david beckham</keyword>
+		<keyword>reference to ikea</keyword>
+		<keyword>stripper</keyword>
+		<keyword>reference to freddy krueger</keyword>
+		<keyword>terminal illness</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>dark past</keyword>
+		<keyword>deception</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>record</keyword>
+		<keyword>record player</keyword>
+		<keyword>dirty joke</keyword>
+		<keyword>wardrobe malfunction</keyword>
+		<keyword>alley</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>axe</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>one against many</keyword>
+		<keyword>one man army</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>bartender</keyword>
+		<keyword>blindness</keyword>
+		<keyword>brutality</keyword>
+		<keyword>hit on the head with a fire extinguisher</keyword>
+		<keyword>beating</keyword>
+		<keyword>new york city</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>knife</keyword>
+		<keyword>stalker</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>laundromat</keyword>
+		<keyword>title appears in song</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>car crash</keyword>
+		<keyword>flashback</keyword>
+		<keyword>montage</keyword>
+		<keyword>drawing</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>pegging</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>reference to sinead o'connor</keyword>
+		<keyword>bar</keyword>
+		<keyword>regenerated limb</keyword>
+		<keyword>garbage truck</keyword>
+		<keyword>mansion</keyword>
+		<keyword>taxi</keyword>
+		<keyword>sword</keyword>
+		<keyword>deadpool</keyword>
+		<keyword>one word title</keyword>
+		<keyword>fight</keyword>
+		<keyword>date</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>mask</keyword>
+		<keyword>slow motion opening</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>pizza delivery</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>overpass</keyword>
+		<keyword>highway</keyword>
+		<keyword>estrangement</keyword>
+		<keyword>boyfriend girlfriend reunion</keyword>
+		<keyword>striking a match</keyword>
+		<keyword>semiautomatic pistol</keyword>
+		<keyword>submachine gun</keyword>
+		<keyword>sketch</keyword>
+		<keyword>person in a car trunk</keyword>
+		<keyword>high five</keyword>
+		<keyword>gunshot wound</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>sex with food</keyword>
+		<keyword>voice over inner thoughts</keyword>
+		<keyword>voice over</keyword>
+		<keyword>terminal cancer</keyword>
+		<keyword>gurney</keyword>
+		<keyword>strapped to a gurney</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>lab coat</keyword>
+		<keyword>experiment</keyword>
+		<keyword>human experimentation</keyword>
+		<keyword>blackboard</keyword>
+		<keyword>name calling</keyword>
+		<keyword>best friend</keyword>
+		<keyword>origin story</keyword>
+		<keyword>following someone</keyword>
+		<keyword>kidnapped girlfriend</keyword>
+		<keyword>shaved head</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>chamber</keyword>
+		<keyword>knife in the head</keyword>
+		<keyword>throwing someone</keyword>
+		<keyword>carrying someone</keyword>
+		<keyword>carrying someone over shoulder</keyword>
+		<keyword>stockings</keyword>
+		<keyword>female stockinged legs</keyword>
+		<keyword>dressing gown</keyword>
+		<keyword>vendetta</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>test chamber</keyword>
+		<keyword>wade wilson character</keyword>
+		<keyword>hooded sweatshirt</keyword>
+		<keyword>first part</keyword>
+		<keyword>man carries a woman</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>man punches a woman</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>offscreen murder</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>tape over mouth</keyword>
+		<keyword>weapon</keyword>
+		<keyword>car</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>chevrolet suburban</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford crown victoria</keyword>
+		<keyword>villain</keyword>
+		<keyword>blind person</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>deadpool character</keyword>
+		<keyword>healing factor</keyword>
+		<keyword>rapid healing</keyword>
+		<keyword>reference to cable character</keyword>
+		<keyword>self referential humor</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>taking a photograph</keyword>
+		<keyword>cgi</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>sequel mentioned during end credits</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>bad guy bar</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>absurd comedy</keyword>
+		<keyword>skee ball</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>crude humor comedy</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>21st century</keyword>
+		<keyword>woman on top</keyword>
+		<keyword>reference to dolph lundgren</keyword>
+		<keyword>reference to samuel l. jackson</keyword>
+		<keyword>scantily clad female</keyword>
+		<keyword>lesbian</keyword>
+		<keyword>graphic nudity</keyword>
+		<keyword>full nude strip club</keyword>
+		<keyword>clothed male naked female scene</keyword>
+		<keyword>removing an object from a wound</keyword>
+		<keyword>removing a sword from a wound</keyword>
+		<keyword>removing a knife from a wound</keyword>
+		<keyword>shot in the torso</keyword>
+		<keyword>tied up</keyword>
+		<keyword>kicking a severed head</keyword>
+		<keyword>stabbed in the torso</keyword>
+		<keyword>bare chested man</keyword>
+		<keyword>dual wielding axes</keyword>
+		<keyword>camera</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>parody comedy</keyword>
+		<keyword>black lingerie</keyword>
+		<keyword>biting an ear</keyword>
+		<keyword>cure</keyword>
+		<keyword>katana</keyword>
+		<keyword>scar</keyword>
+		<keyword>serum</keyword>
+		<keyword>escape</keyword>
+		<keyword>reference to ferris bueller</keyword>
+		<keyword>metafiction</keyword>
+		<keyword>reference to batman</keyword>
+		<keyword>reference to mel gibson</keyword>
+		<keyword>reference to keira knightley</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>teenage superheroine</keyword>
+		<keyword>kissing while having sex</keyword>
+		<keyword>doggie style sex position</keyword>
+		<keyword>woman biting a man's ear</keyword>
+		<keyword>reference to george michael</keyword>
+		<keyword>reference to hugh jackman</keyword>
+		<keyword>androgynous</keyword>
+		<keyword>androgynous character</keyword>
+		<keyword>sex montage</keyword>
+		<keyword>stop action</keyword>
+		<keyword>aircraft carrier</keyword>
+		<keyword>throwing a tire</keyword>
+		<keyword>caught in the rain</keyword>
+		<keyword>zamboni</keyword>
+		<keyword>knuckle tattoo</keyword>
+		<keyword>dishonorable discharge</keyword>
+		<keyword>reference to meredith baxter birney</keyword>
+		<keyword>reference to sylvester stallone</keyword>
+		<keyword>tied to a table</keyword>
+		<keyword>dragged</keyword>
+		<keyword>laboratory fire</keyword>
+		<keyword>41 kills</keyword>
+		<keyword>matchstick in mouth</keyword>
+		<keyword>doggystyle sex</keyword>
+		<keyword>gift card</keyword>
+		<keyword>blow job the drink</keyword>
+		<keyword>superhero origin</keyword>
+		<keyword>fragmentation grenade</keyword>
+		<keyword>twelve bullets</keyword>
+		<keyword>lockheed sr 71</keyword>
+		<keyword>jumping through a sunroof</keyword>
+		<keyword>car flip</keyword>
+		<keyword>motorcycle escort</keyword>
+		<keyword>four bullets</keyword>
+		<keyword>lifted by head</keyword>
+		<keyword>people magazine</keyword>
+		<keyword>sikorsky hh 3f pelican helicopter</keyword>
+		<keyword>short haired female</keyword>
+		<keyword>satire</keyword>
+		<keyword>superhero spoof</keyword>
+		<keyword>stuffed animal</keyword>
+		<keyword>action figure</keyword>
+		<keyword>ice rink</keyword>
+		<keyword>video arcade</keyword>
+		<keyword>exploding motorcycle</keyword>
+		<keyword>ex special forces</keyword>
+		<keyword>rampage</keyword>
+		<keyword>reference to ryan reynolds</keyword>
+		<keyword>women boxing</keyword>
+		<keyword>hit with a fire extinguisher</keyword>
+		<keyword>fire extinguisher</keyword>
+		<keyword>boxing</keyword>
+		<keyword>boxing ring</keyword>
+		<keyword>broken leg</keyword>
+		<keyword>arm cut off</keyword>
+		<keyword>matchstick</keyword>
+		<keyword>toothpick</keyword>
+		<keyword>tooth knocked out</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>teenage heroine</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>destruction</keyword>
+		<keyword>race against time</keyword>
+		<keyword>engagement ring</keyword>
+		<keyword>flipping car</keyword>
+		<keyword>anal sex</keyword>
+		<keyword>junkyard</keyword>
+		<keyword>reference to star wars</keyword>
+		<keyword>female topless nudity</keyword>
+		<keyword>bullet</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>rear nudity</keyword>
+		<keyword>pool table</keyword>
+		<keyword>straitjacket</keyword>
+		<keyword>business card</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>love at first sight</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>telepathy</keyword>
+		<keyword>pyrokinesis</keyword>
+		<keyword>teenager</keyword>
+		<keyword>airplane</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>thug</keyword>
+		<keyword>texting</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>massacre</keyword>
+		<keyword>body count</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>hatred</keyword>
+		<keyword>redemption</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>water torture</keyword>
+		<keyword>premarital sex</keyword>
+		<keyword>thrown through a windshield</keyword>
+		<keyword>indian</keyword>
+		<keyword>injection</keyword>
+		<keyword>hit with a chair</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>duct tape over mouth</keyword>
+		<keyword>strapped to a bed</keyword>
+		<keyword>gas chamber</keyword>
+		<keyword>thrown from a car</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>chinatown manhattan new york city</keyword>
+		<keyword>double cross</keyword>
+		<keyword>christmas tree</keyword>
+		<keyword>christmas</keyword>
+		<keyword>halloween</keyword>
+		<keyword>thanksgiving</keyword>
+		<keyword>snow</keyword>
+		<keyword>apartment</keyword>
+		<keyword>drug addict</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>photograph</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>betting</keyword>
+		<keyword>friendship</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>absurdism</keyword>
+		<keyword>absurd violence</keyword>
+		<keyword>corpse</keyword>
+		<keyword>villainess</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>face mask</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>tragic hero</keyword>
+		<keyword>warrior</keyword>
+		<keyword>rescue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>death</keyword>
+		<keyword>scientist</keyword>
+		<keyword>doctor</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>gay slur</keyword>
+		<keyword>dismemberment</keyword>
+		<keyword>flatulence</keyword>
+		<keyword>masturbation</keyword>
+		<keyword>russian</keyword>
+		<keyword>giant</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>oxygen</keyword>
+		<keyword>fire</keyword>
+		<keyword>super speed</keyword>
+		<keyword>penis joke</keyword>
+		<keyword>immortality</keyword>
+		<keyword>scatological humor</keyword>
+		<keyword>evil doctor</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>evil man</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>mutation</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>henchwoman</keyword>
+		<keyword>henchman</keyword>
+		<keyword>news report</keyword>
+		<keyword>construction site</keyword>
+		<keyword>abandoned ship</keyword>
+		<keyword>ambush</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>head blown off</keyword>
+		<keyword>bullet ballet</keyword>
+		<keyword>gun fu</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>showdown</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>final battle</keyword>
+		<keyword>battle</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>crushed by a car</keyword>
+		<keyword>chase</keyword>
+		<keyword>car accident</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>gas explosion</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>hit in the groin</keyword>
+		<keyword>stabbed through the chest</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>knife in chest</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>one liner</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>knife throwing</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>freeway</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>text message</keyword>
+		<keyword>covered in mud</keyword>
+		<keyword>asphyxiation</keyword>
+		<keyword>taking a selfie</keyword>
+		<keyword>doctor's office</keyword>
+		<keyword>instant camera</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>kiss</keyword>
+		<keyword>hanging from height</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>blood</keyword>
+		<keyword>scrapyard</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>explosion</keyword>
+		<keyword>punched in the groin</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the forehead</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the butt</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>transformation</keyword>
+		<keyword>broken foot</keyword>
+		<keyword>shootout</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>reference to limp bizkit</keyword>
+		<keyword>reference to instagram</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>stan lee cameo</keyword>
+		<keyword>short hair</keyword>
+		<keyword>short hair cut</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>555 phone number</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>fairground</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>skate park</keyword>
+		<keyword>urination</keyword>
+		<keyword>reference to liam neeson</keyword>
+		<keyword>pizza</keyword>
+		<keyword>map</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>mind reading</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>goth girl</keyword>
+		<keyword>stick fight</keyword>
+		<keyword>warehouse</keyword>
+		<keyword>f word</keyword>
+		<keyword>revolver</keyword>
+		<keyword>rain</keyword>
+		<keyword>body in a trunk</keyword>
+		<keyword>gay joke</keyword>
+		<keyword>axe fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>sewing machine</keyword>
+		<keyword>helicarrier</keyword>
+		<keyword>gore</keyword>
+	</keywords>
+	<directors>
+		<director> Tim Miller</director>
+	</directors>
+	<composers>
+		<composer> Tom Holkenborg</composer>
+	</composers>
+	<producers>
+		<producer> John J. Kelly</producer>
+		<producer> Simon Kinberg</producer>
+		<producer> Stan Lee</producer>
+		<producer> Jonathon Komack Martin</producer>
+		<producer> Rhett Reese</producer>
+		<producer> Ryan Reynolds</producer>
+		<producer> Lauren Shuler Donner</producer>
+		<producer> Aditya Sood</producer>
+		<producer> Thane Watkins</producer>
+		<producer> Paul Wernick</producer>
+	</producers>
+	<writers>
+		<writer> Rhett Reese</writer>
+		<writer> Paul Wernick</writer>
+	</writers>
+	<editors>
+		<editor> Julian Clarke</editor>
+	</editors>
+</doc>

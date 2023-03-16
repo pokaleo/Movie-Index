@@ -1,0 +1,529 @@
+<?xml version="1.0" ?>
+<doc id="tt4513678">
+	<docid>tt4513678</docid>
+	<title>Ghostbusters: Afterlife</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGY2NjUwODEtMGM5OS00MzhkLWEzYTUtYjkwMjFmNjhiN2FmXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">124</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Carrie Coon</actor>
+			<role>Callie</role>
+		</credit>
+		<credit>
+			<actor>Paul Rudd</actor>
+			<role>Grooberson</role>
+		</credit>
+		<credit>
+			<actor>Finn Wolfhard</actor>
+			<role>Trevor</role>
+		</credit>
+		<credit>
+			<actor>Mckenna Grace</actor>
+			<role>Phoebe</role>
+		</credit>
+		<credit>
+			<actor>Logan Kim</actor>
+			<role>Podcast</role>
+		</credit>
+		<credit>
+			<actor>Celeste O'Connor</actor>
+			<role>Lucky</role>
+		</credit>
+		<credit>
+			<actor>Bill Murray</actor>
+			<role>Peter Venkman</role>
+		</credit>
+		<credit>
+			<actor>Dan Aykroyd</actor>
+			<role>Ray Stantz</role>
+		</credit>
+		<credit>
+			<actor>Ernie Hudson</actor>
+			<role>Winston Zeddemore</role>
+		</credit>
+		<credit>
+			<actor>Annie Potts</actor>
+			<role>Janine Melnitz</role>
+		</credit>
+		<credit>
+			<actor>Sigourney Weaver</actor>
+			<role>Dana Barrett</role>
+		</credit>
+		<credit>
+			<actor>Bob Gunton</actor>
+			<role>The Ghost Farmer (Egon Spengler)</role>
+		</credit>
+		<credit>
+			<actor>J.K. Simmons</actor>
+			<role>Ivo Shandor</role>
+		</credit>
+		<credit>
+			<actor>Shawn Seward</actor>
+			<role>Skittles</role>
+		</credit>
+		<credit>
+			<actor>Billy Bryk</actor>
+			<role>Zahk</role>
+		</credit>
+		<credit>
+			<actor>Sydney Mae Diaz</actor>
+			<role>Swayze</role>
+		</credit>
+		<credit>
+			<actor>Hannah Duke</actor>
+			<role>Reseda</role>
+		</credit>
+		<credit>
+			<actor>Bokeem Woodbine</actor>
+			<role>Sheriff Domingo</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 8 2021</releasedate>
+		<releasedate country="Italy">October 14 2021</releasedate>
+		<releasedate country="United Arab Emirates">November 11 2021</releasedate>
+		<releasedate country="Belgium">November 17 2021</releasedate>
+		<releasedate country="Argentina">November 18 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">Sin Calificación</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Japan">12</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">10+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>ghost</keyword>
+		<keyword>ghostbuster</keyword>
+		<keyword>sequel</keyword>
+		<keyword>ghostbusters</keyword>
+		<keyword>farmhouse</keyword>
+		<keyword>single parent</keyword>
+		<keyword>teenager</keyword>
+		<keyword>child protagonist</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>earthquake</keyword>
+		<keyword>third part</keyword>
+		<keyword>franchise</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>delayed release</keyword>
+		<keyword>occultist</keyword>
+		<keyword>original equipment</keyword>
+		<keyword>eviction</keyword>
+		<keyword>final battle</keyword>
+		<keyword>12 year old</keyword>
+		<keyword>new in town</keyword>
+		<keyword>inherited property</keyword>
+		<keyword>reference to the book of revelation</keyword>
+		<keyword>bible quote</keyword>
+		<keyword>seismologist</keyword>
+		<keyword>stay puft marshmallow man</keyword>
+		<keyword>human versus ghost</keyword>
+		<keyword>lying about age</keyword>
+		<keyword>proton pack</keyword>
+		<keyword>podcaster</keyword>
+		<keyword>phone call from jail</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>trap</keyword>
+		<keyword>supernatural fantasy</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>strange phenomena</keyword>
+		<keyword>legacy</keyword>
+		<keyword>successor</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>single mother</keyword>
+		<keyword>15 year old</keyword>
+		<keyword>two word title</keyword>
+		<keyword>summer school</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>ghost of father</keyword>
+		<keyword>pulled over by the police</keyword>
+		<keyword>nickname</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>supernatural monster</keyword>
+		<keyword>2020s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>death of continuing character</keyword>
+		<keyword>oklahoma</keyword>
+		<keyword>estranged father</keyword>
+		<keyword>estranged grandfather</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>scientist</keyword>
+		<keyword>ecto 1</keyword>
+		<keyword>cadillac</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>middle school</keyword>
+		<keyword>drive in restaurant</keyword>
+		<keyword>server on roller skates</keyword>
+		<keyword>hamburger stand</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>jail</keyword>
+		<keyword>driving without a license</keyword>
+		<keyword>smart girl</keyword>
+		<keyword>middle school student</keyword>
+		<keyword>mountain</keyword>
+		<keyword>mine</keyword>
+		<keyword>glass coffin</keyword>
+		<keyword>woman possessed by a demon</keyword>
+		<keyword>possessed by a spirit</keyword>
+		<keyword>demonic possession</keyword>
+		<keyword>marshmallow</keyword>
+		<keyword>555 phone number</keyword>
+		<keyword>bookshop</keyword>
+		<keyword>grandfather granddaughter relationship</keyword>
+		<keyword>hiding place</keyword>
+		<keyword>playing chess</keyword>
+		<keyword>elevator</keyword>
+		<keyword>fire pole</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>genius</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>teacher</keyword>
+		<keyword>vhs tape</keyword>
+		<keyword>vcr</keyword>
+		<keyword>capacitor</keyword>
+		<keyword>cyclotron</keyword>
+		<keyword>walmart</keyword>
+		<keyword>reference to walmart</keyword>
+		<keyword>roasting marshmallows</keyword>
+		<keyword>s'more</keyword>
+		<keyword>reference to twinkies</keyword>
+		<keyword>reference to nestle crunch candy bar</keyword>
+		<keyword>blender</keyword>
+		<keyword>candy bar</keyword>
+		<keyword>gadget car</keyword>
+		<keyword>remote control</keyword>
+		<keyword>goggles</keyword>
+		<keyword>underage driver</keyword>
+		<keyword>eviction notice</keyword>
+		<keyword>haircut</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>jumpsuit</keyword>
+		<keyword>coverall</keyword>
+		<keyword>hiding place beneath floorboards</keyword>
+		<keyword>death of grandfather</keyword>
+		<keyword>broken windshield</keyword>
+		<keyword>chase</keyword>
+		<keyword>bridge</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>bad joke</keyword>
+		<keyword>telling a joke</keyword>
+		<keyword>nerdy girl</keyword>
+		<keyword>distraction</keyword>
+		<keyword>genius girl child</keyword>
+		<keyword>girl genius</keyword>
+		<keyword>young genius</keyword>
+		<keyword>hiding place under floor</keyword>
+		<keyword>lucky coin</keyword>
+		<keyword>mid credits scene</keyword>
+		<keyword>post credits scene</keyword>
+		<keyword>new york city</keyword>
+		<keyword>electric shock</keyword>
+		<keyword>skeptic</keyword>
+		<keyword>map</keyword>
+		<keyword>ancient map</keyword>
+		<keyword>small town</keyword>
+		<keyword>beef patty</keyword>
+		<keyword>taking inventory</keyword>
+		<keyword>marked cards</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>college professor</keyword>
+		<keyword>bookshop owner</keyword>
+		<keyword>red telephone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>millionaire</keyword>
+		<keyword>businessman</keyword>
+		<keyword>wealthy businessman</keyword>
+		<keyword>firehouse</keyword>
+		<keyword>flashback</keyword>
+		<keyword>sumerian demon</keyword>
+		<keyword>eating metal</keyword>
+		<keyword>chessboard</keyword>
+		<keyword>microphone</keyword>
+		<keyword>talking into a microphone</keyword>
+		<keyword>recording a podcast</keyword>
+		<keyword>overalls</keyword>
+		<keyword>paranormal phenomenon</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>possession</keyword>
+		<keyword>part of series</keyword>
+		<keyword>abandoned steel mill</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>sports car</keyword>
+		<keyword>prodigy</keyword>
+		<keyword>schoolteacher</keyword>
+		<keyword>love interest</keyword>
+		<keyword>love at first sight</keyword>
+		<keyword>dinner date</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>sarcasm</keyword>
+		<keyword>haunted house</keyword>
+		<keyword>product placement</keyword>
+		<keyword>school bus</keyword>
+		<keyword>videotape</keyword>
+		<keyword>reference to albert einstein</keyword>
+		<keyword>reference to beyonce</keyword>
+		<keyword>apartment</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>showdown</keyword>
+		<keyword>carving</keyword>
+		<keyword>statue</keyword>
+		<keyword>temple</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>farm</keyword>
+		<keyword>roller skating</keyword>
+		<keyword>photograph</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>prologue</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>abandoned mine</keyword>
+		<keyword>hardware store</keyword>
+		<keyword>cameo</keyword>
+		<keyword>telephone</keyword>
+		<keyword>evil god</keyword>
+		<keyword>ancient god</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>god</keyword>
+		<keyword>lovecraftian</keyword>
+		<keyword>world domination</keyword>
+		<keyword>geek</keyword>
+		<keyword>science geek</keyword>
+		<keyword>chess</keyword>
+		<keyword>transformation</keyword>
+		<keyword>explosion</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>lightning</keyword>
+		<keyword>coffin</keyword>
+		<keyword>well</keyword>
+		<keyword>tornado</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>demon</keyword>
+		<keyword>demonic creature</keyword>
+		<keyword>creature</keyword>
+		<keyword>monster</keyword>
+		<keyword>undead</keyword>
+		<keyword>living dead</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>suspense</keyword>
+		<keyword>arrest</keyword>
+		<keyword>police officer</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>double cross</keyword>
+		<keyword>ambush</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>race against time</keyword>
+		<keyword>fear</keyword>
+		<keyword>curiosity</keyword>
+		<keyword>danger</keyword>
+		<keyword>gadget</keyword>
+		<keyword>target practice</keyword>
+		<keyword>power outage</keyword>
+		<keyword>brooklyn bridge</keyword>
+		<keyword>police station</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>corpse</keyword>
+		<keyword>dead body</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>obsession</keyword>
+		<keyword>saving the world</keyword>
+		<keyword>hearing voices</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>friendship</keyword>
+		<keyword>movie theater</keyword>
+		<keyword>occult</keyword>
+		<keyword>heart attack</keyword>
+		<keyword>chicago illinois</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>science class</keyword>
+		<keyword>fast food restaurant</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>waitress</keyword>
+		<keyword>abandoned car</keyword>
+		<keyword>portal</keyword>
+		<keyword>malfunction</keyword>
+		<keyword>villainess</keyword>
+		<keyword>sequel to cult favorite</keyword>
+		<keyword>nostalgic</keyword>
+		<keyword>american flag</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>evil</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>cannon</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>battle</keyword>
+		<keyword>supernatural creature</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>nerd</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>cgi</keyword>
+		<keyword>surrealist</keyword>
+		<keyword>barn</keyword>
+		<keyword>carhop</keyword>
+		<keyword>paranormal activity</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>twinkie</keyword>
+		<keyword>toy car</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>joke</keyword>
+		<keyword>reference to starbucks</keyword>
+		<keyword>star died before release</keyword>
+		<keyword>reference to the 1964 new york world's fair</keyword>
+		<keyword>ray stantz character</keyword>
+		<keyword>winston zeddemore character</keyword>
+		<keyword>troubled production</keyword>
+		<keyword>peter venkman character</keyword>
+		<keyword>egon spengler character</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>hearse</keyword>
+		<keyword>dog</keyword>
+		<keyword>pke meter</keyword>
+		<keyword>laser</keyword>
+		<keyword>ray gun</keyword>
+		<keyword>afterlife</keyword>
+		<keyword>poltergeist</keyword>
+		<keyword>haunting</keyword>
+		<keyword>death of father</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>requel</keyword>
+		<keyword>card</keyword>
+		<keyword>debt</keyword>
+		<keyword>overdue rent</keyword>
+		<keyword>fire hydrant</keyword>
+		<keyword>beard</keyword>
+		<keyword>diner</keyword>
+		<keyword>supermarket</keyword>
+		<keyword>school</keyword>
+		<keyword>barbecue</keyword>
+	</keywords>
+	<directors>
+		<director> Jason Reitman</director>
+	</directors>
+	<composers>
+		<composer> Rob Simonsen</composer>
+	</composers>
+	<producers>
+		<producer> Patrice Avery</producer>
+		<producer> Dan Aykroyd</producer>
+		<producer> Michael Beugg</producer>
+		<producer> Jason Blumenfeld</producer>
+		<producer> Jason Cloth</producer>
+		<producer> Laura Geucherian</producer>
+		<producer> Aaron L. Gilbert</producer>
+		<producer> Kerry Joseph</producer>
+		<producer> Amie Karp</producer>
+		<producer> Gil Kenan</producer>
+		<producer> Ashley Levinson</producer>
+		<producer> Philip Marvin</producer>
+		<producer> Joe Medjuck</producer>
+		<producer> Erica Mills</producer>
+		<producer> Tom Pollock</producer>
+		<producer> Eric Reich</producer>
+		<producer> Ivan Reitman</producer>
+		<producer> Adam Somer</producer>
+		<producer> Bryan Yaconelli</producer>
+	</producers>
+	<writers>
+		<writer> Gil Kenan</writer>
+		<writer> Jason Reitman</writer>
+		<writer> Dan Aykroyd</writer>
+		<writer> Ivan Reitman</writer>
+		<writer> Harold Ramis</writer>
+	</writers>
+	<editors>
+		<editor> Dana E. Glauberman</editor>
+		<editor> Nathan Orloff</editor>
+	</editors>
+</doc>

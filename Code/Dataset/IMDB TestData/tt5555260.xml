@@ -1,0 +1,342 @@
+<?xml version="1.0" ?>
+<doc id="tt5555260">
+	<docid>tt5555260</docid>
+	<title>This Is Us</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjY1Mzk4ZjgtZWMxZS00ZjVhLWFiNDAtZWVlYmQzM2M3ZGExXkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Milo Ventimiglia</actor>
+			<role>Jack Pearson</role>
+		</credit>
+		<credit>
+			<actor>Mandy Moore</actor>
+			<role>Rebecca Pearson</role>
+		</credit>
+		<credit>
+			<actor>Sterling K. Brown</actor>
+			<role>Randall Pearson</role>
+		</credit>
+		<credit>
+			<actor>Chrissy Metz</actor>
+			<role>Kate Pearson</role>
+		</credit>
+		<credit>
+			<actor>Justin Hartley</actor>
+			<role>Kevin Pearson</role>
+		</credit>
+		<credit>
+			<actor>Susan Kelechi Watson</actor>
+			<role>Beth Pearson</role>
+		</credit>
+		<credit>
+			<actor>Chris Sullivan</actor>
+			<role>Toby Damon</role>
+		</credit>
+		<credit>
+			<actor>Eris Baker</actor>
+			<role>Tess Pearson</role>
+		</credit>
+		<credit>
+			<actor>Faithe Herman</actor>
+			<role>Annie Pearson</role>
+		</credit>
+		<credit>
+			<actor>Jon Huertas</actor>
+			<role>Miguel Rivas</role>
+		</credit>
+		<credit>
+			<actor>Hannah Zeile</actor>
+			<role>19 Year Old Kate</role>
+		</credit>
+		<credit>
+			<actor>Niles Fitch</actor>
+			<role>17 Year Old Randall</role>
+		</credit>
+		<credit>
+			<actor>Logan Shroyer</actor>
+			<role>19 Year Old Kevin</role>
+		</credit>
+		<credit>
+			<actor>Mackenzie Hancsicsak</actor>
+			<role>10 Year Old Kate</role>
+		</credit>
+		<credit>
+			<actor>Parker Bates</actor>
+			<role>10 Year Old Kevin</role>
+		</credit>
+		<credit>
+			<actor>Lyric Ross</actor>
+			<role>Déjà Pearson</role>
+		</credit>
+		<credit>
+			<actor>Lonnie Chavis</actor>
+			<role>12 Year Old Randall</role>
+		</credit>
+		<credit>
+			<actor>Caitlin Thompson</actor>
+			<role>Madison Simmons</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Singapore">September 19 2016</releasedate>
+		<releasedate country="Brazil">September 20 2016</releasedate>
+		<releasedate country="Canada">September 20 2016</releasedate>
+		<releasedate country="India">September 20 2016</releasedate>
+		<releasedate country="South Korea">September 20 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">14</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">18+</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Taiwan">18+</certificate>
+		<certificate country="Thailand">15+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>family relationships</keyword>
+		<keyword>flashback</keyword>
+		<keyword>triplets</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>adoption</keyword>
+		<keyword>foster child</keyword>
+		<keyword>miscarriage</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>parenthood</keyword>
+		<keyword>alcoholism</keyword>
+		<keyword>house fire</keyword>
+		<keyword>self esteem</keyword>
+		<keyword>overweight</keyword>
+		<keyword>hospital</keyword>
+		<keyword>estrangement</keyword>
+		<keyword>childhood</keyword>
+		<keyword>childhood memory</keyword>
+		<keyword>vietnam war veteran</keyword>
+		<keyword>lgbt</keyword>
+		<keyword>melodrama</keyword>
+		<keyword>pittsburgh pennsylvania</keyword>
+		<keyword>dysfunctional marriage</keyword>
+		<keyword>sibling relationship</keyword>
+		<keyword>depression</keyword>
+		<keyword>weight loss</keyword>
+		<keyword>bisexual</keyword>
+		<keyword>high school</keyword>
+		<keyword>teen angst</keyword>
+		<keyword>breakup</keyword>
+		<keyword>surgery</keyword>
+		<keyword>rehabilitation</keyword>
+		<keyword>social worker</keyword>
+		<keyword>domestic drama</keyword>
+		<keyword>epic drama</keyword>
+		<keyword>epic romance</keyword>
+		<keyword>2010s</keyword>
+		<keyword>2020s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>love</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>man wrapped in towel</keyword>
+		<keyword>romantic comedy</keyword>
+		<keyword>tearjerker romance</keyword>
+		<keyword>multi generational saga</keyword>
+		<keyword>family history</keyword>
+		<keyword>childhood flashback</keyword>
+		<keyword>multi racial family</keyword>
+		<keyword>tolerance</keyword>
+		<keyword>disability rights</keyword>
+		<keyword>disability access</keyword>
+	</keywords>
+	<directors>
+		<director> Ken Olin</director>
+		<director> Chris Koch</director>
+		<director> Glenn Ficarra</director>
+		<director> John Requa</director>
+		<director> Kevin Hooks</director>
+		<director> Anne Fletcher</director>
+		<director> George Tillman Jr.</director>
+		<director> Rebecca Asher</director>
+		<director> Milo Ventimiglia</director>
+		<director> Jessica Yu</director>
+		<director> Yasu Tanida</director>
+		<director> Kay Oyegun</director>
+		<director> Uta Briesewitz</director>
+		<director> John Fortenberry</director>
+		<director> Zetna Fuentes</director>
+		<director> Catherine Hardwicke</director>
+		<director> Sarah Boyd</director>
+		<director> Roxann Dawson</director>
+		<director> Justin Hartley</director>
+		<director> Jon Huertas</director>
+		<director> Sarah Pia Anderson</director>
+		<director> Silas Howard</director>
+		<director> Helen Hunt</director>
+		<director> Craig Zisk</director>
+		<director> Timothy Busfield</director>
+		<director> Regina King</director>
+		<director> Wendey Stanzler</director>
+		<director> Joanna Kerns</director>
+		<director> Kevin Rodney Sullivan</director>
+		<director> Mandy Moore</director>
+		<director> Glenn Steelman</director>
+		<director> Chris Sullivan</director>
+		<director> James Takata</director>
+	</directors>
+	<composers>
+		<composer> Siddhartha Khosla</composer>
+	</composers>
+	<producers>
+		<producer> Steve Beers</producer>
+		<producer> Glenn Ficarra</producer>
+		<producer> Dan Fogelman</producer>
+		<producer> Charlie Gogolak</producer>
+		<producer> Cathy Mickel Gibson</producer>
+		<producer> John Requa</producer>
+		<producer> Jess Rosenthal</producer>
+		<producer> Isaac Aptaker</producer>
+		<producer> Elizabeth Berger</producer>
+		<producer> Ken Olin</producer>
+		<producer> Nick Pavonetti</producer>
+		<producer> K.J. Steinberg</producer>
+		<producer> Vera Herbert</producer>
+		<producer> Tim Barker</producer>
+		<producer> Julia Brownell</producer>
+		<producer> Kevin Falls</producer>
+		<producer> Kay Oyegun</producer>
+		<producer> Bekah Brunstetter</producer>
+		<producer> Laurel Chadwick-Moskowitz</producer>
+		<producer> Casey Johnson</producer>
+		<producer> Elan Mastai</producer>
+		<producer> David Windsor</producer>
+		<producer> Shukree Tilghman</producer>
+		<producer> Christiana Hooks</producer>
+		<producer> Tyler Bensinger</producer>
+		<producer> Don Roos</producer>
+		<producer> Bjørn T. Myrholt</producer>
+		<producer> Eboni Freeman</producer>
+		<producer> Laura Kenar</producer>
+		<producer> Joe Lawson</producer>
+		<producer> Donald Todd</producer>
+		<producer> Howard Leder</producer>
+		<producer> Julia Grove</producer>
+		<producer> Dieter Ismagil</producer>
+		<producer> Jonathan Zurer</producer>
+	</producers>
+	<writers>
+		<writer> Dan Fogelman</writer>
+		<writer> Dan Fogelman</writer>
+		<writer> Laura Kenar</writer>
+		<writer> Laura Kenar</writer>
+		<writer> Laura Kenar</writer>
+		<writer> Eboni Freeman</writer>
+		<writer> Eboni Freeman</writer>
+		<writer> Eboni Freeman</writer>
+		<writer> Eboni Freeman</writer>
+		<writer> Jon Dorsey</writer>
+		<writer> Jon Dorsey</writer>
+		<writer> Jon Dorsey</writer>
+		<writer> Jon Dorsey</writer>
+		<writer> Kay Oyegun</writer>
+		<writer> Kay Oyegun</writer>
+		<writer> Kay Oyegun</writer>
+		<writer> Danielle Bauman</writer>
+		<writer> Danielle Bauman</writer>
+		<writer> Danielle Bauman</writer>
+		<writer> Jonny Gomez</writer>
+		<writer> Jonny Gomez</writer>
+		<writer> Jas Waters</writer>
+		<writer> Aurin Squire</writer>
+		<writer> Aurin Squire</writer>
+		<writer> Isaac Aptaker</writer>
+		<writer> Elizabeth Berger</writer>
+		<writer> K.J. Steinberg</writer>
+		<writer> Vera Herbert</writer>
+		<writer> Kevin Falls</writer>
+		<writer> Bekah Brunstetter</writer>
+		<writer> Julia Brownell</writer>
+		<writer> Casey Johnson</writer>
+		<writer> David Windsor</writer>
+		<writer> Shukree Tilghman</writer>
+		<writer> Elan Mastai</writer>
+		<writer> Jake Schnesel</writer>
+		<writer> Joe Lawson</writer>
+		<writer> Donald Todd</writer>
+		<writer> Don Roos</writer>
+		<writer> Tim O'Brien</writer>
+		<writer> Tyler Bensinger</writer>
+		<writer> Chrissy Metz</writer>
+		<writer> Susan Kelechi Watson</writer>
+	</writers>
+	<editors>
+		<editor> Julia Grove</editor>
+		<editor> Howard Leder</editor>
+		<editor> Bjørn T. Myrholt</editor>
+		<editor> Lai-San Ho</editor>
+		<editor> Erin Nicole Wyatt</editor>
+		<editor> Susan Vaill</editor>
+		<editor> Brandi Bradburn</editor>
+		<editor> Romina Rey</editor>
+		<editor> Nicholas Rucka</editor>
+		<editor> Stacy Pietrafitta</editor>
+		<editor> David L. Bertman</editor>
+		<editor> Joanna Phillips</editor>
+	</editors>
+</doc>

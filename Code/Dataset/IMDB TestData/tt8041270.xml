@@ -1,0 +1,662 @@
+<?xml version="1.0" ?>
+<doc id="tt8041270">
+	<docid>tt8041270</docid>
+	<title>Jurassic World: Dominion</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">147</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>IMAX 6-Track</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Chris Pratt</actor>
+			<role>Owen Grady</role>
+		</credit>
+		<credit>
+			<actor>Bryce Dallas Howard</actor>
+			<role>Claire Dearing</role>
+		</credit>
+		<credit>
+			<actor>Laura Dern</actor>
+			<role>Ellie Sattler</role>
+		</credit>
+		<credit>
+			<actor>Sam Neill</actor>
+			<role>Alan Grant</role>
+		</credit>
+		<credit>
+			<actor>Jeff Goldblum</actor>
+			<role>Ian Malcolm</role>
+		</credit>
+		<credit>
+			<actor>DeWanda Wise</actor>
+			<role>Kayla Watts</role>
+		</credit>
+		<credit>
+			<actor>Mamoudou Athie</actor>
+			<role>Ramsay Cole</role>
+		</credit>
+		<credit>
+			<actor>Isabella Sermon</actor>
+			<role>Maisie Lockwood</role>
+		</credit>
+		<credit>
+			<actor>Campbell Scott</actor>
+			<role>Lewis Dodgson</role>
+		</credit>
+		<credit>
+			<actor>BD Wong</actor>
+			<role>Henry Wu</role>
+		</credit>
+		<credit>
+			<actor>Omar Sy</actor>
+			<role>Barry Sembène</role>
+		</credit>
+		<credit>
+			<actor>Justice Smith</actor>
+			<role>Franklin Webb</role>
+		</credit>
+		<credit>
+			<actor>Daniella Pineda</actor>
+			<role>Zia Rodriguez</role>
+		</credit>
+		<credit>
+			<actor>Scott Haze</actor>
+			<role>Rainn Delacourt</role>
+		</credit>
+		<credit>
+			<actor>Dichen Lachman</actor>
+			<role>Soyona Santos</role>
+		</credit>
+		<credit>
+			<actor>Kristoffer Polaha</actor>
+			<role>Wyatt</role>
+		</credit>
+		<credit>
+			<actor>Caleb Hearon</actor>
+			<role>Jeremy Bernier</role>
+		</credit>
+		<credit>
+			<actor>Freya Parker</actor>
+			<role>Denise Roberts</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Mexico">May 23 2022</releasedate>
+		<releasedate country="South Korea">June 1 2022</releasedate>
+		<releasedate country="Mexico">June 1 2022</releasedate>
+		<releasedate country="Argentina">June 2 2022</releasedate>
+		<releasedate country="Brazil">June 2 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">R13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">6+</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">6+</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dinosaur</keyword>
+		<keyword>tyrannosaurus rex</keyword>
+		<keyword>velociraptor</keyword>
+		<keyword>locust</keyword>
+		<keyword>giant insect</keyword>
+		<keyword>jurassic park</keyword>
+		<keyword>sequel</keyword>
+		<keyword>alan grant character</keyword>
+		<keyword>ellie sattler character</keyword>
+		<keyword>ian malcolm character</keyword>
+		<keyword>dinosaur feature</keyword>
+		<keyword>animal trainer</keyword>
+		<keyword>giganotosaurus</keyword>
+		<keyword>paleontologist</keyword>
+		<keyword>therizinosaurus</keyword>
+		<keyword>sixth part</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>cgi animal in live action title</keyword>
+		<keyword>cgi</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>snow</keyword>
+		<keyword>ice</keyword>
+		<keyword>desert</keyword>
+		<keyword>infant dinosaur</keyword>
+		<keyword>feathered dinosaur</keyword>
+		<keyword>baby dinosaur</keyword>
+		<keyword>ethologist</keyword>
+		<keyword>riding a motorcycle</keyword>
+		<keyword>survival</keyword>
+		<keyword>corporation</keyword>
+		<keyword>human clone</keyword>
+		<keyword>clone</keyword>
+		<keyword>human dinosaur relationship</keyword>
+		<keyword>experiment gone wrong</keyword>
+		<keyword>corruption</keyword>
+		<keyword>diabolical plan</keyword>
+		<keyword>unethical research</keyword>
+		<keyword>unethical business</keyword>
+		<keyword>unethical practice</keyword>
+		<keyword>corporate executive</keyword>
+		<keyword>corrupt corporate executive</keyword>
+		<keyword>corporate corruption</keyword>
+		<keyword>corporate crime</keyword>
+		<keyword>corporate conspiracy</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>systemic corruption</keyword>
+		<keyword>science goes awry</keyword>
+		<keyword>crop</keyword>
+		<keyword>famine</keyword>
+		<keyword>paleontology</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>cabin</keyword>
+		<keyword>cabin in the woods</keyword>
+		<keyword>carnivorous dinosaur</keyword>
+		<keyword>female dinosaur</keyword>
+		<keyword>bipedal dinosaur</keyword>
+		<keyword>dinosaur versus dinosaur</keyword>
+		<keyword>human dinosaur friendship</keyword>
+		<keyword>killer dinosaur</keyword>
+		<keyword>fight between dinosaurs</keyword>
+		<keyword>giant dinosaur</keyword>
+		<keyword>dinosaur fight</keyword>
+		<keyword>flying dinosaur</keyword>
+		<keyword>winged dinosaur</keyword>
+		<keyword>human versus dinosaur</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>kidnapped girl</keyword>
+		<keyword>scientist</keyword>
+		<keyword>science</keyword>
+		<keyword>intellectual property</keyword>
+		<keyword>evil businessman</keyword>
+		<keyword>megacorporation</keyword>
+		<keyword>cloning</keyword>
+		<keyword>child</keyword>
+		<keyword>protective parent</keyword>
+		<keyword>apex predator</keyword>
+		<keyword>dolomites</keyword>
+		<keyword>italy</keyword>
+		<keyword>malta</keyword>
+		<keyword>parent child relationship</keyword>
+		<keyword>surrogate family</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>death of parent</keyword>
+		<keyword>14 year old</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>jurassic</keyword>
+		<keyword>corporate cover up</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>airplane pilot</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>archaeological dig</keyword>
+		<keyword>race against time</keyword>
+		<keyword>dinosaur attack</keyword>
+		<keyword>surrogate father</keyword>
+		<keyword>surrogate mother</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>the future</keyword>
+		<keyword>dinosaurs humans coexist</keyword>
+		<keyword>genetic</keyword>
+		<keyword>rexy character</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>cold</keyword>
+		<keyword>mexican</keyword>
+		<keyword>asian</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>new zealand actor playing american character</keyword>
+		<keyword>epic sci fi</keyword>
+		<keyword>epic action</keyword>
+		<keyword>escape</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>creature</keyword>
+		<keyword>ceo</keyword>
+		<keyword>chase</keyword>
+		<keyword>asian american</keyword>
+		<keyword>surrogate parent surrogate child relationship</keyword>
+		<keyword>surrogate mother surrogate daughter relationship</keyword>
+		<keyword>surrogate father surrogate daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>insect</keyword>
+		<keyword>male paleontologist</keyword>
+		<keyword>philosopher</keyword>
+		<keyword>u.s. senate</keyword>
+		<keyword>female pilot</keyword>
+		<keyword>pilot</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>airplane on fire</keyword>
+		<keyword>black market</keyword>
+		<keyword>wildlife trafficking</keyword>
+		<keyword>cage</keyword>
+		<keyword>animal in a cage</keyword>
+		<keyword>missing girl</keyword>
+		<keyword>deer</keyword>
+		<keyword>rescue</keyword>
+		<keyword>forest fire</keyword>
+		<keyword>forest</keyword>
+		<keyword>woods</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>asexual reproduction</keyword>
+		<keyword>pregnant woman</keyword>
+		<keyword>genetic disease</keyword>
+		<keyword>genome</keyword>
+		<keyword>genome editing</keyword>
+		<keyword>human genome</keyword>
+		<keyword>dna</keyword>
+		<keyword>ethics</keyword>
+		<keyword>bioethics</keyword>
+		<keyword>bioengineering</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>genetically engineered animal</keyword>
+		<keyword>genetically engineered creature</keyword>
+		<keyword>genetically engineered crop</keyword>
+		<keyword>dna technology</keyword>
+		<keyword>dna sample</keyword>
+		<keyword>genetically modified organism</keyword>
+		<keyword>genetically modified animal</keyword>
+		<keyword>genetically modified seed</keyword>
+		<keyword>environmental issue</keyword>
+		<keyword>farm</keyword>
+		<keyword>barn</keyword>
+		<keyword>power supply</keyword>
+		<keyword>author</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>boss employee relationship</keyword>
+		<keyword>u.s. government</keyword>
+		<keyword>whistleblower</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>ejected from an airplane</keyword>
+		<keyword>parachute caught in a tree</keyword>
+		<keyword>parachute drop</keyword>
+		<keyword>parachuting</keyword>
+		<keyword>torn parachute</keyword>
+		<keyword>parachute</keyword>
+		<keyword>wildlife trafficker</keyword>
+		<keyword>trafficker</keyword>
+		<keyword>animal smuggling</keyword>
+		<keyword>animal trafficking</keyword>
+		<keyword>illegal trafficking</keyword>
+		<keyword>breaking through ice</keyword>
+		<keyword>falling through ice</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>heroism</keyword>
+		<keyword>bravery</keyword>
+		<keyword>destruction</keyword>
+		<keyword>setting an animal on fire</keyword>
+		<keyword>animal on fire</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>employee employee relationship</keyword>
+		<keyword>horse</keyword>
+		<keyword>lasso</keyword>
+		<keyword>poacher</keyword>
+		<keyword>gang of poachers</keyword>
+		<keyword>being followed</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>sierra nevada mountains california</keyword>
+		<keyword>california</keyword>
+		<keyword>pennsylvania</keyword>
+		<keyword>utah</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>american woman</keyword>
+		<keyword>american man</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>driving a van</keyword>
+		<keyword>woman drives a van</keyword>
+		<keyword>van</keyword>
+		<keyword>animal rescue</keyword>
+		<keyword>animal research</keyword>
+		<keyword>driving through a gate</keyword>
+		<keyword>crashing through a fence</keyword>
+		<keyword>driving through a fence</keyword>
+		<keyword>capturing an animal</keyword>
+		<keyword>taming a wild animal</keyword>
+		<keyword>animal taming</keyword>
+		<keyword>restricted access</keyword>
+		<keyword>scientific research</keyword>
+		<keyword>paleobotanist</keyword>
+		<keyword>female paleobotanist</keyword>
+		<keyword>recurring character</keyword>
+		<keyword>learning the truth</keyword>
+		<keyword>woman rests her head on a man's shoulder</keyword>
+		<keyword>african american</keyword>
+		<keyword>cia central intelligence agency</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>three word title</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>girl in jeopardy</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>spying through binoculars</keyword>
+		<keyword>girl rides a bicycle</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>throwing a bicycle off a bridge</keyword>
+		<keyword>throwing a bicycle into water</keyword>
+		<keyword>parent</keyword>
+		<keyword>undercover</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>teenager</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>monster fight</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>alaska</keyword>
+		<keyword>texas</keyword>
+		<keyword>monster</keyword>
+		<keyword>nevada</keyword>
+		<keyword>car chase</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>car crash</keyword>
+		<keyword>hunter</keyword>
+		<keyword>cover up</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>australian</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>fishing boat</keyword>
+		<keyword>fisherman</keyword>
+		<keyword>female mercenary</keyword>
+		<keyword>bering sea</keyword>
+		<keyword>airplane</keyword>
+		<keyword>swamp</keyword>
+		<keyword>car accident</keyword>
+		<keyword>mountain</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>elephant</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>frenchman</keyword>
+		<keyword>spy</keyword>
+		<keyword>fire</keyword>
+		<keyword>explosion</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>campfire</keyword>
+		<keyword>axe</keyword>
+		<keyword>power outage</keyword>
+		<keyword>tour</keyword>
+		<keyword>disguise</keyword>
+		<keyword>geneticist</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>genetics</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>teen angst</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>photograph</keyword>
+		<keyword>logger</keyword>
+		<keyword>logging</keyword>
+		<keyword>flare</keyword>
+		<keyword>flare gun</keyword>
+		<keyword>torch</keyword>
+		<keyword>taser</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>futuristic train</keyword>
+		<keyword>bridge</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>airfield</keyword>
+		<keyword>truck</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>laser pointer</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>apartment</keyword>
+		<keyword>knife</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>pistol</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>tranquilizer gun</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>rooftop chase</keyword>
+		<keyword>father figure</keyword>
+		<keyword>adoptive mother</keyword>
+		<keyword>adoptive father</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>tent</keyword>
+		<keyword>book signing</keyword>
+		<keyword>security camera</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>school bus</keyword>
+		<keyword>retcon</keyword>
+		<keyword>reporter</keyword>
+		<keyword>montage</keyword>
+		<keyword>shot in the neck</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>rescue attempt</keyword>
+		<keyword>washington monument</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>ambush</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>control tower</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>danger</keyword>
+		<keyword>abandoned mine</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>reference to miles davis</keyword>
+		<keyword>reference to rambo</keyword>
+		<keyword>redemption</keyword>
+		<keyword>adopted daughter</keyword>
+		<keyword>adoptive parent</keyword>
+		<keyword>espionage</keyword>
+		<keyword>revelation</keyword>
+		<keyword>orphan</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>destroyed crop</keyword>
+		<keyword>earth in jeopardy</keyword>
+		<keyword>comeuppance</keyword>
+		<keyword>surrogate child</keyword>
+		<keyword>surrogate daughter</keyword>
+		<keyword>surrogate parent</keyword>
+		<keyword>photograph of daughter</keyword>
+		<keyword>family photograph</keyword>
+		<keyword>asking for help</keyword>
+		<keyword>animal capture</keyword>
+		<keyword>captive animal</keyword>
+		<keyword>unauthorized entry</keyword>
+		<keyword>restricted area</keyword>
+		<keyword>female clone</keyword>
+		<keyword>mutation</keyword>
+		<keyword>mutant</keyword>
+		<keyword>2020s</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>jumping from a rooftop</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>ejection seat</keyword>
+		<keyword>snorricam</keyword>
+		<keyword>armored car</keyword>
+		<keyword>animal attack</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>airplane accident</keyword>
+		<keyword>allosaurus</keyword>
+		<keyword>apatosaurus</keyword>
+		<keyword>atrociraptor</keyword>
+		<keyword>carnotaurus</keyword>
+		<keyword>compsognathus</keyword>
+		<keyword>dilophosaurus</keyword>
+		<keyword>lystrosaurus</keyword>
+		<keyword>mosasaurus</keyword>
+		<keyword>nasutoceratops</keyword>
+		<keyword>parasaurolophus</keyword>
+		<keyword>pteranodon</keyword>
+		<keyword>pyroraptor</keyword>
+		<keyword>quetzalcoatlus</keyword>
+		<keyword>cargo plane</keyword>
+		<keyword>dimetrodon</keyword>
+		<keyword>corporate espionage</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>bag of money</keyword>
+		<keyword>sanctuary</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>hyperloop</keyword>
+		<keyword>trapped in a cage</keyword>
+		<keyword>dreadnoughtus</keyword>
+		<keyword>baryonyx</keyword>
+		<keyword>dimorphodon</keyword>
+		<keyword>triceratops</keyword>
+		<keyword>stegosaurus</keyword>
+		<keyword>brachiosaurus</keyword>
+		<keyword>moros</keyword>
+		<keyword>sinoceratops</keyword>
+		<keyword>stygimoloch</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>final battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>sea creature</keyword>
+		<keyword>sea monster</keyword>
+		<keyword>skull</keyword>
+		<keyword>northern california</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>villainess</keyword>
+		<keyword>lewis dodgson character</keyword>
+		<keyword>henry wu character</keyword>
+		<keyword>dinosaur attacks dinosaur</keyword>
+		<keyword>cloned child</keyword>
+		<keyword>prehistoric creature</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>evil man</keyword>
+		<keyword>billion dollar club</keyword>
+		<keyword>troubled production</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>begins in the past</keyword>
+		<keyword>drive in theater</keyword>
+		<keyword>female aviator</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>carnivore</keyword>
+		<keyword>aviator</keyword>
+		<keyword>predator</keyword>
+		<keyword>quadrupedal dinosaur</keyword>
+		<keyword>owen grady character</keyword>
+		<keyword>claire dearing character</keyword>
+		<keyword>drive in movie</keyword>
+		<keyword>drive in theatre</keyword>
+		<keyword>cgi animal</keyword>
+		<keyword>colleague colleague relationship</keyword>
+		<keyword>battle</keyword>
+		<keyword>showdown</keyword>
+		<keyword>third part</keyword>
+		<keyword>world domination</keyword>
+	</keywords>
+	<directors>
+		<director> Colin Trevorrow</director>
+	</directors>
+	<composers>
+		<composer> Michael Giacchino</composer>
+	</composers>
+	<producers>
+		<producer> Winston Azzopardi</producer>
+		<producer> Patrick Crowley</producer>
+		<producer> Alexandra Derbyshire</producer>
+		<producer> Charlie Endean</producer>
+		<producer> Annys Hamilton</producer>
+		<producer> Reshma Jhangimal</producer>
+		<producer> Frank Marshall</producer>
+		<producer> Steven Spielberg</producer>
+		<producer> Colin Trevorrow</producer>
+		<producer> Tim Wellspring</producer>
+	</producers>
+	<writers>
+		<writer> Emily Carmichael</writer>
+		<writer> Colin Trevorrow</writer>
+		<writer> Derek Connolly</writer>
+		<writer> Colin Trevorrow</writer>
+		<writer> Michael Crichton</writer>
+	</writers>
+	<editors>
+		<editor> Mark Sanger</editor>
+	</editors>
+</doc>

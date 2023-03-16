@@ -1,0 +1,492 @@
+<?xml version="1.0" ?>
+<doc id="tt8772262">
+	<docid>tt8772262</docid>
+	<title>Midsommar</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDZjZWE0ZjktZjBlOS00YmFiLWFlYjctY2IwZmUxMzQyZjUyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">148</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Florence Pugh</actor>
+			<role>Dani</role>
+		</credit>
+		<credit>
+			<actor>Jack Reynor</actor>
+			<role>Christian</role>
+		</credit>
+		<credit>
+			<actor>Vilhelm Blomgren</actor>
+			<role>Pelle</role>
+		</credit>
+		<credit>
+			<actor>William Jackson Harper</actor>
+			<role>Josh</role>
+		</credit>
+		<credit>
+			<actor>Will Poulter</actor>
+			<role>Mark</role>
+		</credit>
+		<credit>
+			<actor>Ellora Torchia</actor>
+			<role>Connie</role>
+		</credit>
+		<credit>
+			<actor>Archie Madekwe</actor>
+			<role>Simon</role>
+		</credit>
+		<credit>
+			<actor>Henrik Norlén</actor>
+			<role>Ulf</role>
+		</credit>
+		<credit>
+			<actor>Gunnel Fred</actor>
+			<role>Siv</role>
+		</credit>
+		<credit>
+			<actor>Isabelle Grill</actor>
+			<role>Maja</role>
+		</credit>
+		<credit>
+			<actor>Agnes Westerlund Rase</actor>
+			<role>Dagny</role>
+		</credit>
+		<credit>
+			<actor>Julia Ragnarsson</actor>
+			<role>Inga</role>
+		</credit>
+		<credit>
+			<actor>Mats Blomgren</actor>
+			<role>Odd</role>
+		</credit>
+		<credit>
+			<actor>Lars Väringer</actor>
+			<role>Sten</role>
+		</credit>
+		<credit>
+			<actor>Anna Åström</actor>
+			<role>Karin</role>
+		</credit>
+		<credit>
+			<actor>Hampus Hallberg</actor>
+			<role>Ingemar</role>
+		</credit>
+		<credit>
+			<actor>Liv Mjönes</actor>
+			<role>Ulla</role>
+		</credit>
+		<credit>
+			<actor>Louise Peterhoff</actor>
+			<role>Hanna</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">June 24 2019</releasedate>
+		<releasedate country="Canada">July 3 2019</releasedate>
+		<releasedate country="United Kingdom">July 3 2019</releasedate>
+		<releasedate country="Ireland">July 3 2019</releasedate>
+		<releasedate country="United States">July 3 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Belgium">KNT/ENA</certificate>
+		<certificate country="Belgium">16</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Czechia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">A-18</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">21+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Lithuania">N-18</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Maldives">18+R</certificate>
+		<certificate country="Malta">18</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-18</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Portugal">M/18</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Saudi Arabia">R18</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="Thailand">20</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>religious cult</keyword>
+		<keyword>cult</keyword>
+		<keyword>grief</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>summer festival</keyword>
+		<keyword>isolated community</keyword>
+		<keyword>human sacrifice</keyword>
+		<keyword>sweden</keyword>
+		<keyword>suicide</keyword>
+		<keyword>sex ritual</keyword>
+		<keyword>funeral pyre</keyword>
+		<keyword>panic attack</keyword>
+		<keyword>ritual sacrifice</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>death of parents</keyword>
+		<keyword>emotional breakdown</keyword>
+		<keyword>paganism</keyword>
+		<keyword>head bashed in</keyword>
+		<keyword>flower crown</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>drugs</keyword>
+		<keyword>nervous breakdown</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>couple</keyword>
+		<keyword>folk horror</keyword>
+		<keyword>summer</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>male full frontal nudity</keyword>
+		<keyword>bear</keyword>
+		<keyword>religious ceremony</keyword>
+		<keyword>ceremonial dance</keyword>
+		<keyword>head mutilated</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>thesis</keyword>
+		<keyword>caged bear</keyword>
+		<keyword>crushed head</keyword>
+		<keyword>drugged</keyword>
+		<keyword>mental breakdown</keyword>
+		<keyword>public nudity</keyword>
+		<keyword>attestupa</keyword>
+		<keyword>swedish summer</keyword>
+		<keyword>young couple</keyword>
+		<keyword>traumatized protagonist</keyword>
+		<keyword>northern europe</keyword>
+		<keyword>american in europe</keyword>
+		<keyword>vacation gone wrong</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>death of father</keyword>
+		<keyword>trip</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>pubic hair</keyword>
+		<keyword>blood</keyword>
+		<keyword>dance competition</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>cliff</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>burning</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>ritualistic murder</keyword>
+		<keyword>ritualistic violence</keyword>
+		<keyword>ritual murder</keyword>
+		<keyword>ritual</keyword>
+		<keyword>mating ritual</keyword>
+		<keyword>carbon monoxide poisoning</keyword>
+		<keyword>murder suicide</keyword>
+		<keyword>cremation</keyword>
+		<keyword>jumping off a cliff</keyword>
+		<keyword>corpse</keyword>
+		<keyword>mental illness</keyword>
+		<keyword>bludgeoned to death</keyword>
+		<keyword>drugged man</keyword>
+		<keyword>drugged woman</keyword>
+		<keyword>drugged drink</keyword>
+		<keyword>ceremony</keyword>
+		<keyword>doctorate thesis paper</keyword>
+		<keyword>bearskin</keyword>
+		<keyword>meat pie</keyword>
+		<keyword>death of sister</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>sleeping pill</keyword>
+		<keyword>incest</keyword>
+		<keyword>child of incest</keyword>
+		<keyword>anti anxiety medication</keyword>
+		<keyword>mutilated corpse</keyword>
+		<keyword>mutilated face</keyword>
+		<keyword>ritual killing</keyword>
+		<keyword>ritual suicide</keyword>
+		<keyword>hallucinogen</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>loss of sister</keyword>
+		<keyword>community</keyword>
+		<keyword>airplane</keyword>
+		<keyword>playing flute</keyword>
+		<keyword>birthday</keyword>
+		<keyword>singing happy birthday</keyword>
+		<keyword>candle</keyword>
+		<keyword>internet search</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>tea</keyword>
+		<keyword>burning a dead body</keyword>
+		<keyword>dancing</keyword>
+		<keyword>nudity</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>urination</keyword>
+		<keyword>answering machine</keyword>
+		<keyword>ativan</keyword>
+		<keyword>child crying</keyword>
+		<keyword>country road</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>long take</keyword>
+		<keyword>meadow</keyword>
+		<keyword>nature</keyword>
+		<keyword>paralysis</keyword>
+		<keyword>anti anxiety drug</keyword>
+		<keyword>prescription drug</keyword>
+		<keyword>trauma</keyword>
+		<keyword>blood eagle</keyword>
+		<keyword>redheaded woman</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>dressed in all white</keyword>
+		<keyword>folk dance</keyword>
+		<keyword>sex in public</keyword>
+		<keyword>mercy killing</keyword>
+		<keyword>ritual sex</keyword>
+		<keyword>dead body in a wheelbarrow</keyword>
+		<keyword>crying in grief</keyword>
+		<keyword>disturbing</keyword>
+		<keyword>screaming</keyword>
+		<keyword>pagan</keyword>
+		<keyword>anthropology student</keyword>
+		<keyword>loss of parents</keyword>
+		<keyword>summer solstice</keyword>
+		<keyword>midnight sun</keyword>
+		<keyword>commune</keyword>
+		<keyword>skinned face</keyword>
+		<keyword>sacrificial fire</keyword>
+		<keyword>sacrificial death</keyword>
+		<keyword>missionary sex position</keyword>
+		<keyword>swedesploitation</keyword>
+		<keyword>cultural clash</keyword>
+		<keyword>sociology student</keyword>
+		<keyword>sociology</keyword>
+		<keyword>dead body on fire</keyword>
+		<keyword>midsummer</keyword>
+		<keyword>running through a field</keyword>
+		<keyword>scandinavia</keyword>
+		<keyword>american in sweden</keyword>
+		<keyword>europe</keyword>
+		<keyword>vacation</keyword>
+		<keyword>town with a dark secret</keyword>
+		<keyword>rural setting</keyword>
+		<keyword>one word title</keyword>
+		<keyword>marijuana</keyword>
+		<keyword>snow</keyword>
+		<keyword>cow</keyword>
+		<keyword>circle</keyword>
+		<keyword>bashing</keyword>
+		<keyword>isolation</keyword>
+		<keyword>barn</keyword>
+		<keyword>holy book</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>broken leg</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>rotting corpse</keyword>
+		<keyword>ruthlessness</keyword>
+		<keyword>compound fracture</keyword>
+		<keyword>birthday cake</keyword>
+		<keyword>google search</keyword>
+		<keyword>ringing bell</keyword>
+		<keyword>knife</keyword>
+		<keyword>fire</keyword>
+		<keyword>competition</keyword>
+		<keyword>coach</keyword>
+		<keyword>acquaintance</keyword>
+		<keyword>arson</keyword>
+		<keyword>brutality</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>crying</keyword>
+		<keyword>drug use</keyword>
+		<keyword>evil</keyword>
+		<keyword>hugging</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>medication</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>murder</keyword>
+		<keyword>old man</keyword>
+		<keyword>psilocybin</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>snowing</keyword>
+		<keyword>woods</keyword>
+		<keyword>worrying</keyword>
+		<keyword>nude woman</keyword>
+		<keyword>festival</keyword>
+		<keyword>cutting the palm of a woman's hand</keyword>
+		<keyword>compound leg fracture</keyword>
+		<keyword>head smashed with a mallet</keyword>
+		<keyword>mutilation</keyword>
+		<keyword>paralyzed</keyword>
+		<keyword>immolation</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>endless scream</keyword>
+		<keyword>psychotic</keyword>
+		<keyword>psychedelic</keyword>
+		<keyword>head ripped off</keyword>
+		<keyword>unhappy ending</keyword>
+		<keyword>double murder suicide</keyword>
+		<keyword>male female relationship</keyword>
+		<keyword>magic mushroom</keyword>
+		<keyword>psychedelic mushrooms</keyword>
+		<keyword>drug trip</keyword>
+		<keyword>drug hallucination</keyword>
+		<keyword>drug induced hallucination</keyword>
+		<keyword>coup de grace</keyword>
+		<keyword>killed with a mallet</keyword>
+		<keyword>love spell</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>hit on the head with a mallet</keyword>
+		<keyword>sacred book</keyword>
+		<keyword>deformed child</keyword>
+		<keyword>running naked</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>russian mythology</keyword>
+		<keyword>american</keyword>
+		<keyword>norse mythology</keyword>
+		<keyword>human skin mask</keyword>
+		<keyword>cultural difference</keyword>
+		<keyword>renault scenic ii</keyword>
+		<keyword>american couple</keyword>
+		<keyword>swedish redneck</keyword>
+		<keyword>redneck</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>runestone</keyword>
+		<keyword>suicide by jumping</keyword>
+		<keyword>jumping off cliff</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>village</keyword>
+		<keyword>pyre</keyword>
+		<keyword>secret</keyword>
+		<keyword>closed society</keyword>
+		<keyword>closed community</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>anthropologist</keyword>
+		<keyword>research thesis</keyword>
+		<keyword>rune</keyword>
+		<keyword>smashing someone's skull</keyword>
+		<keyword>temple</keyword>
+		<keyword>dancing in circle</keyword>
+		<keyword>stamina</keyword>
+		<keyword>tree</keyword>
+		<keyword>dead tree</keyword>
+		<keyword>research</keyword>
+		<keyword>ceremonial funeral pyre</keyword>
+		<keyword>may pole</keyword>
+		<keyword>car exhaust</keyword>
+		<keyword>inhaling aphrodisiac</keyword>
+		<keyword>feast</keyword>
+		<keyword>outsider</keyword>
+		<keyword>university student</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>codependency</keyword>
+		<keyword>codependent relationship</keyword>
+		<keyword>cutting off someone's face</keyword>
+		<keyword>fish out of water</keyword>
+		<keyword>boyfriend forgets girlfriend's birthday</keyword>
+		<keyword>witnessing a suicide</keyword>
+		<keyword>burning alive</keyword>
+		<keyword>newcomer</keyword>
+		<keyword>hallucinating</keyword>
+		<keyword>lottery tumbler</keyword>
+		<keyword>lottery drawing</keyword>
+		<keyword>taking a photograph with a cell phone</keyword>
+		<keyword>drawing</keyword>
+		<keyword>loss of family</keyword>
+		<keyword>reference to ativan</keyword>
+		<keyword>herbal drug</keyword>
+		<keyword>vagina</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>redneck horror</keyword>
+	</keywords>
+	<directors>
+		<director> Ari Aster</director>
+	</directors>
+	<composers>
+		<composer> The Haxan Cloak</composer>
+	</composers>
+	<producers>
+		<producer> Patrik Andersson</producer>
+		<producer> Thomas Benski</producer>
+		<producer> Tyler Campellone</producer>
+		<producer> Scott E. Chester</producer>
+		<producer> Beau Ferris</producer>
+		<producer> Fredrik Heinig</producer>
+		<producer> Lars Knudsen</producer>
+		<producer> Pelle Nilsson</producer>
+		<producer> Jeffrey Penman</producer>
+		<producer> Viktória Petrányi</producer>
+		<producer> Szandra Barbara Pozsár</producer>
+		<producer> Ben Rimmer</producer>
+		<producer> Tintin Scheynius</producer>
+		<producer> Judit Sós</producer>
+		<producer> Philip Westgren</producer>
+	</producers>
+	<writers>
+		<writer> Ari Aster</writer>
+	</writers>
+	<editors>
+		<editor> Lucian Johnston</editor>
+	</editors>
+</doc>

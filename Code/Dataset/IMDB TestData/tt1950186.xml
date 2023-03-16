@@ -1,0 +1,361 @@
+<?xml version="1.0" ?>
+<doc id="tt1950186">
+	<docid>tt1950186</docid>
+	<title>Le Mans '66</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDdjZmFlMDgtMmZmMC00MzU3LWI4YjQtMDE3ZTdjYjkwYTA3XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">152</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Matt Damon</actor>
+			<role>Carroll Shelby</role>
+		</credit>
+		<credit>
+			<actor>Christian Bale</actor>
+			<role>Ken Miles</role>
+		</credit>
+		<credit>
+			<actor>Jon Bernthal</actor>
+			<role>Lee Iacocca</role>
+		</credit>
+		<credit>
+			<actor>Caitríona Balfe</actor>
+			<role>Mollie Miles</role>
+		</credit>
+		<credit>
+			<actor>Josh Lucas</actor>
+			<role>Leo Beebe</role>
+		</credit>
+		<credit>
+			<actor>Noah Jupe</actor>
+			<role>Peter Miles</role>
+		</credit>
+		<credit>
+			<actor>Tracy Letts</actor>
+			<role>Henry Ford II</role>
+		</credit>
+		<credit>
+			<actor>Remo Girone</actor>
+			<role>Enzo Ferrari</role>
+		</credit>
+		<credit>
+			<actor>Ray McKinnon</actor>
+			<role>Phil Remington</role>
+		</credit>
+		<credit>
+			<actor>JJ Feild</actor>
+			<role>Roy Lunn</role>
+		</credit>
+		<credit>
+			<actor>Jack McMullen</actor>
+			<role>Charlie Agapiou</role>
+		</credit>
+		<credit>
+			<actor>Corrado Invernizzi</actor>
+			<role>Franco Gozzi</role>
+		</credit>
+		<credit>
+			<actor>Joe Williamson</actor>
+			<role>Don Frey</role>
+		</credit>
+		<credit>
+			<actor>Ian Harding</actor>
+			<role>Ford Executive - Ian</role>
+		</credit>
+		<credit>
+			<actor>Christopher Darga</actor>
+			<role>John Holman</role>
+		</credit>
+		<credit>
+			<actor>Shawn Law</actor>
+			<role>Al 'Gus' Scussel</role>
+		</credit>
+		<credit>
+			<actor>Emil Beheshti</actor>
+			<role>Aeronutronics Chief Engineer</role>
+		</credit>
+		<credit>
+			<actor>Darrin Prescott</actor>
+			<role>Bob Bondurant</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 30 2019</releasedate>
+		<releasedate country="Canada">September 9 2019</releasedate>
+		<releasedate country="United States">September 20 2019</releasedate>
+		<releasedate country="Switzerland">October 4 2019</releasedate>
+		<releasedate country="United Kingdom">October 10 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">18 +</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">7</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">All</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Serbia">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">0+</certificate>
+		<certificate country="Thailand">13 +</certificate>
+		<certificate country="Turkey">10A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on true story</keyword>
+		<keyword>car racing</keyword>
+		<keyword>24 hours le mans race</keyword>
+		<keyword>motor sports</keyword>
+		<keyword>racecar</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>ken miles character</keyword>
+		<keyword>24 hours of le mans</keyword>
+		<keyword>le mans</keyword>
+		<keyword>racing</keyword>
+		<keyword>based on book</keyword>
+		<keyword>racecar driver</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>fight</keyword>
+		<keyword>car</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>7000 rpm</keyword>
+		<keyword>ford gt</keyword>
+		<keyword>speech</keyword>
+		<keyword>1960s</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>telephone</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>year 1966</keyword>
+		<keyword>indy 500</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>friendship</keyword>
+		<keyword>friend</keyword>
+		<keyword>wrench</keyword>
+		<keyword>throwing a wrench at someone</keyword>
+		<keyword>time watch</keyword>
+		<keyword>pit stop</keyword>
+		<keyword>reference to sophia loren</keyword>
+		<keyword>reference to monica vitti</keyword>
+		<keyword>reference to steve mcqueen the actor</keyword>
+		<keyword>reference to franklin d. roosevelt</keyword>
+		<keyword>reference to henry ford</keyword>
+		<keyword>ford mustang</keyword>
+		<keyword>assembly line</keyword>
+		<keyword>automobile manufacturing</keyword>
+		<keyword>automobile designing</keyword>
+		<keyword>italy</keyword>
+		<keyword>italian</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>listening to a radio</keyword>
+		<keyword>rain</keyword>
+		<keyword>reckless driving</keyword>
+		<keyword>driving in the rain</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>groceries</keyword>
+		<keyword>sportswear</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>ferrari</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>reference to fiat automobiles</keyword>
+		<keyword>based on real person</keyword>
+		<keyword>male friendship</keyword>
+		<keyword>male bonding</keyword>
+		<keyword>france</keyword>
+		<keyword>perseverance</keyword>
+		<keyword>believe in yourself</keyword>
+		<keyword>car damage</keyword>
+		<keyword>defective car brakes</keyword>
+		<keyword>defective brakes</keyword>
+		<keyword>united kingdom flag</keyword>
+		<keyword>glasses</keyword>
+		<keyword>doctor</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>sun hat</keyword>
+		<keyword>american flag</keyword>
+		<keyword>checkered flag</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>texas flag</keyword>
+		<keyword>pencil</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>violence</keyword>
+		<keyword>driving</keyword>
+		<keyword>mechanic</keyword>
+		<keyword>reference to james bond</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>racing driver</keyword>
+		<keyword>breaking a window</keyword>
+		<keyword>year 1959</keyword>
+		<keyword>man on fire</keyword>
+		<keyword>lee iacocca character</keyword>
+		<keyword>company name in title</keyword>
+		<keyword>automobile factory</keyword>
+		<keyword>autograph seeker</keyword>
+		<keyword>reference to steve mcqueen</keyword>
+		<keyword>enzo ferrari character</keyword>
+		<keyword>merger</keyword>
+		<keyword>carroll shelby character</keyword>
+		<keyword>reference to charles lindbergh</keyword>
+		<keyword>test track</keyword>
+		<keyword>drinking beer from a bottle</keyword>
+		<keyword>reference to world war two</keyword>
+		<keyword>american flag waving in breeze</keyword>
+		<keyword>mg mga 1500</keyword>
+		<keyword>aston martin</keyword>
+		<keyword>clothes on fire</keyword>
+		<keyword>fuel spill</keyword>
+		<keyword>intense competitor</keyword>
+		<keyword>u turn across traffic</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>slot car race track</keyword>
+		<keyword>automobile assembly line</keyword>
+		<keyword>fizzy pop</keyword>
+		<keyword>chevrolet impala</keyword>
+		<keyword>trophy</keyword>
+		<keyword>airstream</keyword>
+		<keyword>porsche</keyword>
+		<keyword>race car driver</keyword>
+		<keyword>breaking a windshield</keyword>
+		<keyword>breakdown</keyword>
+		<keyword>218 miles per hour</keyword>
+		<keyword>dirty trick</keyword>
+		<keyword>engine factory</keyword>
+		<keyword>riding a vespa</keyword>
+		<keyword>brake failure</keyword>
+		<keyword>insult</keyword>
+		<keyword>perfect lap</keyword>
+		<keyword>firecracker</keyword>
+		<keyword>car crash</keyword>
+		<keyword>daytona 500</keyword>
+		<keyword>racing tactics</keyword>
+		<keyword>beechcraft model 18</keyword>
+		<keyword>tipping hat</keyword>
+		<keyword>boeing 727</keyword>
+		<keyword>reference to doris day</keyword>
+		<keyword>riding a motorcycle</keyword>
+		<keyword>french flag</keyword>
+		<keyword>door won't close</keyword>
+		<keyword>bell 47 sioux helicopter</keyword>
+		<keyword>thunderstorm</keyword>
+		<keyword>death of a friend</keyword>
+		<keyword>changing a tire</keyword>
+		<keyword>stop watch</keyword>
+		<keyword>replacing brakes</keyword>
+		<keyword>ends with historical notes</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>italian american</keyword>
+		<keyword>italian man</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>auto mechanic</keyword>
+		<keyword>motorsports sport</keyword>
+		<keyword>abbreviation in title</keyword>
+		<keyword>20th century</keyword>
+		<keyword>father carries his son</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>death of father</keyword>
+		<keyword>boy</keyword>
+		<keyword>reference to adolf hitler</keyword>
+	</keywords>
+	<directors>
+		<director> James Mangold</director>
+	</directors>
+	<composers>
+		<composer> Marco Beltrami</composer>
+		<composer> Buck Sanders</composer>
+	</composers>
+	<producers>
+		<producer> John Bernard</producer>
+		<producer> Dani Bernfeld</producer>
+		<producer> Peter Chernin</producer>
+		<producer> Anthony Dixon</producer>
+		<producer> Aaron Downing</producer>
+		<producer> Lucas Foster</producer>
+		<producer> Kevin Halloran</producer>
+		<producer> James Mangold</producer>
+		<producer> Michael Mann</producer>
+		<producer> Adam Somner</producer>
+		<producer> Jenno Topping</producer>
+		<producer> Alex Young</producer>
+	</producers>
+	<writers>
+		<writer> Jez Butterworth</writer>
+		<writer> John-Henry Butterworth</writer>
+		<writer> Jason Keller</writer>
+	</writers>
+	<editors>
+		<editor> Andrew Buckland</editor>
+		<editor> Michael McCusker</editor>
+		<editor> Dirk Westervelt</editor>
+	</editors>
+</doc>
