@@ -1,0 +1,610 @@
+<?xml version="1.0" ?>
+<doc id="tt2231461">
+	<docid>tt2231461</docid>
+	<title>Rampage</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">107</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dwayne Johnson</actor>
+			<role>Davis Okoye</role>
+		</credit>
+		<credit>
+			<actor>Naomie Harris</actor>
+			<role>Dr. Kate Caldwell</role>
+		</credit>
+		<credit>
+			<actor>Malin Akerman</actor>
+			<role>Claire Wyden</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Dean Morgan</actor>
+			<role>Harvey Russell</role>
+		</credit>
+		<credit>
+			<actor>Jake Lacy</actor>
+			<role>Brett Wyden</role>
+		</credit>
+		<credit>
+			<actor>Joe Manganiello</actor>
+			<role>Burke</role>
+		</credit>
+		<credit>
+			<actor>Marley Shelton</actor>
+			<role>Dr. Kerry Atkins</role>
+		</credit>
+		<credit>
+			<actor>P.J. Byrne</actor>
+			<role>Nelson</role>
+		</credit>
+		<credit>
+			<actor>Demetrius Grosse</actor>
+			<role>Colonel Blake</role>
+		</credit>
+		<credit>
+			<actor>Jack Quaid</actor>
+			<role>Connor</role>
+		</credit>
+		<credit>
+			<actor>Breanne Hill</actor>
+			<role>Amy</role>
+		</credit>
+		<credit>
+			<actor>Matt Gerald</actor>
+			<role>Zammit</role>
+		</credit>
+		<credit>
+			<actor>Will Yun Lee</actor>
+			<role>Agent Park</role>
+		</credit>
+		<credit>
+			<actor>Urijah Faber</actor>
+			<role>Garrick</role>
+		</credit>
+		<credit>
+			<actor>Bruce Blackshear</actor>
+			<role>Taylor</role>
+		</credit>
+		<credit>
+			<actor>Jason Liles</actor>
+			<role>George</role>
+		</credit>
+		<credit>
+			<actor>Mac Wells</actor>
+			<role>Communications Officer</role>
+		</credit>
+		<credit>
+			<actor>Allyssa Brooke</actor>
+			<role>Radar Officer</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="China">April 9 2018</releasedate>
+		<releasedate country="Belgium">April 11 2018</releasedate>
+		<releasedate country="Estonia">April 11 2018</releasedate>
+		<releasedate country="United Kingdom">April 11 2018</releasedate>
+		<releasedate country="Indonesia">April 11 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on video game</keyword>
+		<keyword>giant gorilla</keyword>
+		<keyword>giant wolf</keyword>
+		<keyword>destruction</keyword>
+		<keyword>genetic experiment</keyword>
+		<keyword>animal monster</keyword>
+		<keyword>mutant animal</keyword>
+		<keyword>giant alligator</keyword>
+		<keyword>corporate corruption</keyword>
+		<keyword>giant lizard</keyword>
+		<keyword>mutant lizard</keyword>
+		<keyword>wolf</keyword>
+		<keyword>monster</keyword>
+		<keyword>gorilla</keyword>
+		<keyword>san diego california</keyword>
+		<keyword>genetic mutation</keyword>
+		<keyword>white gorilla</keyword>
+		<keyword>government agent</keyword>
+		<keyword>mutation</keyword>
+		<keyword>interspecies friendship</keyword>
+		<keyword>chicago illinois</keyword>
+		<keyword>destroyed city</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>rampaging monster</keyword>
+		<keyword>albino animal</keyword>
+		<keyword>man eaten by monster</keyword>
+		<keyword>monster fight</keyword>
+		<keyword>sign language</keyword>
+		<keyword>giant animal</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>crooked businesswoman</keyword>
+		<keyword>corporation</keyword>
+		<keyword>antidote</keyword>
+		<keyword>pathogen</keyword>
+		<keyword>rescue</keyword>
+		<keyword>rampage</keyword>
+		<keyword>reference to the justice league</keyword>
+		<keyword>flashback</keyword>
+		<keyword>missile</keyword>
+		<keyword>search for cure</keyword>
+		<keyword>genetic</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>scientist</keyword>
+		<keyword>violence</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>radio frequency</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>evil businessman</keyword>
+		<keyword>space station</keyword>
+		<keyword>space station explosion</keyword>
+		<keyword>building collapse</keyword>
+		<keyword>animal rampage</keyword>
+		<keyword>parachute</keyword>
+		<keyword>albino</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>fbi investigation</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>eaten by an animal</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>shot in the abdomen</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>decapitated animal</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>impalement</keyword>
+		<keyword>explosion</keyword>
+		<keyword>tranquilizer dart</keyword>
+		<keyword>tranquilizer gun</keyword>
+		<keyword>shot with a tranquilizer dart</keyword>
+		<keyword>animal reserve</keyword>
+		<keyword>animal sanctuary</keyword>
+		<keyword>cage</keyword>
+		<keyword>animal in a cage</keyword>
+		<keyword>military</keyword>
+		<keyword>military base</keyword>
+		<keyword>blood spatter</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>exploding bus</keyword>
+		<keyword>exploding tank</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>super strength</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>creature</keyword>
+		<keyword>2010s</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>animal attack</keyword>
+		<keyword>animal killing</keyword>
+		<keyword>severed head</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>corpse</keyword>
+		<keyword>rat</keyword>
+		<keyword>alligator</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>meteor</keyword>
+		<keyword>meteor strike</keyword>
+		<keyword>dog</keyword>
+		<keyword>battle</keyword>
+		<keyword>sea creature</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>disaster</keyword>
+		<keyword>disaster film</keyword>
+		<keyword>monster movie</keyword>
+		<keyword>chaos</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>female astronaut</keyword>
+		<keyword>prologue</keyword>
+		<keyword>combat</keyword>
+		<keyword>fire</keyword>
+		<keyword>race against time</keyword>
+		<keyword>fear</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>tycoon</keyword>
+		<keyword>entrepreneur</keyword>
+		<keyword>crooked businessman</keyword>
+		<keyword>corporate crime</keyword>
+		<keyword>corporate conspiracy</keyword>
+		<keyword>cover up</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>product placement</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>female sociopath</keyword>
+		<keyword>british actress playing american character</keyword>
+		<keyword>cure</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>geneticist</keyword>
+		<keyword>genetics</keyword>
+		<keyword>genetic modification</keyword>
+		<keyword>genetic manipulation</keyword>
+		<keyword>outer space</keyword>
+		<keyword>earth viewed from space</keyword>
+		<keyword>microscope</keyword>
+		<keyword>zero gravity</keyword>
+		<keyword>american flag</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>escape pod</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>capsizing ship</keyword>
+		<keyword>science</keyword>
+		<keyword>experiment gone wrong</keyword>
+		<keyword>swamp</keyword>
+		<keyword>virus</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>injection</keyword>
+		<keyword>signal</keyword>
+		<keyword>mind control</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>chase</keyword>
+		<keyword>satellite</keyword>
+		<keyword>drone</keyword>
+		<keyword>night vision</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>bomb</keyword>
+		<keyword>quarry</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security camera</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>news report</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>primatologist</keyword>
+		<keyword>misanthrope</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>monkey</keyword>
+		<keyword>ape</keyword>
+		<keyword>giant ape</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>brutality</keyword>
+		<keyword>escape</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>human monster</keyword>
+		<keyword>death</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>homeland security</keyword>
+		<keyword>airplane</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>missouri</keyword>
+		<keyword>colorado</keyword>
+		<keyword>wyoming</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>youtube</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>river</keyword>
+		<keyword>illinois</keyword>
+		<keyword>florida</keyword>
+		<keyword>beating</keyword>
+		<keyword>air force base</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>soldier</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>special forces</keyword>
+		<keyword>commando</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>mission</keyword>
+		<keyword>u.s. navy</keyword>
+		<keyword>u.s. air force</keyword>
+		<keyword>firefighter</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>truck</keyword>
+		<keyword>bus</keyword>
+		<keyword>school bus</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>zoo</keyword>
+		<keyword>taser</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police car</keyword>
+		<keyword>tent</keyword>
+		<keyword>colonel</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>stealth bomber</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>tank</keyword>
+		<keyword>armored car</keyword>
+		<keyword>cargo plane</keyword>
+		<keyword>scar</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>ex special forces</keyword>
+		<keyword>warrior</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>one man army</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>faked death</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>hummer</keyword>
+		<keyword>national guard</keyword>
+		<keyword>fighter pilot</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>ambush</keyword>
+		<keyword>fragments of glass</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>improvised weapon</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>reference to harry potter</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>cannon</keyword>
+		<keyword>army base</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>machete</keyword>
+		<keyword>explosive decompression</keyword>
+		<keyword>redemption</keyword>
+		<keyword>revenge</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>bunker</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>pistol</keyword>
+		<keyword>rifle</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>prank</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>cave</keyword>
+		<keyword>national park</keyword>
+		<keyword>the everglades florida</keyword>
+		<keyword>arrest</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>rage</keyword>
+		<keyword>infection</keyword>
+		<keyword>transformation</keyword>
+		<keyword>doctor</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>self healing</keyword>
+		<keyword>reference to hogwarts</keyword>
+		<keyword>deer</keyword>
+		<keyword>villainess</keyword>
+		<keyword>out of control</keyword>
+		<keyword>city</keyword>
+		<keyword>gun</keyword>
+		<keyword>evil woman</keyword>
+		<keyword>shot with a gun</keyword>
+		<keyword>bullet</keyword>
+		<keyword>mission control</keyword>
+		<keyword>fist bump</keyword>
+		<keyword>tv news</keyword>
+		<keyword>late for work</keyword>
+		<keyword>black hills south dakota</keyword>
+		<keyword>depressurized aircraft</keyword>
+		<keyword>choked unconscious</keyword>
+		<keyword>albino gorilla</keyword>
+		<keyword>battle tank</keyword>
+		<keyword>army colonel</keyword>
+		<keyword>monster versus monster</keyword>
+		<keyword>human in outer space</keyword>
+		<keyword>weapon</keyword>
+		<keyword>male colonel</keyword>
+		<keyword>mutated wolf</keyword>
+		<keyword>alligator monster</keyword>
+		<keyword>human versus monster</keyword>
+		<keyword>u.s. army colonel</keyword>
+		<keyword>male soldier</keyword>
+		<keyword>mutated alligator</keyword>
+		<keyword>wolf monster</keyword>
+		<keyword>bomber aircraft</keyword>
+		<keyword>male agent</keyword>
+		<keyword>firearm</keyword>
+		<keyword>transport aircraft</keyword>
+		<keyword>reptile</keyword>
+		<keyword>handgun</keyword>
+		<keyword>mutated rat</keyword>
+		<keyword>rodent</keyword>
+		<keyword>military humvee</keyword>
+		<keyword>bomber plane</keyword>
+		<keyword>primate</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>canine</keyword>
+		<keyword>humvee</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>military aircraft</keyword>
+		<keyword>businesswoman</keyword>
+		<keyword>brother and sister</keyword>
+		<keyword>military vehicle</keyword>
+		<keyword>black rat</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>evil businesswoman</keyword>
+		<keyword>exploding space station</keyword>
+		<keyword>warplane</keyword>
+		<keyword>northrop grumman b 2 spirit</keyword>
+		<keyword>exploding aircraft</keyword>
+		<keyword>crispr</keyword>
+		<keyword>mutant monster</keyword>
+		<keyword>aircraft cockpit</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>shooting a man</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>new line cinema</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>giant mammals</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>woman wears a red dress</keyword>
+		<keyword>giant monster sci fi</keyword>
+		<keyword>jungle adventure</keyword>
+		<keyword>biotech sci fi</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>woman eaten alive</keyword>
+		<keyword>man eaten alive</keyword>
+		<keyword>shooting</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>.45 automatic</keyword>
+		<keyword>ammunition</keyword>
+		<keyword>one word title</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>sea monster</keyword>
+		<keyword>giant rat</keyword>
+		<keyword>ferry</keyword>
+		<keyword>bridge</keyword>
+		<keyword>knife</keyword>
+		<keyword>hands tied</keyword>
+		<keyword>map</keyword>
+		<keyword>tattoo</keyword>
+	</keywords>
+	<directors>
+		<director> Brad Peyton</director>
+	</directors>
+	<composers>
+		<composer> Andrew Lockington</composer>
+	</composers>
+	<producers>
+		<producer> Richard Brener</producer>
+		<producer> Michael Disco</producer>
+		<producer> Toby Emmerich</producer>
+		<producer> Jeffrey Fierson</producer>
+		<producer> Beau Flynn</producer>
+		<producer> Dany Garcia</producer>
+		<producer> Hiram Garcia</producer>
+		<producer> Wendy Jacobson</producer>
+		<producer> Dwayne Johnson</producer>
+		<producer> Josh Mack</producer>
+		<producer> Brad Peyton</producer>
+		<producer> Darin Read</producer>
+		<producer> John Rickard</producer>
+		<producer> Dana Robin</producer>
+		<producer> Ozzie Scott</producer>
+		<producer> Marcus Viscidi</producer>
+	</producers>
+	<writers>
+		<writer> Ryan Engle</writer>
+		<writer> Carlton Cuse</writer>
+		<writer> Ryan J. Condal</writer>
+		<writer> Adam Sztykiel</writer>
+		<writer> Ryan Engle</writer>
+	</writers>
+	<editors>
+		<editor> Bob Ducsay</editor>
+		<editor> Jim May</editor>
+	</editors>
+</doc>

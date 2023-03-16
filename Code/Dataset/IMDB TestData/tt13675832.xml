@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc id="tt13675832">
+	<docid>tt13675832</docid>
+	<title>As If</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTUzZjU0M2MtZGFmYy00ZWU0LWJjZGUtOGJlMTI4MWI4ZDUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Yilmaz and Ilkkan are two friends who are constantly fighting each other. Their greatest feature is always being able to do something that will turn their ordinary lives upside down.</plot>
+	<countries>
+		<country>Turkey</country>
+	</countries>
+	<languages>
+		<language>Turkish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Feyyaz Yigit</actor>
+			<role>Yilmaz</role>
+		</credit>
+		<credit>
+			<actor>Kivanç Kilinç</actor>
+			<role>Ilkkan</role>
+		</credit>
+		<credit>
+			<actor>Ahmet Kürsat Öçalan</actor>
+			<role>Ersoy</role>
+		</credit>
+		<credit>
+			<actor>Ezgi Ay</actor>
+			<role>Esra</role>
+		</credit>
+		<credit>
+			<actor>Ümran Sakir</actor>
+			<role>Ümran</role>
+		</credit>
+		<credit>
+			<actor>Celal Öztürk</actor>
+			<role>Berk</role>
+		</credit>
+		<credit>
+			<actor>Can Sertaç Adalier</actor>
+			<role>Moliere</role>
+		</credit>
+		<credit>
+			<actor>Burcu Oktav</actor>
+			<role>Imge</role>
+		</credit>
+		<credit>
+			<actor>Özer Arslan</actor>
+			<role>Magistra Maximus</role>
+		</credit>
+		<credit>
+			<actor>Eray Sel</actor>
+			<role>Kemençeci Fatih</role>
+		</credit>
+		<credit>
+			<actor>Ozan Elatunterin</actor>
+			<role>Köle Juba</role>
+		</credit>
+		<credit>
+			<actor>Mustafa Erkan</actor>
+			<role>Kündogdu</role>
+		</credit>
+		<credit>
+			<actor>Burak Gunes</actor>
+			<role>Ilteris</role>
+		</credit>
+		<credit>
+			<actor>Ferda Isil</actor>
+			<role>Asiye</role>
+		</credit>
+		<credit>
+			<actor>Kerem Akti</actor>
+			<role>Besim</role>
+		</credit>
+		<credit>
+			<actor>Rasim Can Günes</actor>
+			<role>Erdem</role>
+		</credit>
+		<credit>
+			<actor>Ekrem Aral Tuna</actor>
+			<role>Kapidaki Görevli</role>
+		</credit>
+		<credit>
+			<actor>Mehmet Tolga Girgin</actor>
+			<role>Osmanli Elçisi</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">January 1 2021</releasedate>
+		<releasedate country="Turkey">January 1 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Turkey">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>friendship</keyword>
+	</keywords>
+	<directors>
+		<director> Ömer Sinir</director>
+		<director> Onur Uzun</director>
+	</directors>
+	<composers>
+		<composer> Ercüment Orkut</composer>
+	</composers>
+	<producers>
+		<producer> Feyyaz Yigit</producer>
+		<producer> Baris Ayaztas</producer>
+		<producer> Ilker Cosan</producer>
+		<producer> Suhan Cebeci</producer>
+		<producer> Caglar Caner</producer>
+	</producers>
+	<writers>
+		<writer> Aziz Kedi</writer>
+		<writer> Feyyaz Yigit</writer>
+	</writers>
+	<editors>
+		<editor> Fatih Üner</editor>
+		<editor> Sedef Inanc</editor>
+	</editors>
+</doc>

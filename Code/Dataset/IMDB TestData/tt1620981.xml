@@ -1,0 +1,279 @@
+<?xml version="1.0" ?>
+<doc id="tt1620981">
+	<docid>tt1620981</docid>
+	<title>The Addams Family</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmJhZTlhNzUtNzAwZC00YjQ2LTkxOGEtNzBmOWVkMmUxNTBiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">86</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>The eccentrically macabre family moves to a bland suburb where Wednesday Addams' friendship with the daughter of a hostile and conformist local reality show host exacerbates conflict between the families.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Oscar Isaac</actor>
+			<role>Gomez Addams</role>
+		</credit>
+		<credit>
+			<actor>Charlize Theron</actor>
+			<role>Morticia Addams</role>
+		</credit>
+		<credit>
+			<actor>Chloë Grace Moretz</actor>
+			<role>Wednesday Addams</role>
+		</credit>
+		<credit>
+			<actor>Finn Wolfhard</actor>
+			<role>Pugsley Addams</role>
+		</credit>
+		<credit>
+			<actor>Nick Kroll</actor>
+			<role>Uncle Fester</role>
+		</credit>
+		<credit>
+			<actor>Snoop Dogg</actor>
+			<role>It</role>
+		</credit>
+		<credit>
+			<actor>Bette Midler</actor>
+			<role>Grandma</role>
+		</credit>
+		<credit>
+			<actor>Allison Janney</actor>
+			<role>Margaux Needler</role>
+		</credit>
+		<credit>
+			<actor>Martin Short</actor>
+			<role>Grandpa Frump</role>
+		</credit>
+		<credit>
+			<actor>Catherine O'Hara</actor>
+			<role>Grandma Frump</role>
+		</credit>
+		<credit>
+			<actor>Tituss Burgess</actor>
+			<role>Glenn</role>
+		</credit>
+		<credit>
+			<actor>Jenifer Lewis</actor>
+			<role>Great Auntie Sloom</role>
+		</credit>
+		<credit>
+			<actor>Elsie Fisher</actor>
+			<role>Parker</role>
+		</credit>
+		<credit>
+			<actor>Conrad Vernon</actor>
+			<role>Lurch</role>
+		</credit>
+		<credit>
+			<actor>Aimee Garcia</actor>
+			<role>Denise</role>
+		</credit>
+		<credit>
+			<actor>Scott Underwood</actor>
+			<role>Mitch</role>
+		</credit>
+		<credit>
+			<actor>Mikey Madison</actor>
+			<role>Candi the Barista</role>
+		</credit>
+		<credit>
+			<actor>Chelsea Frei</actor>
+			<role>Bethany</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Israel">October 10 2019</releasedate>
+		<releasedate country="Canada">October 11 2019</releasedate>
+		<releasedate country="United States">October 11 2019</releasedate>
+		<releasedate country="South Africa">October 11 2019</releasedate>
+		<releasedate country="Spain">October 12 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Bulgaria">B</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">PG</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">7</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Israel">8+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malta">PG</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Puerto Rico">PG</certificate>
+		<certificate country="Romania">A.G.</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">10A</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cgi animation</keyword>
+		<keyword>lion</keyword>
+		<keyword>grandmother</keyword>
+		<keyword>wedding</keyword>
+		<keyword>reboot</keyword>
+		<keyword>pet</keyword>
+		<keyword>mansion</keyword>
+		<keyword>unconventional family</keyword>
+		<keyword>eccentric family</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>family character name as title</keyword>
+		<keyword>based on tv series</keyword>
+		<keyword>based on adaptation</keyword>
+		<keyword>three word title</keyword>
+		<keyword>female friendship</keyword>
+		<keyword>friendship between girls</keyword>
+		<keyword>family as protagonists</keyword>
+		<keyword>gothic</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>octopus</keyword>
+		<keyword>spider</keyword>
+		<keyword>organ</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>balloon</keyword>
+		<keyword>macabre</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>uncle</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>dissection</keyword>
+		<keyword>marriage</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>butler</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>disembodied hand</keyword>
+		<keyword>goth</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>wedding ceremony</keyword>
+		<keyword>trebuchet</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>2010s</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>dancing</keyword>
+		<keyword>brunette</keyword>
+		<keyword>ouija board</keyword>
+		<keyword>peeping tom</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>reference to fabio</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>angry mob</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>uncle niece relationship</keyword>
+		<keyword>school</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>addams family characters</keyword>
+		<keyword>first part</keyword>
+		<keyword>foot fetish</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>supernatural fantasy</keyword>
+		<keyword>reference to the tonight show with johnny carson</keyword>
+		<keyword>reference to the shining</keyword>
+		<keyword>reference to mister rogers' neighborhood</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+	</keywords>
+	<directors>
+		<director> Greg Tiernan</director>
+		<director> Conrad Vernon</director>
+	</directors>
+	<composers>
+		<composer> Jeff Danna</composer>
+		<composer> Mychael Danna</composer>
+	</composers>
+	<producers>
+		<producer> Gail Berman</producer>
+		<producer> Jason Cloth</producer>
+		<producer> Joe Earley</producer>
+		<producer> Bruce Franklin</producer>
+		<producer> Aaron L. Gilbert</producer>
+		<producer> John Kambites</producer>
+		<producer> Joel MacDonald</producer>
+		<producer> Kevin Miserocchi</producer>
+		<producer> Andrew Mittman</producer>
+		<producer> Alison O'Brien</producer>
+		<producer> Alex Schwartz</producer>
+		<producer> Sue Shakespeare</producer>
+		<producer> Tabitha Shick</producer>
+		<producer> Danielle Sterling</producer>
+		<producer> Emilie Talles</producer>
+		<producer> Conrad Vernon</producer>
+		<producer> Barbara Zelinski</producer>
+	</producers>
+	<writers>
+		<writer> Matt Lieberman</writer>
+		<writer> Matt Lieberman</writer>
+		<writer> Erica Rivinoja</writer>
+		<writer> Conrad Vernon</writer>
+		<writer> Charles Addams</writer>
+	</writers>
+	<editors>
+		<editor> Kevin Pavlovic</editor>
+		<editor> David Ian Salter</editor>
+		<editor> Ellery Van Dooyeweert</editor>
+	</editors>
+</doc>

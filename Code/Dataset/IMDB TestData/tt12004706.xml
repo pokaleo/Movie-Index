@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<doc id="tt12004706">
+	<docid>tt12004706</docid>
+	<title>Panchayat</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDkxODJmNDktZDcxMy00MGJkLWI3NzEtNzVkYTdkZWI0ZmVkXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">35</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Hindi</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>D-Cinema 48kHz 5.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jitendra Kumar</actor>
+			<role>Abhishek Tripathi</role>
+		</credit>
+		<credit>
+			<actor>Raghuvir Yadav</actor>
+			<role>Brij Bhushan Dubey</role>
+		</credit>
+		<credit>
+			<actor>Chandan Roy</actor>
+			<role>Vikas - Sachiv Sahayak</role>
+		</credit>
+		<credit>
+			<actor>Faisal Malik</actor>
+			<role>Prahlad Pandey</role>
+		</credit>
+		<credit>
+			<actor>Neena Gupta</actor>
+			<role>Manju Devi</role>
+		</credit>
+		<credit>
+			<actor>Sanvikaa</actor>
+			<role>Rinki</role>
+		</credit>
+		<credit>
+			<actor>Durgesh Kumar</actor>
+			<role>Bhushan</role>
+		</credit>
+		<credit>
+			<actor>Biswapati Sarkar</actor>
+			<role>Prateek - Abhishek's Friend</role>
+		</credit>
+		<credit>
+			<actor>Subhendu Chakraborty</actor>
+			<role>Mangal - Ward Member #9</role>
+		</credit>
+		<credit>
+			<actor>Sushil Tandon</actor>
+			<role>Bhindeshwar - Ward Member #10</role>
+		</credit>
+		<credit>
+			<actor>Govind Lobhani</actor>
+			<role>Ward Member #3</role>
+		</credit>
+		<credit>
+			<actor>Mubarak Khan</actor>
+			<role>Ward Member #1</role>
+		</credit>
+		<credit>
+			<actor>Kamal Rai</actor>
+			<role>Ward Member #2</role>
+		</credit>
+		<credit>
+			<actor>Bal Mukund Rai</actor>
+			<role>Ward Member #4</role>
+		</credit>
+		<credit>
+			<actor>Salim Ansari</actor>
+			<role>Ward Member #5</role>
+		</credit>
+		<credit>
+			<actor>Mohd. Shakir</actor>
+			<role>Ward Member #6</role>
+		</credit>
+		<credit>
+			<actor>Dinesh Tiwaru</actor>
+			<role>Ward Member #7</role>
+		</credit>
+		<credit>
+			<actor>Kailash Karoshiya</actor>
+			<role>Ward Member #8</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">March 5 2020</releasedate>
+		<releasedate country="United Kingdom">March 6 2020</releasedate>
+		<releasedate country="Canada">April 2 2020</releasedate>
+		<releasedate country="Indonesia">April 2 2020</releasedate>
+		<releasedate country="Mexico">April 2 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">16+</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>village</keyword>
+		<keyword>rural india</keyword>
+		<keyword>gram panchayat</keyword>
+		<keyword>uttar pradesh</keyword>
+		<keyword>rural life</keyword>
+		<keyword>bharat</keyword>
+	</keywords>
+	<directors>
+		<director> Deepak Kumar Mishra</director>
+	</directors>
+	<composers>
+		<composer> Anurag Saikia</composer>
+	</composers>
+	<producers>
+		<producer> Mehboob Pal Singh Brar</producer>
+		<producer> Arun Kumar</producer>
+		<producer> Prajesh Mishra</producer>
+		<producer> Shreyansh Pandey</producer>
+		<producer> Syed Zaid Ali</producer>
+		<producer> Zohaib Ali</producer>
+		<producer> Abhishake Jha</producer>
+		<producer> Abhijeet Singh Parmar</producer>
+		<producer> Sameer Saxena</producer>
+		<producer> Vijay Koshy</producer>
+		<producer> Arunabh Kumar</producer>
+		<producer> Ishan Verma</producer>
+		<producer> Manish Singh Baghel</producer>
+	</producers>
+	<writers>
+		<writer> Chandan Kumar</writer>
+	</writers>
+	<editors>
+		<editor> Amit Kulkarni</editor>
+		<editor> Harshit Sharma</editor>
+	</editors>
+</doc>

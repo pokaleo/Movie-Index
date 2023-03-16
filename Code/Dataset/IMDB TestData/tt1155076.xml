@@ -1,0 +1,354 @@
+<?xml version="1.0" ?>
+<doc id="tt1155076">
+	<docid>tt1155076</docid>
+	<title>The Karate Kid</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTkzY2YzNmYtY2ViMS00MThiLWFlYTEtOWQ1OTBiOGEwMTdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,8,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">140</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>Work causes a single mother to move to China with her young son; in his new home, the boy embraces kung fu, taught to him by a master.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jackie Chan</actor>
+			<role>Mr. Han</role>
+		</credit>
+		<credit>
+			<actor>Jaden Smith</actor>
+			<role>Dre Parker</role>
+		</credit>
+		<credit>
+			<actor>Taraji P. Henson</actor>
+			<role>Sherry Parker</role>
+		</credit>
+		<credit>
+			<actor>Wenwen Han</actor>
+			<role>Meiying</role>
+		</credit>
+		<credit>
+			<actor>Rongguang Yu</actor>
+			<role>Master Li</role>
+		</credit>
+		<credit>
+			<actor>Zhensu Wu</actor>
+			<role>Meiying's Dad</role>
+		</credit>
+		<credit>
+			<actor>Zhiheng Wang</actor>
+			<role>Meiying's Mom</role>
+		</credit>
+		<credit>
+			<actor>Zhenwei Wang</actor>
+			<role>Cheng</role>
+		</credit>
+		<credit>
+			<actor>Jared Minns</actor>
+			<role>Dre's Detroit Friend</role>
+		</credit>
+		<credit>
+			<actor>Shijia Lü</actor>
+			<role>Liang</role>
+		</credit>
+		<credit>
+			<actor>Yi Zhao</actor>
+			<role>Zhuang</role>
+		</credit>
+		<credit>
+			<actor>Bo Zhang</actor>
+			<role>Song</role>
+		</credit>
+		<credit>
+			<actor>Luke Carberry</actor>
+			<role>Harry</role>
+		</credit>
+		<credit>
+			<actor>Cameron Hillman</actor>
+			<role>Mark</role>
+		</credit>
+		<credit>
+			<actor>Ghye Samuel Brown</actor>
+			<role>Oz</role>
+		</credit>
+		<credit>
+			<actor>Rocky Shi</actor>
+			<role>Ur Dang</role>
+		</credit>
+		<credit>
+			<actor>Ji Wang</actor>
+			<role>Mrs. Po</role>
+		</credit>
+		<credit>
+			<actor>Harry Van Gorkum</actor>
+			<role>Music Instructor</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">June 7 2010</releasedate>
+		<releasedate country="Indonesia">June 10 2010</releasedate>
+		<releasedate country="South Korea">June 10 2010</releasedate>
+		<releasedate country="Malaysia">June 10 2010</releasedate>
+		<releasedate country="Singapore">June 10 2010</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Bahrain">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-13</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Greece">K-8</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Lithuania">N-7</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Nigeria">PG</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Saudi Arabia">G</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Taiwan">7+</certificate>
+		<certificate country="Thailand">7+</certificate>
+		<certificate country="Turkey">G</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>kung fu</keyword>
+		<keyword>china</keyword>
+		<keyword>bully</keyword>
+		<keyword>great wall of china</keyword>
+		<keyword>beijing china</keyword>
+		<keyword>remake</keyword>
+		<keyword>michigan</keyword>
+		<keyword>expatriate</keyword>
+		<keyword>intergenerational friendship</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>american in china</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>car</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>teen movie</keyword>
+		<keyword>american</keyword>
+		<keyword>young boy</keyword>
+		<keyword>damaging a car</keyword>
+		<keyword>car vandalism</keyword>
+		<keyword>martial arts training</keyword>
+		<keyword>young widow</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>watching a cartoon on tv</keyword>
+		<keyword>combat sport</keyword>
+		<keyword>maintenance man</keyword>
+		<keyword>tournament</keyword>
+		<keyword>child</keyword>
+		<keyword>violence</keyword>
+		<keyword>park</keyword>
+		<keyword>friendship</keyword>
+		<keyword>single mother</keyword>
+		<keyword>kung fu tournament</keyword>
+		<keyword>forbidden city</keyword>
+		<keyword>underdog</keyword>
+		<keyword>sports trainer</keyword>
+		<keyword>high definition television</keyword>
+		<keyword>hdtv</keyword>
+		<keyword>nickelodeon</keyword>
+		<keyword>tracksuit</keyword>
+		<keyword>cartoon on tv</keyword>
+		<keyword>police</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>bo staff</keyword>
+		<keyword>chop socky</keyword>
+		<keyword>karate chop</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>chase</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>showdown</keyword>
+		<keyword>combat</keyword>
+		<keyword>tai chi</keyword>
+		<keyword>wu shu</keyword>
+		<keyword>action hero</keyword>
+		<keyword>hero</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>monastery</keyword>
+		<keyword>healing</keyword>
+		<keyword>trophy</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>water fountain</keyword>
+		<keyword>train</keyword>
+		<keyword>field trip</keyword>
+		<keyword>apology</keyword>
+		<keyword>perseverance</keyword>
+		<keyword>interracial kiss</keyword>
+		<keyword>silhouette</keyword>
+		<keyword>bamboo</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>dancing</keyword>
+		<keyword>reflection in water</keyword>
+		<keyword>snake</keyword>
+		<keyword>mountain</keyword>
+		<keyword>fire</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>beating</keyword>
+		<keyword>school cafeteria</keyword>
+		<keyword>fear</keyword>
+		<keyword>respect</keyword>
+		<keyword>child abuse</keyword>
+		<keyword>revenge</keyword>
+		<keyword>martial arts tournament</keyword>
+		<keyword>loss of family</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>skateboard</keyword>
+		<keyword>broken windshield</keyword>
+		<keyword>destroying a car</keyword>
+		<keyword>rain</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>new boy in town</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>violent youth</keyword>
+		<keyword>jacket</keyword>
+		<keyword>training</keyword>
+		<keyword>jogging</keyword>
+		<keyword>basketball</keyword>
+		<keyword>dreadlocks</keyword>
+		<keyword>leg injury</keyword>
+		<keyword>kicked in the head</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>punched in the stomach</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>playing piano</keyword>
+		<keyword>playing violin</keyword>
+		<keyword>interracial romance</keyword>
+		<keyword>jet lag</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>remake of american film</keyword>
+		<keyword>first day of school</keyword>
+		<keyword>car accident</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>black eye</keyword>
+		<keyword>dead fly</keyword>
+		<keyword>chopsticks</keyword>
+		<keyword>detroit michigan</keyword>
+		<keyword>violin</keyword>
+		<keyword>new school</keyword>
+		<keyword>school</keyword>
+		<keyword>bullying</keyword>
+		<keyword>chinese</keyword>
+		<keyword>single parent</keyword>
+		<keyword>widow</keyword>
+		<keyword>first kiss</keyword>
+		<keyword>first crush</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>african american</keyword>
+		<keyword>mentor</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>flyswatter</keyword>
+		<keyword>martial arts school</keyword>
+		<keyword>kung fu master</keyword>
+		<keyword>martial arts master</keyword>
+		<keyword>breakdance</keyword>
+		<keyword>ping pong</keyword>
+		<keyword>school uniform</keyword>
+		<keyword>moving in</keyword>
+		<keyword>moving out</keyword>
+		<keyword>working mother</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>foot pursuit</keyword>
+		<keyword>school bully</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>audition</keyword>
+		<keyword>violinist</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>father figure</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>death of son</keyword>
+		<keyword>karate</keyword>
+	</keywords>
+	<directors>
+		<director> Harald Zwart</director>
+	</directors>
+	<composers>
+		<composer> James Horner</composer>
+	</composers>
+	<producers>
+		<producer> Susan Ekins</producer>
+		<producer> Sanping Han</producer>
+		<producer> Xiaoli Han</producer>
+		<producer> Tao Jiang</producer>
+		<producer> James Lassiter</producer>
+		<producer> Chiu Wah Lee</producer>
+		<producer> Er-Dong Liu</producer>
+		<producer> Mingyu Peng</producer>
+		<producer> Jada Pinkett Smith</producer>
+		<producer> Dongming Shi</producer>
+		<producer> Will Smith</producer>
+		<producer> Solon So</producer>
+		<producer> Ken Stovitz</producer>
+		<producer> Jerry Weintraub</producer>
+		<producer> Dany Wolf</producer>
+		<producer> Haicheng Zhao</producer>
+	</producers>
+	<writers>
+		<writer> Christopher Murphey</writer>
+		<writer> Robert Mark Kamen</writer>
+	</writers>
+	<editors>
+		<editor> Joel Negron</editor>
+	</editors>
+</doc>

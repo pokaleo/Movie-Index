@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc id="tt8010064">
+	<docid>tt8010064</docid>
+	<title>The Fallen</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTQwMWFhYWMtZmE0OS00MmMxLWE3NzAtYjU1NzIyZjdmODNhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>II 2022</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Trapped in a bunker during World War I, a group of soldiers are faced with an ungodly presence that slowly turns them against each other.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Roger Clark</actor>
+			<role>Cpl. Miller</role>
+		</credit>
+		<credit>
+			<actor>Luke Baines</actor>
+			<role>Kurt</role>
+		</credit>
+		<credit>
+			<actor>Kayla Radomski</actor>
+			<role>The Griever</role>
+		</credit>
+		<credit>
+			<actor>Sean Cullen</actor>
+			<role>Captain Hall</role>
+		</credit>
+		<credit>
+			<actor>Julian Feder</actor>
+			<role>Pvt. Baker</role>
+		</credit>
+		<credit>
+			<actor>Eddie Ramos</actor>
+			<role>Pvt. Segura</role>
+		</credit>
+		<credit>
+			<actor>Patrick Moltane</actor>
+			<role>Lt. Turner</role>
+		</credit>
+		<credit>
+			<actor>Kevin Tanski</actor>
+			<role>British Soldier</role>
+		</credit>
+		<credit>
+			<actor>Quinn Moran</actor>
+			<role>Pvt. Lewis</role>
+		</credit>
+		<credit>
+			<actor>Sam Huntsman</actor>
+			<role>German Soldier</role>
+		</credit>
+		<credit>
+			<actor>Mike Mihm</actor>
+			<role>Private Gray</role>
+		</credit>
+		<credit>
+			<actor>Adriano Gatto</actor>
+			<role>Lance Cpl. Walker</role>
+		</credit>
+		<credit>
+			<actor>Ali Rexhepi</actor>
+			<role>American Soldier</role>
+		</credit>
+		<credit>
+			<actor>Chase Visco</actor>
+			<role>German Boy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 8 2022</releasedate>
+		<releasedate country="United States">October 19 2022</releasedate>
+		<releasedate country="United States">November 5 2022</releasedate>
+		<releasedate country="United States">February 24 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fear</keyword>
+	</keywords>
+	<directors>
+		<director> Adrian Langley</director>
+	</directors>
+	<composers>
+		<composer> Andrew Morgan Smith</composer>
+	</composers>
+	<producers>
+		<producer> Robert Beaucage</producer>
+		<producer> Matt Corrado</producer>
+		<producer> Brett Forbes</producer>
+		<producer> Kenny Gage</producer>
+		<producer> James Huntsman</producer>
+		<producer> Patrick Rizzotti</producer>
+	</producers>
+	<writers>
+		<writer> Michael Huntsman</writer>
+	</writers>
+	<editors>
+		<editor> Evan Pease</editor>
+	</editors>
+</doc>

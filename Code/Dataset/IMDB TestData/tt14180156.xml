@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<doc id="tt14180156">
+	<docid>tt14180156</docid>
+	<title>Luther</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZWM3MGE0YjEtNzdlMC00NmM3LWE1MmItN2E4ZDM4ZTllY2QzXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">52</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>French adaptation of the British series Luther (2010).</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Christopher Bayemi</actor>
+			<role>Théo Luther</role>
+		</credit>
+		<credit>
+			<actor>Chloé Jouannet</actor>
+			<role>Alice Morgan</role>
+		</credit>
+		<credit>
+			<actor>Léo Dussollier</actor>
+			<role>Justin</role>
+		</credit>
+		<credit>
+			<actor>Barbara Cabrita</actor>
+			<role>Zoé</role>
+		</credit>
+		<credit>
+			<actor>Sagamore Stévenin</actor>
+			<role>Yann</role>
+		</credit>
+		<credit>
+			<actor>Aurélien Wiik</actor>
+			<role>Marc</role>
+		</credit>
+		<credit>
+			<actor>Thierry Frémont</actor>
+			<role>Grandin</role>
+		</credit>
+		<credit>
+			<actor>Adèle Choubard</actor>
+			<role>Maggy</role>
+		</credit>
+		<credit>
+			<actor>Nadia Farès</actor>
+			<role>Rose</role>
+		</credit>
+		<credit>
+			<actor>Raph</actor>
+			<role>Skateboarder (Camille-Frédérique)</role>
+		</credit>
+		<credit>
+			<actor>Pierre Cevaer</actor>
+			<role>Olivier Minck</role>
+		</credit>
+		<credit>
+			<actor>Olivier David</actor>
+			<role>Henri Madsen</role>
+		</credit>
+		<credit>
+			<actor>Virgile Bramly</actor>
+			<role>Eliott</role>
+		</credit>
+		<credit>
+			<actor>David Ban</actor>
+			<role>Commandant Dri</role>
+		</credit>
+		<credit>
+			<actor>Sylvain Chiavaccini</actor>
+			<role>Agent de police</role>
+		</credit>
+		<credit>
+			<actor>Stéphane Ly-Cuong</actor>
+			<role>Le bijoutier</role>
+		</credit>
+		<credit>
+			<actor>Edouard Chény</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Pierre Rousselet</actor>
+			<role>Homme noir</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">May 27 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">10</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> David Morley</director>
+	</directors>
+	<composers>
+		<composer> Erwann Kermorvant</composer>
+		<composer> Stéphane Le Gouvello</composer>
+	</composers>
+	<producers>
+		<producer> Thomas Anargyros</producer>
+		<producer> Sabine Barthélémy</producer>
+		<producer> Frédéric Bruneel</producer>
+		<producer> Nicolas de Saint Meleuc</producer>
+		<producer> Pierre-Marie Gadonneix</producer>
+		<producer> Géry Leymergie</producer>
+		<producer> Christophe Louis</producer>
+	</producers>
+	<writers>
+		<writer> Neil Cross</writer>
+		<writer> Laurent Herbiet</writer>
+		<writer> Christian Roux</writer>
+	</writers>
+	<editors>
+		<editor> Stratos Gabrielidis</editor>
+	</editors>
+</doc>

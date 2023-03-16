@@ -193,7 +193,7 @@ class WebScraping:
         flag = True
         curr_url = self.url
         count = 0
-        while count <1:
+        while count <3:
             print(count)
             count += 1
             response = requests.get(curr_url)
@@ -242,7 +242,7 @@ class WebScraping:
                 curr_info['cast'] = self.geCast(data_cast, 'a')
 
                 data_type = curr_page.find('meta', attrs={'property': {'og:type'}})
-                if len(data_type['content'])==1:
+                if '.' not in data_type['content']:
                     curr_info['type'] = data_type['content']
                 else:
                     curr_info['type'] = data_type['content'].split('.')[1]

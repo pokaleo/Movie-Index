@@ -1,0 +1,623 @@
+<?xml version="1.0" ?>
+<doc id="tt5519340">
+	<docid>tt5519340</docid>
+	<title>Bright</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTcyNzk5NDg1Nl5BMl5BanBnXkFtZTgwNTM5MDQxNDM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2017</year>
+	<runningtimes>
+		<runningtime country="default">117</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Fantasy</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A detective must work with an Orc to find a powerful wand before evil creatures do.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Will Smith</actor>
+			<role>Daryl Ward</role>
+		</credit>
+		<credit>
+			<actor>Joel Edgerton</actor>
+			<role>Nick Jakoby</role>
+		</credit>
+		<credit>
+			<actor>Noomi Rapace</actor>
+			<role>Leilah</role>
+		</credit>
+		<credit>
+			<actor>Edgar Ramírez</actor>
+			<role>Kandomere</role>
+		</credit>
+		<credit>
+			<actor>Lucy Fry</actor>
+			<role>Tikka</role>
+		</credit>
+		<credit>
+			<actor>Veronica Ngo</actor>
+			<role>Tien</role>
+		</credit>
+		<credit>
+			<actor>Alex Meraz</actor>
+			<role>Serafin</role>
+		</credit>
+		<credit>
+			<actor>Happy Anderson</actor>
+			<role>Montehugh</role>
+		</credit>
+		<credit>
+			<actor>Ike Barinholtz</actor>
+			<role>Pollard</role>
+		</credit>
+		<credit>
+			<actor>Dawn Olivieri</actor>
+			<role>Sherri Ward</role>
+		</credit>
+		<credit>
+			<actor>Matt Gerald</actor>
+			<role>Hicks</role>
+		</credit>
+		<credit>
+			<actor>Margaret Cho</actor>
+			<role>Sergeant Ching</role>
+		</credit>
+		<credit>
+			<actor>Joseph Piccuirro</actor>
+			<role>Brown</role>
+		</credit>
+		<credit>
+			<actor>Brad William Henke</actor>
+			<role>Dorghu</role>
+		</credit>
+		<credit>
+			<actor>Jay Hernandez</actor>
+			<role>Rodriguez</role>
+		</credit>
+		<credit>
+			<actor>Enrique Murciano</actor>
+			<role>Poison</role>
+		</credit>
+		<credit>
+			<actor>Scarlet Spencer</actor>
+			<role>Sophia Ward</role>
+		</credit>
+		<credit>
+			<actor>Andrea Navedo</actor>
+			<role>Captain Perez</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">December 13 2017</releasedate>
+		<releasedate country="United Arab Emirates">December 22 2017</releasedate>
+		<releasedate country="Argentina">December 22 2017</releasedate>
+		<releasedate country="Australia">December 22 2017</releasedate>
+		<releasedate country="Belgium">December 22 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>orc</keyword>
+		<keyword>buddy movie</keyword>
+		<keyword>elf</keyword>
+		<keyword>magic</keyword>
+		<keyword>wand</keyword>
+		<keyword>urban fantasy</keyword>
+		<keyword>police</keyword>
+		<keyword>fairy</keyword>
+		<keyword>binding spell</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>buddy cop</keyword>
+		<keyword>magic wand</keyword>
+		<keyword>dark lord</keyword>
+		<keyword>evil cult</keyword>
+		<keyword>race</keyword>
+		<keyword>light</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>corrupt cop</keyword>
+		<keyword>gang</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>alternate history</keyword>
+		<keyword>centaur</keyword>
+		<keyword>punk</keyword>
+		<keyword>criminal gang</keyword>
+		<keyword>police officer trapped</keyword>
+		<keyword>police officer ambushed</keyword>
+		<keyword>police officer shot by a police officer</keyword>
+		<keyword>begins with text</keyword>
+		<keyword>segregation</keyword>
+		<keyword>invisible wall</keyword>
+		<keyword>interracial couple</keyword>
+		<keyword>conspicuous wealth</keyword>
+		<keyword>armored personnel carrier</keyword>
+		<keyword>working for a pension</keyword>
+		<keyword>hand gesture imitating sex</keyword>
+		<keyword>kick me sign on back</keyword>
+		<keyword>shield of light cult</keyword>
+		<keyword>glowing corpse</keyword>
+		<keyword>flip</keyword>
+		<keyword>semiautomatic shotgun</keyword>
+		<keyword>nose to nose</keyword>
+		<keyword>peer pressure</keyword>
+		<keyword>spike mohawk hair style</keyword>
+		<keyword>whispering</keyword>
+		<keyword>casino</keyword>
+		<keyword>topless dancer</keyword>
+		<keyword>machine pistol</keyword>
+		<keyword>firing guns from both hands</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>caught in the rain</keyword>
+		<keyword>spitting blood</keyword>
+		<keyword>crashing through a wall</keyword>
+		<keyword>remote detonator</keyword>
+		<keyword>out of ammunition</keyword>
+		<keyword>building fire</keyword>
+		<keyword>trapped in a burning building</keyword>
+		<keyword>cutting the palm of one's hand</keyword>
+		<keyword>blooded</keyword>
+		<keyword>containment vessel</keyword>
+		<keyword>award ceremony</keyword>
+		<keyword>force</keyword>
+		<keyword>police force</keyword>
+		<keyword>elite</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>relic</keyword>
+		<keyword>species</keyword>
+		<keyword>utopia</keyword>
+		<keyword>artifact</keyword>
+		<keyword>darkness</keyword>
+		<keyword>fang</keyword>
+		<keyword>tooth</keyword>
+		<keyword>dog</keyword>
+		<keyword>wing</keyword>
+		<keyword>interstate</keyword>
+		<keyword>avenue</keyword>
+		<keyword>street</keyword>
+		<keyword>street food</keyword>
+		<keyword>shell</keyword>
+		<keyword>handgun</keyword>
+		<keyword>gun</keyword>
+		<keyword>barrio</keyword>
+		<keyword>gang lord</keyword>
+		<keyword>pit</keyword>
+		<keyword>staff</keyword>
+		<keyword>captive</keyword>
+		<keyword>blade</keyword>
+		<keyword>fulfilled prophecy</keyword>
+		<keyword>task force</keyword>
+		<keyword>disability</keyword>
+		<keyword>tattoo on face</keyword>
+		<keyword>hanged</keyword>
+		<keyword>kindness</keyword>
+		<keyword>manhunt</keyword>
+		<keyword>throne</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>neighborhood</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>speaking spanish</keyword>
+		<keyword>uniformed police officer</keyword>
+		<keyword>speaking elvish</keyword>
+		<keyword>police suv</keyword>
+		<keyword>sergeant</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>pointy ears</keyword>
+		<keyword>female sergeant</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>firearm</keyword>
+		<keyword>taser pistol</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>weapon</keyword>
+		<keyword>female police sergeant</keyword>
+		<keyword>female elf</keyword>
+		<keyword>injured arm</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>wounded arm</keyword>
+		<keyword>black suv</keyword>
+		<keyword>scoped rifle</keyword>
+		<keyword>brought back to life</keyword>
+		<keyword>kick me sign</keyword>
+		<keyword>suv</keyword>
+		<keyword>recording device</keyword>
+		<keyword>law enforcement officer</keyword>
+		<keyword>los angeles county sheriff</keyword>
+		<keyword>buddy</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>police shootout</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>kung fu</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>car chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding gasoline station</keyword>
+		<keyword>fireball</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>massacre</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>mercy killing</keyword>
+		<keyword>sword</keyword>
+		<keyword>dagger</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>axe</keyword>
+		<keyword>pistol</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>revolver</keyword>
+		<keyword>uzi</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>rifle</keyword>
+		<keyword>telescopic rifle</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>torture</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>body count</keyword>
+		<keyword>corpse</keyword>
+		<keyword>blood transfusion</keyword>
+		<keyword>burned body</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>gore</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>creature</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>super strength</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>self healing</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>black magic</keyword>
+		<keyword>power</keyword>
+		<keyword>on the run</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>airbag</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>race against time</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>survival</keyword>
+		<keyword>fear</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>hope</keyword>
+		<keyword>prophecy</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>investigation</keyword>
+		<keyword>police procedural</keyword>
+		<keyword>magical realism</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>urban decay</keyword>
+		<keyword>social decay</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>lapd</keyword>
+		<keyword>palm tree</keyword>
+		<keyword>medal ceremony</keyword>
+		<keyword>one word title</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>race relations</keyword>
+		<keyword>racial prejudice</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>racism</keyword>
+		<keyword>class differences</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>government agent</keyword>
+		<keyword>internal affairs</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police partner</keyword>
+		<keyword>rookie</keyword>
+		<keyword>rookie cop</keyword>
+		<keyword>trainee</keyword>
+		<keyword>mustache</keyword>
+		<keyword>black cop</keyword>
+		<keyword>police car</keyword>
+		<keyword>police station</keyword>
+		<keyword>detective</keyword>
+		<keyword>police detective</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>badge</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>vomit</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>arrest</keyword>
+		<keyword>police captain</keyword>
+		<keyword>female police captain</keyword>
+		<keyword>locker room</keyword>
+		<keyword>swat team</keyword>
+		<keyword>police brutality</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>deputy</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>abuse of power</keyword>
+		<keyword>african american</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>machismo</keyword>
+		<keyword>gang member</keyword>
+		<keyword>latino</keyword>
+		<keyword>latino gang</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>disguise</keyword>
+		<keyword>ethnic stereotype</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>street gang</keyword>
+		<keyword>gang leader</keyword>
+		<keyword>gangster</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car accident</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>car set on fire</keyword>
+		<keyword>fire</keyword>
+		<keyword>bomb</keyword>
+		<keyword>armory</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>hospital</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>power outage</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>heavy metal</keyword>
+		<keyword>concert</keyword>
+		<keyword>rave</keyword>
+		<keyword>strip club</keyword>
+		<keyword>stripper</keyword>
+		<keyword>female topless nudity</keyword>
+		<keyword>bar</keyword>
+		<keyword>gambling</keyword>
+		<keyword>hanging upside down</keyword>
+		<keyword>machete</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>church</keyword>
+		<keyword>gas station</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>thrown from a car</keyword>
+		<keyword>jumping from a car</keyword>
+		<keyword>car stunt</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>reference to shrek</keyword>
+		<keyword>reference to the illuminati</keyword>
+		<keyword>secret society</keyword>
+		<keyword>assassin</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>cult</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>female terrorist</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>flashback</keyword>
+		<keyword>initiation rite</keyword>
+		<keyword>interracial marriage</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>nurse</keyword>
+		<keyword>apartment</keyword>
+		<keyword>safe house</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>interview</keyword>
+		<keyword>ghetto</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>two man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>warrior race</keyword>
+		<keyword>tough cop</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>courage</keyword>
+		<keyword>bravery</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>ritual</keyword>
+		<keyword>reference to the alamo</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>abandoned warehouse</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>baby</keyword>
+		<keyword>witness</keyword>
+		<keyword>hitman</keyword>
+		<keyword>henchman</keyword>
+		<keyword>thug</keyword>
+		<keyword>corruption</keyword>
+		<keyword>driveby shooting</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>culture clash</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>cover up</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>hatred</keyword>
+		<keyword>hotwiring</keyword>
+		<keyword>car theft</keyword>
+		<keyword>police sergeant</keyword>
+		<keyword>skull</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>hispanic</keyword>
+		<keyword>federal agent</keyword>
+		<keyword>ambush</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>building on fire</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>alternate world</keyword>
+		<keyword>taser</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>riot</keyword>
+		<keyword>female killer</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>finger gun</keyword>
+		<keyword>mace</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>magical spell</keyword>
+		<keyword>graffiti</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>man carries a woman</keyword>
+		<keyword>man uses a wheelchair</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>woman murders a woman</keyword>
+		<keyword>shooting a woman</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>murder of an innocent person</keyword>
+		<keyword>shooting a man</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>shooting a police officer</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>hotwiring a car</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>knocked unconscious with a gun butt</keyword>
+		<keyword>villainess</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>bagpipe music</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>dragon</keyword>
+		<keyword>gritty</keyword>
+	</keywords>
+	<directors>
+		<director> David Ayer</director>
+	</directors>
+	<composers>
+		<composer> David Sardy</composer>
+	</composers>
+	<producers>
+		<producer> David Ayer</producer>
+		<producer> Sarah Bowen</producer>
+		<producer> Pauline Fischer</producer>
+		<producer> Max Landis</producer>
+		<producer> Adam Merims</producer>
+		<producer> Eric Newman</producer>
+		<producer> Sarah Perlman Bremner</producer>
+		<producer> Ted Sarandos</producer>
+		<producer> Owen Thornton</producer>
+		<producer> Bryan Unkeless</producer>
+	</producers>
+	<writers>
+		<writer> Max Landis</writer>
+	</writers>
+	<editors>
+		<editor> Aaron Brock</editor>
+		<editor> Geoffrey O'Brien</editor>
+		<editor> Michael Tronick</editor>
+	</editors>
+</doc>

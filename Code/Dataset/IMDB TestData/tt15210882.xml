@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<doc id="tt15210882">
+	<docid>tt15210882</docid>
+	<title>The Dry</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWE0NzEzZWItZTE4ZC00YzRlLWI0N2UtMDhiNTVkMTZkYzhiXkEyXkFqcGdeQXVyNzIzODM3ODQ@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">27</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Shiv Sheridan returns to Dublin after years of partying in London and tries to navigate a new phase of her life. Trying to stay sober and being back with her family is not going to be easy.</plot>
+	<countries>
+		<country>Ireland</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Roisin Gallagher</actor>
+			<role>Shiv Sheridan</role>
+		</credit>
+		<credit>
+			<actor>Siobhán Cullen</actor>
+			<role>Caroline Sheridan</role>
+		</credit>
+		<credit>
+			<actor>Pom Boyd</actor>
+			<role>Bernie Sheridan</role>
+		</credit>
+		<credit>
+			<actor>Moe Dunford</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Adam John Richardson</actor>
+			<role>Ant Sheridan</role>
+		</credit>
+		<credit>
+			<actor>Ciarán Hinds</actor>
+			<role>Tom Sheridan</role>
+		</credit>
+		<credit>
+			<actor>Eoin Duffy</actor>
+			<role>Rory</role>
+		</credit>
+		<credit>
+			<actor>Janet Moran</actor>
+			<role>Karen</role>
+		</credit>
+		<credit>
+			<actor>Emmanuel Okoye</actor>
+			<role>Max</role>
+		</credit>
+		<credit>
+			<actor>Hélène Patarot</actor>
+			<role>Mina</role>
+		</credit>
+		<credit>
+			<actor>Dagmar Döring</actor>
+			<role>Kristen</role>
+		</credit>
+		<credit>
+			<actor>Stephen Hogan</actor>
+			<role>Dan</role>
+		</credit>
+		<credit>
+			<actor>Barry Barnes</actor>
+			<role>Simon</role>
+		</credit>
+		<credit>
+			<actor>Bryan Quinn</actor>
+			<role>Eddie</role>
+		</credit>
+		<credit>
+			<actor>Charlotte Bradley</actor>
+			<role>Aunt Rita</role>
+		</credit>
+		<credit>
+			<actor>Oladipo Daramola</actor>
+			<role>Peter</role>
+		</credit>
+		<credit>
+			<actor>Marion O'Dwyer</actor>
+			<role>Aunt Ag</role>
+		</credit>
+		<credit>
+			<actor>Des Nealon</actor>
+			<role>Uncle Joe</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">May 5 2022</releasedate>
+		<releasedate country="Ireland">May 5 2022</releasedate>
+		<releasedate country="Australia">August 11 2022</releasedate>
+		<releasedate country="South Africa">October 13 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="South Africa">16</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Paddy Breathnach</director>
+	</directors>
+	<composers>
+		<composer> Sarah Lynch</composer>
+	</composers>
+	<producers>
+		<producer> Ed Guiney</producer>
+		<producer> Maria Mulhall</producer>
+		<producer> Emma Norton</producer>
+		<producer> Emer O'Shea</producer>
+		<producer> Jennie Scanlon</producer>
+		<producer> Michael Dawson</producer>
+		<producer> Nancy Harris</producer>
+		<producer> Andrew Lowe</producer>
+		<producer> Rachael O'Kane</producer>
+	</producers>
+	<writers>
+		<writer> Nancy Harris</writer>
+	</writers>
+	<editors>
+		<editor> Gretta Ohle</editor>
+		<editor> Dermot Diskin</editor>
+	</editors>
+</doc>

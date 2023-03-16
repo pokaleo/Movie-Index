@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<doc id="tt1905041">
+	<docid>tt1905041</docid>
+	<title>Furious 6</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>SDDS</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Vin Diesel</actor>
+			<role>Dominic Toretto</role>
+		</credit>
+		<credit>
+			<actor>Paul Walker</actor>
+			<role>Brian O'Conner</role>
+		</credit>
+		<credit>
+			<actor>Dwayne Johnson</actor>
+			<role>Hobbs</role>
+		</credit>
+		<credit>
+			<actor>Michelle Rodriguez</actor>
+			<role>Letty</role>
+		</credit>
+		<credit>
+			<actor>Jordana Brewster</actor>
+			<role>Mia</role>
+		</credit>
+		<credit>
+			<actor>Tyrese Gibson</actor>
+			<role>Roman</role>
+		</credit>
+		<credit>
+			<actor>Sung Kang</actor>
+			<role>Han</role>
+		</credit>
+		<credit>
+			<actor>Gal Gadot</actor>
+			<role>Gisele</role>
+		</credit>
+		<credit>
+			<actor>Ludacris</actor>
+			<role>Tej</role>
+		</credit>
+		<credit>
+			<actor>Luke Evans</actor>
+			<role>Shaw</role>
+		</credit>
+		<credit>
+			<actor>Elsa Pataky</actor>
+			<role>Elena</role>
+		</credit>
+		<credit>
+			<actor>Gina Carano</actor>
+			<role>Riley</role>
+		</credit>
+		<credit>
+			<actor>Clara Paget</actor>
+			<role>Vegh</role>
+		</credit>
+		<credit>
+			<actor>Kim Kold</actor>
+			<role>Klaus</role>
+		</credit>
+		<credit>
+			<actor>Joe Taslim</actor>
+			<role>Jah</role>
+		</credit>
+		<credit>
+			<actor>Samuel M. Stewart</actor>
+			<role>Denlinger</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Davies</actor>
+			<role>Adolfson</role>
+		</credit>
+		<credit>
+			<actor>Matthew Stirling</actor>
+			<role>Oakes</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">May 7 2013</releasedate>
+		<releasedate country="United Kingdom">May 17 2013</releasedate>
+		<releasedate country="Ireland">May 17 2013</releasedate>
+		<releasedate country="Italy">May 21 2013</releasedate>
+		<releasedate country="Belgium">May 22 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">u 18+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fast and furious franchise</keyword>
+		<keyword>car</keyword>
+		<keyword>canary islands</keyword>
+		<keyword>murder</keyword>
+		<keyword>assassin</keyword>
+		<keyword>rescue</keyword>
+		<keyword>hostage</keyword>
+		<keyword>torture</keyword>
+		<keyword>undercover</keyword>
+		<keyword>prison</keyword>
+		<keyword>runway</keyword>
+		<keyword>sequel</keyword>
+		<keyword>reference to spain</keyword>
+		<keyword>reference to the incredible hulk</keyword>
+		<keyword>humvee</keyword>
+		<keyword>brian o'conner character</keyword>
+		<keyword>dominic toretto character</keyword>
+		<keyword>roman pearce character</keyword>
+		<keyword>han seoul oh character</keyword>
+		<keyword>mia toretto character</keyword>
+		<keyword>tej parker character</keyword>
+		<keyword>getting undressed</keyword>
+		<keyword>profanity</keyword>
+		<keyword>two word title</keyword>
+		<keyword>reference to james bond</keyword>
+		<keyword>reference to 007</keyword>
+		<keyword>reference to gunsmoke</keyword>
+		<keyword>reference to scooby doo</keyword>
+		<keyword>death scene</keyword>
+		<keyword>last words</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>stripping</keyword>
+		<keyword>boxer shorts</keyword>
+		<keyword>bleeding</keyword>
+		<keyword>biting</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>hand crushing</keyword>
+		<keyword>ford mustang</keyword>
+		<keyword>reference to big brother</keyword>
+		<keyword>classic car</keyword>
+		<keyword>gun</keyword>
+		<keyword>weapon</keyword>
+		<keyword>custom weapon</keyword>
+		<keyword>maverick cop</keyword>
+		<keyword>california</keyword>
+		<keyword>federal prison</keyword>
+		<keyword>ex police officer</keyword>
+		<keyword>customized car</keyword>
+		<keyword>informant</keyword>
+		<keyword>street race</keyword>
+		<keyword>street racing</keyword>
+		<keyword>aston martin</keyword>
+		<keyword>double decker bus</keyword>
+		<keyword>siren</keyword>
+		<keyword>police siren</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>muscle car</keyword>
+		<keyword>crushed car</keyword>
+		<keyword>bunker</keyword>
+		<keyword>garage</keyword>
+		<keyword>computer chip</keyword>
+		<keyword>subtitles</keyword>
+		<keyword>code of conduct</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>reference to interpol</keyword>
+		<keyword>double cross</keyword>
+		<keyword>ex convict</keyword>
+		<keyword>ex policeman</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>letty ortiz character</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>gas guzzler</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>luke hobbs character</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>epic action</keyword>
+		<keyword>urban adventure</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>team action</keyword>
+		<keyword>car action</keyword>
+		<keyword>man</keyword>
+		<keyword>woman</keyword>
+		<keyword>driving</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>united kingdom</keyword>
+		<keyword>england</keyword>
+		<keyword>italian car</keyword>
+		<keyword>german car</keyword>
+		<keyword>u.s. car</keyword>
+		<keyword>british car</keyword>
+		<keyword>japanese car</keyword>
+		<keyword>alfa romeo</keyword>
+		<keyword>alfa romeo motor vehicle</keyword>
+		<keyword>alfa romeo giulietta</keyword>
+		<keyword>bmw</keyword>
+		<keyword>bmw motor vehicle</keyword>
+		<keyword>bmw car</keyword>
+		<keyword>bmw 5</keyword>
+		<keyword>dodge motor vehicle</keyword>
+		<keyword>dodge challenger</keyword>
+		<keyword>dodge charger</keyword>
+		<keyword>ducati</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford motor vehicle</keyword>
+		<keyword>ford car</keyword>
+		<keyword>ford escort</keyword>
+		<keyword>harley davidson</keyword>
+		<keyword>jensen motor vehicle</keyword>
+		<keyword>jensen interceptor</keyword>
+		<keyword>land rover</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>mercedes benz motor vehicle</keyword>
+		<keyword>mercedes benz car</keyword>
+		<keyword>nissan</keyword>
+		<keyword>nissan motor vehicle</keyword>
+		<keyword>nissan gt r</keyword>
+		<keyword>vauxhall</keyword>
+		<keyword>vauxhall motor vehicle</keyword>
+		<keyword>vauxhall astra</keyword>
+		<keyword>police car</keyword>
+		<keyword>plane</keyword>
+		<keyword>dodge the car</keyword>
+		<keyword>villainess</keyword>
+		<keyword>gisele yashar character</keyword>
+		<keyword>owen shaw character</keyword>
+		<keyword>criminal</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>spain</keyword>
+		<keyword>reference to robin hood</keyword>
+		<keyword>tunnel chase scene</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>english subtitles</keyword>
+		<keyword>custom car</keyword>
+		<keyword>c 17 globemaster</keyword>
+		<keyword>improvisation</keyword>
+		<keyword>m1 abrams tank</keyword>
+		<keyword>drag racing</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>subway</keyword>
+		<keyword>grappling hook gun</keyword>
+		<keyword>turbo diesel engine</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>winking</keyword>
+		<keyword>demolition</keyword>
+		<keyword>toy car</keyword>
+		<keyword>learjet 35</keyword>
+		<keyword>night cityscape</keyword>
+		<keyword>thrown through the air</keyword>
+		<keyword>racing on a mountain road</keyword>
+		<keyword>high tech</keyword>
+		<keyword>captain</keyword>
+		<keyword>army</keyword>
+		<keyword>soldier</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>silencer</keyword>
+		<keyword>revolver</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>motorcycle stunt</keyword>
+		<keyword>airplane accident</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>showdown</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>death of girlfriend</keyword>
+		<keyword>barbecue</keyword>
+		<keyword>rogue agent</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>disguise</keyword>
+		<keyword>two way mirror</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>explosive</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>warrior</keyword>
+		<keyword>one man army</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>action hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>female killer</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>female agent</keyword>
+		<keyword>government agent</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>security camera</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security guard</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>airplane</keyword>
+		<keyword>prison fight</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>microchip</keyword>
+		<keyword>police chase</keyword>
+		<keyword>car accident</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>product placement</keyword>
+		<keyword>hong kong</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>sniper</keyword>
+		<keyword>childbirth</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>explosion</keyword>
+		<keyword>bomb</keyword>
+		<keyword>corrupt cop</keyword>
+		<keyword>deception</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>moscow russia</keyword>
+		<keyword>private jet</keyword>
+		<keyword>death of loved one</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>photograph</keyword>
+		<keyword>arrest</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>muscleman</keyword>
+		<keyword>beating</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>police officer killed</keyword>
+		<keyword>swat team</keyword>
+		<keyword>catfight</keyword>
+		<keyword>head butt</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>punched in the stomach</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>amnesia</keyword>
+		<keyword>tokyo japan</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>thief</keyword>
+		<keyword>automated teller machine</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>shootout</keyword>
+		<keyword>flashback</keyword>
+		<keyword>hospital</keyword>
+		<keyword>baby</keyword>
+		<keyword>necklace</keyword>
+		<keyword>pistol</keyword>
+		<keyword>car crash</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>london england</keyword>
+		<keyword>blockbuster</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>vending machine</keyword>
+		<keyword>driving in the wrong direction</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>car flip</keyword>
+		<keyword>pawnshop</keyword>
+		<keyword>broken nose</keyword>
+		<keyword>cctv</keyword>
+		<keyword>cameo</keyword>
+		<keyword>bitten on the leg</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>cargo plane</keyword>
+		<keyword>camera focus on female butt</keyword>
+		<keyword>scar</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>cut into pieces</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>exploding bridge</keyword>
+		<keyword>millionaire</keyword>
+		<keyword>forced to strip</keyword>
+		<keyword>reference to thor</keyword>
+		<keyword>reference to captain america</keyword>
+		<keyword>military convoy</keyword>
+		<keyword>brawl</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>tank</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>harpoon</keyword>
+		<keyword>military base</keyword>
+		<keyword>threat</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>shiv</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>subway station</keyword>
+		<keyword>jumping from a car</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>investigation</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>stolen car</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>car chase</keyword>
+		<keyword>numbered sequel</keyword>
+		<keyword>ampersand in title</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>inbetwequel</keyword>
+		<keyword>car theft</keyword>
+		<keyword>car race</keyword>
+		<keyword>fast car</keyword>
+		<keyword>sixth part</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>sixth in series</keyword>
+	</keywords>
+	<directors>
+		<director> Justin Lin</director>
+	</directors>
+	<composers>
+		<composer> Lucas Vidal</composer>
+	</composers>
+	<producers>
+		<producer> Vin Diesel</producer>
+		<producer> Alexander Dostal</producer>
+		<producer> Amanda Lewis</producer>
+		<producer> Justin Lin</producer>
+		<producer> Chris Morgan</producer>
+		<producer> Neal H. Moritz</producer>
+		<producer> Clayton Townsend</producer>
+		<producer> Samantha Vincent</producer>
+	</producers>
+	<writers>
+		<writer> Chris Morgan</writer>
+		<writer> Gary Scott Thompson</writer>
+	</writers>
+	<editors>
+		<editor> Greg D'Auria</editor>
+		<editor> Leigh Folsom Boyd</editor>
+		<editor> Dylan Highsmith</editor>
+		<editor> Kelly Matsumoto</editor>
+		<editor> Christian Wagner</editor>
+	</editors>
+</doc>

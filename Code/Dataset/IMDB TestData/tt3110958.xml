@@ -1,0 +1,536 @@
+<?xml version="1.0" ?>
+<doc id="tt3110958">
+	<docid>tt3110958</docid>
+	<title>Now You See Me 2</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjhlNDljNTgtZjc4My00NmZmLTk2YzAtYWE5MDYwYjM4MTkzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX190_CR0,3,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">129</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jesse Eisenberg</actor>
+			<role>J. Daniel Atlas</role>
+		</credit>
+		<credit>
+			<actor>Mark Ruffalo</actor>
+			<role>Dylan Rhodes</role>
+		</credit>
+		<credit>
+			<actor>Woody Harrelson</actor>
+			<role>Merritt McKinney</role>
+		</credit>
+		<credit>
+			<actor>Dave Franco</actor>
+			<role>Jack Wilder</role>
+		</credit>
+		<credit>
+			<actor>Daniel Radcliffe</actor>
+			<role>Walter Mabry</role>
+		</credit>
+		<credit>
+			<actor>Lizzy Caplan</actor>
+			<role>Lula</role>
+		</credit>
+		<credit>
+			<actor>Jay Chou</actor>
+			<role>Li</role>
+		</credit>
+		<credit>
+			<actor>Sanaa Lathan</actor>
+			<role>Deputy Director Natalie Austin</role>
+		</credit>
+		<credit>
+			<actor>Michael Caine</actor>
+			<role>Arthur Tressler</role>
+		</credit>
+		<credit>
+			<actor>Morgan Freeman</actor>
+			<role>Thaddeus Bradley</role>
+		</credit>
+		<credit>
+			<actor>David Warshofsky</actor>
+			<role>Agent Cowan</role>
+		</credit>
+		<credit>
+			<actor>Tsai Chin</actor>
+			<role>Bu Bu</role>
+		</credit>
+		<credit>
+			<actor>William Henderson</actor>
+			<role>Young Dylan</role>
+		</credit>
+		<credit>
+			<actor>Richard Laing</actor>
+			<role>Lionel Shrike</role>
+		</credit>
+		<credit>
+			<actor>Henry Lloyd-Hughes</actor>
+			<role>Allen Scott-Frank</role>
+		</credit>
+		<credit>
+			<actor>Brick Patrick</actor>
+			<role>Chase McKinney</role>
+		</credit>
+		<credit>
+			<actor>Zach Gerard</actor>
+			<role>Hannes Pike</role>
+		</credit>
+		<credit>
+			<actor>Ben Lamb</actor>
+			<role>Owen Case</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">June 2 2016</releasedate>
+		<releasedate country="United States">June 6 2016</releasedate>
+		<releasedate country="Finland">June 8 2016</releasedate>
+		<releasedate country="Hong Kong">June 8 2016</releasedate>
+		<releasedate country="Indonesia">June 8 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>hands tied behind back</keyword>
+		<keyword>handcuffed together</keyword>
+		<keyword>magic</keyword>
+		<keyword>escape</keyword>
+		<keyword>magician</keyword>
+		<keyword>disappearing act</keyword>
+		<keyword>three card monty</keyword>
+		<keyword>suspense</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>telephone</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>englishman</keyword>
+		<keyword>magic shop</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>casino</keyword>
+		<keyword>playing card</keyword>
+		<keyword>card throwing</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>arrest</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>escape artist</keyword>
+		<keyword>security guard</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>rescue</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>motorcycle crash</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>actor playing multiple roles</keyword>
+		<keyword>hypnotist</keyword>
+		<keyword>illusionist</keyword>
+		<keyword>magic trick</keyword>
+		<keyword>ambigram</keyword>
+		<keyword>rube goldberg machine</keyword>
+		<keyword>thumb drive</keyword>
+		<keyword>confusion</keyword>
+		<keyword>newscast</keyword>
+		<keyword>jigsaw puzzle</keyword>
+		<keyword>infiltrator</keyword>
+		<keyword>slurping a drink with a straw</keyword>
+		<keyword>impersonating a security officer</keyword>
+		<keyword>fast talking</keyword>
+		<keyword>maternal twin brothers</keyword>
+		<keyword>fake injury</keyword>
+		<keyword>reference to the beetles</keyword>
+		<keyword>company conference</keyword>
+		<keyword>blueprint</keyword>
+		<keyword>computer chip</keyword>
+		<keyword>chinese dragon custom</keyword>
+		<keyword>chinese gong</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>hermetically sealed room</keyword>
+		<keyword>distraction</keyword>
+		<keyword>black bra</keyword>
+		<keyword>breathing fire</keyword>
+		<keyword>strobe</keyword>
+		<keyword>the fool tarot card</keyword>
+		<keyword>embraer legacy 600 business jet</keyword>
+		<keyword>product placement</keyword>
+		<keyword>china</keyword>
+		<keyword>chinese mafia</keyword>
+		<keyword>inappropriate body double</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>blinding light</keyword>
+		<keyword>kiss</keyword>
+		<keyword>bra removing</keyword>
+		<keyword>man wears a tuxedo</keyword>
+		<keyword>man wears a white suit</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>nunchaku</keyword>
+		<keyword>numbered sequel</keyword>
+		<keyword>reference to bruce lee</keyword>
+		<keyword>timeframe 1980s</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>false identity</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>theft</keyword>
+		<keyword>contraband</keyword>
+		<keyword>counterfeit</keyword>
+		<keyword>caper mystery</keyword>
+		<keyword>manhunt</keyword>
+		<keyword>vlog</keyword>
+		<keyword>second in a series</keyword>
+		<keyword>second film in a series</keyword>
+		<keyword>magic trick gone wrong</keyword>
+		<keyword>online video</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>new member</keyword>
+		<keyword>fbi investigation</keyword>
+		<keyword>product launch</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>it company</keyword>
+		<keyword>undercover</keyword>
+		<keyword>modern robin hood</keyword>
+		<keyword>hypnotized</keyword>
+		<keyword>macao</keyword>
+		<keyword>prison cell</keyword>
+		<keyword>prison visit</keyword>
+		<keyword>extortion</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>sleight of hand</keyword>
+		<keyword>twin brother twin brother relationship</keyword>
+		<keyword>identical twin</keyword>
+		<keyword>identical twin brothers</keyword>
+		<keyword>training montage</keyword>
+		<keyword>planning a heist</keyword>
+		<keyword>frisked</keyword>
+		<keyword>frisk</keyword>
+		<keyword>security camera footage</keyword>
+		<keyword>nye</keyword>
+		<keyword>fight scene</keyword>
+		<keyword>street magic</keyword>
+		<keyword>cctv</keyword>
+		<keyword>midnight</keyword>
+		<keyword>river thames</keyword>
+		<keyword>picking a handcuff lock</keyword>
+		<keyword>caper crime</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>expose</keyword>
+		<keyword>macau</keyword>
+		<keyword>prison</keyword>
+		<keyword>heist</keyword>
+		<keyword>comeback</keyword>
+		<keyword>prodigy</keyword>
+		<keyword>strobe light</keyword>
+		<keyword>dove</keyword>
+		<keyword>walking in the rain</keyword>
+		<keyword>toasting with a drink</keyword>
+		<keyword>tarot card</keyword>
+		<keyword>submerged</keyword>
+		<keyword>locked in a safe</keyword>
+		<keyword>bounce pass</keyword>
+		<keyword>black lace bra</keyword>
+		<keyword>alliteration</keyword>
+		<keyword>riding a motorcycle</keyword>
+		<keyword>card sailing</keyword>
+		<keyword>impersonating an fbi agent</keyword>
+		<keyword>identical twin brother</keyword>
+		<keyword>electric knife</keyword>
+		<keyword>switch</keyword>
+		<keyword>impersonation</keyword>
+		<keyword>quick change</keyword>
+		<keyword>sushi</keyword>
+		<keyword>guillotine</keyword>
+		<keyword>hypnosis</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>street fight</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>chewing gum</keyword>
+		<keyword>banana</keyword>
+		<keyword>sprinkler system</keyword>
+		<keyword>gong</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>reference to robin hood</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>technology</keyword>
+		<keyword>ship</keyword>
+		<keyword>thief</keyword>
+		<keyword>pickpocket</keyword>
+		<keyword>wallet</keyword>
+		<keyword>impostor</keyword>
+		<keyword>penthouse</keyword>
+		<keyword>microscope</keyword>
+		<keyword>montage</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>fish tank</keyword>
+		<keyword>champagne</keyword>
+		<keyword>trapdoor</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>new year's eve</keyword>
+		<keyword>tower bridge london</keyword>
+		<keyword>big ben london</keyword>
+		<keyword>london bus</keyword>
+		<keyword>london eye</keyword>
+		<keyword>female agent</keyword>
+		<keyword>black eye</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>secret society</keyword>
+		<keyword>news report</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>map</keyword>
+		<keyword>investigation</keyword>
+		<keyword>pork pie hat</keyword>
+		<keyword>police car</keyword>
+		<keyword>pigeon</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>knife</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>chef</keyword>
+		<keyword>corruption</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>crooked businessman</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>on the run</keyword>
+		<keyword>street market</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>brassiere</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fight</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>explosion</keyword>
+		<keyword>fire</keyword>
+		<keyword>fire breathing</keyword>
+		<keyword>improvised weapon</keyword>
+		<keyword>meat cleaver</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>henchman</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>elevator</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>chinese</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>bar</keyword>
+		<keyword>chinese restaurant</keyword>
+		<keyword>joker card</keyword>
+		<keyword>hit with a car door</keyword>
+		<keyword>mole</keyword>
+		<keyword>power outage</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>apartment</keyword>
+		<keyword>ambush</keyword>
+		<keyword>trip wire</keyword>
+		<keyword>villain arrested</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>pistol</keyword>
+		<keyword>private jet</keyword>
+		<keyword>airplane</keyword>
+		<keyword>disguise</keyword>
+		<keyword>fake blood</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>limousine</keyword>
+		<keyword>cargo ship</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>south african</keyword>
+		<keyword>caper</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>metal detector</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>escape from jail</keyword>
+		<keyword>photograph</keyword>
+		<keyword>truck</keyword>
+		<keyword>van</keyword>
+		<keyword>race against time</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>subway</keyword>
+		<keyword>mission</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>microchip</keyword>
+		<keyword>invasion of privacy</keyword>
+		<keyword>ceo</keyword>
+		<keyword>high tech</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>open ended</keyword>
+		<keyword>hidden door</keyword>
+		<keyword>observatory</keyword>
+		<keyword>mansion</keyword>
+		<keyword>library</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>2010s</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>prologue</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>flashback</keyword>
+		<keyword>stopwatch</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>motorcycle stunt</keyword>
+		<keyword>motorcycle accident</keyword>
+		<keyword>exploding motorcycle</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>flood</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>reporter</keyword>
+		<keyword>bridge</keyword>
+		<keyword>drowning</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>safe</keyword>
+		<keyword>beard</keyword>
+		<keyword>mind control</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>faked death</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>revenge</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>new jersey</keyword>
+		<keyword>1980s</keyword>
+		<keyword>year 1984</keyword>
+		<keyword>twin brother</keyword>
+		<keyword>revelation</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>hypnotism</keyword>
+		<keyword>street magician</keyword>
+		<keyword>second part</keyword>
+		<keyword>reference to the wizard of oz</keyword>
+		<keyword>reference to the rolling stones</keyword>
+		<keyword>reference to the beatles</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>new york city</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>card trick</keyword>
+		<keyword>rain machine</keyword>
+		<keyword>london england</keyword>
+		<keyword>macau china</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>illegitimate son</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>sequel</keyword>
+		<keyword>death of father</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>blind spot</keyword>
+	</keywords>
+	<directors>
+		<director> Jon M. Chu</director>
+	</directors>
+	<composers>
+		<composer> Brian Tyler</composer>
+	</composers>
+	<producers>
+		<producer> Chen On Chu</producer>
+		<producer> Bobby Cohen</producer>
+		<producer> David Copperfield</producer>
+		<producer> Kevin de la Noy</producer>
+		<producer> Alex Kurtzman</producer>
+		<producer> Louis Leterrier</producer>
+		<producer> Qiuyun Long</producer>
+		<producer> Karl McMillan</producer>
+		<producer> Roberto Orci</producer>
+		<producer> Yang Rong</producer>
+		<producer> Bo Shen</producer>
+		<producer> Ed Solomon</producer>
+		<producer> Meredith Wieck</producer>
+	</producers>
+	<writers>
+		<writer> Ed Solomon</writer>
+		<writer> Ed Solomon</writer>
+		<writer> Peter Chiarelli</writer>
+		<writer> Boaz Yakin</writer>
+		<writer> Edward Ricourt</writer>
+	</writers>
+	<editors>
+		<editor> Stan Salfas</editor>
+	</editors>
+</doc>

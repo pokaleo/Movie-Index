@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<doc id="tt11714672">
+	<docid>tt11714672</docid>
+	<title>The Flatshare</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGQ4NjQ2OGUtYjVlYi00Njc0LWE3YTctNzA4ZDU4MTM3MjFlXkEyXkFqcGdeQXVyMTM2NDY5MjI5._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A unique situation where to save money, two strangers share a flat on a schedule where they never meet each other. They communicate via post it note while they navigate their unusual agreement, their relationships, and lives.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jessica Brown Findlay</actor>
+			<role>Tiffany</role>
+		</credit>
+		<credit>
+			<actor>Anthony Welsh</actor>
+			<role>Leon</role>
+		</credit>
+		<credit>
+			<actor>Bart Edwards</actor>
+			<role>Justin</role>
+		</credit>
+		<credit>
+			<actor>Jonah Hauer-King</actor>
+			<role>Mo</role>
+		</credit>
+		<credit>
+			<actor>Shaniqua Okwok</actor>
+			<role>Maia</role>
+		</credit>
+		<credit>
+			<actor>David Hargreaves</actor>
+			<role>Mr. Prior</role>
+		</credit>
+		<credit>
+			<actor>Shaq B. Grant</actor>
+			<role>Richie</role>
+		</credit>
+		<credit>
+			<actor>Gina Bramhill</actor>
+			<role>Rachel</role>
+		</credit>
+		<credit>
+			<actor>Dustin Demri-Burns</actor>
+			<role>Phil</role>
+		</credit>
+		<credit>
+			<actor>Alis Waters</actor>
+			<role>Holly</role>
+		</credit>
+		<credit>
+			<actor>Bill Milner</actor>
+			<role>Si</role>
+		</credit>
+		<credit>
+			<actor>Klariza Clayton</actor>
+			<role>Kay</role>
+		</credit>
+		<credit>
+			<actor>Nathalie Armin</actor>
+			<role>Tania Joseph</role>
+		</credit>
+		<credit>
+			<actor>Colin Hoult</actor>
+			<role>Al</role>
+		</credit>
+		<credit>
+			<actor>Jo Martin</actor>
+			<role>Pauline</role>
+		</credit>
+		<credit>
+			<actor>Martin Bishop</actor>
+			<role>Johnny White</role>
+		</credit>
+		<credit>
+			<actor>Billy Boyle</actor>
+			<role>Grumpy Man</role>
+		</credit>
+		<credit>
+			<actor>Delroy Brown</actor>
+			<role>Frank</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">December 1 2022</releasedate>
+		<releasedate country="Canada">December 1 2022</releasedate>
+		<releasedate country="France">December 1 2022</releasedate>
+		<releasedate country="United Kingdom">December 1 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>money</keyword>
+	</keywords>
+	<directors>
+		<director> Peter Cattaneo</director>
+		<director> Chloe Wicks</director>
+	</directors>
+	<composers>
+		<composer> Nitin Sawhney</composer>
+	</composers>
+	<producers>
+		<producer> Rory Aitken</producer>
+		<producer> Miriam Brent</producer>
+		<producer> Peter Cattaneo</producer>
+		<producer> Darren Green</producer>
+		<producer> Kingsley Hoskins</producer>
+		<producer> Charles Hubbard</producer>
+		<producer> Rose Lewenstein</producer>
+		<producer> Eleanor Moran</producer>
+		<producer> Gretta Mullany</producer>
+		<producer> Rhonda Smith</producer>
+	</producers>
+	<writers>
+		<writer> Rose Lewenstein</writer>
+		<writer> Ryan Calais Cameron</writer>
+		<writer> Sarah Simmonds</writer>
+		<writer> Alex Straker</writer>
+		<writer> Beth O'Leary</writer>
+	</writers>
+	<editors>
+		<editor> Andrew Walton</editor>
+		<editor> Ash White</editor>
+		<editor> Natasha Wilkinson</editor>
+	</editors>
+</doc>

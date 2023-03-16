@@ -1,0 +1,553 @@
+<?xml version="1.0" ?>
+<doc id="tt5308322">
+	<docid>tt5308322</docid>
+	<title>Happy Death Day</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTk0ODMyNjk1NF5BMl5BanBnXkFtZTgwNDkxOTk4MzI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">96</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jessica Rothe</actor>
+			<role>Tree Gelbman</role>
+		</credit>
+		<credit>
+			<actor>Israel Broussard</actor>
+			<role>Carter Davis</role>
+		</credit>
+		<credit>
+			<actor>Ruby Modine</actor>
+			<role>Lori Spengler</role>
+		</credit>
+		<credit>
+			<actor>Charles Aitken</actor>
+			<role>Gregory Butler</role>
+		</credit>
+		<credit>
+			<actor>Laura Clifton</actor>
+			<role>Stephanie Butler</role>
+		</credit>
+		<credit>
+			<actor>Jason Bayle</actor>
+			<role>David Gelbman</role>
+		</credit>
+		<credit>
+			<actor>Rob Mello</actor>
+			<role>John Tombs</role>
+		</credit>
+		<credit>
+			<actor>Rachel Matthews</actor>
+			<role>Danielle Bouseman</role>
+		</credit>
+		<credit>
+			<actor>Ramsey Anderson</actor>
+			<role>Keith Lumbly</role>
+		</credit>
+		<credit>
+			<actor>Brady Lewis</actor>
+			<role>Frat Brother</role>
+		</credit>
+		<credit>
+			<actor>Phi Vu</actor>
+			<role>Ryan Phan</role>
+		</credit>
+		<credit>
+			<actor>Tenea Intriago</actor>
+			<role>Student Protester</role>
+		</credit>
+		<credit>
+			<actor>Blaine Kern III</actor>
+			<role>Nick Sims</role>
+		</credit>
+		<credit>
+			<actor>Cariella Smith</actor>
+			<role>Becky Shepard</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Gonzales</actor>
+			<role>Police Officer</role>
+		</credit>
+		<credit>
+			<actor>Billy Slaughter</actor>
+			<role>Dr. Winter</role>
+		</credit>
+		<credit>
+			<actor>Donna Duplantier</actor>
+			<role>Nurse Deena</role>
+		</credit>
+		<credit>
+			<actor>GiGi Erneta</actor>
+			<role>Reporter</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Israel">October 7 2017</releasedate>
+		<releasedate country="Australia">October 12 2017</releasedate>
+		<releasedate country="Brazil">October 12 2017</releasedate>
+		<releasedate country="Chile">October 12 2017</releasedate>
+		<releasedate country="Israel">October 12 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Malaysia">(Banned)</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>time loop</keyword>
+		<keyword>birthday</keyword>
+		<keyword>trapped in a time loop</keyword>
+		<keyword>masked killer</keyword>
+		<keyword>teen horror</keyword>
+		<keyword>college</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>college campus</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>dorm room</keyword>
+		<keyword>repeated event</keyword>
+		<keyword>time warp</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>sorority</keyword>
+		<keyword>sorority girl</keyword>
+		<keyword>sorority house</keyword>
+		<keyword>teacher student romance</keyword>
+		<keyword>baby mask</keyword>
+		<keyword>surprise birthday party</keyword>
+		<keyword>fart joke</keyword>
+		<keyword>watching gay porn</keyword>
+		<keyword>farting</keyword>
+		<keyword>suicide by hanging</keyword>
+		<keyword>slasher</keyword>
+		<keyword>slasher killer</keyword>
+		<keyword>birthday candle</keyword>
+		<keyword>hospital</keyword>
+		<keyword>hospital gown</keyword>
+		<keyword>birthday cake</keyword>
+		<keyword>dying repeatedly</keyword>
+		<keyword>eternal recurrence</keyword>
+		<keyword>alternate timeline</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>college student</keyword>
+		<keyword>masked villain</keyword>
+		<keyword>mask</keyword>
+		<keyword>cupcake</keyword>
+		<keyword>falling out a window</keyword>
+		<keyword>hanged by the neck</keyword>
+		<keyword>surprise party</keyword>
+		<keyword>poisoned to death</keyword>
+		<keyword>flatulence</keyword>
+		<keyword>car alarm</keyword>
+		<keyword>hangover</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>blowing out candles on a birthday cake</keyword>
+		<keyword>kiss</keyword>
+		<keyword>bracelet</keyword>
+		<keyword>watching gay pornography</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>blonde asian</keyword>
+		<keyword>teacher student affair</keyword>
+		<keyword>blowing out a candle</keyword>
+		<keyword>murdered on birthday</keyword>
+		<keyword>public nudity</keyword>
+		<keyword>woman walks alone at night</keyword>
+		<keyword>girl farting</keyword>
+		<keyword>time travel</keyword>
+		<keyword>alarm</keyword>
+		<keyword>dead teenager</keyword>
+		<keyword>murder</keyword>
+		<keyword>arson</keyword>
+		<keyword>explosion</keyword>
+		<keyword>head trauma</keyword>
+		<keyword>knife</keyword>
+		<keyword>blood</keyword>
+		<keyword>chase</keyword>
+		<keyword>diner</keyword>
+		<keyword>escaped prisoner</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>cupcake with a candle</keyword>
+		<keyword>hit by a bus</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>sprinkler</keyword>
+		<keyword>partial female nudity</keyword>
+		<keyword>masturbation</keyword>
+		<keyword>global warming</keyword>
+		<keyword>suicide</keyword>
+		<keyword>survival</keyword>
+		<keyword>eclipse</keyword>
+		<keyword>scream</keyword>
+		<keyword>dream</keyword>
+		<keyword>telephone</keyword>
+		<keyword>fight for survival</keyword>
+		<keyword>multiple outcomes</keyword>
+		<keyword>roommate</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>gay</keyword>
+		<keyword>watching a gay porn video</keyword>
+		<keyword>police officer</keyword>
+		<keyword>setting a car on fire</keyword>
+		<keyword>car on fire</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>red herring</keyword>
+		<keyword>extramarital affair</keyword>
+		<keyword>bell tower</keyword>
+		<keyword>empty gun</keyword>
+		<keyword>clock</keyword>
+		<keyword>blonde</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>guard</keyword>
+		<keyword>megaphone</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>mobile phone</keyword>
+		<keyword>blonde asian woman</keyword>
+		<keyword>petition</keyword>
+		<keyword>pumps</keyword>
+		<keyword>pouring a drink on someone</keyword>
+		<keyword>visible midriff</keyword>
+		<keyword>security guard</keyword>
+		<keyword>hospitalization</keyword>
+		<keyword>doctor</keyword>
+		<keyword>chocolate milk</keyword>
+		<keyword>cake</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>knife held to throat</keyword>
+		<keyword>knife held to someone's throat</keyword>
+		<keyword>knife held to one's throat</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>closeted homosexual</keyword>
+		<keyword>running mascara</keyword>
+		<keyword>cafeteria</keyword>
+		<keyword>hit in the head with a baseball bat</keyword>
+		<keyword>asking to be arrested</keyword>
+		<keyword>no driver's license</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>dead police officer</keyword>
+		<keyword>leaking fuel tank</keyword>
+		<keyword>masked murderer</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>hooded sweatshirt</keyword>
+		<keyword>reference to ghostbusters</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>friendship between girls</keyword>
+		<keyword>male teacher female student affair</keyword>
+		<keyword>male teacher female student relationship</keyword>
+		<keyword>mystery killer</keyword>
+		<keyword>female college student</keyword>
+		<keyword>knife wielding killer</keyword>
+		<keyword>power cut</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>poisoned cupcake</keyword>
+		<keyword>teen slasher</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>reference to groundhog day</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>phone alarm</keyword>
+		<keyword>fraternity</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>slasher horror</keyword>
+		<keyword>violence</keyword>
+		<keyword>hair curlers</keyword>
+		<keyword>reference to bill murray</keyword>
+		<keyword>arizona</keyword>
+		<keyword>arizona desert</keyword>
+		<keyword>desert</keyword>
+		<keyword>stubble</keyword>
+		<keyword>bell</keyword>
+		<keyword>sleep</keyword>
+		<keyword>magazine</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>dorm</keyword>
+		<keyword>dormitory</keyword>
+		<keyword>poster</keyword>
+		<keyword>headache</keyword>
+		<keyword>casual sex</keyword>
+		<keyword>the morning after</keyword>
+		<keyword>jeep</keyword>
+		<keyword>chrysler</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>blue tie</keyword>
+		<keyword>asian boy</keyword>
+		<keyword>asian girl</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>halter top</keyword>
+		<keyword>brunette</keyword>
+		<keyword>walking alone at night</keyword>
+		<keyword>defiance</keyword>
+		<keyword>vanity mirror</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>crying</keyword>
+		<keyword>lateness</keyword>
+		<keyword>late for class</keyword>
+		<keyword>cheating on wife</keyword>
+		<keyword>white board</keyword>
+		<keyword>backpack</keyword>
+		<keyword>knapsack</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>gay porn</keyword>
+		<keyword>red umbrella</keyword>
+		<keyword>blackboard</keyword>
+		<keyword>physician</keyword>
+		<keyword>throwing object through window</keyword>
+		<keyword>affair</keyword>
+		<keyword>hair curler</keyword>
+		<keyword>masked man</keyword>
+		<keyword>night walk</keyword>
+		<keyword>sex with a student</keyword>
+		<keyword>teacher student sex</keyword>
+		<keyword>stairs</keyword>
+		<keyword>birthday card</keyword>
+		<keyword>injection</keyword>
+		<keyword>poison</keyword>
+		<keyword>slashing</keyword>
+		<keyword>poisoned food</keyword>
+		<keyword>beard</keyword>
+		<keyword>kiss on the neck</keyword>
+		<keyword>married man</keyword>
+		<keyword>deja vu</keyword>
+		<keyword>fat shaming</keyword>
+		<keyword>video</keyword>
+		<keyword>cake in the face</keyword>
+		<keyword>teddy bear</keyword>
+		<keyword>brownout</keyword>
+		<keyword>scar</keyword>
+		<keyword>reveller</keyword>
+		<keyword>thrown against a wall</keyword>
+		<keyword>walking</keyword>
+		<keyword>lawn furniture</keyword>
+		<keyword>fussball</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>leather jacket</keyword>
+		<keyword>american flag</keyword>
+		<keyword>telescope</keyword>
+		<keyword>bong</keyword>
+		<keyword>disco ball</keyword>
+		<keyword>bloody knife</keyword>
+		<keyword>hit on the head</keyword>
+		<keyword>baseball cap</keyword>
+		<keyword>man collapses on floor</keyword>
+		<keyword>closeted</keyword>
+		<keyword>boarded up window</keyword>
+		<keyword>barred door</keyword>
+		<keyword>news report</keyword>
+		<keyword>indoor plant</keyword>
+		<keyword>knife thrown in door</keyword>
+		<keyword>waking up screaming</keyword>
+		<keyword>cruiser</keyword>
+		<keyword>suspect</keyword>
+		<keyword>cutting one's own hair</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>camouflage</keyword>
+		<keyword>smashing a window</keyword>
+		<keyword>catfight</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>pulled over</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>fleeing a hospital</keyword>
+		<keyword>car theft</keyword>
+		<keyword>doctor's office</keyword>
+		<keyword>vending machine</keyword>
+		<keyword>stairwell</keyword>
+		<keyword>parking lot</keyword>
+		<keyword>multi storied parking</keyword>
+		<keyword>hit on the head with a baseball bat</keyword>
+		<keyword>highway patrol</keyword>
+		<keyword>smashing a car window</keyword>
+		<keyword>embrace</keyword>
+		<keyword>torch</keyword>
+		<keyword>sirens</keyword>
+		<keyword>homicide</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>pills</keyword>
+		<keyword>bottle of pills</keyword>
+		<keyword>medicine</keyword>
+		<keyword>gun</keyword>
+		<keyword>hamburger</keyword>
+		<keyword>stood up</keyword>
+		<keyword>standing somebody up</keyword>
+		<keyword>tv news</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>axe</keyword>
+		<keyword>mysterious murderer</keyword>
+		<keyword>dark murderer</keyword>
+		<keyword>shooting a woman</keyword>
+		<keyword>man wears a suit</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>homosexuality</keyword>
+		<keyword>party</keyword>
+		<keyword>candle</keyword>
+		<keyword>shoe</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>crush on teacher</keyword>
+		<keyword>female killer</keyword>
+		<keyword>montage with pop song</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>female friendship</keyword>
+		<keyword>love interest</keyword>
+		<keyword>reference to janis joplin</keyword>
+		<keyword>reference to harry houdini</keyword>
+		<keyword>psychotic killer</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>college roommate</keyword>
+		<keyword>walk of shame</keyword>
+		<keyword>lecture</keyword>
+		<keyword>music box</keyword>
+		<keyword>reference to uber</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>dyed hair</keyword>
+		<keyword>horror icon</keyword>
+		<keyword>selfishness</keyword>
+		<keyword>narcissism</keyword>
+		<keyword>campy</keyword>
+		<keyword>girl in jeopardy</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>death in title</keyword>
+		<keyword>three word title</keyword>
+		<keyword>sadistic serial killer</keyword>
+		<keyword>female villain</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>police officer taken hostage</keyword>
+		<keyword>police officer hit by car</keyword>
+		<keyword>time traveler</keyword>
+		<keyword>female time traveler</keyword>
+		<keyword>murder victim</keyword>
+		<keyword>young woman</keyword>
+		<keyword>female student</keyword>
+		<keyword>reliving the past</keyword>
+		<keyword>sorority member</keyword>
+		<keyword>chased by a killer</keyword>
+		<keyword>masked assailant</keyword>
+		<keyword>college party</keyword>
+		<keyword>hit on the head with a hammer</keyword>
+		<keyword>montage</keyword>
+		<keyword>run over by a bus</keyword>
+		<keyword>fainting</keyword>
+		<keyword>arrest</keyword>
+		<keyword>run over by a car</keyword>
+		<keyword>pushed through a window</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>woman farting</keyword>
+		<keyword>hiding in a closet</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>whodunnit mystery</keyword>
+		<keyword>neck snap</keyword>
+		<keyword>burping</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>flowerpot</keyword>
+		<keyword>hugging</keyword>
+		<keyword>closet</keyword>
+		<keyword>man with long hair</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>missing mother</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>pulled over by the police</keyword>
+		<keyword>first part</keyword>
+		<keyword>first of series</keyword>
+		<keyword>feel good romance</keyword>
+		<keyword>stupid victim</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>woman kicked in the groin</keyword>
+		<keyword>villainess</keyword>
+		<keyword>killed in a hospital</keyword>
+		<keyword>habitation</keyword>
+		<keyword>plot twist</keyword>
+		<keyword>stalking</keyword>
+		<keyword>noose</keyword>
+		<keyword>tower</keyword>
+		<keyword>female nudity</keyword>
+	</keywords>
+	<directors>
+		<director> Christopher Landon</director>
+	</directors>
+	<composers>
+		<composer> Bear McCreary</composer>
+	</composers>
+	<producers>
+		<producer> John Baldecchi</producer>
+		<producer> Jason Blum</producer>
+		<producer> Phillip Dawe</producer>
+		<producer> Angela Mancuso</producer>
+		<producer> Seth William Meier</producer>
+		<producer> Couper Samuelson</producer>
+		<producer> Beatriz Sequeira</producer>
+		<producer> Ryan Turek</producer>
+		<producer> Jeanette Volturno</producer>
+	</producers>
+	<writers>
+		<writer> Scott Lobdell</writer>
+	</writers>
+	<editors>
+		<editor> Gregory Plotkin</editor>
+	</editors>
+</doc>

@@ -1,0 +1,402 @@
+<?xml version="1.0" ?>
+<doc id="tt3387648">
+	<docid>tt3387648</docid>
+	<title>The Taking</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTk3NjA3MzcyM15BMl5BanBnXkFtZTgwNDY3MjA2MjE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An elderly woman battling Alzheimer's disease agrees to let a film crew document her condition, but what they discover is something far more sinister going on.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jill Larson</actor>
+			<role>Deborah Logan</role>
+		</credit>
+		<credit>
+			<actor>Anne Ramsay</actor>
+			<role>Sarah Logan</role>
+		</credit>
+		<credit>
+			<actor>Michelle Ang</actor>
+			<role>Mia Medina</role>
+		</credit>
+		<credit>
+			<actor>Brett Gentile</actor>
+			<role>Gavin</role>
+		</credit>
+		<credit>
+			<actor>Jeremy DeCarlos</actor>
+			<role>Luis</role>
+		</credit>
+		<credit>
+			<actor>Ryan Cutrona</actor>
+			<role>Harris</role>
+		</credit>
+		<credit>
+			<actor>Tonya Bludsworth</actor>
+			<role>Sheriff Tweed</role>
+		</credit>
+		<credit>
+			<actor>Anne Bedian</actor>
+			<role>Dr. Nazir</role>
+		</credit>
+		<credit>
+			<actor>Randell Haynes</actor>
+			<role>Dr. Schiffer</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Woodard</actor>
+			<role>Father Vitali</role>
+		</credit>
+		<credit>
+			<actor>Julianne Taylor</actor>
+			<role>Cara</role>
+		</credit>
+		<credit>
+			<actor>Dave Blamy</actor>
+			<role>Cara's Father</role>
+		</credit>
+		<credit>
+			<actor>Melissa Lozoff</actor>
+			<role>Cara's Mother</role>
+		</credit>
+		<credit>
+			<actor>Bo Keister</actor>
+			<role>Officer John Donato</role>
+		</credit>
+		<credit>
+			<actor>Kevin A. Campbell</actor>
+			<role>Henry Desjardins</role>
+		</credit>
+		<credit>
+			<actor>Lee Spencer</actor>
+			<role>Dr. Kevin Leder</role>
+		</credit>
+		<credit>
+			<actor>Jana Allen</actor>
+			<role>Reporter #1</role>
+		</credit>
+		<credit>
+			<actor>Bruce Florence</actor>
+			<role>Reporter #2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 21 2014</releasedate>
+		<releasedate country="Vietnam">December 12 2014</releasedate>
+		<releasedate country="Netherlands">January 29 2015</releasedate>
+		<releasedate country="Belgium">February 4 2015</releasedate>
+		<releasedate country="Sweden">February 4 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fake documentary</keyword>
+		<keyword>found footage</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>found footage horror</keyword>
+		<keyword>disease</keyword>
+		<keyword>alzheimer's disease</keyword>
+		<keyword>evil</keyword>
+		<keyword>film crew</keyword>
+		<keyword>enigma</keyword>
+		<keyword>anguish</keyword>
+		<keyword>desperation</keyword>
+		<keyword>sinister force</keyword>
+		<keyword>biting</keyword>
+		<keyword>bite</keyword>
+		<keyword>argument</keyword>
+		<keyword>sickness</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>injection</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>closed door</keyword>
+		<keyword>opening a door</keyword>
+		<keyword>mysterious death</keyword>
+		<keyword>investigation</keyword>
+		<keyword>hospital bed</keyword>
+		<keyword>shooting</keyword>
+		<keyword>thesis</keyword>
+		<keyword>crying</keyword>
+		<keyword>cooking</keyword>
+		<keyword>eating</keyword>
+		<keyword>food</keyword>
+		<keyword>internet video</keyword>
+		<keyword>missing person</keyword>
+		<keyword>jacket</keyword>
+		<keyword>internet</keyword>
+		<keyword>switchboard operator</keyword>
+		<keyword>gore</keyword>
+		<keyword>pediatrician</keyword>
+		<keyword>murder</keyword>
+		<keyword>photography</keyword>
+		<keyword>photograph</keyword>
+		<keyword>mysterious man</keyword>
+		<keyword>piano</keyword>
+		<keyword>mysterious noise</keyword>
+		<keyword>distorted voice</keyword>
+		<keyword>computer screen</keyword>
+		<keyword>computer</keyword>
+		<keyword>porch</keyword>
+		<keyword>senile dementia</keyword>
+		<keyword>humming</keyword>
+		<keyword>window</keyword>
+		<keyword>jeans</keyword>
+		<keyword>blouse</keyword>
+		<keyword>x ray</keyword>
+		<keyword>decadence</keyword>
+		<keyword>senility</keyword>
+		<keyword>radiography</keyword>
+		<keyword>murmuring</keyword>
+		<keyword>whispering</keyword>
+		<keyword>medical attention</keyword>
+		<keyword>painting</keyword>
+		<keyword>paint</keyword>
+		<keyword>hospital room</keyword>
+		<keyword>degenerative disease</keyword>
+		<keyword>medicine</keyword>
+		<keyword>medication</keyword>
+		<keyword>medical test</keyword>
+		<keyword>medical diagnosis</keyword>
+		<keyword>diagnosis</keyword>
+		<keyword>medical exam</keyword>
+		<keyword>mysterious behavior</keyword>
+		<keyword>knife</keyword>
+		<keyword>spade</keyword>
+		<keyword>nervous breakdown</keyword>
+		<keyword>nervousness</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>trowel</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>gardening</keyword>
+		<keyword>garden</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>dress</keyword>
+		<keyword>female patient</keyword>
+		<keyword>telephone operator</keyword>
+		<keyword>flashback</keyword>
+		<keyword>confusion</keyword>
+		<keyword>memory</keyword>
+		<keyword>money problems</keyword>
+		<keyword>forest</keyword>
+		<keyword>tree</keyword>
+		<keyword>ladder</keyword>
+		<keyword>talking while driving</keyword>
+		<keyword>staircase</keyword>
+		<keyword>pants</keyword>
+		<keyword>shirt</keyword>
+		<keyword>nightie</keyword>
+		<keyword>staring</keyword>
+		<keyword>surprise</keyword>
+		<keyword>obscurity</keyword>
+		<keyword>darkness</keyword>
+		<keyword>night</keyword>
+		<keyword>panic</keyword>
+		<keyword>fear</keyword>
+		<keyword>car</keyword>
+		<keyword>virginia</keyword>
+		<keyword>university student</keyword>
+		<keyword>female student</keyword>
+		<keyword>medical student</keyword>
+		<keyword>corridor</keyword>
+		<keyword>hallway</keyword>
+		<keyword>mirror</keyword>
+		<keyword>friend</keyword>
+		<keyword>hostility</keyword>
+		<keyword>fury</keyword>
+		<keyword>anger</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>medical doctor</keyword>
+		<keyword>mysterious woman</keyword>
+		<keyword>lesbian daughter</keyword>
+		<keyword>drinking</keyword>
+		<keyword>drink</keyword>
+		<keyword>loss of control</keyword>
+		<keyword>out of control</keyword>
+		<keyword>rampage</keyword>
+		<keyword>widow</keyword>
+		<keyword>troubled past</keyword>
+		<keyword>dark past</keyword>
+		<keyword>dark secret</keyword>
+		<keyword>secret</keyword>
+		<keyword>illness</keyword>
+		<keyword>injury</keyword>
+		<keyword>self injury</keyword>
+		<keyword>violence</keyword>
+		<keyword>digital camera</keyword>
+		<keyword>room</keyword>
+		<keyword>bed</keyword>
+		<keyword>bathroom</keyword>
+		<keyword>living room</keyword>
+		<keyword>home</keyword>
+		<keyword>house</keyword>
+		<keyword>camera operator</keyword>
+		<keyword>cameraman</keyword>
+		<keyword>disturbed person</keyword>
+		<keyword>camera</keyword>
+		<keyword>suffering</keyword>
+		<keyword>confession</keyword>
+		<keyword>healing</keyword>
+		<keyword>recuperation</keyword>
+		<keyword>hospital patient</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>rite</keyword>
+		<keyword>serpent</keyword>
+		<keyword>asp</keyword>
+		<keyword>shovel</keyword>
+		<keyword>hole</keyword>
+		<keyword>cavern</keyword>
+		<keyword>cave</keyword>
+		<keyword>backwoods</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>maniac</keyword>
+		<keyword>dead child</keyword>
+		<keyword>dead girl</keyword>
+		<keyword>corpse</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>nudity</keyword>
+		<keyword>talking to the camera</keyword>
+		<keyword>looking at the camera</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>filmmaker</keyword>
+		<keyword>video camera</keyword>
+		<keyword>old woman</keyword>
+		<keyword>spinal tap</keyword>
+		<keyword>priest</keyword>
+		<keyword>switchboard</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>handheld camera</keyword>
+		<keyword>woods</keyword>
+		<keyword>mine</keyword>
+		<keyword>digging</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>basement</keyword>
+		<keyword>attic</keyword>
+		<keyword>doctor</keyword>
+		<keyword>hospital</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>snake</keyword>
+		<keyword>ritual</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>mockumentary</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>lesbian</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>self destructiveness</keyword>
+		<keyword>cirrhosis of the liver</keyword>
+		<keyword>leukemia</keyword>
+		<keyword>child with leukemia</keyword>
+		<keyword>pulmonary embolism</keyword>
+		<keyword>killer mother</keyword>
+		<keyword>h.p. lovecraft</keyword>
+		<keyword>psychopathic killer</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>policeman</keyword>
+		<keyword>death</keyword>
+		<keyword>worm</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>sack</keyword>
+		<keyword>human remains</keyword>
+		<keyword>question</keyword>
+		<keyword>birthday</keyword>
+		<keyword>burned corpse</keyword>
+		<keyword>fire</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>homicide</keyword>
+		<keyword>memory loss</keyword>
+		<keyword>attempted suicide</keyword>
+		<keyword>suicide attempt</keyword>
+		<keyword>revolver</keyword>
+		<keyword>bloody hand</keyword>
+		<keyword>police car</keyword>
+		<keyword>tv news</keyword>
+		<keyword>television reporter</keyword>
+		<keyword>female reporter</keyword>
+		<keyword>reporter</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>pagan ritual</keyword>
+		<keyword>forces of evil</keyword>
+		<keyword>force of evil</keyword>
+		<keyword>dark force</keyword>
+		<keyword>dark power</keyword>
+		<keyword>evil power</keyword>
+		<keyword>evil force</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>cancer patient</keyword>
+		<keyword>possession</keyword>
+		<keyword>blood</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>telephone</keyword>
+		<keyword>birthday party</keyword>
+		<keyword>burning corpse</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police</keyword>
+		<keyword>gun</keyword>
+	</keywords>
+	<directors>
+		<director> Adam Robitel</director>
+	</directors>
+	<composers>
+		<composer> Haim Mazar</composer>
+	</composers>
+	<producers>
+		<producer> Scott Adler</producer>
+		<producer> René Besson</producer>
+		<producer> Christa Campbell</producer>
+		<producer> Alex Cutler</producer>
+		<producer> Luke Daniels</producer>
+		<producer> Kurt Fethke</producer>
+		<producer> Lati Grobman</producer>
+		<producer> Dana Guerin</producer>
+		<producer> Gavin Heffernan</producer>
+		<producer> Jeff Rice</producer>
+		<producer> Adam Robitel</producer>
+		<producer> Bryan Singer</producer>
+		<producer> Jonathan Stein</producer>
+		<producer> Jason Taylor</producer>
+	</producers>
+	<writers>
+		<writer> Adam Robitel</writer>
+		<writer> Gavin Heffernan</writer>
+	</writers>
+	<editors>
+		<editor> Gavin Heffernan</editor>
+		<editor> Adam Robitel</editor>
+	</editors>
+</doc>

@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<doc id="tt9139220">
+	<docid>tt9139220</docid>
+	<title>Dracula</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjcyMDZlMTktYTIxOC00ZWFhLWJkYzgtNWNiYjAwYTFkNjIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">270</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>In 1897 Transylvania, the blood-drinking Count draws his plans against Victorian London.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Claes Bang</actor>
+			<role>Dracula</role>
+		</credit>
+		<credit>
+			<actor>Dolly Wells</actor>
+			<role>Sister Agatha</role>
+		</credit>
+		<credit>
+			<actor>Morfydd Clark</actor>
+			<role>Mina</role>
+		</credit>
+		<credit>
+			<actor>Lydia West</actor>
+			<role>Lucy</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Aris</actor>
+			<role>Captain Sokolov</role>
+		</credit>
+		<credit>
+			<actor>John Heffernan</actor>
+			<role>Jonathan Harker</role>
+		</credit>
+		<credit>
+			<actor>Matthew Beard</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Sacha Dhawan</actor>
+			<role>Dr Sharma</role>
+		</credit>
+		<credit>
+			<actor>Mark Gatiss</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Joanna Scanlan</actor>
+			<role>Mother Superior</role>
+		</credit>
+		<credit>
+			<actor>Nathan Stewart-Jarrett</actor>
+			<role>Adisa</role>
+		</credit>
+		<credit>
+			<actor>Clive Russell</actor>
+			<role>Valentin</role>
+		</credit>
+		<credit>
+			<actor>Chanel Cresswell</actor>
+			<role>Kathleen</role>
+		</credit>
+		<credit>
+			<actor>Lujza Richter</actor>
+			<role>Elena</role>
+		</credit>
+		<credit>
+			<actor>Lyndsey Marshal</actor>
+			<role>Bloxham</role>
+		</credit>
+		<credit>
+			<actor>Catherine Schell</actor>
+			<role>Duchess Valeria</role>
+		</credit>
+		<credit>
+			<actor>Petra Dubayova</actor>
+			<role>Carriage Girl</role>
+		</credit>
+		<credit>
+			<actor>Youssef Kerkour</actor>
+			<role>Olgaren</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">January 1 2020</releasedate>
+		<releasedate country="Argentina">January 4 2020</releasedate>
+		<releasedate country="Australia">January 4 2020</releasedate>
+		<releasedate country="Brazil">January 4 2020</releasedate>
+		<releasedate country="Canada">January 4 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">7</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">14</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>year 1897</keyword>
+		<keyword>count dracula</keyword>
+		<keyword>inspired by novel</keyword>
+		<keyword>vampire</keyword>
+		<keyword>period drama</keyword>
+		<keyword>classic novel</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>supernatural being</keyword>
+		<keyword>undead</keyword>
+		<keyword>one word title</keyword>
+		<keyword>dracula</keyword>
+		<keyword>nun</keyword>
+		<keyword>19th century</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>drinking blood</keyword>
+		<keyword>romanian nobility</keyword>
+		<keyword>count</keyword>
+		<keyword>reimagining</keyword>
+		<keyword>timeframe 19th century</keyword>
+		<keyword>vampire horror</keyword>
+		<keyword>victorian</keyword>
+		<keyword>gothic</keyword>
+		<keyword>victorian era</keyword>
+		<keyword>1890s</keyword>
+		<keyword>dracula character</keyword>
+		<keyword>bitten by a vampire</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Jonny Campbell</director>
+		<director> Paul McGuigan</director>
+		<director> Damon Thomas</director>
+	</directors>
+	<composers>
+		<composer> David Arnold</composer>
+		<composer> Michael Price</composer>
+	</composers>
+	<producers>
+		<producer> Diana Barton</producer>
+		<producer> Mark Gatiss</producer>
+		<producer> Ben Irving</producer>
+		<producer> Steven Moffat</producer>
+		<producer> Sue Vertue</producer>
+		<producer> Louise Say</producer>
+		<producer> Larry Tanz</producer>
+		<producer> Debbie Vertue</producer>
+	</producers>
+	<writers>
+		<writer> Mark Gatiss</writer>
+		<writer> Mark Gatiss</writer>
+		<writer> Steven Moffat</writer>
+		<writer> Steven Moffat</writer>
+		<writer> Bram Stoker</writer>
+	</writers>
+	<editors>
+		<editor> Colin Fair</editor>
+		<editor> Tom Hemmings</editor>
+		<editor> Paulo Pandolpho</editor>
+	</editors>
+</doc>

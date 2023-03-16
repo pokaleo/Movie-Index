@@ -1,0 +1,774 @@
+<?xml version="1.0" ?>
+<doc id="tt3741700">
+	<docid>tt3741700</docid>
+	<title>Godzilla: King of the Monsters</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">132</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kyle Chandler</actor>
+			<role>Dr. Mark Russell</role>
+		</credit>
+		<credit>
+			<actor>Vera Farmiga</actor>
+			<role>Dr. Emma Russell</role>
+		</credit>
+		<credit>
+			<actor>Millie Bobby Brown</actor>
+			<role>Madison Russell</role>
+		</credit>
+		<credit>
+			<actor>Ken Watanabe</actor>
+			<role>Dr. Ishiro Serizawa</role>
+		</credit>
+		<credit>
+			<actor>Ziyi Zhang</actor>
+			<role>Dr. Ilene Chen</role>
+		</credit>
+		<credit>
+			<actor>Bradley Whitford</actor>
+			<role>Dr. Rick Stanton</role>
+		</credit>
+		<credit>
+			<actor>Sally Hawkins</actor>
+			<role>Dr. Vivienne Graham</role>
+		</credit>
+		<credit>
+			<actor>Charles Dance</actor>
+			<role>Alan Jonah</role>
+		</credit>
+		<credit>
+			<actor>Thomas Middleditch</actor>
+			<role>Sam Coleman</role>
+		</credit>
+		<credit>
+			<actor>Aisha Hinds</actor>
+			<role>Colonel Diane Foster</role>
+		</credit>
+		<credit>
+			<actor>O'Shea Jackson Jr.</actor>
+			<role>Chief Warrant Officer Barnes</role>
+		</credit>
+		<credit>
+			<actor>David Strathairn</actor>
+			<role>Admiral William Stenz</role>
+		</credit>
+		<credit>
+			<actor>Anthony Ramos</actor>
+			<role>Staff Sergeant Martinez</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Faith Ludlow</actor>
+			<role>First Lieutenant Griffin</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Howard</actor>
+			<role>Asher Jonah</role>
+		</credit>
+		<credit>
+			<actor>CCH Pounder</actor>
+			<role>Senator Williams</role>
+		</credit>
+		<credit>
+			<actor>Joe Morton</actor>
+			<role>Dr. Houston Brooks</role>
+		</credit>
+		<credit>
+			<actor>Randy Havens</actor>
+			<role>Dr. Tim Mancini</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Belgium">May 29 2019</releasedate>
+		<releasedate country="Finland">May 29 2019</releasedate>
+		<releasedate country="France">May 29 2019</releasedate>
+		<releasedate country="United Kingdom">May 29 2019</releasedate>
+		<releasedate country="Indonesia">May 29 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Bulgaria">C</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">10</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Malta">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">PG-13</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>monster</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>destruction</keyword>
+		<keyword>showdown</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>monster versus monster</keyword>
+		<keyword>flying monster</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>monsterverse</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>dragon</keyword>
+		<keyword>eco terrorist</keyword>
+		<keyword>eco terrorism</keyword>
+		<keyword>godzilla character</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>godzilla</keyword>
+		<keyword>monster movie</keyword>
+		<keyword>kaiju</keyword>
+		<keyword>sequel</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>titan</keyword>
+		<keyword>animal character name as title</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>scientist</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>2010s</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>ex husband ex wife relationship</keyword>
+		<keyword>flashback</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>helicopter accident</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>fighter pilot</keyword>
+		<keyword>ejection seat</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>creature</keyword>
+		<keyword>chaos</keyword>
+		<keyword>giant</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>giant animal</keyword>
+		<keyword>alien</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>alien monster</keyword>
+		<keyword>giant bird</keyword>
+		<keyword>fire breathing dragon</keyword>
+		<keyword>fire breathing</keyword>
+		<keyword>sea creature</keyword>
+		<keyword>three headed dragon</keyword>
+		<keyword>pteranodon</keyword>
+		<keyword>giant moth</keyword>
+		<keyword>rampage</keyword>
+		<keyword>ambush</keyword>
+		<keyword>massacre</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>battle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>underwater city</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>disaster</keyword>
+		<keyword>news report</keyword>
+		<keyword>fenway park</keyword>
+		<keyword>stadium</keyword>
+		<keyword>experimental technology</keyword>
+		<keyword>sound frequency</keyword>
+		<keyword>boston massachusetts</keyword>
+		<keyword>village</keyword>
+		<keyword>mexico</keyword>
+		<keyword>antarctica</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>bermuda</keyword>
+		<keyword>jungle</keyword>
+		<keyword>rainforest</keyword>
+		<keyword>outpost</keyword>
+		<keyword>snow</keyword>
+		<keyword>blizzard</keyword>
+		<keyword>lightning</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>armored car</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>bunker</keyword>
+		<keyword>product placement</keyword>
+		<keyword>race against time</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>pistol</keyword>
+		<keyword>redemption</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>survival</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>stun gun</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>missile</keyword>
+		<keyword>radio frequency</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>military</keyword>
+		<keyword>soldier</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>special forces</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>commando</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>mission</keyword>
+		<keyword>u.s. navy</keyword>
+		<keyword>secret government organization</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>oil rig</keyword>
+		<keyword>elevator</keyword>
+		<keyword>airship</keyword>
+		<keyword>airplane</keyword>
+		<keyword>bombardment</keyword>
+		<keyword>aerial battle</keyword>
+		<keyword>colonel</keyword>
+		<keyword>admiral</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>heart rate monitor</keyword>
+		<keyword>map</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>high tech</keyword>
+		<keyword>cave</keyword>
+		<keyword>cave drawing</keyword>
+		<keyword>mountain</keyword>
+		<keyword>statue</keyword>
+		<keyword>senator</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>japanese</keyword>
+		<keyword>female scientist</keyword>
+		<keyword>pocket watch</keyword>
+		<keyword>power outage</keyword>
+		<keyword>volcano</keyword>
+		<keyword>pyroclastic flow</keyword>
+		<keyword>flying</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>ice</keyword>
+		<keyword>falling through ice</keyword>
+		<keyword>bridge</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue attempt</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>humanity in peril</keyword>
+		<keyword>american flag</keyword>
+		<keyword>outrunning explosion</keyword>
+		<keyword>crash landing</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>danger</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>camouflage</keyword>
+		<keyword>panic</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>aircraft carrier</keyword>
+		<keyword>submersible</keyword>
+		<keyword>submarine</keyword>
+		<keyword>drone</keyword>
+		<keyword>bomb</keyword>
+		<keyword>detonator</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>maelstrom</keyword>
+		<keyword>vortex</keyword>
+		<keyword>whirlpool</keyword>
+		<keyword>monster fight</keyword>
+		<keyword>nuclear bomb</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>severed head</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>screaming</keyword>
+		<keyword>misanthrope</keyword>
+		<keyword>air vent</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>death of loved one</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>sea</keyword>
+		<keyword>ocean</keyword>
+		<keyword>ecology</keyword>
+		<keyword>environment</keyword>
+		<keyword>environmental damage</keyword>
+		<keyword>mushroom cloud</keyword>
+		<keyword>nuclear explosion</keyword>
+		<keyword>geiger counter</keyword>
+		<keyword>radiation</keyword>
+		<keyword>radioactivity</keyword>
+		<keyword>fire</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>self healing</keyword>
+		<keyword>sonar</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>earthquake</keyword>
+		<keyword>doctor</keyword>
+		<keyword>videoconferencing</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>destroyed city</keyword>
+		<keyword>cocoon</keyword>
+		<keyword>fight</keyword>
+		<keyword>dog</keyword>
+		<keyword>ancient city</keyword>
+		<keyword>force field</keyword>
+		<keyword>tomb</keyword>
+		<keyword>diving suit</keyword>
+		<keyword>twin sister</keyword>
+		<keyword>reference to the three stooges</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>underwater explosion</keyword>
+		<keyword>mutation</keyword>
+		<keyword>transformation</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>human monster</keyword>
+		<keyword>countdown</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>one actress for twin sisters</keyword>
+		<keyword>temple</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>loss of son</keyword>
+		<keyword>reference to big bird</keyword>
+		<keyword>villainess</keyword>
+		<keyword>villain</keyword>
+		<keyword>sea monster</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>washington monument washington d.c.</keyword>
+		<keyword>disaster film</keyword>
+		<keyword>yunnan rainforest</keyword>
+		<keyword>china</keyword>
+		<keyword>pyramid</keyword>
+		<keyword>three headed monster</keyword>
+		<keyword>reference to san francisco california</keyword>
+		<keyword>reference to skull island</keyword>
+		<keyword>colorado</keyword>
+		<keyword>nature photography</keyword>
+		<keyword>giant larva</keyword>
+		<keyword>reference to pandora's box</keyword>
+		<keyword>martial law</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>tv news</keyword>
+		<keyword>reference to the hollow earth theory</keyword>
+		<keyword>giant monsters fighting</keyword>
+		<keyword>city in ruins</keyword>
+		<keyword>year 2014</keyword>
+		<keyword>v 22 osprey</keyword>
+		<keyword>nature photographer</keyword>
+		<keyword>volcanic eruption</keyword>
+		<keyword>fish kill</keyword>
+		<keyword>tactical map</keyword>
+		<keyword>f 18 hornet</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>touchscreen</keyword>
+		<keyword>animal</keyword>
+		<keyword>canine</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>weapon</keyword>
+		<keyword>humvee</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>human versus monster</keyword>
+		<keyword>tablet computer</keyword>
+		<keyword>hummer h1</keyword>
+		<keyword>character credited as self</keyword>
+		<keyword>aircraft pilot</keyword>
+		<keyword>human versus creature</keyword>
+		<keyword>female aircraft pilot</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>nuclear weapon</keyword>
+		<keyword>submersible drone</keyword>
+		<keyword>extraterrestrial monster</keyword>
+		<keyword>warship</keyword>
+		<keyword>head ripped off</keyword>
+		<keyword>firearm</keyword>
+		<keyword>female pilot</keyword>
+		<keyword>gun</keyword>
+		<keyword>naval warship</keyword>
+		<keyword>human versus alien</keyword>
+		<keyword>military submarine</keyword>
+		<keyword>one man submersible</keyword>
+		<keyword>massive explosion</keyword>
+		<keyword>three stooges reference</keyword>
+		<keyword>handgun</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>five word title</keyword>
+		<keyword>semi automatic pistol</keyword>
+		<keyword>hummer motor vehicle</keyword>
+		<keyword>semi automatic weapon</keyword>
+		<keyword>punctuation in title</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>music by bear mccreary</keyword>
+		<keyword>sequel to remake</keyword>
+		<keyword>terror attack</keyword>
+		<keyword>tiltrotor aircraft</keyword>
+		<keyword>male wears eyeglasses</keyword>
+		<keyword>doctor wears eyeglasses</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>girl in jeopardy</keyword>
+		<keyword>cult film</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>altered version of warner bros. logo</keyword>
+		<keyword>altered version of legendary pictures logo</keyword>
+		<keyword>separated parents</keyword>
+		<keyword>husband wife estrangement</keyword>
+		<keyword>reference to king kong</keyword>
+		<keyword>greater good</keyword>
+		<keyword>creature versus creature</keyword>
+		<keyword>frequency</keyword>
+		<keyword>mass destruction</keyword>
+		<keyword>amphibious creature</keyword>
+		<keyword>radioactive monster</keyword>
+		<keyword>nuclear radiation</keyword>
+		<keyword>healing</keyword>
+		<keyword>apex predator</keyword>
+		<keyword>alpha predator</keyword>
+		<keyword>alpha</keyword>
+		<keyword>nemesis</keyword>
+		<keyword>extraterrestrial creature</keyword>
+		<keyword>three headed creature</keyword>
+		<keyword>hydra</keyword>
+		<keyword>ancient mythology</keyword>
+		<keyword>hieroglyphics</keyword>
+		<keyword>cave painting</keyword>
+		<keyword>legend</keyword>
+		<keyword>mythology</keyword>
+		<keyword>underwater tunnel</keyword>
+		<keyword>sunken city</keyword>
+		<keyword>underwater ruins</keyword>
+		<keyword>paramilitary</keyword>
+		<keyword>making breakfast</keyword>
+		<keyword>smoke alarm</keyword>
+		<keyword>prologue</keyword>
+		<keyword>post credits scene</keyword>
+		<keyword>growing a new head</keyword>
+		<keyword>public address system</keyword>
+		<keyword>baseball stadium</keyword>
+		<keyword>fenway park boston</keyword>
+		<keyword>reference to the boston red sox</keyword>
+		<keyword>loss of a child</keyword>
+		<keyword>suicide mission</keyword>
+		<keyword>corporation</keyword>
+		<keyword>u.s. senator</keyword>
+		<keyword>united states senate</keyword>
+		<keyword>senate hearing</keyword>
+		<keyword>device</keyword>
+		<keyword>larva</keyword>
+		<keyword>containment</keyword>
+		<keyword>electrocardiogram</keyword>
+		<keyword>symbiotic relationship</keyword>
+		<keyword>year 2019</keyword>
+		<keyword>acoustics</keyword>
+		<keyword>top secret</keyword>
+		<keyword>secret science facility</keyword>
+		<keyword>oil derrick</keyword>
+		<keyword>arizona</keyword>
+		<keyword>wildlife photographer</keyword>
+		<keyword>view through camera viewfinder</keyword>
+		<keyword>deer carcass</keyword>
+		<keyword>supporting character killed off</keyword>
+		<keyword>death of continuing character</keyword>
+		<keyword>death of recurring character</keyword>
+		<keyword>peril</keyword>
+		<keyword>death of major character</keyword>
+		<keyword>eaten by a monster</keyword>
+		<keyword>ideologue</keyword>
+		<keyword>tropical storm</keyword>
+		<keyword>traitor</keyword>
+		<keyword>awakening</keyword>
+		<keyword>broadcast</keyword>
+		<keyword>encased in ice</keyword>
+		<keyword>frozen in ice</keyword>
+		<keyword>king</keyword>
+		<keyword>code red</keyword>
+		<keyword>glowing</keyword>
+		<keyword>atomic breath</keyword>
+		<keyword>radar</keyword>
+		<keyword>command ship</keyword>
+		<keyword>hollow earth</keyword>
+		<keyword>environmentalist</keyword>
+		<keyword>legendary monster</keyword>
+		<keyword>mass evacuation</keyword>
+		<keyword>jet fighter</keyword>
+		<keyword>ejector seat</keyword>
+		<keyword>fighter squadron</keyword>
+		<keyword>electrical storm</keyword>
+		<keyword>hangar</keyword>
+		<keyword>transport plane</keyword>
+		<keyword>hangar door</keyword>
+		<keyword>prototype weapon</keyword>
+		<keyword>biting someone's head off</keyword>
+		<keyword>shockwave</keyword>
+		<keyword>super weapon</keyword>
+		<keyword>germany</keyword>
+		<keyword>bioluminescence</keyword>
+		<keyword>twin sisters</keyword>
+		<keyword>underground bunker</keyword>
+		<keyword>loudspeaker</keyword>
+		<keyword>invasive species</keyword>
+		<keyword>military commander</keyword>
+		<keyword>intercom</keyword>
+		<keyword>heartbeat</keyword>
+		<keyword>sneaking out</keyword>
+		<keyword>air duct</keyword>
+		<keyword>crawling through an air shaft</keyword>
+		<keyword>u.s. capitol building</keyword>
+		<keyword>evacuation order</keyword>
+		<keyword>air pocket</keyword>
+		<keyword>nuclear torpedo</keyword>
+		<keyword>submarine captain</keyword>
+		<keyword>strafing</keyword>
+		<keyword>nuclear warhead</keyword>
+		<keyword>lava</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>military vehicle</keyword>
+		<keyword>military humvee</keyword>
+		<keyword>breathing lightning</keyword>
+		<keyword>electricity</keyword>
+		<keyword>stinger</keyword>
+		<keyword>insectoid</keyword>
+		<keyword>giant insect</keyword>
+		<keyword>giant lizard</keyword>
+		<keyword>dragon monster</keyword>
+		<keyword>rain</keyword>
+		<keyword>dropped from height</keyword>
+		<keyword>battle to the death</keyword>
+		<keyword>tusk</keyword>
+		<keyword>nature</keyword>
+		<keyword>reforestation</keyword>
+		<keyword>natural order</keyword>
+		<keyword>declassification</keyword>
+		<keyword>environmental restoration</keyword>
+		<keyword>environmental rehabilitation</keyword>
+		<keyword>ecological</keyword>
+		<keyword>internet article</keyword>
+		<keyword>reference to facebook</keyword>
+		<keyword>reference to cbs news</keyword>
+		<keyword>newspaper article</keyword>
+		<keyword>headline montage</keyword>
+		<keyword>website headline</keyword>
+		<keyword>reference to abc news</keyword>
+		<keyword>reference to twitter</keyword>
+		<keyword>social media</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>monster hunter</keyword>
+		<keyword>secret organization</keyword>
+		<keyword>black market</keyword>
+		<keyword>ancient civilization</keyword>
+		<keyword>ancient ruins</keyword>
+		<keyword>female soldier knocked unconscious</keyword>
+		<keyword>woman wears a uniform</keyword>
+		<keyword>white uniform</keyword>
+		<keyword>snow uniform</keyword>
+		<keyword>military uniform</keyword>
+		<keyword>woman wears tactical outfit</keyword>
+		<keyword>woman wears gloves</keyword>
+		<keyword>gloves</keyword>
+		<keyword>furry</keyword>
+		<keyword>epic action</keyword>
+		<keyword>supernatural fantasy</keyword>
+		<keyword>giant monster sci fi</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>underwater</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>convertiplane</keyword>
+		<keyword>woman wears a snow uniform</keyword>
+		<keyword>monarch</keyword>
+		<keyword>oxygen destroyer</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>violence</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>death of child</keyword>
+		<keyword>death of son</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>dinosaur</keyword>
+		<keyword>moth</keyword>
+		<keyword>e mail</keyword>
+		<keyword>photograph</keyword>
+		<keyword>metaphor</keyword>
+		<keyword>little girl</keyword>
+		<keyword>fear</keyword>
+		<keyword>brutality</keyword>
+		<keyword>beard</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>water</keyword>
+		<keyword>technology</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>man versus nature</keyword>
+		<keyword>communications</keyword>
+		<keyword>wolf</keyword>
+		<keyword>crucifix</keyword>
+		<keyword>chase</keyword>
+		<keyword>notebook</keyword>
+		<keyword>hope</keyword>
+		<keyword>beam of light</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>babe scientist</keyword>
+		<keyword>flipping the bird</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>second part</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Dougherty</director>
+	</directors>
+	<composers>
+		<composer> Bear McCreary</composer>
+	</composers>
+	<producers>
+		<producer> Matt Allsopp</producer>
+		<producer> Jay Ashenfelter</producer>
+		<producer> Yoshimitsu Banno</producer>
+		<producer> Shirit Bradley</producer>
+		<producer> Alex Garcia</producer>
+		<producer> Jon Jashni</producer>
+		<producer> Cliff Lanning</producer>
+		<producer> Roy Lee</producer>
+		<producer> Dan Lin</producer>
+		<producer> Hiro Matsuoka</producer>
+		<producer> Ali Mendes</producer>
+		<producer> Richard Mirisch</producer>
+		<producer> Kenji Okuhira</producer>
+		<producer> Maricel Pagulayan</producer>
+		<producer> Mary Parent</producer>
+		<producer> Stacy Perskie</producer>
+		<producer> Brian Rogers</producer>
+		<producer> Zach Shields</producer>
+		<producer> Thomas Tull</producer>
+		<producer> Barry H. Waldman</producer>
+		<producer> Keiji Ôta</producer>
+	</producers>
+	<writers>
+		<writer> Michael Dougherty</writer>
+		<writer> Zach Shields</writer>
+		<writer> Max Borenstein</writer>
+		<writer> Michael Dougherty</writer>
+		<writer> Zach Shields</writer>
+	</writers>
+	<editors>
+		<editor> Roger Barton</editor>
+		<editor> Bob Ducsay</editor>
+		<editor> Richard Pearson</editor>
+	</editors>
+</doc>

@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt1034007">
+	<docid>tt1034007</docid>
+	<title>Alias Grace</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI4OTI1NTkwNV5BMl5BanBnXkFtZTgwMDc0ODc0MzI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">267</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>In 19th-century Canada, a psychiatrist weighs whether a murderess should be pardoned due to insanity.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sarah Gadon</actor>
+			<role>Grace Marks</role>
+		</credit>
+		<credit>
+			<actor>Edward Holcroft</actor>
+			<role>Dr. Simon Jordan</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Liddiard</actor>
+			<role>Mary Whitney</role>
+		</credit>
+		<credit>
+			<actor>Zachary Levi</actor>
+			<role>Jeremiah Pontelli</role>
+		</credit>
+		<credit>
+			<actor>Kerr Logan</actor>
+			<role>James McDermott</role>
+		</credit>
+		<credit>
+			<actor>David Cronenberg</actor>
+			<role>Reverend Verringer</role>
+		</credit>
+		<credit>
+			<actor>Paul Gross</actor>
+			<role>Thomas Kinnear</role>
+		</credit>
+		<credit>
+			<actor>Anna Paquin</actor>
+			<role>Nancy Montgomery</role>
+		</credit>
+		<credit>
+			<actor>Sarah Manninen</actor>
+			<role>Mrs. Humphrey</role>
+		</credit>
+		<credit>
+			<actor>Stephen Joffe</actor>
+			<role>Jamie Walsh</role>
+		</credit>
+		<credit>
+			<actor>John Tench</actor>
+			<role>Keeper #1</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Koensgen</actor>
+			<role>Keeper #2</role>
+		</credit>
+		<credit>
+			<actor>Alice Snaden</actor>
+			<role>Lydia</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Saunders</actor>
+			<role>Mrs. Honey</role>
+		</credit>
+		<credit>
+			<actor>Martha Burns</actor>
+			<role>Mrs. Parkinson</role>
+		</credit>
+		<credit>
+			<actor>Will Bowes</actor>
+			<role>George Parkinson</role>
+		</credit>
+		<credit>
+			<actor>Mag Ruffman</actor>
+			<role>Diane</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Goad</actor>
+			<role>Grace's Father</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">September 12 2017</releasedate>
+		<releasedate country="Canada">September 25 2017</releasedate>
+		<releasedate country="United Arab Emirates">November 3 2017</releasedate>
+		<releasedate country="Argentina">November 3 2017</releasedate>
+		<releasedate country="Australia">November 3 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>19th century</keyword>
+		<keyword>housemaid</keyword>
+		<keyword>triple f rated</keyword>
+		<keyword>irish</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>period drama</keyword>
+		<keyword>timeframe 19th century</keyword>
+		<keyword>docudrama drama</keyword>
+		<keyword>american historical setting</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>1850s</keyword>
+		<keyword>1840s</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Mary Harron</director>
+	</directors>
+	<composers>
+		<composer> Jeff Danna</composer>
+		<composer> Mychael Danna</composer>
+	</composers>
+	<producers>
+		<producer> Margaret Atwood</producer>
+		<producer> Marla Boltman</producer>
+		<producer> D.J. Carson</producer>
+		<producer> Noreen Halpern</producer>
+		<producer> Sarah Polley</producer>
+		<producer> Lori A. Waters</producer>
+		<producer> John Buchan</producer>
+		<producer> Mary Harron</producer>
+	</producers>
+	<writers>
+		<writer> Margaret Atwood</writer>
+		<writer> Sarah Polley</writer>
+		<writer> Sarah Polley</writer>
+	</writers>
+	<editors>
+		<editor> David Wharnsby</editor>
+	</editors>
+</doc>

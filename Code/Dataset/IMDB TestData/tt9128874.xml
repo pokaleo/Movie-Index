@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<doc id="tt9128874">
+	<docid>tt9128874</docid>
+	<title>Van der Valk</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZWJmNDEzZTktYzI1Yi00ODBhLWIwMTYtODlmYzhmMGQxNGMwXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A Dutch detective takes on criminal cases in Amsterdam using insightful human observation and his natural street smarts.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Marc Warren</actor>
+			<role>Piet van der Valk</role>
+		</credit>
+		<credit>
+			<actor>Maimie McCoy</actor>
+			<role>Lucienne Hassell</role>
+		</credit>
+		<credit>
+			<actor>Luke Allen-Gale</actor>
+			<role>Brad de Vries</role>
+		</credit>
+		<credit>
+			<actor>Elliot Barnes-Worrell</actor>
+			<role>Job Cloovers</role>
+		</credit>
+		<credit>
+			<actor>Darrell D'Silva</actor>
+			<role>Hendrik Davie</role>
+		</credit>
+		<credit>
+			<actor>Emma Fielding</actor>
+			<role>Julia Dahlman</role>
+		</credit>
+		<credit>
+			<actor>Mike Libanon</actor>
+			<role>Cliff Palache</role>
+		</credit>
+		<credit>
+			<actor>Peter van Heeringen</actor>
+			<role>Homeless Frank</role>
+		</credit>
+		<credit>
+			<actor>Loes Haverkort</actor>
+			<role>Lena Linderman</role>
+		</credit>
+		<credit>
+			<actor>Eva Marie de Waal</actor>
+			<role>Femke de Haan</role>
+		</credit>
+		<credit>
+			<actor>Mark Rietman</actor>
+			<role>Jan Ludlow</role>
+		</credit>
+		<credit>
+			<actor>Frieda Barnhard</actor>
+			<role>Agatha Vos</role>
+		</credit>
+		<credit>
+			<actor>Christina Cole</actor>
+			<role>Heidi Berlin</role>
+		</credit>
+		<credit>
+			<actor>Taj Atwal</actor>
+			<role>Aamina</role>
+		</credit>
+		<credit>
+			<actor>Frances Grey</actor>
+			<role>Claudia Oosterhuis</role>
+		</credit>
+		<credit>
+			<actor>Julia Akkermans</actor>
+			<role>Angelina Cuyper</role>
+		</credit>
+		<credit>
+			<actor>Robert Boulter</actor>
+			<role>Tonie Alderlink</role>
+		</credit>
+		<credit>
+			<actor>Thomas Acda</actor>
+			<role>Arjan Hersi</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Netherlands">January 1 2020</releasedate>
+		<releasedate country="Finland">January 19 2020</releasedate>
+		<releasedate country="Australia">April 4 2020</releasedate>
+		<releasedate country="United Kingdom">April 26 2020</releasedate>
+		<releasedate country="Germany">June 1 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>netherlands</keyword>
+		<keyword>holland</keyword>
+		<keyword>amsterdam netherlands</keyword>
+		<keyword>police</keyword>
+		<keyword>dutch police</keyword>
+		<keyword>police detective</keyword>
+		<keyword>2010s</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>murder</keyword>
+		<keyword>timeframe 2010s</keyword>
+	</keywords>
+	<directors>
+		<director> Jean van de Velde</director>
+		<director> Max Porcelijn</director>
+		<director> Colin Teague</director>
+		<director> Joram Lürsen</director>
+		<director> André van Duren</director>
+	</directors>
+	<composers>
+		<composer> Matthijs Kieboom</composer>
+	</composers>
+	<producers>
+		<producer> Michele Buck</producer>
+		<producer> Chris Murray</producer>
+		<producer> Sabine Brian</producer>
+		<producer> Sebastian Lückel</producer>
+		<producer> Louise Pedersen</producer>
+		<producer> Tom Sebus</producer>
+		<producer> David Swetman</producer>
+		<producer> Keith Thompson</producer>
+		<producer> Ronald Versteeg</producer>
+		<producer> Rebecca Eaton</producer>
+		<producer> Alexander Blaauw</producer>
+		<producer> Ian Strachan</producer>
+		<producer> Kaja Wolffers</producer>
+		<producer> Steven Berendsen</producer>
+		<producer> Susanne Simpson</producer>
+		<producer> Marc Warren</producer>
+		<producer> Simon Harper</producer>
+		<producer> Pascalle Kleingeld</producer>
+	</producers>
+	<writers>
+		<writer> Chris Murray</writer>
+		<writer> Chris Murray</writer>
+		<writer> Chris Murray</writer>
+		<writer> Chris Murray</writer>
+		<writer> Chris Murray</writer>
+		<writer> Nicolas Freeling</writer>
+		<writer> Nicolas Freeling</writer>
+		<writer> Maria Ward</writer>
+		<writer> Maria Ward</writer>
+	</writers>
+	<editors>
+		<editor> Annelies van Woerden</editor>
+		<editor> Sandor Soeteman</editor>
+		<editor> Peter Alderliesten</editor>
+		<editor> Boelie Vis</editor>
+	</editors>
+</doc>

@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt7908756">
+	<docid>tt7908756</docid>
+	<title>Shining Vale</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTYxY2JkMzctNjZiNi00YTZjLWE1MDUtNWQwMmQwYThlOTg5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">29</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A family moves to a small town into a house in which terrible atrocities have taken place. But nobody seems to notice except for Pat, who's convinced she's either depressed or possessed--turns out, the symptoms are exactly the same.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Courteney Cox</actor>
+			<role>Patricia 'Pat' Phelps</role>
+		</credit>
+		<credit>
+			<actor>Greg Kinnear</actor>
+			<role>Terry Phelps</role>
+		</credit>
+		<credit>
+			<actor>Gus Birney</actor>
+			<role>Gaynor Phelps</role>
+		</credit>
+		<credit>
+			<actor>Merrin Dungey</actor>
+			<role>Kam</role>
+		</credit>
+		<credit>
+			<actor>Dylan Gage</actor>
+			<role>Jake Phelps</role>
+		</credit>
+		<credit>
+			<actor>Mira Sorvino</actor>
+			<role>Rosemary</role>
+		</credit>
+		<credit>
+			<actor>James M. Connor</actor>
+			<role>Dr. Berg</role>
+		</credit>
+		<credit>
+			<actor>Derek Luh</actor>
+			<role>Ryan</role>
+		</credit>
+		<credit>
+			<actor>Alysia Reiner</actor>
+			<role>Kathryn</role>
+		</credit>
+		<credit>
+			<actor>Susan Park</actor>
+			<role>Valerie He</role>
+		</credit>
+		<credit>
+			<actor>Parvesh Cheena</actor>
+			<role>Laird</role>
+		</credit>
+		<credit>
+			<actor>Nina Concepción</actor>
+			<role>Nurse Jenny</role>
+		</credit>
+		<credit>
+			<actor>Sherilyn Fenn</actor>
+			<role>Robyn</role>
+		</credit>
+		<credit>
+			<actor>Ellie Grace Pomeroy</actor>
+			<role>Daisy</role>
+		</credit>
+		<credit>
+			<actor>Rob Morrow</actor>
+			<role>Thom</role>
+		</credit>
+		<credit>
+			<actor>Adam Zastrow</actor>
+			<role>Zeth</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Higginbotham</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Judith Light</actor>
+			<role>Joan</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">March 6 2022</releasedate>
+		<releasedate country="Brazil">March 6 2022</releasedate>
+		<releasedate country="Canada">March 6 2022</releasedate>
+		<releasedate country="Germany">March 6 2022</releasedate>
+		<releasedate country="Spain">March 6 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Italy">VM18</certificate>
+		<certificate country="Netherlands">18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>husband wife relationship</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>depression</keyword>
+		<keyword>depressed woman</keyword>
+		<keyword>haunted house</keyword>
+		<keyword>small town</keyword>
+		<keyword>possessed</keyword>
+		<keyword>fifty something</keyword>
+		<keyword>new home</keyword>
+		<keyword>writer</keyword>
+		<keyword>female writer</keyword>
+		<keyword>taking control of someone's body</keyword>
+	</keywords>
+	<directors>
+		<director> Liz Friedlander</director>
+		<director> Alethea Jones</director>
+		<director> Catriona McKenzie</director>
+		<director> Dearbhla Walsh</director>
+		<director> Mary Lambert</director>
+	</directors>
+	<composers>
+		<composer> Tim Phillips</composer>
+	</composers>
+	<producers>
+		<producer> Carrie Morrow</producer>
+		<producer> Jeff Astrof</producer>
+		<producer> Jill E. Blotevogel</producer>
+		<producer> Courteney Cox</producer>
+		<producer> Dana Honor</producer>
+		<producer> Sharon Horgan</producer>
+		<producer> Aaron Kaplan</producer>
+		<producer> Clelia Mountford</producer>
+		<producer> Erin Maher</producer>
+		<producer> Kay Reindl</producer>
+		<producer> Julieanne Smolinski</producer>
+		<producer> Lindsay Golder</producer>
+		<producer> Dearbhla Walsh</producer>
+		<producer> Marshall Boone</producer>
+		<producer> Tamara Isaac</producer>
+	</producers>
+	<writers>
+		<writer> Jeff Astrof</writer>
+		<writer> Jeff Astrof</writer>
+		<writer> Jeff Astrof</writer>
+		<writer> Jeff Astrof</writer>
+		<writer> Sharon Horgan</writer>
+		<writer> Sharon Horgan</writer>
+		<writer> Jill E. Blotevogel</writer>
+		<writer> Lindsay Golder</writer>
+		<writer> Julieanne Smolinski</writer>
+	</writers>
+	<editors>
+		<editor> Joel Griffen</editor>
+		<editor> Gardner Gould</editor>
+		<editor> Antonia de Barros</editor>
+	</editors>
+</doc>

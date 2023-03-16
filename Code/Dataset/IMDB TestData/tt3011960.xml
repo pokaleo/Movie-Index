@@ -1,0 +1,296 @@
+<?xml version="1.0" ?>
+<doc id="tt3011960">
+	<docid>tt3011960</docid>
+	<title>Hangman</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTUyODA0Njc4Nl5BMl5BanBnXkFtZTgwMTU5MDU5MzI@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>II 2017</year>
+	<runningtimes>
+		<runningtime country="default">98</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A homicide detective brings his partner out of retirement to help catch a serial killer whose crimes are based on the children's game Hangman.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Al Pacino</actor>
+			<role>Ray Archer</role>
+		</credit>
+		<credit>
+			<actor>Karl Urban</actor>
+			<role>Det. Will Ruiney</role>
+		</credit>
+		<credit>
+			<actor>Brittany Snow</actor>
+			<role>Christi Davies</role>
+		</credit>
+		<credit>
+			<actor>Joe Anderson</actor>
+			<role>Hangman</role>
+		</credit>
+		<credit>
+			<actor>Sarah Shahi</actor>
+			<role>Capt. Watson</role>
+		</credit>
+		<credit>
+			<actor>Sloane Warren</actor>
+			<role>Dr. Abby Westlin</role>
+		</credit>
+		<credit>
+			<actor>Chelle Ramos</actor>
+			<role>Joey Truman</role>
+		</credit>
+		<credit>
+			<actor>Steve Coulter</actor>
+			<role>Rev. David Green</role>
+		</credit>
+		<credit>
+			<actor>Michael Rose</actor>
+			<role>Peter Rorick</role>
+		</credit>
+		<credit>
+			<actor>Katelyn Farrugia</actor>
+			<role>Uniformed Officer</role>
+		</credit>
+		<credit>
+			<actor>Edgar Zanabria</actor>
+			<role>Uniformed Officer - Church</role>
+		</credit>
+		<credit>
+			<actor>Matt Mercurio</actor>
+			<role>Uniformed Officer - Tactical</role>
+		</credit>
+		<credit>
+			<actor>Dwayne Boyd</actor>
+			<role>Police Diver</role>
+		</credit>
+		<credit>
+			<actor>Scott Parks</actor>
+			<role>SWAT Member</role>
+		</credit>
+		<credit>
+			<actor>Jermaine Rivers</actor>
+			<role>SWAT Team Leader</role>
+		</credit>
+		<credit>
+			<actor>Garrick Parks</actor>
+			<role>Eric Anderson</role>
+		</credit>
+		<credit>
+			<actor>Patrick Erickson</actor>
+			<role>TV News Anchor #1</role>
+		</credit>
+		<credit>
+			<actor>Kalae Chock</actor>
+			<role>TV News Anchor #2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 24 2017</releasedate>
+		<releasedate country="United States">December 22 2017</releasedate>
+		<releasedate country="Poland">January 5 2018</releasedate>
+		<releasedate country="United Arab Emirates">March 8 2018</releasedate>
+		<releasedate country="Greece">March 8 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Chile">16+</certificate>
+		<certificate country="Czechia">18</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>serial killer</keyword>
+		<keyword>homicide detective</keyword>
+		<keyword>violence</keyword>
+		<keyword>psychopathic killer</keyword>
+		<keyword>revenge</keyword>
+		<keyword>forehead scar</keyword>
+		<keyword>internet</keyword>
+		<keyword>serial killer crime</keyword>
+		<keyword>female captain</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>tough woman</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>handgun</keyword>
+		<keyword>gun</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>caucasian</keyword>
+		<keyword>police detective</keyword>
+		<keyword>retired detective</keyword>
+		<keyword>police captain</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>race against time</keyword>
+		<keyword>pair of killers</keyword>
+		<keyword>one word title</keyword>
+		<keyword>police protagonist</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>car chase</keyword>
+		<keyword>van</keyword>
+		<keyword>police chase</keyword>
+		<keyword>blonde</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>police station</keyword>
+		<keyword>reporter</keyword>
+		<keyword>school</keyword>
+		<keyword>classroom</keyword>
+		<keyword>blackboard</keyword>
+		<keyword>police partner</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>arrest</keyword>
+		<keyword>police interrogation</keyword>
+		<keyword>questioned by police</keyword>
+		<keyword>police report</keyword>
+		<keyword>pistol</keyword>
+		<keyword>semiautomatic pistol</keyword>
+		<keyword>church</keyword>
+		<keyword>priest</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood sample</keyword>
+		<keyword>hanging</keyword>
+		<keyword>hanged woman</keyword>
+		<keyword>pig's head</keyword>
+		<keyword>dead body</keyword>
+		<keyword>interview</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>hangman game</keyword>
+		<keyword>morgue</keyword>
+		<keyword>crossword puzzle</keyword>
+		<keyword>retired cop</keyword>
+		<keyword>retirement</keyword>
+		<keyword>pathologist</keyword>
+		<keyword>police pathologist</keyword>
+		<keyword>classic car</keyword>
+		<keyword>slaughterhouse</keyword>
+		<keyword>killer</keyword>
+		<keyword>meat</keyword>
+		<keyword>meat locker</keyword>
+		<keyword>frozen body</keyword>
+		<keyword>frozen corpse</keyword>
+		<keyword>murder</keyword>
+		<keyword>car in water</keyword>
+		<keyword>forensics</keyword>
+		<keyword>forensic evidence</keyword>
+		<keyword>cell phone photograph</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>flashback</keyword>
+		<keyword>widower</keyword>
+		<keyword>dummy</keyword>
+		<keyword>basement</keyword>
+		<keyword>replica</keyword>
+		<keyword>clue</keyword>
+		<keyword>miniature model</keyword>
+		<keyword>hanged man</keyword>
+		<keyword>train track</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>car hit by a train</keyword>
+		<keyword>timer</keyword>
+		<keyword>train</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>car crash</keyword>
+		<keyword>dirtbike</keyword>
+		<keyword>car motorcycle chase</keyword>
+		<keyword>police uniform</keyword>
+		<keyword>alley</keyword>
+		<keyword>monitor</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>necklace</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>grabbed by the throat</keyword>
+		<keyword>noose</keyword>
+		<keyword>film projector</keyword>
+		<keyword>pendant</keyword>
+		<keyword>ceiling fan</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>note</keyword>
+		<keyword>eviction notice</keyword>
+		<keyword>funeral</keyword>
+		<keyword>little boy</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>graffiti</keyword>
+		<keyword>game</keyword>
+		<keyword>game of death</keyword>
+		<keyword>criminal record</keyword>
+		<keyword>police record</keyword>
+		<keyword>eviction</keyword>
+		<keyword>suicide</keyword>
+		<keyword>scalpel</keyword>
+		<keyword>suicide of father</keyword>
+		<keyword>police funeral</keyword>
+		<keyword>ends with funeral</keyword>
+		<keyword>visiting a grave</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>writing in blood</keyword>
+		<keyword>writing on a wall</keyword>
+		<keyword>live video feed</keyword>
+		<keyword>video camera</keyword>
+		<keyword>stairwell</keyword>
+		<keyword>interrupted hanging</keyword>
+		<keyword>saved from hanging</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>police procedural crime</keyword>
+		<keyword>death of father</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>female reporter</keyword>
+		<keyword>s&amp;m gear</keyword>
+	</keywords>
+	<directors>
+		<director> Johnny Martin</director>
+	</directors>
+	<composers>
+		<composer> Frederik Wiedmann</composer>
+	</composers>
+	<producers>
+		<producer> Shanan Becker</producer>
+		<producer> Bill Bromiley</producer>
+		<producer> Michael Caissie</producer>
+		<producer> Dama Claire</producer>
+		<producer> Rich Cowan</producer>
+		<producer> Lauren Craig</producer>
+		<producer> Phil Hawkins</producer>
+		<producer> Charles Huttinger</producer>
+		<producer> Anne Jordan</producer>
+		<producer> Johnny Martin</producer>
+		<producer> Michael Mendelsohn</producer>
+		<producer> Natalie Perrotta</producer>
+		<producer> Arnold Rifkin</producer>
+		<producer> Jonathan Saba</producer>
+		<producer> Samantha Shephard</producer>
+		<producer> Ernst Etchie Stroh</producer>
+	</producers>
+	<writers>
+		<writer> Michael Caissie</writer>
+		<writer> Charles Huttinger</writer>
+	</writers>
+	<editors>
+		<editor> Greg D'Auria</editor>
+		<editor> Jeffrey Steinkamp</editor>
+	</editors>
+</doc>

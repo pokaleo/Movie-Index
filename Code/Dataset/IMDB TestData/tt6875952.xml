@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<doc id="tt6875952">
+	<docid>tt6875952</docid>
+	<title>Carmen</title>
+	<image/>
+	<year>II 2022</year>
+	<runningtimes>
+		<runningtime country="default">116</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Musical</genre>
+	</genres>
+	<plot>A modern-day reimagining of one of the classical opera 'Carmen'.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Melissa Barrera</actor>
+			<role>Carmen</role>
+		</credit>
+		<credit>
+			<actor>Paul Mescal</actor>
+			<role>Aidan</role>
+		</credit>
+		<credit>
+			<actor>Elsa Pataky</actor>
+			<role>Gabrielle</role>
+		</credit>
+		<credit>
+			<actor>Rossy de Palma</actor>
+			<role>Masilda</role>
+		</credit>
+		<credit>
+			<actor>Nicole da Silva</actor>
+			<role>Julieanne</role>
+		</credit>
+		<credit>
+			<actor>Tara Morice</actor>
+			<role>Marie</role>
+		</credit>
+		<credit>
+			<actor>Richard Brancatisano</actor>
+			<role>Pablo</role>
+		</credit>
+		<credit>
+			<actor>Benedict Hardie</actor>
+			<role>Mike</role>
+		</credit>
+		<credit>
+			<actor>Kaan Guldur</actor>
+			<role>Robertico</role>
+		</credit>
+		<credit>
+			<actor>Nico Cortez</actor>
+			<role>Man With The Hat</role>
+		</credit>
+		<credit>
+			<actor>Pip Edwards</actor>
+			<role>Nancy Ann</role>
+		</credit>
+		<credit>
+			<actor>The D.O.C.</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Corey London</actor>
+			<role>Zayn</role>
+		</credit>
+		<credit>
+			<actor>Ryan Oliver Gelbart</actor>
+			<role>Jimmy</role>
+		</credit>
+		<credit>
+			<actor>Kevin MacIsaac</actor>
+			<role>John</role>
+		</credit>
+		<credit>
+			<actor>Zac Drayson</actor>
+			<role>Military Man #1</role>
+		</credit>
+		<credit>
+			<actor>Morgan Smallbone</actor>
+			<role>Local Police Officer</role>
+		</credit>
+		<credit>
+			<actor>Damien Thomlinson</actor>
+			<role>Jay</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 11 2022</releasedate>
+		<releasedate country="Australia">October 26 2022</releasedate>
+		<releasedate country="United States">March 9 2023</releasedate>
+		<releasedate country="United States">March 25 2023</releasedate>
+		<releasedate country="United States">April 21 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>soldier</keyword>
+		<keyword>based on opera</keyword>
+	</keywords>
+	<directors>
+		<director> Benjamin Millepied</director>
+	</directors>
+	<composers>
+		<composer> Nicholas Britell</composer>
+		<composer> Taura Stinson</composer>
+		<composer> Julieta Venegas</composer>
+	</composers>
+	<producers>
+		<producer> Rosemary Blight</producer>
+		<producer> Kylie Du Fresne</producer>
+		<producer> Helen Estabrook</producer>
+		<producer> Matthew Gledhill</producer>
+		<producer> Ben Grant</producer>
+		<producer> Jonny Kennerley</producer>
+		<producer> David Lancaster</producer>
+		<producer> Matthieu Prada</producer>
+		<producer> Dimitri Rassam</producer>
+		<producer> Mimi Valdes</producer>
+		<producer> Ingrid van Herp</producer>
+		<producer> Stephanie Wilcox</producer>
+	</producers>
+	<writers>
+		<writer> Loïc Barrere</writer>
+		<writer> Alexander Dinelaris</writer>
+		<writer> Lisa Loomer</writer>
+		<writer> Prosper Mérimée</writer>
+	</writers>
+	<editors>
+		<editor> Dany Cooper</editor>
+	</editors>
+</doc>

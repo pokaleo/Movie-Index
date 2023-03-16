@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<doc id="tt3190448">
+	<docid>tt3190448</docid>
+	<title>Metástasis</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzRkZWJhNTMtM2QxMC00MGE2LWEzNTMtMTVjMmQ3ZjUxZTFkXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_QL75_UY281_CR22,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A Colombian remake of the U.S. TV show Breaking Bad. After he is diagnosed with cancer, Walter Blanco teams up with José Miguel Rosas to manufacture and sell crystal meth.</plot>
+	<countries>
+		<country>Colombia</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Diego Trujillo</actor>
+			<role>Walter Blanco</role>
+		</credit>
+		<credit>
+			<actor>Roberto Urbina</actor>
+			<role>José Miguel Rosas</role>
+		</credit>
+		<credit>
+			<actor>Sandra Reyes</actor>
+			<role>Cielo Blanco</role>
+		</credit>
+		<credit>
+			<actor>Constanza Camelo</actor>
+			<role>Mariá Navarro</role>
+		</credit>
+		<credit>
+			<actor>Diego Garzon Flores</actor>
+			<role>Walter Blanco Jr.</role>
+		</credit>
+		<credit>
+			<actor>Julián Arango</actor>
+			<role>Henry Navarro</role>
+		</credit>
+		<credit>
+			<actor>Luis Eduardo Arango</actor>
+			<role>Saul Bueno</role>
+		</credit>
+		<credit>
+			<actor>Julio Pachón</actor>
+			<role>Gómez</role>
+		</credit>
+		<credit>
+			<actor>Manuel Antonio Gómez</actor>
+			<role>Gustavo Cortes</role>
+		</credit>
+		<credit>
+			<actor>Edgardo Román</actor>
+			<role>Mario Arboleda</role>
+		</credit>
+		<credit>
+			<actor>Constanza Hernández</actor>
+			<role>Francisca</role>
+		</credit>
+		<credit>
+			<actor>Sara Beltrán</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Jairo Ordoñez</actor>
+			<role>Tripaseca</role>
+		</credit>
+		<credit>
+			<actor>Juan Carlos Messier</actor>
+			<role>Ernesto Medina</role>
+		</credit>
+		<credit>
+			<actor>Hector Mejia</actor>
+			<role>Mono</role>
+		</credit>
+		<credit>
+			<actor>Mauricio Cujar</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Juan Pablo Rueda</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Jorge Armando Soto</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Colombia">June 8 2014</releasedate>
+		<releasedate country="Poland">June 8 2014</releasedate>
+		<releasedate country="United States">June 8 2014</releasedate>
+		<releasedate country="France">June 12 2014</releasedate>
+		<releasedate country="India">June 12 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="India">UA 13+</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-Y</certificate>
+	</certificates>
+	<keywords>
+		<keyword>remake</keyword>
+		<keyword>colombian remake</keyword>
+		<keyword>colombian remake of american series</keyword>
+		<keyword>remake of american series</keyword>
+		<keyword>foreign language adaptation</keyword>
+		<keyword>based on tv series</keyword>
+		<keyword>remake of american tv series</keyword>
+		<keyword>cancer</keyword>
+	</keywords>
+	<directors>
+		<director> Andrés Baiz</director>
+		<director> Andrés Biermann</director>
+		<director> Juan Pablo Posada</director>
+	</directors>
+	<composers>
+		<composer> Juan Pablo Martínez</composer>
+		<composer> Martha Lucía Miranda</composer>
+		<composer> Dave Porter</composer>
+		<composer> J. Roberts</composer>
+	</composers>
+	<producers>
+		<producer> Sahana Kamath</producer>
+		<producer> Juliana Valdivieso</producer>
+		<producer> Angélica Guerra</producer>
+		<producer> Andrea Marulanda</producer>
+		<producer> Juan Pablo Posada</producer>
+		<producer> Marcela Sierra</producer>
+	</producers>
+	<writers>
+		<writer> Vince Gilligan</writer>
+		<writer> Vince Gilligan</writer>
+		<writer> Lina Maria Arboleda</writer>
+		<writer> Andrés Burgos</writer>
+		<writer> Peter Gould</writer>
+		<writer> Peter Gould</writer>
+		<writer> Patty Lin</writer>
+		<writer> George Mastras</writer>
+		<writer> J. Roberts</writer>
+	</writers>
+	<editors>
+		<editor> Ramiro Otalora</editor>
+		<editor> Edwin Benavides</editor>
+		<editor> Jefferson Flórez</editor>
+		<editor> Jorge Forero</editor>
+		<editor> Harold Londoño</editor>
+		<editor> Fernando Rojas</editor>
+	</editors>
+</doc>

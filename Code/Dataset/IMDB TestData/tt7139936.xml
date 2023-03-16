@@ -1,0 +1,260 @@
+<?xml version="1.0" ?>
+<doc id="tt7139936">
+	<docid>tt7139936</docid>
+	<title>A Rainy Day in New York</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzhkN2IwMWItMTZiOS00MjljLWIxNzktZjE4MWRkMDBkNDE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">92</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A young couple arrives in New York for a weekend where they are met with bad weather and a series of adventures.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Timothée Chalamet</actor>
+			<role>Gatsby</role>
+		</credit>
+		<credit>
+			<actor>Elle Fanning</actor>
+			<role>Ashleigh</role>
+		</credit>
+		<credit>
+			<actor>Liev Schreiber</actor>
+			<role>Roland Pollard</role>
+		</credit>
+		<credit>
+			<actor>Suzanne Smith</actor>
+			<role>Roland's Assistant</role>
+		</credit>
+		<credit>
+			<actor>Olivia Boreham-Wing</actor>
+			<role>Roland's Assistant</role>
+		</credit>
+		<credit>
+			<actor>Ben Warheit</actor>
+			<role>Troller</role>
+		</credit>
+		<credit>
+			<actor>Griffin Newman</actor>
+			<role>Josh</role>
+		</credit>
+		<credit>
+			<actor>Selena Gomez</actor>
+			<role>Chan</role>
+		</credit>
+		<credit>
+			<actor>Gus Birney</actor>
+			<role>Student Film Crew</role>
+		</credit>
+		<credit>
+			<actor>Elijah Boothe</actor>
+			<role>Student Film Crew</role>
+		</credit>
+		<credit>
+			<actor>Will Rogers</actor>
+			<role>Hunter</role>
+		</credit>
+		<credit>
+			<actor>Annaleigh Ashford</actor>
+			<role>Lily</role>
+		</credit>
+		<credit>
+			<actor>Jude Law</actor>
+			<role>Ted Davidoff</role>
+		</credit>
+		<credit>
+			<actor>Frank Marzullo</actor>
+			<role>Screening Room Tech</role>
+		</credit>
+		<credit>
+			<actor>Kirby Mitchell</actor>
+			<role>Bartender</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Hall</actor>
+			<role>Connie</role>
+		</credit>
+		<credit>
+			<actor>Mary Boyer</actor>
+			<role>Aunt Grace</role>
+		</credit>
+		<credit>
+			<actor>Ted Neustadt</actor>
+			<role>Uncle Tyler</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Poland">July 26 2019</releasedate>
+		<releasedate country="Lithuania">August 2 2019</releasedate>
+		<releasedate country="Hong Kong">August 21 2019</releasedate>
+		<releasedate country="Greece">August 22 2019</releasedate>
+		<releasedate country="Netherlands">August 29 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">8</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Greece">K</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>new york city</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>college student</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>hotel</keyword>
+		<keyword>film director</keyword>
+		<keyword>interview</keyword>
+		<keyword>rain</keyword>
+		<keyword>movie screening</keyword>
+		<keyword>taxi</keyword>
+		<keyword>museum</keyword>
+		<keyword>film actor</keyword>
+		<keyword>carriage ride</keyword>
+		<keyword>reference to akira kurosawa</keyword>
+		<keyword>metropolitan museum of art manhattan new york city</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>film shoot</keyword>
+		<keyword>gambler</keyword>
+		<keyword>annoying laugh</keyword>
+		<keyword>place name in title</keyword>
+		<keyword>location in title</keyword>
+		<keyword>city name in title</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>college</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>cigarette holder</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>reference to gone with the wind</keyword>
+		<keyword>reference to grace kelly</keyword>
+		<keyword>kiss</keyword>
+		<keyword>film screening</keyword>
+		<keyword>screening</keyword>
+		<keyword>screening room</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>painting</keyword>
+		<keyword>paparazzi</keyword>
+		<keyword>hiccup</keyword>
+		<keyword>reference to basquiat</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>reference to global warming</keyword>
+		<keyword>reference to robert mitchum</keyword>
+		<keyword>party</keyword>
+		<keyword>poker</keyword>
+		<keyword>money</keyword>
+		<keyword>wine</keyword>
+		<keyword>drinking wine</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>reference to henry james</keyword>
+		<keyword>upstate new york</keyword>
+		<keyword>arizonan stereotype</keyword>
+		<keyword>reference to beowulf</keyword>
+		<keyword>reference to jean renoir</keyword>
+		<keyword>reference to vittorio de sica</keyword>
+		<keyword>student filmmaking</keyword>
+		<keyword>caught in adultery</keyword>
+		<keyword>reference to charlie parker</keyword>
+		<keyword>existential crisis</keyword>
+		<keyword>high society</keyword>
+		<keyword>rich family</keyword>
+		<keyword>split up</keyword>
+		<keyword>film within a film</keyword>
+		<keyword>six word title</keyword>
+		<keyword>woman wears underwear</keyword>
+		<keyword>written by director</keyword>
+		<keyword>reference to hamilton the stage musical</keyword>
+		<keyword>reference to vincent van gogh</keyword>
+		<keyword>reference to virginia woolf</keyword>
+		<keyword>reference to yasser arafat</keyword>
+		<keyword>reference to princeton university</keyword>
+		<keyword>reference to vassar college</keyword>
+		<keyword>reference to tutankhamun</keyword>
+		<keyword>reference to jane greer</keyword>
+		<keyword>tv news</keyword>
+		<keyword>laughter</keyword>
+		<keyword>talking to oneself</keyword>
+		<keyword>reference to james dean</keyword>
+		<keyword>reference to tom adair</keyword>
+		<keyword>reference to jimmy cannon</keyword>
+		<keyword>reference to weegee</keyword>
+		<keyword>reference to mark rothko</keyword>
+		<keyword>reference to hieronymus bosch</keyword>
+		<keyword>reference to irving berlin</keyword>
+		<keyword>reference to mahatma gandhi</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>central park manhattan new york city</keyword>
+		<keyword>city</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>narrator</keyword>
+	</keywords>
+	<directors>
+		<director> Woody Allen</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Erika Aronson</producer>
+		<producer> Letty Aronson</producer>
+		<producer> Ronald L. Chez</producer>
+		<producer> Howard E. Fischer</producer>
+		<producer> Helen Robin</producer>
+		<producer> Adam B. Stern</producer>
+	</producers>
+	<writers>
+		<writer> Woody Allen</writer>
+	</writers>
+	<editors>
+		<editor> Alisa Lepselter</editor>
+	</editors>
+</doc>

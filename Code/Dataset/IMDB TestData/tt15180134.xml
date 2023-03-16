@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<doc id="tt15180134">
+	<docid>tt15180134</docid>
+	<title>Reboot</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTE0Nzc1YzMtZTM5OC00NjkzLWI0MjctNWQzMWUzM2ViMDIyXkEyXkFqcGdeQXVyNjYwMzM1MjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Follows an early 2000s family sitcom that Hulu has rebooted and their dysfunctional cast that must deal with their unresolved issues in today's fast-changing world.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Keegan-Michael Key</actor>
+			<role>Reed Sterling</role>
+		</credit>
+		<credit>
+			<actor>Johnny Knoxville</actor>
+			<role>Clay Barber</role>
+		</credit>
+		<credit>
+			<actor>Rachel Bloom</actor>
+			<role>Hannah</role>
+		</credit>
+		<credit>
+			<actor>Calum Worthy</actor>
+			<role>Zack Jackson</role>
+		</credit>
+		<credit>
+			<actor>Krista Marie Yu</actor>
+			<role>Elaine Kim</role>
+		</credit>
+		<credit>
+			<actor>Judy Greer</actor>
+			<role>Bree Marie Jensen</role>
+		</credit>
+		<credit>
+			<actor>Paul Reiser</actor>
+			<role>Gordon</role>
+		</credit>
+		<credit>
+			<actor>Ryan Dietz</actor>
+			<role>Dennis</role>
+		</credit>
+		<credit>
+			<actor>Lawrence Pressman</actor>
+			<role>Jerry</role>
+		</credit>
+		<credit>
+			<actor>Alyah Chanelle Scott</actor>
+			<role>Timberly</role>
+		</credit>
+		<credit>
+			<actor>Fred Melamed</actor>
+			<role>Alan</role>
+		</credit>
+		<credit>
+			<actor>Rose Abdoo</actor>
+			<role>Selma</role>
+		</credit>
+		<credit>
+			<actor>George Wyner</actor>
+			<role>Bob</role>
+		</credit>
+		<credit>
+			<actor>Kimia Behpoornia</actor>
+			<role>Azmina</role>
+		</credit>
+		<credit>
+			<actor>Korama Danquah</actor>
+			<role>Janae</role>
+		</credit>
+		<credit>
+			<actor>Dan Leahy</actor>
+			<role>Benny</role>
+		</credit>
+		<credit>
+			<actor>Eliza Coupe</actor>
+			<role>Nora</role>
+		</credit>
+		<credit>
+			<actor>Kerri Kenney</actor>
+			<role>Susan</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">September 20 2022</releasedate>
+		<releasedate country="Canada">September 20 2022</releasedate>
+		<releasedate country="Spain">September 20 2022</releasedate>
+		<releasedate country="India">September 20 2022</releasedate>
+		<releasedate country="Mexico">September 20 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sitcom</keyword>
+		<keyword>dysfunctional</keyword>
+		<keyword>laughter</keyword>
+		<keyword>hulu</keyword>
+		<keyword>showbiz comedy</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>lesbian</keyword>
+		<keyword>lgbt</keyword>
+		<keyword>2000s</keyword>
+	</keywords>
+	<directors>
+		<director> Chris Koch</director>
+		<director> Jaffar Mahmood</director>
+		<director> Carrie Brownstein</director>
+		<director> Steven Levitan</director>
+		<director> Beth McCarthy-Miller</director>
+		<director> Viet Nguyen</director>
+	</directors>
+	<composers>
+		<composer> Duncan Blickenstaff</composer>
+	</composers>
+	<producers>
+		<producer> Andrew Brooks</producer>
+		<producer> David Feeney</producer>
+		<producer> Keegan-Michael Key</producer>
+		<producer> Dave King</producer>
+		<producer> Steven Levitan</producer>
+		<producer> Jeff Morton</producer>
+		<producer> Mariel Paniagua</producer>
+		<producer> John Quaintance</producer>
+		<producer> Danielle Stokdyk</producer>
+		<producer> Mnelik Belilgne</producer>
+		<producer> Andrew Gurland</producer>
+		<producer> Morgan Murphy</producer>
+		<producer> Guy Endore-Kaiser</producer>
+		<producer> Elaine Ko</producer>
+		<producer> Sally Bradford</producer>
+		<producer> John Enbom</producer>
+	</producers>
+	<writers>
+		<writer> Caroline Fox</writer>
+		<writer> Caroline Fox</writer>
+		<writer> Josh Levine</writer>
+		<writer> Josh Levine</writer>
+		<writer> Steven Levitan</writer>
+		<writer> Steven Levitan</writer>
+		<writer> Steven Levitan</writer>
+		<writer> Steven Levitan</writer>
+		<writer> Hannah Stoddard</writer>
+		<writer> Jenny Ulmer</writer>
+		<writer> John Enbom</writer>
+		<writer> David Feeney</writer>
+		<writer> Andrew Gurland</writer>
+		<writer> Dave King</writer>
+		<writer> John Quaintance</writer>
+	</writers>
+	<editors>
+		<editor> Keenan Hiett</editor>
+		<editor> Christian Miglio</editor>
+		<editor> Shaheed Qaasim</editor>
+	</editors>
+</doc>

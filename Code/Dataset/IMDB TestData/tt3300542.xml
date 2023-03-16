@@ -1,0 +1,645 @@
+<?xml version="1.0" ?>
+<doc id="tt3300542">
+	<docid>tt3300542</docid>
+	<title>London Has Fallen</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTY1ODY2MTgwM15BMl5BanBnXkFtZTgwOTY3Nzc3NzE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">99</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Gerard Butler</actor>
+			<role>Mike Banning</role>
+		</credit>
+		<credit>
+			<actor>Aaron Eckhart</actor>
+			<role>Benjamin Asher</role>
+		</credit>
+		<credit>
+			<actor>Morgan Freeman</actor>
+			<role>VP Allan Trumbull</role>
+		</credit>
+		<credit>
+			<actor>Angela Bassett</actor>
+			<role>Lynne Jacobs</role>
+		</credit>
+		<credit>
+			<actor>Alon Aboutboul</actor>
+			<role>Aamir Barkawi</role>
+		</credit>
+		<credit>
+			<actor>Waleed Zuaiter</actor>
+			<role>Kamran Barkawi</role>
+		</credit>
+		<credit>
+			<actor>Adel Bencherif</actor>
+			<role>Raza Mansoor</role>
+		</credit>
+		<credit>
+			<actor>Mehdi Dehbi</actor>
+			<role>Sultan Mansoor</role>
+		</credit>
+		<credit>
+			<actor>Shivaani Ghai</actor>
+			<role>Amal Mansoor</role>
+		</credit>
+		<credit>
+			<actor>Martin Petrushev</actor>
+			<role>UAV Reaper Pilot</role>
+		</credit>
+		<credit>
+			<actor>Owen Davis</actor>
+			<role>JSOC Officer</role>
+		</credit>
+		<credit>
+			<actor>Michael Wildman</actor>
+			<role>Agent Voight</role>
+		</credit>
+		<credit>
+			<actor>Radha Mitchell</actor>
+			<role>Leah Banning</role>
+		</credit>
+		<credit>
+			<actor>Lucy Newman-Williams</actor>
+			<role>Aide</role>
+		</credit>
+		<credit>
+			<actor>Julian Kostov</actor>
+			<role>Aide</role>
+		</credit>
+		<credit>
+			<actor>Stacy Shane</actor>
+			<role>Stern Faced Advisor</role>
+		</credit>
+		<credit>
+			<actor>Penny Downie</actor>
+			<role>Home Secretary Rose Kenter</role>
+		</credit>
+		<credit>
+			<actor>Guy Williams</actor>
+			<role>PM Leighton Clarkson</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">February 25 2016</releasedate>
+		<releasedate country="United States">March 1 2016</releasedate>
+		<releasedate country="Belgium">March 2 2016</releasedate>
+		<releasedate country="France">March 2 2016</releasedate>
+		<releasedate country="Philippines">March 2 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Mexico">B-15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>terrorist</keyword>
+		<keyword>patriotism</keyword>
+		<keyword>female agent</keyword>
+		<keyword>american in the uk</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>british politician</keyword>
+		<keyword>president</keyword>
+		<keyword>funeral</keyword>
+		<keyword>vice president</keyword>
+		<keyword>f 18 hornet</keyword>
+		<keyword>u.s. secret service</keyword>
+		<keyword>political thriller</keyword>
+		<keyword>hacker</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>one man army</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>suicide bomber</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>mole</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>sequel</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>male prime minister</keyword>
+		<keyword>french president</keyword>
+		<keyword>exploding vehicle</keyword>
+		<keyword>england</keyword>
+		<keyword>japanese abroad</keyword>
+		<keyword>canadian prime minister</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>police van</keyword>
+		<keyword>presidential helicopter</keyword>
+		<keyword>charing cross station</keyword>
+		<keyword>japanese prime minister</keyword>
+		<keyword>canadian abroad</keyword>
+		<keyword>firearm</keyword>
+		<keyword>van</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>state funeral</keyword>
+		<keyword>italian prime minister</keyword>
+		<keyword>generator</keyword>
+		<keyword>suv</keyword>
+		<keyword>italian abroad</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>handgun</keyword>
+		<keyword>crashing helicopter</keyword>
+		<keyword>charing cross station london</keyword>
+		<keyword>frenchman abroad</keyword>
+		<keyword>armoured suv</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>villain</keyword>
+		<keyword>male terrorist</keyword>
+		<keyword>panel van</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>place name in title</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>flower</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>st. paul's cathedral london</keyword>
+		<keyword>final battle</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>letter of resignation</keyword>
+		<keyword>political leader</keyword>
+		<keyword>canadian flag lapel pin</keyword>
+		<keyword>us terrorist plot</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>sport utility vehicle</keyword>
+		<keyword>chief of staff</keyword>
+		<keyword>american in england</keyword>
+		<keyword>weapon</keyword>
+		<keyword>american man in england</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>three word title</keyword>
+		<keyword>african american vice president of the united states of america</keyword>
+		<keyword>armoured vehicle</keyword>
+		<keyword>gun</keyword>
+		<keyword>audio communication</keyword>
+		<keyword>aircraft cabin</keyword>
+		<keyword>vice president of the united states of america</keyword>
+		<keyword>female german chancellor</keyword>
+		<keyword>watercraft</keyword>
+		<keyword>airplane</keyword>
+		<keyword>bald man</keyword>
+		<keyword>jeep</keyword>
+		<keyword>europe</keyword>
+		<keyword>woman shot</keyword>
+		<keyword>satellite phone</keyword>
+		<keyword>american man abroad</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>armoured limousine</keyword>
+		<keyword>jet aeroplane</keyword>
+		<keyword>massive explosion</keyword>
+		<keyword>speeding suv</keyword>
+		<keyword>driving high speed in reverse</keyword>
+		<keyword>missile attack</keyword>
+		<keyword>view in sideview mirror</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>passenger compartment</keyword>
+		<keyword>night</keyword>
+		<keyword>car</keyword>
+		<keyword>speeding vehicle</keyword>
+		<keyword>flare countermeasure</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>uniformed police officer</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>presidential limousine</keyword>
+		<keyword>radio communication</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>bmw motor vehicle</keyword>
+		<keyword>central london</keyword>
+		<keyword>german chancellor</keyword>
+		<keyword>satellite telephone</keyword>
+		<keyword>child</keyword>
+		<keyword>marine one helicopter</keyword>
+		<keyword>surface to air attack</keyword>
+		<keyword>man uses a wheelchair</keyword>
+		<keyword>emergency response vehicle</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>murder of a man</keyword>
+		<keyword>shooting a man</keyword>
+		<keyword>male president of the united states of america</keyword>
+		<keyword>pickup truck on fire</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>secret service</keyword>
+		<keyword>british</keyword>
+		<keyword>traitor</keyword>
+		<keyword>prime minister</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>general</keyword>
+		<keyword>drone</keyword>
+		<keyword>revenge</keyword>
+		<keyword>drone attack</keyword>
+		<keyword>rocket propelled grenade</keyword>
+		<keyword>abduction</keyword>
+		<keyword>gauntlet</keyword>
+		<keyword>stabbed with own knife</keyword>
+		<keyword>stabbed multiple times</keyword>
+		<keyword>poisoned</keyword>
+		<keyword>helicopter shot down</keyword>
+		<keyword>bridge demolition</keyword>
+		<keyword>tear on cheek</keyword>
+		<keyword>chaff ejection</keyword>
+		<keyword>stinger missile</keyword>
+		<keyword>surface to air missile</keyword>
+		<keyword>trap</keyword>
+		<keyword>double amputee</keyword>
+		<keyword>driving in reverse</keyword>
+		<keyword>two on a motorcycle</keyword>
+		<keyword>front wheelie</keyword>
+		<keyword>milkor mgl 140 grenade launcher</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>barge</keyword>
+		<keyword>building explosion</keyword>
+		<keyword>firefight</keyword>
+		<keyword>japanese flag lapel pin</keyword>
+		<keyword>infiltrator</keyword>
+		<keyword>chauffeured limousine</keyword>
+		<keyword>marine one</keyword>
+		<keyword>uh 1 huey helicopter</keyword>
+		<keyword>uh 60 blackhawk helicopter</keyword>
+		<keyword>godmother</keyword>
+		<keyword>pregnant first lady</keyword>
+		<keyword>running backwards</keyword>
+		<keyword>french flag</keyword>
+		<keyword>reference to the dallas cowboy cheerleaders</keyword>
+		<keyword>reference to the kardashians</keyword>
+		<keyword>md helicopters md 900 explorer</keyword>
+		<keyword>aerial surveillance</keyword>
+		<keyword>punjas province pakistan</keyword>
+		<keyword>assassin</keyword>
+		<keyword>politics</keyword>
+		<keyword>falling through a rooftop window</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>reference to youtube</keyword>
+		<keyword>stabbed in the side</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>motorcycle crash</keyword>
+		<keyword>falling down an elevator shaft</keyword>
+		<keyword>building collapse</keyword>
+		<keyword>london bridge</keyword>
+		<keyword>metal detector</keyword>
+		<keyword>embassy</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>police station</keyword>
+		<keyword>newscaster</keyword>
+		<keyword>extremism</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>product placement</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>wanted poster</keyword>
+		<keyword>air raid siren</keyword>
+		<keyword>friendship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>baby</keyword>
+		<keyword>abandoned train</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>exploding boat</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>explosion</keyword>
+		<keyword>boat</keyword>
+		<keyword>one against many</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>action hero</keyword>
+		<keyword>mass death</keyword>
+		<keyword>mass murder</keyword>
+		<keyword>panic</keyword>
+		<keyword>bridge collapse</keyword>
+		<keyword>destruction</keyword>
+		<keyword>race against time</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>commando</keyword>
+		<keyword>military</keyword>
+		<keyword>thrown through a windshield</keyword>
+		<keyword>night vision binoculars</keyword>
+		<keyword>night vision</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>police car</keyword>
+		<keyword>traffic jam</keyword>
+		<keyword>armory</keyword>
+		<keyword>map</keyword>
+		<keyword>scottish accent</keyword>
+		<keyword>morse code</keyword>
+		<keyword>armored car</keyword>
+		<keyword>special forces</keyword>
+		<keyword>sas</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>shot through a wall</keyword>
+		<keyword>shot through a door</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>ambush</keyword>
+		<keyword>shot through the floor</keyword>
+		<keyword>henchman</keyword>
+		<keyword>falling through the floor</keyword>
+		<keyword>buckingham palace</keyword>
+		<keyword>infiltration</keyword>
+		<keyword>revelation</keyword>
+		<keyword>subway</keyword>
+		<keyword>amputee</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>jogging</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>apartment</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>security camera</keyword>
+		<keyword>outrunning explosion</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>desert</keyword>
+		<keyword>nevada</keyword>
+		<keyword>news report</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>scotland yard</keyword>
+		<keyword>swat team</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>british secret service</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>rogue agent</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>power outage</keyword>
+		<keyword>suicide</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>flare</keyword>
+		<keyword>bunker</keyword>
+		<keyword>limousine</keyword>
+		<keyword>air force one</keyword>
+		<keyword>airport</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>car motorcycle chase</keyword>
+		<keyword>car chase</keyword>
+		<keyword>impalement</keyword>
+		<keyword>machete</keyword>
+		<keyword>car bomb</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>fire</keyword>
+		<keyword>smoke grenade</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>car crash</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>missile</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>tower bridge london</keyword>
+		<keyword>london eye</keyword>
+		<keyword>trafalgar square london</keyword>
+		<keyword>piccadilly circus london</keyword>
+		<keyword>westminster abbey</keyword>
+		<keyword>big ben london</keyword>
+		<keyword>tokyo japan</keyword>
+		<keyword>times square manhattan new york city</keyword>
+		<keyword>yemen</keyword>
+		<keyword>construction site</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>motorcade</keyword>
+		<keyword>soldier</keyword>
+		<keyword>spy</keyword>
+		<keyword>police inspector</keyword>
+		<keyword>speaker of the house</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>nsa</keyword>
+		<keyword>satellite</keyword>
+		<keyword>frenchman</keyword>
+		<keyword>canadian</keyword>
+		<keyword>politician</keyword>
+		<keyword>assassination plot</keyword>
+		<keyword>assassination</keyword>
+		<keyword>chancellor</keyword>
+		<keyword>german</keyword>
+		<keyword>japanese</keyword>
+		<keyword>italian</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>mistress</keyword>
+		<keyword>american flag</keyword>
+		<keyword>prologue</keyword>
+		<keyword>wedding</keyword>
+		<keyword>innocent person killed</keyword>
+		<keyword>escape</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>gore</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>f word</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>brawl</keyword>
+		<keyword>murder</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>battle</keyword>
+		<keyword>corpse</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>ex special forces</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>m 6</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>u.s. vice president</keyword>
+		<keyword>rescue</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>london underground</keyword>
+		<keyword>impersonating a police officer</keyword>
+		<keyword>head of state</keyword>
+		<keyword>bomb</keyword>
+		<keyword>london metropolitan police</keyword>
+		<keyword>safe house</keyword>
+		<keyword>mi6</keyword>
+		<keyword>retaliation</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>treason</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>political assassination</keyword>
+		<keyword>terror attack</keyword>
+		<keyword>pakistan</keyword>
+		<keyword>drone strike</keyword>
+		<keyword>church</keyword>
+		<keyword>long take</keyword>
+		<keyword>shootout</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>second part</keyword>
+		<keyword>secret service agent</keyword>
+		<keyword>city name in title</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>london england</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>death of child</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>guerilla warfare</keyword>
+		<keyword>british army</keyword>
+		<keyword>massacre</keyword>
+		<keyword>torture</keyword>
+		<keyword>anti arab</keyword>
+		<keyword>brutality</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>machismo</keyword>
+	</keywords>
+	<directors>
+		<director> Babak Najafi</director>
+	</directors>
+	<composers>
+		<composer> Trevor Morris</composer>
+	</composers>
+	<producers>
+		<producer> Guy Avshalom</producer>
+		<producer> Gerard Butler</producer>
+		<producer> Boaz Davidson</producer>
+		<producer> Valentin Dimitrov</producer>
+		<producer> Mark Gill</producer>
+		<producer> Peter Heslop</producer>
+		<producer> Zygi Kamasa</producer>
+		<producer> Veselin Karadjov</producer>
+		<producer> Daniel Kaslow</producer>
+		<producer> Avi Lerner</producer>
+		<producer> Heidi Jo Markel</producer>
+		<producer> Matthew O'Toole</producer>
+		<producer> Christine Otal</producer>
+		<producer> Lonnie Ramati</producer>
+		<producer> Danielle Robinson</producer>
+		<producer> Trevor Short</producer>
+		<producer> Alan Siegel</producer>
+		<producer> Dileep Singh Rathore</producer>
+		<producer> John Thompson</producer>
+		<producer> Les Weldon</producer>
+	</producers>
+	<writers>
+		<writer> Creighton Rothenberger</writer>
+		<writer> Katrin Benedikt</writer>
+		<writer> Creighton Rothenberger</writer>
+		<writer> Katrin Benedikt</writer>
+		<writer> Creighton Rothenberger</writer>
+		<writer> Katrin Benedikt</writer>
+		<writer> Christian Gudegast</writer>
+		<writer> Chad St. John</writer>
+		<writer> Seth M. Sherwood</writer>
+	</writers>
+	<editors>
+		<editor> Michael J. Duthie</editor>
+		<editor> Paul Martin Smith</editor>
+	</editors>
+</doc>

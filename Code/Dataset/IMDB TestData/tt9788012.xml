@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<doc id="tt9788012">
+	<docid>tt9788012</docid>
+	<title>Traces</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDYwN2MyZDAtNmRkNy00MTJiLWE3MDItNmMwYWZmY2Y5MzEwXkEyXkFqcGdeQXVyMTE1MTYxMzk2._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>While attending an online forensic course, young lab assistant discovers that the fictitious case study has a link to her past. With the help of two female professors she works on bringing a killer to justice.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Laura Fraser</actor>
+			<role>Prof. Sarah Gordon</role>
+		</credit>
+		<credit>
+			<actor>Michael Nardone</actor>
+			<role>DCI Neil McKinven</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Spence</actor>
+			<role>Kathy Torrance</role>
+		</credit>
+		<credit>
+			<actor>Andrea Hart</actor>
+			<role>Janine Muir</role>
+		</credit>
+		<credit>
+			<actor>Molly Windsor</actor>
+			<role>Emma Hedges</role>
+		</credit>
+		<credit>
+			<actor>Anna Leong Brophy</actor>
+			<role>Louise Chiu Jones</role>
+		</credit>
+		<credit>
+			<actor>Peter Forbes</actor>
+			<role>Superintendent Gavin Blair</role>
+		</credit>
+		<credit>
+			<actor>Martin Compston</actor>
+			<role>Daniel MacAfee</role>
+		</credit>
+		<credit>
+			<actor>Carly Anderson</actor>
+			<role>Marie Monroe</role>
+		</credit>
+		<credit>
+			<actor>Jack Tarlton</actor>
+			<role>Fiscal John</role>
+		</credit>
+		<credit>
+			<actor>Morayo Akandé</actor>
+			<role>DC Trina Adebayo</role>
+		</credit>
+		<credit>
+			<actor>Vincent Regan</actor>
+			<role>Phil MacAfee</role>
+		</credit>
+		<credit>
+			<actor>Joana Borja</actor>
+			<role>Pia Salvador</role>
+		</credit>
+		<credit>
+			<actor>John Gordon Sinclair</actor>
+			<role>Drew Cubbin</role>
+		</credit>
+		<credit>
+			<actor>Laurie Brett</actor>
+			<role>Izzy Alessi</role>
+		</credit>
+		<credit>
+			<actor>Ro Kumar</actor>
+			<role>DS Safi Khurana</role>
+		</credit>
+		<credit>
+			<actor>Krysten Peck</actor>
+			<role>Erika</role>
+		</credit>
+		<credit>
+			<actor>Laila Rouass</actor>
+			<role>Azra McKinven</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">2019</releasedate>
+		<releasedate country="United States">December 7 2019</releasedate>
+		<releasedate country="Canada">December 9 2019</releasedate>
+		<releasedate country="France">December 9 2019</releasedate>
+		<releasedate country="United Kingdom">December 9 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dundee scotland</keyword>
+		<keyword>lab assistant</keyword>
+		<keyword>professor</keyword>
+		<keyword>case study</keyword>
+		<keyword>one word title</keyword>
+		<keyword>lesbian relationship</keyword>
+		<keyword>scotland</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>electronic music score</keyword>
+	</keywords>
+	<directors>
+		<director> Mary Nighy</director>
+		<director> Rebecca Gatward</director>
+		<director> Chris Foggin</director>
+	</directors>
+	<composers>
+		<composer> Jack Halama</composer>
+	</composers>
+	<producers>
+		<producer> Juliet Charlesworth</producer>
+		<producer> Philippa Collie Cousins</producer>
+		<producer> Michaela Fereday</producer>
+		<producer> Rachel Jones</producer>
+		<producer> Liam Keelan</producer>
+		<producer> Val McDermid</producer>
+		<producer> Martin Rakusen</producer>
+		<producer> Nicola Shindler</producer>
+		<producer> Andy Kitching</producer>
+		<producer> Jane Wallbank</producer>
+		<producer> Jon Nunn</producer>
+	</producers>
+	<writers>
+		<writer> Amelia Bullmore</writer>
+		<writer> Amelia Bullmore</writer>
+		<writer> Val McDermid</writer>
+		<writer> Jess Williams</writer>
+	</writers>
+	<editors>
+		<editor> Johannes Bock</editor>
+		<editor> Catherine Creed</editor>
+		<editor> John Blackwell</editor>
+		<editor> David Thrasher</editor>
+	</editors>
+</doc>

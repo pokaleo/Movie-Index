@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<doc id="tt9174578">
+	<docid>tt9174578</docid>
+	<title>Around the World in 80 Days</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2IwZmFkN2ItYTQ4Yy00ZGMwLTllOTEtNjk5YmU3OWE5MmQxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>Gentleman adventurer Phileas Fogg sets out on a quest to travel around the world and back home in a period of 80 days.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>David Tennant</actor>
+			<role>Phileas Fogg</role>
+		</credit>
+		<credit>
+			<actor>Ibrahim Koma</actor>
+			<role>Passepartout</role>
+		</credit>
+		<credit>
+			<actor>Leonie Benesch</actor>
+			<role>Abigail 'Fix' Fortescue</role>
+		</credit>
+		<credit>
+			<actor>Jason Watkins</actor>
+			<role>Bernard Fortescue</role>
+		</credit>
+		<credit>
+			<actor>Peter Sullivan</actor>
+			<role>Nyle Bellamy</role>
+		</credit>
+		<credit>
+			<actor>Leon Clingman</actor>
+			<role>Roberts</role>
+		</credit>
+		<credit>
+			<actor>Anthony Flanagan</actor>
+			<role>Thomas Kneedling</role>
+		</credit>
+		<credit>
+			<actor>David Sherwood</actor>
+			<role>Samuel Fallentin</role>
+		</credit>
+		<credit>
+			<actor>Reza Diako</actor>
+			<role>New York Times Journalist #1</role>
+		</credit>
+		<credit>
+			<actor>Jeff Rawle</actor>
+			<role>Bank Manager Hughes</role>
+		</credit>
+		<credit>
+			<actor>Richard Wilson</actor>
+			<role>Grayson</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Ellenbogen</actor>
+			<role>Blount</role>
+		</credit>
+		<credit>
+			<actor>Robert Marshall</actor>
+			<role>New York Times Journalist #2</role>
+		</credit>
+		<credit>
+			<actor>Victoria Smurfit</actor>
+			<role>Lady Clemency Rowbotham</role>
+		</credit>
+		<credit>
+			<actor>Dolly Wells</actor>
+			<role>Estella</role>
+		</credit>
+		<credit>
+			<actor>Lindsay Duncan</actor>
+			<role>Jane Digby</role>
+		</credit>
+		<credit>
+			<actor>Gary Beadle</actor>
+			<role>Bass Reeves</role>
+		</credit>
+		<credit>
+			<actor>Loic Djani</actor>
+			<role>Gérard</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">October 10 2021</releasedate>
+		<releasedate country="Belgium">December 5 2021</releasedate>
+		<releasedate country="Germany">December 11 2021</releasedate>
+		<releasedate country="France">December 20 2021</releasedate>
+		<releasedate country="Germany">December 21 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="Spain">TP</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="United Arab Emirates">FAM</certificate>
+	</certificates>
+	<keywords>
+		<keyword>butler</keyword>
+		<keyword>brit abroad</keyword>
+		<keyword>gentleman</keyword>
+		<keyword>man servant</keyword>
+		<keyword>gentleman's gentleman</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>female newspaper reporter</keyword>
+		<keyword>timeframe 19th century</keyword>
+		<keyword>bet</keyword>
+		<keyword>year 1872</keyword>
+		<keyword>valet</keyword>
+		<keyword>reference to the daily telegraph the newspaper</keyword>
+		<keyword>trip around the world</keyword>
+		<keyword>around the world</keyword>
+		<keyword>black man</keyword>
+		<keyword>afro french</keyword>
+		<keyword>former thief</keyword>
+		<keyword>english gentleman</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>globetrotting adventure</keyword>
+		<keyword>victorian era</keyword>
+		<keyword>1870s</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Steve Barron</director>
+		<director> Brian Kelly</director>
+		<director> Charles Beeson</director>
+	</directors>
+	<composers>
+		<composer> Christian Lundberg</composer>
+	</composers>
+	<producers>
+		<producer> Christophe Louis</producer>
+		<producer> Steve Barron</producer>
+		<producer> Cristian Bostanescu</producer>
+		<producer> Pascal Breton</producer>
+		<producer> Victoria Brown</producer>
+		<producer> Simon Crawford-Collins</producer>
+		<producer> Jayson de Rosner</producer>
+		<producer> Anne Leduc</producer>
+		<producer> Matteo Martone</producer>
+		<producer> Peter McAleese</producer>
+		<producer> Maijang Mpherwane</producer>
+		<producer> Ashley Pharoah</producer>
+		<producer> Maik Platzen</producer>
+		<producer> Andreana Saint Armour</producer>
+		<producer> Winnie Serite</producer>
+		<producer> Frank Seyberth</producer>
+		<producer> Susanne Simpson</producer>
+		<producer> Emma Tame</producer>
+		<producer> David Tennant</producer>
+		<producer> Lionel Uzan</producer>
+		<producer> Rudi Van As</producer>
+		<producer> David Wicht</producer>
+		<producer> Michele Zatta</producer>
+	</producers>
+	<writers>
+		<writer> Ashley Pharoah</writer>
+		<writer> Ashley Pharoah</writer>
+		<writer> Caleb Ranson</writer>
+		<writer> Caleb Ranson</writer>
+		<writer> Caleb Ranson</writer>
+		<writer> Jules Verne</writer>
+		<writer> Claire Downes</writer>
+		<writer> Stephen Greenhorn</writer>
+		<writer> Ian Jarvis</writer>
+		<writer> Stuart Lane</writer>
+		<writer> Peter McKenna</writer>
+		<writer> Debbie O'Malley</writer>
+		<writer> Jessica Ruston</writer>
+	</writers>
+	<editors>
+		<editor> Walter Mauriot</editor>
+		<editor> Olivier Gajan</editor>
+		<editor> Jean-François Elie</editor>
+		<editor> Yann Malcor</editor>
+		<editor> Amélie Massoutier</editor>
+		<editor> Anita Roth</editor>
+	</editors>
+</doc>

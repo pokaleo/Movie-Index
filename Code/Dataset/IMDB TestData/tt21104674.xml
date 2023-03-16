@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<doc id="tt21104674">
+	<docid>tt21104674</docid>
+	<title>Legacy Peak</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzk1MjU3YmQtZTM2ZC00NTJmLThhNmUtN2FiYWFkZjEwZmNmXkEyXkFqcGdeQXVyNzgwNTI3Njc@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>Jason is on an adventure to win the hearts of Noelle's kids before they marry.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lucas Black</actor>
+			<role>Jason</role>
+		</credit>
+		<credit>
+			<actor>Kyleigh Bakker</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Roman Engel</actor>
+			<role>Ben</role>
+		</credit>
+		<credit>
+			<actor>Ina Barrón</actor>
+			<role>Noelle</role>
+		</credit>
+		<credit>
+			<actor>Todd Terry</actor>
+			<role>Grandpa</role>
+		</credit>
+		<credit>
+			<actor>Daniel Stibral</actor>
+			<role>Clerk</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 22 2022</releasedate>
+		<releasedate country="United Arab Emirates">February 13 2023</releasedate>
+		<releasedate country="Singapore">February 13 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="United Arab Emirates">Not Rated</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Aaron Burns</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Aaron Burns</producer>
+		<producer> Tracey Burns</producer>
+		<producer> David C. Cook</producer>
+		<producer> Eric Ludy</producer>
+	</producers>
+	<writers>
+		<writer> Aaron Burns</writer>
+		<writer> Matt Mikalatos</writer>
+		<writer> Matt Mikalatos</writer>
+	</writers>
+	<editors>
+		<editor> Mike Wech</editor>
+	</editors>
+</doc>

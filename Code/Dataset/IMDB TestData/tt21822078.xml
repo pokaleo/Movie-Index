@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<doc id="tt21822078">
+	<docid>tt21822078</docid>
+	<title>The Mole</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTdlZTliMGYtMzYxZS00ZGMxLWEyYTEtN2Q5ODhkODY3MGNlXkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Game-Show</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>It follows twelve players as they work together in challenges to add money to a pot that only one of them will win.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Alex Wagner</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>William James Richardson</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Joi Schweitzer</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Kesi Neblett</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Avori Henderson</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Jacob Hacker</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Greg Shapiro</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Casey Lary</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Pranav Patel</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Sandy Ronquillo</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Dom Gabriel</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Samara Joy</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Osei White</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">October 7 2022</releasedate>
+		<releasedate country="Argentina">October 7 2022</releasedate>
+		<releasedate country="Australia">October 7 2022</releasedate>
+		<releasedate country="Brazil">October 7 2022</releasedate>
+		<releasedate country="Canada">October 7 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Egypt">13+</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">13+</certificate>
+		<certificate country="India">UA 13+</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>puzzle game show</keyword>
+		<keyword>deception game show</keyword>
+		<keyword>reboot</keyword>
+		<keyword>challenge</keyword>
+		<keyword>competition</keyword>
+	</keywords>
+	<directors/>
+	<composers/>
+	<producers>
+		<producer> Wesley Dening</producer>
+		<producer> David Emery</producer>
+		<producer> David Burris</producer>
+		<producer> Chris Culvenor</producer>
+		<producer> Paul Franklin</producer>
+		<producer> Rikkie Proost</producer>
+		<producer> David Tibballs</producer>
+	</producers>
+	<writers>
+		<writer> Bart De Pauw</writer>
+		<writer> Michiel Devlieger</writer>
+		<writer> Tom Lenaerts</writer>
+		<writer> Michel Vanhove</writer>
+	</writers>
+	<editors>
+		<editor> Benjamin Hargrave</editor>
+		<editor> Samantha Shepherd</editor>
+		<editor> Oliver Cowley</editor>
+		<editor> Rick Weis</editor>
+	</editors>
+</doc>

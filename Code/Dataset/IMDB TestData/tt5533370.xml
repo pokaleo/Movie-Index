@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<doc id="tt5533370">
+	<docid>tt5533370</docid>
+	<title>Lamborghini</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjBkMTRkMWQtNzAwYS00MmE2LWI5YzktNDU5OGY2NjIzMzNjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>Sport</genre>
+	</genres>
+	<plot>The life story of Ferruccio Lamborghini, the founder of Lamborghini.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Frank Grillo</actor>
+			<role>Ferruccio Lamborghini</role>
+		</credit>
+		<credit>
+			<actor>Mira Sorvino</actor>
+			<role>Annita</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Byrne</actor>
+			<role>Enzo Ferrari</role>
+		</credit>
+		<credit>
+			<actor>Eliana Jones</actor>
+			<role>Billie Alland</role>
+		</credit>
+		<credit>
+			<actor>Giorgio Cantarini</actor>
+			<role>Giorgio Lamborghini</role>
+		</credit>
+		<credit>
+			<actor>Hannah van der Westhuysen</actor>
+			<role>Clelia Monti</role>
+		</credit>
+		<credit>
+			<actor>Francesca Tizzano</actor>
+			<role>Gabriella</role>
+		</credit>
+		<credit>
+			<actor>Chiara Primavesi</actor>
+			<role>Young Annita</role>
+		</credit>
+		<credit>
+			<actor>Patrick Brennan</actor>
+			<role>Bob Wallace</role>
+		</credit>
+		<credit>
+			<actor>Fortunato Cerlino</actor>
+			<role>Antonio Lamborghini</role>
+		</credit>
+		<credit>
+			<actor>Tommaso Basili</actor>
+			<role>Diego</role>
+		</credit>
+		<credit>
+			<actor>Giorgia Pagliacci</actor>
+			<role>Beauty</role>
+		</credit>
+		<credit>
+			<actor>Leonardo Cecchi</actor>
+			<role>Gian Paolo Dallara</role>
+		</credit>
+		<credit>
+			<actor>Dan Matteucci</actor>
+			<role>Mechanic</role>
+		</credit>
+		<credit>
+			<actor>Ema Kovac</actor>
+			<role>Blonde Beauty</role>
+		</credit>
+		<credit>
+			<actor>Francesca De Martini</actor>
+			<role>Evelina Lamborghini</role>
+		</credit>
+		<credit>
+			<actor>Gian Franco Tordi</actor>
+			<role>Radio Reporter</role>
+		</credit>
+		<credit>
+			<actor>Romano Reggiani</actor>
+			<role>Young Ferruccio Lamborghini</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">October 23 2022</releasedate>
+		<releasedate country="United Arab Emirates">November 17 2022</releasedate>
+		<releasedate country="Egypt">November 17 2022</releasedate>
+		<releasedate country="United States">November 18 2022</releasedate>
+		<releasedate country="United States">November 18 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">R</certificate>
+		<certificate country="Egypt">12+</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>life</keyword>
+		<keyword>based on real people</keyword>
+		<keyword>lamborghini</keyword>
+		<keyword>car</keyword>
+		<keyword>tractor</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>business</keyword>
+		<keyword>docudrama drama</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>based on book</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Bobby Moresco</director>
+	</directors>
+	<composers>
+		<composer> Tuomas Kantelinen</composer>
+		<composer> Tony Renis</composer>
+	</composers>
+	<producers>
+		<producer> Monika Bacardi</producer>
+		<producer> Jeff Bowler</producer>
+		<producer> Corso Codecasa</producer>
+		<producer> Allen Dam</producer>
+		<producer> Andrea Iervolino</producer>
+		<producer> Roman Kopelevich</producer>
+		<producer> Danielle Maloni</producer>
+		<producer> Guglielmo Marchetti</producer>
+		<producer> Sergio Navarretta</producer>
+		<producer> Bret Saxon</producer>
+		<producer> Davide Tovi</producer>
+		<producer> Andrea Zoso</producer>
+	</producers>
+	<writers>
+		<writer> Bobby Moresco</writer>
+	</writers>
+	<editors>
+		<editor> Kayla Emter</editor>
+	</editors>
+</doc>

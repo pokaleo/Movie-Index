@@ -1,0 +1,621 @@
+<?xml version="1.0" ?>
+<doc id="tt1430132">
+	<docid>tt1430132</docid>
+	<title>The Wolverine</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">126</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Hugh Jackman</actor>
+			<role>Logan</role>
+		</credit>
+		<credit>
+			<actor>Will Yun Lee</actor>
+			<role>Harada</role>
+		</credit>
+		<credit>
+			<actor>Tao Okamoto</actor>
+			<role>Mariko</role>
+		</credit>
+		<credit>
+			<actor>Rila Fukushima</actor>
+			<role>Yukio</role>
+		</credit>
+		<credit>
+			<actor>Hiroyuki Sanada</actor>
+			<role>Shingen</role>
+		</credit>
+		<credit>
+			<actor>Svetlana Khodchenkova</actor>
+			<role>Viper</role>
+		</credit>
+		<credit>
+			<actor>Brian Tee</actor>
+			<role>Noburo</role>
+		</credit>
+		<credit>
+			<actor>Hal Yamanouchi</actor>
+			<role>Yashida</role>
+		</credit>
+		<credit>
+			<actor>Ken Yamamura</actor>
+			<role>Young Yashida</role>
+		</credit>
+		<credit>
+			<actor>Famke Janssen</actor>
+			<role>Jean Grey</role>
+		</credit>
+		<credit>
+			<actor>Nobutaka Aoyagi</actor>
+			<role>Security</role>
+		</credit>
+		<credit>
+			<actor>Seiji Funamoto</actor>
+			<role>Servant</role>
+		</credit>
+		<credit>
+			<actor>Shinji Ikefuji</actor>
+			<role>Pock-Face</role>
+		</credit>
+		<credit>
+			<actor>Qyoko Kudo</actor>
+			<role>Aya</role>
+		</credit>
+		<credit>
+			<actor>Nobuaki Kakuda</actor>
+			<role>Buddhist Priest</role>
+		</credit>
+		<credit>
+			<actor>Chiharu Mizuno</actor>
+			<role>Old Woman</role>
+		</credit>
+		<credit>
+			<actor>Takao Kinoshita</actor>
+			<role>Fruit Cart Vendor</role>
+		</credit>
+		<credit>
+			<actor>Conrad Coleby</actor>
+			<role>Red Beard</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">July 16 2013</releasedate>
+		<releasedate country="Belgium">July 24 2013</releasedate>
+		<releasedate country="Spain">July 24 2013</releasedate>
+		<releasedate country="France">July 24 2013</releasedate>
+		<releasedate country="Indonesia">July 24 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United States">Unrated</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>japan</keyword>
+		<keyword>marvel comics</keyword>
+		<keyword>logan character</keyword>
+		<keyword>wolverine character</keyword>
+		<keyword>atomic bomb</keyword>
+		<keyword>tokyo japan</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>self healing</keyword>
+		<keyword>healing power</keyword>
+		<keyword>spin off</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>x men</keyword>
+		<keyword>canadian abroad</keyword>
+		<keyword>silver samurai character</keyword>
+		<keyword>healing factor</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>yakuza</keyword>
+		<keyword>claw</keyword>
+		<keyword>bullet train</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>mutant</keyword>
+		<keyword>professor charles xavier character</keyword>
+		<keyword>jean grey character</keyword>
+		<keyword>magneto character</keyword>
+		<keyword>rapid healing</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>madame hydra a.k.a. viper character</keyword>
+		<keyword>asian with colored hair</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>murderess</keyword>
+		<keyword>van rental</keyword>
+		<keyword>bartender</keyword>
+		<keyword>male bartender</keyword>
+		<keyword>animal cruelty</keyword>
+		<keyword>katana</keyword>
+		<keyword>east asian woman</keyword>
+		<keyword>grizzly</keyword>
+		<keyword>superstition</keyword>
+		<keyword>buddhism</keyword>
+		<keyword>tokyo tower</keyword>
+		<keyword>religion</keyword>
+		<keyword>shootout</keyword>
+		<keyword>melee</keyword>
+		<keyword>pachinko</keyword>
+		<keyword>pachinko parlour</keyword>
+		<keyword>ueno tokyo</keyword>
+		<keyword>shinjuku tokyo</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>action girl</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>american</keyword>
+		<keyword>girl</keyword>
+		<keyword>parkour</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>wolverine</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>passenger compartment</keyword>
+		<keyword>aircraft cabin</keyword>
+		<keyword>canadian man</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>weapon</keyword>
+		<keyword>night</keyword>
+		<keyword>animal</keyword>
+		<keyword>canadian in japan</keyword>
+		<keyword>mammal</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>predator</keyword>
+		<keyword>canadian man in japan</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>advanced technology</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>minister of justice</keyword>
+		<keyword>gun</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>firearm</keyword>
+		<keyword>city</keyword>
+		<keyword>fruit</keyword>
+		<keyword>bow the weapon</keyword>
+		<keyword>handgun</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>fallen tree</keyword>
+		<keyword>speeding vehicle</keyword>
+		<keyword>tattooed man</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>speeding car</keyword>
+		<keyword>tattooed male</keyword>
+		<keyword>audi motor vehicle</keyword>
+		<keyword>two years later</keyword>
+		<keyword>human versus mutant</keyword>
+		<keyword>asia</keyword>
+		<keyword>ninja warrior</keyword>
+		<keyword>medical equipment</keyword>
+		<keyword>reflection in sideview mirror</keyword>
+		<keyword>man killed</keyword>
+		<keyword>shot in the back with an arrow</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>outnumbered</keyword>
+		<keyword>male versus female</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>lavatory</keyword>
+		<keyword>shot in the chest with an arrow</keyword>
+		<keyword>villain</keyword>
+		<keyword>burning sword</keyword>
+		<keyword>mutant versus mutant</keyword>
+		<keyword>advertisement</keyword>
+		<keyword>female versus female</keyword>
+		<keyword>stand alone sequel</keyword>
+		<keyword>biopunk</keyword>
+		<keyword>suit of armor</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>one person army action</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>girl fights a girl</keyword>
+		<keyword>fiance fiancee relationship</keyword>
+		<keyword>removing an arrow from a wound</keyword>
+		<keyword>removing an object from a wound</keyword>
+		<keyword>shot with multiple arrows</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>samurai</keyword>
+		<keyword>funeral</keyword>
+		<keyword>japanese soldier</keyword>
+		<keyword>woods</keyword>
+		<keyword>soldier</keyword>
+		<keyword>death</keyword>
+		<keyword>dream</keyword>
+		<keyword>samurai sword</keyword>
+		<keyword>sword</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>immortality</keyword>
+		<keyword>mutant superhero</keyword>
+		<keyword>female mutant</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>childhood love</keyword>
+		<keyword>ex boyfriend</keyword>
+		<keyword>former friend</keyword>
+		<keyword>false friend</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>murder of friend</keyword>
+		<keyword>love triangle</keyword>
+		<keyword>man girl relationship</keyword>
+		<keyword>adopted sister</keyword>
+		<keyword>ceo</keyword>
+		<keyword>businesswoman</keyword>
+		<keyword>asian woman</keyword>
+		<keyword>veteran</keyword>
+		<keyword>interracial romance</keyword>
+		<keyword>corporation</keyword>
+		<keyword>2010s</keyword>
+		<keyword>b 29</keyword>
+		<keyword>clan</keyword>
+		<keyword>train station</keyword>
+		<keyword>claw fight</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>news report</keyword>
+		<keyword>rifle</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>head butt</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>orphan</keyword>
+		<keyword>shaving</keyword>
+		<keyword>hit with a chair</keyword>
+		<keyword>engaged couple</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>blizzard</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>catfight</keyword>
+		<keyword>escape</keyword>
+		<keyword>rescue</keyword>
+		<keyword>hostage</keyword>
+		<keyword>thrown through a window</keyword>
+		<keyword>honor</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>subway</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>drugged drink</keyword>
+		<keyword>elevator</keyword>
+		<keyword>robot suit</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>brawl</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>surprise during end credits</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>scientist</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>mountain</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>uzi</keyword>
+		<keyword>hitman</keyword>
+		<keyword>heiress</keyword>
+		<keyword>last will and testament</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>corrupt official</keyword>
+		<keyword>fish out of water</keyword>
+		<keyword>culture clash</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>ninja army</keyword>
+		<keyword>female samurai</keyword>
+		<keyword>limousine</keyword>
+		<keyword>poison dart</keyword>
+		<keyword>cave</keyword>
+		<keyword>crossbow</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>drifter</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>scar</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>fighter plane</keyword>
+		<keyword>atomic explosion</keyword>
+		<keyword>canadian</keyword>
+		<keyword>canada</keyword>
+		<keyword>loner</keyword>
+		<keyword>parasite</keyword>
+		<keyword>hand through chest</keyword>
+		<keyword>world war two veteran</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>prisoner of war camp</keyword>
+		<keyword>prisoner of war</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>villainess</keyword>
+		<keyword>super villain</keyword>
+		<keyword>mafia</keyword>
+		<keyword>gangster</keyword>
+		<keyword>bar fight</keyword>
+		<keyword>violence</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>showdown</keyword>
+		<keyword>chase</keyword>
+		<keyword>fight on a train roof</keyword>
+		<keyword>ambush</keyword>
+		<keyword>warrior</keyword>
+		<keyword>cameo</keyword>
+		<keyword>airport</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>main character shot</keyword>
+		<keyword>action hero</keyword>
+		<keyword>canadian superhero</keyword>
+		<keyword>babe scientist</keyword>
+		<keyword>kendo</keyword>
+		<keyword>power armor</keyword>
+		<keyword>superhero</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>ghost</keyword>
+		<keyword>suspense</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>hanged woman</keyword>
+		<keyword>kiss of death</keyword>
+		<keyword>spitting in someone's face</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>thrown off a balcony</keyword>
+		<keyword>chopping wood</keyword>
+		<keyword>blood</keyword>
+		<keyword>gash in the face</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>man slaps a woman</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>thrown from a train</keyword>
+		<keyword>infection</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>broken leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>cheating fiance</keyword>
+		<keyword>greed</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>interracial kiss</keyword>
+		<keyword>suicide attempt</keyword>
+		<keyword>x ray</keyword>
+		<keyword>revenge</keyword>
+		<keyword>murder</keyword>
+		<keyword>breaking a bottle over someone's head</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>pistol</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>rain</keyword>
+		<keyword>snow</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>impalement</keyword>
+		<keyword>bar</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>killing an animal</keyword>
+		<keyword>mercy killing</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the stomach</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>seppuku</keyword>
+		<keyword>suicide</keyword>
+		<keyword>burned face</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>guilt</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>year 1945</keyword>
+		<keyword>nuclear explosion</keyword>
+		<keyword>atom bomb</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>press interview</keyword>
+		<keyword>fighting atop train</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>faked death</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>one man army</keyword>
+		<keyword>tree cutting</keyword>
+		<keyword>x rayed skeleton</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>dark past</keyword>
+		<keyword>stabbed in the hand</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>on the run</keyword>
+		<keyword>jumping off a roof</keyword>
+		<keyword>egomaniac</keyword>
+		<keyword>robot</keyword>
+		<keyword>research facility</keyword>
+		<keyword>armor</keyword>
+		<keyword>falling into a swimming pool</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>bug</keyword>
+		<keyword>nagasaki japan</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>number 13</keyword>
+		<keyword>friend</keyword>
+		<keyword>heart</keyword>
+		<keyword>stabbed in chest</keyword>
+		<keyword>snake woman</keyword>
+		<keyword>venom</keyword>
+		<keyword>body scanner</keyword>
+		<keyword>scan</keyword>
+		<keyword>fountain pen</keyword>
+		<keyword>oncologist</keyword>
+		<keyword>ninja</keyword>
+		<keyword>atomic bomb victim</keyword>
+		<keyword>world war two</keyword>
+		<keyword>explosion</keyword>
+		<keyword>atomic bombing</keyword>
+		<keyword>seaside</keyword>
+		<keyword>thug</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>monk</keyword>
+		<keyword>temple</keyword>
+		<keyword>washroom</keyword>
+		<keyword>grandfather granddaughter relationship</keyword>
+		<keyword>villa</keyword>
+		<keyword>private jet</keyword>
+		<keyword>kettle</keyword>
+		<keyword>chain</keyword>
+		<keyword>ronin</keyword>
+		<keyword>arranged marriage</keyword>
+		<keyword>flashback</keyword>
+		<keyword>airplane</keyword>
+		<keyword>apple</keyword>
+		<keyword>seeing the future</keyword>
+		<keyword>assassin</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>kimono</keyword>
+		<keyword>defense secretary</keyword>
+		<keyword>toxin</keyword>
+		<keyword>poison</keyword>
+		<keyword>arrow</keyword>
+		<keyword>poisoned arrow</keyword>
+		<keyword>bear</keyword>
+		<keyword>grizzly bear</keyword>
+		<keyword>red hair</keyword>
+		<keyword>forest</keyword>
+		<keyword>hunter</keyword>
+		<keyword>shaving beard</keyword>
+		<keyword>chopstick</keyword>
+		<keyword>kiss</keyword>
+		<keyword>subtitles</keyword>
+		<keyword>goat</keyword>
+		<keyword>hotel</keyword>
+		<keyword>cat</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>knife</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>restroom</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>veterinarian</keyword>
+		<keyword>media</keyword>
+		<keyword>train</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>two word title</keyword>
+		<keyword>katana sword</keyword>
+		<keyword>healing</keyword>
+		<keyword>spin off sequel</keyword>
+		<keyword>sequel</keyword>
+		<keyword>second part</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>axe</keyword>
+		<keyword>thunder</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>pub</keyword>
+	</keywords>
+	<directors>
+		<director> James Mangold</director>
+	</directors>
+	<composers>
+		<composer> Marco Beltrami</composer>
+	</composers>
+	<producers>
+		<producer> Joseph M. Caracciolo Jr.</producer>
+		<producer> Tom Cohen</producer>
+		<producer> Stan Lee</producer>
+		<producer> Hutch Parker</producer>
+		<producer> Jesse Prupas</producer>
+		<producer> Lauren Shuler Donner</producer>
+		<producer> Kazutoshi Wadakura</producer>
+	</producers>
+	<writers>
+		<writer> Mark Bomback</writer>
+		<writer> Scott Frank</writer>
+	</writers>
+	<editors>
+		<editor> Michael McCusker</editor>
+	</editors>
+</doc>

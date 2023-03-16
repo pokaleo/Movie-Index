@@ -1,0 +1,466 @@
+<?xml version="1.0" ?>
+<doc id="tt4116284">
+	<docid>tt4116284</docid>
+	<title>The Lego Batman Movie</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">104</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Will Arnett</actor>
+			<role>Batman</role>
+		</credit>
+		<credit>
+			<actor>Michael Cera</actor>
+			<role>Robin</role>
+		</credit>
+		<credit>
+			<actor>Rosario Dawson</actor>
+			<role>Batgirl</role>
+		</credit>
+		<credit>
+			<actor>Ralph Fiennes</actor>
+			<role>Alfred Pennyworth</role>
+		</credit>
+		<credit>
+			<actor>Siri</actor>
+			<role>'Puter</role>
+		</credit>
+		<credit>
+			<actor>Zach Galifianakis</actor>
+			<role>Joker</role>
+		</credit>
+		<credit>
+			<actor>Jenny Slate</actor>
+			<role>Harley Quinn</role>
+		</credit>
+		<credit>
+			<actor>Jason Mantzoukas</actor>
+			<role>Scarecrow</role>
+		</credit>
+		<credit>
+			<actor>Conan O'Brien</actor>
+			<role>The Riddler</role>
+		</credit>
+		<credit>
+			<actor>Doug Benson</actor>
+			<role>Bane</role>
+		</credit>
+		<credit>
+			<actor>Billy Dee Williams</actor>
+			<role>Two-Face</role>
+		</credit>
+		<credit>
+			<actor>Zoë Kravitz</actor>
+			<role>Catwoman</role>
+		</credit>
+		<credit>
+			<actor>Kate Micucci</actor>
+			<role>Clayface</role>
+		</credit>
+		<credit>
+			<actor>Riki Lindhome</actor>
+			<role>Poison Ivy</role>
+		</credit>
+		<credit>
+			<actor>Eddie Izzard</actor>
+			<role>Voldemort</role>
+		</credit>
+		<credit>
+			<actor>Seth Green</actor>
+			<role>King Kong</role>
+		</credit>
+		<credit>
+			<actor>Jemaine Clement</actor>
+			<role>Sauron</role>
+		</credit>
+		<credit>
+			<actor>Ellie Kemper</actor>
+			<role>Phyllis</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">February 1 2017</releasedate>
+		<releasedate country="United Kingdom">February 4 2017</releasedate>
+		<releasedate country="Belgium">February 8 2017</releasedate>
+		<releasedate country="France">February 8 2017</releasedate>
+		<releasedate country="Netherlands">February 8 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Luxembourg">6</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A/i</certificate>
+		<certificate country="Spain">TP</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13A</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">G</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>lego</keyword>
+		<keyword>batmobile</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>batman character</keyword>
+		<keyword>lobster</keyword>
+		<keyword>bat signal</keyword>
+		<keyword>wicked witch</keyword>
+		<keyword>reference to the wizard of oz</keyword>
+		<keyword>reference to doctor who</keyword>
+		<keyword>dalek</keyword>
+		<keyword>based on toy</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>spin off</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>gotham</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>audio begins before video</keyword>
+		<keyword>meteor</keyword>
+		<keyword>shipment of explosives</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>tank truck</keyword>
+		<keyword>magnetic shoes</keyword>
+		<keyword>air freight</keyword>
+		<keyword>roshambo decision making</keyword>
+		<keyword>parachuting</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>museum</keyword>
+		<keyword>power plant</keyword>
+		<keyword>car flip</keyword>
+		<keyword>changing clothes</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>reference to iron man</keyword>
+		<keyword>lobster thermidor</keyword>
+		<keyword>harbor</keyword>
+		<keyword>some scenes in black and white</keyword>
+		<keyword>grand piano</keyword>
+		<keyword>startled</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>batting</keyword>
+		<keyword>autograph</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>adopted son</keyword>
+		<keyword>reference to mahatma gandhi</keyword>
+		<keyword>old lady crossing a street</keyword>
+		<keyword>fortress of solitude</keyword>
+		<keyword>party</keyword>
+		<keyword>justice league</keyword>
+		<keyword>six pack abs</keyword>
+		<keyword>phantom zone projector</keyword>
+		<keyword>smoke bomb</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>beatboxing</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>loner</keyword>
+		<keyword>surface to air missle</keyword>
+		<keyword>falling from an airplane</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>snake clown</keyword>
+		<keyword>altered version of studio logo</keyword>
+		<keyword>flashback</keyword>
+		<keyword>movie in title</keyword>
+		<keyword>clown</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>supervillainess</keyword>
+		<keyword>gotham city</keyword>
+		<keyword>clayface character</keyword>
+		<keyword>king kong character</keyword>
+		<keyword>lord voldemort character</keyword>
+		<keyword>man wears a tuxedo</keyword>
+		<keyword>medusa character</keyword>
+		<keyword>poison ivy character</keyword>
+		<keyword>robin character</keyword>
+		<keyword>sauron character</keyword>
+		<keyword>scarecrow character</keyword>
+		<keyword>joker character</keyword>
+		<keyword>mayor character</keyword>
+		<keyword>riddler character</keyword>
+		<keyword>two face character</keyword>
+		<keyword>alfred pennyworth character</keyword>
+		<keyword>barbara gordon character</keyword>
+		<keyword>batgirl character</keyword>
+		<keyword>bruce wayne character</keyword>
+		<keyword>catwoman character</keyword>
+		<keyword>dick grayson character</keyword>
+		<keyword>harley quinn character</keyword>
+		<keyword>harvey dent character</keyword>
+		<keyword>james gordon character</keyword>
+		<keyword>superman character</keyword>
+		<keyword>wonder woman character</keyword>
+		<keyword>green lantern character</keyword>
+		<keyword>the flash character</keyword>
+		<keyword>reference to the dark knight</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>narcissist</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>brick movie</keyword>
+		<keyword>crossover</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>flying monkey</keyword>
+		<keyword>gremlin</keyword>
+		<keyword>tyrannosaurus rex</keyword>
+		<keyword>velociraptor</keyword>
+		<keyword>four word title</keyword>
+		<keyword>orphan boy</keyword>
+		<keyword>evil clown</keyword>
+		<keyword>green hair</keyword>
+		<keyword>reference to black canary</keyword>
+		<keyword>villain team up</keyword>
+		<keyword>legion of doom</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>orphan</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>countdown</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>police</keyword>
+		<keyword>dance party ending</keyword>
+		<keyword>hero villain relationship</keyword>
+		<keyword>dracula</keyword>
+		<keyword>agent smith character</keyword>
+		<keyword>wayne manor</keyword>
+		<keyword>shrekcore</keyword>
+		<keyword>the lego movie</keyword>
+		<keyword>calendar man character</keyword>
+		<keyword>condiment king character</keyword>
+		<keyword>vertical take off and landing aircraft</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>hero sidekick relationship</keyword>
+		<keyword>butler</keyword>
+		<keyword>arkham asylum</keyword>
+		<keyword>self referential</keyword>
+		<keyword>adoption</keyword>
+		<keyword>alter ego</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>phantom zone</keyword>
+		<keyword>city</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>action girl</keyword>
+		<keyword>wicked witch of the west character</keyword>
+		<keyword>martian manhunter character</keyword>
+		<keyword>product placement</keyword>
+		<keyword>spit take</keyword>
+		<keyword>medusa</keyword>
+		<keyword>computer</keyword>
+		<keyword>mr. freeze character</keyword>
+		<keyword>penguin character</keyword>
+		<keyword>general zod character</keyword>
+		<keyword>cyborg character</keyword>
+		<keyword>aquaman character</keyword>
+		<keyword>captain boomerang character</keyword>
+		<keyword>green arrow character</keyword>
+		<keyword>red hood character</keyword>
+		<keyword>black canary character</keyword>
+		<keyword>el dorado character</keyword>
+		<keyword>killer croc character</keyword>
+		<keyword>magpie character</keyword>
+		<keyword>rogues gallery</keyword>
+		<keyword>killer moth character</keyword>
+		<keyword>hugo strange character</keyword>
+		<keyword>apache chief character</keyword>
+		<keyword>kite man character</keyword>
+		<keyword>hawkgirl character</keyword>
+		<keyword>hawkman character</keyword>
+		<keyword>polka dot man character</keyword>
+		<keyword>gentleman ghost character</keyword>
+		<keyword>shark</keyword>
+		<keyword>explosion</keyword>
+		<keyword>mansion</keyword>
+		<keyword>amusement park</keyword>
+		<keyword>samurai character</keyword>
+		<keyword>wonder twins</keyword>
+		<keyword>black vulcan character</keyword>
+		<keyword>pop culture</keyword>
+		<keyword>man bat character</keyword>
+		<keyword>king tut character</keyword>
+		<keyword>kraken</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>swamp creature</keyword>
+		<keyword>dinosaur</keyword>
+		<keyword>great white shark</keyword>
+		<keyword>mummy</keyword>
+		<keyword>monkey</keyword>
+		<keyword>giant ape</keyword>
+		<keyword>giant gorilla</keyword>
+		<keyword>crime fighter</keyword>
+		<keyword>comicbook movie</keyword>
+		<keyword>multiple cameos</keyword>
+		<keyword>prison</keyword>
+		<keyword>witch</keyword>
+		<keyword>vampire</keyword>
+		<keyword>gadget</keyword>
+		<keyword>bat computer</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>crime fighting</keyword>
+		<keyword>masked crime fighter</keyword>
+		<keyword>masked vigilante</keyword>
+		<keyword>the clock king character</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>thomas wayne character</keyword>
+		<keyword>martha wayne character</keyword>
+		<keyword>postmodern</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>insanity</keyword>
+		<keyword>police officer</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>female police commissioner</keyword>
+		<keyword>billionaire</keyword>
+		<keyword>police commissioner</keyword>
+		<keyword>batcave</keyword>
+		<keyword>alien superhero</keyword>
+		<keyword>female supervillain</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>superhero</keyword>
+		<keyword>supervillain team</keyword>
+		<keyword>bane character</keyword>
+		<keyword>red cape</keyword>
+		<keyword>masked superhero</keyword>
+		<keyword>talking computer</keyword>
+		<keyword>caped superhero</keyword>
+		<keyword>reference to harry potter</keyword>
+		<keyword>hugging</keyword>
+		<keyword>mirror</keyword>
+		<keyword>taking a photograph</keyword>
+		<keyword>iphone</keyword>
+		<keyword>piano</keyword>
+		<keyword>family photograph</keyword>
+		<keyword>photograph</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>playing electric guitar</keyword>
+		<keyword>electric guitar</keyword>
+		<keyword>eating</keyword>
+		<keyword>microwave oven</keyword>
+		<keyword>island</keyword>
+		<keyword>orphanage</keyword>
+		<keyword>mayor</keyword>
+		<keyword>penguin</keyword>
+		<keyword>egged</keyword>
+		<keyword>reference to google</keyword>
+		<keyword>rock paper scissors</keyword>
+		<keyword>airplane</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Chris McKay</director>
+	</directors>
+	<composers>
+		<composer> Lorne Balfe</composer>
+	</composers>
+	<producers>
+		<producer> Will Allegra</producer>
+		<producer> Matthew Ashton</producer>
+		<producer> Jon Burton</producer>
+		<producer> Ryan Halprin</producer>
+		<producer> Ryan Harris</producer>
+		<producer> Roy Lee</producer>
+		<producer> Bradford Lewis</producer>
+		<producer> Dan Lin</producer>
+		<producer> Phil Lord</producer>
+		<producer> Brian Lynch</producer>
+		<producer> Benjamin Melniker</producer>
+		<producer> John Powers Middleton</producer>
+		<producer> Christopher Miller</producer>
+		<producer> Steven Mnuchin</producer>
+		<producer> Amber Naismith</producer>
+		<producer> Zareh Nalbandian</producer>
+		<producer> Samantha Nisenboim</producer>
+		<producer> Andrea McCarthy Paul</producer>
+		<producer> Michael E. Uslan</producer>
+		<producer> Jill Wilfert</producer>
+	</producers>
+	<writers>
+		<writer> Seth Grahame-Smith</writer>
+		<writer> Chris McKenna</writer>
+		<writer> Erik Sommers</writer>
+		<writer> Jared Stern</writer>
+		<writer> John Whittington</writer>
+		<writer> Seth Grahame-Smith</writer>
+		<writer> Bob Kane</writer>
+		<writer> Bill Finger</writer>
+		<writer> Jerry Siegel</writer>
+		<writer> Joe Shuster</writer>
+		<writer> William Moulton Marston</writer>
+		<writer> Ole Kirk Christiansen</writer>
+		<writer> Godtfred Kirk Christiansen</writer>
+		<writer> Jens Nygaard Knudsen</writer>
+		<writer> Harry G. Peter</writer>
+	</writers>
+	<editors>
+		<editor> David Burrows</editor>
+		<editor> John Venzon</editor>
+		<editor> Matt Villa</editor>
+	</editors>
+</doc>

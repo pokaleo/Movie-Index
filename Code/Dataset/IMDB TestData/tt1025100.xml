@@ -1,0 +1,641 @@
+<?xml version="1.0" ?>
+<doc id="tt1025100">
+	<docid>tt1025100</docid>
+	<title>Gemini Man</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDJlYzMyZTctYzBiMi00Y2E5LTk4YzgtNzU5YzE0MDZkY2EwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">117</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An over-the-hill hitman faces off against a younger clone of himself.</plot>
+	<countries>
+		<country>China</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Will Smith</actor>
+			<role>Henry Brogan</role>
+		</credit>
+		<credit>
+			<actor>Mary Elizabeth Winstead</actor>
+			<role>Danny Zakarewski</role>
+		</credit>
+		<credit>
+			<actor>Clive Owen</actor>
+			<role>Clay Verris</role>
+		</credit>
+		<credit>
+			<actor>Benedict Wong</actor>
+			<role>Baron</role>
+		</credit>
+		<credit>
+			<actor>Douglas Hodge</actor>
+			<role>Jack Willis</role>
+		</credit>
+		<credit>
+			<actor>Ralph Brown</actor>
+			<role>Del Patterson</role>
+		</credit>
+		<credit>
+			<actor>Linda Emond</actor>
+			<role>Janet Lassiter</role>
+		</credit>
+		<credit>
+			<actor>Ilia Volok</actor>
+			<role>Yuri Kovacs</role>
+		</credit>
+		<credit>
+			<actor>E.J. Bonilla</actor>
+			<role>Marino</role>
+		</credit>
+		<credit>
+			<actor>Victor Hugo</actor>
+			<role>Junior On-Set Reference</role>
+		</credit>
+		<credit>
+			<actor>David Shae</actor>
+			<role>Bicycle Messenger</role>
+		</credit>
+		<credit>
+			<actor>Theodora Miranne</actor>
+			<role>Jack's Girlfriend</role>
+		</credit>
+		<credit>
+			<actor>Diego Adonye</actor>
+			<role>Henry's Dad</role>
+		</credit>
+		<credit>
+			<actor>Lilla Banak</actor>
+			<role>Henry's Mom</role>
+		</credit>
+		<credit>
+			<actor>Igor Szasz</actor>
+			<role>Valery Dormov</role>
+		</credit>
+		<credit>
+			<actor>Alexa György</actor>
+			<role>Young Girl on Train</role>
+		</credit>
+		<credit>
+			<actor>Fernanda Dorogi</actor>
+			<role>Mother on Train</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Szucs</actor>
+			<role>Lab Technician</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Hungary">September 25 2019</releasedate>
+		<releasedate country="Switzerland">October 1 2019</releasedate>
+		<releasedate country="France">October 2 2019</releasedate>
+		<releasedate country="Austria">October 3 2019</releasedate>
+		<releasedate country="Germany">October 3 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Bulgaria">C</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="China">Approved</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-15</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Nigeria">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Serbia">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Slovakia">12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>clone</keyword>
+		<keyword>hitman</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>shootout</keyword>
+		<keyword>chase</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>sniper</keyword>
+		<keyword>assassin</keyword>
+		<keyword>survival</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>hotel</keyword>
+		<keyword>spa</keyword>
+		<keyword>airplane</keyword>
+		<keyword>boat</keyword>
+		<keyword>drone</keyword>
+		<keyword>villain</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>battle</keyword>
+		<keyword>combat</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>motorcycle chase</keyword>
+		<keyword>motorcycle stunt</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding motorcycle</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the neck</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>pistol</keyword>
+		<keyword>silencer</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>rocket</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>knocked out with a gun butt</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>assassination</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>on the run</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>hired killer</keyword>
+		<keyword>contract killer</keyword>
+		<keyword>hardware store</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>black ops</keyword>
+		<keyword>photograph</keyword>
+		<keyword>younger version of self</keyword>
+		<keyword>ex marine</keyword>
+		<keyword>quitting a job</keyword>
+		<keyword>one last job</keyword>
+		<keyword>retirement</keyword>
+		<keyword>crisis of conscience</keyword>
+		<keyword>cover up</keyword>
+		<keyword>top secret</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>training exercise</keyword>
+		<keyword>armored car</keyword>
+		<keyword>tripwire</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>masked man</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>hit team</keyword>
+		<keyword>night vision goggles</keyword>
+		<keyword>long take</keyword>
+		<keyword>axe</keyword>
+		<keyword>product placement</keyword>
+		<keyword>sinister</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>government agent</keyword>
+		<keyword>female agent</keyword>
+		<keyword>female spy</keyword>
+		<keyword>undercover</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>spy</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>espionage</keyword>
+		<keyword>russian</keyword>
+		<keyword>russian scientist</keyword>
+		<keyword>scientist</keyword>
+		<keyword>defector</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>train</keyword>
+		<keyword>train station</keyword>
+		<keyword>bullet train</keyword>
+		<keyword>cartagena colombia</keyword>
+		<keyword>budapest hungary</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>cloning</keyword>
+		<keyword>impersonating a police officer</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>church</keyword>
+		<keyword>audio surveillance</keyword>
+		<keyword>seaplane</keyword>
+		<keyword>pilot</keyword>
+		<keyword>pelican</keyword>
+		<keyword>harbor</keyword>
+		<keyword>fishing boat</keyword>
+		<keyword>yacht</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>flashback</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>barn</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>parkour</keyword>
+		<keyword>existentialism</keyword>
+		<keyword>51 year old</keyword>
+		<keyword>23 year old</keyword>
+		<keyword>two word title</keyword>
+		<keyword>suspense</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>beach</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>ambush</keyword>
+		<keyword>duct tape over mouth</keyword>
+		<keyword>face mask</keyword>
+		<keyword>skull</keyword>
+		<keyword>jumping into water</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>jumping from a rooftop</keyword>
+		<keyword>baseball cap</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>passport</keyword>
+		<keyword>lake house</keyword>
+		<keyword>motion sensor</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>rain</keyword>
+		<keyword>coffee shop</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>bribery</keyword>
+		<keyword>blood sample</keyword>
+		<keyword>forced to strip</keyword>
+		<keyword>cat and mouse</keyword>
+		<keyword>police car</keyword>
+		<keyword>arrest</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>police station</keyword>
+		<keyword>hit by a motorcycle</keyword>
+		<keyword>flat tire</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car accident</keyword>
+		<keyword>taxi</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>555 phone number</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>dark past</keyword>
+		<keyword>revelation</keyword>
+		<keyword>satellite</keyword>
+		<keyword>helmet</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>catacomb</keyword>
+		<keyword>redemption</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>one man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>injection</keyword>
+		<keyword>allergy</keyword>
+		<keyword>allergic reaction</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>bridge</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>scar</keyword>
+		<keyword>gash in the face</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>europe</keyword>
+		<keyword>colombia</keyword>
+		<keyword>jumping from a car</keyword>
+		<keyword>fire</keyword>
+		<keyword>thrown from a boat</keyword>
+		<keyword>stitching a wound</keyword>
+		<keyword>flare</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>painting</keyword>
+		<keyword>reference to nelson mandela</keyword>
+		<keyword>reference to marvin gaye</keyword>
+		<keyword>little girl</keyword>
+		<keyword>military</keyword>
+		<keyword>soldier</keyword>
+		<keyword>special forces</keyword>
+		<keyword>mission</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>original clone relationship</keyword>
+		<keyword>meeting one's clone</keyword>
+		<keyword>full body armor</keyword>
+		<keyword>betrayed by mentor</keyword>
+		<keyword>killing one's clone</keyword>
+		<keyword>mentor protege relationship</keyword>
+		<keyword>long distance shot</keyword>
+		<keyword>fighting one's clone</keyword>
+		<keyword>brief nudity</keyword>
+		<keyword>reference to war in yemen</keyword>
+		<keyword>near future</keyword>
+		<keyword>futuristic technology</keyword>
+		<keyword>secret military project</keyword>
+		<keyword>military conspiracy</keyword>
+		<keyword>terminator</keyword>
+		<keyword>mentor tries to kill protege</keyword>
+		<keyword>male female partnership</keyword>
+		<keyword>male female platonic friendship</keyword>
+		<keyword>male virgin</keyword>
+		<keyword>clone versus original</keyword>
+		<keyword>surrogate family</keyword>
+		<keyword>cgi</keyword>
+		<keyword>de aging</keyword>
+		<keyword>midlife crisis</keyword>
+		<keyword>identity crisis</keyword>
+		<keyword>spy film</keyword>
+		<keyword>assassin turns good</keyword>
+		<keyword>assassin goes rogue</keyword>
+		<keyword>orders to kill</keyword>
+		<keyword>government assassin</keyword>
+		<keyword>moral crisis</keyword>
+		<keyword>seeking redemption</keyword>
+		<keyword>surrogate father surrogate son relationship</keyword>
+		<keyword>clone tries to kill the original</keyword>
+		<keyword>original clone friendship</keyword>
+		<keyword>enhanced physical endurance</keyword>
+		<keyword>motorcycle fight</keyword>
+		<keyword>flirting</keyword>
+		<keyword>clone soldier</keyword>
+		<keyword>clone assassin</keyword>
+		<keyword>mounted minigun</keyword>
+		<keyword>masked killer</keyword>
+		<keyword>motorcycle helmet</keyword>
+		<keyword>belgium</keyword>
+		<keyword>war buddy</keyword>
+		<keyword>doppelganger</keyword>
+		<keyword>idealism</keyword>
+		<keyword>cgi character in a live action movie</keyword>
+		<keyword>passenger compartment</keyword>
+		<keyword>watercraft</keyword>
+		<keyword>firearm</keyword>
+		<keyword>gun</keyword>
+		<keyword>rifle</keyword>
+		<keyword>handgun</keyword>
+		<keyword>bike messenger</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>pontoon airplane</keyword>
+		<keyword>night</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>reflection</keyword>
+		<keyword>view through rifle scope</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>hungary</keyword>
+		<keyword>human clone</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>aircraft cabin</keyword>
+		<keyword>police motorcycle</keyword>
+		<keyword>fire sprinkler</keyword>
+		<keyword>apartment</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>can of soda</keyword>
+		<keyword>tablet computer</keyword>
+		<keyword>vehicle pursuit</keyword>
+		<keyword>minigun</keyword>
+		<keyword>female male hug</keyword>
+		<keyword>coca cola can</keyword>
+		<keyword>amphibious aircraft</keyword>
+		<keyword>panel van</keyword>
+		<keyword>view in rearview mirror</keyword>
+		<keyword>male clone</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>reference to the philadelphia phillies</keyword>
+		<keyword>reference to skype</keyword>
+		<keyword>reference to facetime</keyword>
+		<keyword>motorcycle crash</keyword>
+		<keyword>under arrest</keyword>
+		<keyword>jetstream aircraft</keyword>
+		<keyword>college campus</keyword>
+		<keyword>scoped rifle</keyword>
+		<keyword>weapon</keyword>
+		<keyword>audio communication</keyword>
+		<keyword>passenger train car</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>burning a photograph</keyword>
+		<keyword>child</keyword>
+		<keyword>passenger train carriage</keyword>
+		<keyword>girl</keyword>
+		<keyword>defense intelligence agency</keyword>
+		<keyword>office</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>male male hug</keyword>
+		<keyword>semi automatic weapon</keyword>
+		<keyword>cracker</keyword>
+		<keyword>male versus female</keyword>
+		<keyword>suv</keyword>
+		<keyword>view in sideview mirror</keyword>
+		<keyword>honda motor vehicle</keyword>
+		<keyword>fist bump</keyword>
+		<keyword>renault motor vehicle</keyword>
+		<keyword>jet plane</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>armoured vehicle</keyword>
+		<keyword>minivan</keyword>
+		<keyword>volkswagen motor vehicle</keyword>
+		<keyword>dirt bike</keyword>
+		<keyword>mobile telephone</keyword>
+		<keyword>computer</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>semi automatic pistol</keyword>
+		<keyword>evil man</keyword>
+		<keyword>propeller airplane</keyword>
+		<keyword>car</keyword>
+		<keyword>wrists bound with plastic cable tie</keyword>
+		<keyword>skeletal remains</keyword>
+		<keyword>injured leg</keyword>
+		<keyword>tracking chip</keyword>
+		<keyword>private jet</keyword>
+		<keyword>human remains</keyword>
+		<keyword>wounded leg</keyword>
+		<keyword>injured woman</keyword>
+		<keyword>three against one</keyword>
+		<keyword>injured female</keyword>
+		<keyword>wounded woman</keyword>
+		<keyword>exploding vehicle</keyword>
+		<keyword>american passport</keyword>
+		<keyword>motorboat</keyword>
+		<keyword>murder of a man</keyword>
+		<keyword>shooting a man</keyword>
+		<keyword>woman wears a bra and panties</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>shooting a woman</keyword>
+		<keyword>woman undresses</keyword>
+		<keyword>gender in title</keyword>
+		<keyword>tooth knocked out</keyword>
+		<keyword>gulfstream jet</keyword>
+		<keyword>dna test</keyword>
+		<keyword>turning the tables</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>switchblade</keyword>
+		<keyword>hugging</keyword>
+		<keyword>trauma</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>6 months later</keyword>
+		<keyword>singing on airplane</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>gun with a silencer</keyword>
+		<keyword>murder of an innocent person</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>girl with long hair</keyword>
+		<keyword>protege murders mentor</keyword>
+		<keyword>apology</keyword>
+		<keyword>man</keyword>
+		<keyword>woman</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>van</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford motor vehicle</keyword>
+		<keyword>ford van</keyword>
+		<keyword>honda</keyword>
+		<keyword>automatic weapon</keyword>
+		<keyword>urban adventure</keyword>
+		<keyword>georgia usa</keyword>
+		<keyword>digital de aging</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>coming of age</keyword>
+	</keywords>
+	<directors>
+		<director> Ang Lee</director>
+	</directors>
+	<composers>
+		<composer> Lorne Balfe</composer>
+	</composers>
+	<producers>
+		<producer> Juliana Moreno Angulo</producer>
+		<producer> Brian Bell</producer>
+		<producer> Rick Benattar</producer>
+		<producer> Jerry Bruckheimer</producer>
+		<producer> Andrés Calderón</producer>
+		<producer> Salvatore Capone</producer>
+		<producer> Francesca Cingolani</producer>
+		<producer> Howard Ellis</producer>
+		<producer> David Ellison</producer>
+		<producer> Luyuan Fan</producer>
+		<producer> Michael Fottrell</producer>
+		<producer> Alain Freyer</producer>
+		<producer> Dana Goldberg</producer>
+		<producer> Adam Goodman</producer>
+		<producer> Don Granger</producer>
+		<producer> Guo Guangchang</producer>
+		<producer> Jennifer Lane</producer>
+		<producer> David Lee</producer>
+		<producer> Haifeng Li</producer>
+		<producer> Don Murphy</producer>
+		<producer> Chad Oman</producer>
+		<producer> Melissa Reid</producer>
+		<producer> Mike Stenson</producer>
+		<producer> Mirlanda Torres</producer>
+		<producer> Ke Yang</producer>
+		<producer> Wei Zhang</producer>
+	</producers>
+	<writers>
+		<writer> David Benioff</writer>
+		<writer> Billy Ray</writer>
+		<writer> Darren Lemke</writer>
+		<writer> Darren Lemke</writer>
+		<writer> David Benioff</writer>
+	</writers>
+	<editors>
+		<editor> Tim Squyres</editor>
+	</editors>
+</doc>

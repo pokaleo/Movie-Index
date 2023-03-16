@@ -1,0 +1,365 @@
+<?xml version="1.0" ?>
+<doc id="tt15445056">
+	<docid>tt15445056</docid>
+	<title>Athena</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNGY2OTg3ZjAtNTYyMC00MzAwLTg5NzEtZTdkNmFlMzA2ZGY5XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">99</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Hours after the tragic death of their youngest brother in unexplained circumstances, three siblings have their lives thrown into chaos.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dali Benssalah</actor>
+			<role>Abdel</role>
+		</credit>
+		<credit>
+			<actor>Sami Slimane</actor>
+			<role>Karim</role>
+		</credit>
+		<credit>
+			<actor>Anthony Bajon</actor>
+			<role>Jérôme</role>
+		</credit>
+		<credit>
+			<actor>Ouassini Embarek</actor>
+			<role>Moktar</role>
+		</credit>
+		<credit>
+			<actor>Alexis Manenti</actor>
+			<role>Sébastien</role>
+		</credit>
+		<credit>
+			<actor>Birane Ba</actor>
+			<role>Le négociateur</role>
+		</credit>
+		<credit>
+			<actor>Iless Hachi</actor>
+			<role>Rachid</role>
+		</credit>
+		<credit>
+			<actor>Younès Benbakki</actor>
+			<role>Ouss</role>
+		</credit>
+		<credit>
+			<actor>Meriam Sbia</actor>
+			<role>Amina</role>
+		</credit>
+		<credit>
+			<actor>Armindo Alves de Sa</actor>
+			<role>Fifou</role>
+		</credit>
+		<credit>
+			<actor>Hamidine Sy</actor>
+			<role>Mams</role>
+		</credit>
+		<credit>
+			<actor>Sergès Tsatou</actor>
+			<role>Serge</role>
+		</credit>
+		<credit>
+			<actor>Sophie-Marie Larrouy</actor>
+			<role>Nourisse</role>
+		</credit>
+		<credit>
+			<actor>Yassine Bouzerou</actor>
+			<role>Avocat</role>
+		</credit>
+		<credit>
+			<actor>Darina Al Joundi</actor>
+			<role>La mère</role>
+		</credit>
+		<credit>
+			<actor>Nesrine Abdat</actor>
+			<role>La soeur</role>
+		</credit>
+		<credit>
+			<actor>Mohamed Amri</actor>
+			<role>Idir (photo)</role>
+		</credit>
+		<credit>
+			<actor>Anis Mansour</actor>
+			<role>Anis</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">September 2 2022</releasedate>
+		<releasedate country="United Arab Emirates">September 23 2022</releasedate>
+		<releasedate country="Argentina">September 23 2022</releasedate>
+		<releasedate country="Australia">September 23 2022</releasedate>
+		<releasedate country="Belgium">September 23 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Canada">R</certificate>
+		<certificate country="Ecuador">R</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">R</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">Youth not allowed</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>death</keyword>
+		<keyword>brother</keyword>
+		<keyword>fight</keyword>
+		<keyword>life</keyword>
+		<keyword>chaos</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>ghetto</keyword>
+		<keyword>suburb</keyword>
+		<keyword>police station</keyword>
+		<keyword>france</keyword>
+		<keyword>one word title</keyword>
+		<keyword>suspense</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>2020s</keyword>
+		<keyword>tension</keyword>
+		<keyword>visceral</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>long take</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>urban decay</keyword>
+		<keyword>social decay</keyword>
+		<keyword>urban warfare</keyword>
+		<keyword>civil war</keyword>
+		<keyword>disaster</keyword>
+		<keyword>disaster film</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>grindhouse</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>chanting</keyword>
+		<keyword>gang</keyword>
+		<keyword>gang leader</keyword>
+		<keyword>revenge</keyword>
+		<keyword>hatred</keyword>
+		<keyword>anger</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>loss of brother</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>murder of a child</keyword>
+		<keyword>racism</keyword>
+		<keyword>controversial</keyword>
+		<keyword>burning body</keyword>
+		<keyword>burned body</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>fire</keyword>
+		<keyword>arson</keyword>
+		<keyword>molotov cocktail</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>homemade explosive</keyword>
+		<keyword>explosives expert</keyword>
+		<keyword>bombmaker</keyword>
+		<keyword>bombmaking</keyword>
+		<keyword>gasoline</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>flare</keyword>
+		<keyword>flare gun</keyword>
+		<keyword>target practice</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>pistol</keyword>
+		<keyword>sawed off shotgun</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>fratricide</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>news report</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>elevator</keyword>
+		<keyword>walkman</keyword>
+		<keyword>gardening</keyword>
+		<keyword>safe</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>soldier</keyword>
+		<keyword>photograph</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>cocaine</keyword>
+		<keyword>press conference</keyword>
+		<keyword>looting</keyword>
+		<keyword>riot</keyword>
+		<keyword>riot police</keyword>
+		<keyword>police</keyword>
+		<keyword>swat team</keyword>
+		<keyword>police officer</keyword>
+		<keyword>rookie</keyword>
+		<keyword>rookie cop</keyword>
+		<keyword>escalation</keyword>
+		<keyword>van</keyword>
+		<keyword>impersonating a police officer</keyword>
+		<keyword>prologue</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>apartment</keyword>
+		<keyword>housing estate</keyword>
+		<keyword>chase</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>man with a ponytail</keyword>
+		<keyword>black cop</keyword>
+		<keyword>desperation</keyword>
+		<keyword>prison bus</keyword>
+		<keyword>arrest</keyword>
+		<keyword>mission</keyword>
+		<keyword>helmet</keyword>
+		<keyword>shield</keyword>
+		<keyword>police brutality</keyword>
+		<keyword>corpse</keyword>
+		<keyword>ski mask</keyword>
+		<keyword>leader</keyword>
+		<keyword>leadership</keyword>
+		<keyword>bridge</keyword>
+		<keyword>frenchman</keyword>
+		<keyword>paris france</keyword>
+		<keyword>world cinema</keyword>
+		<keyword>inner city</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>fire truck</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>knife</keyword>
+		<keyword>running</keyword>
+		<keyword>disguise</keyword>
+		<keyword>forced to strip</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>race relations</keyword>
+		<keyword>extremist</keyword>
+		<keyword>extremism</keyword>
+		<keyword>extremist group</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>tragic ending</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>flashback</keyword>
+		<keyword>night</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>scar</keyword>
+		<keyword>murder</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>ambush</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>race against time</keyword>
+		<keyword>survival</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>death threat</keyword>
+		<keyword>machismo</keyword>
+		<keyword>teenager</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>tear gas</keyword>
+		<keyword>smoke grenade</keyword>
+		<keyword>destruction</keyword>
+		<keyword>darkness</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>angry mob</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>fire extinguisher</keyword>
+		<keyword>french police</keyword>
+		<keyword>algerian</keyword>
+		<keyword>death of child</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Romain Gavras</director>
+	</directors>
+	<composers>
+		<composer> Surkin</composer>
+	</composers>
+	<producers>
+		<producer> Charles-Marie Anthonioz</producer>
+		<producer> Elias Belkeddar</producer>
+		<producer> Mourad Belkeddar</producer>
+		<producer> Jean Duhamel</producer>
+		<producer> Romain Gavras</producer>
+		<producer> Christopher Granier-Deferre</producer>
+		<producer> Nicolas Lhermitte</producer>
+		<producer> Ladj Ly</producer>
+		<producer> Bruno Vatin</producer>
+	</producers>
+	<writers>
+		<writer> Elias Belkeddar</writer>
+		<writer> Romain Gavras</writer>
+		<writer> Ladj Ly</writer>
+	</writers>
+	<editors>
+		<editor> Benjamin Weill</editor>
+	</editors>
+</doc>

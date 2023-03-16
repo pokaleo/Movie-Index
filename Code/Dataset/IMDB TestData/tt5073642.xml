@@ -1,0 +1,551 @@
+<?xml version="1.0" ?>
+<doc id="tt5073642">
+	<docid>tt5073642</docid>
+	<title>Color Out of Space</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjQ1YTM4M2UtMTQxNS00YjdjLTgwZGYtZTgzYmFiYjFkYzNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">111</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A secluded farm is struck by a strange meteorite which has apocalyptic consequences for the family living there and possibly the world.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Nicolas Cage</actor>
+			<role>Nathan</role>
+		</credit>
+		<credit>
+			<actor>Joely Richardson</actor>
+			<role>Theresa</role>
+		</credit>
+		<credit>
+			<actor>Madeleine Arthur</actor>
+			<role>Lavinia Gardner</role>
+		</credit>
+		<credit>
+			<actor>Elliot Knight</actor>
+			<role>Ward Phillips</role>
+		</credit>
+		<credit>
+			<actor>Tommy Chong</actor>
+			<role>Ezra</role>
+		</credit>
+		<credit>
+			<actor>Brendan Meyer</actor>
+			<role>Benny Gardner</role>
+		</credit>
+		<credit>
+			<actor>Julian Hilliard</actor>
+			<role>Jack Gardner</role>
+		</credit>
+		<credit>
+			<actor>Josh C. Waller</actor>
+			<role>Sheriff Pierce</role>
+		</credit>
+		<credit>
+			<actor>Q'orianka Kilcher</actor>
+			<role>Mayor Tooma</role>
+		</credit>
+		<credit>
+			<actor>Melissa Nearman</actor>
+			<role>Reporter</role>
+		</credit>
+		<credit>
+			<actor>Amanda Booth</actor>
+			<role>Secretary</role>
+		</credit>
+		<credit>
+			<actor>Keith Harle</actor>
+			<role>Hunter Jake</role>
+		</credit>
+		<credit>
+			<actor>Xibanga</actor>
+			<role>Comet the Horse</role>
+		</credit>
+		<credit>
+			<actor>Ulisses</actor>
+			<role>Comet the Horse</role>
+		</credit>
+		<credit>
+			<actor>Laia</actor>
+			<role>Sam the Dog</role>
+		</credit>
+		<credit>
+			<actor>Mina</actor>
+			<role>Sam the Dog</role>
+		</credit>
+		<credit>
+			<actor>Afro</actor>
+			<role>Sam the Dog</role>
+		</credit>
+		<credit>
+			<actor>Lucifer</actor>
+			<role>G-Spot the Cat</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 7 2019</releasedate>
+		<releasedate country="United States">September 20 2019</releasedate>
+		<releasedate country="Austria">September 24 2019</releasedate>
+		<releasedate country="United Kingdom">October 7 2019</releasedate>
+		<releasedate country="Spain">October 11 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Unrated</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>meteorite</keyword>
+		<keyword>farm</keyword>
+		<keyword>alpaca</keyword>
+		<keyword>farmhouse</keyword>
+		<keyword>alien invasion</keyword>
+		<keyword>alien force</keyword>
+		<keyword>hydrologist</keyword>
+		<keyword>going insane</keyword>
+		<keyword>cosmic horror</keyword>
+		<keyword>contaminated water</keyword>
+		<keyword>turning into a monster</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>water well</keyword>
+		<keyword>woods</keyword>
+		<keyword>land surveyor</keyword>
+		<keyword>contamination</keyword>
+		<keyword>transformation</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>alien possession</keyword>
+		<keyword>mind control</keyword>
+		<keyword>based on short story</keyword>
+		<keyword>meteor impact</keyword>
+		<keyword>alien infection</keyword>
+		<keyword>alien mutation</keyword>
+		<keyword>alien contamination</keyword>
+		<keyword>eating a peach</keyword>
+		<keyword>horse</keyword>
+		<keyword>infected animal</keyword>
+		<keyword>shot by police</keyword>
+		<keyword>implied cannibalism</keyword>
+		<keyword>spider monster</keyword>
+		<keyword>poisoned well</keyword>
+		<keyword>hermit</keyword>
+		<keyword>tomato</keyword>
+		<keyword>talking to a peach</keyword>
+		<keyword>talking to a tomato</keyword>
+		<keyword>box cutter</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>pagan ritual</keyword>
+		<keyword>spitting out food</keyword>
+		<keyword>barn</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>the color magenta</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>white horse</keyword>
+		<keyword>wiccan ritual</keyword>
+		<keyword>black american</keyword>
+		<keyword>imitating pot smoking</keyword>
+		<keyword>dog</keyword>
+		<keyword>teenage witch</keyword>
+		<keyword>feeding a dog under the dinner table</keyword>
+		<keyword>milking an alpaca</keyword>
+		<keyword>unidentified flying object</keyword>
+		<keyword>slicing carrots</keyword>
+		<keyword>washing blood off a knife</keyword>
+		<keyword>vomiting into a toilet bowl</keyword>
+		<keyword>memorex tape recorder</keyword>
+		<keyword>almost hitting a cat with a car</keyword>
+		<keyword>imititing a growling dog</keyword>
+		<keyword>missing dog</keyword>
+		<keyword>online business</keyword>
+		<keyword>satellite dish</keyword>
+		<keyword>spitting out a tomato</keyword>
+		<keyword>throwing a tomato</keyword>
+		<keyword>packing a suitcase</keyword>
+		<keyword>monster</keyword>
+		<keyword>car won't start</keyword>
+		<keyword>promise</keyword>
+		<keyword>fear</keyword>
+		<keyword>sense of time</keyword>
+		<keyword>cutting a circumscribed pentagram into skin</keyword>
+		<keyword>denim shorts</keyword>
+		<keyword>new england</keyword>
+		<keyword>gore</keyword>
+		<keyword>color motif</keyword>
+		<keyword>driven insane</keyword>
+		<keyword>mucus</keyword>
+		<keyword>bleeding</keyword>
+		<keyword>small farm</keyword>
+		<keyword>farmer</keyword>
+		<keyword>farming family</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>father murders son</keyword>
+		<keyword>hiding in a well</keyword>
+		<keyword>tentacled monster</keyword>
+		<keyword>alien monster</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>infected insect</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>tape recording</keyword>
+		<keyword>burned to ashes</keyword>
+		<keyword>alien portal</keyword>
+		<keyword>alien outbreak</keyword>
+		<keyword>necronomicon</keyword>
+		<keyword>woman explodes</keyword>
+		<keyword>hiding in a cellar</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>stoner</keyword>
+		<keyword>reference to algernon blackwood</keyword>
+		<keyword>reference to thom carnell</keyword>
+		<keyword>toad</keyword>
+		<keyword>praying mantis</keyword>
+		<keyword>peach</keyword>
+		<keyword>killing an animal</keyword>
+		<keyword>mutation</keyword>
+		<keyword>locked in an attic</keyword>
+		<keyword>rash</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>reservoir</keyword>
+		<keyword>narrated by character</keyword>
+		<keyword>murder of a family</keyword>
+		<keyword>explosion</keyword>
+		<keyword>infection</keyword>
+		<keyword>man eats an alien</keyword>
+		<keyword>man in a shower</keyword>
+		<keyword>man wears a flannel shirt</keyword>
+		<keyword>teenager wears a leather jacket</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>woman turns into a monster</keyword>
+		<keyword>nickname</keyword>
+		<keyword>massachusetts</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>rain</keyword>
+		<keyword>thunder</keyword>
+		<keyword>food</keyword>
+		<keyword>cancer</keyword>
+		<keyword>incantation</keyword>
+		<keyword>ritual</keyword>
+		<keyword>alexandrian ritual</keyword>
+		<keyword>tattoo on foot</keyword>
+		<keyword>teenage girl wears a cape</keyword>
+		<keyword>african american</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>rocking chair</keyword>
+		<keyword>hippie</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>cassoulet</keyword>
+		<keyword>compass</keyword>
+		<keyword>goggles</keyword>
+		<keyword>curse</keyword>
+		<keyword>b word</keyword>
+		<keyword>teenage sorceress</keyword>
+		<keyword>teenage succubus</keyword>
+		<keyword>boy</keyword>
+		<keyword>duck as food</keyword>
+		<keyword>attic</keyword>
+		<keyword>computer</keyword>
+		<keyword>eating</keyword>
+		<keyword>boy wears eyeglasses</keyword>
+		<keyword>basement</keyword>
+		<keyword>wine</keyword>
+		<keyword>wine cellar</keyword>
+		<keyword>stairway</keyword>
+		<keyword>f word</keyword>
+		<keyword>kiss</keyword>
+		<keyword>man kisses a woman's neck</keyword>
+		<keyword>husband kisses his wife</keyword>
+		<keyword>husband kisses his wife's neck</keyword>
+		<keyword>stuffed toy bat</keyword>
+		<keyword>sex</keyword>
+		<keyword>blinking lights</keyword>
+		<keyword>implied nudity</keyword>
+		<keyword>montage</keyword>
+		<keyword>sense of smell</keyword>
+		<keyword>shock</keyword>
+		<keyword>police car</keyword>
+		<keyword>mayor</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>sonic boom</keyword>
+		<keyword>coughing</keyword>
+		<keyword>river</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>arkham massachusetts</keyword>
+		<keyword>teenage girl wears shorts</keyword>
+		<keyword>looking out a window</keyword>
+		<keyword>headphones</keyword>
+		<keyword>crying teenage girl</keyword>
+		<keyword>crying</keyword>
+		<keyword>tears</keyword>
+		<keyword>squatter</keyword>
+		<keyword>camera</keyword>
+		<keyword>solar power</keyword>
+		<keyword>cat</keyword>
+		<keyword>coffee</keyword>
+		<keyword>water</keyword>
+		<keyword>lightning</keyword>
+		<keyword>storm</keyword>
+		<keyword>tent</keyword>
+		<keyword>listening to a radio</keyword>
+		<keyword>static</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>dial tone</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>power surge</keyword>
+		<keyword>lizard</keyword>
+		<keyword>flower</keyword>
+		<keyword>station wagon</keyword>
+		<keyword>tv van</keyword>
+		<keyword>tv news</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood</keyword>
+		<keyword>finger slicing</keyword>
+		<keyword>sunset</keyword>
+		<keyword>stuffed toy dinosaur</keyword>
+		<keyword>whistling</keyword>
+		<keyword>shushing someone with a finger to one's lips</keyword>
+		<keyword>garbled voice</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>drawing</keyword>
+		<keyword>kid art</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>latex gloves</keyword>
+		<keyword>knife</keyword>
+		<keyword>wall clock</keyword>
+		<keyword>overflowing sink</keyword>
+		<keyword>bloody water</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>apology</keyword>
+		<keyword>laughter</keyword>
+		<keyword>old man</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>man with face paint</keyword>
+		<keyword>shower</keyword>
+		<keyword>tape recorder</keyword>
+		<keyword>man with long hair</keyword>
+		<keyword>bottled water</keyword>
+		<keyword>vocalizing</keyword>
+		<keyword>hand bandage</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>reflection in water</keyword>
+		<keyword>sleeping on a couch</keyword>
+		<keyword>drinking</keyword>
+		<keyword>drink</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>remote control</keyword>
+		<keyword>falling asleep while watching tv</keyword>
+		<keyword>sitting on porch steps</keyword>
+		<keyword>draw blade</keyword>
+		<keyword>cutting oneself</keyword>
+		<keyword>self harm</keyword>
+		<keyword>alien</keyword>
+		<keyword>running</keyword>
+		<keyword>fleeing</keyword>
+		<keyword>electricity</keyword>
+		<keyword>moaning</keyword>
+		<keyword>no dial tone</keyword>
+		<keyword>screaming teenage girl</keyword>
+		<keyword>woman's hair falls out</keyword>
+		<keyword>electromagnetic field</keyword>
+		<keyword>cellar</keyword>
+		<keyword>crying little boy</keyword>
+		<keyword>killing a monster</keyword>
+		<keyword>screaming</keyword>
+		<keyword>killing an alpaca</keyword>
+		<keyword>crying man</keyword>
+		<keyword>whimpering</keyword>
+		<keyword>police siren</keyword>
+		<keyword>difficulty breathing</keyword>
+		<keyword>jeep</keyword>
+		<keyword>radiation burn</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>climbing down a water well</keyword>
+		<keyword>rural setting</keyword>
+		<keyword>hunger</keyword>
+		<keyword>mother tries to eat daughter</keyword>
+		<keyword>cannibalism</keyword>
+		<keyword>locked door</keyword>
+		<keyword>breaking down a door</keyword>
+		<keyword>man carries a teenage girl</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>cabin</keyword>
+		<keyword>murder of father</keyword>
+		<keyword>murder of mother</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>wind</keyword>
+		<keyword>undead</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>begins with voice over narration</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>adolescent boy</keyword>
+		<keyword>adolescent girl</keyword>
+		<keyword>blood spattered face</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>darkness</keyword>
+		<keyword>despair</keyword>
+		<keyword>desperation</keyword>
+		<keyword>face spattered with blood</keyword>
+		<keyword>forest</keyword>
+		<keyword>gun</keyword>
+		<keyword>h.p. lovecraft</keyword>
+		<keyword>insanity</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the head</keyword>
+		<keyword>kitchen knife</keyword>
+		<keyword>loss of sanity</keyword>
+		<keyword>lovecraftian</keyword>
+		<keyword>lynchian</keyword>
+		<keyword>marijuana</keyword>
+		<keyword>mutilation</keyword>
+		<keyword>scream</keyword>
+		<keyword>sickness</keyword>
+		<keyword>sink</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the stomach</keyword>
+		<keyword>sunlight</keyword>
+		<keyword>suspense</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>well</keyword>
+		<keyword>candy cinema</keyword>
+		<keyword>man in a rocking chair on porch</keyword>
+		<keyword>reference to angel oreal</keyword>
+		<keyword>reference to archangel michael</keyword>
+		<keyword>reference to angel gabriel</keyword>
+		<keyword>reference to archangel raphael</keyword>
+		<keyword>burning hair</keyword>
+		<keyword>praying</keyword>
+		<keyword>circumscribed pentagram tattoo</keyword>
+		<keyword>foot tattoo</keyword>
+		<keyword>severed finger</keyword>
+		<keyword>shushing</keyword>
+		<keyword>german shepherd</keyword>
+		<keyword>stable</keyword>
+		<keyword>surveyor</keyword>
+		<keyword>whispering</keyword>
+		<keyword>working in a tent</keyword>
+		<keyword>lightning strike</keyword>
+		<keyword>thunderstorm</keyword>
+		<keyword>ufo sighting</keyword>
+		<keyword>child's drawing</keyword>
+		<keyword>purple praying mantis</keyword>
+		<keyword>cat in the road</keyword>
+		<keyword>scratching</keyword>
+		<keyword>picking a tomato</keyword>
+		<keyword>rant</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>child sleeping with mother</keyword>
+		<keyword>water reservoir</keyword>
+		<keyword>sleeping in a chair</keyword>
+		<keyword>circle of candles</keyword>
+		<keyword>merging two people into one</keyword>
+		<keyword>self cutting</keyword>
+		<keyword>drop of blood</keyword>
+		<keyword>reloading a gun</keyword>
+		<keyword>double barreled shotgun</keyword>
+		<keyword>magenta light</keyword>
+		<keyword>some scenes in black and white</keyword>
+		<keyword>some scenes in false color</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>trapdoor</keyword>
+		<keyword>police</keyword>
+		<keyword>police officer</keyword>
+		<keyword>no cell phone signal</keyword>
+		<keyword>lovecraft</keyword>
+		<keyword>reference to h.p. lovecraft</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>husband murders his wife</keyword>
+		<keyword>death of father</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>litoy sleeps with his mother</keyword>
+		<keyword>man carries a woman up stairs</keyword>
+		<keyword>reference to a nightmare</keyword>
+		<keyword>low budget sci fi movie</keyword>
+		<keyword>close up of eyes</keyword>
+	</keywords>
+	<directors>
+		<director> Richard Stanley</director>
+	</directors>
+	<composers>
+		<composer> Colin Stetson</composer>
+	</composers>
+	<producers>
+		<producer> Brett W. Bachman</producer>
+		<producer> Timur Bekbosunov</producer>
+		<producer> Simão Cayatte</producer>
+		<producer> Annie Chang</producer>
+		<producer> Johnny Chang</producer>
+		<producer> Calvin Choong</producer>
+		<producer> David Gregory</producer>
+		<producer> Stacy Jorgensen</producer>
+		<producer> Emma Lee</producer>
+		<producer> Elisa Lleras</producer>
+		<producer> Michael M. McGuire</producer>
+		<producer> Daniel Noah</producer>
+		<producer> Mário Patrocínio</producer>
+		<producer> Cândida Vieira</producer>
+		<producer> Josh C. Waller</producer>
+		<producer> Lisa Whalen</producer>
+		<producer> Peter Wong</producer>
+		<producer> Elijah Wood</producer>
+	</producers>
+	<writers>
+		<writer> H.P. Lovecraft</writer>
+		<writer> Richard Stanley</writer>
+		<writer> Scarlett Amaris</writer>
+	</writers>
+	<editors>
+		<editor> Brett W. Bachman</editor>
+	</editors>
+</doc>

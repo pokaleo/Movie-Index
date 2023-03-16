@@ -1,0 +1,560 @@
+<?xml version="1.0" ?>
+<doc id="tt1855325">
+	<docid>tt1855325</docid>
+	<title>Resident Evil: Retribution</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmY0NjcwMWMtN2MyNC00ZmZjLWEwZTAtM2ExYWE1NDUwNWQyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Alice fights alongside a resistance movement to regain her freedom from an Umbrella Corporation testing facility.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>SDDS</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Milla Jovovich</actor>
+			<role>Alice</role>
+		</credit>
+		<credit>
+			<actor>Sienna Guillory</actor>
+			<role>Jill Valentine</role>
+		</credit>
+		<credit>
+			<actor>Michelle Rodriguez</actor>
+			<role>Rain</role>
+		</credit>
+		<credit>
+			<actor>Aryana Engineer</actor>
+			<role>Becky</role>
+		</credit>
+		<credit>
+			<actor>Bingbing Li</actor>
+			<role>Ada Wong</role>
+		</credit>
+		<credit>
+			<actor>Boris Kodjoe</actor>
+			<role>Luther West</role>
+		</credit>
+		<credit>
+			<actor>Johann Urb</actor>
+			<role>Leon S. Kennedy</role>
+		</credit>
+		<credit>
+			<actor>Robin Kasyanov</actor>
+			<role>Sergei</role>
+		</credit>
+		<credit>
+			<actor>Kevin Durand</actor>
+			<role>Barry Burton</role>
+		</credit>
+		<credit>
+			<actor>Ofilio Portillo</actor>
+			<role>Tony</role>
+		</credit>
+		<credit>
+			<actor>Oded Fehr</actor>
+			<role>Todd</role>
+		</credit>
+		<credit>
+			<actor>Colin Salmon</actor>
+			<role>One</role>
+		</credit>
+		<credit>
+			<actor>Shawn Roberts</actor>
+			<role>Albert Wesker</role>
+		</credit>
+		<credit>
+			<actor>Toshio Oki</actor>
+			<role>Japanese Policeman</role>
+		</credit>
+		<credit>
+			<actor>Takato Yamashita</actor>
+			<role>Japanese Businessman</role>
+		</credit>
+		<credit>
+			<actor>Mika Nakashima</actor>
+			<role>J Pop Girl</role>
+		</credit>
+		<credit>
+			<actor>Megan Charpentier</actor>
+			<role>Red Queen</role>
+		</credit>
+		<credit>
+			<actor>Ave Merson-O'Brian</actor>
+			<role>Red Queen</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Japan">September 3 2012</releasedate>
+		<releasedate country="Russia">September 6 2012</releasedate>
+		<releasedate country="Indonesia">September 12 2012</releasedate>
+		<releasedate country="Malaysia">September 12 2012</releasedate>
+		<releasedate country="Philippines">September 12 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16/13</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">b.o.</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">NC-16</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>action heroine</keyword>
+		<keyword>zombie</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>post apocalypse</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>corporation</keyword>
+		<keyword>rescue</keyword>
+		<keyword>fight</keyword>
+		<keyword>underground</keyword>
+		<keyword>computer</keyword>
+		<keyword>suburb</keyword>
+		<keyword>flying creature</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>falling through ice</keyword>
+		<keyword>snow</keyword>
+		<keyword>assembly line</keyword>
+		<keyword>flood</keyword>
+		<keyword>underwater explosion</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>ice</keyword>
+		<keyword>security camera</keyword>
+		<keyword>hiding in a closet</keyword>
+		<keyword>exposed brain</keyword>
+		<keyword>syringe</keyword>
+		<keyword>parasite</keyword>
+		<keyword>mutation</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>deafness</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>super computer</keyword>
+		<keyword>hologram</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>map</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>ship</keyword>
+		<keyword>bomb</keyword>
+		<keyword>spinning hub cap</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>chain used as a weapon</keyword>
+		<keyword>signing i love you</keyword>
+		<keyword>impalement</keyword>
+		<keyword>attic ladder</keyword>
+		<keyword>biological weapon</keyword>
+		<keyword>submarine</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>elevator</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>sign language</keyword>
+		<keyword>deaf child</keyword>
+		<keyword>clone</keyword>
+		<keyword>bio weapon</keyword>
+		<keyword>megacorporation</keyword>
+		<keyword>woman with a gun</keyword>
+		<keyword>chain</keyword>
+		<keyword>chase</keyword>
+		<keyword>based on video game</keyword>
+		<keyword>monster</keyword>
+		<keyword>laser cutter</keyword>
+		<keyword>laser</keyword>
+		<keyword>heroine</keyword>
+		<keyword>virus</keyword>
+		<keyword>mutant creature</keyword>
+		<keyword>pandemic</keyword>
+		<keyword>vertical take off and landing aircraft</keyword>
+		<keyword>jill valentine character</keyword>
+		<keyword>alice a.k.a. janus prospero character</keyword>
+		<keyword>washington monument washington d.c.</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding motorcycle</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>subway station</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>superhuman speed</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>firearm</keyword>
+		<keyword>gun</keyword>
+		<keyword>weapon</keyword>
+		<keyword>police car</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>handgun</keyword>
+		<keyword>touchscreen</keyword>
+		<keyword>police vehicle</keyword>
+		<keyword>simulation</keyword>
+		<keyword>continuous track vehicle</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>security chief</keyword>
+		<keyword>bald man</keyword>
+		<keyword>car</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>ada wong character</keyword>
+		<keyword>bus</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>tanker truck</keyword>
+		<keyword>strike team</keyword>
+		<keyword>female security chief</keyword>
+		<keyword>giant humanoid</keyword>
+		<keyword>red queen the artificial intelligence</keyword>
+		<keyword>yellow taxi</keyword>
+		<keyword>child</keyword>
+		<keyword>female artificial intelligence</keyword>
+		<keyword>tiltrotor aircraft</keyword>
+		<keyword>handheld device</keyword>
+		<keyword>girl</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>spectacles</keyword>
+		<keyword>human versus undead</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>grapnel gun</keyword>
+		<keyword>human versus monster</keyword>
+		<keyword>rolls royce motor vehicle</keyword>
+		<keyword>rocket propelled grenade</keyword>
+		<keyword>gadget spectacles</keyword>
+		<keyword>actor reprises previous role</keyword>
+		<keyword>underwater complex</keyword>
+		<keyword>ladder</keyword>
+		<keyword>injected in neck</keyword>
+		<keyword>revolver</keyword>
+		<keyword>woman killed</keyword>
+		<keyword>hypodermic syringe</keyword>
+		<keyword>human clone</keyword>
+		<keyword>bearded man</keyword>
+		<keyword>derelict warship</keyword>
+		<keyword>staff weapon</keyword>
+		<keyword>female versus female</keyword>
+		<keyword>firefight</keyword>
+		<keyword>winged creature</keyword>
+		<keyword>man killed</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>hypodermic injection</keyword>
+		<keyword>oval office</keyword>
+		<keyword>human versus zombie</keyword>
+		<keyword>zombie attack</keyword>
+		<keyword>girl in jeopardy</keyword>
+		<keyword>audiovisual communication</keyword>
+		<keyword>panel van</keyword>
+		<keyword>garbage truck</keyword>
+		<keyword>crashed helicopter</keyword>
+		<keyword>baseball bat used as a weapon</keyword>
+		<keyword>undead</keyword>
+		<keyword>waterborne ship</keyword>
+		<keyword>zombie soldier</keyword>
+		<keyword>corpse</keyword>
+		<keyword>reflection in a rear view mirror</keyword>
+		<keyword>injured female</keyword>
+		<keyword>swing set</keyword>
+		<keyword>female clone</keyword>
+		<keyword>red spectacles</keyword>
+		<keyword>dead body</keyword>
+		<keyword>injured woman</keyword>
+		<keyword>chainsaw as weapon</keyword>
+		<keyword>reflection in a rearview mirror</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>van</keyword>
+		<keyword>motor truck</keyword>
+		<keyword>reflection in sideview mirror</keyword>
+		<keyword>leon s. kennedy character</keyword>
+		<keyword>submarine pen</keyword>
+		<keyword>undead soldier</keyword>
+		<keyword>shaft</keyword>
+		<keyword>male clone</keyword>
+		<keyword>winged monster</keyword>
+		<keyword>albert wesker character</keyword>
+		<keyword>brainwashing</keyword>
+		<keyword>girls with guns</keyword>
+		<keyword>resistance movement</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>annihilation</keyword>
+		<keyword>genocide</keyword>
+		<keyword>corrupt system</keyword>
+		<keyword>killing a monster</keyword>
+		<keyword>duel to the death</keyword>
+		<keyword>villainess</keyword>
+		<keyword>brainwashed woman</keyword>
+		<keyword>biopunk</keyword>
+		<keyword>zombie horror</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>full female side nudity</keyword>
+		<keyword>scantily clad female</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>convertiplane</keyword>
+		<keyword>ranged weapon</keyword>
+		<keyword>v 22 osprey</keyword>
+		<keyword>zombie runs</keyword>
+		<keyword>fighting while wearing a dress</keyword>
+		<keyword>woman fights while wearing a dress</keyword>
+		<keyword>resistance</keyword>
+		<keyword>rain</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>house explosion</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>building explosion</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>open ended</keyword>
+		<keyword>revenge</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>flashback</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>motorcycle accident</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>crushed by a car</keyword>
+		<keyword>product placement</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>bitten in the neck</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>taxi</keyword>
+		<keyword>race against time</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>gore</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>power outage</keyword>
+		<keyword>survival</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>x rayed skeleton</keyword>
+		<keyword>showdown</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>mind probe</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>car accident</keyword>
+		<keyword>car crash</keyword>
+		<keyword>escape</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>car motorcycle chase</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>armored car</keyword>
+		<keyword>giant</keyword>
+		<keyword>creature</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>submachine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>zombie with a gun</keyword>
+		<keyword>assassin</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>gun fu</keyword>
+		<keyword>former agent</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>warrior</keyword>
+		<keyword>action hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>mission</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>commando</keyword>
+		<keyword>army</keyword>
+		<keyword>soldier</keyword>
+		<keyword>special forces</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>airplane</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>battle</keyword>
+		<keyword>combat</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>catfight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>explosive</keyword>
+		<keyword>chainsaw</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>subway</keyword>
+		<keyword>truck mounted machine gun</keyword>
+		<keyword>motorcycle car crash</keyword>
+		<keyword>car chase</keyword>
+		<keyword>holographic simulation</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>computer control</keyword>
+		<keyword>kamchatka</keyword>
+		<keyword>knife held to throat</keyword>
+		<keyword>torture</keyword>
+		<keyword>running for one's life</keyword>
+		<keyword>deaf girl</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>car flip</keyword>
+		<keyword>starts with narration</keyword>
+		<keyword>reverse motion</keyword>
+		<keyword>oil tanker explosion</keyword>
+		<keyword>cyberpunk</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>zombie apocalypse</keyword>
+		<keyword>injection</keyword>
+		<keyword>explosion</keyword>
+		<keyword>shootout</keyword>
+		<keyword>axe</keyword>
+		<keyword>experiment</keyword>
+		<keyword>car hit by a truck</keyword>
+		<keyword>vehicular accident</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>airship</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>ex police officer</keyword>
+		<keyword>mind control</keyword>
+		<keyword>raccoon city</keyword>
+		<keyword>female antagonist</keyword>
+		<keyword>walking dead</keyword>
+		<keyword>part of series</keyword>
+		<keyword>flesh eater</keyword>
+		<keyword>cannibalism</keyword>
+		<keyword>towel</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>one against many</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>corporate crime</keyword>
+		<keyword>resident evil</keyword>
+		<keyword>female gunfighter</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>mutant</keyword>
+		<keyword>military</keyword>
+		<keyword>flesh eating zombie</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>three word title</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>disease</keyword>
+		<keyword>plague</keyword>
+		<keyword>infection</keyword>
+		<keyword>zombie survival</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>fifth part</keyword>
+		<keyword>sequel</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Paul W.S. Anderson</director>
+	</directors>
+	<composers>
+		<composer> tomandandy</composer>
+	</composers>
+	<producers>
+		<producer> Paul W.S. Anderson</producer>
+		<producer> Dave Bogosian</producer>
+		<producer> Jeremy Bolt</producer>
+		<producer> Don Carmody</producer>
+		<producer> Alexander Dostal</producer>
+		<producer> Susann Funke</producer>
+		<producer> Hartley Gorenstein</producer>
+		<producer> Samuel Hadida</producer>
+		<producer> Victor Hadida</producer>
+		<producer> Hiroyuki Kobayashi</producer>
+		<producer> Robert Kulzer</producer>
+		<producer> Martin Moszkowicz</producer>
+		<producer> Bernhard Thür</producer>
+	</producers>
+	<writers>
+		<writer> Paul W.S. Anderson</writer>
+	</writers>
+	<editors>
+		<editor> Niven Howie</editor>
+	</editors>
+</doc>

@@ -1,0 +1,444 @@
+<?xml version="1.0" ?>
+<doc id="tt10003008">
+	<docid>tt10003008</docid>
+	<title>The Rental</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjMwOGEyMTQtMDllMC00YTU3LTgyNzktYmEwY2Y4MjQzYmRkXkEyXkFqcGdeQXVyMjM4OTYzMTQ@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">88</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Two couples rent a vacation home for what should be a celebratory weekend get-away.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Dan Stevens</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Alison Brie</actor>
+			<role>Michelle</role>
+		</credit>
+		<credit>
+			<actor>Sheila Vand</actor>
+			<role>Mina</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Allen White</actor>
+			<role>Josh</role>
+		</credit>
+		<credit>
+			<actor>Toby Huss</actor>
+			<role>Taylor</role>
+		</credit>
+		<credit>
+			<actor>Connie Wellman</actor>
+			<role>Apartment Owner</role>
+		</credit>
+		<credit>
+			<actor>Chunk</actor>
+			<role>Reggie</role>
+		</credit>
+		<credit>
+			<actor>Anthony Molinari</actor>
+			<role>Man</role>
+		</credit>
+		<credit>
+			<actor>Amity Bacon</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Chase Barker</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Conor Barker</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Kylie Barker</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Bryant Brown</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Andrew Buchanan</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Briana Hutchens</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Douglas Jones</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Madison McCabe</actor>
+			<role>Background</role>
+		</credit>
+		<credit>
+			<actor>Keloe Cordeta</actor>
+			<role>Background</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">June 18 2020</releasedate>
+		<releasedate country="Netherlands">July 23 2020</releasedate>
+		<releasedate country="Netherlands">July 23 2020</releasedate>
+		<releasedate country="Singapore">July 23 2020</releasedate>
+		<releasedate country="Canada">July 24 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="Mexico">18+</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>vacation</keyword>
+		<keyword>hidden camera</keyword>
+		<keyword>stalker</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>vacation home</keyword>
+		<keyword>hot tub</keyword>
+		<keyword>drug use</keyword>
+		<keyword>telescope</keyword>
+		<keyword>sex with brother's girlfriend</keyword>
+		<keyword>car hits a tree</keyword>
+		<keyword>murdered with a hammer</keyword>
+		<keyword>sex in a shower</keyword>
+		<keyword>unfaithfulness</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>peeping tom</keyword>
+		<keyword>hit on the head with a hammer</keyword>
+		<keyword>secretly filmed during sex</keyword>
+		<keyword>filmed during sex</keyword>
+		<keyword>serial cheater</keyword>
+		<keyword>throwing a body off a cliff</keyword>
+		<keyword>no dogs allowed</keyword>
+		<keyword>coastline</keyword>
+		<keyword>coastal waters</keyword>
+		<keyword>falling over a cliff</keyword>
+		<keyword>weekend trip</keyword>
+		<keyword>psycho killer</keyword>
+		<keyword>stalking</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>hiding from a killer</keyword>
+		<keyword>remote location</keyword>
+		<keyword>coastal fog</keyword>
+		<keyword>climbing down a cliff</keyword>
+		<keyword>murder disguised as accident</keyword>
+		<keyword>masked attacker</keyword>
+		<keyword>masked killer</keyword>
+		<keyword>short term rental</keyword>
+		<keyword>property manager</keyword>
+		<keyword>no pets allowed</keyword>
+		<keyword>two in a shower</keyword>
+		<keyword>creepy man</keyword>
+		<keyword>missing pet</keyword>
+		<keyword>french bulldog</keyword>
+		<keyword>spy camera</keyword>
+		<keyword>security locked door</keyword>
+		<keyword>missing dog</keyword>
+		<keyword>murder</keyword>
+		<keyword>dead body</keyword>
+		<keyword>spike strip</keyword>
+		<keyword>bad guy wins</keyword>
+		<keyword>hiking</keyword>
+		<keyword>secret</keyword>
+		<keyword>smothered to death</keyword>
+		<keyword>sex</keyword>
+		<keyword>hangover</keyword>
+		<keyword>murder of boyfriend</keyword>
+		<keyword>adultery</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>cliff</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>reference to joseph gordon levitt</keyword>
+		<keyword>ecstasy the drug</keyword>
+		<keyword>man and woman share a hot tub</keyword>
+		<keyword>guilt</keyword>
+		<keyword>lie</keyword>
+		<keyword>calling for a dog</keyword>
+		<keyword>circular staircase</keyword>
+		<keyword>chase</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>smoke alarm</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>killed with a hammer</keyword>
+		<keyword>lyft driver</keyword>
+		<keyword>angry wife</keyword>
+		<keyword>hidden camera video</keyword>
+		<keyword>hidden camera footage</keyword>
+		<keyword>sex on video surveillance</keyword>
+		<keyword>sex on video</keyword>
+		<keyword>video footage</keyword>
+		<keyword>cctv video footage</keyword>
+		<keyword>cctv camera</keyword>
+		<keyword>cctv footage</keyword>
+		<keyword>caught having sex on camera</keyword>
+		<keyword>storage room</keyword>
+		<keyword>old man mask</keyword>
+		<keyword>racial prejudice</keyword>
+		<keyword>angry boyfriend</keyword>
+		<keyword>cleaning a crime scene</keyword>
+		<keyword>covering up a murder</keyword>
+		<keyword>accidental murder</keyword>
+		<keyword>caught cheating</keyword>
+		<keyword>violence</keyword>
+		<keyword>vacation rental</keyword>
+		<keyword>mysterious man</keyword>
+		<keyword>ocean</keyword>
+		<keyword>keeping a secret</keyword>
+		<keyword>text message</keyword>
+		<keyword>coast</keyword>
+		<keyword>oceanside home</keyword>
+		<keyword>visible hidden camera</keyword>
+		<keyword>weekend</keyword>
+		<keyword>lying to spouse</keyword>
+		<keyword>lying to partner</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>psycho</keyword>
+		<keyword>hiding</keyword>
+		<keyword>running from killer</keyword>
+		<keyword>standing on a cliff</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>oceanside cliff</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>murder plot</keyword>
+		<keyword>masked murderer</keyword>
+		<keyword>masked assailant</keyword>
+		<keyword>text message displayed on screen</keyword>
+		<keyword>hiking trail</keyword>
+		<keyword>woman showering</keyword>
+		<keyword>shower head</keyword>
+		<keyword>watching sex</keyword>
+		<keyword>creepy mask</keyword>
+		<keyword>searching for a missing dog</keyword>
+		<keyword>deck</keyword>
+		<keyword>voyeur</keyword>
+		<keyword>hammer as weapon</keyword>
+		<keyword>drinking and driving</keyword>
+		<keyword>confrontational woman</keyword>
+		<keyword>mask</keyword>
+		<keyword>filming someone who is sleeping</keyword>
+		<keyword>locked out of a room</keyword>
+		<keyword>woman taking a shower</keyword>
+		<keyword>man in a shower</keyword>
+		<keyword>family trip</keyword>
+		<keyword>walking on a beach</keyword>
+		<keyword>chased in the woods</keyword>
+		<keyword>slasher killer</keyword>
+		<keyword>filming sex</keyword>
+		<keyword>locked room</keyword>
+		<keyword>locked door</keyword>
+		<keyword>philandering husband</keyword>
+		<keyword>discrimination</keyword>
+		<keyword>shower scene</keyword>
+		<keyword>unpunished antagonist</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>psychopathic killer</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>weekend getaway</keyword>
+		<keyword>vacation gone wrong</keyword>
+		<keyword>racism</keyword>
+		<keyword>apology</keyword>
+		<keyword>racist</keyword>
+		<keyword>caretaker</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>confrontation</keyword>
+		<keyword>car accident</keyword>
+		<keyword>voyeurism</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>evil wins</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>bludgeoning</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>brother in law sister in law relationship</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>murder of wife</keyword>
+		<keyword>murder of brother</keyword>
+		<keyword>fog</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>photograph on a computer</keyword>
+		<keyword>f word</keyword>
+		<keyword>nickname</keyword>
+		<keyword>dog</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>woods</keyword>
+		<keyword>prologue</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>loft</keyword>
+		<keyword>name calling</keyword>
+		<keyword>kiss</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>playing with a dog</keyword>
+		<keyword>beach</keyword>
+		<keyword>surprise</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>horseplay</keyword>
+		<keyword>sleep</keyword>
+		<keyword>giving a toast</keyword>
+		<keyword>dog barks</keyword>
+		<keyword>heavy breathing</keyword>
+		<keyword>woman in a shower</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>sleeping on a sofa</keyword>
+		<keyword>small cast</keyword>
+		<keyword>reflection in a mirror</keyword>
+		<keyword>man carries a woman over his shoulder</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>butt crack</keyword>
+		<keyword>search</keyword>
+		<keyword>sliding doors</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>taking a photograph with a cell phone</keyword>
+		<keyword>carrying a dead body</keyword>
+		<keyword>fear</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>blood</keyword>
+		<keyword>using a cell phone as a flashlight</keyword>
+		<keyword>murder of husband</keyword>
+		<keyword>photograph</keyword>
+		<keyword>running woman</keyword>
+		<keyword>mirror</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>yoga</keyword>
+		<keyword>scene during closing credits</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>murder of girlfriend</keyword>
+		<keyword>murder of sister in law</keyword>
+		<keyword>woman wears a bikini</keyword>
+		<keyword>crawlspace</keyword>
+		<keyword>wifi</keyword>
+		<keyword>toolbox</keyword>
+		<keyword>full disclosure</keyword>
+		<keyword>deception</keyword>
+		<keyword>cover up</keyword>
+		<keyword>pushed off a cliff</keyword>
+		<keyword>criminal</keyword>
+		<keyword>deeply disturbed person</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>chase scene</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>smashed car window</keyword>
+		<keyword>stranger</keyword>
+		<keyword>man murders a man</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>road</keyword>
+		<keyword>husband lies to wife</keyword>
+		<keyword>insane person</keyword>
+		<keyword>disturbed person</keyword>
+		<keyword>graphic violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>stealing a cell phone</keyword>
+		<keyword>woman cheats on a man</keyword>
+		<keyword>wine</keyword>
+		<keyword>glass of wine</keyword>
+		<keyword>dancing to music</keyword>
+		<keyword>nude woman in a shower</keyword>
+		<keyword>watching</keyword>
+		<keyword>watching a video</keyword>
+		<keyword>watching someone</keyword>
+		<keyword>offscreen murder</keyword>
+		<keyword>dog barking off camera</keyword>
+		<keyword>business partner</keyword>
+		<keyword>drinking beer</keyword>
+		<keyword>drinking alcohol</keyword>
+		<keyword>husband cheats on wife</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>bad guy</keyword>
+		<keyword>smashing a car window</keyword>
+		<keyword>dance party</keyword>
+		<keyword>broken toilet</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>job</keyword>
+		<keyword>forbidden love</keyword>
+		<keyword>family vacation</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>psychological drama</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>unnamed character</keyword>
+		<keyword>man cheats on a woman</keyword>
+		<keyword>rental</keyword>
+		<keyword>house rental</keyword>
+		<keyword>unnamed antagonist</keyword>
+		<keyword>discovering a hidden camera</keyword>
+		<keyword>independent film</keyword>
+	</keywords>
+	<directors>
+		<director> Dave Franco</director>
+	</directors>
+	<composers>
+		<composer> Danny Bensi</composer>
+		<composer> Saunder Jurriaans</composer>
+	</composers>
+	<producers>
+		<producer> Mike Demski</producer>
+		<producer> Sean Durkin</producer>
+		<producer> Dave Franco</producer>
+		<producer> Brian Garst</producer>
+		<producer> Elizabeth Haggard</producer>
+		<producer> Michael Heimler</producer>
+		<producer> Louise Lovegrove</producer>
+		<producer> Teddy Schwarzman</producer>
+		<producer> Ben Stillman</producer>
+		<producer> Christopher Storer</producer>
+		<producer> Joe Swanberg</producer>
+	</producers>
+	<writers>
+		<writer> Dave Franco</writer>
+		<writer> Joe Swanberg</writer>
+		<writer> Dave Franco</writer>
+		<writer> Joe Swanberg</writer>
+		<writer> Mike Demski</writer>
+	</writers>
+	<editors>
+		<editor> Kyle Reiter</editor>
+	</editors>
+</doc>

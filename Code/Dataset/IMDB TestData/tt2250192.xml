@@ -1,0 +1,405 @@
+<?xml version="1.0" ?>
+<doc id="tt2250192">
+	<docid>tt2250192</docid>
+	<title>Sword Art Online</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">24</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>In the year 2022, thousands of people get trapped in a new virtual MMORPG and the lone wolf player, Kirito, works to escape.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>Japanese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Yoshitsugu Matsuoka</actor>
+			<role>Kirito</role>
+		</credit>
+		<credit>
+			<actor>Haruka Tomatsu</actor>
+			<role>Asuna</role>
+		</credit>
+		<credit>
+			<actor>Bryce Papenbrook</actor>
+			<role>Kirito</role>
+		</credit>
+		<credit>
+			<actor>Cherami Leigh</actor>
+			<role>Asuna</role>
+		</credit>
+		<credit>
+			<actor>Ayana Taketatsu</actor>
+			<role>Leafa</role>
+		</credit>
+		<credit>
+			<actor>Miyuki Sawashiro</actor>
+			<role>Sinon</role>
+		</credit>
+		<credit>
+			<actor>Ai Kayano</actor>
+			<role>Alice</role>
+		</credit>
+		<credit>
+			<actor>Kanae Itô</actor>
+			<role>Yui</role>
+		</credit>
+		<credit>
+			<actor>Ayahi Takagaki</actor>
+			<role>Lisbeth</role>
+		</credit>
+		<credit>
+			<actor>Nobunaga Shimazaki</actor>
+			<role>Eugeo</role>
+		</credit>
+		<credit>
+			<actor>Hiroaki Hirata</actor>
+			<role>Klein</role>
+		</credit>
+		<credit>
+			<actor>Rina Hidaka</actor>
+			<role>Silica</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Sheh</actor>
+			<role>Yui</role>
+		</credit>
+		<credit>
+			<actor>Michelle Ruff</actor>
+			<role>Sinon</role>
+		</credit>
+		<credit>
+			<actor>Cassandra Lee Morris</actor>
+			<role>Leafa</role>
+		</credit>
+		<credit>
+			<actor>Sarah Anne Williams</actor>
+			<role>Lisbeth</role>
+		</credit>
+		<credit>
+			<actor>Brandon Winckler</actor>
+			<role>Eugeo</role>
+		</credit>
+		<credit>
+			<actor>Toshiyuki Morikawa</actor>
+			<role>Seijirou Kikuoka</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Poland">June 24 2012</releasedate>
+		<releasedate country="Japan">July 7 2012</releasedate>
+		<releasedate country="Japan">July 8 2012</releasedate>
+		<releasedate country="United States">July 8 2012</releasedate>
+		<releasedate country="Spain">July 14 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Belgium">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="China">(Banned)</certificate>
+		<certificate country="China">(Banned)</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Iceland">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">18+</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Norway">18</certificate>
+		<certificate country="Philippines">SPG</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Portugal">12AP</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Saudi Arabia">R12</certificate>
+		<certificate country="Saudi Arabia">R18</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sword</keyword>
+		<keyword>sword and fantasy</keyword>
+		<keyword>anime</keyword>
+		<keyword>escape</keyword>
+		<keyword>monster</keyword>
+		<keyword>video game world</keyword>
+		<keyword>teenager</keyword>
+		<keyword>science fantasy</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>love</keyword>
+		<keyword>attempted rape</keyword>
+		<keyword>blood</keyword>
+		<keyword>captivity</keyword>
+		<keyword>coma</keyword>
+		<keyword>courage</keyword>
+		<keyword>crying</keyword>
+		<keyword>danger</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>falling in love</keyword>
+		<keyword>girl in bra and panties</keyword>
+		<keyword>human experiment</keyword>
+		<keyword>impalement</keyword>
+		<keyword>kendo</keyword>
+		<keyword>kiss</keyword>
+		<keyword>knife</keyword>
+		<keyword>memory</keyword>
+		<keyword>night</keyword>
+		<keyword>paralysis</keyword>
+		<keyword>pointy ears</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>sadness</keyword>
+		<keyword>scenic beauty</keyword>
+		<keyword>sexual abuse</keyword>
+		<keyword>snowing</keyword>
+		<keyword>tears</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>unconsciousness</keyword>
+		<keyword>underwear</keyword>
+		<keyword>villain</keyword>
+		<keyword>violence</keyword>
+		<keyword>waking up from a coma</keyword>
+		<keyword>cage</keyword>
+		<keyword>character says i love you</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>game</keyword>
+		<keyword>fear</keyword>
+		<keyword>flower</keyword>
+		<keyword>forest</keyword>
+		<keyword>heart monitor</keyword>
+		<keyword>hope</keyword>
+		<keyword>hospital</keyword>
+		<keyword>piggy back ride</keyword>
+		<keyword>reunion</keyword>
+		<keyword>scream</keyword>
+		<keyword>screaming</keyword>
+		<keyword>snow</keyword>
+		<keyword>trap</keyword>
+		<keyword>reference to virtual reality game</keyword>
+		<keyword>adolescence</keyword>
+		<keyword>adolescent</keyword>
+		<keyword>adolescent boy</keyword>
+		<keyword>adolescent girl</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>teenage protagonist</keyword>
+		<keyword>dungeon</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>gamer</keyword>
+		<keyword>death</keyword>
+		<keyword>massively multiplayer online role playing game</keyword>
+		<keyword>interface</keyword>
+		<keyword>trapped</keyword>
+		<keyword>survival</keyword>
+		<keyword>guild</keyword>
+		<keyword>flying</keyword>
+		<keyword>duel</keyword>
+		<keyword>avatar</keyword>
+		<keyword>rescue</keyword>
+		<keyword>hero</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>anger</keyword>
+		<keyword>affection</keyword>
+		<keyword>arrogance</keyword>
+		<keyword>bravery</keyword>
+		<keyword>despair</keyword>
+		<keyword>desperation</keyword>
+		<keyword>fight</keyword>
+		<keyword>friendship</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>human monster</keyword>
+		<keyword>hung by wrists</keyword>
+		<keyword>licking</keyword>
+		<keyword>sadism</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>true love</keyword>
+		<keyword>attraction</keyword>
+		<keyword>cape the garment</keyword>
+		<keyword>code</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>teenage crush</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>anime animation</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>feel good romance</keyword>
+		<keyword>based on light novel</keyword>
+		<keyword>fanservice</keyword>
+		<keyword>gun</keyword>
+		<keyword>trauma</keyword>
+		<keyword>female frontal nudity</keyword>
+		<keyword>female rear nudity</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>fighting style</keyword>
+		<keyword>victim</keyword>
+		<keyword>software</keyword>
+		<keyword>isekai</keyword>
+	</keywords>
+	<directors>
+		<director> Tomohiko Itô</director>
+		<director> Manabu Ono</director>
+		<director> Takashi Sakuma</director>
+		<director> Hiroshi Kimura</director>
+		<director> Shigeki Kawai</director>
+		<director> Shunsuke Nakashige</director>
+		<director> Shunsuke Ishikawa</director>
+		<director> Michiru Itabisashi</director>
+		<director> Yasuyuki Fuse</director>
+		<director> Makoto Hoshino</director>
+		<director> Pyeon-Gang Ho</director>
+		<director> Akira Yamada</director>
+		<director> Yoshiyuki Fujiwara</director>
+		<director> Shigetaka Ikeda</director>
+		<director> Takahiro Shikama</director>
+		<director> Hidetoshi Takahashi</director>
+		<director> Daisuke Takashima</director>
+		<director> Shuu Watanabe</director>
+		<director> Hirokazu Yamada</director>
+		<director> Satoshi Saga</director>
+		<director> Tsuyoshi Tobita</director>
+		<director> Takehiro Miura</director>
+		<director> Takuma Suzuki</director>
+		<director> Hirotaka Tokuda</director>
+		<director> Masakazu Ohara</director>
+		<director> Tatsumi Fujii</director>
+		<director> Yûki Itô</director>
+		<director> Kôichi Kikuta</director>
+		<director> Ken'ichi Kuhara</director>
+		<director> Takayoshi Morimiya</director>
+		<director> Tamaki Nakatsu</director>
+		<director> Kazuma Satô</director>
+		<director> Hideya Takahashi</director>
+		<director> Shin'ya Watada</director>
+		<director> Hironori Aoyagi</director>
+		<director> Yoshihiko Iwata</director>
+		<director> Kosaya</director>
+		<director> Shunsuke Machitani</director>
+		<director> Yasuto Nishikata</director>
+		<director> Hiroki Hirano</director>
+		<director> Kôji Kobayashi</director>
+		<director> Saori Den</director>
+		<director> Hideya Itô</director>
+		<director> Yûsuke Maruyama</director>
+		<director> Naomi Nakayama</director>
+		<director> Tomohisa Onoue</director>
+		<director> Kenji Setô</director>
+		<director> Ken Takahashi</director>
+		<director> Tôru Hamasaki</director>
+		<director> Yuya Horiuchi</director>
+		<director> Tomoya Tanaka</director>
+	</directors>
+	<composers>
+		<composer> Yuki Kajiura</composer>
+	</composers>
+	<producers>
+		<producer> Patrick Massett</producer>
+		<producer> John Zinman</producer>
+		<producer> Atsuhiro Iwakami</producer>
+		<producer> Kazuma Miki</producer>
+		<producer> Nobuhiro Ôsawa</producer>
+		<producer> Yôsuke Futami</producer>
+		<producer> Shin'ichirô Kashiwada</producer>
+		<producer> Jun Katô</producer>
+		<producer> Ryûtarô Kawakami</producer>
+		<producer> Tomoyuki Tsuchiya</producer>
+		<producer> Kenta Suzuki</producer>
+		<producer> Naoko Koyama</producer>
+		<producer> Shôki Niwa</producer>
+		<producer> Tomonori Ochikoshi</producer>
+		<producer> Masao Ueda</producer>
+		<producer> Joji Kiyota</producer>
+	</producers>
+	<writers>
+		<writer> Reki Kawahara</writer>
+		<writer> Reki Kawahara</writer>
+		<writer> Yukito Kizawa</writer>
+		<writer> Yukito Kizawa</writer>
+		<writer> Muneo Nakamoto</writer>
+		<writer> Munemasa Nakamoto</writer>
+		<writer> Yukie Sugawara</writer>
+		<writer> Yukie Sugawara</writer>
+		<writer> Yoshikazu Mukai</writer>
+		<writer> Ko Nekota</writer>
+		<writer> Shûji Iriyama</writer>
+		<writer> Naoki Shôji</writer>
+		<writer> Tomohiko Itô</writer>
+		<writer> Ryôsuke Suzuki</writer>
+		<writer> Atsushi Takayama</writer>
+		<writer> Alexander Von David</writer>
+	</writers>
+	<editors>
+		<editor> Yuji Kondo</editor>
+		<editor> Shigeru Nishiyama</editor>
+	</editors>
+</doc>

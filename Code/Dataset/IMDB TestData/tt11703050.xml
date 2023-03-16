@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<doc id="tt11703050">
+	<docid>tt11703050</docid>
+	<title>The House</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>III 2022</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Across different eras, a poor family, an anxious developer and a fed-up landlady become tied to the same mysterious house in this animated dark comedy.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Mia Goth</actor>
+			<role>Mabel (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Matthew Goode</actor>
+			<role>Raymond (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Claudie Blakley</actor>
+			<role>Penelope (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Eleanor De Swaef-Roels</actor>
+			<role>Isobel (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Mark Heap</actor>
+			<role>Mr. Thomas (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Joshua McGuire</actor>
+			<role>Georgie (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Cole</actor>
+			<role>Great Aunt Eleanor (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Miranda Richardson</actor>
+			<role>Aunt Clarice (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>David Peacock</actor>
+			<role>Uncle Lucien</role>
+		</credit>
+		<credit>
+			<actor>Barnaby Pilling</actor>
+			<role>Van Schoonbeek (segment &quot;I&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Jarvis Cocker</actor>
+			<role>Developer (segment &quot;II&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Sven Wollter</actor>
+			<role>Odd Man (segment &quot;II&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Yvonne Lombard</actor>
+			<role>Odd Woman (segment &quot;II&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Tommy Hibbitts</actor>
+			<role>Police Officer #1 (segment &quot;II&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Ayesha Antoine</actor>
+			<role>Police Officer #2</role>
+		</credit>
+		<credit>
+			<actor>Jason Barnett</actor>
+			<role>Visitors &amp; Relatives (segment &quot;II&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Wayne Forester</actor>
+			<role>Visitors &amp; Relatives (segment &quot;II&quot;)</role>
+		</credit>
+		<credit>
+			<actor>Poppy Gathard</actor>
+			<role>Visitors &amp; Relatives (segment &quot;II&quot;)</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">January 14 2022</releasedate>
+		<releasedate country="Argentina">January 14 2022</releasedate>
+		<releasedate country="Australia">January 14 2022</releasedate>
+		<releasedate country="Brazil">January 14 2022</releasedate>
+		<releasedate country="Canada">January 14 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">18</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>stop motion</keyword>
+		<keyword>house</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>anthology</keyword>
+		<keyword>adult animation</keyword>
+		<keyword>generation</keyword>
+		<keyword>home</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>stop motion animation</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>cat</keyword>
+		<keyword>mouse</keyword>
+		<keyword>architect</keyword>
+		<keyword>mature animation</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>directed by several directors</keyword>
+		<keyword>for grown ups animation</keyword>
+	</keywords>
+	<directors>
+		<director> Paloma Baeza</director>
+		<director> Emma De Swaef</director>
+		<director> Niki Lindroth von Bahr</director>
+		<director> Marc James Roels</director>
+	</directors>
+	<composers>
+		<composer> Gustavo Santaolalla</composer>
+	</composers>
+	<producers>
+		<producer> Charlotte Bavasso</producer>
+		<producer> Christopher O'Reilly</producer>
+		<producer> Angela Poschet</producer>
+		<producer> Diego Rosner</producer>
+	</producers>
+	<writers>
+		<writer> Enda Walsh</writer>
+		<writer> Emma De Swaef</writer>
+		<writer> Marc James Roels</writer>
+		<writer> Niki Lindroth von Bahr</writer>
+		<writer> Johannes Nyholm</writer>
+		<writer> Paloma Baeza</writer>
+	</writers>
+	<editors>
+		<editor> Barney Pilling</editor>
+	</editors>
+</doc>

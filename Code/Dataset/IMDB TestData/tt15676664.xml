@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<doc id="tt15676664">
+	<docid>tt15676664</docid>
+	<title>Venus</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTRlNDk5ZTUtZGY4MC00N2IyLWE0N2UtYzI1ZWQ4MGJkY2QzXkEyXkFqcGdeQXVyMTU1ODc2Mjkz._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>I 2022</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Horror invades the concrete corridors of a cursed apartment complex on the outskirts of Madrid.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Ester Expósito</actor>
+			<role>Lucía</role>
+		</credit>
+		<credit>
+			<actor>Inés Fernández</actor>
+			<role>Alba</role>
+		</credit>
+		<credit>
+			<actor>Ángela Cremonte</actor>
+			<role>Rocío</role>
+		</credit>
+		<credit>
+			<actor>Magüi Mira</actor>
+			<role>Marga</role>
+		</credit>
+		<credit>
+			<actor>Aten Soria</actor>
+			<role>Romina</role>
+		</credit>
+		<credit>
+			<actor>María José Sarrate</actor>
+			<role>Rosita</role>
+		</credit>
+		<credit>
+			<actor>Sofía Reyes</actor>
+			<role>Olivia</role>
+		</credit>
+		<credit>
+			<actor>Federico Aguado</actor>
+			<role>Salinas</role>
+		</credit>
+		<credit>
+			<actor>Pedro Bachura</actor>
+			<role>Arruza</role>
+		</credit>
+		<credit>
+			<actor>Francisco Boira</actor>
+			<role>Calvo</role>
+		</credit>
+		<credit>
+			<actor>Fernando Valdivielso</actor>
+			<role>Moro</role>
+		</credit>
+		<credit>
+			<actor>Alejandra Meco</actor>
+			<role>Nina</role>
+		</credit>
+		<credit>
+			<actor>Rocío Andrés Riber</actor>
+			<role>Chica Gogó</role>
+		</credit>
+		<credit>
+			<actor>Said Taibi</actor>
+			<role>Tipo Móvil</role>
+		</credit>
+		<credit>
+			<actor>Sonsoles Benedicto</actor>
+			<role>Tía Galga</role>
+		</credit>
+		<credit>
+			<actor>Lourdes Llamas</actor>
+			<role>Bailarina</role>
+		</credit>
+		<credit>
+			<actor>Nany Reyes</actor>
+			<role>Bailarina</role>
+		</credit>
+		<credit>
+			<actor>Claudia Apolonia</actor>
+			<role>Bailarina</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 14 2022</releasedate>
+		<releasedate country="United States">September 23 2022</releasedate>
+		<releasedate country="Spain">October 6 2022</releasedate>
+		<releasedate country="Poland">October 14 2022</releasedate>
+		<releasedate country="Sweden">November 10 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>apartment</keyword>
+		<keyword>spanish horror</keyword>
+	</keywords>
+	<directors>
+		<director> Jaume Balagueró</director>
+	</directors>
+	<composers>
+		<composer> Vanessa Garde</composer>
+	</composers>
+	<producers>
+		<producer> Carolina Bang</producer>
+		<producer> Sandra Condito</producer>
+		<producer> Álex de la Iglesia</producer>
+		<producer> Araceli Pérez-Rastrilla</producer>
+	</producers>
+	<writers>
+		<writer> Jaume Balagueró</writer>
+		<writer> Fernando Navarro</writer>
+	</writers>
+	<editors>
+		<editor> Luis de la Madrid</editor>
+	</editors>
+</doc>

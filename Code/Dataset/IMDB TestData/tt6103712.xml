@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<doc id="tt6103712">
+	<docid>tt6103712</docid>
+	<title>Australian Survivor</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2JkMTkwMWYtZmNlYi00ODczLWJhZjEtY2FiNGRmMzI3NTIyXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>A reality show where a group of twenty-four Australians are stranded in a remote location with little more than the clothes on their back. The winner takes home $500,000 and the title of Sole Survivor.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jonathan LaPaglia</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Shonee Fairfax</actor>
+			<role>Self - Contenders Tribe</role>
+		</credit>
+		<credit>
+			<actor>Locklan Gilbert</actor>
+			<role>Self - Samatau Tribe</role>
+		</credit>
+		<credit>
+			<actor>Michelle Dougan</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Phoebe Timmins</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Lee Carseldine</actor>
+			<role>Self - Mokuta Tribe</role>
+		</credit>
+		<credit>
+			<actor>Nick Iadanza</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Henry Nicholson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jericho Malabonga</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Luke Toki</actor>
+			<role>Self - Asaga Tribe</role>
+		</credit>
+		<credit>
+			<actor>Brooke Jowett</actor>
+			<role>Self - Saanapu Tribe</role>
+		</credit>
+		<credit>
+			<actor>Felicity Egginton</actor>
+			<role>Self - Saanapu Tribe</role>
+		</credit>
+		<credit>
+			<actor>Sharn Coombes</actor>
+			<role>Self - Mokuta Tribe</role>
+		</credit>
+		<credit>
+			<actor>Moana Hope</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Zach Kozyrski</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Lydia Lassila</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Shane Gould</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Mat Rogers</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">August 21 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>home</keyword>
+		<keyword>survival game show</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Venables</director>
+		<director> Richard Franc</director>
+	</directors>
+	<composers>
+		<composer> David Barber</composer>
+		<composer> Joff Bush</composer>
+		<composer> Helena Czajka</composer>
+		<composer> Russ Landau</composer>
+	</composers>
+	<producers>
+		<producer> David Forster</producer>
+		<producer> Paul Kingston</producer>
+		<producer> Elliot J. Spencer</producer>
+		<producer> Pete Cunningham</producer>
+		<producer> Amelia Fisk</producer>
+		<producer> Adam Fergusson</producer>
+		<producer> Arnold Perez</producer>
+		<producer> Mark Barlin</producer>
+		<producer> Peter Newman</producer>
+		<producer> Owen Matthews</producer>
+		<producer> Courtney Brown</producer>
+		<producer> Drina Maruna</producer>
+		<producer> Jaclyn Robertson</producer>
+		<producer> Teresa O'Mara</producer>
+		<producer> Lisa Fardy</producer>
+		<producer> Brianna la Rance</producer>
+		<producer> James Crethar</producer>
+		<producer> Natalie Cattach</producer>
+		<producer> Tim Hancock</producer>
+		<producer> Georgina Hinds</producer>
+		<producer> Stephen Tate</producer>
+		<producer> Tim Toni</producer>
+		<producer> Kam Vurlow</producer>
+		<producer> Ellie Hayward</producer>
+		<producer> Keely Sonntag</producer>
+		<producer> Breana Garratt</producer>
+		<producer> Di Yang</producer>
+		<producer> Andrea Rehrig</producer>
+	</producers>
+	<writers>
+		<writer> Charlie Parsons</writer>
+		<writer> Charlie Parsons</writer>
+	</writers>
+	<editors>
+		<editor> Andrew Shanks</editor>
+		<editor> Afshin Jaafari</editor>
+		<editor> Faiz Sharif</editor>
+		<editor> Luke Huggett</editor>
+		<editor> Teresa O'Mara</editor>
+		<editor> Matt Cluett</editor>
+	</editors>
+</doc>

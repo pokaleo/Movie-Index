@@ -1,0 +1,556 @@
+<?xml version="1.0" ?>
+<doc id="tt1634106">
+	<docid>tt1634106</docid>
+	<title>Bloodshot</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmU5ZmQyMGQtOThhNC00MDJlLWFjYWEtNjVkMzAwZDljZTg3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">109</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Ray Garrison, a slain soldier, is re-animated with superpowers.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Vin Diesel</actor>
+			<role>Bloodshot</role>
+		</credit>
+		<credit>
+			<actor>Eiza González</actor>
+			<role>KT</role>
+		</credit>
+		<credit>
+			<actor>Sam Heughan</actor>
+			<role>Jimmy Dalton</role>
+		</credit>
+		<credit>
+			<actor>Toby Kebbell</actor>
+			<role>Martin Axe</role>
+		</credit>
+		<credit>
+			<actor>Talulah Riley</actor>
+			<role>Gina Garrison</role>
+		</credit>
+		<credit>
+			<actor>Lamorne Morris</actor>
+			<role>Wilfred Wigans</role>
+		</credit>
+		<credit>
+			<actor>Guy Pearce</actor>
+			<role>Dr. Emil Harting</role>
+		</credit>
+		<credit>
+			<actor>Jóhannes Haukur Jóhannesson</actor>
+			<role>Nick Baris</role>
+		</credit>
+		<credit>
+			<actor>Alex Hernandez</actor>
+			<role>Tibbs</role>
+		</credit>
+		<credit>
+			<actor>Siddharth Dhananjay</actor>
+			<role>Eric</role>
+		</credit>
+		<credit>
+			<actor>Tamer Burjaq</actor>
+			<role>Mombasa Gunman</role>
+		</credit>
+		<credit>
+			<actor>Clyde Berning</actor>
+			<role>Mombasa Hostage</role>
+		</credit>
+		<credit>
+			<actor>David Dukas</actor>
+			<role>Merc Driver</role>
+		</credit>
+		<credit>
+			<actor>Charlie Bouguenon</actor>
+			<role>Merc Leader</role>
+		</credit>
+		<credit>
+			<actor>Tyrel Meyer</actor>
+			<role>Merc</role>
+		</credit>
+		<credit>
+			<actor>Frans Steyn</actor>
+			<role>Guard</role>
+		</credit>
+		<credit>
+			<actor>David Davadoss</actor>
+			<role>Guard</role>
+		</credit>
+		<credit>
+			<actor>Alex Anlos</actor>
+			<role>Baris Merc</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">March 5 2020</releasedate>
+		<releasedate country="Spain">March 6 2020</releasedate>
+		<releasedate country="United States">March 10 2020</releasedate>
+		<releasedate country="Egypt">March 11 2020</releasedate>
+		<releasedate country="United Kingdom">March 11 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">Sin Calificación</certificate>
+		<certificate country="Egypt">All ages</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Mexico">PG-13</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">u 13+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>valiant comics</keyword>
+		<keyword>superhero</keyword>
+		<keyword>revenge</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>nanotechnology</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>brainwashing</keyword>
+		<keyword>mind control</keyword>
+		<keyword>prologue</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>memory</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>one word title</keyword>
+		<keyword>body enhancement</keyword>
+		<keyword>self healing</keyword>
+		<keyword>super strength</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>one man army</keyword>
+		<keyword>ruse</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>nano machines</keyword>
+		<keyword>cyborg assassin</keyword>
+		<keyword>cyborg as protagonist</keyword>
+		<keyword>indestructible hero</keyword>
+		<keyword>tricked into killing someone</keyword>
+		<keyword>tragic hero</keyword>
+		<keyword>faked death</keyword>
+		<keyword>team of killers</keyword>
+		<keyword>team of cyborgs</keyword>
+		<keyword>killer cyborg</keyword>
+		<keyword>misguided revenge</keyword>
+		<keyword>supersoldier</keyword>
+		<keyword>bionics</keyword>
+		<keyword>futuristic technology</keyword>
+		<keyword>tech nerd</keyword>
+		<keyword>deep fake</keyword>
+		<keyword>implanted memory</keyword>
+		<keyword>breathing underwater</keyword>
+		<keyword>forced to cooperate</keyword>
+		<keyword>london england</keyword>
+		<keyword>black tech genius</keyword>
+		<keyword>bionic limbs</keyword>
+		<keyword>memory reset</keyword>
+		<keyword>evil computer scientist</keyword>
+		<keyword>evil tech genius</keyword>
+		<keyword>memory triggered by a song</keyword>
+		<keyword>virtual reality</keyword>
+		<keyword>near future</keyword>
+		<keyword>nanites in blood</keyword>
+		<keyword>nanites</keyword>
+		<keyword>hyper regeneration</keyword>
+		<keyword>cyborg versus cyborg</keyword>
+		<keyword>programmer versus programmer</keyword>
+		<keyword>hacker versus hacker</keyword>
+		<keyword>assassin turns good</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>battle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>one against many</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>reference to james bond</keyword>
+		<keyword>action hero</keyword>
+		<keyword>reference to kobe bryant</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>revelation</keyword>
+		<keyword>false memory</keyword>
+		<keyword>flashback</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>ex marine</keyword>
+		<keyword>u.s. marine corps</keyword>
+		<keyword>military</keyword>
+		<keyword>soldier</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>special forces</keyword>
+		<keyword>ex special forces</keyword>
+		<keyword>ex navy seal</keyword>
+		<keyword>commando</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>mission</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>montage</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>prosthetic limb</keyword>
+		<keyword>prosthetic arm</keyword>
+		<keyword>prosthetic leg</keyword>
+		<keyword>robotics</keyword>
+		<keyword>power suit</keyword>
+		<keyword>punching bag</keyword>
+		<keyword>weightlifting</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>massacre</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>pistol</keyword>
+		<keyword>silencer</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>smoke grenade</keyword>
+		<keyword>assassination</keyword>
+		<keyword>hitman</keyword>
+		<keyword>hitwoman</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>female mercenary</keyword>
+		<keyword>security guard</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security camera</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>satellite</keyword>
+		<keyword>drone</keyword>
+		<keyword>heat vision</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>corpse</keyword>
+		<keyword>old flame</keyword>
+		<keyword>englishwoman</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>australian</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>east sussex</keyword>
+		<keyword>england</keyword>
+		<keyword>kuala lumpur malaysia</keyword>
+		<keyword>hungary</keyword>
+		<keyword>budapest hungary</keyword>
+		<keyword>italy</keyword>
+		<keyword>mombasa kenya</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>skyscraper</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>corporation</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>corporate crime</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>high tech</keyword>
+		<keyword>technology</keyword>
+		<keyword>experimental technology</keyword>
+		<keyword>cyberpunk</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>simulation</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>bomb</keyword>
+		<keyword>van</keyword>
+		<keyword>police car</keyword>
+		<keyword>airfield</keyword>
+		<keyword>hologram</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>emp weapon</keyword>
+		<keyword>power outage</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>spear gun</keyword>
+		<keyword>two against one</keyword>
+		<keyword>elevator shaft</keyword>
+		<keyword>glass elevator</keyword>
+		<keyword>elevator crash</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>map</keyword>
+		<keyword>race against time</keyword>
+		<keyword>panic</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>vintage car</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>sports car</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>chinese takeout</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>redemption</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the throat</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the foot</keyword>
+		<keyword>scientist</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>scar</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>fade to black</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sadism</keyword>
+		<keyword>psychological manipulation</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>cell phone detonator</keyword>
+		<keyword>radio</keyword>
+		<keyword>blood transfusion</keyword>
+		<keyword>prototype</keyword>
+		<keyword>tour</keyword>
+		<keyword>car theft</keyword>
+		<keyword>henchman</keyword>
+		<keyword>change of heart</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>superpower</keyword>
+		<keyword>scalpel</keyword>
+		<keyword>mad doctor</keyword>
+		<keyword>evil doctor</keyword>
+		<keyword>brain scan</keyword>
+		<keyword>body scan</keyword>
+		<keyword>x rayed skeleton</keyword>
+		<keyword>safe house</keyword>
+		<keyword>strapped to a bed</keyword>
+		<keyword>flour</keyword>
+		<keyword>cover up</keyword>
+		<keyword>penis joke</keyword>
+		<keyword>flare</keyword>
+		<keyword>armored car</keyword>
+		<keyword>bald man</keyword>
+		<keyword>bald hero</keyword>
+		<keyword>helmet</keyword>
+		<keyword>body camera</keyword>
+		<keyword>war wound</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>american in the uk</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>air base</keyword>
+		<keyword>aston martin</keyword>
+		<keyword>final battle</keyword>
+		<keyword>breast implant scar</keyword>
+		<keyword>interracial marriage</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>wiped memory</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>cybernetic enhancement</keyword>
+		<keyword>u.s. marine</keyword>
+		<keyword>amalfi coast</keyword>
+		<keyword>amnesia</keyword>
+		<keyword>grenade</keyword>
+		<keyword>soho london</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>murder of wife</keyword>
+		<keyword>apology</keyword>
+		<keyword>thumbs up gesture</keyword>
+		<keyword>biotech sci fi</keyword>
+		<keyword>cyborg sci fi</keyword>
+		<keyword>gulfstream jet</keyword>
+		<keyword>enemy ambush</keyword>
+		<keyword>implied sex</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>bolt gun</keyword>
+		<keyword>begins with death</keyword>
+		<keyword>injection with a sedative</keyword>
+		<keyword>reanimation</keyword>
+		<keyword>trapped in a tunnel</keyword>
+		<keyword>set up for unmade sequel</keyword>
+		<keyword>repeat story</keyword>
+		<keyword>criminal kills competitor</keyword>
+		<keyword>ex wife</keyword>
+		<keyword>knife in back</keyword>
+		<keyword>fight in an elevator</keyword>
+		<keyword>tech genius</keyword>
+		<keyword>meat locker</keyword>
+		<keyword>motorcycle chase</keyword>
+		<keyword>fight on the top of an elevator</keyword>
+		<keyword>automobile trailer</keyword>
+		<keyword>tractor trailer crash</keyword>
+		<keyword>cgi</keyword>
+		<keyword>fight</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>legs</keyword>
+		<keyword>bare legs</keyword>
+		<keyword>female bare legs</keyword>
+		<keyword>camera shot of a woman's legs</keyword>
+		<keyword>woman wears a short dress</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>plot twist</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>cigarette lighter</keyword>
+	</keywords>
+	<directors>
+		<director> Dave Wilson</director>
+	</directors>
+	<composers>
+		<composer> Steve Jablonsky</composer>
+	</composers>
+	<producers>
+		<producer> Matthew Antoun</producer>
+		<producer> Jeffrey Chan</producer>
+		<producer> Vin Diesel</producer>
+		<producer> Cheryl Eatock</producer>
+		<producer> Maurice Fadida</producer>
+		<producer> Louis G. Friedman</producer>
+		<producer> Jonathan Gray</producer>
+		<producer> Genevieve Hofmeyr</producer>
+		<producer> Toby Jaffe</producer>
+		<producer> Jason Kothari</producer>
+		<producer> Rita LeBlanc</producer>
+		<producer> Steve Matzkin</producer>
+		<producer> Dan Mintz</producer>
+		<producer> Neal H. Moritz</producer>
+		<producer> Buddy Patrick</producer>
+		<producer> Matthew Rhodes</producer>
+		<producer> Sarah Schroeder-Matzkin</producer>
+		<producer> Dinesh Shamdasani</producer>
+		<producer> Mark Strome</producer>
+		<producer> Matthew Vaughn</producer>
+		<producer> Dione Wood</producer>
+		<producer> Dong Yu</producer>
+	</producers>
+	<writers>
+		<writer> Jeff Wadlow</writer>
+		<writer> Eric Heisserer</writer>
+		<writer> Jeff Wadlow</writer>
+		<writer> Kevin VanHook</writer>
+		<writer> Don Perlin</writer>
+		<writer> Bob Layton</writer>
+	</writers>
+	<editors>
+		<editor> Jim May</editor>
+	</editors>
+</doc>

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc id="tt15296186">
+	<docid>tt15296186</docid>
+	<title>Mira</title>
+	<image/>
+	<year>II 2022</year>
+	<runningtimes>
+		<runningtime country="default">116</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A father working on a space station has to save his 15-year-old daughter after a meteorite shower hits Earth, using only satellite phones and cameras.</plot>
+	<countries>
+		<country>Russia</country>
+	</countries>
+	<languages>
+		<language>Russian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Anatoliy Belyy</actor>
+			<role>Arabov</role>
+		</credit>
+		<credit>
+			<actor>Veronika Ustimova</actor>
+			<role>Lera</role>
+		</credit>
+		<credit>
+			<actor>Yevgeniy Yegorov</actor>
+			<role>Misha</role>
+		</credit>
+		<credit>
+			<actor>Darya Moroz</actor>
+			<role>Svetlana</role>
+		</credit>
+		<credit>
+			<actor>Maksim Lagashkin</actor>
+			<role>Boris</role>
+		</credit>
+		<credit>
+			<actor>Kirill Zaytsev</actor>
+			<role>Antonov</role>
+		</credit>
+		<credit>
+			<actor>Andrey Smolyakov</actor>
+			<role>Fomin</role>
+		</credit>
+		<credit>
+			<actor>Aleksander Petrov</actor>
+			<role>Egor</role>
+		</credit>
+		<credit>
+			<actor>Igor Khripunov</actor>
+			<role>Ryabinin</role>
+		</credit>
+		<credit>
+			<actor>Agniya Vorobyeva</actor>
+			<role>little Lera</role>
+		</credit>
+		<credit>
+			<actor>Tatyana Dogileva</actor>
+			<role>Elderly Woman</role>
+		</credit>
+		<credit>
+			<actor>Vladimir Simonov</actor>
+			<role>Elderly Man</role>
+		</credit>
+		<credit>
+			<actor>Anton Bogdanov</actor>
+			<role>Rescuer</role>
+		</credit>
+		<credit>
+			<actor>Bain Bovaldinov</actor>
+			<role>Entomologist</role>
+		</credit>
+		<credit>
+			<actor>Kristina Korbut</actor>
+			<role>Olya</role>
+		</credit>
+		<credit>
+			<actor>Artem Artemyev</actor>
+			<role>Voyennyy</role>
+		</credit>
+		<credit>
+			<actor>Marina Burtseva</actor>
+			<role>Tanya</role>
+		</credit>
+		<credit>
+			<actor>Aleksandr Kuzmin</actor>
+			<role>Pozharnyy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Russia">December 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Russia">12+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>space</keyword>
+	</keywords>
+	<directors>
+		<director> Dmitriy Kiselev</director>
+	</directors>
+	<composers>
+		<composer> Yuriy Poteenko</composer>
+	</composers>
+	<producers>
+		<producer> Len Blavatnik</producer>
+		<producer> Ruben Dishdishyan</producer>
+		<producer> Yuliya Ivanova</producer>
+		<producer> Nataliya Klibanova</producer>
+		<producer> Andrey Korobov</producer>
+		<producer> Narek Martirosyan</producer>
+	</producers>
+	<writers>
+		<writer> Timofei Dekin</writer>
+		<writer> Ekaterina Mavromatis</writer>
+		<writer> Sergey Kaluzhanov</writer>
+		<writer> Narek Martirosyan</writer>
+	</writers>
+	<editors>
+		<editor> Alexey Kumakshin</editor>
+	</editors>
+</doc>

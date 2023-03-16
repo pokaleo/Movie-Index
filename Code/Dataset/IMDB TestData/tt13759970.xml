@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<doc id="tt13759970">
+	<docid>tt13759970</docid>
+	<title>Taxi Driver</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,4,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">70</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The story of a deluxe taxi driver who gets revenge on behalf of his passengers. It is based on the webtoon Deluxe Taxi by Carlos and Lee Jae-jin</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Lee Jehoon</actor>
+			<role>Kim Do Gi</role>
+		</credit>
+		<credit>
+			<actor>Kim Eui-sung</actor>
+			<role>Jang Sung Chul</role>
+		</credit>
+		<credit>
+			<actor>Pyo Ye-Jin</actor>
+			<role>Ahn Go Eun</role>
+		</credit>
+		<credit>
+			<actor>Jang Hyuk-jin</actor>
+			<role>Choi Kyung Goo</role>
+		</credit>
+		<credit>
+			<actor>Yoo-ram Bae</actor>
+			<role>Park Jin Eon</role>
+		</credit>
+		<credit>
+			<actor>Esom</actor>
+			<role>Kang Ha Na</role>
+		</credit>
+		<credit>
+			<actor>Sin Jae-ha</actor>
+			<role>On Ha Joon</role>
+		</credit>
+		<credit>
+			<actor>Ji-Yeon Cha</actor>
+			<role>Baek Sung Mi</role>
+		</credit>
+		<credit>
+			<actor>Seung-mok Yoo</actor>
+			<role>Jo Jin Woo</role>
+		</credit>
+		<credit>
+			<actor>Lee Ho-Cheol</actor>
+			<role>Gu Seok Tae</role>
+		</credit>
+		<credit>
+			<actor>Hyuntae Lim</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Lee Yoo-Joon</actor>
+			<role>Investigator Wang</role>
+		</credit>
+		<credit>
+			<actor>Seok-hyeon Jo</actor>
+			<role>Jo Do Chul</role>
+		</credit>
+		<credit>
+			<actor>Yu Yeon-Su</actor>
+			<role>So Eun</role>
+		</credit>
+		<credit>
+			<actor>Lee Yeong-ae</actor>
+			<role>Guide</role>
+		</credit>
+		<credit>
+			<actor>Hyeon-jin Baek</actor>
+			<role>Chairman Park Yang Jin</role>
+		</credit>
+		<credit>
+			<actor>Heo Jeong-do</actor>
+			<role>Park Dong Pil</role>
+		</credit>
+		<credit>
+			<actor>Jae-Yeong Kim</actor>
+			<role>General Manager Lee</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">April 9 2021</releasedate>
+		<releasedate country="India">April 9 2021</releasedate>
+		<releasedate country="South Korea">April 9 2021</releasedate>
+		<releasedate country="Poland">April 9 2021</releasedate>
+		<releasedate country="Singapore">April 9 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">19</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>taxi driver</keyword>
+	</keywords>
+	<directors>
+		<director> Joon-Woo Park</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Carlos</writer>
+		<writer> Lee Jae-jin</writer>
+		<writer> Lee Ji-hyun</writer>
+		<writer> Sang-ho Oh</writer>
+	</writers>
+	<editors/>
+</doc>

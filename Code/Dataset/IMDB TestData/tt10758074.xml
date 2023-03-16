@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<doc id="tt10758074">
+	<docid>tt10758074</docid>
+	<title>The Man Who Fell to Earth</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>An alien arrives on earth with a mission: to learn to become human and find the one woman who can help save his species. Together they discover that in order to save his world, they must first save ours.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Chiwetel Ejiofor</actor>
+			<role>Faraday</role>
+		</credit>
+		<credit>
+			<actor>Naomie Harris</actor>
+			<role>Justin Falls</role>
+		</credit>
+		<credit>
+			<actor>Annelle Olaleye</actor>
+			<role>Molly Falls</role>
+		</credit>
+		<credit>
+			<actor>Clarke Peters</actor>
+			<role>Josiah Falls</role>
+		</credit>
+		<credit>
+			<actor>Bill Nighy</actor>
+			<role>Thomas Newton</role>
+		</credit>
+		<credit>
+			<actor>Jimmi Simpson</actor>
+			<role>Spencer Clay</role>
+		</credit>
+		<credit>
+			<actor>Sonya Cassidy</actor>
+			<role>Edie Flood</role>
+		</credit>
+		<credit>
+			<actor>Joana Ribeiro</actor>
+			<role>Lisa Dominguez</role>
+		</credit>
+		<credit>
+			<actor>Rob Delaney</actor>
+			<role>Hatch Flood</role>
+		</credit>
+		<credit>
+			<actor>Tanya Moodie</actor>
+			<role>Portia</role>
+		</credit>
+		<credit>
+			<actor>Kate Mulgrew</actor>
+			<role>Drew Finch</role>
+		</credit>
+		<credit>
+			<actor>Art Malik</actor>
+			<role>Henning Khan</role>
+		</credit>
+		<credit>
+			<actor>Coral Messam</actor>
+			<role>Faraday's Wife</role>
+		</credit>
+		<credit>
+			<actor>Zurielle Tagoe</actor>
+			<role>Faraday's Daughter</role>
+		</credit>
+		<credit>
+			<actor>Emilio Villa-Muhammad</actor>
+			<role>Faraday's Son</role>
+		</credit>
+		<credit>
+			<actor>Robert Daws</actor>
+			<role>Wyant Bridge</role>
+		</credit>
+		<credit>
+			<actor>Laurie Kynaston</actor>
+			<role>Clive Flood</role>
+		</credit>
+		<credit>
+			<actor>Victoria Smurfit</actor>
+			<role>Penny Morgan</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">March 13 2022</releasedate>
+		<releasedate country="Canada">April 24 2022</releasedate>
+		<releasedate country="Spain">April 24 2022</releasedate>
+		<releasedate country="France">April 24 2022</releasedate>
+		<releasedate country="India">April 24 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="India">UA 13+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>alien</keyword>
+		<keyword>oilfield</keyword>
+		<keyword>new mexico</keyword>
+		<keyword>scientist</keyword>
+		<keyword>mission</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Alex Kurtzman</director>
+		<director> Joss Agnew</director>
+		<director> Sarah Harding</director>
+		<director> Olatunde Osunsanmi</director>
+	</directors>
+	<composers>
+		<composer> Jeff Russo</composer>
+	</composers>
+	<producers>
+		<producer> Jon Dudkowski</producer>
+		<producer> Robyn Johnson</producer>
+		<producer> Adrian Kelly</producer>
+		<producer> Jane Maggs</producer>
+		<producer> Helen Shang</producer>
+		<producer> Bill Wolkoff</producer>
+		<producer> Stuart Sutherland</producer>
+		<producer> Aaron Baiers</producer>
+		<producer> Rola Bauer</producer>
+		<producer> Carl Beverly</producer>
+		<producer> Françoise Guyonnet</producer>
+		<producer> John Hlavin</producer>
+		<producer> Heather Kadin</producer>
+		<producer> Alex Kurtzman</producer>
+		<producer> Jenny Lumet</producer>
+		<producer> Sarah Timberman</producer>
+		<producer> Michael Alaimo</producer>
+		<producer> Katie DiMento</producer>
+		<producer> Gisela Evert</producer>
+		<producer> Tim Halkin</producer>
+		<producer> Chris Leanza</producer>
+		<producer> John Lopez</producer>
+	</producers>
+	<writers>
+		<writer> Alex Kurtzman</writer>
+		<writer> Alex Kurtzman</writer>
+		<writer> Alex Kurtzman</writer>
+		<writer> Jenny Lumet</writer>
+		<writer> Jenny Lumet</writer>
+		<writer> Jenny Lumet</writer>
+		<writer> Walter Tevis</writer>
+		<writer> Jane Maggs</writer>
+		<writer> Jane Maggs</writer>
+		<writer> Jane Maggs</writer>
+		<writer> John Hlavin</writer>
+		<writer> John Hlavin</writer>
+		<writer> Michael Alaimo</writer>
+		<writer> Michael Alaimo</writer>
+		<writer> John Lopez</writer>
+		<writer> John Lopez</writer>
+		<writer> Helen Shang</writer>
+		<writer> Bill Wolkoff</writer>
+	</writers>
+	<editors>
+		<editor> Bartholomew Burcham</editor>
+		<editor> Jon Dudkowski</editor>
+		<editor> Steve Haugen</editor>
+		<editor> Andy Morrison</editor>
+		<editor> Jo Smyth</editor>
+	</editors>
+</doc>

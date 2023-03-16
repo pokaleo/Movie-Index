@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<doc id="tt2395695">
+	<docid>tt2395695</docid>
+	<title>Cosmos</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTk5OTQyZjYtMDk3Yy00YjhmLWE2MTYtZmY4NTg1YWUzZTQ0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">557</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>An exploration of our discovery of the laws of nature and coordinates in space and time.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Neil deGrasse Tyson</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Christopher Emerson</actor>
+			<role>Acolyte</role>
+		</credit>
+		<credit>
+			<actor>Keythe Farley</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Piotr Michael</actor>
+			<role>Edmund Muskie</role>
+		</credit>
+		<credit>
+			<actor>Enn Reitel</actor>
+			<role>Henry Norris Russell</role>
+		</credit>
+		<credit>
+			<actor>Stoney Emshwiller</actor>
+			<role>Guard</role>
+		</credit>
+		<credit>
+			<actor>André Sogliuzzo</actor>
+			<role>Christopher Wren, Weichelberger</role>
+		</credit>
+		<credit>
+			<actor>Amanda Seyfried</actor>
+			<role>Marie Tharp</role>
+		</credit>
+		<credit>
+			<actor>Kirsten Dunst</actor>
+			<role>Cecilia Payne</role>
+		</credit>
+		<credit>
+			<actor>Phil LaMarr</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Paul Sorvino</actor>
+			<role>Augustin Mouchot</role>
+		</credit>
+		<credit>
+			<actor>Larry Cedar</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Christiane Amanpour</actor>
+			<role>Enheduanna</role>
+		</credit>
+		<credit>
+			<actor>Seth MacFarlane</actor>
+			<role>Giordano Bruno</role>
+		</credit>
+		<credit>
+			<actor>Fred Tatasciore</actor>
+			<role>Democritus</role>
+		</credit>
+		<credit>
+			<actor>Martin Jarvis</actor>
+			<role>Sir Humphry Davy</role>
+		</credit>
+		<credit>
+			<actor>Glenn Steinbaum</actor>
+			<role>Bruce Heezen</role>
+		</credit>
+		<credit>
+			<actor>Maria Frucci</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="India">March 9 2014</releasedate>
+		<releasedate country="United States">March 9 2014</releasedate>
+		<releasedate country="Germany">March 10 2014</releasedate>
+		<releasedate country="Spain">March 10 2014</releasedate>
+		<releasedate country="Brazil">March 13 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">PG</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Spain">TP</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cosmology</keyword>
+		<keyword>astronomy</keyword>
+		<keyword>universe</keyword>
+		<keyword>science</keyword>
+		<keyword>albert einstein character</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>science and technology documentary</keyword>
+		<keyword>outer space</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>biology</keyword>
+		<keyword>reenactment</keyword>
+		<keyword>earth</keyword>
+		<keyword>cosmos</keyword>
+	</keywords>
+	<directors>
+		<director> Brannon Braga</director>
+		<director> Ann Druyan</director>
+		<director> Bill Pope</director>
+		<director> Kevin Dart</director>
+	</directors>
+	<composers>
+		<composer> Alan Silvestri</composer>
+	</composers>
+	<producers>
+		<producer> Kate Barry</producer>
+		<producer> Danny Bergeron</producer>
+		<producer> Brannon Braga</producer>
+		<producer> Mitchell Cannold</producer>
+		<producer> Jason Clark</producer>
+		<producer> Eli Dolleman</producer>
+		<producer> Adam Druxman</producer>
+		<producer> Ann Druyan</producer>
+		<producer> Livia Hanich</producer>
+		<producer> Steven Holtzman</producer>
+		<producer> Susan Kirr</producer>
+		<producer> Seth MacFarlane</producer>
+		<producer> Joseph J. Micucci</producer>
+		<producer> Phil Robertson</producer>
+		<producer> Christopher S. Bryson</producer>
+		<producer> Matt McKinnon</producer>
+		<producer> Dana Berry</producer>
+		<producer> Allan Butler</producer>
+		<producer> Kathleen M. Courtney</producer>
+		<producer> Sharon Oreck</producer>
+		<producer> Cecilia Sweatman</producer>
+		<producer> Kara Vallow</producer>
+	</producers>
+	<writers>
+		<writer> Ann Druyan</writer>
+		<writer> Ann Druyan</writer>
+		<writer> Johnny Otto</writer>
+		<writer> Carl Sagan</writer>
+		<writer> Steven Soter</writer>
+		<writer> Steven Soter</writer>
+	</writers>
+	<editors>
+		<editor> John Duffy</editor>
+		<editor> Eric Lea</editor>
+		<editor> Michael O'Halloran</editor>
+		<editor> Hannah Long</editor>
+	</editors>
+</doc>

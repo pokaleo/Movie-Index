@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<doc id="tt16745502">
+	<docid>tt16745502</docid>
+	<title>Framed! A Sicilian Murder Mystery</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWY4YWJmYjYtZDgwOC00OTBjLTkwZTAtNmU2YmM0ZDA5NmVmXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>After two hapless TV technicians stumble upon a murder scene, every step they take to avoid becoming suspects lands them in deeper trouble.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>Italian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Howard Thomas Ray</actor>
+			<role>Inspector Jackson</role>
+		</credit>
+		<credit>
+			<actor>Salvatore Ficarra</actor>
+			<role>Salvo</role>
+		</credit>
+		<credit>
+			<actor>Valentino Picone</actor>
+			<role>Valentino</role>
+		</credit>
+		<credit>
+			<actor>Anna Favella</actor>
+			<role>Ester</role>
+		</credit>
+		<credit>
+			<actor>Tony Sperandeo</actor>
+			<role>Tonino Macaluso</role>
+		</credit>
+		<credit>
+			<actor>Sergio Friscia</actor>
+			<role>Sergio</role>
+		</credit>
+		<credit>
+			<actor>Marianna Di Martino</actor>
+			<role>Agata</role>
+		</credit>
+		<credit>
+			<actor>Mary Cipolla</actor>
+			<role>Mamma Antonietta</role>
+		</credit>
+		<credit>
+			<actor>Filippo Luna</actor>
+			<role>Vice questore Lo Russo</role>
+		</credit>
+		<credit>
+			<actor>Maurizio Marchetti</actor>
+			<role>Portiere Martorana</role>
+		</credit>
+		<credit>
+			<actor>Rossella Leone</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Domenico Centamore</actor>
+			<role>Don Lorenzo</role>
+		</credit>
+		<credit>
+			<actor>Ciro Chimento</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Leo Gullotta</actor>
+			<role>Procuratore Nicolosi</role>
+		</credit>
+		<credit>
+			<actor>Carlo Calderone</actor>
+			<role>Spaddaro il Freddo</role>
+		</credit>
+		<credit>
+			<actor>Simona Taormina</actor>
+			<role>Giacalone</role>
+		</credit>
+		<credit>
+			<actor>Gino Carista</actor>
+			<role>Frate Armando</role>
+		</credit>
+		<credit>
+			<actor>Alessio Barone</actor>
+			<role>Crisafulli</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Italy">January 1 2022</releasedate>
+		<releasedate country="Italy">January 1 2022</releasedate>
+		<releasedate country="South Korea">January 1 2022</releasedate>
+		<releasedate country="Poland">January 1 2022</releasedate>
+		<releasedate country="United Arab Emirates">January 27 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">13+</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">14</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sicily</keyword>
+	</keywords>
+	<directors>
+		<director> Salvatore Ficarra</director>
+		<director> Valentino Picone</director>
+	</directors>
+	<composers>
+		<composer> Paolo Buonvino</composer>
+	</composers>
+	<producers>
+		<producer> Marco Fagnocchi</producer>
+		<producer> Edoardo Margheriti</producer>
+	</producers>
+	<writers>
+		<writer> Leonardo Fasoli</writer>
+		<writer> Leonardo Fasoli</writer>
+		<writer> Leonardo Fasoli</writer>
+		<writer> Maddalena Ravagli</writer>
+		<writer> Maddalena Ravagli</writer>
+		<writer> Maddalena Ravagli</writer>
+		<writer> Salvatore Ficarra</writer>
+		<writer> Valentino Picone</writer>
+		<writer> Fabrizio Testini</writer>
+	</writers>
+	<editors/>
+</doc>

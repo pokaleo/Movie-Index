@@ -1,0 +1,431 @@
+<?xml version="1.0" ?>
+<doc id="tt3411444">
+	<docid>tt3411444</docid>
+	<title>Ferdinand</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI4Mjk0NzQwOF5BMl5BanBnXkFtZTgwNjg3MjI2MjI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>After Ferdinand, a bull with a big heart, is mistaken for a dangerous beast, he is captured and torn from his home. Determined to return to his family, he rallies a misfit team on the ultimate adventure.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>John Cena</actor>
+			<role>Ferdinand</role>
+		</credit>
+		<credit>
+			<actor>Kate McKinnon</actor>
+			<role>Lupe</role>
+		</credit>
+		<credit>
+			<actor>Bobby Cannavale</actor>
+			<role>Valiente's Father</role>
+		</credit>
+		<credit>
+			<actor>Jack Gore</actor>
+			<role>Young Valiente</role>
+		</credit>
+		<credit>
+			<actor>Jet Jurgensmeyer</actor>
+			<role>Young Guapo</role>
+		</credit>
+		<credit>
+			<actor>Nile Diaz</actor>
+			<role>Young Bones</role>
+		</credit>
+		<credit>
+			<actor>Colin H. Murphy</actor>
+			<role>Young Ferdinand</role>
+		</credit>
+		<credit>
+			<actor>Carlos Saldanha</actor>
+			<role>Screaming Matador</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Sisto</actor>
+			<role>Ferdinand's Father</role>
+		</credit>
+		<credit>
+			<actor>Raúl Esparza</actor>
+			<role>Moreno</role>
+		</credit>
+		<credit>
+			<actor>Luis Carlos de La Lombana</actor>
+			<role>Ranch Hand #1</role>
+		</credit>
+		<credit>
+			<actor>Juanes</actor>
+			<role>Juan</role>
+		</credit>
+		<credit>
+			<actor>Jerrod Carmichael</actor>
+			<role>Paco</role>
+		</credit>
+		<credit>
+			<actor>Julia Scarpa Saldanha</actor>
+			<role>Young Nina</role>
+		</credit>
+		<credit>
+			<actor>Lily Day</actor>
+			<role>Nina</role>
+		</credit>
+		<credit>
+			<actor>Rafael Scarpa Saldanha</actor>
+			<role>Ice Cream Boy</role>
+		</credit>
+		<credit>
+			<actor>Karla Martínez</actor>
+			<role>Village Mother</role>
+		</credit>
+		<credit>
+			<actor>Jordi Caballero</actor>
+			<role>Balloon Vendor</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 11 2017</releasedate>
+		<releasedate country="United Arab Emirates">December 8 2017</releasedate>
+		<releasedate country="United Kingdom">December 9 2017</releasedate>
+		<releasedate country="Ireland">December 9 2017</releasedate>
+		<releasedate country="Egypt">December 13 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Costa Rica">TP</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="Iceland">L</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Luxembourg">A</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">12+</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">G</certificate>
+		<certificate country="Nigeria">PG</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">NC</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Africa">7-9</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>bull</keyword>
+		<keyword>bullfighting</keyword>
+		<keyword>farm</keyword>
+		<keyword>flowers</keyword>
+		<keyword>village</keyword>
+		<keyword>pasture</keyword>
+		<keyword>countryside</keyword>
+		<keyword>nonviolence</keyword>
+		<keyword>goat</keyword>
+		<keyword>hedgehog</keyword>
+		<keyword>pacifist</keyword>
+		<keyword>escape</keyword>
+		<keyword>kindness</keyword>
+		<keyword>courage</keyword>
+		<keyword>rescue</keyword>
+		<keyword>horse</keyword>
+		<keyword>death of parent</keyword>
+		<keyword>bully</keyword>
+		<keyword>calf</keyword>
+		<keyword>dog</keyword>
+		<keyword>flower festival</keyword>
+		<keyword>car chase</keyword>
+		<keyword>train</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>chase</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>animal</keyword>
+		<keyword>champion</keyword>
+		<keyword>cow</keyword>
+		<keyword>udder</keyword>
+		<keyword>spain</keyword>
+		<keyword>spanish</keyword>
+		<keyword>gentle giant</keyword>
+		<keyword>camp</keyword>
+		<keyword>competition</keyword>
+		<keyword>fighter</keyword>
+		<keyword>fight</keyword>
+		<keyword>pacifism</keyword>
+		<keyword>brawl</keyword>
+		<keyword>muscle</keyword>
+		<keyword>fear</keyword>
+		<keyword>adversary</keyword>
+		<keyword>threat</keyword>
+		<keyword>arena</keyword>
+		<keyword>ring</keyword>
+		<keyword>legend</keyword>
+		<keyword>legendary</keyword>
+		<keyword>death</keyword>
+		<keyword>killing</keyword>
+		<keyword>sand</keyword>
+		<keyword>academy</keyword>
+		<keyword>bee</keyword>
+		<keyword>insect</keyword>
+		<keyword>honey</keyword>
+		<keyword>bumblebee</keyword>
+		<keyword>wasp</keyword>
+		<keyword>sting</keyword>
+		<keyword>flower</keyword>
+		<keyword>smell</keyword>
+		<keyword>prairie</keyword>
+		<keyword>farmer</keyword>
+		<keyword>girl</keyword>
+		<keyword>friendship</keyword>
+		<keyword>factory</keyword>
+		<keyword>ice</keyword>
+		<keyword>frozen</keyword>
+		<keyword>freezing</keyword>
+		<keyword>battle</keyword>
+		<keyword>bovine</keyword>
+		<keyword>mammal</keyword>
+		<keyword>daisy</keyword>
+		<keyword>separation</keyword>
+		<keyword>trailer</keyword>
+		<keyword>gate</keyword>
+		<keyword>mansion</keyword>
+		<keyword>headlights</keyword>
+		<keyword>hay</keyword>
+		<keyword>bucket</keyword>
+		<keyword>water</keyword>
+		<keyword>weed</keyword>
+		<keyword>friend</keyword>
+		<keyword>flee</keyword>
+		<keyword>watering a plant</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>walking in the rain</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>bridge</keyword>
+		<keyword>jumping on a train</keyword>
+		<keyword>flower in hair</keyword>
+		<keyword>wagging tail</keyword>
+		<keyword>guitar</keyword>
+		<keyword>rolling downhill</keyword>
+		<keyword>cuddle</keyword>
+		<keyword>festival</keyword>
+		<keyword>feather floating in the air</keyword>
+		<keyword>city square</keyword>
+		<keyword>church</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>watering flowers</keyword>
+		<keyword>flower vendor</keyword>
+		<keyword>prodding</keyword>
+		<keyword>cobblestone</keyword>
+		<keyword>store owner</keyword>
+		<keyword>full moon</keyword>
+		<keyword>reunion</keyword>
+		<keyword>snoring</keyword>
+		<keyword>introduction</keyword>
+		<keyword>thief</keyword>
+		<keyword>theft</keyword>
+		<keyword>high ten</keyword>
+		<keyword>snob</keyword>
+		<keyword>coupe</keyword>
+		<keyword>mustache</keyword>
+		<keyword>showing teeth</keyword>
+		<keyword>clenched teeth</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>moonlight</keyword>
+		<keyword>crying</keyword>
+		<keyword>well</keyword>
+		<keyword>synchronized dance</keyword>
+		<keyword>ballet</keyword>
+		<keyword>dance</keyword>
+		<keyword>dream</keyword>
+		<keyword>lock</keyword>
+		<keyword>lock pick</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>crushed car</keyword>
+		<keyword>display case</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>slaughter</keyword>
+		<keyword>slaughter house</keyword>
+		<keyword>abattoir</keyword>
+		<keyword>barbed wire</keyword>
+		<keyword>shadow on a wall</keyword>
+		<keyword>siren</keyword>
+		<keyword>security system</keyword>
+		<keyword>highway</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>abuse</keyword>
+		<keyword>animal cruelty</keyword>
+		<keyword>animal abuse</keyword>
+		<keyword>appeared on tv news</keyword>
+		<keyword>tv news</keyword>
+		<keyword>costume</keyword>
+		<keyword>bloodthirsty</keyword>
+		<keyword>sliding downhill</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>based on children's book</keyword>
+		<keyword>notoriety</keyword>
+		<keyword>police officer</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>peace</keyword>
+		<keyword>pushing</keyword>
+		<keyword>animal character name as title</keyword>
+		<keyword>tolling bell</keyword>
+		<keyword>madrid spain</keyword>
+		<keyword>spaniard</keyword>
+		<keyword>europe</keyword>
+		<keyword>german</keyword>
+		<keyword>ferdinand the bull character</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>dog barks</keyword>
+		<keyword>flowerpot</keyword>
+		<keyword>animal horn</keyword>
+		<keyword>child</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>talking to oneself</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>night</keyword>
+		<keyword>talking bull</keyword>
+		<keyword>talking goat</keyword>
+		<keyword>talking hedgehog</keyword>
+		<keyword>human animal friendship</keyword>
+		<keyword>ungulate</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>talking horse</keyword>
+		<keyword>dance off</keyword>
+		<keyword>one word title</keyword>
+		<keyword>farm animal</keyword>
+		<keyword>dancing animal</keyword>
+		<keyword>black and white photograph</keyword>
+		<keyword>car</keyword>
+		<keyword>dancing bull</keyword>
+		<keyword>group of friends</keyword>
+		<keyword>dancing horse</keyword>
+		<keyword>mounted bull's horns</keyword>
+		<keyword>truck</keyword>
+		<keyword>frozen in ice</keyword>
+		<keyword>view in sideview mirror</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>motor truck</keyword>
+		<keyword>traffic</keyword>
+		<keyword>animal driving a vehicle</keyword>
+		<keyword>bus</keyword>
+		<keyword>public transportation</keyword>
+		<keyword>horned goat</keyword>
+		<keyword>weapon</keyword>
+		<keyword>human versus bull</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>sword</keyword>
+		<keyword>human versus animal</keyword>
+		<keyword>cheering crowd</keyword>
+		<keyword>bladed weapon</keyword>
+		<keyword>interspecies friendship</keyword>
+		<keyword>whistle</keyword>
+		<keyword>talking dog</keyword>
+		<keyword>tree</keyword>
+		<keyword>hill</keyword>
+		<keyword>livestock trailer</keyword>
+		<keyword>2010s</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>shrekcore</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>sitting cross legged</keyword>
+		<keyword>yawning</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>matador</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>red car</keyword>
+		<keyword>luggage</keyword>
+		<keyword>shaking one's butt</keyword>
+		<keyword>cat</keyword>
+	</keywords>
+	<directors>
+		<director> Carlos Saldanha</director>
+	</directors>
+	<composers>
+		<composer> John Powell</composer>
+	</composers>
+	<producers>
+		<producer> Bruce Anderson</producer>
+		<producer> John Davis</producer>
+		<producer> Lori Forte</producer>
+		<producer> Joel Gotler</producer>
+		<producer> Lisa Marie Stetler</producer>
+		<producer> Chris Wedge</producer>
+	</producers>
+	<writers>
+		<writer> Robert L. Baird</writer>
+		<writer> Tim Federle</writer>
+		<writer> Brad Copeland</writer>
+		<writer> Ron Burch</writer>
+		<writer> David Kidd</writer>
+		<writer> Don Rhymer</writer>
+		<writer> Munro Leaf</writer>
+		<writer> Robert Lawson</writer>
+	</writers>
+	<editors>
+		<editor> Harry Hitner</editor>
+	</editors>
+</doc>

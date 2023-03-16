@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<doc id="tt21250176">
+	<docid>tt21250176</docid>
+	<title>Remember Member</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDQ1OTY0NTItZGRjZi00NTQzLWE4ZmUtMjBjODU3MGRiZGE5XkEyXkFqcGdeQXVyOTgwNTk0MzY@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A high school student and her friends are trapped in a time loop by a ghost and the only way to escape is to find the corpse of the ghost's previous victim.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>Japanese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kanna Hashimoto</actor>
+			<role>Asuka Morisaki</role>
+		</credit>
+		<credit>
+			<actor>Gordon Maeda</actor>
+			<role>Takahiro Ise</role>
+		</credit>
+		<credit>
+			<actor>Maika Yamamoto</actor>
+			<role>Rumiko Hiiragi</role>
+		</credit>
+		<credit>
+			<actor>Fûju Kamio</actor>
+			<role>Atsushi Kiyomiya</role>
+		</credit>
+		<credit>
+			<actor>Kotaro Daigo</actor>
+			<role>Shôta Uranishi</role>
+		</credit>
+		<credit>
+			<actor>Mayu Yokota</actor>
+			<role>Rie Naruto</role>
+		</credit>
+		<credit>
+			<actor>Yumemi Ishida</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Tasuku Emoto</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Yuuki Luna</actor>
+			<role>Hina</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Japan">October 14 2022</releasedate>
+		<releasedate country="Argentina">February 14 2023</releasedate>
+		<releasedate country="Australia">February 14 2023</releasedate>
+		<releasedate country="Canada">February 14 2023</releasedate>
+		<releasedate country="Spain">February 14 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>live action remake of anime</keyword>
+		<keyword>ghost</keyword>
+	</keywords>
+	<directors>
+		<director> Eiichirô Hasumi</director>
+	</directors>
+	<composers>
+		<composer> Yûgo Kanno</composer>
+	</composers>
+	<producers/>
+	<writers>
+		<writer> Harumi Doki</writer>
+		<writer> Katsutoshi Murase</writer>
+		<writer> Welzard</writer>
+	</writers>
+	<editors/>
+</doc>

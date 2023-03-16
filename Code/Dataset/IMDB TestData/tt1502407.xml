@@ -1,0 +1,873 @@
+<?xml version="1.0" ?>
+<doc id="tt1502407">
+	<docid>tt1502407</docid>
+	<title>Halloween</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,5,190,281_.jpg</image>
+	<year>I 2018</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Laurie Strode confronts her long-time foe, Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jamie Lee Curtis</actor>
+			<role>Laurie Strode</role>
+		</credit>
+		<credit>
+			<actor>Judy Greer</actor>
+			<role>Karen</role>
+		</credit>
+		<credit>
+			<actor>Andi Matichak</actor>
+			<role>Allyson</role>
+		</credit>
+		<credit>
+			<actor>James Jude Courtney</actor>
+			<role>The Shape</role>
+		</credit>
+		<credit>
+			<actor>Nick Castle</actor>
+			<role>The Shape</role>
+		</credit>
+		<credit>
+			<actor>Haluk Bilginer</actor>
+			<role>Dr. Sartain</role>
+		</credit>
+		<credit>
+			<actor>Will Patton</actor>
+			<role>Officer Hawkins</role>
+		</credit>
+		<credit>
+			<actor>Rhian Rees</actor>
+			<role>Dana Haines</role>
+		</credit>
+		<credit>
+			<actor>Jefferson Hall</actor>
+			<role>Aaron Korey</role>
+		</credit>
+		<credit>
+			<actor>Toby Huss</actor>
+			<role>Ray</role>
+		</credit>
+		<credit>
+			<actor>Virginia Gardner</actor>
+			<role>Vicky</role>
+		</credit>
+		<credit>
+			<actor>Dylan Arnold</actor>
+			<role>Cameron Elam</role>
+		</credit>
+		<credit>
+			<actor>Miles Robbins</actor>
+			<role>Dave</role>
+		</credit>
+		<credit>
+			<actor>Drew Scheid</actor>
+			<role>Oscar</role>
+		</credit>
+		<credit>
+			<actor>Jibrail Nantambu</actor>
+			<role>Julian</role>
+		</credit>
+		<credit>
+			<actor>Michael 'Mick' Harrity</actor>
+			<role>Warden Kuneman</role>
+		</credit>
+		<credit>
+			<actor>William Matthew Anderson</actor>
+			<role>Guard Haskell</role>
+		</credit>
+		<credit>
+			<actor>Diva Tyler</actor>
+			<role>Caretaker</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 8 2018</releasedate>
+		<releasedate country="United States">September 20 2018</releasedate>
+		<releasedate country="France">October 1 2018</releasedate>
+		<releasedate country="Germany">October 2 2018</releasedate>
+		<releasedate country="South Korea">October 7 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">18</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-18</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Malta">18</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Portugal">M/18</certificate>
+		<certificate country="Romania">I.M.-18</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="Thailand">u 18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">(Banned)</certificate>
+	</certificates>
+	<keywords>
+		<keyword>masked murderer</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>violence</keyword>
+		<keyword>slasher killer</keyword>
+		<keyword>gore</keyword>
+		<keyword>masked villain</keyword>
+		<keyword>babysitter</keyword>
+		<keyword>trick or treating</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>sadistic murderer</keyword>
+		<keyword>homicidal maniac</keyword>
+		<keyword>head stomped into ground</keyword>
+		<keyword>screaming</keyword>
+		<keyword>grandmother granddaughter relationship</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>child with a gun</keyword>
+		<keyword>sadism</keyword>
+		<keyword>masked killer</keyword>
+		<keyword>mass murderer</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>stalker</keyword>
+		<keyword>human monster</keyword>
+		<keyword>evil</keyword>
+		<keyword>evil man</keyword>
+		<keyword>manhunt</keyword>
+		<keyword>psycho killer</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>post traumatic stress disorder</keyword>
+		<keyword>suspense</keyword>
+		<keyword>american horror</keyword>
+		<keyword>halloween</keyword>
+		<keyword>michael myers character</keyword>
+		<keyword>toilet</keyword>
+		<keyword>slasher murderer</keyword>
+		<keyword>halloween costume</keyword>
+		<keyword>mask</keyword>
+		<keyword>maniac</keyword>
+		<keyword>sadistic psychopath</keyword>
+		<keyword>severed finger</keyword>
+		<keyword>insanity</keyword>
+		<keyword>f rated</keyword>
+		<keyword>showdown</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>house on fire</keyword>
+		<keyword>illinois</keyword>
+		<keyword>sadist</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>rampage</keyword>
+		<keyword>hospital</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>mad doctor</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>insane asylum</keyword>
+		<keyword>escaped psychiatric patient</keyword>
+		<keyword>psychiatric patient</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>evil laughter</keyword>
+		<keyword>ends with freeze frame</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>trick or treat</keyword>
+		<keyword>psycho</keyword>
+		<keyword>woman wears suspenders</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>sequel with same title as previous installment</keyword>
+		<keyword>prisoner transfer</keyword>
+		<keyword>podcaster</keyword>
+		<keyword>halloween party</keyword>
+		<keyword>trick or treater</keyword>
+		<keyword>boogeyman</keyword>
+		<keyword>human teeth</keyword>
+		<keyword>escaped killer</keyword>
+		<keyword>serial killer on the loose</keyword>
+		<keyword>killer on the loose</keyword>
+		<keyword>on the loose</keyword>
+		<keyword>reference to bonnie and clyde</keyword>
+		<keyword>mechanic</keyword>
+		<keyword>prologue</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>night</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>sequel to cult film</keyword>
+		<keyword>one word title</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>knife</keyword>
+		<keyword>american midwest</keyword>
+		<keyword>laurie strode character</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>stabbed through the neck</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>severed head</keyword>
+		<keyword>famous score</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>small town</keyword>
+		<keyword>fictional town</keyword>
+		<keyword>reference to bernie mac</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>butcher knife</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>brutality</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>double cross</keyword>
+		<keyword>survival</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>party</keyword>
+		<keyword>fire</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>pumpkin</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>grief</keyword>
+		<keyword>obsession</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>survivalist</keyword>
+		<keyword>armory</keyword>
+		<keyword>strong female lead</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>running</keyword>
+		<keyword>tragic event</keyword>
+		<keyword>tragic victim</keyword>
+		<keyword>isolation</keyword>
+		<keyword>revenge</keyword>
+		<keyword>redemption</keyword>
+		<keyword>flashback</keyword>
+		<keyword>bunker</keyword>
+		<keyword>target practice</keyword>
+		<keyword>revolver</keyword>
+		<keyword>pistol</keyword>
+		<keyword>rifle</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>flare</keyword>
+		<keyword>gas</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>ambush</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>cabin in the woods</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>seclusion</keyword>
+		<keyword>mannequin</keyword>
+		<keyword>thrown from a balcony</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>mousetrap</keyword>
+		<keyword>graveyard</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>friendship</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>loss of husband</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>dancing</keyword>
+		<keyword>texting</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>corpse</keyword>
+		<keyword>child swearing</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>fish tank</keyword>
+		<keyword>hiding in a closet</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>marijuana joint</keyword>
+		<keyword>stoner</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>race against time</keyword>
+		<keyword>impalement</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>chase</keyword>
+		<keyword>masked man</keyword>
+		<keyword>photograph</keyword>
+		<keyword>motel</keyword>
+		<keyword>motel room</keyword>
+		<keyword>gothic</keyword>
+		<keyword>invulnerability</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>police</keyword>
+		<keyword>police car</keyword>
+		<keyword>police officer</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>deputy</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stupid victim</keyword>
+		<keyword>gas station</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>tire iron</keyword>
+		<keyword>crowbar</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>englishman abroad</keyword>
+		<keyword>face mask</keyword>
+		<keyword>journalist</keyword>
+		<keyword>investigative journalist</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>money</keyword>
+		<keyword>bribery</keyword>
+		<keyword>tape recorder</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>product placement</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security camera</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>security guard</keyword>
+		<keyword>doctor</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>psychiatric hospital</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>arm sling</keyword>
+		<keyword>prison bus</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>hammer</keyword>
+		<keyword>hit with a hammer</keyword>
+		<keyword>long take</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>high school</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>hitchhiking</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>car theft</keyword>
+		<keyword>stolen police car</keyword>
+		<keyword>car accident</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>run over by a car</keyword>
+		<keyword>vinyl</keyword>
+		<keyword>terror</keyword>
+		<keyword>firecracker</keyword>
+		<keyword>prank</keyword>
+		<keyword>prankster</keyword>
+		<keyword>football field</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>crushed head</keyword>
+		<keyword>little boy</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>murder of a nude woman</keyword>
+		<keyword>banging head against wall</keyword>
+		<keyword>claw hammer</keyword>
+		<keyword>clothesline</keyword>
+		<keyword>jack o'lantern</keyword>
+		<keyword>kitchen knife</keyword>
+		<keyword>news report</keyword>
+		<keyword>newscast</keyword>
+		<keyword>retro</keyword>
+		<keyword>retro horror</keyword>
+		<keyword>room</keyword>
+		<keyword>ruthlessness</keyword>
+		<keyword>siren</keyword>
+		<keyword>strangled to death</keyword>
+		<keyword>unprovoked violence</keyword>
+		<keyword>halloween dance</keyword>
+		<keyword>bonnie and clyde costume</keyword>
+		<keyword>feminist</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>mercy</keyword>
+		<keyword>gramaphone</keyword>
+		<keyword>record player</keyword>
+		<keyword>test</keyword>
+		<keyword>close up of face</keyword>
+		<keyword>patient</keyword>
+		<keyword>clock</keyword>
+		<keyword>headphones</keyword>
+		<keyword>physician</keyword>
+		<keyword>yard</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>introduction</keyword>
+		<keyword>closed circuit tv surveilance</keyword>
+		<keyword>closed circuit tv</keyword>
+		<keyword>signature</keyword>
+		<keyword>cell</keyword>
+		<keyword>television</keyword>
+		<keyword>sheriff's badge</keyword>
+		<keyword>badge</keyword>
+		<keyword>indoor plant</keyword>
+		<keyword>name tag</keyword>
+		<keyword>visit</keyword>
+		<keyword>visitor</keyword>
+		<keyword>visitation</keyword>
+		<keyword>buzzer</keyword>
+		<keyword>heir</keyword>
+		<keyword>ward</keyword>
+		<keyword>map</keyword>
+		<keyword>sneaker</keyword>
+		<keyword>tying shoelaces</keyword>
+		<keyword>dog</keyword>
+		<keyword>chain</keyword>
+		<keyword>howling</keyword>
+		<keyword>screaming man</keyword>
+		<keyword>cash</keyword>
+		<keyword>wad of cash</keyword>
+		<keyword>cash in an envelope</keyword>
+		<keyword>fence</keyword>
+		<keyword>envelope of money</keyword>
+		<keyword>car</keyword>
+		<keyword>driver</keyword>
+		<keyword>passenger</keyword>
+		<keyword>couch</keyword>
+		<keyword>gate</keyword>
+		<keyword>payment</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>divorce</keyword>
+		<keyword>peanut butter</keyword>
+		<keyword>trap</keyword>
+		<keyword>girl</keyword>
+		<keyword>kiss</keyword>
+		<keyword>necking</keyword>
+		<keyword>kiss on the mouth</keyword>
+		<keyword>locker</keyword>
+		<keyword>school</keyword>
+		<keyword>schoolmate</keyword>
+		<keyword>classroom</keyword>
+		<keyword>classmate</keyword>
+		<keyword>teacher</keyword>
+		<keyword>instructor</keyword>
+		<keyword>gun</keyword>
+		<keyword>troubled woman</keyword>
+		<keyword>transfer</keyword>
+		<keyword>prison</keyword>
+		<keyword>barbed wire</keyword>
+		<keyword>celebration</keyword>
+		<keyword>candle</keyword>
+		<keyword>wine</keyword>
+		<keyword>drinking alcohol</keyword>
+		<keyword>crying</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>embrace</keyword>
+		<keyword>kiss on the forehead</keyword>
+		<keyword>running girl</keyword>
+		<keyword>running through the woods</keyword>
+		<keyword>explanation</keyword>
+		<keyword>parking lot</keyword>
+		<keyword>standing in a road</keyword>
+		<keyword>accident</keyword>
+		<keyword>driving at night</keyword>
+		<keyword>headlights</keyword>
+		<keyword>hit on the side of one's head</keyword>
+		<keyword>standing in the middle of a road</keyword>
+		<keyword>terror on the road</keyword>
+		<keyword>looking for father</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>blood on forehead</keyword>
+		<keyword>dispatch</keyword>
+		<keyword>cruiser</keyword>
+		<keyword>interview</keyword>
+		<keyword>women's bathroom</keyword>
+		<keyword>headstone</keyword>
+		<keyword>toilet stall</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>hospitalization</keyword>
+		<keyword>anniversary</keyword>
+		<keyword>iv drip</keyword>
+		<keyword>intravenous</keyword>
+		<keyword>pool of blood</keyword>
+		<keyword>motor inn</keyword>
+		<keyword>cashier</keyword>
+		<keyword>washroom</keyword>
+		<keyword>fight</keyword>
+		<keyword>rod</keyword>
+		<keyword>iron rod</keyword>
+		<keyword>secret entrance</keyword>
+		<keyword>thrown against a wall</keyword>
+		<keyword>choking</keyword>
+		<keyword>suffocation</keyword>
+		<keyword>cellar</keyword>
+		<keyword>shopping</keyword>
+		<keyword>tv on the wall</keyword>
+		<keyword>television on wall</keyword>
+		<keyword>cassette tape</keyword>
+		<keyword>laundry basket</keyword>
+		<keyword>goggles</keyword>
+		<keyword>argument</keyword>
+		<keyword>body bag</keyword>
+		<keyword>police tape</keyword>
+		<keyword>infant</keyword>
+		<keyword>shed</keyword>
+		<keyword>chopping board</keyword>
+		<keyword>baby</keyword>
+		<keyword>decoration</keyword>
+		<keyword>back door</keyword>
+		<keyword>knife through the neck</keyword>
+		<keyword>intruder</keyword>
+		<keyword>photographer</keyword>
+		<keyword>dance floor</keyword>
+		<keyword>school dance</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>looking out a window</keyword>
+		<keyword>cutting one's toenails</keyword>
+		<keyword>putting a child to bed</keyword>
+		<keyword>breakup</keyword>
+		<keyword>putting someone to bed</keyword>
+		<keyword>view in sideview mirror</keyword>
+		<keyword>scared boy</keyword>
+		<keyword>tattooed arm</keyword>
+		<keyword>teen smoking</keyword>
+		<keyword>revving engine</keyword>
+		<keyword>aquarium</keyword>
+		<keyword>falling down</keyword>
+		<keyword>crying for help</keyword>
+		<keyword>slashing</keyword>
+		<keyword>police radio</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>bedroom</keyword>
+		<keyword>recognizing someone</keyword>
+		<keyword>hit on the head</keyword>
+		<keyword>canine unit</keyword>
+		<keyword>police dog</keyword>
+		<keyword>german shepherd</keyword>
+		<keyword>police canine unit</keyword>
+		<keyword>recognition</keyword>
+		<keyword>woman dresses as a man</keyword>
+		<keyword>climbing a fence</keyword>
+		<keyword>victim</keyword>
+		<keyword>motion sensor</keyword>
+		<keyword>knocking</keyword>
+		<keyword>cry for help</keyword>
+		<keyword>shelter</keyword>
+		<keyword>padlock</keyword>
+		<keyword>cop killer</keyword>
+		<keyword>investigation</keyword>
+		<keyword>driving over a corpse</keyword>
+		<keyword>torch</keyword>
+		<keyword>mist</keyword>
+		<keyword>dragging a dead body</keyword>
+		<keyword>stomping on a dead body</keyword>
+		<keyword>stomping on someone</keyword>
+		<keyword>gun drawn</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>lights out</keyword>
+		<keyword>dragging a body</keyword>
+		<keyword>calling mother</keyword>
+		<keyword>floodlight</keyword>
+		<keyword>hand shot off</keyword>
+		<keyword>silhouette</keyword>
+		<keyword>shot through the hand</keyword>
+		<keyword>shot in the hand</keyword>
+		<keyword>footsteps</keyword>
+		<keyword>staircase</keyword>
+		<keyword>room by room search</keyword>
+		<keyword>searching a room</keyword>
+		<keyword>full moon</keyword>
+		<keyword>blood trail</keyword>
+		<keyword>corpse in closet</keyword>
+		<keyword>closet</keyword>
+		<keyword>biting a hand</keyword>
+		<keyword>thrown through a window</keyword>
+		<keyword>coming downstairs</keyword>
+		<keyword>poke</keyword>
+		<keyword>telephone on the wall</keyword>
+		<keyword>kitchen island</keyword>
+		<keyword>frying pan</keyword>
+		<keyword>african american</keyword>
+		<keyword>sport utility vehicle</keyword>
+		<keyword>windchime</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>dna testing</keyword>
+		<keyword>reference to muddy waters</keyword>
+		<keyword>horror icon</keyword>
+		<keyword>calling for help</keyword>
+		<keyword>car trunk</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>murder of a child</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>divorcee</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>murder of an innocent person</keyword>
+		<keyword>kiss on the lips</keyword>
+		<keyword>man murders a woman</keyword>
+		<keyword>man wears a skirt</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>murder of a woman</keyword>
+		<keyword>woman wears a tank top</keyword>
+		<keyword>woman wears hoop earrings</keyword>
+		<keyword>telephone</keyword>
+		<keyword>lying on a couch</keyword>
+		<keyword>blonde girl</keyword>
+		<keyword>police protection killed</keyword>
+		<keyword>police officer ambushed</keyword>
+		<keyword>police partner tries to kill police partner</keyword>
+		<keyword>police officer stabbed in the neck</keyword>
+		<keyword>police officer crushed</keyword>
+		<keyword>police officer throat slit</keyword>
+		<keyword>police protection</keyword>
+		<keyword>dead police officer</keyword>
+		<keyword>balloon</keyword>
+		<keyword>actress reprises previous role</keyword>
+		<keyword>suburb</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>blood on breasts</keyword>
+		<keyword>traumatized protagonist</keyword>
+		<keyword>trauma</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>british horror</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>brother murders sister</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>overweight boy</keyword>
+		<keyword>girl in jeopardy</keyword>
+		<keyword>tv news</keyword>
+		<keyword>murder of a topless woman</keyword>
+		<keyword>babysitter in peril</keyword>
+		<keyword>suburbia</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>holiday horror</keyword>
+		<keyword>murder by stabbing</keyword>
+		<keyword>dollhouse</keyword>
+		<keyword>hugging</keyword>
+		<keyword>shooting a police officer</keyword>
+		<keyword>stabbing a police officer</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>requel</keyword>
+		<keyword>rehabilitation center</keyword>
+		<keyword>sanitarium</keyword>
+		<keyword>rubber mask</keyword>
+		<keyword>recluse</keyword>
+		<keyword>paranoid</keyword>
+		<keyword>traumatized</keyword>
+		<keyword>self defense</keyword>
+		<keyword>shooting range</keyword>
+		<keyword>bathroom stall</keyword>
+		<keyword>public restroom</keyword>
+		<keyword>reference to bonnie parker</keyword>
+		<keyword>reference to clyde barrow</keyword>
+		<keyword>home security</keyword>
+		<keyword>security system</keyword>
+		<keyword>prepper</keyword>
+		<keyword>preparedness</keyword>
+		<keyword>teenager</keyword>
+		<keyword>high school student</keyword>
+		<keyword>tombstone</keyword>
+		<keyword>gravestone</keyword>
+		<keyword>psychologist</keyword>
+		<keyword>reference to dr sam loomis</keyword>
+		<keyword>missed call</keyword>
+		<keyword>secret underground bunker</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>surveillance video</keyword>
+		<keyword>nemesis</keyword>
+		<keyword>secret room</keyword>
+		<keyword>protective mother</keyword>
+		<keyword>pinball machine</keyword>
+		<keyword>discovering a dead body</keyword>
+		<keyword>gas pipe</keyword>
+		<keyword>house fire</keyword>
+		<keyword>drunk teenager</keyword>
+		<keyword>underage drinking</keyword>
+		<keyword>true crime podcast</keyword>
+		<keyword>home invader</keyword>
+		<keyword>unfinished business</keyword>
+		<keyword>criminally insane</keyword>
+		<keyword>audio recorder</keyword>
+		<keyword>envelope full of money</keyword>
+		<keyword>gun range</keyword>
+		<keyword>honor student</keyword>
+		<keyword>national honor society</keyword>
+		<keyword>babysitting</keyword>
+		<keyword>trapped in a car</keyword>
+		<keyword>reflection in a mirror</keyword>
+		<keyword>rejected kiss</keyword>
+		<keyword>rejected advances</keyword>
+		<keyword>romantic crush</keyword>
+		<keyword>chained</keyword>
+		<keyword>cold open</keyword>
+		<keyword>provocation</keyword>
+		<keyword>unfit mother</keyword>
+		<keyword>child custody</keyword>
+		<keyword>child taken away</keyword>
+		<keyword>hunting trip</keyword>
+		<keyword>explosive</keyword>
+		<keyword>tape recording</keyword>
+		<keyword>calling 911</keyword>
+		<keyword>hunting rifle</keyword>
+		<keyword>killer hiding in the backseat of a car</keyword>
+		<keyword>stolen clothes</keyword>
+		<keyword>garage</keyword>
+		<keyword>service station</keyword>
+		<keyword>murder in a bathroom</keyword>
+		<keyword>broken neck</keyword>
+		<keyword>coverall</keyword>
+		<keyword>state mental hospital</keyword>
+		<keyword>remote control</keyword>
+		<keyword>panic room</keyword>
+		<keyword>killed in a restroom stall</keyword>
+		<keyword>killed with a hammer</keyword>
+		<keyword>sneaking up behind someone</keyword>
+		<keyword>photo shoot</keyword>
+		<keyword>cross dressing</keyword>
+		<keyword>police scanner</keyword>
+		<keyword>child's bedroom</keyword>
+		<keyword>motion activated light</keyword>
+		<keyword>stakeout</keyword>
+		<keyword>winchester rifle</keyword>
+		<keyword>lever action rifle</keyword>
+		<keyword>falling from a balcony</keyword>
+		<keyword>bloody knife</keyword>
+		<keyword>slasher horror</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>female nudity</keyword>
+		<keyword>male police officer</keyword>
+		<keyword>kicking</keyword>
+		<keyword>first part</keyword>
+		<keyword>second part</keyword>
+		<keyword>record album</keyword>
+		<keyword>body count</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>pleading for help</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>retcon</keyword>
+		<keyword>murder</keyword>
+		<keyword>street</keyword>
+		<keyword>death</keyword>
+		<keyword>stalking</keyword>
+		<keyword>slasher</keyword>
+		<keyword>darkness</keyword>
+		<keyword>blood</keyword>
+		<keyword>sequel</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>death of father</keyword>
+		<keyword>death of child</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> David Gordon Green</director>
+	</directors>
+	<composers>
+		<composer> Cody Carpenter</composer>
+		<composer> John Carpenter</composer>
+		<composer> Daniel A. Davies</composer>
+	</composers>
+	<producers>
+		<producer> Malek Akkad</producer>
+		<producer> Laura Altmann</producer>
+		<producer> Bill Block</producer>
+		<producer> Jason Blum</producer>
+		<producer> John Carpenter</producer>
+		<producer> Scott Clackum</producer>
+		<producer> Jamie Lee Curtis</producer>
+		<producer> Zanne Devine</producer>
+		<producer> Ryan Freimann</producer>
+		<producer> Sean Gowrie</producer>
+		<producer> David Gordon Green</producer>
+		<producer> Danny McBride</producer>
+		<producer> Rick A. Osako</producer>
+		<producer> Couper Samuelson</producer>
+		<producer> David Thwaites</producer>
+		<producer> Ryan Turek</producer>
+		<producer> Jeanette Volturno</producer>
+		<producer> Atilla Salih Yücer</producer>
+	</producers>
+	<writers>
+		<writer> John Carpenter</writer>
+		<writer> Debra Hill</writer>
+		<writer> Jeff Fradley</writer>
+		<writer> Danny McBride</writer>
+		<writer> David Gordon Green</writer>
+	</writers>
+	<editors>
+		<editor> Timothy Alverson</editor>
+	</editors>
+</doc>

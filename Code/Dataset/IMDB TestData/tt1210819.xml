@@ -1,0 +1,506 @@
+<?xml version="1.0" ?>
+<doc id="tt1210819">
+	<docid>tt1210819</docid>
+	<title>The Lone Ranger</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDFhZDhmOTItZjBiNS00MTgwLWFlM2EtMTM1NzAzMmI2ZjkxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY281_CR8,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">150</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Western</genre>
+	</genres>
+	<plot>Native American warrior Tonto recounts the untold tales that transformed John Reid, a man of the law, into a legend of justice.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Johnny Depp</actor>
+			<role>Tonto</role>
+		</credit>
+		<credit>
+			<actor>Armie Hammer</actor>
+			<role>John Reid (Lone Ranger)</role>
+		</credit>
+		<credit>
+			<actor>William Fichtner</actor>
+			<role>Butch Cavendish</role>
+		</credit>
+		<credit>
+			<actor>Tom Wilkinson</actor>
+			<role>Cole</role>
+		</credit>
+		<credit>
+			<actor>Ruth Wilson</actor>
+			<role>Rebecca Reid</role>
+		</credit>
+		<credit>
+			<actor>Helena Bonham Carter</actor>
+			<role>Red Harrington</role>
+		</credit>
+		<credit>
+			<actor>James Badge Dale</actor>
+			<role>Dan Reid</role>
+		</credit>
+		<credit>
+			<actor>Bryant Prince</actor>
+			<role>Danny</role>
+		</credit>
+		<credit>
+			<actor>Barry Pepper</actor>
+			<role>Fuller</role>
+		</credit>
+		<credit>
+			<actor>Mason Cook</actor>
+			<role>Will</role>
+		</credit>
+		<credit>
+			<actor>JD Cullum</actor>
+			<role>Wendell</role>
+		</credit>
+		<credit>
+			<actor>Saginaw Grant</actor>
+			<role>Chief Big Bear</role>
+		</credit>
+		<credit>
+			<actor>Harry Treadaway</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>James Frain</actor>
+			<role>Barret</role>
+		</credit>
+		<credit>
+			<actor>Joaquín Cosio</actor>
+			<role>Jesus</role>
+		</credit>
+		<credit>
+			<actor>Damon Herriman</actor>
+			<role>Ray</role>
+		</credit>
+		<credit>
+			<actor>Matt O'Leary</actor>
+			<role>Skinny</role>
+		</credit>
+		<credit>
+			<actor>W. Earl Brown</actor>
+			<role>Mustached Ranger</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">June 22 2013</releasedate>
+		<releasedate country="United States">June 22 2013</releasedate>
+		<releasedate country="Canada">July 3 2013</releasedate>
+		<releasedate country="Denmark">July 3 2013</releasedate>
+		<releasedate country="Estonia">July 3 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE+7</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">PG-13</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">15+</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>texas ranger</keyword>
+		<keyword>wild west</keyword>
+		<keyword>old west</keyword>
+		<keyword>american indian</keyword>
+		<keyword>horse</keyword>
+		<keyword>tonto character</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>monument national park</keyword>
+		<keyword>year 1869</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>masked vigilante</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>monument valley</keyword>
+		<keyword>brothel</keyword>
+		<keyword>wooden leg</keyword>
+		<keyword>based on tv series</keyword>
+		<keyword>white hat</keyword>
+		<keyword>origin of hero</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>based on radio show</keyword>
+		<keyword>peanut</keyword>
+		<keyword>disguised as an indian</keyword>
+		<keyword>riding a horse backwards</keyword>
+		<keyword>profanity</keyword>
+		<keyword>man dresses as a woman</keyword>
+		<keyword>reference to spaghetti western films</keyword>
+		<keyword>revisionist western</keyword>
+		<keyword>winchester rifle</keyword>
+		<keyword>lever action rifle</keyword>
+		<keyword>lone ranger character</keyword>
+		<keyword>man tied up</keyword>
+		<keyword>firing squad</keyword>
+		<keyword>bound in chains</keyword>
+		<keyword>shackles</keyword>
+		<keyword>saved from execution</keyword>
+		<keyword>wendigo</keyword>
+		<keyword>spirit</keyword>
+		<keyword>side show</keyword>
+		<keyword>freak show</keyword>
+		<keyword>colt single action army revolver</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>night</keyword>
+		<keyword>handgun</keyword>
+		<keyword>firearm</keyword>
+		<keyword>quadruped</keyword>
+		<keyword>animal</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>weapon</keyword>
+		<keyword>gun</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>showdown</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>little boy</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>the lone ranger</keyword>
+		<keyword>evil man</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>bridge collapse</keyword>
+		<keyword>collapsing bridge</keyword>
+		<keyword>final battle</keyword>
+		<keyword>exploding train</keyword>
+		<keyword>world domination</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>gun fu</keyword>
+		<keyword>widow</keyword>
+		<keyword>henchman</keyword>
+		<keyword>loss of husband</keyword>
+		<keyword>sadist</keyword>
+		<keyword>loss of brother</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>evil baron</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>vigilante justice</keyword>
+		<keyword>justice</keyword>
+		<keyword>single parent</keyword>
+		<keyword>single mother</keyword>
+		<keyword>western hero</keyword>
+		<keyword>western town</keyword>
+		<keyword>domino mask</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>burial</keyword>
+		<keyword>mine</keyword>
+		<keyword>saloon</keyword>
+		<keyword>ungulate</keyword>
+		<keyword>19th century</keyword>
+		<keyword>20th century</keyword>
+		<keyword>british actor plays an american character</keyword>
+		<keyword>british actress plays an american character</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>disney</keyword>
+		<keyword>timeframe 1930s</keyword>
+		<keyword>timeframe 19th century</keyword>
+		<keyword>timeframe 20th century</keyword>
+		<keyword>year 1933</keyword>
+		<keyword>urinating in a bucket</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>1860s</keyword>
+		<keyword>outlaw</keyword>
+		<keyword>train</keyword>
+		<keyword>texas</keyword>
+		<keyword>comanche</keyword>
+		<keyword>escape</keyword>
+		<keyword>partner</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>1930s</keyword>
+		<keyword>warrior</keyword>
+		<keyword>native american</keyword>
+		<keyword>corrupting influence of capitalism</keyword>
+		<keyword>predatory capitalism</keyword>
+		<keyword>occupation in title</keyword>
+		<keyword>nickname as title</keyword>
+		<keyword>evil capitalist</keyword>
+		<keyword>law and order</keyword>
+		<keyword>north american indian</keyword>
+		<keyword>talking to the dead</keyword>
+		<keyword>female prisoner</keyword>
+		<keyword>false flag</keyword>
+		<keyword>arson</keyword>
+		<keyword>prostitution</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>brothel madam</keyword>
+		<keyword>angry mob</keyword>
+		<keyword>necklace yanked off</keyword>
+		<keyword>three word title</keyword>
+		<keyword>building fire</keyword>
+		<keyword>carnival</keyword>
+		<keyword>campfire</keyword>
+		<keyword>white stetson hat</keyword>
+		<keyword>grave</keyword>
+		<keyword>burial ritual</keyword>
+		<keyword>judo flip</keyword>
+		<keyword>train wreck</keyword>
+		<keyword>end of the line</keyword>
+		<keyword>shackled</keyword>
+		<keyword>walking on top of a train car</keyword>
+		<keyword>rag doll</keyword>
+		<keyword>passenger train</keyword>
+		<keyword>bison</keyword>
+		<keyword>close up of eye</keyword>
+		<keyword>laying railroad track</keyword>
+		<keyword>museum</keyword>
+		<keyword>dead mouse</keyword>
+		<keyword>helium balloon</keyword>
+		<keyword>red balloon</keyword>
+		<keyword>child with a gun</keyword>
+		<keyword>train derailment</keyword>
+		<keyword>hit by a train</keyword>
+		<keyword>dog</keyword>
+		<keyword>cat</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>spitting in someone's face</keyword>
+		<keyword>toy gun</keyword>
+		<keyword>badge</keyword>
+		<keyword>cave</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>two man army</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>disfigurement</keyword>
+		<keyword>scar</keyword>
+		<keyword>action hero</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the hand</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>birdcage</keyword>
+		<keyword>disguise</keyword>
+		<keyword>outlaw gang</keyword>
+		<keyword>heart ripped out</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>map</keyword>
+		<keyword>rescue</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>tribe</keyword>
+		<keyword>spirituality</keyword>
+		<keyword>desert</keyword>
+		<keyword>village</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>sword</keyword>
+		<keyword>knife</keyword>
+		<keyword>axe</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>police station</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>reluctant hero</keyword>
+		<keyword>crime fighter</keyword>
+		<keyword>rifle</keyword>
+		<keyword>revolver</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>barn</keyword>
+		<keyword>fire</keyword>
+		<keyword>cowboy</keyword>
+		<keyword>corrupt cop</keyword>
+		<keyword>flaming arrow</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>military</keyword>
+		<keyword>rogue soldier</keyword>
+		<keyword>freakshow</keyword>
+		<keyword>captain</keyword>
+		<keyword>outrunning explosion</keyword>
+		<keyword>exploding bridge</keyword>
+		<keyword>explosion</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>soldier</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>buddy comedy</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>bank vault</keyword>
+		<keyword>bank</keyword>
+		<keyword>shootout</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>civil war veteran</keyword>
+		<keyword>star spangled banner</keyword>
+		<keyword>press conference</keyword>
+		<keyword>crooked businessman</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>train accident</keyword>
+		<keyword>small town</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>cannibal</keyword>
+		<keyword>revenge</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>ferris wheel</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>bullwhip</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>bank robbery</keyword>
+		<keyword>tomahawk</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>fairground</keyword>
+		<keyword>old man</keyword>
+		<keyword>unconscious</keyword>
+		<keyword>u.s. cavalry</keyword>
+		<keyword>stampede</keyword>
+		<keyword>greed</keyword>
+		<keyword>steam locomotive</keyword>
+		<keyword>brass band</keyword>
+		<keyword>bloody mouth</keyword>
+		<keyword>scene during end credits</keyword>
+		<keyword>chained together</keyword>
+		<keyword>horse inside a train</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>train robbery</keyword>
+		<keyword>william tell overture</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>pacifist</keyword>
+		<keyword>scorpion</keyword>
+		<keyword>stuck in sand</keyword>
+		<keyword>unreliable narrator</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>disfigured face</keyword>
+		<keyword>open grave</keyword>
+		<keyword>train chase</keyword>
+		<keyword>dead bird</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>cannibalism</keyword>
+		<keyword>fighting on the roof of a train</keyword>
+		<keyword>silver bullet</keyword>
+		<keyword>train crash</keyword>
+		<keyword>ambush</keyword>
+		<keyword>battle</keyword>
+		<keyword>locomotive</keyword>
+		<keyword>massacre</keyword>
+		<keyword>silver</keyword>
+		<keyword>silver mine</keyword>
+		<keyword>chase</keyword>
+		<keyword>fight on a moving train</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>pocket watch</keyword>
+		<keyword>singing on a train</keyword>
+		<keyword>buried to the neck</keyword>
+		<keyword>masked man</keyword>
+		<keyword>mask</keyword>
+		<keyword>reboot</keyword>
+		<keyword>remake</keyword>
+		<keyword>death of father</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>flashback</keyword>
+	</keywords>
+	<directors>
+		<director> Gore Verbinski</director>
+	</directors>
+	<composers>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> Jerry Bruckheimer</producer>
+		<producer> Johnny Depp</producer>
+		<producer> Morgan Des Groseillers</producer>
+		<producer> Eric Ellenbogen</producer>
+		<producer> Ted Elliott</producer>
+		<producer> Tom Engelman</producer>
+		<producer> Shari Hanson</producer>
+		<producer> Eric McLeod</producer>
+		<producer> Chad Oman</producer>
+		<producer> Melissa Reid</producer>
+		<producer> Terry Rossio</producer>
+		<producer> Pat Sandston</producer>
+		<producer> Mike Stenson</producer>
+		<producer> Gore Verbinski</producer>
+	</producers>
+	<writers>
+		<writer> Justin Haythe</writer>
+		<writer> Ted Elliott</writer>
+		<writer> Terry Rossio</writer>
+		<writer> Ted Elliott</writer>
+		<writer> Terry Rossio</writer>
+		<writer> Justin Haythe</writer>
+	</writers>
+	<editors>
+		<editor> James Haygood</editor>
+		<editor> Craig Wood</editor>
+	</editors>
+</doc>

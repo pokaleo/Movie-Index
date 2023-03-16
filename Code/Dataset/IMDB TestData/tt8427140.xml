@@ -1,0 +1,308 @@
+<?xml version="1.0" ?>
+<doc id="tt8427140">
+	<docid>tt8427140</docid>
+	<title>Into the Dark</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjQxMzU2MzQzM15BMl5BanBnXkFtZTgwMTU2MjU2NjM@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A horror anthology series with each episode inspired by a holiday.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Aurora Perrineau</actor>
+			<role>Ashley Prime</role>
+		</credit>
+		<credit>
+			<actor>Diane Sellers</actor>
+			<role>Casting Director</role>
+		</credit>
+		<credit>
+			<actor>Dylan Arnold</actor>
+			<role>Hank</role>
+		</credit>
+		<credit>
+			<actor>Katie Wilson</actor>
+			<role>Christine</role>
+		</credit>
+		<credit>
+			<actor>Sonita Henry</actor>
+			<role>Dr. Larson</role>
+		</credit>
+		<credit>
+			<actor>Gene Freeman</actor>
+			<role>Demon Pooka</role>
+		</credit>
+		<credit>
+			<actor>Suki Waterhouse</actor>
+			<role>Alexis</role>
+		</credit>
+		<credit>
+			<actor>Dermot Mulroney</actor>
+			<role>Henry Tooms</role>
+		</credit>
+		<credit>
+			<actor>Tom Bateman</actor>
+			<role>Wilkes</role>
+		</credit>
+		<credit>
+			<actor>Nyasha Hatendi</actor>
+			<role>Wilson Clowes</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Beatriz</actor>
+			<role>Elena</role>
+		</credit>
+		<credit>
+			<actor>Adelaide Kane</actor>
+			<role>Wendy</role>
+		</credit>
+		<credit>
+			<actor>Natalie Martinez</actor>
+			<role>Jennifer Robbins</role>
+		</credit>
+		<credit>
+			<actor>Molly Hagan</actor>
+			<role>Kiwi</role>
+		</credit>
+		<credit>
+			<actor>Clayne Crawford</actor>
+			<role>Nathan Singer</role>
+		</credit>
+		<credit>
+			<actor>Martha Higareda</actor>
+			<role>Marisol</role>
+		</credit>
+		<credit>
+			<actor>Reign Edwards</actor>
+			<role>Cody</role>
+		</credit>
+		<credit>
+			<actor>Keir O'Donnell</actor>
+			<role>Larry Adams</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">October 5 2018</releasedate>
+		<releasedate country="Indonesia">October 5 2018</releasedate>
+		<releasedate country="Poland">October 5 2018</releasedate>
+		<releasedate country="United States">October 5 2018</releasedate>
+		<releasedate country="Spain">December 8 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Italy">Not Rated</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Taiwan">18+</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>anthology series</keyword>
+		<keyword>holiday</keyword>
+		<keyword>holiday horror</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>psychological horror</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>horror host</keyword>
+		<keyword>usa horror host</keyword>
+		<keyword>usa non horror host</keyword>
+		<keyword>non horror host</keyword>
+		<keyword>gay</keyword>
+		<keyword>female full frontal nudity</keyword>
+		<keyword>female frontal nudity</keyword>
+	</keywords>
+	<directors>
+		<director> Paul Davis</director>
+		<director> Adam Mason</director>
+		<director> Emma Tammi</director>
+		<director> Patrick Lussier</director>
+		<director> Sophia Takal</director>
+		<director> Nacho Vigalondo</director>
+		<director> Marcus Dunstan</director>
+		<director> Mike Gan</director>
+		<director> Charles Hood</director>
+		<director> Hannah Macpherson</director>
+		<director> James Roday Rodriguez</director>
+		<director> Gigi Saul Guerrero</director>
+		<director> Carter Smith</director>
+		<director> Daniel Stamm</director>
+		<director> Chelsea Stardust</director>
+		<director> Alejandro Brugués</director>
+		<director> Maggie Levin</director>
+		<director> Tyler MacIntyre</director>
+		<director> Julius Ramsay</director>
+		<director> Brandon Zuck</director>
+		<director> Clara Aranovich</director>
+	</directors>
+	<composers>
+		<composer> Douglas Pipes</composer>
+		<composer> Chase Horseman</composer>
+		<composer> Bear McCreary</composer>
+		<composer> Michael Montes</composer>
+		<composer> The Newton Brothers</composer>
+		<composer> Michael Wandmacher</composer>
+		<composer> Kevin Blumenfeld</composer>
+		<composer> Matt Hill</composer>
+		<composer> Deron Johnson</composer>
+		<composer> Morgan Kibby</composer>
+		<composer> Jimmy LaValle</composer>
+		<composer> Matthew Margeson</composer>
+		<composer> Joel J. Richard</composer>
+		<composer> Frederik Wiedmann</composer>
+		<composer> Keeley Bumford Dresage</composer>
+		<composer> Mark Hadley</composer>
+		<composer> Russ Howard III</composer>
+		<composer> Ben Lovett</composer>
+		<composer> Kyle Newmaster</composer>
+		<composer> Ceiri Torjussen</composer>
+		<composer> John Clement Wood</composer>
+		<composer> Jay Wadley</composer>
+	</composers>
+	<producers>
+		<producer> Lauren Downey</producer>
+		<producer> Alexander Kruener</producer>
+		<producer> Tevin Adelman</producer>
+		<producer> Scott Fort</producer>
+		<producer> Jason Blum</producer>
+		<producer> Noor Haydar</producer>
+		<producer> Paul Fischer</producer>
+		<producer> Markus Bishop-Hill</producer>
+		<producer> Darian Heredia</producer>
+		<producer> Paul Davis</producer>
+		<producer> Alexa Faigen</producer>
+		<producer> Jordanna Guarino</producer>
+		<producer> Alissa Phillips</producer>
+		<producer> Greg Gilreath</producer>
+		<producer> Adam Hendricks</producer>
+		<producer> John H. Lang</producer>
+		<producer> Zac Locke</producer>
+		<producer> Christa Boarini</producer>
+		<producer> Marshall Persinger</producer>
+		<producer> David Beazley</producer>
+		<producer> Derek Bishé</producer>
+		<producer> Narineh Hacopian</producer>
+		<producer> Nahikari Ipiña</producer>
+		<producer> Gerald Olson</producer>
+		<producer> Eugene Rhee</producer>
+		<producer> Jeanine Rohn</producer>
+		<producer> Norman Aladjem</producer>
+		<producer> Rockmond Dunbar</producer>
+		<producer> Cathy Gesualdo</producer>
+		<producer> Julianna Guill</producer>
+		<producer> John Hegeman</producer>
+		<producer> Kent Kubena</producer>
+		<producer> Hannah Macpherson</producer>
+		<producer> Ray Moheet</producer>
+		<producer> Mark Sennet</producer>
+		<producer> Chris Sergi</producer>
+		<producer> Adam Wyatt Tate</producer>
+		<producer> C. Robert Cargill</producer>
+		<producer> Scott Derrickson</producer>
+		<producer> Aaron Mark</producer>
+		<producer> Alston Ramsay</producer>
+		<producer> Julius Ramsay</producer>
+		<producer> Nick Antosca</producer>
+		<producer> Clara Aranovich</producer>
+		<producer> Alex Hedlund</producer>
+	</producers>
+	<writers>
+		<writer> Louis Ackerman</writer>
+		<writer> Jim Agnew</writer>
+		<writer> Nick Antosca</writer>
+		<writer> Alan Blake Bachelor</writer>
+		<writer> James Bachelor</writer>
+		<writer> Scott Barkan</writer>
+		<writer> Scott Barkan</writer>
+		<writer> James Benson</writer>
+		<writer> James Benson</writer>
+		<writer> Dirk Blackman</writer>
+		<writer> Simon Boyes</writer>
+		<writer> Pat Casey</writer>
+		<writer> Pat Casey</writer>
+		<writer> Ryan Copple</writer>
+		<writer> Paul Davis</writer>
+		<writer> Paul Davis</writer>
+		<writer> Paul Davis</writer>
+		<writer> Marcus Dunstan</writer>
+		<writer> Aaron Eisenberg</writer>
+		<writer> Will Eisenberg</writer>
+		<writer> Noah Feinberg</writer>
+		<writer> Noah Feinberg</writer>
+		<writer> Paul Fischer</writer>
+		<writer> Paul Fischer</writer>
+		<writer> Paul Fischer</writer>
+		<writer> Adam Gaines</writer>
+		<writer> Adam Gaines</writer>
+		<writer> Mike Gan</writer>
+		<writer> Todd Harthan</writer>
+		<writer> Todd Harthan</writer>
+		<writer> Efrén Hernández</writer>
+		<writer> Efrén Hernández</writer>
+		<writer> Sean Keller</writer>
+		<writer> Kent Kubena</writer>
+		<writer> Maggie Levin</writer>
+		<writer> Hannah Macpherson</writer>
+		<writer> Hannah Macpherson</writer>
+		<writer> Adam Mason</writer>
+		<writer> Patrick Melton</writer>
+		<writer> Josh Miller</writer>
+		<writer> Josh Miller</writer>
+		<writer> Gerald Olson</writer>
+		<writer> Alexandra Pechman</writer>
+		<writer> Alexandra Pechman</writer>
+		<writer> Alston Ramsay</writer>
+		<writer> James Roday Rodriguez</writer>
+		<writer> James Roday Rodriguez</writer>
+		<writer> Gigi Saul Guerrero</writer>
+		<writer> Paul Soter</writer>
+		<writer> Sophia Takal</writer>
+		<writer> Erlingur Thoroddsen</writer>
+		<writer> Carey Van Dyke</writer>
+		<writer> Shane Van Dyke</writer>
+		<writer> Catherine Wignall</writer>
+		<writer> Catherine Wignall</writer>
+		<writer> Gregg Zehentner</writer>
+		<writer> Gregg Zehentner</writer>
+	</writers>
+	<editors>
+		<editor> Andrew Wesman</editor>
+		<editor> Christopher M. Meagher</editor>
+		<editor> Thad Nurski</editor>
+		<editor> Tad Dennis</editor>
+		<editor> Yang Hua Hu</editor>
+		<editor> Nathan Easterling</editor>
+		<editor> Kayla Emter</editor>
+		<editor> Julie Garcés</editor>
+		<editor> Dana Gasparine</editor>
+		<editor> John Quinn</editor>
+	</editors>
+</doc>

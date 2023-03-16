@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<doc id="tt14201576">
+	<docid>tt14201576</docid>
+	<title>Blueback</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjc3ODlmNzgtYzRlMi00YmFhLTkyNWUtZmNmYTRlYzJhNGQ4XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>Follows Abby, a child who befriends a magnificent wild blue grouper while diving. When Abby realizes that the fish is under threat, she takes inspiration from her activist Mum, Dora, and takes on poachers to save her friend.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Mia Wasikowska</actor>
+			<role>Abby</role>
+		</credit>
+		<credit>
+			<actor>Albert Mwangi</actor>
+			<role>Gitundu</role>
+		</credit>
+		<credit>
+			<actor>Ariel Donoghue</actor>
+			<role>Young Abby</role>
+		</credit>
+		<credit>
+			<actor>Radha Mitchell</actor>
+			<role>Dora</role>
+		</credit>
+		<credit>
+			<actor>Clarence Ryan</actor>
+			<role>Briggs</role>
+		</credit>
+		<credit>
+			<actor>Eric Bana</actor>
+			<role>Macka</role>
+		</credit>
+		<credit>
+			<actor>Erik Thomson</actor>
+			<role>Costello</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Alexander</actor>
+			<role>Older Dora</role>
+		</credit>
+		<credit>
+			<actor>Ilsa Fogg</actor>
+			<role>Teen Abby</role>
+		</credit>
+		<credit>
+			<actor>Eddie Baroo</actor>
+			<role>Merv</role>
+		</credit>
+		<credit>
+			<actor>Pedrea Jackson</actor>
+			<role>Teen Briggs</role>
+		</credit>
+		<credit>
+			<actor>Dalip Sondhi</actor>
+			<role>Mr. Carlisle</role>
+		</credit>
+		<credit>
+			<actor>Timothy Flowers</actor>
+			<role>Briggs' Dad</role>
+		</credit>
+		<credit>
+			<actor>Vikki Thorn</actor>
+			<role>Bonfire Musician</role>
+		</credit>
+		<credit>
+			<actor>Dan Carroll</actor>
+			<role>Bonfire Musician</role>
+		</credit>
+		<credit>
+			<actor>Luke Dux</actor>
+			<role>Bonfire Musician</role>
+		</credit>
+		<credit>
+			<actor>Karla Hart</actor>
+			<role>Bonfire Musician</role>
+		</credit>
+		<credit>
+			<actor>Howard Morrison</actor>
+			<role>Police Officer</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 16 2022</releasedate>
+		<releasedate country="Taiwan">November 8 2022</releasedate>
+		<releasedate country="Australia">November 21 2022</releasedate>
+		<releasedate country="Germany">December 29 2022</releasedate>
+		<releasedate country="Australia">January 1 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">0+</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fish</keyword>
+		<keyword>diving</keyword>
+		<keyword>underwater</keyword>
+		<keyword>human animal relationship</keyword>
+		<keyword>harpoon</keyword>
+		<keyword>wetsuit</keyword>
+	</keywords>
+	<directors>
+		<director> Robert Connolly</director>
+	</directors>
+	<composers>
+		<composer> Nigel Westlake</composer>
+	</composers>
+	<producers>
+		<producer> Joanna Baevski</producer>
+		<producer> Hayley Baillie</producer>
+		<producer> James Richard Baillie</producer>
+		<producer> Eric Bana</producer>
+		<producer> Bec Bignell</producer>
+		<producer> Tara Bilston</producer>
+		<producer> Alicia Brown</producer>
+		<producer> Robert Connolly</producer>
+		<producer> Jonathan Duffy</producer>
+		<producer> James Grandison</producer>
+		<producer> Arthur K Humphrey</producer>
+		<producer> Liz Kearney</producer>
+		<producer> Nicholas Langley</producer>
+		<producer> Andrew Myer</producer>
+		<producer> Robert Patterson</producer>
+		<producer> Joel Pearlman</producer>
+		<producer> Ricci Swart</producer>
+		<producer> Lorraine Tarabay</producer>
+		<producer> Michele Turnure-Salleo</producer>
+	</producers>
+	<writers>
+		<writer> Robert Connolly</writer>
+		<writer> Tim Winton</writer>
+		<writer> Tim Winton</writer>
+	</writers>
+	<editors>
+		<editor> Nick Meyers</editor>
+	</editors>
+</doc>
