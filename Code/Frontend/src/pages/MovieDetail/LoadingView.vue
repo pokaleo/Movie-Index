@@ -6,10 +6,11 @@
     </div>
 
     <div class="inputQuery">
-      <KeepAlive>
-        <SearchBar :t="'any'"/>
-      </KeepAlive>
+      <SearchBar :t="'any'"/>
       <!--el-button size="small" @click="sendQuery" style="margin-top:20px">Search</el-button-->
+    </div>
+    <div class="footer">
+      <a :href="'https://doc.movieindex.me'">Documentation: see https://doc.movieindex.me</a>
     </div>
   </div>
 </template>
@@ -29,7 +30,7 @@ export default {
     return{
       query: "",
       results: "",
-      mode:"title"
+      mode:"title",
     }
   },
 
@@ -55,6 +56,7 @@ export default {
   display: flex;
   flex-direction: column;
   text-align: center;
+  min-height: 100%;
 }
 .logo{
   width: 200px;
@@ -68,5 +70,12 @@ export default {
 }
 .inputQuery{
   margin-top: 2%;
+  flex: 1;
+}
+
+.footer{
+  margin-bottom: 7px;
+  flex: 0;
+  font-size: x-small;
 }
 </style>
