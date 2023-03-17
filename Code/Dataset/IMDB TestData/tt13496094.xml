@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<doc id="tt13496094">
+	<docid>tt13496094</docid>
+	<title>The Chase</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDYzYzQ1NDItMzU4Yi00ODNmLWIyNGEtNWNmMjJhZjY2MzdhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>I 2021</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>Contestants competing against a professional quizzer, known as the Chaser, whose aim is to prevent the contestants from winning a cash prize.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Sara Haines</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>James Holzhauer</actor>
+			<role>Self - Chaser</role>
+		</credit>
+		<credit>
+			<actor>Brad Rutter</actor>
+			<role>Self - Chaser</role>
+		</credit>
+		<credit>
+			<actor>Mark Labbett</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Ken Jennings</actor>
+			<role>Self - Chaser</role>
+		</credit>
+		<credit>
+			<actor>Victoria Groce</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Buzzy Cohen</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Michael Bilow</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Daniel Donohue</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Quesnelle</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>George H. Holt III</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Seguritan</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Elliot Yates</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Michael Rankins</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Andy Vogl</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Beth Morgan</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Christopher Pennant</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Monikka Mann</actor>
+			<role>Self - Contestant</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">January 7 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Richard Dipirro</director>
+		<director> Vincent Rubino</director>
+	</directors>
+	<composers>
+		<composer> David Vanacore</composer>
+	</composers>
+	<producers>
+		<producer> Micki Boden</producer>
+		<producer> Joey Ortega</producer>
+		<producer> Matthew Stollman</producer>
+		<producer> Daniel Donohue</producer>
+		<producer> Aaron Sandler</producer>
+		<producer> J. Chris Newberg</producer>
+		<producer> Tom Ward</producer>
+		<producer> Peter Herschko</producer>
+		<producer> Ian Sambor</producer>
+		<producer> Julie Athans</producer>
+		<producer> Andrew Cam</producer>
+		<producer> Stacey Darrow</producer>
+		<producer> Ed Egan</producer>
+		<producer> Anna Garrett</producer>
+		<producer> David George</producer>
+		<producer> Julia King</producer>
+		<producer> Melanie Oberman</producer>
+		<producer> Vincent Rubino</producer>
+		<producer> Bernie Schaeffer</producer>
+		<producer> Adam Sher</producer>
+		<producer> Simon Thomas</producer>
+	</producers>
+	<writers>
+		<writer> Erik Agard</writer>
+		<writer> Eliza Bayne</writer>
+		<writer> Kyle Beakley</writer>
+		<writer> Micki Boden</writer>
+		<writer> Megan Broussard</writer>
+		<writer> Jonathan Daly</writer>
+		<writer> Brian Greene</writer>
+		<writer> Brian Greene</writer>
+		<writer> Robert King</writer>
+		<writer> Robert King</writer>
+		<writer> Jason Lundell</writer>
+		<writer> Sierra Mannie</writer>
+		<writer> Ari Yolkut</writer>
+		<writer> Ari Yolkut</writer>
+	</writers>
+	<editors>
+		<editor> Tim Wilsbach</editor>
+		<editor> Austin Scott</editor>
+		<editor> Sujit Agrawal</editor>
+		<editor> John Baldino</editor>
+		<editor> Victor Gonzaga</editor>
+		<editor> Juliette Olavarria</editor>
+		<editor> Liam Safian</editor>
+		<editor> Eric Singer</editor>
+	</editors>
+</doc>

@@ -1,0 +1,473 @@
+<?xml version="1.0" ?>
+<doc id="tt1694423">
+	<docid>tt1694423</docid>
+	<title>Masterchef</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTExNGVjZDQtNTZhZi00NGRiLThlOWItMjNlZjhiMzRhMmIyXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>II 2010</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>A nationwide search for the best home cooks in America. One of 50 hopefuls will become a culinary star and one of America's &quot;Masterchefs.&quot;</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Gordon Ramsay</actor>
+			<role>Judge</role>
+		</credit>
+		<credit>
+			<actor>Joe Bastianich</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Charlie Ryan</actor>
+			<role>Self - Narrator</role>
+		</credit>
+		<credit>
+			<actor>Graham Elliot</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Aarón Sánchez</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Christina Tosi</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Luca Manfè</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Nick DiGiovanni</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Sarah Faherty</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Dorian Hunter</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Gerron Hurt</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Eddie Jackson</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Jessie Lysiak</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Bri Kozior</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Natasha Crnjac</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Krissi Biasiello</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Bime Cruz</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Sasha Foxx</actor>
+			<role>Self - Contestant</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">July 27 2010</releasedate>
+		<releasedate country="Hungary">April 21 2011</releasedate>
+		<releasedate country="Poland">June 10 2013</releasedate>
+		<releasedate country="United States">June 1 2016</releasedate>
+		<releasedate country="Germany">November 3 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cooking show</keyword>
+		<keyword>food</keyword>
+		<keyword>non fiction</keyword>
+		<keyword>cookery game show</keyword>
+		<keyword>american kitchen</keyword>
+		<keyword>american cook</keyword>
+		<keyword>meal</keyword>
+		<keyword>culinary</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>based on tv series</keyword>
+		<keyword>one word series title</keyword>
+	</keywords>
+	<directors>
+		<director> Brian Smith</director>
+		<director> Rich Kim</director>
+	</directors>
+	<composers>
+		<composer> Jeff Lippencott</composer>
+		<composer> Mark T. Williams</composer>
+		<composer> Anthony Ammar</composer>
+		<composer> Adam Gock</composer>
+		<composer> Dinesh Wicks</composer>
+		<composer> Mitch Stewart</composer>
+		<composer> Dom Capuano</composer>
+	</composers>
+	<producers>
+		<producer> Gordon Ramsay</producer>
+		<producer> Patrick Reina</producer>
+		<producer> Adeline Ramage Rooney</producer>
+		<producer> Elisabeth Murdoch</producer>
+		<producer> Matt Pella</producer>
+		<producer> Aaron Strongoni</producer>
+		<producer> Brooke Bennett</producer>
+		<producer> Tats Wada</producer>
+		<producer> Brian Smith</producer>
+		<producer> Ben Adler</producer>
+		<producer> Yasmin Shackleton</producer>
+		<producer> Robin Ashbrook</producer>
+		<producer> Amanda Dobkowitz</producer>
+		<producer> Claudine Magre</producer>
+		<producer> Danny Schrader</producer>
+		<producer> Matthew Weil</producer>
+		<producer> Scott Raigel</producer>
+		<producer> Adam Cooper</producer>
+		<producer> Thomas J. Rasera</producer>
+		<producer> Charlie Ryan</producer>
+		<producer> Aaron Catling</producer>
+		<producer> Brad Kingston</producer>
+		<producer> Todd Sachs</producer>
+		<producer> Sandee Birdsong</producer>
+		<producer> Patricia Llewellyn</producer>
+		<producer> Joanne Takahashi</producer>
+		<producer> Mary Keledjian</producer>
+		<producer> Justin Brooks</producer>
+		<producer> Jay Light</producer>
+		<producer> Scott Mlodzinski</producer>
+		<producer> Maureen Biegas</producer>
+		<producer> Eden Gaha</producer>
+		<producer> Suzy Beck</producer>
+		<producer> Dale Pitman</producer>
+		<producer> D.J. Nurre</producer>
+		<producer> Ethan Cohan</producer>
+		<producer> Danny Jordan</producer>
+		<producer> Tyler O'Neil</producer>
+		<producer> Sandra J. Ciccone</producer>
+		<producer> Crisveth Ortega</producer>
+		<producer> Pamela Bower</producer>
+		<producer> Thi Nguyen</producer>
+		<producer> Dan Keats</producer>
+		<producer> Sharon Levy</producer>
+		<producer> Pat Llewellyn</producer>
+		<producer> Natalka Znak</producer>
+		<producer> Jennifer Fazey</producer>
+		<producer> LeRoy A. Warner Jr.</producer>
+		<producer> Justin Germono</producer>
+		<producer> Shyam Balsé</producer>
+		<producer> Brent Schwebel</producer>
+		<producer> Claire Beason</producer>
+		<producer> Ryanne Dunning</producer>
+		<producer> Meredith Fitzpatrick</producer>
+		<producer> Jefferson Strouse</producer>
+		<producer> Krista Chael</producer>
+		<producer> Jonathan Bourne</producer>
+		<producer> Whitnee Null</producer>
+		<producer> Liesel Leddin</producer>
+		<producer> Derrick Ah Sam</producer>
+		<producer> Kelly Franklin</producer>
+		<producer> Nina Steffel</producer>
+		<producer> Malia McInnes</producer>
+		<producer> Demetreos Katsafados</producer>
+		<producer> Neomi Peries</producer>
+		<producer> Devin Daley</producer>
+		<producer> Daniel Calin</producer>
+		<producer> Kelia Tardiff</producer>
+		<producer> Avery Pursell</producer>
+		<producer> Noël O'Connor</producer>
+		<producer> Marisa Wahl</producer>
+		<producer> Maggie Brockmann</producer>
+		<producer> Paul Franklin</producer>
+		<producer> Juan Garcia</producer>
+		<producer> Andrew Rager</producer>
+		<producer> John Adams</producer>
+		<producer> Ralik Rachman</producer>
+		<producer> Kimberly Goodman</producer>
+		<producer> Jamie Lauren</producer>
+		<producer> Liz Custer</producer>
+		<producer> Elizabeth Sandorff</producer>
+		<producer> Melissa Stokes</producer>
+		<producer> Darren J. Paletz</producer>
+		<producer> Cara Chandler</producer>
+		<producer> Colin Willauer</producer>
+		<producer> Frank Crane</producer>
+		<producer> Katie Rose Vaughan</producer>
+		<producer> Ryne Dillon</producer>
+		<producer> Georgie Hurford-Jones</producer>
+		<producer> Andrea Masamitsu</producer>
+		<producer> Adam M. Neal</producer>
+		<producer> Levon Mergian</producer>
+		<producer> Abrah Shapiro</producer>
+		<producer> Jared Bashiri</producer>
+		<producer> Christina Batis</producer>
+		<producer> Alexis Bishop</producer>
+		<producer> Sadie Blasucci</producer>
+		<producer> Beckie Blosser</producer>
+		<producer> Erin Brady</producer>
+		<producer> Justin Brooks</producer>
+		<producer> Ariel Demeny</producer>
+		<producer> Susan Driskill</producer>
+		<producer> Ekko Gaha</producer>
+		<producer> Rachel Hull</producer>
+		<producer> Rose Kinane-Adams</producer>
+		<producer> Anthony Lloyd</producer>
+		<producer> Michael Peluso</producer>
+		<producer> Jonathon Ridgard</producer>
+		<producer> Kesha Tatro</producer>
+		<producer> Lena Willand</producer>
+		<producer> Sydney Niemerow</producer>
+		<producer> Will Ehbrecht</producer>
+		<producer> Desphina Vorgeas</producer>
+		<producer> Felipe Castillo</producer>
+		<producer> Lindsay Marcus</producer>
+		<producer> James Sunshine</producer>
+		<producer> Hunter Johnson</producer>
+		<producer> Ryan Braun</producer>
+		<producer> Dawn Haber</producer>
+		<producer> Hollie Self</producer>
+		<producer> John Paul</producer>
+		<producer> Dan Sacks</producer>
+		<producer> Candace Infuso</producer>
+		<producer> Liz Lanphear</producer>
+		<producer> Cat Sullivan</producer>
+		<producer> Kayla Sherman</producer>
+		<producer> Nikki Antonio</producer>
+		<producer> Chelsey Ball</producer>
+		<producer> Natalie Bosmans</producer>
+		<producer> Matthew D. Chavez</producer>
+		<producer> Ryan Corchard-Keller</producer>
+		<producer> Ollie Costey</producer>
+		<producer> Michelle DeBellis</producer>
+		<producer> Audrey Fain</producer>
+		<producer> Kevin Goddard</producer>
+		<producer> Nora Goetzman</producer>
+		<producer> Alex Krautstrunk</producer>
+		<producer> Lauren McCay</producer>
+		<producer> Donald Meyerson</producer>
+		<producer> Kevin Miller</producer>
+		<producer> Thomas Wilhoit</producer>
+		<producer> Dominique Worden</producer>
+		<producer> Michael Carroll</producer>
+		<producer> Cassidy Bernhard</producer>
+		<producer> Darin Kato</producer>
+		<producer> Andrew Mallon</producer>
+		<producer> Jeremy Pearce</producer>
+		<producer> Brady Hess</producer>
+		<producer> Joe Neary</producer>
+		<producer> Allison Mandell</producer>
+		<producer> Benjamin Kronick</producer>
+		<producer> William Lamkin</producer>
+		<producer> Mara Mote</producer>
+		<producer> Jamie Lauren Davis</producer>
+		<producer> Michael Kangaju</producer>
+		<producer> Teddi Shaffer</producer>
+		<producer> Jane Bolin</producer>
+		<producer> Greg Gerosky</producer>
+		<producer> Claire Wasmund</producer>
+		<producer> Chad Bennett</producer>
+		<producer> Ryan Bunnell</producer>
+		<producer> Annie Imhoff</producer>
+		<producer> Joplin Matthews-Wright</producer>
+		<producer> Jeff Parker</producer>
+		<producer> Gracelyn Woods</producer>
+		<producer> Katie Laird</producer>
+		<producer> Chris Rattican</producer>
+		<producer> Kevin Mendonca</producer>
+		<producer> Howard Owens</producer>
+		<producer> Taya Shapiro</producer>
+		<producer> Melanie Stuparyk</producer>
+		<producer> Catherine Thoma</producer>
+		<producer> Jeremy Gardiner</producer>
+		<producer> Elizabeth Jones</producer>
+		<producer> Adam Sheldon</producer>
+		<producer> Jeffrey Lubin</producer>
+		<producer> J.C. Babas</producer>
+		<producer> David Braun</producer>
+		<producer> JoAnn Cianciulli</producer>
+		<producer> Elayne Cilic</producer>
+		<producer> Lisa Singer Haese</producer>
+		<producer> Martha Owens</producer>
+		<producer> Elizabeth Cook</producer>
+		<producer> Melanie Oberman</producer>
+		<producer> Lena Lane</producer>
+		<producer> Cameron Glenar</producer>
+		<producer> Ericka Jones</producer>
+		<producer> Pollyanna Jacobs</producer>
+		<producer> Jefferson Nolan</producer>
+		<producer> Grivas Kopti</producer>
+		<producer> Maya Gibson</producer>
+		<producer> Leroy Warner</producer>
+		<producer> Dave Bogosian</producer>
+		<producer> Andrea Pugliese</producer>
+		<producer> Michael Pulte</producer>
+		<producer> Camissa Hill</producer>
+		<producer> Ashley Hulse</producer>
+		<producer> Hayden T. Mauk</producer>
+		<producer> Meredith Prunkard</producer>
+		<producer> Mimma Catalano</producer>
+		<producer> Sarah Carney</producer>
+		<producer> Christina DerHagopian</producer>
+		<producer> Cami Kershek</producer>
+		<producer> Stephen Ashton Booth</producer>
+		<producer> Toni-Ann Lagana</producer>
+		<producer> Autumn deVitry</producer>
+		<producer> Leslie Spann</producer>
+		<producer> Clay Murphy</producer>
+		<producer> Maya Tasaka</producer>
+		<producer> Gina Gonzalez</producer>
+		<producer> Nicole Mirkof</producer>
+		<producer> Danielle Stankard</producer>
+		<producer> Jaszmin Kuhner</producer>
+		<producer> Katy Dierks</producer>
+		<producer> Kevin Finn</producer>
+		<producer> Nikki Hedlund</producer>
+		<producer> Stephanie Williams</producer>
+		<producer> Will Baker</producer>
+		<producer> Megan Firestone</producer>
+		<producer> Amanda Bing</producer>
+		<producer> Camilla Dhanak</producer>
+		<producer> Jordan Duenas</producer>
+		<producer> Jennifer Kita</producer>
+		<producer> Annemarie Low</producer>
+		<producer> Allen Nery</producer>
+		<producer> Sarinya Rattana</producer>
+		<producer> Stephanie Sacco</producer>
+		<producer> Erika Shea</producer>
+		<producer> Forrest Tagliamonte</producer>
+		<producer> Robert McLeod</producer>
+		<producer> Richard Avis</producer>
+		<producer> Crystal Bahmaie</producer>
+		<producer> Joel Barragan</producer>
+		<producer> Cristina Rojo</producer>
+		<producer> Vin Morrone</producer>
+		<producer> Katy Murakami</producer>
+		<producer> Mark Koops</producer>
+		<producer> Todd A. Nelson</producer>
+		<producer> Franc Roddam</producer>
+		<producer> J.D. Roth</producer>
+	</producers>
+	<writers>
+		<writer> Franc Roddam</writer>
+		<writer> Franc Roddam</writer>
+		<writer> Adeline Ramage Rooney</writer>
+		<writer> Ben Adler</writer>
+		<writer> Robin Ashbrook</writer>
+		<writer> Pat Llewellyn</writer>
+		<writer> Howard Owens</writer>
+		<writer> Gordon Ramsay</writer>
+	</writers>
+	<editors>
+		<editor> Charlie Ryan</editor>
+		<editor> Ezra Hudson</editor>
+		<editor> Mimma Catalano</editor>
+		<editor> Matt Cluett</editor>
+		<editor> Kevin Benson</editor>
+		<editor> Ryan Dawson</editor>
+		<editor> Daniel Hancox</editor>
+		<editor> James Messina</editor>
+		<editor> Austin Scott</editor>
+		<editor> Mike Bolanowski</editor>
+		<editor> Andy Castor</editor>
+		<editor> Dylan Hart</editor>
+		<editor> Samantha Diamond</editor>
+		<editor> Will Ehbrecht</editor>
+		<editor> Austin Flack</editor>
+		<editor> Brian Phillips</editor>
+		<editor> Molly Shock</editor>
+		<editor> Darryl Fox</editor>
+		<editor> Mick LeGrande</editor>
+		<editor> David Timoner</editor>
+		<editor> Tori Rodman</editor>
+		<editor> Clay Zimmerman</editor>
+		<editor> Bryan Carreon</editor>
+		<editor> Chris Kirkpatrick</editor>
+		<editor> Skip Arnold</editor>
+		<editor> Tudor Applen</editor>
+		<editor> Takayuki Fujiwara</editor>
+		<editor> Spiro Lampros</editor>
+		<editor> Terri Maloney</editor>
+		<editor> Matt Valdez</editor>
+		<editor> Jason Stewart</editor>
+		<editor> Roger Bartlett</editor>
+		<editor> Mike Hale</editor>
+		<editor> Jennifer Roth</editor>
+		<editor> Chris Smith</editor>
+		<editor> Alisa Lipsitt</editor>
+		<editor> Chris Conway</editor>
+		<editor> Brian Freundlich</editor>
+		<editor> Frank Lawrence Kivo</editor>
+		<editor> Rod Schultheiss</editor>
+		<editor> Eric Wise</editor>
+		<editor> Nicole West</editor>
+		<editor> Dan Reid</editor>
+		<editor> Dan Paek</editor>
+		<editor> Evan Gatica</editor>
+		<editor> Gregory Fitzsimmons</editor>
+		<editor> Danny Flynn</editor>
+		<editor> Alyssa Lehner</editor>
+		<editor> Russ Friedman</editor>
+		<editor> Bayard Stryker</editor>
+		<editor> Jamie Bull</editor>
+		<editor> Mike Espinosa</editor>
+		<editor> Tom Maroney</editor>
+		<editor> Jonah Max</editor>
+		<editor> Ann Faucher</editor>
+		<editor> Karl Kimbrough</editor>
+		<editor> Jeremy Cohen</editor>
+		<editor> Marc Markley</editor>
+		<editor> Nathan Belt</editor>
+		<editor> Brad Gilson</editor>
+		<editor> Seung Im</editor>
+		<editor> Sax Eno</editor>
+		<editor> Chris McKinley</editor>
+		<editor> Gerry Becerril</editor>
+		<editor> Leellen Patchen</editor>
+		<editor> John W. Richardson</editor>
+		<editor> Stephen Baumhauer</editor>
+		<editor> Michael Korpacz</editor>
+		<editor> Dusko Milanko</editor>
+		<editor> Aimee Durrant</editor>
+		<editor> Charmain Muntean</editor>
+		<editor> Jayson Belt</editor>
+		<editor> Eric Shanks</editor>
+		<editor> Bryan Kregg</editor>
+		<editor> Christopher Sam</editor>
+		<editor> Brett Snyder</editor>
+	</editors>
+</doc>

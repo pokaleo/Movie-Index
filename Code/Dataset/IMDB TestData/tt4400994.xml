@@ -1,0 +1,342 @@
+<?xml version="1.0" ?>
+<doc id="tt4400994">
+	<docid>tt4400994</docid>
+	<title>The Ballad of Lefty Brown</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTk0Nzg0NzU0Ml5BMl5BanBnXkFtZTgwOTkwMjY5MzI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">111</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Western</genre>
+	</genres>
+	<plot>A thrilling and action-packed Western, The Ballad of Lefty Brown is a story about loyalty, friendship, and the relentless pursuit of justice.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Auro 11.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Bill Pullman</actor>
+			<role>Lefty Brown</role>
+		</credit>
+		<credit>
+			<actor>Peter Fonda</actor>
+			<role>Edward Johnson</role>
+		</credit>
+		<credit>
+			<actor>Stephen Alan Seder</actor>
+			<role>Noah DeBow</role>
+		</credit>
+		<credit>
+			<actor>Kathy Baker</actor>
+			<role>Laura Johnson</role>
+		</credit>
+		<credit>
+			<actor>Joseph Lee Anderson</actor>
+			<role>Oak</role>
+		</credit>
+		<credit>
+			<actor>Tyson Gerhardt</actor>
+			<role>Irish William</role>
+		</credit>
+		<credit>
+			<actor>Lewis Pullman</actor>
+			<role>Billy Kitchen</role>
+		</credit>
+		<credit>
+			<actor>Joe Anderson</actor>
+			<role>Frank Baines</role>
+		</credit>
+		<credit>
+			<actor>Tommy Flanagan</actor>
+			<role>Tom Harrah</role>
+		</credit>
+		<credit>
+			<actor>Jim Caviezel</actor>
+			<role>Jimmy Bierce</role>
+		</credit>
+		<credit>
+			<actor>Diego Josef</actor>
+			<role>Jeremiah Perkins</role>
+		</credit>
+		<credit>
+			<actor>Adam O'Byrne</actor>
+			<role>Thaddeus Crobley</role>
+		</credit>
+		<credit>
+			<actor>Dillinger Steele</actor>
+			<role>Doc</role>
+		</credit>
+		<credit>
+			<actor>Michael Spears</actor>
+			<role>Biscuit</role>
+		</credit>
+		<credit>
+			<actor>Seth Carlin</actor>
+			<role>Tanner</role>
+		</credit>
+		<credit>
+			<actor>Tony Hernandez</actor>
+			<role>Bartender</role>
+		</credit>
+		<credit>
+			<actor>Emily Rasmuss</actor>
+			<role>Red Blake</role>
+		</credit>
+		<credit>
+			<actor>Nathan McTague</actor>
+			<role>Karl</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 11 2017</releasedate>
+		<releasedate country="United States">June 24 2017</releasedate>
+		<releasedate country="United States">September 29 2017</releasedate>
+		<releasedate country="Switzerland">October 6 2017</releasedate>
+		<releasedate country="United States">October 6 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>old west</keyword>
+		<keyword>reference to john wilkes booth</keyword>
+		<keyword>reference to wild bill hickok</keyword>
+		<keyword>two gun holster</keyword>
+		<keyword>long range rifle</keyword>
+		<keyword>classic western</keyword>
+		<keyword>revenge</keyword>
+		<keyword>murder</keyword>
+		<keyword>corrupt governor</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>underdog</keyword>
+		<keyword>cowhand</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>montana</keyword>
+		<keyword>corrupt politician</keyword>
+		<keyword>murder of boss</keyword>
+		<keyword>shootout</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>man hugs a dead man</keyword>
+		<keyword>standoff</keyword>
+		<keyword>memory</keyword>
+		<keyword>american flag</keyword>
+		<keyword>federal offense</keyword>
+		<keyword>apology</keyword>
+		<keyword>cauterizing a wound</keyword>
+		<keyword>salvation</keyword>
+		<keyword>head wound</keyword>
+		<keyword>native american</keyword>
+		<keyword>rescue</keyword>
+		<keyword>hired assassin</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>rustler</keyword>
+		<keyword>long underwear</keyword>
+		<keyword>violence</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>wrapped in a blanket</keyword>
+		<keyword>riding for help</keyword>
+		<keyword>parasol</keyword>
+		<keyword>rattlesnake</keyword>
+		<keyword>bunkhouse</keyword>
+		<keyword>dying</keyword>
+		<keyword>false accusation of murder</keyword>
+		<keyword>telegram</keyword>
+		<keyword>desert</keyword>
+		<keyword>lie</keyword>
+		<keyword>barn</keyword>
+		<keyword>saloon keeper</keyword>
+		<keyword>woman with a gun</keyword>
+		<keyword>medicine</keyword>
+		<keyword>buckshot</keyword>
+		<keyword>memorial service</keyword>
+		<keyword>innocence</keyword>
+		<keyword>railroad</keyword>
+		<keyword>widow</keyword>
+		<keyword>applause</keyword>
+		<keyword>shame</keyword>
+		<keyword>speech</keyword>
+		<keyword>tied up</keyword>
+		<keyword>lawman</keyword>
+		<keyword>spittoon</keyword>
+		<keyword>drawing</keyword>
+		<keyword>posse</keyword>
+		<keyword>reading aloud</keyword>
+		<keyword>following someone</keyword>
+		<keyword>being followed</keyword>
+		<keyword>lantern</keyword>
+		<keyword>hostage</keyword>
+		<keyword>gun pointed at someone's neck</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>blood</keyword>
+		<keyword>shot in the stomach</keyword>
+		<keyword>removing a bullet</keyword>
+		<keyword>dead body</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>hit in the face</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>money</keyword>
+		<keyword>outlaw gang</keyword>
+		<keyword>head butt</keyword>
+		<keyword>torture</keyword>
+		<keyword>burning money</keyword>
+		<keyword>hit with a gun</keyword>
+		<keyword>candle</keyword>
+		<keyword>wound</keyword>
+		<keyword>bullet</keyword>
+		<keyword>nickname</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>friendship</keyword>
+		<keyword>friend</keyword>
+		<keyword>justice</keyword>
+		<keyword>partner</keyword>
+		<keyword>witness to a murder</keyword>
+		<keyword>murder of a politician</keyword>
+		<keyword>cowboy</keyword>
+		<keyword>outlaw</keyword>
+		<keyword>search</keyword>
+		<keyword>gunslinger</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>gun</keyword>
+		<keyword>horse</keyword>
+		<keyword>murder of partner</keyword>
+		<keyword>politician</keyword>
+		<keyword>begins with quotation</keyword>
+		<keyword>reference to frederick jackson turner</keyword>
+		<keyword>red bluff montana</keyword>
+		<keyword>year 1889</keyword>
+		<keyword>rain</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>shooting</keyword>
+		<keyword>dying in the rain</keyword>
+		<keyword>saloon</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>thunder</keyword>
+		<keyword>hit with a rifle</keyword>
+		<keyword>hit on the back of the head</keyword>
+		<keyword>hanging</keyword>
+		<keyword>wheelbarrow</keyword>
+		<keyword>photograph</keyword>
+		<keyword>ranch</keyword>
+		<keyword>african american</keyword>
+		<keyword>hands held up in the air</keyword>
+		<keyword>stabbed with a needle</keyword>
+		<keyword>kiss</keyword>
+		<keyword>chicken</keyword>
+		<keyword>mending a fence</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>horse thief</keyword>
+		<keyword>combing one's hair</keyword>
+		<keyword>mirror</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>grief</keyword>
+		<keyword>marriage</keyword>
+		<keyword>burying a rifle</keyword>
+		<keyword>holding one's hat over one's heart</keyword>
+		<keyword>promise</keyword>
+		<keyword>black cowboy</keyword>
+		<keyword>corral</keyword>
+		<keyword>campfire</keyword>
+		<keyword>last will and testament</keyword>
+		<keyword>clothesline</keyword>
+		<keyword>law and order</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>sleeping on the ground</keyword>
+		<keyword>tenderfoot</keyword>
+		<keyword>double gun holster</keyword>
+		<keyword>holster</keyword>
+		<keyword>gun holster</keyword>
+		<keyword>holed up</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>cattle branding</keyword>
+		<keyword>card game</keyword>
+		<keyword>crying</keyword>
+		<keyword>dead animal</keyword>
+		<keyword>fear of death</keyword>
+		<keyword>gun pointed at head</keyword>
+		<keyword>killing an animal</keyword>
+		<keyword>limp</keyword>
+		<keyword>insult</keyword>
+		<keyword>old man</keyword>
+		<keyword>novel</keyword>
+		<keyword>chase</keyword>
+		<keyword>rabbit meat</keyword>
+		<keyword>reading</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>scream</keyword>
+		<keyword>snakebite</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>death threat</keyword>
+		<keyword>two on a horse</keyword>
+		<keyword>marshal</keyword>
+		<keyword>noose</keyword>
+		<keyword>hair</keyword>
+		<keyword>badge</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>poker the card game</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>biscuit</keyword>
+		<keyword>rifle</keyword>
+		<keyword>hit with a gun butt</keyword>
+		<keyword>senator</keyword>
+		<keyword>governor</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>window blinds</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>bumbling sidekick</keyword>
+		<keyword>classical western</keyword>
+		<keyword>coughing</keyword>
+		<keyword>holed up in a shack</keyword>
+		<keyword>kicking</keyword>
+		<keyword>giving a toast</keyword>
+		<keyword>american indian</keyword>
+		<keyword>death of friend</keyword>
+	</keywords>
+	<directors>
+		<director> Jared Moshe</director>
+	</directors>
+	<composers>
+		<composer> H. Scott Salinas</composer>
+	</composers>
+	<producers>
+		<producer> Neda Armian</producer>
+		<producer> Niraj Bhatia</producer>
+		<producer> Dan Burks</producer>
+		<producer> Ryan Lewis</producer>
+		<producer> Jared Moshe</producer>
+		<producer> Eleanor Nett</producer>
+		<producer> Edward Parks</producer>
+		<producer> Rachel Ward</producer>
+		<producer> Allison Whitmer</producer>
+	</producers>
+	<writers>
+		<writer> Jared Moshe</writer>
+		<writer> Jared Moshe</writer>
+	</writers>
+	<editors>
+		<editor> Terel Gibson</editor>
+	</editors>
+</doc>

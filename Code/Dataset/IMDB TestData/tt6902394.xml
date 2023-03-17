@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc id="tt6902394">
+	<docid>tt6902394</docid>
+	<title>Where the Wind Blows</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzM1Njc0ZjgtMDU2YS00MjlhLWEzY2UtMTM4NDQ4YjllYjRmXkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">144</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Follows Lui Lok, a police officer who decides to make a name for himself within the police force by controlling organized crime.</plot>
+	<countries>
+		<country>China</country>
+	</countries>
+	<languages>
+		<language>Chinese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Surround 7.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tony Leung Chiu-wai</actor>
+			<role>Nam Kong</role>
+		</credit>
+		<credit>
+			<actor>Aaron Kwok</actor>
+			<role>Lui Lok</role>
+		</credit>
+		<credit>
+			<actor>Jessie Li</actor>
+			<role>Xiao Yu</role>
+		</credit>
+		<credit>
+			<actor>Michael Hui</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>John F. Cruz</actor>
+			<role>Assistant Police Commissioner HK</role>
+		</credit>
+		<credit>
+			<actor>Michael Man-Kin Chow</actor>
+			<role>Chubby B</role>
+		</credit>
+		<credit>
+			<actor>Patrick Tam</actor>
+			<role>Yim Hung</role>
+		</credit>
+		<credit>
+			<actor>Ron Ng</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Nick Ford</actor>
+			<role>Ernest Hunt</role>
+		</credit>
+		<credit>
+			<actor>Juan Du</actor>
+			<role>Choi Chan</role>
+		</credit>
+		<credit>
+			<actor>Ben Z Orenstein</actor>
+			<role>Visiting professor</role>
+		</credit>
+		<credit>
+			<actor>Samuel D.T. Mackey</actor>
+			<role>Sam, Reporter.</role>
+		</credit>
+		<credit>
+			<actor>Justin Ole Fischer</actor>
+			<role>Senior HK Police officer</role>
+		</credit>
+		<credit>
+			<actor>Colin David Herbert Blackwell</actor>
+			<role>Police Superintendent</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Hong Kong">August 15 2022</releasedate>
+		<releasedate country="Netherlands">January 27 2023</releasedate>
+		<releasedate country="China">February 4 2023</releasedate>
+		<releasedate country="China">February 5 2023</releasedate>
+		<releasedate country="Singapore">February 16 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Singapore">M18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+	</keywords>
+	<directors>
+		<director> Philip Yung</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Julia Chu</producer>
+		<producer> Johnny Hon</producer>
+	</producers>
+	<writers>
+		<writer> Philip Yung</writer>
+	</writers>
+	<editors>
+		<editor> Matthieu Laclau</editor>
+		<editor> J. Him Lee</editor>
+		<editor> Zhao Zhang</editor>
+	</editors>
+</doc>

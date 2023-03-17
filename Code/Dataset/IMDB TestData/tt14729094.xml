@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<doc id="tt14729094">
+	<docid>tt14729094</docid>
+	<title>The Bad Guy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDhkYmU0MzctMWEzNy00ODg1LWI3ZjAtMGZlZjkzNWVmMzVjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UX190_CR0,10,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">54</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The show revolves around a Sicilian public prosecutor named Nino Scotellaro who devoted his whole life to fighting the Mafia and finds himself accused and condemned of being a mafioso himself.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Luigi Lo Cascio</actor>
+			<role>Nino Scotellaro</role>
+		</credit>
+		<credit>
+			<actor>Claudia Pandolfi</actor>
+			<role>Luvi Bray</role>
+		</credit>
+		<credit>
+			<actor>Selene Caramazza</actor>
+			<role>Leonarda Scotellaro</role>
+		</credit>
+		<credit>
+			<actor>Alessandro Lui</actor>
+			<role>Matteo Boccanera</role>
+		</credit>
+		<credit>
+			<actor>Fabrizio Ferracane</actor>
+			<role>Cataldo Silvio Maria Palamita</role>
+		</credit>
+		<credit>
+			<actor>Vincenzo Pirrotta</actor>
+			<role>Salvatore Tracina</role>
+		</credit>
+		<credit>
+			<actor>Giulia Maenza</actor>
+			<role>Teresa Suro</role>
+		</credit>
+		<credit>
+			<actor>Souleymane Seye Ndiaye</actor>
+			<role>Lumumba</role>
+		</credit>
+		<credit>
+			<actor>Claudio Ciria</actor>
+			<role>Francesco Zerro</role>
+		</credit>
+		<credit>
+			<actor>Alessio Ciria</actor>
+			<role>Manfredi Zerro</role>
+		</credit>
+		<credit>
+			<actor>Mimmo Mignemi</actor>
+			<role>Giuseppe Perchia detto 'U Siccu'</role>
+		</credit>
+		<credit>
+			<actor>Francesco Zenzola</actor>
+			<role>Nicola Pizzilli</role>
+		</credit>
+		<credit>
+			<actor>Antonio Zavatteri</actor>
+			<role>Gianfranco Costardello</role>
+		</credit>
+		<credit>
+			<actor>Vittorio Magazzù Tamburello</actor>
+			<role>Domenico Cuore</role>
+		</credit>
+		<credit>
+			<actor>Guia Jelo</actor>
+			<role>Giusy Corifena</role>
+		</credit>
+		<credit>
+			<actor>Anastasia Doaga</actor>
+			<role>Katerina</role>
+		</credit>
+		<credit>
+			<actor>Vincenzo Alfieri</actor>
+			<role>Mirko Carlini</role>
+		</credit>
+		<credit>
+			<actor>Marco Marelli</actor>
+			<role>Paolo Bray Attore</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">December 1 2022</releasedate>
+		<releasedate country="Sweden">December 1 2022</releasedate>
+		<releasedate country="France">December 7 2022</releasedate>
+		<releasedate country="Argentina">December 8 2022</releasedate>
+		<releasedate country="Australia">December 8 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>prosecutor</keyword>
+	</keywords>
+	<directors>
+		<director> Giancarlo Fontana</director>
+		<director> Giuseppe Stasi</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Carlotta Calori</producer>
+		<producer> Francesca Cima</producer>
+		<producer> Fabiomassimo Dell'Orco</producer>
+		<producer> Jean Elia</producer>
+		<producer> Nicola Giuliano</producer>
+		<producer> Marica Gungui</producer>
+		<producer> Davide Nardini</producer>
+		<producer> Andrea Passalacqua</producer>
+		<producer> Anna Passarini</producer>
+		<producer> Viola Prestieri</producer>
+	</producers>
+	<writers>
+		<writer> Ludovica Rampoldi</writer>
+		<writer> Ludovica Rampoldi</writer>
+		<writer> Davide Serino</writer>
+		<writer> Davide Serino</writer>
+		<writer> Giuseppe Stasi</writer>
+		<writer> Giuseppe Stasi</writer>
+		<writer> Giuseppe Stasi</writer>
+	</writers>
+	<editors>
+		<editor> Giancarlo Fontana</editor>
+	</editors>
+</doc>

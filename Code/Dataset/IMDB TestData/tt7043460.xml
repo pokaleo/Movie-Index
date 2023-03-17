@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<doc id="tt7043460">
+	<docid>tt7043460</docid>
+	<title>Youn's Kitchen</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDgzZDFkODEtZmIzNi00ZmY4LTg2MWEtNWYzYjEyYzQ2MGQyXkEyXkFqcGdeQXVyNTAwNzc3ODg@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>Youn's Kitchen is a popular South Korean reality travel show that follows the cast in their journey to a foreign destination where they open a pop-up restaurant for a few days.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jung Yu-mi</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Youn Yuh-jung</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Seo-jin Lee</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Goo Shin</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Park Seo-joon</actor>
+			<role>Self (2017)</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="South Korea">March 24 2017</releasedate>
+		<releasedate country="Philippines">February 18 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Philippines">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>restaurant</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Young-Seok Na</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Lee Jin-joo</producer>
+		<producer> Young-Seok Na</producer>
+	</producers>
+	<writers>
+		<writer> Woo-jung Lee</writer>
+	</writers>
+	<editors/>
+</doc>

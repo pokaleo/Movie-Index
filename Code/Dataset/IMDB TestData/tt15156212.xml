@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<doc id="tt15156212">
+	<docid>tt15156212</docid>
+	<title>Crossfire</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjM1ZmNmM2YtMzRhMS00N2EwLTg4ZGItNGJlYTA3ZDNhMzJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">55</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>After a shooting, Jo's family vacations turns into turmoil.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Keeley Hawes</actor>
+			<role>Jo</role>
+		</credit>
+		<credit>
+			<actor>Lee Ingleby</actor>
+			<role>Jason</role>
+		</credit>
+		<credit>
+			<actor>Daniel Ryan</actor>
+			<role>Ben</role>
+		</credit>
+		<credit>
+			<actor>Josette Simon</actor>
+			<role>Miriam</role>
+		</credit>
+		<credit>
+			<actor>Anneika Rose</actor>
+			<role>Abhi</role>
+		</credit>
+		<credit>
+			<actor>Vikash Bhai</actor>
+			<role>Chinar Doshi</role>
+		</credit>
+		<credit>
+			<actor>Noah Leggott</actor>
+			<role>Adam</role>
+		</credit>
+		<credit>
+			<actor>Pol Toro</actor>
+			<role>Gerardo</role>
+		</credit>
+		<credit>
+			<actor>Marta Fuenar</actor>
+			<role>Pilar</role>
+		</credit>
+		<credit>
+			<actor>Zakiy Jogi</actor>
+			<role>Gatik</role>
+		</credit>
+		<credit>
+			<actor>Arjun Subramanian</actor>
+			<role>Jaypal</role>
+		</credit>
+		<credit>
+			<actor>Pol Sanuy</actor>
+			<role>Flavio</role>
+		</credit>
+		<credit>
+			<actor>Marta Viota</actor>
+			<role>Receptionist</role>
+		</credit>
+		<credit>
+			<actor>Ariyon Bakare</actor>
+			<role>Paul</role>
+		</credit>
+		<credit>
+			<actor>Hugo Silva</actor>
+			<role>Mateo</role>
+		</credit>
+		<credit>
+			<actor>Shalisha James-Davis</actor>
+			<role>Amara</role>
+		</credit>
+		<credit>
+			<actor>Guillermo Campra</actor>
+			<role>Iker</role>
+		</credit>
+		<credit>
+			<actor>Christian Sánchez</actor>
+			<role>Eusebio</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">September 18 2022</releasedate>
+		<releasedate country="Australia">September 20 2022</releasedate>
+		<releasedate country="France">September 20 2022</releasedate>
+		<releasedate country="United Kingdom">September 20 2022</releasedate>
+		<releasedate country="Netherlands">November 4 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Netherlands">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>turmoil</keyword>
+		<keyword>woman</keyword>
+	</keywords>
+	<directors>
+		<director> Tessa Hoffe</director>
+	</directors>
+	<composers>
+		<composer> Nainita Desai</composer>
+	</composers>
+	<producers>
+		<producer> Simon Bird</producer>
+		<producer> Nawfal Faizullah</producer>
+		<producer> Ayya Harraz</producer>
+		<producer> Alex Mercer</producer>
+		<producer> Pilar Amer</producer>
+		<producer> Laurence Bowen</producer>
+		<producer> Chris Carey</producer>
+		<producer> Louise Doughty</producer>
+		<producer> Keeley Hawes</producer>
+		<producer> Alex Mercer</producer>
+		<producer> Lucy Richer</producer>
+	</producers>
+	<writers>
+		<writer> Louise Doughty</writer>
+		<writer> Louise Doughty</writer>
+	</writers>
+	<editors>
+		<editor> Dermot Diskin</editor>
+	</editors>
+</doc>

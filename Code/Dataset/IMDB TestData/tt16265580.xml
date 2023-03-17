@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<doc id="tt16265580">
+	<docid>tt16265580</docid>
+	<title>Julius Caesar Live!</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2YxYWM4OGQtYWVkMi00MGZjLWE1NmMtMzRjNzhhM2U4OTUxXkEyXkFqcGdeQXVyNTU3MzcxOTg@._V1_QL75_UY281_CR141,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes/>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Add a Plot</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Cameron Monaghan</actor>
+			<role>Julius Caesar</role>
+		</credit>
+		<credit>
+			<actor>Gavin Leatherwood</actor>
+			<role>Cassius</role>
+		</credit>
+		<credit>
+			<actor>Brandon Flynn</actor>
+			<role>Brutus</role>
+		</credit>
+		<credit>
+			<actor>Brando Crawford</actor>
+			<role>Mark Antony</role>
+		</credit>
+		<credit>
+			<actor>Zelda Williams</actor>
+			<role>Portia</role>
+		</credit>
+		<credit>
+			<actor>Grace Van Dien</actor>
+			<role>Calphurnia</role>
+		</credit>
+		<credit>
+			<actor>Cliff Powell</actor>
+			<role>Cinna</role>
+		</credit>
+		<credit>
+			<actor>Rivkah Reyes</actor>
+			<role>Ligarius</role>
+		</credit>
+		<credit>
+			<actor>Andrew Matarazzo</actor>
+			<role>Caska</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 15 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Brando Crawford</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Joseph Blake</producer>
+		<producer> Joy Blake</producer>
+		<producer> Brando Crawford</producer>
+		<producer> Ty Molbak</producer>
+		<producer> Sebastian Steinberger</producer>
+	</producers>
+	<writers>
+		<writer> Brando Crawford</writer>
+		<writer> Michael Halberstam</writer>
+		<writer> Scott Parkinson</writer>
+		<writer> William Shakespeare</writer>
+	</writers>
+	<editors>
+		<editor> Brando Crawford</editor>
+		<editor> Reza Mehr</editor>
+	</editors>
+</doc>

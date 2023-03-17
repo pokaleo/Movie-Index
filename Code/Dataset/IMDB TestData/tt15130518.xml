@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<doc id="tt15130518">
+	<docid>tt15130518</docid>
+	<title>The Walking Dead: Origins</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWIyNThjYWQtM2Y5Yi00ZjNhLTgwZmQtMDUwZTkxMDY5MDI0XkEyXkFqcGdeQXVyOTI3NzkwNzQ@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes/>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>Revisiting the stories of major characters, presented and narrated by the cast members who play them; taking a look back at key moments and events that affected them the most on their journeys through The Walking Dead Universe.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lauren Cohan</actor>
+			<role>Maggie Rhee</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Dean Morgan</actor>
+			<role>Negan</role>
+		</credit>
+		<credit>
+			<actor>Norman Reedus</actor>
+			<role>Daryl Dixon</role>
+		</credit>
+		<credit>
+			<actor>Melissa McBride</actor>
+			<role>Carol Peletier</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">July 15 2021</releasedate>
+		<releasedate country="Poland">July 15 2021</releasedate>
+		<releasedate country="United States">July 15 2021</releasedate>
+		<releasedate country="United States">July 15 2021</releasedate>
+		<releasedate country="Canada">August 4 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords/>
+	<directors/>
+	<composers/>
+	<producers>
+		<producer> Robert Ahn</producer>
+		<producer> David Alpert</producer>
+		<producer> Brian Bockrath</producer>
+		<producer> Michael Davies</producer>
+		<producer> Scott M. Gimple</producer>
+		<producer> Karen A. Hamilton</producer>
+		<producer> Toby Herman</producer>
+		<producer> Carlos Huizar</producer>
+		<producer> Gale Anne Hurd</producer>
+		<producer> Becky Joiner</producer>
+		<producer> Angela Kang</producer>
+		<producer> Robert Kirkman</producer>
+		<producer> Steve Markowitz</producer>
+		<producer> Brandon Monk</producer>
+		<producer> Elisa M. Rothstein</producer>
+		<producer> Jes Thorud</producer>
+		<producer> Todd Trotter</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Paul Sadowski</editor>
+		<editor> Stuart Acher</editor>
+		<editor> Chung Nguyen</editor>
+	</editors>
+</doc>

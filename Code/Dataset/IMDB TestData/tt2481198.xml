@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<doc id="tt2481198">
+	<docid>tt2481198</docid>
+	<title>Sunshine on Leith</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODIyNzU0NDYzM15BMl5BanBnXkFtZTgwNzM5NjUzMDE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Musical</genre>
+	</genres>
+	<plot>Two soldiers return home to Edinburgh to resume their romantic and family lives.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Paul Brannigan</actor>
+			<role>Ronnie</role>
+		</credit>
+		<credit>
+			<actor>George MacKay</actor>
+			<role>Davy</role>
+		</credit>
+		<credit>
+			<actor>Kevin Guthrie</actor>
+			<role>Ally</role>
+		</credit>
+		<credit>
+			<actor>Jane Horrocks</actor>
+			<role>Jean</role>
+		</credit>
+		<credit>
+			<actor>Peter Mullan</actor>
+			<role>Rab</role>
+		</credit>
+		<credit>
+			<actor>Freya Mavor</actor>
+			<role>Liz</role>
+		</credit>
+		<credit>
+			<actor>John Spence</actor>
+			<role>Brendan</role>
+		</credit>
+		<credit>
+			<actor>Paul McCole</actor>
+			<role>Ewan</role>
+		</credit>
+		<credit>
+			<actor>Emily-Jane Boyle</actor>
+			<role>Christine</role>
+		</credit>
+		<credit>
+			<actor>Antonia Thomas</actor>
+			<role>Yvonne</role>
+		</credit>
+		<credit>
+			<actor>Jason Flemyng</actor>
+			<role>Harry</role>
+		</credit>
+		<credit>
+			<actor>Emma Hartley-Miller</actor>
+			<role>Janice</role>
+		</credit>
+		<credit>
+			<actor>Elaine M. Ellis</actor>
+			<role>Morag</role>
+		</credit>
+		<credit>
+			<actor>Gayle Telfer Stevens</actor>
+			<role>Francine</role>
+		</credit>
+		<credit>
+			<actor>Sara Vickers</actor>
+			<role>Eilidh</role>
+		</credit>
+		<credit>
+			<actor>Julia Taudevin</actor>
+			<role>Barmaid</role>
+		</credit>
+		<credit>
+			<actor>Michael Keat</actor>
+			<role>Barman</role>
+		</credit>
+		<credit>
+			<actor>Daniela Nardini</actor>
+			<role>Chef</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 9 2013</releasedate>
+		<releasedate country="United Kingdom">October 4 2013</releasedate>
+		<releasedate country="Ireland">October 4 2013</releasedate>
+		<releasedate country="United Kingdom">January 28 2014</releasedate>
+		<releasedate country="Ireland">January 28 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="France">Tous Public</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">TP</certificate>
+		<certificate country="Switzerland">8</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>military service</keyword>
+		<keyword>afghanistan</keyword>
+		<keyword>edinburgh</keyword>
+		<keyword>scotland</keyword>
+		<keyword>jukebox musical</keyword>
+	</keywords>
+	<directors>
+		<director> Dexter Fletcher</director>
+	</directors>
+	<composers>
+		<composer> Paul Englishby</composer>
+	</composers>
+	<producers>
+		<producer> Leah Clarke</producer>
+		<producer> Victoria Dabbs</producer>
+		<producer> Andrew Macdonald</producer>
+		<producer> Arabella Page Croft</producer>
+		<producer> Kieran Parker</producer>
+		<producer> Allon Reich</producer>
+		<producer> Joanne Smith</producer>
+	</producers>
+	<writers>
+		<writer> Stephen Greenhorn</writer>
+		<writer> Stephen Greenhorn</writer>
+	</writers>
+	<editors>
+		<editor> Stuart Gazzard</editor>
+	</editors>
+</doc>

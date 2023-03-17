@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<doc id="tt9223870">
+	<docid>tt9223870</docid>
+	<title>Woke</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDIzOTJjM2QtNjkwNS00NGFhLWJhYjgtZjAxZGZmYjFlZTg4XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">25</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Keef is an African-American cartoonist on the verge of mainstream success when an unexpected incident changes his life.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lamorne Morris</actor>
+			<role>Keef Knight</role>
+		</credit>
+		<credit>
+			<actor>Blake Anderson</actor>
+			<role>Gunther</role>
+		</credit>
+		<credit>
+			<actor>T. Murph</actor>
+			<role>Clovis</role>
+		</credit>
+		<credit>
+			<actor>J.B. Smoove</actor>
+			<role>Marker</role>
+		</credit>
+		<credit>
+			<actor>Sasheer Zamata</actor>
+			<role>Ayana</role>
+		</credit>
+		<credit>
+			<actor>Aimee Garcia</actor>
+			<role>Laura</role>
+		</credit>
+		<credit>
+			<actor>Rose McIver</actor>
+			<role>Adrienne</role>
+		</credit>
+		<credit>
+			<actor>Miguel Pinzon</actor>
+			<role>Tommy</role>
+		</credit>
+		<credit>
+			<actor>Marquita Goings</actor>
+			<role>Hype</role>
+		</credit>
+		<credit>
+			<actor>Nicole Byer</actor>
+			<role>40 oz Bottle</role>
+		</credit>
+		<credit>
+			<actor>Cedric the Entertainer</actor>
+			<role>Trash Can</role>
+		</credit>
+		<credit>
+			<actor>Alvina August</actor>
+			<role>Trina</role>
+		</credit>
+		<credit>
+			<actor>Sam Richardson</actor>
+			<role>Toast</role>
+		</credit>
+		<credit>
+			<actor>Tony Hale</actor>
+			<role>Butter</role>
+		</credit>
+		<credit>
+			<actor>Eddie Griffin</actor>
+			<role>40 oz Bottle</role>
+		</credit>
+		<credit>
+			<actor>Isiah Whitlock Jr.</actor>
+			<role>Mr. Jackson</role>
+		</credit>
+		<credit>
+			<actor>Nathan Lee Graham</actor>
+			<role>Darque Noir</role>
+		</credit>
+		<credit>
+			<actor>Shannon Chan-Kent</actor>
+			<role>Cindy</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">September 9 2020</releasedate>
+		<releasedate country="United States">September 9 2020</releasedate>
+		<releasedate country="Canada">September 23 2020</releasedate>
+		<releasedate country="Sweden">September 8 2021</releasedate>
+		<releasedate country="Germany">May 26 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cartoonist</keyword>
+		<keyword>artist</keyword>
+		<keyword>hulu</keyword>
+		<keyword>san francisco california</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>racism</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Maurice Marable</director>
+		<director> Chioke Nassor</director>
+		<director> Katrelle N. Kindred</director>
+		<director> Chris Robinson</director>
+	</directors>
+	<composers>
+		<composer> Stanley Clarke</composer>
+		<composer> Haim Mazar</composer>
+		<composer> James Iha</composer>
+	</composers>
+	<producers>
+		<producer> Aeysha Carr</producer>
+		<producer> Jay Dyer</producer>
+		<producer> Will Gluck</producer>
+		<producer> Adam Haracz</producer>
+		<producer> Maurice Marable</producer>
+		<producer> Eric Christian Olsen</producer>
+		<producer> Richard Schwartz</producer>
+		<producer> John Will</producer>
+		<producer> Kate Schumaecker</producer>
+		<producer> Shaun Diston</producer>
+		<producer> Erica Djafroodi</producer>
+		<producer> Crystal Jenkins</producer>
+		<producer> Anthony King</producer>
+		<producer> Keith Knight</producer>
+		<producer> Marshall Todd</producer>
+		<producer> Ty Walker</producer>
+		<producer> Ron French</producer>
+		<producer> Conor Galvin</producer>
+		<producer> Rochée Jeffrey</producer>
+		<producer> Amanda Kay Price</producer>
+		<producer> Shawn Williamson</producer>
+	</producers>
+	<writers>
+		<writer> Keith Knight</writer>
+		<writer> Keith Knight</writer>
+		<writer> Keith Knight</writer>
+		<writer> Keith Knight</writer>
+		<writer> Marshall Todd</writer>
+		<writer> Marshall Todd</writer>
+		<writer> Marshall Todd</writer>
+		<writer> Brittany Miller</writer>
+		<writer> Brittany Miller</writer>
+		<writer> Brittany Miller</writer>
+		<writer> Asmita Paranjape</writer>
+		<writer> Asmita Paranjape</writer>
+		<writer> Conor Galvin</writer>
+		<writer> Crystal Jenkins</writer>
+		<writer> Jay Dyer</writer>
+		<writer> Rochée Jeffrey</writer>
+		<writer> Shaun Diston</writer>
+		<writer> Kyra Jones</writer>
+		<writer> Anthony King</writer>
+	</writers>
+	<editors>
+		<editor> Maura Corey</editor>
+		<editor> Bryan Irving</editor>
+		<editor> Tony Orcena</editor>
+		<editor> Omar Hassan-Reep</editor>
+		<editor> Crystal Leong</editor>
+		<editor> Ian Kezsbom</editor>
+		<editor> Shaheed Qaasim</editor>
+	</editors>
+</doc>

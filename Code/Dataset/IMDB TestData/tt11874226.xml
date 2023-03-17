@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc id="tt11874226">
+	<docid>tt11874226</docid>
+	<title>American Utopia</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGEzOWU5YmUtNjI0Mi00YzQ4LWIwODgtYWU0NDMyYTZkYjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">105</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Music</genre>
+		<genre>Musical</genre>
+	</genres>
+	<plot>Spike Lee documents the former Talking Heads frontman's brilliant, timely 2019 Broadway show, based on his recent album and tour of the same name.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>David Byrne</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jacqueline Acevedo</actor>
+			<role>Self - Percussion</role>
+		</credit>
+		<credit>
+			<actor>Gustavo Di Dalva</actor>
+			<role>Self - Percussion</role>
+		</credit>
+		<credit>
+			<actor>Daniel Freedman</actor>
+			<role>Self - Percussion</role>
+		</credit>
+		<credit>
+			<actor>Chris Giarmo</actor>
+			<role>Self - Vocals</role>
+		</credit>
+		<credit>
+			<actor>Tim Keiper</actor>
+			<role>Self - Percussion</role>
+		</credit>
+		<credit>
+			<actor>Tendayi Kuumba</actor>
+			<role>Self - Vocals</role>
+		</credit>
+		<credit>
+			<actor>Karl Mansfield</actor>
+			<role>Self - Keyboard &amp; Band Leader</role>
+		</credit>
+		<credit>
+			<actor>Mauro Refosco</actor>
+			<role>Self - Percussion &amp; Drum Section Leader</role>
+		</credit>
+		<credit>
+			<actor>Stephane San Juan</actor>
+			<role>Self - Percussion</role>
+		</credit>
+		<credit>
+			<actor>Angie Swan</actor>
+			<role>Self - Guitar</role>
+		</credit>
+		<credit>
+			<actor>Bobby Wooten III</actor>
+			<role>Self - Bass</role>
+		</credit>
+		<credit>
+			<actor>Joseph Fusco</actor>
+			<role>Theater Usher</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Brazil">September 10 2020</releasedate>
+		<releasedate country="Canada">September 10 2020</releasedate>
+		<releasedate country="United States">October 3 2020</releasedate>
+		<releasedate country="United Kingdom">October 14 2020</releasedate>
+		<releasedate country="United States">October 15 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Turkey">G</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>two word title</keyword>
+		<keyword>broadway show</keyword>
+		<keyword>based on album</keyword>
+		<keyword>band</keyword>
+		<keyword>nationality in title</keyword>
+		<keyword>musician</keyword>
+		<keyword>album</keyword>
+		<keyword>timeframe 2010s</keyword>
+	</keywords>
+	<directors>
+		<director> Spike Lee</director>
+	</directors>
+	<composers>
+		<composer> David Byrne</composer>
+	</composers>
+	<producers>
+		<producer> Meredith Bennett</producer>
+		<producer> David Bither</producer>
+		<producer> Len Blavatnik</producer>
+		<producer> David Byrne</producer>
+		<producer> Kristin Caskey</producer>
+		<producer> Patrick Catullo</producer>
+		<producer> Charlie Cohen</producer>
+		<producer> Charlie Cohen</producer>
+		<producer> Kurt Deutsch</producer>
+		<producer> Mike Isaacson</producer>
+		<producer> Jon Kamen</producer>
+		<producer> Spike Lee</producer>
+		<producer> David Linde</producer>
+		<producer> Sue Naegle</producer>
+		<producer> Maureen Paglia</producer>
+		<producer> Bill Pohlad</producer>
+		<producer> Justin Realmuto</producer>
+		<producer> Alec Sash</producer>
+		<producer> Dave Sirulnick</producer>
+		<producer> Jeff Skoll</producer>
+		<producer> Diane Weyermann</producer>
+		<producer> Christa Zofcin Workman</producer>
+	</producers>
+	<writers>
+		<writer> David Byrne</writer>
+	</writers>
+	<editors>
+		<editor> Adam Gough</editor>
+	</editors>
+</doc>

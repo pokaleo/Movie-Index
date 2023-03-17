@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc id="tt12885770">
+	<docid>tt12885770</docid>
+	<title>Project Legion</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDRmYzQzNjUtNTUxMy00MzBlLWJjYWYtMmY4ZWZjYzYzYTFlXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A young man trapped in his apartment with a swarm of creatures outside his door must find a way to survive the night and escape from apartment 213.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Brande Roderick</actor>
+			<role>Cindy</role>
+		</credit>
+		<credit>
+			<actor>Donald Cerrone</actor>
+			<role>Greg Rourke</role>
+		</credit>
+		<credit>
+			<actor>Kelly Lynn Reiter</actor>
+			<role>Karen</role>
+		</credit>
+		<credit>
+			<actor>Chris Maher</actor>
+			<role>Mills</role>
+		</credit>
+		<credit>
+			<actor>Vincent E. McDaniel</actor>
+			<role>Tibbs</role>
+		</credit>
+		<credit>
+			<actor>Michael Pizzimenti</actor>
+			<role>Soldier #2</role>
+		</credit>
+		<credit>
+			<actor>Dino Dos Santos</actor>
+			<role>Bar Fighter</role>
+		</credit>
+		<credit>
+			<actor>Habib Madison</actor>
+			<role>Doctor</role>
+		</credit>
+		<credit>
+			<actor>Danny R. Casillas</actor>
+			<role>George</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Pakistan">October 7 2022</releasedate>
+		<releasedate country="United States">October 7 2022</releasedate>
+		<releasedate country="United States">October 11 2022</releasedate>
+		<releasedate country="Russia">January 19 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Lance Kawas</director>
+	</directors>
+	<composers>
+		<composer> Richard John Baker</composer>
+	</composers>
+	<producers>
+		<producer> Asif Akbar</producer>
+		<producer> Elias Axume</producer>
+		<producer> Al Bravo</producer>
+		<producer> Donald Cerrone</producer>
+		<producer> Mark David</producer>
+		<producer> Matthew Helderman</producer>
+		<producer> Lance Kawas</producer>
+		<producer> Vincent E. McDaniel</producer>
+		<producer> Michael Pizzimenti</producer>
+		<producer> James Raptoplous</producer>
+		<producer> Brande Roderick</producer>
+		<producer> Luke Taylor</producer>
+		<producer> Michelle Wang</producer>
+	</producers>
+	<writers>
+		<writer> Lance Kawas</writer>
+		<writer> Lance Kawas</writer>
+		<writer> Michael Pizzimenti</writer>
+		<writer> Michael Pizzimenti</writer>
+		<writer> James Raptoplous</writer>
+		<writer> John Sullivan</writer>
+	</writers>
+	<editors>
+		<editor> Daniel Haff</editor>
+	</editors>
+</doc>

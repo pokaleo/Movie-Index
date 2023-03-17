@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<doc id="tt15038118">
+	<docid>tt15038118</docid>
+	<title>Blue's Big City Adventure</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYThmMmZhNTMtMTE1NS00N2UzLTlmZjYtZGE3YTYzZjU4MThiXkEyXkFqcGdeQXVyMTUyNjAxMTgz._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">82</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+		<genre>Musical</genre>
+	</genres>
+	<plot>Josh and Blue head to New York City to audition for a big Broadway musical.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Nick Balaban</actor>
+			<role>Mr. Salt</role>
+		</credit>
+		<credit>
+			<actor>Ava Augustin</actor>
+			<role>Tickety Tock</role>
+		</credit>
+		<credit>
+			<actor>Shazdeh Kapadia</actor>
+			<role>Sidetable</role>
+		</credit>
+		<credit>
+			<actor>Joshua Dela Cruz</actor>
+			<role>Josh</role>
+		</credit>
+		<credit>
+			<actor>Jacob Soley</actor>
+			<role>Slippery Soap</role>
+		</credit>
+		<credit>
+			<actor>Gisèle Rousseau</actor>
+			<role>Mrs. Pepper</role>
+		</credit>
+		<credit>
+			<actor>Breeze Dango</actor>
+			<role>Cuppa Coffee</role>
+		</credit>
+		<credit>
+			<actor>Traci Paige Johnson</actor>
+			<role>Blue</role>
+		</credit>
+		<credit>
+			<actor>Doug Murray</actor>
+			<role>Mailbox</role>
+		</credit>
+		<credit>
+			<actor>Brianna Bryan</actor>
+			<role>Rainbow Puppy</role>
+		</credit>
+		<credit>
+			<actor>Alesso Joaquin Spinelli</actor>
+			<role>Young Josh</role>
+		</credit>
+		<credit>
+			<actor>Donovan Patton</actor>
+			<role>Joe</role>
+		</credit>
+		<credit>
+			<actor>Lisa Norton</actor>
+			<role>NYC Mailbox</role>
+		</credit>
+		<credit>
+			<actor>BD Wong</actor>
+			<role>Director</role>
+		</credit>
+		<credit>
+			<actor>Max Darwin</actor>
+			<role>Audition Person #1</role>
+		</credit>
+		<credit>
+			<actor>Adam Richardson</actor>
+			<role>Audition Person #2</role>
+		</credit>
+		<credit>
+			<actor>Steve Burns</actor>
+			<role>Steve</role>
+		</credit>
+		<credit>
+			<actor>Cory Doran</actor>
+			<role>Trash Can</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">November 18 2022</releasedate>
+		<releasedate country="Canada">November 18 2022</releasedate>
+		<releasedate country="United Kingdom">November 18 2022</releasedate>
+		<releasedate country="Ireland">November 18 2022</releasedate>
+		<releasedate country="United States">November 18 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-Y</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on tv series</keyword>
+		<keyword>clue</keyword>
+		<keyword>animal character name in series title</keyword>
+		<keyword>color in title</keyword>
+		<keyword>dog</keyword>
+		<keyword>education</keyword>
+		<keyword>educational</keyword>
+		<keyword>nickelodeon</keyword>
+		<keyword>paramount plus</keyword>
+		<keyword>animals family</keyword>
+		<keyword>studio logo segues into film</keyword>
+		<keyword>reference to the wizard of oz</keyword>
+		<keyword>reference to dorothy gale</keyword>
+		<keyword>reference to toto the dog</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Matt Stawski</director>
+	</directors>
+	<composers>
+		<composer> Alex Geringas</composer>
+	</composers>
+	<producers>
+		<producer> Jonathan Burkhart</producer>
+		<producer> Sarah Donnelly</producer>
+		<producer> Morgan Feldhamer</producer>
+		<producer> Shevaun Gray</producer>
+		<producer> Traci Paige Johnson</producer>
+		<producer> Todd Kessler</producer>
+		<producer> John V. Lewis</producer>
+		<producer> Angela Santomero</producer>
+		<producer> Sam Sarkoob</producer>
+		<producer> Tommy Sica</producer>
+		<producer> Matt Stawski</producer>
+		<producer> Robert Unger</producer>
+	</producers>
+	<writers>
+		<writer> Angela Santomero</writer>
+		<writer> Angela Santomero</writer>
+	</writers>
+	<editors>
+		<editor> Scott Richter</editor>
+	</editors>
+</doc>

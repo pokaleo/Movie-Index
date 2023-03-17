@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<doc id="tt3885422">
+	<docid>tt3885422</docid>
+	<title>The Spine of Night</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTA2MGI3MGYtMDJkZi00MDRmLTlhOTEtYjgyNTg0YzEwNmM2XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">93</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>Ultra-violent, epic fantasy set in a land of magic follows heroes from different eras and cultures battling against a malevolent force.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Richard E. Grant</actor>
+			<role>The Guardian</role>
+		</credit>
+		<credit>
+			<actor>Lucy Lawless</actor>
+			<role>Tzod</role>
+		</credit>
+		<credit>
+			<actor>Patton Oswalt</actor>
+			<role>Lord Pyrantin</role>
+		</credit>
+		<credit>
+			<actor>Betty Gabriel</actor>
+			<role>Phae-Agura</role>
+		</credit>
+		<credit>
+			<actor>Joe Manganiello</actor>
+			<role>Mongrel</role>
+		</credit>
+		<credit>
+			<actor>Patrick Breen</actor>
+			<role>Doa</role>
+		</credit>
+		<credit>
+			<actor>Larry Fessenden</actor>
+			<role>Prophet of Doom</role>
+		</credit>
+		<credit>
+			<actor>Jason Gore</actor>
+			<role>Bero</role>
+		</credit>
+		<credit>
+			<actor>Maggie Lakis</actor>
+			<role>Dae</role>
+		</credit>
+		<credit>
+			<actor>Tom Lipinski</actor>
+			<role>Falconhawk</role>
+		</credit>
+		<credit>
+			<actor>Nina Lisandrello</actor>
+			<role>Sparrowcrow</role>
+		</credit>
+		<credit>
+			<actor>Rob McClure</actor>
+			<role>Gull</role>
+		</credit>
+		<credit>
+			<actor>Malcolm Mills</actor>
+			<role>Uruq</role>
+		</credit>
+		<credit>
+			<actor>Olivia Pecini</actor>
+			<role>Motion Reference</role>
+		</credit>
+		<credit>
+			<actor>Abigail Savage</actor>
+			<role>Kestelwren</role>
+		</credit>
+		<credit>
+			<actor>Jordan Douglas Smith</actor>
+			<role>Ghal-Sur</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 18 2021</releasedate>
+		<releasedate country="France">June 16 2021</releasedate>
+		<releasedate country="Slovakia">June 26 2021</releasedate>
+		<releasedate country="Switzerland">July 4 2021</releasedate>
+		<releasedate country="Australia">August 7 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>epic fantasy</keyword>
+		<keyword>magical land</keyword>
+		<keyword>adventure hero</keyword>
+		<keyword>magic</keyword>
+	</keywords>
+	<directors>
+		<director> Philip Gelatt</director>
+		<director> Morgan Galen King</director>
+	</directors>
+	<composers>
+		<composer> Peter Scartabello</composer>
+	</composers>
+	<producers>
+		<producer> Will Battersby</producer>
+		<producer> Philip Gelatt</producer>
+		<producer> Jean Rattle</producer>
+	</producers>
+	<writers>
+		<writer> Philip Gelatt</writer>
+		<writer> Morgan Galen King</writer>
+	</writers>
+	<editors/>
+</doc>

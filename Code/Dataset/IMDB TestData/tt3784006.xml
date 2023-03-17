@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<doc id="tt3784006">
+	<docid>tt3784006</docid>
+	<title>Suits Webisodes</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjMwMzAxODQtZGVmMi00Y2I5LThhNDAtY2E3MGJjYTgyODBiXkEyXkFqcGdeQXVyMjU0OTAwMDc@._V1_QL75_UY281_CR9,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">3</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Webisodes of USA Networks top rated TV series Suits.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Rick Hoffman</actor>
+			<role>Louis Litt</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Macht</actor>
+			<role>Harvey Specter</role>
+		</credit>
+		<credit>
+			<actor>Patrick J. Adams</actor>
+			<role>Mike Ross</role>
+		</credit>
+		<credit>
+			<actor>Meghan Markle</actor>
+			<role>Rachel Zane</role>
+		</credit>
+		<credit>
+			<actor>Sarah Rafferty</actor>
+			<role>Donna Paulsen</role>
+		</credit>
+		<credit>
+			<actor>Gina Torres</actor>
+			<role>Jessica Pearson</role>
+		</credit>
+		<credit>
+			<actor>Max Topplin</actor>
+			<role>Harold Gunderson</role>
+		</credit>
+		<credit>
+			<actor>Amanda Schull</actor>
+			<role>Katrina Bennett</role>
+		</credit>
+		<credit>
+			<actor>Melanie Papalia</actor>
+			<role>Amy</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">May 25 2012</releasedate>
+		<releasedate country="United States">July 2012</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>webisodes</keyword>
+	</keywords>
+	<directors>
+		<director> Anton Cropper</director>
+		<director> Kevin Bray</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Ethan Drogin</producer>
+		<producer> Rick Muirragui</producer>
+		<producer> Nathan Perkins</producer>
+		<producer> Genevieve Sparling</producer>
+	</producers>
+	<writers>
+		<writer> Anthony Epling</writer>
+		<writer> Justin Peacock</writer>
+		<writer> Genevieve Sparling</writer>
+	</writers>
+	<editors>
+		<editor> Dan Rovetto</editor>
+	</editors>
+</doc>

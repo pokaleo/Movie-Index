@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<doc id="tt8005338">
+	<docid>tt8005338</docid>
+	<title>Chris Rock: Tamborine</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGQ5NWJmMDktMDMxNS00ZWQzLWEzNjgtZWU5NjE0ZmZjYjc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2018 TV Special</year>
+	<runningtimes>
+		<runningtime country="default">98</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Chris Rock takes the stage in Brooklyn for a comedy special filled with searing observations on fatherhood, infidelity and American politics.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Chris Rock</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Spike Lee</actor>
+			<role>Self - Audience Member</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Netherlands">February 14 2018</releasedate>
+		<releasedate country="United States">February 14 2018</releasedate>
+		<releasedate country="Singapore">January 12 2021</releasedate>
+		<releasedate country="United States">January 12 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>stand up special</keyword>
+		<keyword>tv special</keyword>
+		<keyword>stand up comedy</keyword>
+	</keywords>
+	<directors>
+		<director> Bo Burnham</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Michael Amodio</producer>
+		<producer> Neal Brennan</producer>
+		<producer> Matthew Claybrooks</producer>
+		<producer> Tony Hernandez</producer>
+		<producer> Jonathan Mussman</producer>
+		<producer> Jennifer L. Pearlman</producer>
+		<producer> Chris Rock</producer>
+		<producer> John Skidmore</producer>
+		<producer> Christopher Storer</producer>
+	</producers>
+	<writers>
+		<writer> Chris Rock</writer>
+	</writers>
+	<editors>
+		<editor> Michael Schultz</editor>
+	</editors>
+</doc>

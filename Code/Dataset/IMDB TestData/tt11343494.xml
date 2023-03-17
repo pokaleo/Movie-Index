@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<doc id="tt11343494">
+	<docid>tt11343494</docid>
+	<title>Darrylgorn</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzYxMWE4MWUtODVlYS00NWJkLTg3MTgtZWFkZGEzZDhkMWIyXkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_QL75_UY281_CR46,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">8</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Darrylgorn, the mysterious brother of Aragorn, is one of the unsung heroes of Middle-earth who finally gets his adventure told.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Stephen Colbert</actor>
+			<role>Darrylgorn</role>
+		</credit>
+		<credit>
+			<actor>Peter Jackson</actor>
+			<role>Gratuitous of Cameo</role>
+		</credit>
+		<credit>
+			<actor>Ian McKellen</actor>
+			<role>Ian</role>
+		</credit>
+		<credit>
+			<actor>Viggo Mortensen</actor>
+			<role>Viggo</role>
+		</credit>
+		<credit>
+			<actor>Elijah Wood</actor>
+			<role>Elijah</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 22 2019</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Stephen Colbert</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Stephen Colbert</producer>
+	</producers>
+	<writers>
+		<writer> Stephen Colbert</writer>
+	</writers>
+	<editors/>
+</doc>

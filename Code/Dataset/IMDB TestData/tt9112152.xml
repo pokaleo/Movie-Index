@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<doc id="tt9112152">
+	<docid>tt9112152</docid>
+	<title>The Investigation</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjI0NWE0NTYtOTdkNC00NmVhLTg0ZTEtZmZiOWM0ZjMwZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Copenhagen Police's Homicide unit, headed by Jens Møller, tries to solve the murder of Swedish journalist Kim Wall.</plot>
+	<countries>
+		<country>Denmark</country>
+	</countries>
+	<languages>
+		<language>Danish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Søren Malling</actor>
+			<role>Jens Møller Jensen</role>
+		</credit>
+		<credit>
+			<actor>Pilou Asbæk</actor>
+			<role>Jakob Buch-Jepsen</role>
+		</credit>
+		<credit>
+			<actor>Pernilla August</actor>
+			<role>Ingrid Wall</role>
+		</credit>
+		<credit>
+			<actor>Rolf Lassgård</actor>
+			<role>Joachim Wall</role>
+		</credit>
+		<credit>
+			<actor>Laura Christensen</actor>
+			<role>Maibritt Porse</role>
+		</credit>
+		<credit>
+			<actor>Dulfi Al-Jabouri</actor>
+			<role>Musa Amin</role>
+		</credit>
+		<credit>
+			<actor>Hans Henrik Clemensen</actor>
+			<role>Nikolaj Storm</role>
+		</credit>
+		<credit>
+			<actor>Henrik Birch</actor>
+			<role>Lars Møller</role>
+		</credit>
+		<credit>
+			<actor>Anders Juul</actor>
+			<role>Christian Skov</role>
+		</credit>
+		<credit>
+			<actor>Charlotte Munck</actor>
+			<role>Kirstine</role>
+		</credit>
+		<credit>
+			<actor>Josephine Park</actor>
+			<role>Cecilie</role>
+		</credit>
+		<credit>
+			<actor>Henning Valin Jakobsen</actor>
+			<role>Klaus Rasmussen</role>
+		</credit>
+		<credit>
+			<actor>Brian Hjulmann</actor>
+			<role>Efterforsker 1</role>
+		</credit>
+		<credit>
+			<actor>Lucas Alexander</actor>
+			<role>Anders</role>
+		</credit>
+		<credit>
+			<actor>Christiane Gjellerup Koch</actor>
+			<role>Efterforsker 2</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Bull</actor>
+			<role>Ronnie Askov</role>
+		</credit>
+		<credit>
+			<actor>Frank Thiel</actor>
+			<role>Lennart Stauner</role>
+		</credit>
+		<credit>
+			<actor>Patricia Schumann</actor>
+			<role>Betina Carlsen</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Denmark">September 28 2020</releasedate>
+		<releasedate country="France">September 28 2020</releasedate>
+		<releasedate country="Sweden">September 28 2020</releasedate>
+		<releasedate country="Spain">December 11 2020</releasedate>
+		<releasedate country="Australia">December 17 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+		<keyword>copenhagen denmark</keyword>
+		<keyword>state attorney</keyword>
+		<keyword>true crime</keyword>
+		<keyword>murdered journalist</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>psycho killer</keyword>
+		<keyword>premeditated murder</keyword>
+		<keyword>shocking truth</keyword>
+		<keyword>mini submarine</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>nordic noir</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>swedish woman</keyword>
+		<keyword>year 2017</keyword>
+		<keyword>unseen character</keyword>
+		<keyword>scandi noir crime</keyword>
+		<keyword>dismembered body</keyword>
+		<keyword>missing woman</keyword>
+		<keyword>deep sea diving</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>crimes against women</keyword>
+		<keyword>year 2018</keyword>
+		<keyword>homicide department</keyword>
+		<keyword>pet dog</keyword>
+		<keyword>skeet shooting</keyword>
+		<keyword>written by director</keyword>
+		<keyword>chapter headings</keyword>
+		<keyword>german shorthaired pointer</keyword>
+		<keyword>sexual deviancy</keyword>
+		<keyword>beheading</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>harbor</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>limited series</keyword>
+		<keyword>brutality</keyword>
+		<keyword>murder</keyword>
+		<keyword>murder of a woman</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Tobias Lindholm</director>
+	</directors>
+	<composers>
+		<composer> Rune Tonsgaard Sørensen</composer>
+	</composers>
+	<producers>
+		<producer> Jonas Allen</producer>
+		<producer> Caroline Blanco</producer>
+		<producer> Peter Bose</producer>
+		<producer> Rene Ezra</producer>
+		<producer> Thomas Gammeltoft</producer>
+		<producer> Jennifer Green</producer>
+		<producer> Tobias Lindholm</producer>
+		<producer> Katrine Vogelsang</producer>
+		<producer> Claus Willadsen</producer>
+	</producers>
+	<writers>
+		<writer> Tobias Lindholm</writer>
+		<writer> Tobias Lindholm</writer>
+	</writers>
+	<editors>
+		<editor> Peter Brandt</editor>
+		<editor> Adam Nielsen</editor>
+	</editors>
+</doc>

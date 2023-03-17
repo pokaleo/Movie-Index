@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<doc id="tt10945288">
+	<docid>tt10945288</docid>
+	<title>Le loup et le lion</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTdjZWFkODEtZGZkZi00NDA1LThlN2UtNGUyN2Y0YTk3ZWM2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">99</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>A wolf pup and a lost lion cub are rescued by a girl in the heart of the Canadian wilderness. Their friendship will change their lives forever.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Molly Kunz</actor>
+			<role>Alma</role>
+		</credit>
+		<credit>
+			<actor>Graham Greene</actor>
+			<role>Joe</role>
+		</credit>
+		<credit>
+			<actor>Charlie Carrick</actor>
+			<role>Eli</role>
+		</credit>
+		<credit>
+			<actor>Derek Johns</actor>
+			<role>Charles</role>
+		</credit>
+		<credit>
+			<actor>Rhys Slack</actor>
+			<role>Rapha</role>
+		</credit>
+		<credit>
+			<actor>Evan Buliung</actor>
+			<role>Allan</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Croll</actor>
+			<role>Ysae</role>
+		</credit>
+		<credit>
+			<actor>Victor Cornfoot</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Daniel Brochu</actor>
+			<role>Mr. Mitchell</role>
+		</credit>
+		<credit>
+			<actor>Melissa Plante</actor>
+			<role>Receptionist</role>
+		</credit>
+		<credit>
+			<actor>Paula Costain</actor>
+			<role>Doctor</role>
+		</credit>
+		<credit>
+			<actor>Brent Radford</actor>
+			<role>Police Captain</role>
+		</credit>
+		<credit>
+			<actor>Jean Drolet</actor>
+			<role>Alma's Grandfather</role>
+		</credit>
+		<credit>
+			<actor>Stella Plante</actor>
+			<role>Alma at child</role>
+		</credit>
+		<credit>
+			<actor>Daniel Esteban</actor>
+			<role>Airport Host</role>
+		</credit>
+		<credit>
+			<actor>Prune de Maistre</actor>
+			<role>Parent</role>
+		</credit>
+		<credit>
+			<actor>Neige de Maistre</actor>
+			<role>Child</role>
+		</credit>
+		<credit>
+			<actor>Mylène Dinh-Robic</actor>
+			<role>Dean at Music Academy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Switzerland">September 25 2021</releasedate>
+		<releasedate country="Belgium">October 13 2021</releasedate>
+		<releasedate country="Switzerland">October 13 2021</releasedate>
+		<releasedate country="France">October 13 2021</releasedate>
+		<releasedate country="Luxembourg">October 13 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>wolf</keyword>
+	</keywords>
+	<directors>
+		<director> Gilles de Maistre</director>
+	</directors>
+	<composers>
+		<composer> Armand Amar</composer>
+	</composers>
+	<producers>
+		<producer> Catherine Camborde</producer>
+		<producer> Gilles de Maistre</producer>
+		<producer> Nicolas Dumont</producer>
+		<producer> Nicolas Elghozi</producer>
+		<producer> Claude Léger</producer>
+		<producer> Francois Mergier</producer>
+		<producer> Jacques Perrin</producer>
+		<producer> Valentine Perrin</producer>
+		<producer> Sylvain Proulx</producer>
+		<producer> Andrew Simpson</producer>
+		<producer> Jonathan Vanger</producer>
+	</producers>
+	<writers>
+		<writer> Prune de Maistre</writer>
+		<writer> Prune de Maistre</writer>
+		<writer> Gilles de Maistre</writer>
+		<writer> Richard Sadler</writer>
+	</writers>
+	<editors/>
+</doc>

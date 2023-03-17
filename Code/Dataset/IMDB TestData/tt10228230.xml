@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<doc id="tt10228230">
+	<docid>tt10228230</docid>
+	<title>Quiz</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTRhZDVhMTYtNjFkMC00NDMyLWI1ZTUtMzExZjc5ZTU5OTg3XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">147</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Game-Show</genre>
+	</genres>
+	<plot>'Quiz' tells the story of Charles Ingram, a former British army major who caused a major scandal after being caught cheating his way to winning £1 million on the game show 'Who Wants To Be A Millionaire?'</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Matthew Macfadyen</actor>
+			<role>Charles Ingram</role>
+		</credit>
+		<credit>
+			<actor>Sian Clifford</actor>
+			<role>Diana Ingram</role>
+		</credit>
+		<credit>
+			<actor>Mark Bonnar</actor>
+			<role>Paul Smith</role>
+		</credit>
+		<credit>
+			<actor>Aisling Bea</actor>
+			<role>Claudia Rosencrantz</role>
+		</credit>
+		<credit>
+			<actor>Elliot Levey</actor>
+			<role>David Briggs</role>
+		</credit>
+		<credit>
+			<actor>Risteard Cooper</actor>
+			<role>David Liddiment</role>
+		</credit>
+		<credit>
+			<actor>Trystan Gravelle</actor>
+			<role>Adrian Pollock</role>
+		</credit>
+		<credit>
+			<actor>Michael Jibson</actor>
+			<role>Tecwen Whittock</role>
+		</credit>
+		<credit>
+			<actor>Helen McCrory</actor>
+			<role>Sonia Woodley QC</role>
+		</credit>
+		<credit>
+			<actor>Michael Sheen</actor>
+			<role>Chris Tarrant</role>
+		</credit>
+		<credit>
+			<actor>Andrew Leung</actor>
+			<role>Kevin Duff</role>
+		</credit>
+		<credit>
+			<actor>Jasmyn Banks</actor>
+			<role>Nicola Howson</role>
+		</credit>
+		<credit>
+			<actor>Seraphina Beh</actor>
+			<role>Ruth Settle</role>
+		</credit>
+		<credit>
+			<actor>Matt Butcher</actor>
+			<role>Contestant</role>
+		</credit>
+		<credit>
+			<actor>Paul Bazely</actor>
+			<role>Lionel from Legal</role>
+		</credit>
+		<credit>
+			<actor>Keir Charles</actor>
+			<role>Steve Knight</role>
+		</credit>
+		<credit>
+			<actor>Beau Gadsdon</actor>
+			<role>Polly Ingram</role>
+		</credit>
+		<credit>
+			<actor>Scott Handy</actor>
+			<role>Larry Whitehurst</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">April 13 2020</releasedate>
+		<releasedate country="United States">May 31 2020</releasedate>
+		<releasedate country="Spain">September 28 2020</releasedate>
+		<releasedate country="Japan">October 20 2020</releasedate>
+		<releasedate country="Netherlands">December 28 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>quiz show</keyword>
+		<keyword>year 2001</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>television producer</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>trial</keyword>
+		<keyword>courtroom</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>television history</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>caught cheating</keyword>
+		<keyword>character appears on tv</keyword>
+		<keyword>one word title</keyword>
+		<keyword>accused of cheating</keyword>
+		<keyword>cheating at a game</keyword>
+		<keyword>coughing</keyword>
+		<keyword>suspicion of cheating</keyword>
+		<keyword>television industry</keyword>
+		<keyword>tv show within a tv show</keyword>
+		<keyword>swindle</keyword>
+		<keyword>judge</keyword>
+		<keyword>based on game show</keyword>
+		<keyword>quizmaster</keyword>
+		<keyword>game show host</keyword>
+		<keyword>money</keyword>
+		<keyword>major</keyword>
+		<keyword>army major</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>british crime literature on screen</keyword>
+		<keyword>television personality</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>who wants to be a millionaire</keyword>
+		<keyword>2000s</keyword>
+		<keyword>true crime</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>based on play</keyword>
+		<keyword>based on book</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Stephen Frears</director>
+	</directors>
+	<composers>
+		<composer> Murray Gold</composer>
+	</composers>
+	<producers>
+		<producer> Stephen Frears</producer>
+		<producer> James Graham</producer>
+		<producer> Andy Harries</producer>
+		<producer> Chris Lahr</producer>
+		<producer> Paula McBreen</producer>
+		<producer> Alice Pearse</producer>
+		<producer> Mark Tinker</producer>
+		<producer> William Village</producer>
+		<producer> Dan Winch</producer>
+	</producers>
+	<writers>
+		<writer> James Graham</writer>
+		<writer> James Graham</writer>
+		<writer> James Plaskett</writer>
+		<writer> Bob Woffinden</writer>
+	</writers>
+	<editors>
+		<editor> Pia Di Ciaula</editor>
+	</editors>
+</doc>

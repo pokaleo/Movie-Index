@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<doc id="tt12566792">
+	<docid>tt12566792</docid>
+	<title>Nattrikken</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjM1ZDk5ZGYtNTkwYi00M2ZiLThkYTgtMzEwOWNjOTc0NTFiXkEyXkFqcGdeQXVyMjA0Nzk1NzU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">15</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A cold night in December. Ebba waits for the tram to go home after a party, but the ride takes an unexpected turn.</plot>
+	<countries>
+		<country>Norway</country>
+	</countries>
+	<languages>
+		<language>Norwegian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Sigrid Kandal Husjord</actor>
+			<role>Ebba</role>
+		</credit>
+		<credit>
+			<actor>Ola Hoemsnes Sandum</actor>
+			<role>Ariel</role>
+		</credit>
+		<credit>
+			<actor>Axel Barø Aasen</actor>
+			<role>Allan</role>
+		</credit>
+		<credit>
+			<actor>Jon Vegard Hovdal</actor>
+			<role>Benjamin</role>
+		</credit>
+		<credit>
+			<actor>Rafat Haska</actor>
+			<role>Xavier</role>
+		</credit>
+		<credit>
+			<actor>Øyvind Uhlving</actor>
+			<role>Tram Driver</role>
+		</credit>
+		<credit>
+			<actor>Runar Koteng Frønes</actor>
+			<role>Man in couple</role>
+		</credit>
+		<credit>
+			<actor>Anne Haukland</actor>
+			<role>Woman in Couple</role>
+		</credit>
+		<credit>
+			<actor>Imre Ottåsen</actor>
+			<role>Kompis</role>
+		</credit>
+		<credit>
+			<actor>Johan Myklebust</actor>
+			<role>Kompis 2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Norway">June 12 2020</releasedate>
+		<releasedate country="United States">June 2022</releasedate>
+		<releasedate country="United States">February 17 2023</releasedate>
+		<releasedate country="Norway">March 11 2023</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>little person</keyword>
+		<keyword>tram</keyword>
+		<keyword>public transportation</keyword>
+		<keyword>drag queen</keyword>
+		<keyword>transphobia</keyword>
+		<keyword>hijacked train</keyword>
+		<keyword>trespassing</keyword>
+		<keyword>harassment</keyword>
+		<keyword>tram station</keyword>
+	</keywords>
+	<directors>
+		<director> Eirik Tveiten</director>
+	</directors>
+	<composers>
+		<composer> Morten Rognskog</composer>
+	</composers>
+	<producers>
+		<producer> Heidi Arnesen</producer>
+		<producer> Gaute Lid Larssen</producer>
+	</producers>
+	<writers>
+		<writer> Eirik Tveiten</writer>
+	</writers>
+	<editors>
+		<editor> Geir Fjermestad Rolandsen</editor>
+	</editors>
+</doc>

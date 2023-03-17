@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<doc id="tt9100822">
+	<docid>tt9100822</docid>
+	<title>The Valhalla Murders</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWUzODllZDYtNDEyOC00NzZlLTkzYmMtMWE0YWEwYTA1Y2RhXkEyXkFqcGdeQXVyMTI4ODE4ODA@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Police profiler Arnar is sent back home from Oslo to his native Iceland to investigate the country's first serial killer case. He teams up with the local senior cop Kata.</plot>
+	<countries>
+		<country>Iceland</country>
+	</countries>
+	<languages>
+		<language>Icelandic</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Aldís Amah Hamilton</actor>
+			<role>Dísa</role>
+		</credit>
+		<credit>
+			<actor>Nína Dögg Filippusdóttir</actor>
+			<role>Kata</role>
+		</credit>
+		<credit>
+			<actor>Björn Thors</actor>
+			<role>Arnar</role>
+		</credit>
+		<credit>
+			<actor>Arndís Hrönn Egilsdóttir</actor>
+			<role>Hugrún</role>
+		</credit>
+		<credit>
+			<actor>Tinna Hrafnsdóttir</actor>
+			<role>Helga</role>
+		</credit>
+		<credit>
+			<actor>Sigurður Skúlason</actor>
+			<role>Magnús</role>
+		</credit>
+		<credit>
+			<actor>Edda Björgvinsdóttir</actor>
+			<role>Svava</role>
+		</credit>
+		<credit>
+			<actor>Bergur Ebbi Benediktsson</actor>
+			<role>Erlingur</role>
+		</credit>
+		<credit>
+			<actor>Gunnar Bersi Björnsson</actor>
+			<role>Police officer</role>
+		</credit>
+		<credit>
+			<actor>Ottó Gunnarsson</actor>
+			<role>Tóti</role>
+		</credit>
+		<credit>
+			<actor>Anna Gunndís Guðmundsdóttir</actor>
+			<role>Selma</role>
+		</credit>
+		<credit>
+			<actor>Valur Freyr Einarsson</actor>
+			<role>Egill</role>
+		</credit>
+		<credit>
+			<actor>Víkingur Kristjánsson</actor>
+			<role>Hákon lögreglumaður</role>
+		</credit>
+		<credit>
+			<actor>Julia McIlvaine</actor>
+			<role>Kata</role>
+		</credit>
+		<credit>
+			<actor>Will Collyer</actor>
+			<role>Erlingur</role>
+		</credit>
+		<credit>
+			<actor>Frank Todaro</actor>
+			<role>Magnus</role>
+		</credit>
+		<credit>
+			<actor>Abby Trott</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Don McManus</actor>
+			<role>Additional Voices</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Iceland">December 26 2019</releasedate>
+		<releasedate country="Turkey">December 26 2019</releasedate>
+		<releasedate country="Denmark">January 27 2020</releasedate>
+		<releasedate country="United Arab Emirates">March 13 2020</releasedate>
+		<releasedate country="Argentina">March 13 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+		<keyword>police</keyword>
+		<keyword>reykjavik iceland</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>boys' home</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>child abuse</keyword>
+		<keyword>ex jehovah's witness</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>cop drama</keyword>
+		<keyword>female police detective</keyword>
+		<keyword>gay cop</keyword>
+		<keyword>nordic noir</keyword>
+		<keyword>scandi noir crime</keyword>
+	</keywords>
+	<directors>
+		<director> Thordur Palsson</director>
+		<director> Thora Hilmarsdottir</director>
+		<director> Davíd Óskar Ólafsson</director>
+	</directors>
+	<composers>
+		<composer> Rick Balentine</composer>
+	</composers>
+	<producers>
+		<producer> Kristinn Thordarson</producer>
+		<producer> Elin Mjoll Thorhallsdottir</producer>
+		<producer> Christopher D. White</producer>
+		<producer> Davíd Óskar Ólafsson</producer>
+		<producer> Leifur B. Dagfinnsson</producer>
+		<producer> Andri Sveinsson</producer>
+	</producers>
+	<writers>
+		<writer> Ottar Nordfjord</writer>
+		<writer> Ottar Nordfjord</writer>
+		<writer> Ottar Nordfjord</writer>
+		<writer> Thordur Palsson</writer>
+		<writer> Thordur Palsson</writer>
+		<writer> Kristinn Thordarson</writer>
+		<writer> Mikael Torfason</writer>
+		<writer> Mikael Torfason</writer>
+		<writer> Davíd Óskar Ólafsson</writer>
+		<writer> Margrét Örnólfsdóttir</writer>
+		<writer> Ottó Geir Borg</writer>
+	</writers>
+	<editors>
+		<editor> Sigurður Eyþórsson</editor>
+		<editor> Guðlaugur Andri Eythórsson</editor>
+		<editor> Valdís Óskarsdóttir</editor>
+	</editors>
+</doc>

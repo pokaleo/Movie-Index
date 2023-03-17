@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<doc id="tt11559486">
+	<docid>tt11559486</docid>
+	<title>Star Wars: Rise of the Resistance</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGIwNzBiNWMtMjA5My00YjgwLTg4ZjMtMjlhYjc2YmE0Y2VkXkEyXkFqcGdeQXVyMjMyMjA0NTA@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">15</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>The Resistance needs your help. Hidden in the forest outside Black Spire Outpost, the Resistance is gathering recruits for a secret mission.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>John Boyega</actor>
+			<role>Finn</role>
+		</credit>
+		<credit>
+			<actor>Adam Driver</actor>
+			<role>Kylo Ren</role>
+		</credit>
+		<credit>
+			<actor>Domhnall Gleeson</actor>
+			<role>General Hux</role>
+		</credit>
+		<credit>
+			<actor>Oscar Isaac</actor>
+			<role>Poe Dameron</role>
+		</credit>
+		<credit>
+			<actor>Jeff Leach</actor>
+			<role>Power Tech Ardanno</role>
+		</credit>
+		<credit>
+			<actor>Daisy Ridley</actor>
+			<role>Rey</role>
+		</credit>
+		<credit>
+			<actor>Kipsang Rotich</actor>
+			<role>Nien Nunb</role>
+		</credit>
+		<credit>
+			<actor>Eric Saleh</actor>
+			<role>Commander Nitell</role>
+		</credit>
+		<credit>
+			<actor>James Arnold Taylor</actor>
+			<role>Bek</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">December 3 2019</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors/>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> George Lucas</writer>
+	</writers>
+	<editors>
+		<editor> Tom Gabriel</editor>
+	</editors>
+</doc>

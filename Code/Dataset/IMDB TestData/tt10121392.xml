@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<doc id="tt10121392">
+	<docid>tt10121392</docid>
+	<title>Thunder Force</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWZkM2I2NjEtNWM0Mi00MTgwLWJlYTAtYmNkZWYzNmQ1ZTBiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>In a world where supervillains are commonplace, two estranged childhood best friends reunite after one devises a treatment that gives them powers to protect their city.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Melissa McCarthy</actor>
+			<role>Lydia Berman</role>
+		</credit>
+		<credit>
+			<actor>Octavia Spencer</actor>
+			<role>Emily Stanton</role>
+		</credit>
+		<credit>
+			<actor>Jason Bateman</actor>
+			<role>The Crab</role>
+		</credit>
+		<credit>
+			<actor>Bobby Cannavale</actor>
+			<role>The King</role>
+		</credit>
+		<credit>
+			<actor>Pom Klementieff</actor>
+			<role>Laser</role>
+		</credit>
+		<credit>
+			<actor>Melissa Leo</actor>
+			<role>Allie</role>
+		</credit>
+		<credit>
+			<actor>Taylor Mosby</actor>
+			<role>Tracy</role>
+		</credit>
+		<credit>
+			<actor>Marcella Lowery</actor>
+			<role>Grandma Norma</role>
+		</credit>
+		<credit>
+			<actor>Melissa Ponzio</actor>
+			<role>Rachel Gonzales</role>
+		</credit>
+		<credit>
+			<actor>Ben Falcone</actor>
+			<role>Kenny</role>
+		</credit>
+		<credit>
+			<actor>Nate Hitpas</actor>
+			<role>Walter</role>
+		</credit>
+		<credit>
+			<actor>Jevon White</actor>
+			<role>Robber 1</role>
+		</credit>
+		<credit>
+			<actor>David Storrs</actor>
+			<role>Andrew (Robber 2)</role>
+		</credit>
+		<credit>
+			<actor>Kevin Dunn</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Henry Bazemore Jr.</actor>
+			<role>Emily's Father</role>
+		</credit>
+		<credit>
+			<actor>Mikia Jeter</actor>
+			<role>Emily's Mother</role>
+		</credit>
+		<credit>
+			<actor>Steve Mallory</actor>
+			<role>Mr. Emerson</role>
+		</credit>
+		<credit>
+			<actor>Bria Danielle Singleton</actor>
+			<role>Young Emily</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">April 9 2021</releasedate>
+		<releasedate country="Argentina">April 9 2021</releasedate>
+		<releasedate country="Australia">April 9 2021</releasedate>
+		<releasedate country="Brazil">April 9 2021</releasedate>
+		<releasedate country="Canada">April 9 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG-13</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">PG-13</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>superhero</keyword>
+		<keyword>superhero team</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>estranged friend</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>female entrepreneur</keyword>
+		<keyword>throwing a bus</keyword>
+		<keyword>taser</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>mayoral election</keyword>
+		<keyword>non comic book superhero</keyword>
+		<keyword>power</keyword>
+		<keyword>interracial cooperation</keyword>
+		<keyword>invisibility</keyword>
+		<keyword>dance scene</keyword>
+		<keyword>mayoral candidate</keyword>
+		<keyword>mother daughter talk</keyword>
+		<keyword>first date</keyword>
+		<keyword>female mayor</keyword>
+		<keyword>knock knock joke</keyword>
+		<keyword>friend</keyword>
+		<keyword>old friend</keyword>
+		<keyword>protective suit</keyword>
+		<keyword>city</keyword>
+		<keyword>gadget</keyword>
+		<keyword>robbery</keyword>
+		<keyword>diner</keyword>
+		<keyword>diner owner</keyword>
+		<keyword>proud mother</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>elevator</keyword>
+		<keyword>chicago illinois</keyword>
+		<keyword>suit</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>reference to slayer</keyword>
+		<keyword>reference to glenn frey</keyword>
+		<keyword>reference to van halen</keyword>
+		<keyword>saying grace</keyword>
+		<keyword>redheaded woman</keyword>
+		<keyword>reference to seal</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>fight</keyword>
+		<keyword>defend</keyword>
+		<keyword>treatment</keyword>
+		<keyword>villain</keyword>
+		<keyword>superhero adventure</keyword>
+		<keyword>buddy comedy</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>villainess</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>superhero sci fi</keyword>
+	</keywords>
+	<directors>
+		<director> Ben Falcone</director>
+	</directors>
+	<composers>
+		<composer> Fil Eisler</composer>
+	</composers>
+	<producers>
+		<producer> Becki Cross Trujillo</producer>
+		<producer> Divya D'Souza</producer>
+		<producer> Ben Falcone</producer>
+		<producer> Steve Mallory</producer>
+		<producer> Melissa McCarthy</producer>
+		<producer> Marc Platt</producer>
+		<producer> Scott Puckett</producer>
+		<producer> Adam Siegel</producer>
+	</producers>
+	<writers>
+		<writer> Ben Falcone</writer>
+	</writers>
+	<editors>
+		<editor> Tia Nolan</editor>
+	</editors>
+</doc>

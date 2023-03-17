@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc id="tt14036276">
+	<docid>tt14036276</docid>
+	<title>Control</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzRkZmNlNDAtNDgxZS00NWZhLTk1NDUtZTkyYmQ5MjAxNjI2XkEyXkFqcGdeQXVyNzI4MDQ4MDM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A woman is imprisoned by a mysterious organization intent on testing her latent psychic abilities.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Sara Mitich</actor>
+			<role>Eileen</role>
+		</credit>
+		<credit>
+			<actor>George Tchortov</actor>
+			<role>Roger</role>
+		</credit>
+		<credit>
+			<actor>Evie Loiselle</actor>
+			<role>Eve</role>
+		</credit>
+		<credit>
+			<actor>Karen LeBlanc</actor>
+			<role>The Administrator</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">August 28 2022</releasedate>
+		<releasedate country="United States">September 23 2022</releasedate>
+		<releasedate country="Sweden">September 26 2022</releasedate>
+		<releasedate country="Russia">January 26 2023</releasedate>
+		<releasedate country="Poland">February 17 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>telekinesis</keyword>
+		<keyword>psychokinesis</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>kidnapped woman</keyword>
+		<keyword>kidnapped child</keyword>
+		<keyword>amnesia</keyword>
+		<keyword>hostage</keyword>
+		<keyword>erased memory</keyword>
+		<keyword>blocked memory</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>lab</keyword>
+		<keyword>assembling gun</keyword>
+		<keyword>buried in sand</keyword>
+		<keyword>locked in a room</keyword>
+		<keyword>sandcastle</keyword>
+		<keyword>mother</keyword>
+		<keyword>buried alive</keyword>
+		<keyword>chained to a chair</keyword>
+		<keyword>throwing a shoe</keyword>
+		<keyword>alcoholic husband</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>husband and wife argue</keyword>
+		<keyword>couple argues</keyword>
+		<keyword>clone</keyword>
+		<keyword>clone trooper</keyword>
+		<keyword>forced to kill</keyword>
+		<keyword>one woman army</keyword>
+		<keyword>bullet stopped in mid air</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>family killed</keyword>
+	</keywords>
+	<directors>
+		<director> James Mark</director>
+	</directors>
+	<composers>
+		<composer> James M. Findlay</composer>
+	</composers>
+	<producers>
+		<producer> Sy Baek</producer>
+		<producer> Tony Del Rio</producer>
+		<producer> Plato Fountidakis</producer>
+		<producer> Bruno Marino</producer>
+		<producer> Emerson Wong</producer>
+	</producers>
+	<writers>
+		<writer> James Mark</writer>
+		<writer> Matthew Nayman</writer>
+	</writers>
+	<editors>
+		<editor> Navin Ramaswaran</editor>
+	</editors>
+</doc>

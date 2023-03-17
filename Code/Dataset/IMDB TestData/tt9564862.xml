@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<doc id="tt9564862">
+	<docid>tt9564862</docid>
+	<title>The Red Line</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjEzMTM2NjAtNWFmZC00MTVlLTgyMmQtMGQyNTFjZDk5N2NmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Follows three Chicago families as they journey toward hope and healing after an unarmed African American doctor is shot by a white cop.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Noah Wyle</actor>
+			<role>Daniel Calder</role>
+		</credit>
+		<credit>
+			<actor>Emayatzy Corinealdi</actor>
+			<role>Tia Young</role>
+		</credit>
+		<credit>
+			<actor>Aliyah Royale</actor>
+			<role>Jira Calder-Brennan</role>
+		</credit>
+		<credit>
+			<actor>Noel Fisher</actor>
+			<role>Paul Evans</role>
+		</credit>
+		<credit>
+			<actor>Howard Charles</actor>
+			<role>Ethan Young</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Laidlaw</actor>
+			<role>Vic Renna</role>
+		</credit>
+		<credit>
+			<actor>Vinny Chhibber</actor>
+			<role>Liam Bhatt</role>
+		</credit>
+		<credit>
+			<actor>Michael Patrick Thornton</actor>
+			<role>Jim Evans</role>
+		</credit>
+		<credit>
+			<actor>J.J. Hawkins</actor>
+			<role>Riley Hooper</role>
+		</credit>
+		<credit>
+			<actor>Rammel Chan</actor>
+			<role>Matthew Lee</role>
+		</credit>
+		<credit>
+			<actor>Enuka Okuma</actor>
+			<role>Suzanne Davis</role>
+		</credit>
+		<credit>
+			<actor>Maximus Chase Evans</actor>
+			<role>Benny Young</role>
+		</credit>
+		<credit>
+			<actor>Kristina Valada-Viars</actor>
+			<role>Elizabeth</role>
+		</credit>
+		<credit>
+			<actor>Glynn Turman</actor>
+			<role>Nathan Gordon</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Sozzi</actor>
+			<role>Diego Carranza</role>
+		</credit>
+		<credit>
+			<actor>Conor O'Farrell</actor>
+			<role>Gary Evans</role>
+		</credit>
+		<credit>
+			<actor>Guy Van Swearingen</actor>
+			<role>Commander Reading</role>
+		</credit>
+		<credit>
+			<actor>Geoff Rice</actor>
+			<role>Miles</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">April 28 2019</releasedate>
+		<releasedate country="United States">April 28 2019</releasedate>
+		<releasedate country="South Africa">May 27 2019</releasedate>
+		<releasedate country="Canada">July 2 2019</releasedate>
+		<releasedate country="Canada">August 9 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">16</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>doctor</keyword>
+	</keywords>
+	<directors>
+		<director> Kevin Hooks</director>
+		<director> Thomas Carter</director>
+		<director> Matthew A. Cherry</director>
+		<director> Sheelin Choksey</director>
+		<director> DeMane Davis</director>
+		<director> Aurora Guerrero</director>
+		<director> Victoria Mahoney</director>
+	</directors>
+	<composers>
+		<composer> Sherri Chung</composer>
+		<composer> Blake Neely</composer>
+	</composers>
+	<producers>
+		<producer> Greg Berlanti</producer>
+		<producer> Ava DuVernay</producer>
+		<producer> Stephanie Johnson</producer>
+		<producer> Jennifer Lence</producer>
+		<producer> Carl Ogawa</producer>
+		<producer> Caitlin Parrish</producer>
+		<producer> Michael Pendell</producer>
+		<producer> Sarah Schechter</producer>
+		<producer> Erica Weiss</producer>
+		<producer> Sue Chung</producer>
+		<producer> Shernold Edwards</producer>
+		<producer> Kevin Hooks</producer>
+		<producer> Brendan Kelly</producer>
+		<producer> Sunil Nayar</producer>
+		<producer> Victoria Mahoney</producer>
+	</producers>
+	<writers>
+		<writer> Caitlin Parrish</writer>
+		<writer> Caitlin Parrish</writer>
+		<writer> Erica Weiss</writer>
+		<writer> Erica Weiss</writer>
+		<writer> Aaron Carter</writer>
+		<writer> Sue Chung</writer>
+		<writer> Shernold Edwards</writer>
+		<writer> Brendan Kelly</writer>
+		<writer> Fawzia Mirza</writer>
+		<writer> Sunil Nayar</writer>
+	</writers>
+	<editors>
+		<editor> Carol Stutz</editor>
+		<editor> Felicia Mignon Livingston</editor>
+		<editor> Becca Berry</editor>
+	</editors>
+</doc>

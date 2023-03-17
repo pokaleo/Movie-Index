@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<doc id="tt11548822">
+	<docid>tt11548822</docid>
+	<title>Cow</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzY1MWQ0NjEtMDM4Yi00MDA3LTg0NDUtYWI3MjNjOTg1MDE3XkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2021</year>
+	<runningtimes>
+		<runningtime country="default">94</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>A close-up portrait of the daily lives of two cows.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lin Gallagher</actor>
+			<role>Self - Audio Description</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">July 8 2021</releasedate>
+		<releasedate country="Australia">August 8 2021</releasedate>
+		<releasedate country="Israel">August 24 2021</releasedate>
+		<releasedate country="United States">September 2 2021</releasedate>
+		<releasedate country="China">September 18 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+	</certificates>
+	<keywords>
+		<keyword>portrait</keyword>
+		<keyword>animal in title</keyword>
+	</keywords>
+	<directors>
+		<director> Andrea Arnold</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Charlie Falconer</producer>
+		<producer> Maxyne Franklin</producer>
+		<producer> Rose Garnett</producer>
+		<producer> Kat Mansoor</producer>
+		<producer> Tessa Morgan</producer>
+		<producer> Sandra Whipham</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Nicolas Chaudeurge</editor>
+		<editor> Rebecca Lloyd</editor>
+		<editor> Jacob Secher Schulsinger</editor>
+	</editors>
+</doc>

@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<doc id="tt11230050">
+	<docid>tt11230050</docid>
+	<title>Solar Impact</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTk0MGE3MmEtZjEwOC00NWJkLWE3ZmUtNGQwMjgyYjZiYzgwXkEyXkFqcGdeQXVyMTA5NTk2MDA4._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">86</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Solar debris crashes down to Earth, causing widespread destruction and unleashing solar radiation around the world. As genetic mutations rapidly spread, a group of friends must fight to stay alive and escape the chaos.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Oliver Park</actor>
+			<role>Jim</role>
+		</credit>
+		<credit>
+			<actor>Natalie Martins</actor>
+			<role>Susan</role>
+		</credit>
+		<credit>
+			<actor>Lucy Aarden</actor>
+			<role>Katie</role>
+		</credit>
+		<credit>
+			<actor>Derek Nelson</actor>
+			<role>Benny</role>
+		</credit>
+		<credit>
+			<actor>Nikolas Salmon</actor>
+			<role>Gabe</role>
+		</credit>
+		<credit>
+			<actor>Julian Seager</actor>
+			<role>Owen</role>
+		</credit>
+		<credit>
+			<actor>Penelope Shipley</actor>
+			<role>Nicole</role>
+		</credit>
+		<credit>
+			<actor>Polly Kilpatrick</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Gary Knowles</actor>
+			<role>Cafe Owner</role>
+		</credit>
+		<credit>
+			<actor>Simon Riordan</actor>
+			<role>Businessman in Cafe</role>
+		</credit>
+		<credit>
+			<actor>Grace Dixon</actor>
+			<role>Lady in Cafe</role>
+		</credit>
+		<credit>
+			<actor>Peter Knight</actor>
+			<role>Doctor Singer</role>
+		</credit>
+		<credit>
+			<actor>Oliver Goodwill</actor>
+			<role>William Label (VO)</role>
+		</credit>
+		<credit>
+			<actor>Colin Murtagh</actor>
+			<role>Zombie</role>
+		</credit>
+		<credit>
+			<actor>Chris von Ruhland</actor>
+			<role>Zombie Eddie</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 15 2019</releasedate>
+		<releasedate country="United Kingdom">August 3 2020</releasedate>
+		<releasedate country="Canada">April 26 2021</releasedate>
+		<releasedate country="Netherlands">September 21 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>genetic</keyword>
+		<keyword>solar irradiance</keyword>
+		<keyword>solar radiation</keyword>
+		<keyword>electromagnetic radiation</keyword>
+		<keyword>mutation</keyword>
+		<keyword>zombie</keyword>
+	</keywords>
+	<directors>
+		<director> Craig Tudor James</director>
+	</directors>
+	<composers>
+		<composer> Oliver Goodwill</composer>
+	</composers>
+	<producers>
+		<producer> Lisa Davies</producer>
+		<producer> Craig Tudor James</producer>
+		<producer> Rebecca Start</producer>
+		<producer> Tuffy Williams</producer>
+	</producers>
+	<writers>
+		<writer> Simon Park</writer>
+	</writers>
+	<editors>
+		<editor> Craig Tudor James</editor>
+		<editor> Tuffy Williams</editor>
+	</editors>
+</doc>

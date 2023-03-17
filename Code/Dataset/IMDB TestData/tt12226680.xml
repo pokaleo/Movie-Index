@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<doc id="tt12226680">
+	<docid>tt12226680</docid>
+	<title>Fixer to Fabulous</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWY1OGQ0MDYtMWQxNS00MGM5LWI0OTQtYmNmMDZjNWE2OTAzXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes/>
+	<genres>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>Dave and Jenny Marrs focus on restoring historic homes in their neighborhood of Bentonville, Arkansas.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jenny Marrs</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Dave Marrs</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Chase Looney</actor>
+			<role>Self - Construction Manager.</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">October 22 2019</releasedate>
+		<releasedate country="Germany">November 28 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>neighborhood</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors/>
+	<composers/>
+	<producers>
+		<producer> Stephanie Ellis</producer>
+		<producer> Dee Bagwell Haslam</producer>
+		<producer> Lori Stryer</producer>
+		<producer> Susanna Hoskins</producer>
+		<producer> Christopher Chutko</producer>
+		<producer> Adam M. Neal</producer>
+		<producer> Angie Jedlicka</producer>
+		<producer> Madeline Hawley</producer>
+		<producer> LaMonte Westmoreland</producer>
+		<producer> Alaina Briones</producer>
+		<producer> Sarah Miller</producer>
+		<producer> Holly Markle</producer>
+		<producer> Kevin Bennert</producer>
+		<producer> Sarah Douglass</producer>
+		<producer> Rachelle Lazzaro</producer>
+		<producer> Marisa Tambornini</producer>
+		<producer> Chris Oldroyd</producer>
+		<producer> Aurelia Boyle</producer>
+		<producer> Breana Schiding</producer>
+		<producer> Hayden Wilson</producer>
+		<producer> Evan Spence</producer>
+		<producer> Sara Donahue</producer>
+		<producer> Lindsey Lustrino</producer>
+		<producer> Jeff Ross</producer>
+		<producer> Rob Lundgren</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Holly Markle</editor>
+		<editor> Jeffrey Cunningham</editor>
+		<editor> Andrew Jedlicka</editor>
+		<editor> Evan Spence</editor>
+		<editor> Hayden Wilson</editor>
+		<editor> Phillip Lefesi</editor>
+		<editor> Eric Lee</editor>
+		<editor> Maya Stark</editor>
+		<editor> Brad Phelan</editor>
+		<editor> Kenneth Tolley</editor>
+		<editor> Maisie Weissman</editor>
+		<editor> Alex Zingaro</editor>
+	</editors>
+</doc>

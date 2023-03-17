@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<doc id="tt13132466">
+	<docid>tt13132466</docid>
+	<title>There's Always Hope</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGNiYzJlMjYtNTVkNy00ZmU5LWIwYWEtOGFkYWRjYzgwMDkxXkEyXkFqcGdeQXVyMzY2ODUzMjA@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">94</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A woman travels to Portugal in an attempt to orchestrate a reconciliation between her parents.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Colm Meaney</actor>
+			<role>Jonathan</role>
+		</credit>
+		<credit>
+			<actor>Kate Ashfield</actor>
+			<role>Samantha</role>
+		</credit>
+		<credit>
+			<actor>John Light</actor>
+			<role>Luke</role>
+		</credit>
+		<credit>
+			<actor>Bethany Antonia</actor>
+			<role>Pen</role>
+		</credit>
+		<credit>
+			<actor>Cristina Cavalinhos</actor>
+			<role>Gabriela</role>
+		</credit>
+		<credit>
+			<actor>Hannah Chinn</actor>
+			<role>Hope</role>
+		</credit>
+		<credit>
+			<actor>Francisco Fernandez</actor>
+			<role>Rodrigo</role>
+		</credit>
+		<credit>
+			<actor>Brenda Meaney</actor>
+			<role>Amelia</role>
+		</credit>
+		<credit>
+			<actor>Nick Owenford</actor>
+			<role>Local</role>
+		</credit>
+		<credit>
+			<actor>Laura Rollins</actor>
+			<role>Sanya</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">2021</releasedate>
+		<releasedate country="United States">October 22 2021</releasedate>
+		<releasedate country="United States">March 23 2022</releasedate>
+		<releasedate country="United Kingdom">May 26 2022</releasedate>
+		<releasedate country="Spain">October 29 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Tim Lewiston</director>
+	</directors>
+	<composers>
+		<composer> Guy Farley</composer>
+	</composers>
+	<producers>
+		<producer> Vanda Everke</producer>
+		<producer> Victor Glynn</producer>
+		<producer> Harriet Hammond</producer>
+		<producer> Julian Hicks</producer>
+		<producer> Lionel Hicks</producer>
+		<producer> Geoffrey Iles</producer>
+		<producer> Alan Latham</producer>
+		<producer> Arran MacLennan</producer>
+	</producers>
+	<writers>
+		<writer> Tim Lewiston</writer>
+	</writers>
+	<editors>
+		<editor> Jeremy Gibbs</editor>
+	</editors>
+</doc>

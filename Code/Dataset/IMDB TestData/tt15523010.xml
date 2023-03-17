@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<doc id="tt15523010">
+	<docid>tt15523010</docid>
+	<title>Dave Chappelle: The Closer</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZGQyMTc4NGUtNzA0Ny00MTJhLTg0NzQtYjkzN2U2ZGQyNTZhXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2021 TV Special</year>
+	<runningtimes>
+		<runningtime country="default">72</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>As he closes out his slate of comedy specials, Dave takes the stage to try and set the record straight; and get a few things off his chest.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dave Chappelle</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Daphne Dorman</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">October 5 2021</releasedate>
+		<releasedate country="South Korea">October 5 2021</releasedate>
+		<releasedate country="Poland">October 5 2021</releasedate>
+		<releasedate country="Singapore">October 5 2021</releasedate>
+		<releasedate country="United States">October 5 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>stand up comedy</keyword>
+		<keyword>controversy</keyword>
+		<keyword>cancel culture</keyword>
+		<keyword>covid 19</keyword>
+		<keyword>comedy special</keyword>
+		<keyword>suicide</keyword>
+		<keyword>tv special</keyword>
+		<keyword>stand up</keyword>
+		<keyword>stand up comedian</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Stan Lathan</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Dave Chappelle</producer>
+		<producer> Rikki Hughes</producer>
+		<producer> Stan Lathan</producer>
+		<producer> Terry Leonard</producer>
+		<producer> Sara Niimi</producer>
+		<producer> Sina Sadighi</producer>
+		<producer> Geof Wills</producer>
+	</producers>
+	<writers>
+		<writer> Dave Chappelle</writer>
+	</writers>
+	<editors>
+		<editor> Jeff U'ren</editor>
+	</editors>
+</doc>

@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<doc id="tt5106590">
+	<docid>tt5106590</docid>
+	<title>IMDb Originals</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzIwNGY4YzItNWQ3ZS00ZmUwLTg3NTUtZmZkMWNlNGQ0Y2I2XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">2</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>News</genre>
+	</genres>
+	<plot>IMDb Originals informs, entertains, and engages fans of all ages with video content that covers movies, television, special events, awards shows, holidays, and more.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Alex Logan</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Lizzie Bassett</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Ian de Borja</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Albert Lawrence</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Clarke Wolfe</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Sean Przano</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Bret Federigan</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Chelsea Walker</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Tim Kash</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Caitríona Balfe</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jeff Luppino-Esposito</actor>
+			<role>Self - Voice</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Majors</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Gillian Flynn</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Simone Ashley</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Viola Davis</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Cynthia Erivo</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Michelle Rodriguez</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Patrick Epino</actor>
+			<role>Host</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">November 5 2015</releasedate>
+		<releasedate country="Spain">November 5 2015</releasedate>
+		<releasedate country="United States">November 5 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>video</keyword>
+		<keyword>television</keyword>
+		<keyword>actors</keyword>
+		<keyword>awards show</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Patrick Epino</director>
+		<director> Nathan Barnatt</director>
+		<director> Ron Sylvester</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Michelle Nelson</producer>
+		<producer> Alex Logan</producer>
+		<producer> Jennifer Heftler</producer>
+		<producer> Shara Angell</producer>
+		<producer> Lizzie Bassett</producer>
+		<producer> Michael Rocco</producer>
+		<producer> Matt Detisch</producer>
+		<producer> Bret Federigan</producer>
+		<producer> Chelsea Walker</producer>
+		<producer> Jeff Luppino-Esposito</producer>
+		<producer> Lindsay Campbell</producer>
+		<producer> Tre Wesley</producer>
+		<producer> Alicia Leung</producer>
+		<producer> Ian de Borja</producer>
+		<producer> Ashwini Kulkarni</producer>
+		<producer> Hannah Russell</producer>
+		<producer> Swagata Dam</producer>
+		<producer> Patrick Epino</producer>
+		<producer> Paola Mardo</producer>
+		<producer> Chris Bapu Griscom</producer>
+		<producer> Sarah Rebetje</producer>
+		<producer> Chako Suzuki</producer>
+	</producers>
+	<writers>
+		<writer> Lizzie Bassett</writer>
+		<writer> Sara A. Bibel</writer>
+		<writer> Matt Detisch</writer>
+		<writer> Matt Detisch</writer>
+		<writer> Patrick Epino</writer>
+		<writer> Brandon Hardesty</writer>
+		<writer> Alex Logan</writer>
+		<writer> Jeff Luppino-Esposito</writer>
+		<writer> Jeff Luppino-Esposito</writer>
+		<writer> Michelle Nelson</writer>
+		<writer> Sean Przano</writer>
+		<writer> Michael Rocco</writer>
+		<writer> Chelsea Walker</writer>
+		<writer> Chelsea Walker</writer>
+		<writer> Chelsea Walker</writer>
+	</writers>
+	<editors>
+		<editor> Daniel J. Price</editor>
+		<editor> Randall Chu</editor>
+		<editor> Michelle Nelson</editor>
+		<editor> Alex Logan</editor>
+		<editor> Ross Kolton</editor>
+		<editor> Matt Detisch</editor>
+		<editor> Sean Przano</editor>
+		<editor> Sari Tiersky</editor>
+		<editor> Nolan Cooper</editor>
+		<editor> Michael Lange</editor>
+		<editor> Liam White</editor>
+	</editors>
+</doc>

@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<doc id="tt7423322">
+	<docid>tt7423322</docid>
+	<title>The Right Stuff</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTUwMDA3MTYtZjhjMi00ODFmLTg5ZTAtYzgwN2NlODgzMmUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>U.S. fighter pilots are recruited to test experimental aircraft and rockets to become first Mercury astronauts. TV adaptation of Tom Wolfe's book, 'The Right Stuff'.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Patrick J. Adams</actor>
+			<role>John Glenn</role>
+		</credit>
+		<credit>
+			<actor>Jake McDorman</actor>
+			<role>Alan Shepard</role>
+		</credit>
+		<credit>
+			<actor>Colin O'Donoghue</actor>
+			<role>Gordon Cooper</role>
+		</credit>
+		<credit>
+			<actor>Patrick Fischler</actor>
+			<role>Bob Gilruth</role>
+		</credit>
+		<credit>
+			<actor>Eric Ladin</actor>
+			<role>Chris Kraft</role>
+		</credit>
+		<credit>
+			<actor>James Lafferty</actor>
+			<role>Scott Carpenter</role>
+		</credit>
+		<credit>
+			<actor>Shannon Lucio</actor>
+			<role>Louise Shepard</role>
+		</credit>
+		<credit>
+			<actor>Eloise Mumford</actor>
+			<role>Trudy Cooper</role>
+		</credit>
+		<credit>
+			<actor>Jackson Pace</actor>
+			<role>Glynn Lunney</role>
+		</credit>
+		<credit>
+			<actor>Aaron Staton</actor>
+			<role>Wally Schirra</role>
+		</credit>
+		<credit>
+			<actor>Micah Stock</actor>
+			<role>Deke Slayton</role>
+		</credit>
+		<credit>
+			<actor>Michael Trotter</actor>
+			<role>Gus Grissom</role>
+		</credit>
+		<credit>
+			<actor>Nora Zehetner</actor>
+			<role>Annie Glenn</role>
+		</credit>
+		<credit>
+			<actor>Josh Cooke</actor>
+			<role>Loudon Wainwright</role>
+		</credit>
+		<credit>
+			<actor>Kaley Ronayne</actor>
+			<role>Dee O'Hara</role>
+		</credit>
+		<credit>
+			<actor>Nolan Purf</actor>
+			<role>NASA Engineer</role>
+		</credit>
+		<credit>
+			<actor>Rachel Burttram</actor>
+			<role>Betty Grissom</role>
+		</credit>
+		<credit>
+			<actor>Chandler Head</actor>
+			<role>Cam Cooper</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">October 5 2020</releasedate>
+		<releasedate country="Austria">October 9 2020</releasedate>
+		<releasedate country="Australia">October 9 2020</releasedate>
+		<releasedate country="Belgium">October 9 2020</releasedate>
+		<releasedate country="Canada">October 9 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">14</certificate>
+		<certificate country="Australia">7+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">12+</certificate>
+		<certificate country="Israel">12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>soldier</keyword>
+		<keyword>historical drama</keyword>
+		<keyword>timeframe 1950s</keyword>
+		<keyword>timeframe 20th century</keyword>
+		<keyword>contemporary history</keyword>
+		<keyword>space race</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>american historical setting</keyword>
+		<keyword>contemporary historical setting</keyword>
+		<keyword>experimental series</keyword>
+	</keywords>
+	<directors>
+		<director> Andrew Bernstein</director>
+		<director> Nick Copus</director>
+		<director> John David Coles</director>
+		<director> Louise Friedberg</director>
+		<director> Chris Long</director>
+	</directors>
+	<composers>
+		<composer> Adam Taylor</composer>
+	</composers>
+	<producers>
+		<producer> Lisa Albert</producer>
+		<producer> Matt Barber</producer>
+		<producer> Howard Korder</producer>
+		<producer> Mark Lafferty</producer>
+		<producer> Joshua Levey</producer>
+		<producer> Will Staples</producer>
+		<producer> Danny Strong</producer>
+		<producer> Chris Long</producer>
+		<producer> Jennifer Davisson</producer>
+		<producer> Leonardo DiCaprio</producer>
+		<producer> Michael Hampton</producer>
+		<producer> Ameni Rozsa</producer>
+		<producer> Thelma Schoonmaker</producer>
+		<producer> Llewellyn Wells</producer>
+		<producer> Vinnie Wilhelm</producer>
+	</producers>
+	<writers>
+		<writer> Mark Lafferty</writer>
+		<writer> Mark Lafferty</writer>
+		<writer> Tom Wolfe</writer>
+		<writer> Vinnie Wilhelm</writer>
+		<writer> Philip Kaufman</writer>
+		<writer> Howard Korder</writer>
+		<writer> Lizzie Mickery</writer>
+		<writer> Danielle Roderick</writer>
+		<writer> Ameni Rozsa</writer>
+		<writer> Will Staples</writer>
+	</writers>
+	<editors>
+		<editor> Matt Barber</editor>
+		<editor> Paul Karasick</editor>
+		<editor> Pattye Rogers</editor>
+		<editor> Matthew Colonna</editor>
+		<editor> Luyen Vu</editor>
+	</editors>
+</doc>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<doc id="tt19034784">
+	<docid>tt19034784</docid>
+	<title>Meteor: First Impact</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDUyM2E2ODAtYjQ5Ni00NDllLTlhZTktY2M2NGJiZDJiYzI3XkEyXkFqcGdeQXVyNDAxOTQxMjk@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">78</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A scientist races the clock in an attempt to save Earth from a series of deadly meteor attacks.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Timothy McKinney</actor>
+			<role>Lennox</role>
+		</credit>
+		<credit>
+			<actor>Tiffany McDonald</actor>
+			<role>Brenda</role>
+		</credit>
+		<credit>
+			<actor>Thom Hallum</actor>
+			<role>William Zito</role>
+		</credit>
+		<credit>
+			<actor>Nicole Holland</actor>
+			<role>The Bride</role>
+		</credit>
+		<credit>
+			<actor>Emma Grace Sanderson</actor>
+			<role>Haley Zito</role>
+		</credit>
+		<credit>
+			<actor>Kristin Keith</actor>
+			<role>Kelsea Zito</role>
+		</credit>
+		<credit>
+			<actor>Rosco Nash</actor>
+			<role>Ken Hollis</role>
+		</credit>
+		<credit>
+			<actor>Julian Tejeda</actor>
+			<role>Lukas</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">December 30 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Brett Bentman</director>
+	</directors>
+	<composers>
+		<composer> George Palousis</composer>
+	</composers>
+	<producers>
+		<producer> Stuart Alson</producer>
+		<producer> Nicole Holland</producer>
+		<producer> Tiffany McDonald</producer>
+	</producers>
+	<writers>
+		<writer> Brett Bentman</writer>
+	</writers>
+	<editors>
+		<editor> Jeff Hamm</editor>
+	</editors>
+</doc>

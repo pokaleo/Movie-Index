@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<doc id="tt1740717">
+	<docid>tt1740717</docid>
+	<title>Superbook</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTEzNDI2MzEwOV5BMl5BanBnXkFtZTgwMTQwNzQ4NDE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">22</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>A group of kids and a robot learn lessons from the Bible with the help of a time-traveling book.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Shannon Chan-Kent</actor>
+			<role>Joy Pepper</role>
+		</credit>
+		<credit>
+			<actor>Sam Vincent</actor>
+			<role>Chris Quantum</role>
+		</credit>
+		<credit>
+			<actor>Cathy Weseluck</actor>
+			<role>Gizmo</role>
+		</credit>
+		<credit>
+			<actor>Colin Murdock</actor>
+			<role>Superbook</role>
+		</credit>
+		<credit>
+			<actor>Noel Johansen</actor>
+			<role>Jesus</role>
+		</credit>
+		<credit>
+			<actor>Brian Drummond</actor>
+			<role>Peter</role>
+		</credit>
+		<credit>
+			<actor>Michael Donovan</actor>
+			<role>Angel</role>
+		</credit>
+		<credit>
+			<actor>Jim Conrad</actor>
+			<role>God</role>
+		</credit>
+		<credit>
+			<actor>Jan Rabson</actor>
+			<role>Professor Quantum</role>
+		</credit>
+		<credit>
+			<actor>Michael Dobson</actor>
+			<role>Elijah</role>
+		</credit>
+		<credit>
+			<actor>Paul Dobson</actor>
+			<role>Satan</role>
+		</credit>
+		<credit>
+			<actor>Brian Dobson</actor>
+			<role>Paul</role>
+		</credit>
+		<credit>
+			<actor>Trevor Devall</actor>
+			<role>Joshua</role>
+		</credit>
+		<credit>
+			<actor>Nicole Oliver</actor>
+			<role>Phoebe</role>
+		</credit>
+		<credit>
+			<actor>Michael Adamthwaite</actor>
+			<role>Esau</role>
+		</credit>
+		<credit>
+			<actor>Andrew Kavadas</actor>
+			<role>Jacob</role>
+		</credit>
+		<credit>
+			<actor>John Payne</actor>
+			<role>John</role>
+		</credit>
+		<credit>
+			<actor>Michael Kopsa</actor>
+			<role>Aaron</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">September 1 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-Y</certificate>
+	</certificates>
+	<keywords>
+		<keyword>robot</keyword>
+		<keyword>satan</keyword>
+		<keyword>jesus christ character</keyword>
+		<keyword>noah's ark</keyword>
+		<keyword>one word title</keyword>
+	</keywords>
+	<directors>
+		<director> Bryant Paul Richardson</director>
+		<director> Jerry Yu Ching</director>
+		<director> Bryant P. Richardson</director>
+		<director> Craig Grasso</director>
+		<director> Tony Bancroft</director>
+		<director> Robert Kirbyson</director>
+		<director> Tom Bancroft</director>
+		<director> Robert O. Corley</director>
+	</directors>
+	<composers>
+		<composer> Kurt Heinecke</composer>
+	</composers>
+	<producers>
+		<producer> Ben Edwards</producer>
+		<producer> Sean Roche</producer>
+		<producer> John J. Schafer</producer>
+		<producer> Lindy Lindstrom</producer>
+		<producer> Gordon Robertson</producer>
+		<producer> Gregory Flick</producer>
+		<producer> John F. Bray</producer>
+		<producer> Joe Barruso</producer>
+		<producer> Erin Zimmerman</producer>
+		<producer> Bryant Paul Richardson</producer>
+		<producer> Bryant P. Richardson</producer>
+		<producer> Jianming Huang</producer>
+		<producer> Donna Testa</producer>
+	</producers>
+	<writers>
+		<writer> Sean Roche</writer>
+		<writer> Sean Roche</writer>
+		<writer> Sean Roche</writer>
+		<writer> Sean Roche</writer>
+		<writer> Sean Roche</writer>
+		<writer> Sean Roche</writer>
+		<writer> Sean Roche</writer>
+		<writer> Sean Roche</writer>
+		<writer> David Baldwin</writer>
+		<writer> David Baldwin</writer>
+		<writer> David Baldwin</writer>
+		<writer> David Baldwin</writer>
+		<writer> David Baldwin</writer>
+		<writer> Sean Gaffney</writer>
+		<writer> Sean Gaffney</writer>
+		<writer> Sean Gaffney</writer>
+		<writer> Lindy Lindstrom</writer>
+		<writer> Lindy Lindstrom</writer>
+		<writer> Richard Helsby</writer>
+		<writer> Richard Helsby</writer>
+		<writer> Sandra Smith</writer>
+		<writer> Sandra Smith</writer>
+		<writer> David Evan Cunningham</writer>
+		<writer> David Evan Cunningham</writer>
+		<writer> David Evan Cunningham</writer>
+		<writer> Steve Schaefer</writer>
+		<writer> Steve Schaefer</writer>
+		<writer> Collieth Clark</writer>
+		<writer> Joette Blackman</writer>
+		<writer> Wendy O'Rourke</writer>
+		<writer> Len Uhley</writer>
+		<writer> Len Uhley</writer>
+		<writer> Len Uhley</writer>
+		<writer> Cheryl McKay</writer>
+		<writer> Mark Edens</writer>
+		<writer> Mark Edens</writer>
+		<writer> Cydne Clark</writer>
+		<writer> Cydne Clark</writer>
+		<writer> Cydne Clark</writer>
+		<writer> Steve Granat</writer>
+		<writer> Steve Granat</writer>
+		<writer> Steve Granat</writer>
+		<writer> Tim Hodge</writer>
+		<writer> Tim Hodge</writer>
+		<writer> Erin Zimmerman</writer>
+		<writer> Erin Zimmerman</writer>
+		<writer> Nate Ehram</writer>
+		<writer> Nate Ehram</writer>
+		<writer> Mark Edward Edens</writer>
+		<writer> Mark Edward Edens</writer>
+		<writer> David Erhman</writer>
+		<writer> David Erhman</writer>
+		<writer> Bryant P. Richardson</writer>
+		<writer> Mark Steele</writer>
+		<writer> Brian Cochran</writer>
+		<writer> Cory Edwards</writer>
+		<writer> Sindy McKay</writer>
+		<writer> David Ehram</writer>
+		<writer> Gregory Flick</writer>
+		<writer> David Baldwin</writer>
+		<writer> Michael Merton</writer>
+	</writers>
+	<editors>
+		<editor> Devin Peck</editor>
+		<editor> John Wahba</editor>
+		<editor> Charles T. Jones</editor>
+		<editor> Ken Solomon</editor>
+		<editor> Bryant Paul Richardson</editor>
+		<editor> Roy S. Reynolds</editor>
+		<editor> Edgar Michael Malpass</editor>
+	</editors>
+</doc>

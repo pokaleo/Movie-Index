@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc id="tt10756184">
+	<docid>tt10756184</docid>
+	<title>Saloum</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzE2YzNmNDItOGFiZC00MmIzLWFiYjMtN2U1ODZlY2VkODUyXkEyXkFqcGdeQXVyMTU4NjQyNjY@._V1_QL75_UY281_CR8,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">84</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>In 2003, a trio of mercenaries escaping a coup in Guinea-Bissau take refuge in a hidden region on the Saloum river of Senegal. But something from beyond the grave awaits them there.</plot>
+	<countries>
+		<country>Senegal</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Yann Gael</actor>
+			<role>Chaka</role>
+		</credit>
+		<credit>
+			<actor>Evelyne Ily Juhen</actor>
+			<role>Awa</role>
+		</credit>
+		<credit>
+			<actor>Roger Sallah</actor>
+			<role>Rafa</role>
+		</credit>
+		<credit>
+			<actor>Mentor Ba</actor>
+			<role>Minuit</role>
+		</credit>
+		<credit>
+			<actor>Bruno Henry</actor>
+			<role>Omar</role>
+		</credit>
+		<credit>
+			<actor>Marielle Salmier</actor>
+			<role>Sephora</role>
+		</credit>
+		<credit>
+			<actor>Babacar Oualy</actor>
+			<role>Salamane</role>
+		</credit>
+		<credit>
+			<actor>Ndiaga Mbow</actor>
+			<role>Souleymane</role>
+		</credit>
+		<credit>
+			<actor>Cannabasse</actor>
+			<role>Youce</role>
+		</credit>
+		<credit>
+			<actor>Renaud Farah</actor>
+			<role>Felix</role>
+		</credit>
+		<credit>
+			<actor>Alvina Karamoko</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 16 2021</releasedate>
+		<releasedate country="United States">September 30 2021</releasedate>
+		<releasedate country="United States">October 4 2021</releasedate>
+		<releasedate country="Canada">October 8 2021</releasedate>
+		<releasedate country="Canada">October 9 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Singapore">NC16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>supernatural thriller</keyword>
+	</keywords>
+	<directors>
+		<director> Jean Luc Herbulot</director>
+	</directors>
+	<composers>
+		<composer> Reksider</composer>
+	</composers>
+	<producers>
+		<producer> Jon Vangdal Aamaas</producer>
+		<producer> Rebhi Barqawi</producer>
+		<producer> Pamela Diop</producer>
+		<producer> Nick Ford</producer>
+		<producer> Jean Luc Herbulot</producer>
+		<producer> Douglas Jackson</producer>
+		<producer> Hus Miller</producer>
+		<producer> Guillaume Natas</producer>
+		<producer> Alexis Perrin</producer>
+		<producer> Mike Shema</producer>
+		<producer> Florent Steiner</producer>
+	</producers>
+	<writers>
+		<writer> Jean Luc Herbulot</writer>
+		<writer> Jean Luc Herbulot</writer>
+		<writer> Pamela Diop</writer>
+	</writers>
+	<editors>
+		<editor> Nicolas Desmaison</editor>
+		<editor> Alasdair McCulloch</editor>
+		<editor> Sébastien Prangère</editor>
+	</editors>
+</doc>

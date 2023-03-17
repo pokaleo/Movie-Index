@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<doc id="tt9603082">
+	<docid>tt9603082</docid>
+	<title>All Too Well: The Short Film</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZmJjY2MyMTctZWYxMy00YzliLWIzN2UtODFmOGVmNTE1YzUwXkEyXkFqcGdeQXVyOTcxNTc5NTQ@._V1_QL75_UY281_CR14,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">10</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Drama</genre>
+		<genre>Music</genre>
+	</genres>
+	<plot>A man and a young woman who fall in love, but slowly drift apart in time. Based on Taylor Swift's song 'All Too Well'.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Sadie Sink</actor>
+			<role>Her</role>
+		</credit>
+		<credit>
+			<actor>Dylan O'Brien</actor>
+			<role>Him</role>
+		</credit>
+		<credit>
+			<actor>Taylor Swift</actor>
+			<role>Her, later on</role>
+		</credit>
+		<credit>
+			<actor>Shawn Levy</actor>
+			<role>Her Dad</role>
+		</credit>
+		<credit>
+			<actor>Jeremiah Corley</actor>
+			<role>His Friend</role>
+		</credit>
+		<credit>
+			<actor>Rashauna Eastman</actor>
+			<role>His Friend</role>
+		</credit>
+		<credit>
+			<actor>Anthony Espino</actor>
+			<role>His Friend</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Castillo Peña</actor>
+			<role>His Friend</role>
+		</credit>
+		<credit>
+			<actor>Elise Turin</actor>
+			<role>His Friend</role>
+		</credit>
+		<credit>
+			<actor>Mariama Stella Bonetti</actor>
+			<role>Her Friend</role>
+		</credit>
+		<credit>
+			<actor>Laura Krstovska-Guerrero</actor>
+			<role>Her Friend</role>
+		</credit>
+		<credit>
+			<actor>Sophie Levy</actor>
+			<role>Her Friend</role>
+		</credit>
+		<credit>
+			<actor>Tess Levy</actor>
+			<role>Her Friend</role>
+		</credit>
+		<credit>
+			<actor>Charlie Levy</actor>
+			<role>Her Friend</role>
+		</credit>
+		<credit>
+			<actor>Colette Levy</actor>
+			<role>Her Friend</role>
+		</credit>
+		<credit>
+			<actor>Mitchell Sink</actor>
+			<role>Her Friend</role>
+		</credit>
+		<credit>
+			<actor>Christine Brown</actor>
+			<role>Dream Girl</role>
+		</credit>
+		<credit>
+			<actor>Megan Harris</actor>
+			<role>Dream Girl</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 12 2021</releasedate>
+		<releasedate country="United States">November 12 2021</releasedate>
+		<releasedate country="United States">June 11 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Norway">7</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>music video</keyword>
+	</keywords>
+	<directors>
+		<director> Taylor Swift</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Saul Germaine</producer>
+	</producers>
+	<writers>
+		<writer> Taylor Swift</writer>
+	</writers>
+	<editors>
+		<editor> Ted Guard</editor>
+	</editors>
+</doc>

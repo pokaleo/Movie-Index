@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<doc id="tt16986646">
+	<docid>tt16986646</docid>
+	<title>The Green Planet</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGIyOTViZTQtOWEzNi00ODBhLWIzNjQtODcxNzI1ODVhMTI3XkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">59</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>Dive into a world where a single life can last a thousand years, with David Attenborough. See things no eye has ever seen, and discover the dramatic, beautiful plant life of Earth.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>David Attenborough</actor>
+			<role>Self - Presenter &amp; Narrator</role>
+		</credit>
+		<credit>
+			<actor>Cong Liu</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Freek Vonk</actor>
+			<role>Self - Dutch Narrator</role>
+		</credit>
+		<credit>
+			<actor>Tim Shepherd</actor>
+			<role>Time Lapse Photography Director</role>
+		</credit>
+		<credit>
+			<actor>Elisabeth Oakham</actor>
+			<role>Self - Producer</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">January 9 2022</releasedate>
+		<releasedate country="Spain">January 9 2022</releasedate>
+		<releasedate country="United Kingdom">January 9 2022</releasedate>
+		<releasedate country="China">January 10 2022</releasedate>
+		<releasedate country="Netherlands">February 25 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="India">UA 7+</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="United Kingdom">U</certificate>
+	</certificates>
+	<keywords>
+		<keyword>2020s</keyword>
+		<keyword>british</keyword>
+		<keyword>nature documentary</keyword>
+		<keyword>wildlife documentary</keyword>
+		<keyword>plant</keyword>
+		<keyword>flora</keyword>
+		<keyword>flower</keyword>
+		<keyword>tree</keyword>
+		<keyword>forest</keyword>
+		<keyword>rainforest</keyword>
+		<keyword>life</keyword>
+		<keyword>nature</keyword>
+		<keyword>photosynthesis</keyword>
+		<keyword>reproduction</keyword>
+		<keyword>color in series title</keyword>
+		<keyword>seed</keyword>
+		<keyword>leaf</keyword>
+		<keyword>fruit</keyword>
+		<keyword>animal</keyword>
+		<keyword>earth</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>documentary series</keyword>
+		<keyword>environment</keyword>
+	</keywords>
+	<directors>
+		<director> Paul Williams</director>
+		<director> Peter Bassett</director>
+		<director> Elisabeth Oakham</director>
+		<director> Rosie Thomas</director>
+	</directors>
+	<composers>
+		<composer> Benji Merrison</composer>
+		<composer> Will Slater</composer>
+	</composers>
+	<producers>
+		<producer> Rupert Barrington</producer>
+		<producer> Jack Bootle</producer>
+		<producer> Michael Gunton</producer>
+		<producer> Paul Williams</producer>
+		<producer> Peter Bassett</producer>
+		<producer> Lance Featherstone</producer>
+		<producer> Elisabeth Oakham</producer>
+		<producer> Louis Rummer-Downing</producer>
+		<producer> Rosie Thomas</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> James Taggart</editor>
+		<editor> Nick Carline</editor>
+		<editor> Tim Lasseter</editor>
+		<editor> Doug Main</editor>
+		<editor> Sam Rogers</editor>
+	</editors>
+</doc>

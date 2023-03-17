@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<doc id="tt13968792">
+	<docid>tt13968792</docid>
+	<title>Bortført</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWE5YjdmOTAtNzVjZi00ZmRmLWE4YWEtYWY2ZjdjZGNlMzRhXkEyXkFqcGdeQXVyMjI4MjA3NDY@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">35</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Pia and two Israelis are kidnapped by terrorists in the Sinai desert and threatened with death if 12 prisoners are not released.</plot>
+	<countries>
+		<country>Norway</country>
+	</countries>
+	<languages>
+		<language>Hebrew</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Amos Tamam</actor>
+			<role>Arik</role>
+		</credit>
+		<credit>
+			<actor>Anneke von der Lippe</actor>
+			<role>Alex</role>
+		</credit>
+		<credit>
+			<actor>Andrea Berntzen</actor>
+			<role>Pia</role>
+		</credit>
+		<credit>
+			<actor>Raida Adon</actor>
+			<role>Layla</role>
+		</credit>
+		<credit>
+			<actor>Daniel Litman</actor>
+			<role>Nadav</role>
+		</credit>
+		<credit>
+			<actor>Anders T. Andersen</actor>
+			<role>Karl</role>
+		</credit>
+		<credit>
+			<actor>Shadi Mar'i</actor>
+			<role>Yusuf</role>
+		</credit>
+		<credit>
+			<actor>Rotem Abuhab</actor>
+			<role>Dana</role>
+		</credit>
+		<credit>
+			<actor>Jameel Khoury</actor>
+			<role>Bashir</role>
+		</credit>
+		<credit>
+			<actor>Abhin Galeya</actor>
+			<role>Abu Salim</role>
+		</credit>
+		<credit>
+			<actor>Hisham Suliman</actor>
+			<role>Ali</role>
+		</credit>
+		<credit>
+			<actor>Shaniaz Hama Ali</actor>
+			<role>Selma</role>
+		</credit>
+		<credit>
+			<actor>Vered Feldman</actor>
+			<role>Anat</role>
+		</credit>
+		<credit>
+			<actor>Boaz Konforty</actor>
+			<role>Grant</role>
+		</credit>
+		<credit>
+			<actor>André Sørum</actor>
+			<role>Sidi</role>
+		</credit>
+		<credit>
+			<actor>Gil Frank</actor>
+			<role>Mosh - Chief of Staff</role>
+		</credit>
+		<credit>
+			<actor>Amitay Yaish Ben Ousilio</actor>
+			<role>Chaim - Defense Minister</role>
+		</credit>
+		<credit>
+			<actor>Hitham Omari</actor>
+			<role>Karim</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Israel">April 8 2021</releasedate>
+		<releasedate country="Norway">April 11 2021</releasedate>
+		<releasedate country="Argentina">December 19 2021</releasedate>
+		<releasedate country="Australia">December 19 2021</releasedate>
+		<releasedate country="Brazil">December 19 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>kidnapping</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>isis</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>hamas</keyword>
+		<keyword>gaza strip</keyword>
+		<keyword>sinai desert</keyword>
+	</keywords>
+	<directors>
+		<director> Uri Barbash</director>
+		<director> Stian Kristiansen</director>
+	</directors>
+	<composers>
+		<composer> Chris Forsgren</composer>
+		<composer> Johannes Ringen</composer>
+	</composers>
+	<producers>
+		<producer> Lasse Greve Alsos</producer>
+		<producer> Håkon Briseid</producer>
+		<producer> Peter Clausen</producer>
+		<producer> Bård Fjulsrud</producer>
+		<producer> Brede Hovland</producer>
+		<producer> Chai Kahana</producer>
+		<producer> Milky Sznajder Yehiely</producer>
+		<producer> Moshe Danon</producer>
+		<producer> Vegard Eriksen Stenberg</producer>
+		<producer> Chaim Sharir</producer>
+	</producers>
+	<writers>
+		<writer> Kyrre Holm Johannessen</writer>
+		<writer> Kyrre Holm Johannessen</writer>
+		<writer> Tal Miller</writer>
+		<writer> Stephen Uhlander</writer>
+		<writer> Ronit Weiss-Berkowitz</writer>
+		<writer> Ronit Weiss-Berkowitz</writer>
+	</writers>
+	<editors>
+		<editor> Morten Rørvig</editor>
+		<editor> Erik Thorvald Aster</editor>
+		<editor> Silje Nordseth</editor>
+		<editor> Ori Derdikman</editor>
+		<editor> Simon Herman</editor>
+		<editor> Elise Solberg</editor>
+		<editor> Toril Strøm</editor>
+	</editors>
+</doc>

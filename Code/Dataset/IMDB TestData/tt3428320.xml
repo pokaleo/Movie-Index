@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<doc id="tt3428320">
+	<docid>tt3428320</docid>
+	<title>SexLife</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGRiZDM2MmEtNzNjOC00MjQzLTkwMmEtNzQ3NTg2YzQyOWIxXkEyXkFqcGdeQXVyMzYzMzI3ODQ@._V1_QL75_UY281_CR155,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">15</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Dan's ham-fisted attempts to get 'new' mother Mia into bed with hilarious, emotional and musical consequences.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jemima Rooper</actor>
+			<role>Mia</role>
+		</credit>
+		<credit>
+			<actor>Dylan Edwards</actor>
+			<role>Dan</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">August 12 2014</releasedate>
+		<releasedate country="United States">March 12 2015</releasedate>
+		<releasedate country="Canada">October 9 2015</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Stefan Georgiou</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Ted Byron Baybutt</producer>
+		<producer> Joshua Herbstman</producer>
+		<producer> Michael Klokkos</producer>
+		<producer> Duncan MacInnes</producer>
+	</producers>
+	<writers>
+		<writer> Kefi Chadwick</writer>
+		<writer> Kefi Chadwick</writer>
+	</writers>
+	<editors>
+		<editor> Stephen Beard</editor>
+	</editors>
+</doc>

@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<doc id="tt13487922">
+	<docid>tt13487922</docid>
+	<title>1UP</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjZmZWExZjUtZWEzMy00ZTkyLWIzNjAtNTc0ZTJiMmRlOTE5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Sport</genre>
+	</genres>
+	<plot>Follows a gamer who quits her college esports team due to sexism from her male counterparts.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Paris Berelc</actor>
+			<role>Vivian (V)</role>
+		</credit>
+		<credit>
+			<actor>Taylor Zakhar Perez</actor>
+			<role>Dustin</role>
+		</credit>
+		<credit>
+			<actor>Ruby Rose</actor>
+			<role>Parker</role>
+		</credit>
+		<credit>
+			<actor>Hari Nef</actor>
+			<role>Sloane</role>
+		</credit>
+		<credit>
+			<actor>D.J. Mausner</actor>
+			<role>Diane</role>
+		</credit>
+		<credit>
+			<actor>Lolita Milena</actor>
+			<role>Jenna</role>
+		</credit>
+		<credit>
+			<actor>Madison Baines</actor>
+			<role>Lilly</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Coombe</actor>
+			<role>Owen</role>
+		</credit>
+		<credit>
+			<actor>Kevin P. Farley</actor>
+			<role>Dean Davis</role>
+		</credit>
+		<credit>
+			<actor>Robert Levey II</actor>
+			<role>Ace</role>
+		</credit>
+		<credit>
+			<actor>Rami Khan</actor>
+			<role>Adi</role>
+		</credit>
+		<credit>
+			<actor>Stephen Joffe</actor>
+			<role>Riccardo</role>
+		</credit>
+		<credit>
+			<actor>Aviva Mongillo</actor>
+			<role>Indigo</role>
+		</credit>
+		<credit>
+			<actor>Kataem O'Connor</actor>
+			<role>Lance</role>
+		</credit>
+		<credit>
+			<actor>Daniel Williston</actor>
+			<role>Lewis</role>
+		</credit>
+		<credit>
+			<actor>Jean-Michel Le Gal</actor>
+			<role>Announcer</role>
+		</credit>
+		<credit>
+			<actor>Kyla Musselman</actor>
+			<role>Musical Theatre Girl</role>
+		</credit>
+		<credit>
+			<actor>Joel Schaefer</actor>
+			<role>Tetris Captain</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">July 8 2022</releasedate>
+		<releasedate country="New Zealand">July 8 2022</releasedate>
+		<releasedate country="Canada">July 15 2022</releasedate>
+		<releasedate country="United States">July 15 2022</releasedate>
+		<releasedate country="Thailand">July 21 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>esports</keyword>
+		<keyword>gamer</keyword>
+		<keyword>other sport</keyword>
+		<keyword>teen comedy</keyword>
+		<keyword>competition</keyword>
+		<keyword>young adult</keyword>
+		<keyword>reference to harry potter</keyword>
+	</keywords>
+	<directors>
+		<director> Kyle Newman</director>
+	</directors>
+	<composers>
+		<composer> Jessica Rose Weiss</composer>
+	</composers>
+	<producers>
+		<producer> Anthony Burns</producer>
+		<producer> Jon Corbin</producer>
+		<producer> Dan Katt</producer>
+		<producer> Jason Moring</producer>
+		<producer> Michael Philip</producer>
+		<producer> Richard Alan Reid</producer>
+		<producer> Dan Scheinkman</producer>
+		<producer> Ryan Stasyshyn</producer>
+	</producers>
+	<writers>
+		<writer> Julia Yorks</writer>
+	</writers>
+	<editors>
+		<editor> Christine Kim</editor>
+		<editor> Mitch Martin</editor>
+	</editors>
+</doc>

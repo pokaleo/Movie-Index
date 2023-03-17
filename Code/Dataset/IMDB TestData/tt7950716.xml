@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt7950716">
+	<docid>tt7950716</docid>
+	<title>Blanca</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjdkNGZhZjktM2Y4Yy00MmY0LWI1M2QtMGQ1YzkyNzg5ZmU4XkEyXkFqcGdeQXVyNjk0NTczMTM@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Blanca, a blind profiler, comes back to Genova, her hometown. A difficult case forces her to remain and to face with her mysterious past. Based on books by Patrizia Rinaldi.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>Italian</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Maria Chiara Giannetta</actor>
+			<role>Blanca Ferrando</role>
+		</credit>
+		<credit>
+			<actor>Giuseppe Zeno</actor>
+			<role>Inspector Michele Liguori</role>
+		</credit>
+		<credit>
+			<actor>Enzo Paci</actor>
+			<role>Police Commissioner Mauro Bacigalupo</role>
+		</credit>
+		<credit>
+			<actor>Pierpaolo Spollon</actor>
+			<role>Nanni</role>
+		</credit>
+		<credit>
+			<actor>Antonio Zavatteri</actor>
+			<role>Alberto Repetto</role>
+		</credit>
+		<credit>
+			<actor>Gualtiero Burzi</actor>
+			<role>Police Officer Nello Carità</role>
+		</credit>
+		<credit>
+			<actor>Federica Cacciola</actor>
+			<role>Stella</role>
+		</credit>
+		<credit>
+			<actor>Sara Ciocca</actor>
+			<role>Lucia Ottonello</role>
+		</credit>
+		<credit>
+			<actor>Ugo Dighero</actor>
+			<role>Leone Ferrando</role>
+		</credit>
+		<credit>
+			<actor>Isabella Mottinelli</actor>
+			<role>Beatrice 'Bea' Ferrando</role>
+		</credit>
+		<credit>
+			<actor>Roberta Volponi</actor>
+			<role>Blanca Ferrando as a young girl</role>
+		</credit>
+		<credit>
+			<actor>Simone Fumagalli</actor>
+			<role>Sebastiano Russo as a Teenager</role>
+		</credit>
+		<credit>
+			<actor>Fiorenza Pieri</actor>
+			<role>Marinella Fabbri</role>
+		</credit>
+		<credit>
+			<actor>Antonio Ornano</actor>
+			<role>Gianni Ottonello</role>
+		</credit>
+		<credit>
+			<actor>Filippo Dini</actor>
+			<role>Carmine Russo</role>
+		</credit>
+		<credit>
+			<actor>Rocco Gottlieb</actor>
+			<role>Gabriele</role>
+		</credit>
+		<credit>
+			<actor>Fabio Ghidoni</actor>
+			<role>Inspector Michele Liguori's Father</role>
+		</credit>
+		<credit>
+			<actor>Sandra Ceccarelli</actor>
+			<role>Inspector Michele Liguori's Mother</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">November 22 2021</releasedate>
+		<releasedate country="Italy">November 22 2021</releasedate>
+		<releasedate country="Australia">December 1 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Italy">T</certificate>
+	</certificates>
+	<keywords>
+		<keyword>blindness</keyword>
+	</keywords>
+	<directors>
+		<director> Jan Michelini</director>
+		<director> Giacomo Martelli</director>
+	</directors>
+	<composers>
+		<composer> Calibro 35</composer>
+		<composer> Tommaso Colliva</composer>
+		<composer> Massimo Martellotta</composer>
+		<composer> Fabio Rondanini</composer>
+		<composer> Enrico Gabrielli</composer>
+		<composer> Luca Cavina</composer>
+	</composers>
+	<producers>
+		<producer> Luca Bernabei</producer>
+		<producer> Daniele Passani</producer>
+	</producers>
+	<writers>
+		<writer> Francesco Arlanch</writer>
+		<writer> Francesco Arlanch</writer>
+		<writer> Francesco Arlanch</writer>
+		<writer> Francesco Arlanch</writer>
+		<writer> Francesco Arlanch</writer>
+		<writer> Giulia Cavazza</writer>
+		<writer> Luisa Cotta Ramosino</writer>
+		<writer> Luisa Cotta Ramosino</writer>
+		<writer> Luisa Cotta Ramosino</writer>
+		<writer> Patrizia Rinaldi</writer>
+		<writer> Mario Ruggeri</writer>
+		<writer> Mario Ruggeri</writer>
+		<writer> Mario Ruggeri</writer>
+		<writer> Mario Ruggeri</writer>
+		<writer> Mario Ruggeri</writer>
+		<writer> Lea Tafuri</writer>
+		<writer> Lea Tafuri</writer>
+		<writer> Arianna Tarantino</writer>
+	</writers>
+	<editors>
+		<editor> Alessio Doglione</editor>
+		<editor> Danilo Perticara</editor>
+	</editors>
+</doc>

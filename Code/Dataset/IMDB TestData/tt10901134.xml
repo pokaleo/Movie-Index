@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc id="tt10901134">
+	<docid>tt10901134</docid>
+	<title>One Lane Bridge</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTg5YWIzZTktYTMyNi00NWQxLWFhMGMtNmIyODFiYjRjNWU0XkEyXkFqcGdeQXVyNjkyMzI3NjI@._V1_QL75_UY281_CR46,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">52</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>During a murder investigation at Queenstown's infamous One Lane Bridge, ambitious young Maori Detective, Ariki Davis, inadvertently reawakens a spiritual gift that endangers the case, his career and his life.</plot>
+	<countries>
+		<country>New Zealand</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Dominic Ona-Ariki</actor>
+			<role>Ariki Davis</role>
+		</credit>
+		<credit>
+			<actor>Joel Tobeck</actor>
+			<role>Stephen Tremaine</role>
+		</credit>
+		<credit>
+			<actor>Phoebe McKellar</actor>
+			<role>Tilly Gardiner</role>
+		</credit>
+		<credit>
+			<actor>Alex Walker</actor>
+			<role>Joe Turner</role>
+		</credit>
+		<credit>
+			<actor>Alison Bruce</actor>
+			<role>Lois Tremaine</role>
+		</credit>
+		<credit>
+			<actor>Michelle Langstone</actor>
+			<role>Charlotte McCrae</role>
+		</credit>
+		<credit>
+			<actor>Phil Brown</actor>
+			<role>Mark 'Haggis' McCrae</role>
+		</credit>
+		<credit>
+			<actor>Nathalie Morris</actor>
+			<role>Emma Ryder</role>
+		</credit>
+		<credit>
+			<actor>Jared Turner</actor>
+			<role>Rob Ryder</role>
+		</credit>
+		<credit>
+			<actor>Jim Moriarty</actor>
+			<role>Maaka Richardson</role>
+		</credit>
+		<credit>
+			<actor>Aysu Shahi</actor>
+			<role>Evelyn McDonald</role>
+		</credit>
+		<credit>
+			<actor>Ronan Thompson</actor>
+			<role>Walter Schmitt</role>
+		</credit>
+		<credit>
+			<actor>Aidee Walker</actor>
+			<role>Kate Ryder</role>
+		</credit>
+		<credit>
+			<actor>Sara Wiseman</actor>
+			<role>Jackie Ryder</role>
+		</credit>
+		<credit>
+			<actor>Peter McCauley</actor>
+			<role>Jack Ryder</role>
+		</credit>
+		<credit>
+			<actor>Dean O'Gorman</actor>
+			<role>Andrew 'Grub' Ryder</role>
+		</credit>
+		<credit>
+			<actor>Ryan O'Kane</actor>
+			<role>Dermot Braithwaite</role>
+		</credit>
+		<credit>
+			<actor>Nicola Kawana</actor>
+			<role>Pounamu Edwards</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">April 19 2020</releasedate>
+		<releasedate country="Italy">April 20 2020</releasedate>
+		<releasedate country="New Zealand">April 20 2020</releasedate>
+		<releasedate country="Australia">December 10 2020</releasedate>
+		<releasedate country="Sweden">March 15 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">0</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+	</keywords>
+	<directors>
+		<director> Peter Burger</director>
+		<director> Danny Mulheron</director>
+		<director> Robert Sarkies</director>
+	</directors>
+	<composers>
+		<composer> Claire Cowan</composer>
+	</composers>
+	<producers>
+		<producer> Pip Hall</producer>
+		<producer> Victoria Boult</producer>
+		<producer> Luke Robinson</producer>
+		<producer> Kathleen Anderson</producer>
+		<producer> Andrew Marshall</producer>
+		<producer> Lisa Chatfield</producer>
+		<producer> Deborah Cope</producer>
+		<producer> Carmen J. Leonard</producer>
+		<producer> Philip Smith</producer>
+	</producers>
+	<writers>
+		<writer> Pip Hall</writer>
+		<writer> Pip Hall</writer>
+		<writer> Pip Hall</writer>
+		<writer> Pip Hall</writer>
+		<writer> Philip Smith</writer>
+	</writers>
+	<editors>
+		<editor> Bryan Shaw</editor>
+		<editor> Allanah Bazzard</editor>
+	</editors>
+</doc>

@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<doc id="tt21279122">
+	<docid>tt21279122</docid>
+	<title>Remember</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYThkMzgxNjEtMzFiOC00MTI0LWI5MDItNDVmYjA4NzY5MDQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">128</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The story of Pil-Joo, an Alzheimer's patient in his 80s, who lost all his family during the Japanese colonial era, and devotes his lifelong revenge before his memories disappear, and a young man in his 20s who helps him.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean Sign Language</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Lee Sung-min</actor>
+			<role>Pil-ju</role>
+		</credit>
+		<credit>
+			<actor>Nam Joo-hyuk</actor>
+			<role>In-gyu</role>
+		</credit>
+		<credit>
+			<actor>Geun-hyeong Park</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Man-sik Jeong</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Je-mun Yun</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Moon Chang-gil</actor>
+			<role>Professor Yang</role>
+		</credit>
+		<credit>
+			<actor>Kim Hong-pa</actor>
+			<role>Director Seo</role>
+		</credit>
+		<credit>
+			<actor>Byeong-ho Park</actor>
+			<role>Tojo Hisashi</role>
+		</credit>
+		<credit>
+			<actor>Song Young-chang</actor>
+			<role>Jeong Baek-jin</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">October 26 2022</releasedate>
+		<releasedate country="Canada">November 4 2022</releasedate>
+		<releasedate country="United States">November 4 2022</releasedate>
+		<releasedate country="United States">November 5 2022</releasedate>
+		<releasedate country="Hong Kong">November 17 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Taiwan">15+</certificate>
+		<certificate country="Thailand">u 15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>remake</keyword>
+		<keyword>remake of canadian film</keyword>
+		<keyword>family relationships</keyword>
+	</keywords>
+	<directors>
+		<director> Il-Hyeong Lee</director>
+	</directors>
+	<composers>
+		<composer> Sang-Jun Hwang</composer>
+	</composers>
+	<producers>
+		<producer> Hyun-joo Jung</producer>
+		<producer> Su-Ran Kuk</producer>
+		<producer> Jong-bin Yoon</producer>
+	</producers>
+	<writers>
+		<writer> Il-Hyeong Lee</writer>
+	</writers>
+	<editors/>
+</doc>

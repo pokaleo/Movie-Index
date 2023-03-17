@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<doc id="tt2314886">
+	<docid>tt2314886</docid>
+	<title>Breakout</title>
+	<image>https://m.media-amazon.com/images/M/MV5BN2U4OGE0NjktNjIwMC00MDk0LTliMGQtMWNlNWVhZDY4NTg5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>I 2013</year>
+	<runningtimes>
+		<runningtime country="default">89</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A pair of criminals try to track down the kids who witnessed them commit a murder in the woods.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Brendan Fraser</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Dominic Purcell</actor>
+			<role>Tommy Baxter</role>
+		</credit>
+		<credit>
+			<actor>Ethan Suplee</actor>
+			<role>Kenny Baxter</role>
+		</credit>
+		<credit>
+			<actor>Holly Deveaux</actor>
+			<role>Jen</role>
+		</credit>
+		<credit>
+			<actor>Daniel Kash</actor>
+			<role>Chuck</role>
+		</credit>
+		<credit>
+			<actor>Christian Martyn</actor>
+			<role>Mikey</role>
+		</credit>
+		<credit>
+			<actor>Amy Price-Francis</actor>
+			<role>Maria</role>
+		</credit>
+		<credit>
+			<actor>Anthony Ulc</actor>
+			<role>Ryan Pain</role>
+		</credit>
+		<credit>
+			<actor>Zion Forrest Lee</actor>
+			<role>Clive</role>
+		</credit>
+		<credit>
+			<actor>Arcadia Kendal</actor>
+			<role>Jenny (age 9)</role>
+		</credit>
+		<credit>
+			<actor>Andrew Jackson</actor>
+			<role>Lapin</role>
+		</credit>
+		<credit>
+			<actor>Ryan Byrne</actor>
+			<role>Cop #1</role>
+		</credit>
+		<credit>
+			<actor>Brendan Hennessey</actor>
+			<role>Cop #2</role>
+		</credit>
+		<credit>
+			<actor>Meegwun Fairbrother</actor>
+			<role>Ranger</role>
+		</credit>
+		<credit>
+			<actor>Caine Hussey-Derrer</actor>
+			<role>Prison Guard</role>
+		</credit>
+		<credit>
+			<actor>Lara Daans</actor>
+			<role>Zakia</role>
+		</credit>
+		<credit>
+			<actor>G. Scott Paterson</actor>
+			<role>Lead Protestor</role>
+		</credit>
+		<credit>
+			<actor>Naomi Andrews</actor>
+			<role>Wendy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 17 2013</releasedate>
+		<releasedate country="United States">September 17 2013</releasedate>
+		<releasedate country="Germany">October 17 2013</releasedate>
+		<releasedate country="Sweden">October 30 2013</releasedate>
+		<releasedate country="Italy">November 6 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>shotgun</keyword>
+		<keyword>murder</keyword>
+		<keyword>prison</keyword>
+		<keyword>kayaking</keyword>
+		<keyword>gun</keyword>
+		<keyword>telephone</keyword>
+	</keywords>
+	<directors>
+		<director> Damian Lee</director>
+	</directors>
+	<composers>
+		<composer> Jonathan Goldsmith</composer>
+	</composers>
+	<producers>
+		<producer> Rick Chad</producer>
+		<producer> Mary Eilts</producer>
+		<producer> Brendan Fraser</producer>
+		<producer> Gary Howsam</producer>
+		<producer> Bill Marks</producer>
+		<producer> Julius R. Nasso</producer>
+		<producer> Jeff Sackman</producer>
+		<producer> Bryon Sievert</producer>
+		<producer> Christine Sola</producer>
+		<producer> Steve Solomos</producer>
+		<producer> Deborah Wakeham</producer>
+		<producer> Richard Watson</producer>
+	</producers>
+	<writers>
+		<writer> Damian Lee</writer>
+		<writer> Deborah Wakeham</writer>
+		<writer> Christian Piers Betley</writer>
+	</writers>
+	<editors>
+		<editor> William Steinkamp</editor>
+	</editors>
+</doc>

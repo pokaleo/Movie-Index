@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<doc id="tt11806034">
+	<docid>tt11806034</docid>
+	<title>The Machinery</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjYzODRmMTUtZjgxMy00ZDRhLTk1NjEtMDZlNGZiYmMzM2U4XkEyXkFqcGdeQXVyMDIyMzc3Mw@@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Olle Hulten wakes up drunk on the ferry between Sandefjord and Strömstad. In his car is a gun and a lot of money. Simultaneously the police is chasing a robber whom have hijacked a car and is holding the security guard at gunpoint.</plot>
+	<countries>
+		<country>Sweden</country>
+	</countries>
+	<languages>
+		<language>Norwegian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kristoffer Joner</actor>
+			<role>Olle</role>
+		</credit>
+		<credit>
+			<actor>Hanna Alström</actor>
+			<role>Josefin</role>
+		</credit>
+		<credit>
+			<actor>Maja Svärd</actor>
+			<role>Lilly</role>
+		</credit>
+		<credit>
+			<actor>Anastasios Soulis</actor>
+			<role>Palle</role>
+		</credit>
+		<credit>
+			<actor>Julia Schacht</actor>
+			<role>Nina</role>
+		</credit>
+		<credit>
+			<actor>Angela Kovacs</actor>
+			<role>Louise</role>
+		</credit>
+		<credit>
+			<actor>Bahador Foladi</actor>
+			<role>Daniel</role>
+		</credit>
+		<credit>
+			<actor>Emilia Roosmann</actor>
+			<role>Monica</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Gunerius Fevang</actor>
+			<role>Jimmy</role>
+		</credit>
+		<credit>
+			<actor>Antti Reini</actor>
+			<role>Håkan</role>
+		</credit>
+		<credit>
+			<actor>Mattias Nordkvist</actor>
+			<role>Axel</role>
+		</credit>
+		<credit>
+			<actor>Iselin Shumba Skjævesland</actor>
+			<role>Police Superintendent</role>
+		</credit>
+		<credit>
+			<actor>Jakob Eklund</actor>
+			<role>Henrik</role>
+		</credit>
+		<credit>
+			<actor>Rune Temte</actor>
+			<role>Magnus</role>
+		</credit>
+		<credit>
+			<actor>Lasse Beischer</actor>
+			<role>Göran</role>
+		</credit>
+		<credit>
+			<actor>Angela Barone</actor>
+			<role>Inger</role>
+		</credit>
+		<credit>
+			<actor>Preben Hodneland</actor>
+			<role>Sondre</role>
+		</credit>
+		<credit>
+			<actor>Kristin Grue</actor>
+			<role>Anja</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Denmark">May 24 2020</releasedate>
+		<releasedate country="Finland">May 24 2020</releasedate>
+		<releasedate country="Iceland">May 24 2020</releasedate>
+		<releasedate country="Norway">May 24 2020</releasedate>
+		<releasedate country="Sweden">May 24 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Netherlands">15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Sweden">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>criminality in sweden</keyword>
+		<keyword>sweden</keyword>
+		<keyword>hidden past</keyword>
+		<keyword>robbery</keyword>
+		<keyword>car</keyword>
+		<keyword>gun</keyword>
+		<keyword>police</keyword>
+	</keywords>
+	<directors>
+		<director> Richard Holm</director>
+	</directors>
+	<composers>
+		<composer> Lasse Enersen</composer>
+	</composers>
+	<producers>
+		<producer> Miira Paasilinna</producer>
+		<producer> Martin Persson</producer>
+		<producer> Jon Petersson</producer>
+		<producer> Mia Welin</producer>
+		<producer> Mats Alders</producer>
+		<producer> Aleksi Bardy</producer>
+		<producer> Richard Holm</producer>
+		<producer> Max Svahn</producer>
+		<producer> Helen Vinogradov</producer>
+		<producer> Karolina Heimburg</producer>
+		<producer> Fredrik Ljungberg</producer>
+		<producer> Sara Askelöf</producer>
+		<producer> Fredrik Myrtell</producer>
+		<producer> Camilla Rydbacken</producer>
+		<producer> Katarina Krave</producer>
+		<producer> Peter Possne</producer>
+		<producer> Anne Kolbjørnsen</producer>
+	</producers>
+	<writers>
+		<writer> Peter Arrhenius</writer>
+		<writer> Karin Aspenström</writer>
+		<writer> Niclas Ekström</writer>
+		<writer> Niclas Ekström</writer>
+		<writer> Niclas Ekström</writer>
+		<writer> Gunnar Svensén</writer>
+		<writer> Kjersti Ugelstad</writer>
+		<writer> Kjersti Ugelstad</writer>
+		<writer> Kjersti Ugelstad</writer>
+	</writers>
+	<editors>
+		<editor> Sofia Lindgren</editor>
+		<editor> Roberth Nordh</editor>
+		<editor> Fredrik Morheden</editor>
+		<editor> Elias Säll</editor>
+	</editors>
+</doc>

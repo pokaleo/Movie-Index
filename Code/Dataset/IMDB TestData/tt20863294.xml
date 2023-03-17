@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<doc id="tt20863294">
+	<docid>tt20863294</docid>
+	<title>The Backrooms</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjEzMjczOTctYzY2YS00MGNjLWI1ZjktM2Y5YTk1MjFhMWVhXkEyXkFqcGdeQXVyMTYwOTA3NTIz._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">6</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A mystery series revolving around a plot to get inside a mysterious alternate dimension known as The Backrooms.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kane Parsons</actor>
+			<role>Scientists</role>
+		</credit>
+		<credit>
+			<actor>Akash</actor>
+			<role>Valdivia</role>
+		</credit>
+		<credit>
+			<actor>Henry</actor>
+			<role>Greber</role>
+		</credit>
+		<credit>
+			<actor>Jack Williams Lee</actor>
+			<role>Async Memmber 1</role>
+		</credit>
+		<credit>
+			<actor>Micheal Ford</actor>
+			<role>Scientest</role>
+		</credit>
+		<credit>
+			<actor>Chrystal Anderson</actor>
+			<role>Protagonist</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">January 7 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Kane Parsons</director>
+		<director> Zack Anderson</director>
+		<director> Laura Harris</director>
+		<director> Jack Williams Lee</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Wesley Anderson</producer>
+	</producers>
+	<writers>
+		<writer> Kane Parsons</writer>
+		<writer> Kane Parsons</writer>
+		<writer> Laura Harris</writer>
+		<writer> Wesley Anderson</writer>
+	</writers>
+	<editors>
+		<editor> Kane Parsons</editor>
+	</editors>
+</doc>

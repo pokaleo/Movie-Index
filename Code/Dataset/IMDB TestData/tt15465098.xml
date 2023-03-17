@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<doc id="tt15465098">
+	<docid>tt15465098</docid>
+	<title>Sembi</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2VmNzRlODQtMmJhZC00YjJjLTgzOTItY2ZiZDQwMTIyMWEyXkEyXkFqcGdeQXVyMjYwMjMwMzk@._V1_QL75_UX190_CR0,8,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">140</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A bus named Anbu narrates the stories of its 24 passengers, giving a glimpse of their journey from Kodaikanal to Dindigul.</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Tamil</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kovai Sarala</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Mullai Arasi</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Gnanasambandam Gurunathan</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Pala Karuppaiah</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Ashwin Kumar Lakshmikanthan</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Thambi Ramaiah</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Nanjil Sampath</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">December 30 2022</releasedate>
+		<releasedate country="India">December 30 2022</releasedate>
+		<releasedate country="Singapore">December 30 2022</releasedate>
+		<releasedate country="United States">December 30 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">E</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="United Arab Emirates">18TC</certificate>
+	</certificates>
+	<keywords>
+		<keyword>journey</keyword>
+	</keywords>
+	<directors>
+		<director> Prabu Solomon</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Ajmal Khan</producer>
+		<producer> R. Ravindran</producer>
+		<producer> Reyaa</producer>
+	</producers>
+	<writers>
+		<writer> Prabu Solomon</writer>
+	</writers>
+	<editors>
+		<editor> Bhuvan Srinivasan</editor>
+	</editors>
+</doc>

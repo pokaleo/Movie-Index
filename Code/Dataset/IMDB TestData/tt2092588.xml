@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<doc id="tt2092588">
+	<docid>tt2092588</docid>
+	<title>Frozen Planet</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjdlMGYwYWQtODVlMi00Y2I0LThiYzgtYTM0YmU5NzdhYTI0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">333</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>Focuses on life and the environment in both the Arctic and Antarctic.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>David Attenborough</actor>
+			<role>Self - Narrator</role>
+		</credit>
+		<credit>
+			<actor>Alec Baldwin</actor>
+			<role>Self - Narrator</role>
+		</credit>
+		<credit>
+			<actor>Chadden Hunter</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Michael Kelem</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Ted Giffords</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Doug Allan</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Gavin Thurston</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jamie McPherson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Mark Linfield</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Doug Anderson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Berlowitz</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jeff Wilson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jeff Turner</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Hugh Miller</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Alun Hubbard</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Mark Smith</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Niobe Thompson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Miles Barton</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">October 26 2011</releasedate>
+		<releasedate country="United Kingdom">October 26 2011</releasedate>
+		<releasedate country="South Korea">October 26 2011</releasedate>
+		<releasedate country="Australia">October 27 2011</releasedate>
+		<releasedate country="Belgium">November 24 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Japan">All Ages</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="United Kingdom">E</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>freezing</keyword>
+		<keyword>freeze</keyword>
+		<keyword>ice</keyword>
+		<keyword>northwest territories</keyword>
+		<keyword>wildlife</keyword>
+		<keyword>biology</keyword>
+		<keyword>ecology</keyword>
+		<keyword>zoology</keyword>
+		<keyword>albatross</keyword>
+		<keyword>cold the temperature</keyword>
+		<keyword>icy</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>astronomical object in title</keyword>
+		<keyword>life form</keyword>
+		<keyword>nature</keyword>
+		<keyword>environmental documentary</keyword>
+		<keyword>documentary series</keyword>
+		<keyword>frozen</keyword>
+		<keyword>cold</keyword>
+		<keyword>antarctic</keyword>
+		<keyword>arctic</keyword>
+		<keyword>cold weather</keyword>
+		<keyword>cold water</keyword>
+		<keyword>seal the animal</keyword>
+		<keyword>researcher</keyword>
+		<keyword>habitat</keyword>
+		<keyword>consequence</keyword>
+		<keyword>melting ice caps</keyword>
+		<keyword>icecap</keyword>
+		<keyword>melting</keyword>
+		<keyword>expedition</keyword>
+		<keyword>amundsen scott south pole station</keyword>
+		<keyword>cosmic ray</keyword>
+		<keyword>balloon</keyword>
+		<keyword>astronomer</keyword>
+		<keyword>cave</keyword>
+		<keyword>geologist</keyword>
+		<keyword>robot submarine</keyword>
+		<keyword>biologist</keyword>
+		<keyword>tourist</keyword>
+		<keyword>antarctica</keyword>
+		<keyword>aurora borealis</keyword>
+		<keyword>rocket</keyword>
+		<keyword>claim</keyword>
+		<keyword>special forces</keyword>
+		<keyword>egg</keyword>
+		<keyword>walrus</keyword>
+		<keyword>inuit</keyword>
+		<keyword>tribe</keyword>
+		<keyword>settlement</keyword>
+		<keyword>fish</keyword>
+		<keyword>weasel</keyword>
+		<keyword>vole</keyword>
+		<keyword>raven</keyword>
+		<keyword>wolverine</keyword>
+		<keyword>forest</keyword>
+		<keyword>taiga</keyword>
+		<keyword>snow</keyword>
+		<keyword>wind</keyword>
+		<keyword>petrel</keyword>
+		<keyword>arctic fox</keyword>
+		<keyword>guillemot</keyword>
+		<keyword>beluga whale</keyword>
+		<keyword>sea</keyword>
+		<keyword>autumn</keyword>
+		<keyword>whale</keyword>
+		<keyword>krill</keyword>
+		<keyword>bunting</keyword>
+		<keyword>snowy owl</keyword>
+		<keyword>sea duck</keyword>
+		<keyword>arctic tern</keyword>
+		<keyword>wader</keyword>
+		<keyword>moth</keyword>
+		<keyword>sea snail</keyword>
+		<keyword>sea slug</keyword>
+		<keyword>gooseberry</keyword>
+		<keyword>narwhal</keyword>
+		<keyword>polar region</keyword>
+		<keyword>skua</keyword>
+		<keyword>sea spider</keyword>
+		<keyword>sea lion</keyword>
+		<keyword>owl</keyword>
+		<keyword>wolf</keyword>
+		<keyword>landscape</keyword>
+		<keyword>climate</keyword>
+		<keyword>south pole</keyword>
+		<keyword>river</keyword>
+		<keyword>pack hunting</keyword>
+		<keyword>duck</keyword>
+		<keyword>active volcano</keyword>
+		<keyword>global warming</keyword>
+		<keyword>north pole</keyword>
+		<keyword>arctic wolf</keyword>
+		<keyword>sea ice</keyword>
+		<keyword>ice shelf</keyword>
+		<keyword>glacier</keyword>
+		<keyword>climate change</keyword>
+		<keyword>natural history</keyword>
+		<keyword>nature documentary</keyword>
+		<keyword>sea mammal</keyword>
+		<keyword>muskox</keyword>
+		<keyword>bison</keyword>
+		<keyword>reindeer</keyword>
+		<keyword>caribou</keyword>
+		<keyword>greenland</keyword>
+		<keyword>siberia</keyword>
+		<keyword>canada</keyword>
+		<keyword>alaska</keyword>
+		<keyword>penguin</keyword>
+		<keyword>polar bear</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>russia</keyword>
+	</keywords>
+	<directors>
+		<director> Mark Linfield</director>
+	</directors>
+	<composers>
+		<composer> George Fenton</composer>
+		<composer> Max Surla</composer>
+		<composer> Barnaby Taylor</composer>
+		<composer> Richard Fiocca</composer>
+	</composers>
+	<producers>
+		<producer> Vanessa Berlowitz</producer>
+		<producer> Alastair Fothergill</producer>
+		<producer> John Cavanagh</producer>
+		<producer> Susan Winslow</producer>
+		<producer> Jason Roberts</producer>
+		<producer> Elizabeth White</producer>
+		<producer> Miles Barton</producer>
+		<producer> Chadden Hunter</producer>
+		<producer> Dan Rees</producer>
+		<producer> Jeff Wilson</producer>
+		<producer> Kathryn Jeffs</producer>
+		<producer> Mark Linfield</producer>
+		<producer> Jeff Boedeker</producer>
+	</producers>
+	<writers>
+		<writer> David Attenborough</writer>
+		<writer> Paul Spillenger</writer>
+	</writers>
+	<editors>
+		<editor> Sharon Gillooly</editor>
+		<editor> David Pearce</editor>
+		<editor> Andy Netley</editor>
+		<editor> Nigel Buck</editor>
+		<editor> Andrew Chastney</editor>
+		<editor> Steve White</editor>
+	</editors>
+</doc>

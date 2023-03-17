@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<doc id="tt5228262">
+	<docid>tt5228262</docid>
+	<title>A Very Bad Day</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTNkZDg5MTAtNDU0ZC00YmI0LTljYmUtMDQ3ZjE2N2FiMzMxXkEyXkFqcGdeQXVyMTgxNjYzNDg@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">81</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>During the course of one day, students at a Los Angeles school become caught up in a plot of sex, lies, and dead bodies.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Storm Reid</actor>
+			<role>Patricia</role>
+		</credit>
+		<credit>
+			<actor>Keanu Reeves</actor>
+			<role>Bob</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Garner</actor>
+			<role>Nadine</role>
+		</credit>
+		<credit>
+			<actor>Allison Janney</actor>
+			<role>Principal Nichols</role>
+		</credit>
+		<credit>
+			<actor>Katie Holmes</actor>
+			<role>Paramedic #1</role>
+		</credit>
+		<credit>
+			<actor>Bradley Whitford</actor>
+			<role>Mr. Schneedy</role>
+		</credit>
+		<credit>
+			<actor>Brendan Hunt</actor>
+			<role>Kyle</role>
+		</credit>
+		<credit>
+			<actor>Kumail Nanjiani</actor>
+			<role>Perry</role>
+		</credit>
+		<credit>
+			<actor>Lola Glaudini</actor>
+			<role>Lenny</role>
+		</credit>
+		<credit>
+			<actor>Anders Holm</actor>
+			<role>Mr. McRow</role>
+		</credit>
+		<credit>
+			<actor>John Cho</actor>
+			<role>Mr. Ramirez</role>
+		</credit>
+		<credit>
+			<actor>Nat Faxon</actor>
+			<role>Paramedic #2</role>
+		</credit>
+		<credit>
+			<actor>Marla Sokoloff</actor>
+			<role>Mindy</role>
+		</credit>
+		<credit>
+			<actor>Common</actor>
+			<role>Daniel</role>
+		</credit>
+		<credit>
+			<actor>Rob Riggle</actor>
+			<role>Mr. Pendlehorn</role>
+		</credit>
+		<credit>
+			<actor>Fran Kranz</actor>
+			<role>Mr. Rolf</role>
+		</credit>
+		<credit>
+			<actor>Mary Birdsong</actor>
+			<role>Melissa Brickman</role>
+		</credit>
+		<credit>
+			<actor>Al Madrigal</actor>
+			<role>Aaron</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">May 5 2017</releasedate>
+		<releasedate country="United States">November 8 2017</releasedate>
+		<releasedate country="United States">September 21 2018</releasedate>
+		<releasedate country="Austria">October 25 2018</releasedate>
+		<releasedate country="Germany">October 25 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Austria">10</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>student</keyword>
+		<keyword>five word title</keyword>
+		<keyword>school</keyword>
+		<keyword>dead body</keyword>
+		<keyword>f rated</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>principal</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>sign of the horns hand gesture</keyword>
+	</keywords>
+	<directors>
+		<director> Judy Greer</director>
+	</directors>
+	<composers>
+		<composer> Alec Puro</composer>
+	</composers>
+	<producers>
+		<producer> Dan Balgoyen</producer>
+		<producer> David Gardner</producer>
+		<producer> Robert A. Halmi</producer>
+		<producer> Laura Macara</producer>
+		<producer> Stephanie Meurer</producer>
+		<producer> Andrew Miano</producer>
+		<producer> Jim Reeve</producer>
+		<producer> Chris Weitz</producer>
+		<producer> Paul Weitz</producer>
+	</producers>
+	<writers>
+		<writer> Gary Lundy</writer>
+	</writers>
+	<editors>
+		<editor> Suzanne Spangler</editor>
+	</editors>
+</doc>

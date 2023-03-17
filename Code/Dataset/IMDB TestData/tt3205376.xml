@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<doc id="tt3205376">
+	<docid>tt3205376</docid>
+	<title>Slow West</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTYxNDA5ODk5NF5BMl5BanBnXkFtZTgwNzMwMzIwNTE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">84</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A young Scottish man travels across America in pursuit of the woman he loves, attracting the attention of an outlaw who is willing to serve as a guide.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kodi Smit-McPhee</actor>
+			<role>Jay Cavendish</role>
+		</credit>
+		<credit>
+			<actor>Caren Pistorius</actor>
+			<role>Rose Ross</role>
+		</credit>
+		<credit>
+			<actor>Aorere Paki</actor>
+			<role>Young Native Boy</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Thomas</actor>
+			<role>Union Officer</role>
+		</credit>
+		<credit>
+			<actor>Hayden Frost</actor>
+			<role>Young Soldier 1</role>
+		</credit>
+		<credit>
+			<actor>Kieran Charnock</actor>
+			<role>Young Soldier 2</role>
+		</credit>
+		<credit>
+			<actor>Michael Fassbender</actor>
+			<role>Silas Selleck</role>
+		</credit>
+		<credit>
+			<actor>Joseph Passi</actor>
+			<role>Congolese Singer 1</role>
+		</credit>
+		<credit>
+			<actor>Sam Manzanza</actor>
+			<role>Congolese Singer 2</role>
+		</credit>
+		<credit>
+			<actor>Tawanda Manyimo</actor>
+			<role>Congolese Singer 3</role>
+		</credit>
+		<credit>
+			<actor>David T. Lim</actor>
+			<role>Tattoo Man</role>
+		</credit>
+		<credit>
+			<actor>Bryan Michael Mills</actor>
+			<role>The Minstrel</role>
+		</credit>
+		<credit>
+			<actor>Madeleine Sami</actor>
+			<role>Marimacho</role>
+		</credit>
+		<credit>
+			<actor>Eddie Campbell</actor>
+			<role>Skelly</role>
+		</credit>
+		<credit>
+			<actor>Ben Mendelsohn</actor>
+			<role>Payne</role>
+		</credit>
+		<credit>
+			<actor>Michael Whalley</actor>
+			<role>The Kid</role>
+		</credit>
+		<credit>
+			<actor>Jon Cummings</actor>
+			<role>Gull</role>
+		</credit>
+		<credit>
+			<actor>Brian Sergent</actor>
+			<role>Payote Joe</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 24 2015</releasedate>
+		<releasedate country="United States">March 2 2015</releasedate>
+		<releasedate country="United States">March 27 2015</releasedate>
+		<releasedate country="United States">March 31 2015</releasedate>
+		<releasedate country="United States">April 4 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Japan">Unrated</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>frontier</keyword>
+		<keyword>bounty hunter</keyword>
+		<keyword>native american</keyword>
+		<keyword>19th century</keyword>
+		<keyword>outlaw</keyword>
+		<keyword>colorado territory</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>greenhorn</keyword>
+		<keyword>rolling downhill</keyword>
+		<keyword>bleeding to death</keyword>
+		<keyword>corpse</keyword>
+		<keyword>cowboy hat</keyword>
+		<keyword>fire</keyword>
+		<keyword>fur</keyword>
+		<keyword>gun violence</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>impalement</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>very little dialogue</keyword>
+		<keyword>birch</keyword>
+		<keyword>blood on the floor</keyword>
+		<keyword>bonfire</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>field</keyword>
+		<keyword>hat</keyword>
+		<keyword>pool of blood</keyword>
+		<keyword>starlit night</keyword>
+		<keyword>suspense</keyword>
+		<keyword>burned village</keyword>
+		<keyword>dead animal</keyword>
+		<keyword>hit with a gun</keyword>
+		<keyword>irish</keyword>
+		<keyword>constellation</keyword>
+		<keyword>scot</keyword>
+		<keyword>stargazing</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>tipi</keyword>
+		<keyword>whistling</keyword>
+		<keyword>star</keyword>
+		<keyword>gunsight</keyword>
+		<keyword>british western</keyword>
+		<keyword>american indian burial platform</keyword>
+		<keyword>american indian</keyword>
+		<keyword>old west</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>dream</keyword>
+		<keyword>flood</keyword>
+		<keyword>caught in a brush fire</keyword>
+		<keyword>accidental murder</keyword>
+		<keyword>protagonist killed</keyword>
+		<keyword>clothesline</keyword>
+		<keyword>directv</keyword>
+		<keyword>teenager</keyword>
+		<keyword>16 year old</keyword>
+		<keyword>16 year old teenage boy</keyword>
+		<keyword>16 year old boy</keyword>
+		<keyword>timeframe 19th century</keyword>
+		<keyword>search</keyword>
+		<keyword>beach</keyword>
+		<keyword>orphan</keyword>
+		<keyword>dog</keyword>
+		<keyword>wrapped in a blanket</keyword>
+		<keyword>drummer</keyword>
+		<keyword>drum</keyword>
+		<keyword>bridge</keyword>
+		<keyword>hold up</keyword>
+		<keyword>rear nudity</keyword>
+		<keyword>horseshoe nailed over a doorway</keyword>
+		<keyword>horseshoe</keyword>
+		<keyword>banjo</keyword>
+		<keyword>wallet</keyword>
+		<keyword>covered in ashes</keyword>
+		<keyword>ash</keyword>
+		<keyword>soldier</keyword>
+		<keyword>stealing from a dead body</keyword>
+		<keyword>chaperone</keyword>
+		<keyword>french</keyword>
+		<keyword>tea</keyword>
+		<keyword>coffee</keyword>
+		<keyword>minister</keyword>
+		<keyword>moon</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>mending a fence</keyword>
+		<keyword>hammer</keyword>
+		<keyword>nail</keyword>
+		<keyword>mysterious man</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>bed</keyword>
+		<keyword>hiding under a bed</keyword>
+		<keyword>cat</keyword>
+		<keyword>crying</keyword>
+		<keyword>shushing</keyword>
+		<keyword>blanket</keyword>
+		<keyword>falling into water</keyword>
+		<keyword>murder threat</keyword>
+		<keyword>german</keyword>
+		<keyword>shooting an arrow through someone's hand</keyword>
+		<keyword>theft</keyword>
+		<keyword>thief</keyword>
+		<keyword>sleep</keyword>
+		<keyword>writer</keyword>
+		<keyword>reference to god</keyword>
+		<keyword>escape</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>money</keyword>
+		<keyword>chase</keyword>
+		<keyword>flooding</keyword>
+		<keyword>storm</keyword>
+		<keyword>mountain</keyword>
+		<keyword>rain</keyword>
+		<keyword>overhead shot</keyword>
+		<keyword>prologue</keyword>
+		<keyword>running</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>naivete</keyword>
+		<keyword>egg</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>violence</keyword>
+		<keyword>song</keyword>
+		<keyword>singing</keyword>
+		<keyword>singer</keyword>
+		<keyword>campfire</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>robbery</keyword>
+		<keyword>horse</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>shooting</keyword>
+		<keyword>pistol</keyword>
+		<keyword>gun</keyword>
+		<keyword>rifle</keyword>
+		<keyword>reward</keyword>
+		<keyword>wanted dead or alive</keyword>
+		<keyword>wanted poster</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>flashback</keyword>
+		<keyword>dead body</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>little boy</keyword>
+		<keyword>girl</keyword>
+		<keyword>knife</keyword>
+		<keyword>shaving someone</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>drifter</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>lady</keyword>
+		<keyword>lord</keyword>
+		<keyword>caterpillar</keyword>
+		<keyword>baby</keyword>
+		<keyword>peasant</keyword>
+		<keyword>hit in the face</keyword>
+		<keyword>man hits a woman</keyword>
+		<keyword>handbook</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>black bear</keyword>
+		<keyword>kiss</keyword>
+		<keyword>kiss on the cheek</keyword>
+		<keyword>falling to one's knees</keyword>
+		<keyword>child abandonment</keyword>
+		<keyword>boots</keyword>
+		<keyword>dying</keyword>
+		<keyword>flaming arrow</keyword>
+		<keyword>bullet</keyword>
+		<keyword>outlaw gang</keyword>
+		<keyword>falling to the ground</keyword>
+		<keyword>biscuit</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>clothesline strung between horses</keyword>
+		<keyword>whispering</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>tied to a tree</keyword>
+		<keyword>singing on horseback</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>empty gun</keyword>
+		<keyword>absinthe</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot through a wall</keyword>
+		<keyword>shootout</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>death of father</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>native american burial platform</keyword>
+		<keyword>native american village</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>african american</keyword>
+		<keyword>once upon a time</keyword>
+		<keyword>begins with narration</keyword>
+		<keyword>two narrators</keyword>
+		<keyword>reference to canada</keyword>
+		<keyword>reference to ireland</keyword>
+		<keyword>urination</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>compass</keyword>
+		<keyword>scarecrow</keyword>
+		<keyword>mushroom</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>mirror</keyword>
+		<keyword>calling someone a son of a bitch</keyword>
+		<keyword>calling someone a brute</keyword>
+		<keyword>calling someone a silly boy</keyword>
+		<keyword>blood</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>woods</keyword>
+		<keyword>forest</keyword>
+		<keyword>long underwear</keyword>
+		<keyword>f word</keyword>
+		<keyword>reference to charles darwin</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>reference to ursa major the constellation</keyword>
+		<keyword>reference to edward hepple hill</keyword>
+		<keyword>reference to shakespeare's romeo and juliet</keyword>
+		<keyword>calling someone romeo</keyword>
+	</keywords>
+	<directors>
+		<director> John Maclean</director>
+	</directors>
+	<composers>
+		<composer> Jed Kurzel</composer>
+	</composers>
+	<producers>
+		<producer> Katherine Butler</producer>
+		<producer> Iain Canning</producer>
+		<producer> Michael Fassbender</producer>
+		<producer> Rachel Gardner</producer>
+		<producer> Zygi Kamasa</producer>
+		<producer> Angela Littlejohn</producer>
+		<producer> Conor McCaughan</producer>
+		<producer> Gerardine O'Flynn</producer>
+		<producer> Emile Sherman</producer>
+	</producers>
+	<writers>
+		<writer> John Maclean</writer>
+	</writers>
+	<editors>
+		<editor> Roland Gallois</editor>
+		<editor> Jon Gregory</editor>
+	</editors>
+</doc>

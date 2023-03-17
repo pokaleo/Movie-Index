@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<doc id="tt2051178">
+	<docid>tt2051178</docid>
+	<title>Fate/Zero</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDNiZjIzMzYtMDg1Zi00ZjM3LWFlZjUtZmNhMTQ1MDU3ODU0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_QL75_UY281_CR8,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">24</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>Seven chosen mages and their summoned heroic spirits fight against each other to try and win the Holy Grail: a magical device that can grant any wish.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>Japanese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ayako Kawasumi</actor>
+			<role>Saber</role>
+		</credit>
+		<credit>
+			<actor>Kari Wahlgren</actor>
+			<role>Saber</role>
+		</credit>
+		<credit>
+			<actor>Sayaka Ôhara</actor>
+			<role>Irisviel von Einzbern</role>
+		</credit>
+		<credit>
+			<actor>Jôji Nakata</actor>
+			<role>Kirei Kotomine</role>
+		</credit>
+		<credit>
+			<actor>Matthew Mercer</actor>
+			<role>Kiritsugu Emiya</role>
+		</credit>
+		<credit>
+			<actor>Crispin Freeman</actor>
+			<role>Kirei Kotomine</role>
+		</credit>
+		<credit>
+			<actor>Bridget Hoffman</actor>
+			<role>Irisviel von Einzbern</role>
+		</credit>
+		<credit>
+			<actor>Rikiya Koyama</actor>
+			<role>Kiritsugu Emiya</role>
+		</credit>
+		<credit>
+			<actor>Lucien Dodge</actor>
+			<role>Waver Velvet</role>
+		</credit>
+		<credit>
+			<actor>Daisuke Namikawa</actor>
+			<role>Waver Velvet</role>
+		</credit>
+		<credit>
+			<actor>Tomokazu Seki</actor>
+			<role>Archer</role>
+		</credit>
+		<credit>
+			<actor>David Vincent</actor>
+			<role>Archer</role>
+		</credit>
+		<credit>
+			<actor>Akio Ôtsuka</actor>
+			<role>Rider</role>
+		</credit>
+		<credit>
+			<actor>Jamieson Price</actor>
+			<role>Rider</role>
+		</credit>
+		<credit>
+			<actor>Show Hayami</actor>
+			<role>Tokiomi Tohsaka</role>
+		</credit>
+		<credit>
+			<actor>Marc Diraison</actor>
+			<role>Tokiomi Tohsaka</role>
+		</credit>
+		<credit>
+			<actor>Ayumi Tsunematsu</actor>
+			<role>Maiya Hisau</role>
+		</credit>
+		<credit>
+			<actor>Hikaru Midorikawa</actor>
+			<role>Lancer</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Japan">October 1 2011</releasedate>
+		<releasedate country="Australia">February 19 2014</releasedate>
+		<releasedate country="Germany">March 14 2014</releasedate>
+		<releasedate country="Poland">April 14 2015</releasedate>
+		<releasedate country="Brazil">June 5 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>prequel</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>sequel</keyword>
+		<keyword>anime animation</keyword>
+	</keywords>
+	<directors>
+		<director> Ei Aoki</director>
+		<director> Takahiro Miura</director>
+		<director> Takuya Nonaka</director>
+		<director> Kei Tsunematsu</director>
+		<director> Takashi Suhara</director>
+		<director> Ato Nonaka</director>
+		<director> Akihiko Uda</director>
+		<director> Dai Fukuyama</director>
+		<director> Atsushi Ogasawara</director>
+		<director> Tomonori Sudô</director>
+	</directors>
+	<composers>
+		<composer> Yuki Kajiura</composer>
+	</composers>
+	<producers>
+		<producer> Yoshinao Doi</producer>
+		<producer> Atsuhiro Iwakami</producer>
+		<producer> Shin'ichirô Kashiwada</producer>
+		<producer> Hikaru Kondô</producer>
+		<producer> Kôichirô Natsume</producer>
+		<producer> Ryû Suzuki</producer>
+		<producer> Tomotaka Takeuchi</producer>
+		<producer> Akiko Yodo</producer>
+		<producer> Katsushi Ôta</producer>
+		<producer> Manami Kita</producer>
+	</producers>
+	<writers>
+		<writer> Akira Hiyama</writer>
+		<writer> Takumi Miyajima</writer>
+		<writer> Kinoko Naga</writer>
+		<writer> Kinoko Nasu</writer>
+		<writer> Kazuharu Sato</writer>
+		<writer> Gen Urobuchi</writer>
+		<writer> Akihiro Yoshida</writer>
+	</writers>
+	<editors>
+		<editor> Manabu Kamino</editor>
+	</editors>
+</doc>

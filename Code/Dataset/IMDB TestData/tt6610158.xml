@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<doc id="tt6610158">
+	<docid>tt6610158</docid>
+	<title>Rust Creek</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDNkZDVhYzktZjNmNy00NjNiLTliYjMtYmE4ZGEzNDI3OGU4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An overachieving college student gets lost on her way to a job interview. A wrong turn leaves her stranded deep in the Kentucky forest.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Hermione Corfield</actor>
+			<role>Sawyer</role>
+		</credit>
+		<credit>
+			<actor>Jay Paulson</actor>
+			<role>Lowell</role>
+		</credit>
+		<credit>
+			<actor>Sean O'Bryan</actor>
+			<role>O'Doyle</role>
+		</credit>
+		<credit>
+			<actor>Micah Hauptman</actor>
+			<role>Hollister</role>
+		</credit>
+		<credit>
+			<actor>Daniel R. Hill</actor>
+			<role>Buck</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Glazer</actor>
+			<role>Katz</role>
+		</credit>
+		<credit>
+			<actor>John Marshall Jones</actor>
+			<role>Slattery</role>
+		</credit>
+		<credit>
+			<actor>Laura Guzman</actor>
+			<role>Charlotte</role>
+		</credit>
+		<credit>
+			<actor>Jake Kidwell</actor>
+			<role>Josh</role>
+		</credit>
+		<credit>
+			<actor>Virginia Schneider</actor>
+			<role>Mom</role>
+		</credit>
+		<credit>
+			<actor>Denise Dal Vera</actor>
+			<role>Mrs. Gander</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Jensen</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Stu Pollard</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Jessica Rothert</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">May 3 2018</releasedate>
+		<releasedate country="United States">May 3 2018</releasedate>
+		<releasedate country="United States">August 11 2018</releasedate>
+		<releasedate country="United States">August 25 2018</releasedate>
+		<releasedate country="United States">September 21 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>student</keyword>
+		<keyword>drugs</keyword>
+		<keyword>criminal</keyword>
+		<keyword>small town</keyword>
+		<keyword>police</keyword>
+		<keyword>police officer</keyword>
+		<keyword>running</keyword>
+		<keyword>hide</keyword>
+		<keyword>female student</keyword>
+		<keyword>forest</keyword>
+		<keyword>red neck</keyword>
+		<keyword>rogue cop</keyword>
+		<keyword>rogue sheriff</keyword>
+		<keyword>hillbilly horror</keyword>
+		<keyword>2010s</keyword>
+		<keyword>21st century</keyword>
+		<keyword>psychological thriller</keyword>
+		<keyword>road trip</keyword>
+		<keyword>detour</keyword>
+		<keyword>driving directions</keyword>
+		<keyword>lost in the woods</keyword>
+		<keyword>being groped</keyword>
+		<keyword>fighting back</keyword>
+		<keyword>kneed in the groin</keyword>
+		<keyword>stabbed</keyword>
+		<keyword>hiding in the woods</keyword>
+		<keyword>survival</keyword>
+		<keyword>cell phone battery dies</keyword>
+		<keyword>title directed by female</keyword>
+	</keywords>
+	<directors>
+		<director> Jen McGowan</director>
+	</directors>
+	<composers>
+		<composer> H. Scott Salinas</composer>
+	</composers>
+	<producers>
+		<producer> Nicolaas Bertelsen</producer>
+		<producer> Jamie Buckner</producer>
+		<producer> Alexandra Jensen</producer>
+		<producer> Peter Maestrey</producer>
+		<producer> Harris McCabe</producer>
+		<producer> Stu Pollard</producer>
+		<producer> Brian Zager</producer>
+	</producers>
+	<writers>
+		<writer> Julie Lipson</writer>
+		<writer> Stu Pollard</writer>
+		<writer> Julie Lipson</writer>
+	</writers>
+	<editors>
+		<editor> David Hopper</editor>
+	</editors>
+</doc>

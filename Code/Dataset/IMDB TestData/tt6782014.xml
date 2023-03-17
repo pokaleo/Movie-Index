@@ -1,0 +1,362 @@
+<?xml version="1.0" ?>
+<doc id="tt6782014">
+	<docid>tt6782014</docid>
+	<title>Mystery Science Theater 3000: The Return</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjc0NGY5NzQtZWU5YS00NzY5LTk2YzMtMmYwZmYzNTAwNTZjXkEyXkFqcGdeQXVyNzUxNzY1NjM@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Kinga Forrester continues the B-movie watching experiments of her father and grandmother on a new test subject aboard the Satellite Of Love.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Joel Hodgson</actor>
+			<role>Ardy</role>
+		</credit>
+		<credit>
+			<actor>Felicia Day</actor>
+			<role>Kinga Forrester</role>
+		</credit>
+		<credit>
+			<actor>Patton Oswalt</actor>
+			<role>Max (TV's Son of TV's Frank)</role>
+		</credit>
+		<credit>
+			<actor>Jonah Ray</actor>
+			<role>Jonah Heston</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Hanson</actor>
+			<role>Synthia</role>
+		</credit>
+		<credit>
+			<actor>Baron Vaughn</actor>
+			<role>Tom Servo</role>
+		</credit>
+		<credit>
+			<actor>Hampton Yount</actor>
+			<role>Crow T. Robot</role>
+		</credit>
+		<credit>
+			<actor>Tim Ryder</actor>
+			<role>Bonehead #1</role>
+		</credit>
+		<credit>
+			<actor>Zach Thompson</actor>
+			<role>Bonehead #2</role>
+		</credit>
+		<credit>
+			<actor>Har Mar Superstar</actor>
+			<role>Skeleton Crew Bandleader</role>
+		</credit>
+		<credit>
+			<actor>Mary Jo Pehl</actor>
+			<role>Pearl Forrester</role>
+		</credit>
+		<credit>
+			<actor>Grant Baciocco</actor>
+			<role>M. Waverly</role>
+		</credit>
+		<credit>
+			<actor>Russ Walko</actor>
+			<role>Growler</role>
+		</credit>
+		<credit>
+			<actor>Ivan Askwith</actor>
+			<role>Bonesy</role>
+		</credit>
+		<credit>
+			<actor>Emily Marsh</actor>
+			<role>Emily Connor</role>
+		</credit>
+		<credit>
+			<actor>Yvonne Freese</actor>
+			<role>GPC</role>
+		</credit>
+		<credit>
+			<actor>Deanna Rooney</actor>
+			<role>Dr. Donna St. Phibes</role>
+		</credit>
+		<credit>
+			<actor>Tony Bevilacqua</actor>
+			<role>The Skeleton Crew</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">April 14 2017</releasedate>
+		<releasedate country="Italy">April 14 2017</releasedate>
+		<releasedate country="South Korea">April 14 2017</releasedate>
+		<releasedate country="Poland">April 14 2017</releasedate>
+		<releasedate country="United States">April 14 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Italy">T</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>horror host</keyword>
+		<keyword>male horror host</keyword>
+		<keyword>usa horror host</keyword>
+		<keyword>usa male horror host</keyword>
+		<keyword>near future</keyword>
+		<keyword>future</keyword>
+		<keyword>dark side of the moon</keyword>
+		<keyword>moon</keyword>
+		<keyword>revival</keyword>
+		<keyword>camp</keyword>
+		<keyword>campy</keyword>
+		<keyword>crowdfunded</keyword>
+	</keywords>
+	<directors>
+		<director> Joel Hodgson</director>
+		<director> Robert Cohen</director>
+		<director> Jonah Ray</director>
+		<director> Rob Schrab</director>
+		<director> Tim Ryder</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Ivan Askwith</producer>
+		<producer> Joel Hodgson</producer>
+		<producer> Bob Emmer</producer>
+		<producer> Garson Foos</producer>
+		<producer> Richard Foos</producer>
+		<producer> Matt McGinnis</producer>
+		<producer> Sharyl Volpe</producer>
+		<producer> Elliott Kalan</producer>
+		<producer> Jordan Fields</producer>
+		<producer> Franny Baldwin</producer>
+		<producer> Harold Buchholz</producer>
+		<producer> Trish Hadley</producer>
+		<producer> Aaron Meyerson</producer>
+		<producer> Seth Robinson</producer>
+		<producer> Amelia Kane Shannon</producer>
+		<producer> David Soldinger</producer>
+		<producer> Jonathan Stern</producer>
+		<producer> Tom Gates</producer>
+		<producer> Jonah Ray</producer>
+		<producer> David McIntosh</producer>
+		<producer> Michael Ribas</producer>
+		<producer> Christa Starr</producer>
+		<producer> Dan Lanigan</producer>
+		<producer> John T. Lyons</producer>
+		<producer> Ryan Ritchey</producer>
+		<producer> Aaron Somers</producer>
+		<producer> Greg Tally</producer>
+		<producer> Meredith Tally</producer>
+		<producer> Eric Towner</producer>
+		<producer> Mike Federali</producer>
+		<producer> Jeffrey Ford</producer>
+		<producer> Tom Heinan</producer>
+		<producer> Michael Keane</producer>
+		<producer> Marty Messer</producer>
+		<producer> Drew Minoff</producer>
+		<producer> Stimson Snead</producer>
+		<producer> Larry Hastings</producer>
+		<producer> Lesley Kinzel</producer>
+		<producer> Paul Sabourin</producer>
+		<producer> Clinton Trucks</producer>
+		<producer> Larry Tanz</producer>
+		<producer> Joshua Fruehling</producer>
+		<producer> Mike Aronow</producer>
+		<producer> John Harvatine IV</producer>
+		<producer> Ryan Ritchey</producer>
+		<producer> Ian Albert</producer>
+		<producer> Kelley Bard</producer>
+		<producer> Nick Carlson</producer>
+		<producer> Tom Connelly</producer>
+		<producer> Deana Dolphin</producer>
+		<producer> Todd Dziobak</producer>
+		<producer> Samuel Horton</producer>
+		<producer> Chris Knestrick</producer>
+		<producer> John Krasno</producer>
+		<producer> Haley Lennon</producer>
+		<producer> Aaron Mastriani</producer>
+		<producer> Pramod Meduru</producer>
+		<producer> Michael Oeth</producer>
+		<producer> Tim Posch</producer>
+		<producer> Evan Powers</producer>
+		<producer> Tony Slajs</producer>
+		<producer> GJ Snyder</producer>
+		<producer> Jason Stansell</producer>
+		<producer> TheMeatly</producer>
+		<producer> Ben Tobin</producer>
+		<producer> Nic Trudell</producer>
+		<producer> Robert Vashko</producer>
+		<producer> John C. Voss</producer>
+		<producer> Keith Walker</producer>
+		<producer> Matt Giles</producer>
+		<producer> Dan Milano</producer>
+		<producer> John Allison</producer>
+		<producer> David Bacon</producer>
+		<producer> Mikaela Barree</producer>
+		<producer> Jim Hicks</producer>
+		<producer> Thomas Medved</producer>
+		<producer> Crystal O'Keefe</producer>
+		<producer> Tom O'Keefe</producer>
+		<producer> Sevan Najarian</producer>
+		<producer> David H. Brooks</producer>
+		<producer> Emily Calderone</producer>
+		<producer> Meredith Lynn Cooper</producer>
+		<producer> Jeri Ellsworth</producer>
+		<producer> Stuart Ferguson</producer>
+		<producer> Tom Gates</producer>
+		<producer> Jonathan Gorbach</producer>
+		<producer> Laura Gorbach</producer>
+		<producer> Steven Landberg</producer>
+		<producer> Chris Lundin</producer>
+		<producer> Mathew Mills</producer>
+		<producer> Bill Prady</producer>
+		<producer> Erik August Schmollinger</producer>
+		<producer> Philip Stephens</producer>
+		<producer> David Sublette</producer>
+		<producer> Tami Sublette</producer>
+		<producer> Isabel Gorbach</producer>
+		<producer> Jeff Hill</producer>
+		<producer> Andrew M. Minoff</producer>
+		<producer> David McIntosh</producer>
+	</producers>
+	<writers>
+		<writer> Joel Hodgson</writer>
+		<writer> Joel Hodgson</writer>
+		<writer> Joel Hodgson</writer>
+		<writer> Jonah Ray</writer>
+		<writer> Jonah Ray</writer>
+		<writer> Jonah Ray</writer>
+		<writer> Elliott Kalan</writer>
+		<writer> Elliott Kalan</writer>
+		<writer> Elliott Kalan</writer>
+		<writer> Tammy Golden</writer>
+		<writer> Tammy Golden</writer>
+		<writer> Harold Buchholz</writer>
+		<writer> Harold Buchholz</writer>
+		<writer> Harold Buchholz</writer>
+		<writer> Matt Oswalt</writer>
+		<writer> Hampton Yount</writer>
+		<writer> Mary Robinson</writer>
+		<writer> Storm DiCostanzo</writer>
+		<writer> Storm DiCostanzo</writer>
+		<writer> Baron Vaughn</writer>
+		<writer> Paul Sabourin</writer>
+		<writer> Seth Robinson</writer>
+		<writer> Matt McGinnis</writer>
+		<writer> Lesley Kinzel</writer>
+		<writer> Matt Conant</writer>
+		<writer> Matt Conant</writer>
+		<writer> Tim Ryder</writer>
+		<writer> Tim Ryder</writer>
+		<writer> Tim Ryder</writer>
+		<writer> Tim Ryder</writer>
+		<writer> Felicia Day</writer>
+		<writer> Jonathan Stern</writer>
+		<writer> Erik Marcisak</writer>
+		<writer> Mary Christen</writer>
+		<writer> Mary Christen</writer>
+		<writer> Devon Coleman</writer>
+		<writer> Devon Coleman</writer>
+		<writer> Rebecca Hanson</writer>
+		<writer> Paul Chaplin</writer>
+		<writer> Ross Bryant</writer>
+		<writer> Ross Bryant</writer>
+		<writer> Yvonne Freese</writer>
+		<writer> Yvonne Freese</writer>
+		<writer> Emily Marsh</writer>
+		<writer> Emily Marsh</writer>
+		<writer> Howie Michael Smith</writer>
+		<writer> Howie Michael Smith</writer>
+		<writer> Ryon Day</writer>
+		<writer> Mary Jo Pehl</writer>
+		<writer> Tiffany Hartsell</writer>
+		<writer> Nate Begle</writer>
+		<writer> Ivan Askwith</writer>
+		<writer> Ivan Askwith</writer>
+		<writer> Robert Lopez</writer>
+		<writer> Opus Moreschi</writer>
+		<writer> Nell Scovell</writer>
+		<writer> Mario Weddell</writer>
+		<writer> Bill Corbett</writer>
+		<writer> Ashley Holtgraver</writer>
+		<writer> Zach Thompson</writer>
+		<writer> Sara Benincasa</writer>
+		<writer> Mike Drucker</writer>
+		<writer> Molly Lewis</writer>
+		<writer> Len Webb</writer>
+		<writer> Len Webb</writer>
+		<writer> Grant Baciocco</writer>
+		<writer> Neil Casey</writer>
+		<writer> Scott Chester</writer>
+		<writer> Ernest Cline</writer>
+		<writer> Eugene Cordero</writer>
+		<writer> John Erler</writer>
+		<writer> Eric Fell</writer>
+		<writer> Dana Gould</writer>
+		<writer> Dan Harmon</writer>
+		<writer> Larry Johnson</writer>
+		<writer> Mark Levy</writer>
+		<writer> Patrick Maliha</writer>
+		<writer> Joel McHale</writer>
+		<writer> Kate Micucci</writer>
+		<writer> Joe Parsons</writer>
+		<writer> Joshua Pruett</writer>
+		<writer> Adam Ray</writer>
+		<writer> Justin Roiland</writer>
+		<writer> Dana Snyder</writer>
+		<writer> Shaun Stewart</writer>
+		<writer> Russ Walko</writer>
+		<writer> Sharyl Volpe</writer>
+		<writer> Kennedy Allen</writer>
+		<writer> John Allison</writer>
+		<writer> David Bacon</writer>
+		<writer> Ricky Carmona</writer>
+		<writer> Danny Gallagher</writer>
+		<writer> Jonathan Gorbach</writer>
+		<writer> Jon Gutierrez</writer>
+		<writer> Hallie Haglund</writer>
+		<writer> Larry Hastings</writer>
+		<writer> Jim Hicks</writer>
+		<writer> Jenny Jaffe</writer>
+		<writer> Alex Lupica</writer>
+		<writer> Òran Matheson</writer>
+		<writer> Conor McGiffin</writer>
+		<writer> Thomas Medved</writer>
+		<writer> Sarah Morisano</writer>
+		<writer> Dana Quercioli</writer>
+		<writer> Kevin Sciretta</writer>
+		<writer> Brian Chin</writer>
+		<writer> Joe Coughlin</writer>
+		<writer> Rob Crow</writer>
+		<writer> Gary Glover</writer>
+		<writer> Jesec Griffin</writer>
+		<writer> Michelle Hasier</writer>
+		<writer> Matthew Hayward</writer>
+		<writer> Eric Johnson</writer>
+	</writers>
+	<editors>
+		<editor> Eric Stran</editor>
+		<editor> Tess Jackson</editor>
+		<editor> David Egan</editor>
+		<editor> Harry Moroz</editor>
+		<editor> Josh Drew</editor>
+		<editor> Daniel Flesher</editor>
+		<editor> Wade Randolph</editor>
+	</editors>
+</doc>

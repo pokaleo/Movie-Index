@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<doc id="tt6613878">
+	<docid>tt6613878</docid>
+	<title>Clara</title>
+	<image/>
+	<year>III 2018</year>
+	<runningtimes>
+		<runningtime country="default">105</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>An obsessive astronomer and a curious artist form an unlikely bond which leads them to a profound, scientific discovery.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>D-Cinema 48kHz 5.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Patrick J. Adams</actor>
+			<role>Dr. Isaac Bruno</role>
+		</credit>
+		<credit>
+			<actor>Troian Bellisario</actor>
+			<role>Clara</role>
+		</credit>
+		<credit>
+			<actor>Ennis Esmer</actor>
+			<role>Dr. Charlie Durant</role>
+		</credit>
+		<credit>
+			<actor>Kristen Hager</actor>
+			<role>Dr. Rebecca Jenkins</role>
+		</credit>
+		<credit>
+			<actor>R.H. Thomson</actor>
+			<role>Dr. John Rickman</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Dale</actor>
+			<role>Department Head</role>
+		</credit>
+		<credit>
+			<actor>Genelle Williams</actor>
+			<role>Maya</role>
+		</credit>
+		<credit>
+			<actor>Christina Tannous</actor>
+			<role>Nurse</role>
+		</credit>
+		<credit>
+			<actor>Tammie Sutherland</actor>
+			<role>Reporter #1</role>
+		</credit>
+		<credit>
+			<actor>Kevin Hanchard</actor>
+			<role>Doctor</role>
+		</credit>
+		<credit>
+			<actor>Tal Zimerman</actor>
+			<role>Lead Technician</role>
+		</credit>
+		<credit>
+			<actor>Charmaine D. Lau</actor>
+			<role>Reporter #2</role>
+		</credit>
+		<credit>
+			<actor>Pierre Simpson</actor>
+			<role>Reporter #3</role>
+		</credit>
+		<credit>
+			<actor>Will Bowes</actor>
+			<role>Kiefer</role>
+		</credit>
+		<credit>
+			<actor>Trailer</actor>
+			<role>Eeva</role>
+		</credit>
+		<credit>
+			<actor>Gabrielle Graham</actor>
+			<role>Café Server</role>
+		</credit>
+		<credit>
+			<actor>Nadine Whiteman Roden</actor>
+			<role>Owner</role>
+		</credit>
+		<credit>
+			<actor>Dwight Ireland</actor>
+			<role>CalTech Assistant</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 10 2018</releasedate>
+		<releasedate country="United States">October 28 2018</releasedate>
+		<releasedate country="Canada">November 30 2018</releasedate>
+		<releasedate country="Canada">February 12 2019</releasedate>
+		<releasedate country="United Kingdom">April 24 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>search for signs of intelligent life in the universe</keyword>
+		<keyword>universe</keyword>
+		<keyword>life in the universe</keyword>
+		<keyword>astrophysics</keyword>
+		<keyword>are we alone</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>reference to james webb space telescope</keyword>
+		<keyword>one word title</keyword>
+		<keyword>forename as title</keyword>
+		<keyword>fermi paradox</keyword>
+		<keyword>exoplanet</keyword>
+		<keyword>dyson sphere</keyword>
+	</keywords>
+	<directors>
+		<director> Akash Sherman</director>
+	</directors>
+	<composers>
+		<composer> Jonathan Kawchuk</composer>
+	</composers>
+	<producers>
+		<producer> Brian Cox</producer>
+		<producer> Lori Fischburg</producer>
+		<producer> Ari Lantos</producer>
+		<producer> Anant Singh</producer>
+	</producers>
+	<writers>
+		<writer> Akash Sherman</writer>
+		<writer> Akash Sherman</writer>
+		<writer> James Ewasiuk</writer>
+	</writers>
+	<editors>
+		<editor> Matt Lyon</editor>
+	</editors>
+</doc>

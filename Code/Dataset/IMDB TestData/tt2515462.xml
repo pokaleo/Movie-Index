@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt2515462">
+	<docid>tt2515462</docid>
+	<title>Rake</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTFjMWRjMDUtYWEwYi00YzIyLTlmOTAtMDI4MThlZjdmNDAzXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">43</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>An outspoken and self-destructive criminal defense lawyer takes on the most challenging cases.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Greg Kinnear</actor>
+			<role>Keegan Deane</role>
+		</credit>
+		<credit>
+			<actor>John Ortiz</actor>
+			<role>Ben Leon</role>
+		</credit>
+		<credit>
+			<actor>Miranda Otto</actor>
+			<role>Maddy Deane</role>
+		</credit>
+		<credit>
+			<actor>Necar Zadegan</actor>
+			<role>Scarlet Leon</role>
+		</credit>
+		<credit>
+			<actor>Bojana Novakovic</actor>
+			<role>Melissa 'Mikki' Partridge</role>
+		</credit>
+		<credit>
+			<actor>Tara Summers</actor>
+			<role>Leanne Zander</role>
+		</credit>
+		<credit>
+			<actor>David Harbour</actor>
+			<role>David Potter</role>
+		</credit>
+		<credit>
+			<actor>Ian Colletti</actor>
+			<role>Finn Deane</role>
+		</credit>
+		<credit>
+			<actor>Kim Hawthorne</actor>
+			<role>Gloria Barzmann</role>
+		</credit>
+		<credit>
+			<actor>Omar J. Dorsey</actor>
+			<role>Roy</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Nordling</actor>
+			<role>Bruce</role>
+		</credit>
+		<credit>
+			<actor>Nicolas Bechtel</actor>
+			<role>Max Leon</role>
+		</credit>
+		<credit>
+			<actor>Jenna Ortega</actor>
+			<role>Zoe Leon</role>
+		</credit>
+		<credit>
+			<actor>Emjay Anthony</actor>
+			<role>Adam Leon</role>
+		</credit>
+		<credit>
+			<actor>Damon Gupton</actor>
+			<role>Marcus Barzmann</role>
+		</credit>
+		<credit>
+			<actor>Jama Williamson</actor>
+			<role>Stacy</role>
+		</credit>
+		<credit>
+			<actor>David Gautreaux</actor>
+			<role>Robert Ebell</role>
+		</credit>
+		<credit>
+			<actor>Bill Cobbs</actor>
+			<role>Judge Rutchland</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">January 23 2014</releasedate>
+		<releasedate country="United States">January 23 2014</releasedate>
+		<releasedate country="Germany">July 2 2014</releasedate>
+		<releasedate country="Australia">July 16 2014</releasedate>
+		<releasedate country="Poland">June 27 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>remake</keyword>
+		<keyword>based on tv series</keyword>
+	</keywords>
+	<directors>
+		<director> Cherie Nowlan</director>
+		<director> Sam Raimi</director>
+		<director> Adam Arkin</director>
+		<director> Jon Avnet</director>
+		<director> Adam Davidson</director>
+		<director> Roxann Dawson</director>
+		<director> Paul A. Edwards</director>
+		<director> Amy Heckerling</director>
+		<director> Rosemary Rodriguez</director>
+		<director> Jeffrey Walker</director>
+		<director> Scott Winant</director>
+	</directors>
+	<composers>
+		<composer> Patric Caird</composer>
+	</composers>
+	<producers>
+		<producer> Kit Boss</producer>
+		<producer> Deen Dioria</producer>
+		<producer> George W. Perkins</producer>
+		<producer> Ian Collie</producer>
+		<producer> Peter Duncan</producer>
+		<producer> Greg Kinnear</producer>
+		<producer> Richard Roxburgh</producer>
+		<producer> Peter Tolan</producer>
+		<producer> Michael Wimer</producer>
+		<producer> Allison Abner</producer>
+		<producer> Sam Catlin</producer>
+		<producer> Dauri Chase</producer>
+		<producer> Leslie Dennis</producer>
+		<producer> Sara Goodman</producer>
+		<producer> Sam Raimi</producer>
+		<producer> Leslie Tolan</producer>
+		<producer> Cristina Verano</producer>
+		<producer> Grant Curtis</producer>
+		<producer> Dave Bogosian</producer>
+	</producers>
+	<writers>
+		<writer> Peter Duncan</writer>
+		<writer> Peter Duncan</writer>
+		<writer> Peter Duncan</writer>
+		<writer> Peter Duncan</writer>
+		<writer> Kevin J. Hynes</writer>
+		<writer> Kevin J. Hynes</writer>
+		<writer> Richard Roxburgh</writer>
+		<writer> Peter Tolan</writer>
+		<writer> Peter Tolan</writer>
+		<writer> Charles Waterstreet</writer>
+		<writer> Kit Boss</writer>
+		<writer> Allison Abner</writer>
+		<writer> Sara Goodman</writer>
+		<writer> Sam Catlin</writer>
+		<writer> Takashi Cheng</writer>
+	</writers>
+	<editors>
+		<editor> Joel Goodman</editor>
+		<editor> Howard Leder</editor>
+		<editor> Jonathan Posell</editor>
+		<editor> Eric L. Beason</editor>
+		<editor> Frédéric Thoraval</editor>
+	</editors>
+</doc>

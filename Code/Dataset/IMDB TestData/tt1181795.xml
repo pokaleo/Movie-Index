@@ -1,0 +1,530 @@
+<?xml version="1.0" ?>
+<doc id="tt1181795">
+	<docid>tt1181795</docid>
+	<title>Bunraku</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDIwMTA3MDg2OV5BMl5BanBnXkFtZTcwODA1NzM1Ng@@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">124</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The story of a a young man who has spent his life searching for revenge only to find himself up against a bigger challenge than he originally bargained for.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Josh Hartnett</actor>
+			<role>The Drifter</role>
+		</credit>
+		<credit>
+			<actor>Demi Moore</actor>
+			<role>Alexandra</role>
+		</credit>
+		<credit>
+			<actor>Woody Harrelson</actor>
+			<role>The Bartender</role>
+		</credit>
+		<credit>
+			<actor>Gackt</actor>
+			<role>Yoshi</role>
+		</credit>
+		<credit>
+			<actor>Ron Perlman</actor>
+			<role>Nicola</role>
+		</credit>
+		<credit>
+			<actor>Kevin McKidd</actor>
+			<role>Killer No. 2</role>
+		</credit>
+		<credit>
+			<actor>Shun Sugata</actor>
+			<role>Uncle</role>
+		</credit>
+		<credit>
+			<actor>Emily Kaiho</actor>
+			<role>Momoko</role>
+		</credit>
+		<credit>
+			<actor>Jordi Mollà</actor>
+			<role>Valentine</role>
+		</credit>
+		<credit>
+			<actor>Mike Patton</actor>
+			<role>The Narrator</role>
+		</credit>
+		<credit>
+			<actor>Shahar Sorek</actor>
+			<role>Killer No. 3</role>
+		</credit>
+		<credit>
+			<actor>Fernando Chien</actor>
+			<role>Killer No. 4</role>
+		</credit>
+		<credit>
+			<actor>Yoshio Iizuka</actor>
+			<role>Killer No.5</role>
+		</credit>
+		<credit>
+			<actor>Kofi Yiadom</actor>
+			<role>Killer No. 6</role>
+		</credit>
+		<credit>
+			<actor>Aaron Toney</actor>
+			<role>Killer No. 7</role>
+		</credit>
+		<credit>
+			<actor>Razvan Gheorghiu</actor>
+			<role>Killer No. 8</role>
+		</credit>
+		<credit>
+			<actor>Holland Diaz</actor>
+			<role>Killer No. 9</role>
+		</credit>
+		<credit>
+			<actor>Filip Ciprian Florian</actor>
+			<role>Killer No. 10</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 11 2010</releasedate>
+		<releasedate country="United States">September 26 2010</releasedate>
+		<releasedate country="India">October 24 2010</releasedate>
+		<releasedate country="Japan">October 27 2010</releasedate>
+		<releasedate country="United Arab Emirates">December 17 2010</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC-16</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>combat</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>stabbed in the hand</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>final battle</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>stick fight</keyword>
+		<keyword>armory</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>oppression</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>gang leader</keyword>
+		<keyword>dreadlocks</keyword>
+		<keyword>red cap</keyword>
+		<keyword>red suit</keyword>
+		<keyword>fish</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sadism</keyword>
+		<keyword>henchman</keyword>
+		<keyword>thug</keyword>
+		<keyword>assassin</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>hitman</keyword>
+		<keyword>car accident</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>beating</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>head butt</keyword>
+		<keyword>fighter</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>shot in the throat</keyword>
+		<keyword>shot in the neck</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>explosion</keyword>
+		<keyword>fire</keyword>
+		<keyword>house on fire</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>greenhouse</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife in chest</keyword>
+		<keyword>modern western</keyword>
+		<keyword>taxi driver</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>torture</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>suspense</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>axe throwing</keyword>
+		<keyword>hostage</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>axe in the head</keyword>
+		<keyword>gore</keyword>
+		<keyword>police</keyword>
+		<keyword>police station</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police car</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>corrupt cop</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>prison</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>long take</keyword>
+		<keyword>getaway</keyword>
+		<keyword>getaway driver</keyword>
+		<keyword>train track</keyword>
+		<keyword>body count</keyword>
+		<keyword>massacre</keyword>
+		<keyword>rebel</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>helmet</keyword>
+		<keyword>sword</keyword>
+		<keyword>katana</keyword>
+		<keyword>swordsman</keyword>
+		<keyword>samurai</keyword>
+		<keyword>hit by a train</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>hat</keyword>
+		<keyword>spear</keyword>
+		<keyword>suit of armor</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>hope</keyword>
+		<keyword>small town</keyword>
+		<keyword>pulp fiction</keyword>
+		<keyword>bowler hat</keyword>
+		<keyword>cowboy hat</keyword>
+		<keyword>cowboy</keyword>
+		<keyword>village</keyword>
+		<keyword>bridge</keyword>
+		<keyword>gambler</keyword>
+		<keyword>gambling</keyword>
+		<keyword>mustache</keyword>
+		<keyword>black hat</keyword>
+		<keyword>poker</keyword>
+		<keyword>pack of cards</keyword>
+		<keyword>playing card</keyword>
+		<keyword>card game</keyword>
+		<keyword>hidden room</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>stylization</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>animated sequence</keyword>
+		<keyword>training</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>red light</keyword>
+		<keyword>yellow light</keyword>
+		<keyword>scar</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>lightning</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>film projector</keyword>
+		<keyword>woodcutter</keyword>
+		<keyword>montage</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>one man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>christ allegory</keyword>
+		<keyword>loner</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>two man army</keyword>
+		<keyword>partnership</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>two against many</keyword>
+		<keyword>honor</keyword>
+		<keyword>wu shu</keyword>
+		<keyword>wuxia fiction</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>regret</keyword>
+		<keyword>redemption</keyword>
+		<keyword>alley</keyword>
+		<keyword>beard</keyword>
+		<keyword>red light district</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>sword duel</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>totalitarianism</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>murder of father</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>race against time</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>climbing</keyword>
+		<keyword>palace</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>post apocalypse</keyword>
+		<keyword>prologue</keyword>
+		<keyword>tree</keyword>
+		<keyword>freedom fighter</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>love interest</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>mysterious man</keyword>
+		<keyword>mysterious past</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>survival</keyword>
+		<keyword>saloon</keyword>
+		<keyword>piano</keyword>
+		<keyword>pianist</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>destiny</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>loss of uncle</keyword>
+		<keyword>building on fire</keyword>
+		<keyword>hero</keyword>
+		<keyword>heroism</keyword>
+		<keyword>courage</keyword>
+		<keyword>bravery</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>severed head</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>tightrope</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>eccentricity</keyword>
+		<keyword>jumping from a building</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>fire breathing</keyword>
+		<keyword>kicking in a door</keyword>
+		<keyword>trampoline</keyword>
+		<keyword>man punches a woman</keyword>
+		<keyword>man wears a flat cap</keyword>
+		<keyword>man wears a red suit</keyword>
+		<keyword>woman in a bathtub</keyword>
+		<keyword>woman punches a man</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>unnamed protagonist</keyword>
+		<keyword>revenge</keyword>
+		<keyword>army</keyword>
+		<keyword>bartender</keyword>
+		<keyword>drifter</keyword>
+		<keyword>reflection in a pair of glasses</keyword>
+		<keyword>flaming arrow</keyword>
+		<keyword>building fire</keyword>
+		<keyword>flying trapeze</keyword>
+		<keyword>performing cartwheels</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>drop of blood</keyword>
+		<keyword>climbing a ladder</keyword>
+		<keyword>cheating at cards</keyword>
+		<keyword>all in bet</keyword>
+		<keyword>straight poker</keyword>
+		<keyword>pat poker hand</keyword>
+		<keyword>wearing clothes in a bathtub</keyword>
+		<keyword>fighting in the rain</keyword>
+		<keyword>popup book</keyword>
+		<keyword>signature in blood</keyword>
+		<keyword>breaking furniture</keyword>
+		<keyword>jumping between buildings</keyword>
+		<keyword>eating wasabi</keyword>
+		<keyword>comic style subtitles</keyword>
+		<keyword>joker card</keyword>
+		<keyword>throat cut</keyword>
+		<keyword>throwing a hatchet</keyword>
+		<keyword>passenger train</keyword>
+		<keyword>sashimi</keyword>
+		<keyword>fedora</keyword>
+		<keyword>narration</keyword>
+		<keyword>man with no name</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>battle</keyword>
+		<keyword>brass knuckles</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>general</keyword>
+		<keyword>mountain</keyword>
+		<keyword>costume</keyword>
+		<keyword>wood chopping</keyword>
+		<keyword>axe</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>death of uncle</keyword>
+		<keyword>hotel</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>bitten on the arm</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>fear of heights</keyword>
+		<keyword>circus</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car chase</keyword>
+		<keyword>car on train tracks</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>ambush</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>dripping blood</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>garden</keyword>
+		<keyword>poker game</keyword>
+		<keyword>medallion</keyword>
+		<keyword>severed finger</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>jumping from a rooftop</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>corruption</keyword>
+		<keyword>police chief</keyword>
+		<keyword>stabbed in the eye</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>flashback</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>spitting in someone's face</keyword>
+		<keyword>brothel</keyword>
+		<keyword>absinthe</keyword>
+		<keyword>spitting blood</keyword>
+		<keyword>kicked in the chest</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>rain</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>knife throwing</keyword>
+		<keyword>bar fight</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>pop up book</keyword>
+		<keyword>knife</keyword>
+		<keyword>hit with a broom</keyword>
+		<keyword>yo yo</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>casino</keyword>
+		<keyword>taxi</keyword>
+		<keyword>one against many</keyword>
+		<keyword>thrown through a window</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>gun shaped lighter</keyword>
+		<keyword>nose pushed into brain</keyword>
+		<keyword>punched in the nose</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>card trick</keyword>
+		<keyword>bar</keyword>
+		<keyword>piano playing</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>train</keyword>
+		<keyword>murder</keyword>
+		<keyword>gang</keyword>
+		<keyword>impalement</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>hatchet</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>written by director</keyword>
+		<keyword>katana sword</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>kung fu</keyword>
+		<keyword>japanese</keyword>
+		<keyword>electronic cigarette</keyword>
+		<keyword>one word title</keyword>
+		<keyword>death of father</keyword>
+		<keyword>independent film</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Guy Moshe</director>
+	</directors>
+	<composers>
+		<composer> Terence Blanchard</composer>
+	</composers>
+	<producers>
+		<producer> Ram Bergman</producer>
+		<producer> Andrei Boncea</producer>
+		<producer> Jess Wu Calder</producer>
+		<producer> Keith Calder</producer>
+		<producer> Dan Iancau</producer>
+		<producer> Nava Levin</producer>
+		<producer> Albertino Matalon</producer>
+		<producer> David Matalon</producer>
+		<producer> Alex McDowell</producer>
+		<producer> Rick Nathanson</producer>
+		<producer> Dane Allan Smith</producer>
+		<producer> Matthew G. Zamias</producer>
+	</producers>
+	<writers>
+		<writer> Boaz Davidson</writer>
+		<writer> Guy Moshe</writer>
+	</writers>
+	<editors>
+		<editor> Glenn Garland</editor>
+		<editor> Zach Staenberg</editor>
+	</editors>
+</doc>

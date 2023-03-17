@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<doc id="tt20782072">
+	<docid>tt20782072</docid>
+	<title>Feed</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmQ2NmNlNzctMDJhOS00ODViLWIxOGMtY2Q2YzM0NGIzMTk3XkEyXkFqcGdeQXVyMTE5NzkyNTM@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A group of social media experts are hired to help an old family business to thrive. But they soon find themselves stuck on a tiny island in a lake in which an ancient Swedish witch is said to live.</plot>
+	<countries>
+		<country>Sweden</country>
+	</countries>
+	<languages>
+		<language>Swedish</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Vincent Grahl</actor>
+			<role>Dimman</role>
+		</credit>
+		<credit>
+			<actor>Sofia Kappel</actor>
+			<role>Josefin</role>
+		</credit>
+		<credit>
+			<actor>Annica Liljeblad</actor>
+			<role>Ragnhild</role>
+		</credit>
+		<credit>
+			<actor>Amanda Lindh</actor>
+			<role>Kirsten</role>
+		</credit>
+		<credit>
+			<actor>Joel Lützow</actor>
+			<role>Jens</role>
+		</credit>
+		<credit>
+			<actor>Molly Nutley</actor>
+			<role>Elin</role>
+		</credit>
+		<credit>
+			<actor>Michael Odhag</actor>
+			<role>Ulf</role>
+		</credit>
+		<credit>
+			<actor>Emelina Rosenstielke</actor>
+			<role>Ava</role>
+		</credit>
+		<credit>
+			<actor>Emma Suki</actor>
+			<role>Nikolina Kostov</role>
+		</credit>
+		<credit>
+			<actor>Bella Klaus</actor>
+			<role>Tourist</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Sweden">October 28 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Sweden">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Johannes Persson</director>
+	</directors>
+	<composers>
+		<composer> Oscar Fogelström</composer>
+	</composers>
+	<producers>
+		<producer> Hans Engholm</producer>
+		<producer> Alexander Eriksson</producer>
+		<producer> Stefan Hallgren</producer>
+		<producer> Filip Hammarström</producer>
+		<producer> Börje Hansson</producer>
+		<producer> Rasmus Krogh</producer>
+		<producer> Joakim Lundell</producer>
+		<producer> Paolo Vacirca</producer>
+	</producers>
+	<writers>
+		<writer> Paolo Vacirca</writer>
+		<writer> Henry Stenberg</writer>
+		<writer> Filip Hammarström</writer>
+	</writers>
+	<editors>
+		<editor> Mattias Håkansson</editor>
+		<editor> Johan Serrander</editor>
+	</editors>
+</doc>

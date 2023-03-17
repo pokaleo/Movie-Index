@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<doc id="tt2185037">
+	<docid>tt2185037</docid>
+	<title>Running Man</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWU4NzA2OWYtNGQ0MS00YWNkLTg4M2YtZjlkZmY1YmJjMDE4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">80</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>Running Man is a reality-variety show where the cast must complete missions at various places to win the race.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Yoo Jae-suk</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jong-Kook Kim</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Haha</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Suk-Jin Jee</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Song Ji-Hyo</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Kwang-Soo Lee</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Gary Kang</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Se-Chan Yang</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jun So-min</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Song Joong-ki</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jin-Young Hong</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Kang Han-na</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Lee Sang-Yeob</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Yong-hwa Jung</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Kyung-Hwan Heo</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Nichkhun</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Soo-Ah Park</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Se-Ho Cho</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Indonesia">July 11 2010</releasedate>
+		<releasedate country="South Korea">July 11 2010</releasedate>
+		<releasedate country="Philippines">July 11 2010</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Philippines">PG</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>variety</keyword>
+		<keyword>reality</keyword>
+		<keyword>reality variety</keyword>
+		<keyword>korean</keyword>
+		<keyword>korean variety</keyword>
+		<keyword>monday couple</keyword>
+		<keyword>race game show</keyword>
+		<keyword>variety show</keyword>
+		<keyword>spy</keyword>
+		<keyword>tug of war</keyword>
+		<keyword>survival</keyword>
+		<keyword>hide and seek</keyword>
+		<keyword>punishment</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>mission</keyword>
+		<keyword>two word title</keyword>
+		<keyword>pop up words</keyword>
+		<keyword>random gag</keyword>
+		<keyword>celebrity guest</keyword>
+		<keyword>name tag</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Choi Bo Pil</director>
+		<director> Cheol Min</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Im Hyung-Taek</producer>
+		<producer> Ahn Jae-Chul</producer>
+		<producer> Akash Kingston Louis Gilbert</producer>
+	</producers>
+	<writers/>
+	<editors/>
+</doc>

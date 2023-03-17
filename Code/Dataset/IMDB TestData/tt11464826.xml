@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<doc id="tt11464826">
+	<docid>tt11464826</docid>
+	<title>The Social Dilemma</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDVhMGNhYjEtMDkwZi00NmQ5LWFkODktYzhiYjY2NTZmYTNhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">94</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tristan Harris</actor>
+			<role>Self - Google, Former Design Ethicist</role>
+		</credit>
+		<credit>
+			<actor>Jeff Seibert</actor>
+			<role>Self - Twitter, Former Executive</role>
+		</credit>
+		<credit>
+			<actor>Bailey Richardson</actor>
+			<role>Self - Instagram, Early Team</role>
+		</credit>
+		<credit>
+			<actor>Joe Toscano</actor>
+			<role>Self - Google, Former Experience Design Consultant</role>
+		</credit>
+		<credit>
+			<actor>Sandy Parakilas</actor>
+			<role>Self - Facebook, Former Operations Manager</role>
+		</credit>
+		<credit>
+			<actor>Guillaume Chaslot</actor>
+			<role>Self - YouTube, Former Engineer</role>
+		</credit>
+		<credit>
+			<actor>Lynn Fox</actor>
+			<role>Self - Apple, Former Director of Corporate PR</role>
+		</credit>
+		<credit>
+			<actor>Aza Raskin</actor>
+			<role>Self - Firefox &amp; Mozilla Labs, Former Employee</role>
+		</credit>
+		<credit>
+			<actor>Alex Roetter</actor>
+			<role>Self - Twitter, Former Senior VP of Engineering</role>
+		</credit>
+		<credit>
+			<actor>Tim Kendall</actor>
+			<role>Self - Facebook, Former Executive</role>
+		</credit>
+		<credit>
+			<actor>Justin Rosenstein</actor>
+			<role>Self - Facebook, Former Engineer</role>
+		</credit>
+		<credit>
+			<actor>Randy Fernando</actor>
+			<role>Self - NVIDIA, Former Product Manager</role>
+		</credit>
+		<credit>
+			<actor>Jaron Lanier</actor>
+			<role>Self - Founding Father of Virtual Reality</role>
+		</credit>
+		<credit>
+			<actor>Roger McNamee</actor>
+			<role>Self - Facebook, Early Investor</role>
+		</credit>
+		<credit>
+			<actor>Shoshana Zuboff</actor>
+			<role>Self - Harvard Business School, Professor Emeritus</role>
+		</credit>
+		<credit>
+			<actor>Anna Lembke</actor>
+			<role>Self - Stanford University, School of Medicine, Medical Director of Addiction Medicine</role>
+		</credit>
+		<credit>
+			<actor>James Fetter</actor>
+			<role>Self - Anna's Son</role>
+		</credit>
+		<credit>
+			<actor>Mary Fetter</actor>
+			<role>Self - Anna's Daughter</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 26 2020</releasedate>
+		<releasedate country="United Arab Emirates">September 9 2020</releasedate>
+		<releasedate country="Argentina">September 9 2020</releasedate>
+		<releasedate country="Australia">September 9 2020</releasedate>
+		<releasedate country="Brazil">September 9 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG-13</certificate>
+		<certificate country="Ecuador">13+</certificate>
+		<certificate country="Egypt">13+</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">13+</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">PG-13</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>society</keyword>
+		<keyword>social media</keyword>
+		<keyword>internet culture</keyword>
+		<keyword>dangerous technology</keyword>
+		<keyword>algorithm</keyword>
+		<keyword>internet</keyword>
+		<keyword>surveillance capitalism</keyword>
+		<keyword>corporate power</keyword>
+		<keyword>social media addiction</keyword>
+		<keyword>targeted advertising</keyword>
+		<keyword>unethical business</keyword>
+		<keyword>social manipulation</keyword>
+		<keyword>information warfare</keyword>
+		<keyword>fake news</keyword>
+		<keyword>disinformation</keyword>
+		<keyword>misinformation</keyword>
+		<keyword>reference to facebook</keyword>
+		<keyword>reenactment</keyword>
+		<keyword>technology</keyword>
+		<keyword>social network</keyword>
+		<keyword>data harvesting</keyword>
+		<keyword>data mining</keyword>
+		<keyword>societal collapse</keyword>
+		<keyword>reference to google</keyword>
+		<keyword>reference to youtube</keyword>
+		<keyword>reference to twitter</keyword>
+		<keyword>reference to instagram</keyword>
+		<keyword>reference to pinterest</keyword>
+		<keyword>reference to tiktok</keyword>
+		<keyword>media</keyword>
+		<keyword>network</keyword>
+		<keyword>work</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>media manipulation</keyword>
+		<keyword>science and technology documentary</keyword>
+		<keyword>personal data</keyword>
+	</keywords>
+	<directors>
+		<director> Jeff Orlowski-Yang</director>
+	</directors>
+	<composers>
+		<composer> Mark A. Crawford</composer>
+	</composers>
+	<producers>
+		<producer> Hallee Adelman</producer>
+		<producer> Jill Ahrens</producer>
+		<producer> Ryan Ahrens</producer>
+		<producer> Leslie Berriman</producer>
+		<producer> Nancy Blachman</producer>
+		<producer> David Boies</producer>
+		<producer> Lou Buglioli</producer>
+		<producer> David J. Cornfield</producer>
+		<producer> Linda A. Cornfield</producer>
+		<producer> Gus Deardoff</producer>
+		<producer> Ken Grossinger</producer>
+		<producer> Donna Gruneich</producer>
+		<producer> Kevin Gruneich</producer>
+		<producer> Bruce Heavin</producer>
+		<producer> Ivy Herman</producer>
+		<producer> Shannon O'Leary Joy</producer>
+		<producer> Micheline Klagsbrun</producer>
+		<producer> Laurie Lennard</producer>
+		<producer> Nion McEvoy</producer>
+		<producer> Natalie Orfalea</producer>
+		<producer> Stacey Piculell</producer>
+		<producer> Heather Reisman</producer>
+		<producer> Ben Renzo</producer>
+		<producer> Larissa Rhodes</producer>
+		<producer> Robina Riccitiello</producer>
+		<producer> Shawna Schultz</producer>
+		<producer> Jason Spingarn-Koff</producer>
+		<producer> David Stone</producer>
+		<producer> Andrea van Beuren</producer>
+		<producer> Lynda Weinman</producer>
+		<producer> Daniel Wright</producer>
+	</producers>
+	<writers>
+		<writer> Vickie Curtis</writer>
+		<writer> Davis Coombe</writer>
+		<writer> Jeff Orlowski-Yang</writer>
+	</writers>
+	<editors>
+		<editor> Davis Coombe</editor>
+	</editors>
+</doc>

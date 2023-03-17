@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<doc id="tt10923090">
+	<docid>tt10923090</docid>
+	<title>Adult Night</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmM3MmVkZjMtNzRmNi00ZDA3LWE5OGUtZDA2M2FiMTA3MmZhXkEyXkFqcGdeQXVyODAxOTg4Njk@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">11</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>In an attempt to &quot;live colorfully,&quot; the strength of a couple's relationship is tested by a situation where it might be more important to get out rather than get off.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kevin Alejandro</actor>
+			<role>Kevin</role>
+		</credit>
+		<credit>
+			<actor>Lesley-Ann Brandt</actor>
+			<role>Leslie</role>
+		</credit>
+		<credit>
+			<actor>Tom Degnan</actor>
+			<role>Roger</role>
+		</credit>
+		<credit>
+			<actor>Laura Hine</actor>
+			<role>Annie</role>
+		</credit>
+		<credit>
+			<actor>Alyshia Ochse</actor>
+			<role>Cindy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">2020</releasedate>
+		<releasedate country="United States">March 2 2020</releasedate>
+		<releasedate country="United States">August 4 2020</releasedate>
+		<releasedate country="United States">October 15 2020</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Kevin Alejandro</director>
+		<director> Leslie Alejandro</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Kevin Alejandro</producer>
+		<producer> Leslie Alejandro</producer>
+		<producer> Lesley-Ann Brandt</producer>
+		<producer> Dani de Jesus</producer>
+		<producer> Todd Sandler</producer>
+	</producers>
+	<writers>
+		<writer> Derek Ray</writer>
+	</writers>
+	<editors>
+		<editor> Todd Sandler</editor>
+	</editors>
+</doc>

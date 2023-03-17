@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<doc id="tt12139700">
+	<docid>tt12139700</docid>
+	<title>Jungle Beat: The Movie</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTc5OGUxYzktZGZkYy00ODBlLThhYTQtNDExMGE5YTFhNDk2XkEyXkFqcGdeQXVyMTAyNjY3OTM@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">88</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A homesick alien crash-lands his spaceship near the colorful African Jungle. His new animal friends need to get him back to his ship and teach him about friendship and fun before his Space-Conqueror father can take over the planet.</plot>
+	<countries>
+		<country>Mauritius</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>David Menkin</actor>
+			<role>Munki</role>
+		</credit>
+		<credit>
+			<actor>David Rintoul</actor>
+			<role>Grogon</role>
+		</credit>
+		<credit>
+			<actor>Gavin Peter</actor>
+			<role>Tallbert</role>
+		</credit>
+		<credit>
+			<actor>Florrie Wilkinson</actor>
+			<role>Baby</role>
+		</credit>
+		<credit>
+			<actor>Adam Neill</actor>
+			<role>Ribbert</role>
+		</credit>
+		<credit>
+			<actor>Jason Pennycooke</actor>
+			<role>Lead Wildebeest</role>
+		</credit>
+		<credit>
+			<actor>Robert G. Slade</actor>
+			<role>Old Wildebeest</role>
+		</credit>
+		<credit>
+			<actor>Emma Lungiswa De Wet</actor>
+			<role>Firefly</role>
+		</credit>
+		<credit>
+			<actor>Claire Johnston</actor>
+			<role>Female Wildebeest</role>
+		</credit>
+		<credit>
+			<actor>Toni Andrews</actor>
+			<role>The Computer</role>
+		</credit>
+		<credit>
+			<actor>Brent Dawes</actor>
+			<role>Hugging Scaldronian</role>
+		</credit>
+		<credit>
+			<actor>Matthew Gair</actor>
+			<role>Other Wildebeest</role>
+		</credit>
+		<credit>
+			<actor>John Guerrasio</actor>
+			<role>Humph</role>
+		</credit>
+		<credit>
+			<actor>Ed Kear</actor>
+			<role>Fneep</role>
+		</credit>
+		<credit>
+			<actor>Lynton Levengood</actor>
+			<role>Wildebeest Crowd</role>
+		</credit>
+		<credit>
+			<actor>Lucy Montgomery</actor>
+			<role>Mama</role>
+		</credit>
+		<credit>
+			<actor>Luke Pieters</actor>
+			<role>Wildebeest Crowd</role>
+		</credit>
+		<credit>
+			<actor>Ryno Ritter</actor>
+			<role>Scaldronian Crowd</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">June 15 2020</releasedate>
+		<releasedate country="United Kingdom">June 26 2020</releasedate>
+		<releasedate country="Mauritius">June 26 2020</releasedate>
+		<releasedate country="United States">June 26 2020</releasedate>
+		<releasedate country="Brazil">July 30 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">7</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>friendship</keyword>
+		<keyword>based on cartoon</keyword>
+		<keyword>based on tv series</keyword>
+		<keyword>animal</keyword>
+		<keyword>elephant</keyword>
+		<keyword>monkey</keyword>
+		<keyword>jungle</keyword>
+		<keyword>friend</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>epic</keyword>
+		<keyword>african</keyword>
+		<keyword>jungle adventure</keyword>
+	</keywords>
+	<directors>
+		<director> Brent Dawes</director>
+		<director> Zhang Sujuan</director>
+	</directors>
+	<composers>
+		<composer> Andries Smit</composer>
+	</composers>
+	<producers>
+		<producer> Stuart Baxter</producer>
+		<producer> Gilang Bhagaskara</producer>
+		<producer> Jacqui Cunningham</producer>
+		<producer> Phil Cunningham</producer>
+		<producer> Ralph Kamp</producer>
+		<producer> Rebecca Kamp</producer>
+		<producer> Tim Keller</producer>
+		<producer> Fred Kritzinger</producer>
+		<producer> Sanet Kritzinger</producer>
+		<producer> Ghea Lisanova</producer>
+		<producer> Rita Mbanga</producer>
+		<producer> Joe Pistorius</producer>
+		<producer> Edelgard Slabbert</producer>
+	</producers>
+	<writers>
+		<writer> Brent Dawes</writer>
+		<writer> Zhang Sujuan</writer>
+		<writer> Sam Wilson</writer>
+	</writers>
+	<editors>
+		<editor> Clea Mallinson</editor>
+		<editor> Ryno Ritter</editor>
+	</editors>
+</doc>

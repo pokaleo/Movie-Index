@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc id="tt13429362">
+	<docid>tt13429362</docid>
+	<title>In the Earth</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWU0NjMxZGMtMjg5OC00Y2RiLThiMmEtYzYzMmFiNTgyMjM5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">107</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>As the world searches for a cure to a disastrous virus, a scientist and park scout venture deep in the forest for a routine equipment run.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Joel Fry</actor>
+			<role>Martin Lowery</role>
+		</credit>
+		<credit>
+			<actor>Reece Shearsmith</actor>
+			<role>Zach</role>
+		</credit>
+		<credit>
+			<actor>Hayley Squires</actor>
+			<role>Olivia Wendle</role>
+		</credit>
+		<credit>
+			<actor>Ellora Torchia</actor>
+			<role>Alma</role>
+		</credit>
+		<credit>
+			<actor>John Hollingworth</actor>
+			<role>James</role>
+		</credit>
+		<credit>
+			<actor>Mark Monero</actor>
+			<role>Frank</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">2021</releasedate>
+		<releasedate country="France">2021</releasedate>
+		<releasedate country="New Zealand">2021</releasedate>
+		<releasedate country="United States">January 29 2021</releasedate>
+		<releasedate country="Canada">April 16 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">Youth not allowed</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>wilderness</keyword>
+		<keyword>forest</keyword>
+		<keyword>trip</keyword>
+		<keyword>backpack</keyword>
+		<keyword>injured foot</keyword>
+		<keyword>mushroom</keyword>
+		<keyword>arrow</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>supernatural thriller</keyword>
+		<keyword>f word</keyword>
+		<keyword>woman wears coverall</keyword>
+		<keyword>coverall</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+	</keywords>
+	<directors>
+		<director> Ben Wheatley</director>
+	</directors>
+	<composers>
+		<composer> Clint Mansell</composer>
+	</composers>
+	<producers>
+		<producer> Michael S. Constable</producer>
+		<producer> Jeff Deutchman</producer>
+		<producer> Amy Jump</producer>
+		<producer> Tom Quinn</producer>
+		<producer> Andrew Starke</producer>
+		<producer> Ben Wheatley</producer>
+	</producers>
+	<writers>
+		<writer> Ben Wheatley</writer>
+	</writers>
+	<editors>
+		<editor> Ben Wheatley</editor>
+	</editors>
+</doc>

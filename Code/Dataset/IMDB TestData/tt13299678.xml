@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<doc id="tt13299678">
+	<docid>tt13299678</docid>
+	<title>Uncle Vanya</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWNhMzNiOTYtMDAxZi00ZjJiLTkxNjctNTFjYjlmZDMxMTYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The Professor retires and moves back into his estate with his young wife, turning the lives of those who have been maintaining it in his absence upside down.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Roger Allam</actor>
+			<role>Serebrayakov</role>
+		</credit>
+		<credit>
+			<actor>Richard Armitage</actor>
+			<role>Astrov</role>
+		</credit>
+		<credit>
+			<actor>Anna Calder-Marshall</actor>
+			<role>Nana</role>
+		</credit>
+		<credit>
+			<actor>Rosalind Eleazar</actor>
+			<role>Yelena</role>
+		</credit>
+		<credit>
+			<actor>Toby Jones</actor>
+			<role>Vanya</role>
+		</credit>
+		<credit>
+			<actor>Dearbhla Molloy</actor>
+			<role>Mariya</role>
+		</credit>
+		<credit>
+			<actor>Peter Wight</actor>
+			<role>Telegin</role>
+		</credit>
+		<credit>
+			<actor>Aimee Lou Wood</actor>
+			<role>Sonya</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Spain">June 14 2020</releasedate>
+		<releasedate country="United Kingdom">October 27 2020</releasedate>
+		<releasedate country="Ireland">October 27 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">E</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on a stage play</keyword>
+		<keyword>estate</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>russia</keyword>
+		<keyword>doctor</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>ecology</keyword>
+		<keyword>depression</keyword>
+		<keyword>writer</keyword>
+	</keywords>
+	<directors>
+		<director> Ross MacGibbon</director>
+		<director> Ian Rickson</director>
+	</directors>
+	<composers>
+		<composer> Stephen Warbeck</composer>
+	</composers>
+	<producers>
+		<producer> Sally Angel</producer>
+		<producer> Charlie Bath</producer>
+		<producer> Diane Benjamin</producer>
+		<producer> Emma Cahusac</producer>
+		<producer> Sonia Friedman</producer>
+		<producer> Abi Heilbron</producer>
+		<producer> Debi Roach</producer>
+		<producer> Billie Shepherd</producer>
+		<producer> Simon Woolley</producer>
+	</producers>
+	<writers>
+		<writer> Anton Chekhov</writer>
+		<writer> Conor McPherson</writer>
+	</writers>
+	<editors>
+		<editor> Brian P. Campbell</editor>
+	</editors>
+</doc>

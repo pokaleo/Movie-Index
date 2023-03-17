@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<doc id="tt8746404">
+	<docid>tt8746404</docid>
+	<title>Marmaduke</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTZhZDE1ZDMtMDVhMi00MGY1LTlhZjEtNTQ5YWU2N2FiN2IxXkEyXkFqcGdeQXVyNTQ0Njg1Mw@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">88</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A legendary dog trainer believes he can transform Marmaduke from an undisciplined, but lovable dog, into the first Great Dane to win the World Dog Championship.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Pete Davidson</actor>
+			<role>Marmaduke</role>
+		</credit>
+		<credit>
+			<actor>J.K. Simmons</actor>
+			<role>Zeus</role>
+		</credit>
+		<credit>
+			<actor>David Koechner</actor>
+			<role>Phil</role>
+		</credit>
+		<credit>
+			<actor>Mary Hart</actor>
+			<role>EntertainMutt Tonight Host</role>
+		</credit>
+		<credit>
+			<actor>Julie Nathanson</actor>
+			<role>Dottie</role>
+		</credit>
+		<credit>
+			<actor>Terri Douglas</actor>
+			<role>Billy</role>
+		</credit>
+		<credit>
+			<actor>Erin Fitzgerald</actor>
+			<role>Barbara</role>
+		</credit>
+		<credit>
+			<actor>Stephen Stanton</actor>
+			<role>King Tut</role>
+		</credit>
+		<credit>
+			<actor>Brian Hull</actor>
+			<role>Guy</role>
+		</credit>
+		<credit>
+			<actor>Sumalee Montano</actor>
+			<role>Amy</role>
+		</credit>
+		<credit>
+			<actor>Andrew Morgado</actor>
+			<role>Henri</role>
+		</credit>
+		<credit>
+			<actor>Chris Hackney</actor>
+			<role>Announcer</role>
+		</credit>
+		<credit>
+			<actor>Shelby Young</actor>
+			<role>Shantrelle</role>
+		</credit>
+		<credit>
+			<actor>Johnny Yong Bosch</actor>
+			<role>Zhi</role>
+		</credit>
+		<credit>
+			<actor>Nika Futterman</actor>
+			<role>Juan Pedro</role>
+		</credit>
+		<credit>
+			<actor>Melissa Disney</actor>
+			<role>Javier</role>
+		</credit>
+		<credit>
+			<actor>Fred Tatasciore</actor>
+			<role>Vinnie</role>
+		</credit>
+		<credit>
+			<actor>Jason Anthony</actor>
+			<role>Ronnie</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">May 5 2022</releasedate>
+		<releasedate country="Argentina">May 6 2022</releasedate>
+		<releasedate country="Australia">May 6 2022</releasedate>
+		<releasedate country="Brazil">May 6 2022</releasedate>
+		<releasedate country="Canada">May 6 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">TV-Y7</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="India">UA 7+</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Mexico">TV-Y7</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Poland">6</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cg animation</keyword>
+		<keyword>trainer</keyword>
+		<keyword>quirky comedy</keyword>
+		<keyword>mind control</keyword>
+		<keyword>hypnosis</keyword>
+		<keyword>trance</keyword>
+		<keyword>dog</keyword>
+		<keyword>great dane</keyword>
+		<keyword>flatulence</keyword>
+	</keywords>
+	<directors>
+		<director> Mark A.Z. Dippé</director>
+		<director> Youngki Lee</director>
+		<director> Phil Nibbelink</director>
+		<director> Matt Philip Whelan</director>
+	</directors>
+	<composers>
+		<composer> Nicholas Schnier</composer>
+	</composers>
+	<producers>
+		<producer> Vanessa Choy</producer>
+		<producer> Daniel Chuba</producer>
+		<producer> Simon Crowe</producer>
+		<producer> Mark A.Z. Dippé</producer>
+		<producer> Cellin Gluck</producer>
+		<producer> Soonjoo Jeong</producer>
+		<producer> Matthew Joynes</producer>
+		<producer> Jong Han Kim</producer>
+		<producer> Jongsoo Kim</producer>
+		<producer> Louis Koo</producer>
+		<producer> Youngki Lee</producer>
+		<producer> Bridget McMeel</producer>
+		<producer> Brendan McNeill</producer>
+		<producer> Fred Nelson</producer>
+		<producer> Timothy Wayne Peternel</producer>
+		<producer> Matt Sheppo</producer>
+	</producers>
+	<writers>
+		<writer> Byron Kavanagh</writer>
+		<writer> Brad Anderson</writer>
+		<writer> Paul Anderson</writer>
+	</writers>
+	<editors>
+		<editor> Aaron Seelman</editor>
+	</editors>
+</doc>

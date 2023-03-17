@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<doc id="tt14760100">
+	<docid>tt14760100</docid>
+	<title>Virgin</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDNiNzM4OGEtYzljZi00OGZhLWEwZjItMjgxYmMyNDM3MzgwXkEyXkFqcGdeQXVyMTUwMjg2Nzg0._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">52</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A group of teenagers creates an investigative documentary to unravel the mystery behind the death of a popular teenage girl at school.</plot>
+	<countries>
+		<country>Indonesia</country>
+	</countries>
+	<languages>
+		<language>Indonesian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Adhisty Zara</actor>
+			<role>Talita Arabella Adinatha</role>
+		</credit>
+		<credit>
+			<actor>Lutesha</actor>
+			<role>Raya Fitri</role>
+		</credit>
+		<credit>
+			<actor>Shalom Razade</actor>
+			<role>Brianna 'Bee' Cita Yahya</role>
+		</credit>
+		<credit>
+			<actor>Laura Theux</actor>
+			<role>Keiriko Senja</role>
+		</credit>
+		<credit>
+			<actor>Panji Zoni</actor>
+			<role>Faris Syahrir</role>
+		</credit>
+		<credit>
+			<actor>Rangga Nattra</actor>
+			<role>David Jamal</role>
+		</credit>
+		<credit>
+			<actor>Carmela van der Kruk</actor>
+			<role>Carissa Rachman</role>
+		</credit>
+		<credit>
+			<actor>Endhita</actor>
+			<role>Linda Yahya</role>
+		</credit>
+		<credit>
+			<actor>Irzan Faiq</actor>
+			<role>Dilan Raza</role>
+		</credit>
+		<credit>
+			<actor>Kiki Narendra</actor>
+			<role>Djaya Sangadji</role>
+		</credit>
+		<credit>
+			<actor>Asty Ananta</actor>
+			<role>Rosa Sangadji</role>
+		</credit>
+		<credit>
+			<actor>Rich Ting</actor>
+			<role>Headmaster Brata</role>
+		</credit>
+		<credit>
+			<actor>Brandon English</actor>
+			<role>Dilan Raza</role>
+		</credit>
+		<credit>
+			<actor>Alzi Markers</actor>
+			<role>Hiroshi Sucipta</role>
+		</credit>
+		<credit>
+			<actor>Arla Ailani</actor>
+			<role>Hanneke Djaya Sangadji</role>
+		</credit>
+		<credit>
+			<actor>Abun Sungkar</actor>
+			<role>Banyu Arjuna</role>
+		</credit>
+		<credit>
+			<actor>Nova Eliza</actor>
+			<role>Mira Valida</role>
+		</credit>
+		<credit>
+			<actor>Rizky Hanggono</actor>
+			<role>Wira Adinatha</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Indonesia">January 14 2022</releasedate>
+		<releasedate country="Argentina">March 1 2023</releasedate>
+		<releasedate country="Australia">March 1 2023</releasedate>
+		<releasedate country="Brazil">March 1 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Indonesia">D17+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>investigation</keyword>
+		<keyword>teenager</keyword>
+	</keywords>
+	<directors>
+		<director> Monty Tiwa</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Ika Muliana</producer>
+		<producer> Mithu Nisar</producer>
+		<producer> D.D. Putranto</producer>
+		<producer> Riza</producer>
+		<producer> Amrit D. Servia</producer>
+		<producer> Chand Parwez Servia</producer>
+		<producer> Fiaz Servia</producer>
+		<producer> Reza Servia</producer>
+		<producer> Sumarsono</producer>
+	</producers>
+	<writers>
+		<writer> Cassandra Massardi</writer>
+	</writers>
+	<editors>
+		<editor> Ahsan Andrian</editor>
+	</editors>
+</doc>

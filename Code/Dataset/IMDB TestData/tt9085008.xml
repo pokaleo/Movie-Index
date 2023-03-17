@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<doc id="tt9085008">
+	<docid>tt9085008</docid>
+	<title>Human Resources</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTk0ZTI0YTYtMWRiNi00Y2U2LThmYjktNmUzZjAxN2ZjYTA2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>II 2021</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>After starting a job at an eerie hardware store, an anxious young man uncovers a shocking mystery that leads to a fight against terrifying forces that lurk just behind the walls.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Hugh McCrae Jr.</actor>
+			<role>Sam Coleman</role>
+		</credit>
+		<credit>
+			<actor>Sarah José</actor>
+			<role>Sarah Browne</role>
+		</credit>
+		<credit>
+			<actor>Anthony Candell</actor>
+			<role>Gene Knibbs</role>
+		</credit>
+		<credit>
+			<actor>Tim Misuradze</actor>
+			<role>Brian Henderson</role>
+		</credit>
+		<credit>
+			<actor>Michael Kammerer</actor>
+			<role>Bill Shimp</role>
+		</credit>
+		<credit>
+			<actor>Angel Hilton</actor>
+			<role>Keith Barren</role>
+		</credit>
+		<credit>
+			<actor>Calvin Devereaux</actor>
+			<role>Creepy Customer</role>
+		</credit>
+		<credit>
+			<actor>Thomas Connelly</actor>
+			<role>Tim</role>
+		</credit>
+		<credit>
+			<actor>Alison Stolpa</actor>
+			<role>Karen</role>
+		</credit>
+		<credit>
+			<actor>Rachel Rial</actor>
+			<role>Past Brooke's Associate</role>
+		</credit>
+		<credit>
+			<actor>Ethan Hammock</actor>
+			<role>Vincent Shaw</role>
+		</credit>
+		<credit>
+			<actor>Anna Simurda</actor>
+			<role>Mandy Flinchin</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Michael Wolk</actor>
+			<role>Ben Wolk</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 7 2021</releasedate>
+		<releasedate country="United States">December 2021</releasedate>
+		<releasedate country="United States">December 3 2021</releasedate>
+		<releasedate country="United States">February 24 2022</releasedate>
+		<releasedate country="United States">February 25 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Sweden">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mask</keyword>
+	</keywords>
+	<directors>
+		<director> Braden Swope</director>
+	</directors>
+	<composers>
+		<composer> Jack Folkner</composer>
+		<composer> Jaimie Pangan</composer>
+		<composer> Nik Sudan</composer>
+	</composers>
+	<producers>
+		<producer> Ryan Bury</producer>
+		<producer> James Andrew Felts</producer>
+		<producer> Kendall Huff</producer>
+		<producer> Braden Swope</producer>
+		<producer> Evan Swope</producer>
+	</producers>
+	<writers>
+		<writer> Braden Swope</writer>
+		<writer> Evan Swope</writer>
+		<writer> Chris Kelly</writer>
+	</writers>
+	<editors>
+		<editor> Braden Swope</editor>
+	</editors>
+</doc>

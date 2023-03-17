@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<doc id="tt9421868">
+	<docid>tt9421868</docid>
+	<title>Selena: The Series</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTY0NDM2ZWYtMDFkNy00NDM1LTgwYmMtYzNhMTMzN2FkN2FlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">40</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>Music</genre>
+	</genres>
+	<plot>Late Tejano singer Selena as her dreams come true, and her family makes life-changing choices on the singer's journey to success.</plot>
+	<countries>
+		<country>Mexico</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Christian Serratos</actor>
+			<role>Selena Quintanilla</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Chavarria</actor>
+			<role>A.B. Quintanilla</role>
+		</credit>
+		<credit>
+			<actor>Ricardo Chavira</actor>
+			<role>Abraham Quintanilla</role>
+		</credit>
+		<credit>
+			<actor>Noemi Gonzalez</actor>
+			<role>Suzette Quintanilla</role>
+		</credit>
+		<credit>
+			<actor>Seidy Lopez</actor>
+			<role>Marcella Quintanilla</role>
+		</credit>
+		<credit>
+			<actor>Hunter Reese Peña</actor>
+			<role>Ricky Vela</role>
+		</credit>
+		<credit>
+			<actor>Carlos Alfredo Jr.</actor>
+			<role>Joe Ojeda</role>
+		</credit>
+		<credit>
+			<actor>Jesse Posey</actor>
+			<role>Chris Perez</role>
+		</credit>
+		<credit>
+			<actor>Julio Macias</actor>
+			<role>Pete Astudillo</role>
+		</credit>
+		<credit>
+			<actor>Rico Aragon</actor>
+			<role>Jose Behar</role>
+		</credit>
+		<credit>
+			<actor>Madison Taylor Baez</actor>
+			<role>Young Selena</role>
+		</credit>
+		<credit>
+			<actor>Natasha Perez</actor>
+			<role>Yolanda Saldivar</role>
+		</credit>
+		<credit>
+			<actor>Gladys Bautista</actor>
+			<role>Vangie</role>
+		</credit>
+		<credit>
+			<actor>Christian Escobar</actor>
+			<role>Bill Arriaga</role>
+		</credit>
+		<credit>
+			<actor>Daniela Estrada</actor>
+			<role>Young Suzette</role>
+		</credit>
+		<credit>
+			<actor>Paul Rodriguez</actor>
+			<role>Roger Garcia</role>
+		</credit>
+		<credit>
+			<actor>Luis Bordonada</actor>
+			<role>Johnny Canales</role>
+		</credit>
+		<credit>
+			<actor>Juan Martinez</actor>
+			<role>Young A.B.</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">December 4 2020</releasedate>
+		<releasedate country="Australia">December 4 2020</releasedate>
+		<releasedate country="Brazil">December 4 2020</releasedate>
+		<releasedate country="Canada">December 4 2020</releasedate>
+		<releasedate country="Germany">December 4 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>singer</keyword>
+		<keyword>star</keyword>
+		<keyword>murder</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>docudrama drama</keyword>
+		<keyword>latin music</keyword>
+		<keyword>timeframe 1990s</keyword>
+		<keyword>timeframe 20th century</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Hiromi Kamata</director>
+		<director> Katina Medina Mora</director>
+	</directors>
+	<composers>
+		<composer> Camilo Froideval</composer>
+		<composer> Dan Zlotnik</composer>
+	</composers>
+	<producers>
+		<producer> Luisa Gomez de Silva</producer>
+		<producer> Ulrich Maier</producer>
+		<producer> Rico Martinez</producer>
+		<producer> Lisa Matsukawa</producer>
+		<producer> Simran Singh</producer>
+		<producer> Giovanni Ximénez</producer>
+		<producer> Moisés Zamora</producer>
+		<producer> Eddie Serrano</producer>
+		<producer> Perla Martínez</producer>
+		<producer> Donald Todd</producer>
+		<producer> Henry Robles</producer>
+		<producer> Aldo Jovan Diaz</producer>
+		<producer> Diana Mejia-Jones</producer>
+		<producer> Gladys Rodriguez</producer>
+		<producer> Raul Prado</producer>
+		<producer> Jaime Dávila</producer>
+		<producer> Claudia Forestieri</producer>
+		<producer> Hiromi Kamata</producer>
+		<producer> Rico Martinez</producer>
+		<producer> Suzette Quintañilla</producer>
+		<producer> Brenna Kouf</producer>
+		<producer> Abraham Quintanilla Jr.</producer>
+	</producers>
+	<writers>
+		<writer> Pamela Garcia Rooney</writer>
+		<writer> Pamela Garcia Rooney</writer>
+		<writer> Jessica Lopez</writer>
+		<writer> Jessica Lopez</writer>
+		<writer> Jessica Lopez</writer>
+		<writer> Jorge Ramirez-Martinez</writer>
+		<writer> Jorge Ramirez-Martinez</writer>
+		<writer> Jorge Ramirez-Martinez</writer>
+		<writer> Moisés Zamora</writer>
+		<writer> Moisés Zamora</writer>
+		<writer> Claudia Forestieri</writer>
+		<writer> Claudia Forestieri</writer>
+		<writer> Eddie Serrano</writer>
+		<writer> Eddie Serrano</writer>
+		<writer> Aaron Serna</writer>
+		<writer> Aaron Serna</writer>
+		<writer> Alejandra Castro Castillo</writer>
+		<writer> Marcelena Campos Mayhorn</writer>
+		<writer> Raymond Arturo Perez</writer>
+		<writer> Jen Rivas-DeLoose</writer>
+		<writer> Brenna Kouf</writer>
+		<writer> Henry Robles</writer>
+	</writers>
+	<editors>
+		<editor> Lenz Claure</editor>
+		<editor> Karen Antunes</editor>
+		<editor> Mario Monroy Nieblas</editor>
+		<editor> Karina Espinoza Vázquez</editor>
+		<editor> Joselito Martínez</editor>
+	</editors>
+</doc>

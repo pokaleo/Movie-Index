@@ -1,0 +1,458 @@
+<?xml version="1.0" ?>
+<doc id="tt1479962">
+	<docid>tt1479962</docid>
+	<title>Red Dead Redemption</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGRkMjYzNjAtNDNjOS00ZjUzLTlhZjAtOGE0MDEyMTU5ZDU3XkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_QL75_UY281_CR130,0,190,281_.jpg</image>
+	<year>2010 Video Game</year>
+	<runningtimes/>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>A former outlaw is forced by the federal government to hunt down the members of his old gang.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Rob Wiethoff</actor>
+			<role>John Marston</role>
+		</credit>
+		<credit>
+			<actor>Josh Blaylock</actor>
+			<role>John 'Jack' Marston Jr.</role>
+		</credit>
+		<credit>
+			<actor>Sophia Marzocchi</actor>
+			<role>Abigail Marston</role>
+		</credit>
+		<credit>
+			<actor>Spider Madison</actor>
+			<role>Uncle</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Byron Davis</actor>
+			<role>Dutch van der Linde</role>
+		</credit>
+		<credit>
+			<actor>Kimberly Irion</actor>
+			<role>Bonnie MacFarlane</role>
+		</credit>
+		<credit>
+			<actor>Chuck Kelley</actor>
+			<role>Drew MacFarlane</role>
+		</credit>
+		<credit>
+			<actor>Anthony De Longis</actor>
+			<role>Marshal Leigh Johnson</role>
+		</credit>
+		<credit>
+			<actor>Brad Carter</actor>
+			<role>Deputy Marshal 1 (Jonah)</role>
+		</credit>
+		<credit>
+			<actor>Frank Noon</actor>
+			<role>Deputy Marshal 2 (Eli)</role>
+		</credit>
+		<credit>
+			<actor>James Carroll</actor>
+			<role>Norman Deek</role>
+		</credit>
+		<credit>
+			<actor>Don Creech</actor>
+			<role>Nigel West Dickens</role>
+		</credit>
+		<credit>
+			<actor>Joe Ochman</actor>
+			<role>Professor Harold MacDougal</role>
+		</credit>
+		<credit>
+			<actor>Kevin Glikmann</actor>
+			<role>Seth Briars</role>
+		</credit>
+		<credit>
+			<actor>Paul Mullan</actor>
+			<role>Welsh (Alwyn Lloyd)</role>
+		</credit>
+		<credit>
+			<actor>Daron McFarland</actor>
+			<role>French (Leander Holland)</role>
+		</credit>
+		<credit>
+			<actor>Kaius Harrison</actor>
+			<role>Irish</role>
+		</credit>
+		<credit>
+			<actor>Steve J. Palmer</actor>
+			<role>Bill Williamson</role>
+		</credit>
+	</cast>
+	<type>other</type>
+	<releasedates>
+		<releasedate country="United States">May 18 2010</releasedate>
+		<releasedate country="Australia">May 21 2010</releasedate>
+		<releasedate country="United Kingdom">May 21 2010</releasedate>
+		<releasedate country="Russia">May 28 2010</releasedate>
+		<releasedate country="Japan">October 7 2010</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">M</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Japan">Z</certificate>
+		<certificate country="Netherlands">18</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Saudi Arabia">(banned)</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">M</certificate>
+	</certificates>
+	<keywords>
+		<keyword>ghost town</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>zapata western</keyword>
+		<keyword>cowboy</keyword>
+		<keyword>liar's dice</keyword>
+		<keyword>farm</keyword>
+		<keyword>mexican american war</keyword>
+		<keyword>cave</keyword>
+		<keyword>cavalry</keyword>
+		<keyword>wanted poster</keyword>
+		<keyword>u.s. marshal</keyword>
+		<keyword>spanish american war</keyword>
+		<keyword>monument valley</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>cowboy hat</keyword>
+		<keyword>bordertown</keyword>
+		<keyword>console game</keyword>
+		<keyword>playstation 3</keyword>
+		<keyword>xbox 360</keyword>
+		<keyword>killing an animal</keyword>
+		<keyword>part of series</keyword>
+		<keyword>year 1911</keyword>
+		<keyword>weapon</keyword>
+		<keyword>death</keyword>
+		<keyword>pistol</keyword>
+		<keyword>knife</keyword>
+		<keyword>professor</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>soldier</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>revolutionary</keyword>
+		<keyword>female revolutionary</keyword>
+		<keyword>revolution</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>money</keyword>
+		<keyword>car</keyword>
+		<keyword>driving</keyword>
+		<keyword>driving a car</keyword>
+		<keyword>federal agent</keyword>
+		<keyword>female farmer</keyword>
+		<keyword>blackjack</keyword>
+		<keyword>letter</keyword>
+		<keyword>dice</keyword>
+		<keyword>building</keyword>
+		<keyword>house</keyword>
+		<keyword>building on fire</keyword>
+		<keyword>buying a newspaper</keyword>
+		<keyword>fire</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>gang</keyword>
+		<keyword>gang violence</keyword>
+		<keyword>barn</keyword>
+		<keyword>burning barn</keyword>
+		<keyword>execution</keyword>
+		<keyword>hands tied</keyword>
+		<keyword>hands tied behind back</keyword>
+		<keyword>arizona territory</keyword>
+		<keyword>open world game</keyword>
+		<keyword>single player</keyword>
+		<keyword>antihero</keyword>
+		<keyword>laughter</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>cafe</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>ranger</keyword>
+		<keyword>wolf</keyword>
+		<keyword>general</keyword>
+		<keyword>sequel</keyword>
+		<keyword>siege</keyword>
+		<keyword>best selling video game</keyword>
+		<keyword>profanity</keyword>
+		<keyword>f word</keyword>
+		<keyword>skunk</keyword>
+		<keyword>cartoon skunk</keyword>
+		<keyword>1910s</keyword>
+		<keyword>reference to spaghetti western films</keyword>
+		<keyword>spiritual sequel</keyword>
+		<keyword>multiplatform</keyword>
+		<keyword>second part</keyword>
+		<keyword>outlaw</keyword>
+		<keyword>mexico</keyword>
+		<keyword>navajo indian</keyword>
+		<keyword>cheyenne indian</keyword>
+		<keyword>arapaho indian</keyword>
+		<keyword>apache indian</keyword>
+		<keyword>showdown</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>bar shootout</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>shootout</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>main character shot</keyword>
+		<keyword>violence</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>small western town</keyword>
+		<keyword>three word title</keyword>
+		<keyword>rhyme in title</keyword>
+		<keyword>duel</keyword>
+		<keyword>lasso</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>color in title</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>robbery</keyword>
+		<keyword>wagon master</keyword>
+		<keyword>construction foreman</keyword>
+		<keyword>cattle rancher</keyword>
+		<keyword>intercontinental railroad</keyword>
+		<keyword>fight on train roof</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>culture clash</keyword>
+		<keyword>settler</keyword>
+		<keyword>stampede</keyword>
+		<keyword>small town</keyword>
+		<keyword>mountain man</keyword>
+		<keyword>spinster</keyword>
+		<keyword>wager</keyword>
+		<keyword>marshal</keyword>
+		<keyword>wilderness</keyword>
+		<keyword>burial</keyword>
+		<keyword>grave</keyword>
+		<keyword>debt</keyword>
+		<keyword>brawl</keyword>
+		<keyword>dancehall girl</keyword>
+		<keyword>boom town</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>fortune hunter</keyword>
+		<keyword>military officer</keyword>
+		<keyword>widow</keyword>
+		<keyword>frontier</keyword>
+		<keyword>poker</keyword>
+		<keyword>raft</keyword>
+		<keyword>river</keyword>
+		<keyword>trapper</keyword>
+		<keyword>army</keyword>
+		<keyword>california</keyword>
+		<keyword>texas</keyword>
+		<keyword>kansas</keyword>
+		<keyword>utah</keyword>
+		<keyword>new mexico</keyword>
+		<keyword>colorado</keyword>
+		<keyword>gold rush</keyword>
+		<keyword>train</keyword>
+		<keyword>pioneer life</keyword>
+		<keyword>horse wrangler</keyword>
+		<keyword>lariat</keyword>
+		<keyword>whip</keyword>
+		<keyword>explosion</keyword>
+		<keyword>pioneer</keyword>
+		<keyword>train wreck</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>pony express</keyword>
+		<keyword>railroad agent</keyword>
+		<keyword>pinkerton agent</keyword>
+		<keyword>forest</keyword>
+		<keyword>prairie</keyword>
+		<keyword>desert</keyword>
+		<keyword>rocky mountains</keyword>
+		<keyword>trading post</keyword>
+		<keyword>fur</keyword>
+		<keyword>hunter</keyword>
+		<keyword>warrior</keyword>
+		<keyword>hanging</keyword>
+		<keyword>coffin</keyword>
+		<keyword>animal cruelty</keyword>
+		<keyword>hero</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>machete</keyword>
+		<keyword>burning house</keyword>
+		<keyword>undertaker</keyword>
+		<keyword>injury</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>kindness</keyword>
+		<keyword>compassion</keyword>
+		<keyword>blood</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>maverick</keyword>
+		<keyword>shooting a woman</keyword>
+		<keyword>part of trilogy</keyword>
+		<keyword>handgun</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>banker</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>escaped prisoner</keyword>
+		<keyword>river crossing</keyword>
+		<keyword>attack</keyword>
+		<keyword>wolf attack</keyword>
+		<keyword>whiskey</keyword>
+		<keyword>wagon train</keyword>
+		<keyword>valley</keyword>
+		<keyword>u.s. mexico border</keyword>
+		<keyword>treasure map</keyword>
+		<keyword>train station</keyword>
+		<keyword>train robbery</keyword>
+		<keyword>tequila</keyword>
+		<keyword>telephone</keyword>
+		<keyword>telegraph</keyword>
+		<keyword>stick up</keyword>
+		<keyword>steam locomotive</keyword>
+		<keyword>standoff</keyword>
+		<keyword>stagecoach</keyword>
+		<keyword>spurs</keyword>
+		<keyword>spanish mission</keyword>
+		<keyword>sombrero</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>smallpox</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>severe winter</keyword>
+		<keyword>saloon</keyword>
+		<keyword>saddle</keyword>
+		<keyword>saddlebags</keyword>
+		<keyword>river raft</keyword>
+		<keyword>rifle</keyword>
+		<keyword>revolver</keyword>
+		<keyword>revenge</keyword>
+		<keyword>ransom</keyword>
+		<keyword>rancher</keyword>
+		<keyword>railroad</keyword>
+		<keyword>post civil war</keyword>
+		<keyword>posse</keyword>
+		<keyword>poker game</keyword>
+		<keyword>paddock</keyword>
+		<keyword>nuevo pariso</keyword>
+		<keyword>native american</keyword>
+		<keyword>murder</keyword>
+		<keyword>molotov cocktail</keyword>
+		<keyword>miner</keyword>
+		<keyword>mexican army</keyword>
+		<keyword>merchant</keyword>
+		<keyword>manzanita</keyword>
+		<keyword>machine pistol</keyword>
+		<keyword>lawman</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>jail</keyword>
+		<keyword>insurrection</keyword>
+		<keyword>hotel</keyword>
+		<keyword>horse</keyword>
+		<keyword>honor</keyword>
+		<keyword>hogtie</keyword>
+		<keyword>hacienda</keyword>
+		<keyword>gunman</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>gun belt</keyword>
+		<keyword>gold mine</keyword>
+		<keyword>general store</keyword>
+		<keyword>gang member</keyword>
+		<keyword>gang leader</keyword>
+		<keyword>gambler</keyword>
+		<keyword>farmer</keyword>
+		<keyword>family farm</keyword>
+		<keyword>family crisis</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>dust</keyword>
+		<keyword>duster</keyword>
+		<keyword>drought</keyword>
+		<keyword>deer</keyword>
+		<keyword>cowboy boot</keyword>
+		<keyword>corral</keyword>
+		<keyword>church</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>cattle</keyword>
+		<keyword>canyon</keyword>
+		<keyword>cannon</keyword>
+		<keyword>cactus</keyword>
+		<keyword>cabin</keyword>
+		<keyword>butte</keyword>
+		<keyword>buffalo</keyword>
+		<keyword>buffalo rifle</keyword>
+		<keyword>buffalo hunter</keyword>
+		<keyword>bowie knife</keyword>
+		<keyword>bounty hunter</keyword>
+		<keyword>bear</keyword>
+		<keyword>bear attack</keyword>
+		<keyword>bartender</keyword>
+		<keyword>barn burning</keyword>
+		<keyword>bar girl</keyword>
+		<keyword>bank robbery</keyword>
+		<keyword>bandolier</keyword>
+		<keyword>bandolero</keyword>
+		<keyword>bandito</keyword>
+		<keyword>band of outlaws</keyword>
+		<keyword>arrest</keyword>
+		<keyword>armored car</keyword>
+		<keyword>mexican federale</keyword>
+		<keyword>3d animation</keyword>
+	</keywords>
+	<directors/>
+	<composers>
+		<composer> Bill Elm</composer>
+		<composer> Woody Jackson</composer>
+	</composers>
+	<producers>
+		<producer> Leslie Benzies</producer>
+		<producer> Adrián Castañeda</producer>
+		<producer> Andrew Egiziano</producer>
+		<producer> Michael Alan Erickson</producer>
+		<producer> Glen Hernandez</producer>
+		<producer> Dan Houser</producer>
+		<producer> Sam Houser</producer>
+		<producer> David Kunkler</producer>
+		<producer> Steve Martin</producer>
+		<producer> William Mills</producer>
+		<producer> Josh Needleman</producer>
+		<producer> John Ricchio</producer>
+		<producer> Rich Rosado</producer>
+		<producer> Adam Schardein</producer>
+		<producer> Eric Smith</producer>
+		<producer> Stewart Spilkin</producer>
+	</producers>
+	<writers>
+		<writer> Dan Houser</writer>
+		<writer> Michael Unsworth</writer>
+		<writer> Christian Cantamessa</writer>
+		<writer> Rupert Humphries</writer>
+		<writer> Michael Unsworth</writer>
+		<writer> Greg Johnson</writer>
+		<writer> Lazlow</writer>
+		<writer> Rupert Humphries</writer>
+		<writer> Ayana Osada</writer>
+		<writer> Vincent Parker</writer>
+		<writer> Anthony Litton</writer>
+		<writer> Hugh Michaels</writer>
+		<writer> Sanford Santacroce</writer>
+		<writer> Naomi Waletzky</writer>
+		<writer> Dan Houser</writer>
+		<writer> Lazlow</writer>
+		<writer> Michael Unsworth</writer>
+		<writer> John Zurhellen</writer>
+	</writers>
+	<editors/>
+</doc>

@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<doc id="tt9281190">
+	<docid>tt9281190</docid>
+	<title>El dragón</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjlmNzcxZDEtOTdjZi00OTNjLWJlOGUtY2RhNmY3ZjQ1OWFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After the murder of his parents when he was a little kid, Mexican Miguel Garza is sent away to Japan. 20 years later, he has to go back to his home country as the new heir of his family's cartel.</plot>
+	<countries>
+		<country>Mexico</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sebastián Rulli</actor>
+			<role>Miguel Garza</role>
+		</credit>
+		<credit>
+			<actor>Renata Notni</actor>
+			<role>Adela Cruz</role>
+		</credit>
+		<credit>
+			<actor>Manuel Balbi</actor>
+			<role>Héctor Bernal</role>
+		</credit>
+		<credit>
+			<actor>Cassandra Sanchez Navarro</actor>
+			<role>Chisca Garza</role>
+		</credit>
+		<credit>
+			<actor>Juan Pablo Gil</actor>
+			<role>Jorge Garza</role>
+		</credit>
+		<credit>
+			<actor>Roberto Mateos</actor>
+			<role>Epigmenio Moncada</role>
+		</credit>
+		<credit>
+			<actor>Mauricio Pimentel</actor>
+			<role>Peligros</role>
+		</credit>
+		<credit>
+			<actor>Federico Ayos</actor>
+			<role>El Flaco</role>
+		</credit>
+		<credit>
+			<actor>Irina Baeva</actor>
+			<role>Jimena Ortiz</role>
+		</credit>
+		<credit>
+			<actor>Cynthia Klitbo</actor>
+			<role>Dora</role>
+		</credit>
+		<credit>
+			<actor>Natasha Domínguez</actor>
+			<role>Claudia</role>
+		</credit>
+		<credit>
+			<actor>Edison Ruíz</actor>
+			<role>Tacho</role>
+		</credit>
+		<credit>
+			<actor>Javier Gómez</actor>
+			<role>Carlos Duarte</role>
+		</credit>
+		<credit>
+			<actor>Sofía Castro</actor>
+			<role>Kenia</role>
+		</credit>
+		<credit>
+			<actor>Jean Paul Leroux</actor>
+			<role>Trejo</role>
+		</credit>
+		<credit>
+			<actor>Rubén Sanz</actor>
+			<role>Valentín Soria</role>
+		</credit>
+		<credit>
+			<actor>Alejandro Durán</actor>
+			<role>Ishiro</role>
+		</credit>
+		<credit>
+			<actor>Paloma Ruiz de Alda</actor>
+			<role>Ana</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Mexico">September 30 2019</releasedate>
+		<releasedate country="United States">September 30 2019</releasedate>
+		<releasedate country="United Arab Emirates">October 4 2019</releasedate>
+		<releasedate country="Australia">October 4 2019</releasedate>
+		<releasedate country="Brazil">October 4 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>telenovela</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>tokyo japan</keyword>
+		<keyword>mexico</keyword>
+		<keyword>japan</keyword>
+		<keyword>death of parents</keyword>
+		<keyword>crime syndicate</keyword>
+		<keyword>criminal organization</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>drug cartel</keyword>
+		<keyword>mexican drug cartel</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>drug trafficking</keyword>
+		<keyword>drug trafficker</keyword>
+		<keyword>martial artist</keyword>
+	</keywords>
+	<directors>
+		<director> Carlos Cock</director>
+		<director> Álvaro Curiel</director>
+		<director> Pavel Vazquez</director>
+		<director> Mauricio Cruz</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Billy Rovzar</producer>
+		<producer> Carlos Bardasano</producer>
+		<producer> Jorge Sastoque Roa</producer>
+		<producer> Laura Wills</producer>
+	</producers>
+	<writers>
+		<writer> Carlos Algara</writer>
+		<writer> Esther Feldman</writer>
+		<writer> Sandra Finkelstain</writer>
+		<writer> Marisel Lloberas</writer>
+		<writer> Arturo Pérez-Reverte</writer>
+		<writer> Arturo Pérez-Reverte</writer>
+		<writer> Daniela Richer</writer>
+	</writers>
+	<editors/>
+</doc>

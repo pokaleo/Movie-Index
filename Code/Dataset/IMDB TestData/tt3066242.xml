@@ -1,0 +1,255 @@
+<?xml version="1.0" ?>
+<doc id="tt3066242">
+	<docid>tt3066242</docid>
+	<title>RWBY</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTM4MTllODUtNTQzOS00ZDVlLWIyMjAtMzI1OGZmZWY1NGMxXkEyXkFqcGdeQXVyMjIxNjY2NjE@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">13</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>Four Teenage girls form Team RWBY and train to fight crime and monsters known as the Grimm, while the world of Remnant remains on the brink of an all out war.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Lindsay Jones</actor>
+			<role>Ruby Rose</role>
+		</credit>
+		<credit>
+			<actor>Kara Eberle</actor>
+			<role>Weiss Schnee</role>
+		</credit>
+		<credit>
+			<actor>Barbara Dunkelman</actor>
+			<role>Yang Xiao Long</role>
+		</credit>
+		<credit>
+			<actor>Arryn Zech</actor>
+			<role>Blake Belladonna</role>
+		</credit>
+		<credit>
+			<actor>Miles Luna</actor>
+			<role>Jaune Arc</role>
+		</credit>
+		<credit>
+			<actor>Samantha Ireland</actor>
+			<role>Nora Valkyrie</role>
+		</credit>
+		<credit>
+			<actor>Neath Oum</actor>
+			<role>Lie Ren</role>
+		</credit>
+		<credit>
+			<actor>Aaron Dismuke</actor>
+			<role>Oscar Pine</role>
+		</credit>
+		<credit>
+			<actor>Shannon McCormick</actor>
+			<role>Professor Ozpin</role>
+		</credit>
+		<credit>
+			<actor>Vic Mignogna</actor>
+			<role>Qrow Branwen</role>
+		</credit>
+		<credit>
+			<actor>Jessica Nigri</actor>
+			<role>Cinder Fall</role>
+		</credit>
+		<credit>
+			<actor>Jason Rose</actor>
+			<role>James Ironwood</role>
+		</credit>
+		<credit>
+			<actor>Katie Newville</actor>
+			<role>Emerald Sustrai</role>
+		</credit>
+		<credit>
+			<actor>Michael Jones</actor>
+			<role>Sun Wukong</role>
+		</credit>
+		<credit>
+			<actor>Jen Brown</actor>
+			<role>Pyrrha Nikos</role>
+		</credit>
+		<credit>
+			<actor>William Orendorff</actor>
+			<role>Grimm Creature Vocal Sound Effects</role>
+		</credit>
+		<credit>
+			<actor>Taylor McNee</actor>
+			<role>Penny Polendina</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Maxwell</actor>
+			<role>Winter Schnee</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">July 18 2013</releasedate>
+		<releasedate country="Germany">August 16 2013</releasedate>
+		<releasedate country="Philippines">November 12 2013</releasedate>
+		<releasedate country="Japan">November 14 2015</releasedate>
+		<releasedate country="Japan">December 9 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Russia">14+</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>teenager</keyword>
+		<keyword>huntress</keyword>
+		<keyword>weapons</keyword>
+		<keyword>magic</keyword>
+		<keyword>gods</keyword>
+		<keyword>school</keyword>
+		<keyword>monster</keyword>
+		<keyword>team</keyword>
+		<keyword>combat</keyword>
+		<keyword>grimm</keyword>
+		<keyword>future</keyword>
+		<keyword>gun</keyword>
+		<keyword>fairy tale</keyword>
+		<keyword>fight</keyword>
+		<keyword>maiden</keyword>
+		<keyword>relics</keyword>
+		<keyword>lie</keyword>
+		<keyword>dust</keyword>
+		<keyword>aura</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>anime inspired</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>superhero</keyword>
+		<keyword>anime animation</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>web series</keyword>
+	</keywords>
+	<directors>
+		<director> Kerry Shawcross</director>
+		<director> Monty Oum</director>
+		<director> Gray G. Haddock</director>
+		<director> Miles Luna</director>
+		<director> Connor Pickens</director>
+		<director> Dustin Matthews</director>
+		<director> Paula Decanini</director>
+	</directors>
+	<composers>
+		<composer> Jeff Williams</composer>
+		<composer> Alexander William Abraham</composer>
+		<composer> Steve Goldshein</composer>
+		<composer> Martín De Lima</composer>
+		<composer> Casey Lee Williams</composer>
+		<composer> James Landino</composer>
+		<composer> Peter Jones</composer>
+		<composer> Matthew Wang</composer>
+	</composers>
+	<producers>
+		<producer> Burnie Burns</producer>
+		<producer> Matt Hullum</producer>
+		<producer> Gray G. Haddock</producer>
+		<producer> Koen Wooten</producer>
+		<producer> Chrysta Hiser</producer>
+		<producer> Kerry Shawcross</producer>
+		<producer> Luis Vazquez</producer>
+		<producer> Laura Yates</producer>
+		<producer> Joe Clary</producer>
+		<producer> Shane Davis</producer>
+		<producer> Rob Thomson</producer>
+		<producer> Nick Todd</producer>
+		<producer> Scott Morgan</producer>
+		<producer> Sean Murphy</producer>
+		<producer> Kathleen Zuelch</producer>
+		<producer> Nicole Fisher</producer>
+		<producer> Jason Kane</producer>
+		<producer> Jennifer K. Tidwell</producer>
+		<producer> Jamie Smith</producer>
+		<producer> Matthew Cruz</producer>
+		<producer> Alejandro Cárdenas</producer>
+		<producer> Melba Martinez</producer>
+		<producer> Ben Ernst</producer>
+		<producer> Todd Womack</producer>
+		<producer> Thea Goddard</producer>
+		<producer> Austin Himes</producer>
+		<producer> Laura Rivera</producer>
+		<producer> Kane Qian</producer>
+		<producer> Crystal Zeng</producer>
+		<producer> Emily Hamel</producer>
+		<producer> Dav Tian</producer>
+		<producer> Jacky Jiang</producer>
+		<producer> Patrick Salazar</producer>
+		<producer> Maddy Bethard</producer>
+		<producer> Austin Harper</producer>
+		<producer> Korina Leal</producer>
+		<producer> Diane Testa</producer>
+		<producer> Amanda Lomonaco</producer>
+		<producer> Miles Luna</producer>
+		<producer> Monty Oum</producer>
+	</producers>
+	<writers>
+		<writer> Miles Luna</writer>
+		<writer> Miles Luna</writer>
+		<writer> Miles Luna</writer>
+		<writer> Miles Luna</writer>
+		<writer> Kerry Shawcross</writer>
+		<writer> Kerry Shawcross</writer>
+		<writer> Kerry Shawcross</writer>
+		<writer> Kerry Shawcross</writer>
+		<writer> Monty Oum</writer>
+		<writer> Monty Oum</writer>
+		<writer> Monty Oum</writer>
+		<writer> Monty Oum</writer>
+		<writer> Monty Oum</writer>
+		<writer> Kiersi Burkhart</writer>
+		<writer> Kiersi Burkhart</writer>
+		<writer> Kiersi Burkhart</writer>
+		<writer> Kiersi Burkhart</writer>
+		<writer> Eddy Rivas</writer>
+		<writer> Eddy Rivas</writer>
+		<writer> Eddy Rivas</writer>
+		<writer> Eddy Rivas</writer>
+	</writers>
+	<editors>
+		<editor> Richard Norman</editor>
+		<editor> Connor Pickens</editor>
+		<editor> Gray G. Haddock</editor>
+		<editor> Daniel Fabelo</editor>
+		<editor> Stan Lewis</editor>
+		<editor> Lauren Aptekar</editor>
+		<editor> Jackie Kuenstler</editor>
+		<editor> Cole Gallian</editor>
+		<editor> Dalton Allen</editor>
+		<editor> Dalton Allen</editor>
+		<editor> James K. Crouch</editor>
+	</editors>
+</doc>

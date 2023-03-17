@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<doc id="tt4380324">
+	<docid>tt4380324</docid>
+	<title>800 Words</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWZhNzhhYmYtMzc5ZS00ZmQ1LWI3MGUtNzM4Yzc1NzJmNWY0XkEyXkFqcGdeQXVyNjgwNTMzNjc@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>A recently widowed father quits his job as a popular 800-word columnist for a top-selling Sydney newspaper.</plot>
+	<countries>
+		<country>New Zealand</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Erik Thomson</actor>
+			<role>George Turner</role>
+		</credit>
+		<credit>
+			<actor>Melina Vidler</actor>
+			<role>Shay Turner</role>
+		</credit>
+		<credit>
+			<actor>Benson Jack Anthony</actor>
+			<role>Arlo Turner</role>
+		</credit>
+		<credit>
+			<actor>Michelle Langstone</actor>
+			<role>Fiona</role>
+		</credit>
+		<credit>
+			<actor>Rick Donald</actor>
+			<role>Woody</role>
+		</credit>
+		<credit>
+			<actor>Anna Jullienne</actor>
+			<role>Katie</role>
+		</credit>
+		<credit>
+			<actor>Emma Leonard</actor>
+			<role>Tracey</role>
+		</credit>
+		<credit>
+			<actor>Jonny Brugh</actor>
+			<role>Monty</role>
+		</credit>
+		<credit>
+			<actor>John Leigh</actor>
+			<role>Constable Tom</role>
+		</credit>
+		<credit>
+			<actor>Cian Elyse White</actor>
+			<role>Hannah</role>
+		</credit>
+		<credit>
+			<actor>Alex Tarrant</actor>
+			<role>Ike</role>
+		</credit>
+		<credit>
+			<actor>Rob Kipa-Williams</actor>
+			<role>Zac</role>
+		</credit>
+		<credit>
+			<actor>Peter Elliott</actor>
+			<role>Big Mac</role>
+		</credit>
+		<credit>
+			<actor>Manon Blackman</actor>
+			<role>Lindsay</role>
+		</credit>
+		<credit>
+			<actor>Reon Bell</actor>
+			<role>Billy</role>
+		</credit>
+		<credit>
+			<actor>Olivia Tennet</actor>
+			<role>Siouxsie</role>
+		</credit>
+		<credit>
+			<actor>Paul Glover</actor>
+			<role>Bill Jnr</role>
+		</credit>
+		<credit>
+			<actor>Bridie Carter</actor>
+			<role>Jan</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">September 15 2015</releasedate>
+		<releasedate country="Canada">September 15 2015</releasedate>
+		<releasedate country="United Kingdom">September 15 2015</releasedate>
+		<releasedate country="United States">September 15 2015</releasedate>
+		<releasedate country="New Zealand">November 5 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>father</keyword>
+	</keywords>
+	<directors>
+		<director> Mike Smith</director>
+		<director> Michael Hurst</director>
+		<director> Caroline Bell Booth</director>
+		<director> Pino Amenta</director>
+		<director> Murray Keane</director>
+		<director> Helena Brooks</director>
+		<director> Chris Bailey</director>
+	</directors>
+	<composers>
+		<composer> Karl Sölve Steven</composer>
+	</composers>
+	<producers>
+		<producer> Kelly Martin</producer>
+		<producer> Tina Archibald</producer>
+		<producer> Chris Bailey</producer>
+		<producer> Erik Thomson</producer>
+		<producer> James Griffin</producer>
+		<producer> John Holmes</producer>
+		<producer> Julie McGauran</producer>
+		<producer> Chris Hampson</producer>
+	</producers>
+	<writers>
+		<writer> James Griffin</writer>
+		<writer> Pip Hall</writer>
+		<writer> Pip Hall</writer>
+		<writer> Kate McDermott</writer>
+		<writer> Timothy Balme</writer>
+		<writer> Sarah-Kate Lynch</writer>
+		<writer> Maxine Fleming</writer>
+		<writer> Michael Beran</writer>
+		<writer> Natalie Medlock</writer>
+	</writers>
+	<editors>
+		<editor> Eric De Beus</editor>
+		<editor> Gary Hunt</editor>
+		<editor> Paul Sutorius</editor>
+		<editor> Gretchen Peterson</editor>
+	</editors>
+</doc>

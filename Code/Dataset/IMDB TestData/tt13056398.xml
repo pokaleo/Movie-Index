@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<doc id="tt13056398">
+	<docid>tt13056398</docid>
+	<title>Alice in Borderlands</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWFmMDQxNTctMTY0NC00OWFmLTkxYjctYmI4YjQzNWE0NzFmXkEyXkFqcGdeQXVyMTE2MDU0NzAw._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">23</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>A group of bored delinquents are transported to a parallel wasteland as part of a survival game.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>Japanese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Yoshimasa Hosoya</actor>
+			<role>Ryohei Arisu</role>
+		</credit>
+		<credit>
+			<actor>Takahiro Sakurai</actor>
+			<role>Shuntaro Chishiya</role>
+		</credit>
+		<credit>
+			<actor>Maaya Sakamoto</actor>
+			<role>Saori Shibuki</role>
+		</credit>
+		<credit>
+			<actor>Tatsuhisa Suzuki</actor>
+			<role>Daisuke Karube</role>
+		</credit>
+		<credit>
+			<actor>Minako Kotobuki</actor>
+			<role>Yuzuha Usagi</role>
+		</credit>
+		<credit>
+			<actor>Tsubasa Yonaga</actor>
+			<role>Chota Segawa</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Japan">October 15 2014</releasedate>
+		<releasedate country="Australia">October 17 2014</releasedate>
+		<releasedate country="Japan">October 17 2014</releasedate>
+		<releasedate country="United States">December 21 2021</releasedate>
+		<releasedate country="Singapore">July 4 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>friendship</keyword>
+		<keyword>wasteland</keyword>
+		<keyword>death game</keyword>
+		<keyword>survival</keyword>
+		<keyword>action violence</keyword>
+		<keyword>gunplay</keyword>
+		<keyword>explosion</keyword>
+		<keyword>attack</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>based on manga</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>implied sex</keyword>
+		<keyword>running</keyword>
+		<keyword>anime animation</keyword>
+	</keywords>
+	<directors>
+		<director> Hideki Tachibana</director>
+	</directors>
+	<composers>
+		<composer> Hiroaki Tsutsumi</composer>
+	</composers>
+	<producers/>
+	<writers>
+		<writer> Haro Aso</writer>
+		<writer> Ryôsuke Nakamura</writer>
+	</writers>
+	<editors/>
+</doc>

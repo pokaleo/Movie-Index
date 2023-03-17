@@ -1,0 +1,290 @@
+<?xml version="1.0" ?>
+<doc id="tt9000224">
+	<docid>tt9000224</docid>
+	<title>The Assistant</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjBkMDZkNjctNmZhNi00Mzc5LTk0OTctNzFlMDExYzM3ZDNhXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>III 2019</year>
+	<runningtimes>
+		<runningtime country="default">87</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A searing look at a day in the life of an assistant to a powerful executive. As Jane follows her daily routine, she grows increasingly aware of the insidious abuse that threatens every aspect of her position.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Julia Garner</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Owen Holland</actor>
+			<role>Driver</role>
+		</credit>
+		<credit>
+			<actor>Jon Orsini</actor>
+			<role>Male Assistant 2</role>
+		</credit>
+		<credit>
+			<actor>Rory Kulz</actor>
+			<role>Executive 3</role>
+		</credit>
+		<credit>
+			<actor>Migs Govea</actor>
+			<role>Executive 1</role>
+		</credit>
+		<credit>
+			<actor>Daoud Heidami</actor>
+			<role>Executive 2</role>
+		</credit>
+		<credit>
+			<actor>Ben Maters</actor>
+			<role>Executive 4</role>
+		</credit>
+		<credit>
+			<actor>Noah Robbins</actor>
+			<role>Male Assistant 1</role>
+		</credit>
+		<credit>
+			<actor>Tony Torn</actor>
+			<role>Boss</role>
+		</credit>
+		<credit>
+			<actor>Dagmara Dominczyk</actor>
+			<role>Ellen</role>
+		</credit>
+		<credit>
+			<actor>Alexander Chaplin</actor>
+			<role>Max</role>
+		</credit>
+		<credit>
+			<actor>Bregje Heinen</actor>
+			<role>Tatiana</role>
+		</credit>
+		<credit>
+			<actor>Devon Caraway</actor>
+			<role>Non-Fiction Executive 1</role>
+		</credit>
+		<credit>
+			<actor>Genny Lis Padilla</actor>
+			<role>Non-Fiction Executive 2</role>
+		</credit>
+		<credit>
+			<actor>Clara Wong</actor>
+			<role>Tess</role>
+		</credit>
+		<credit>
+			<actor>James C.B. Gray</actor>
+			<role>Postal Worker</role>
+		</credit>
+		<credit>
+			<actor>Sophie Knapp</actor>
+			<role>Child 1</role>
+		</credit>
+		<credit>
+			<actor>Hunter Hojnowski</actor>
+			<role>Child 2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 30 2019</releasedate>
+		<releasedate country="United States">January 24 2020</releasedate>
+		<releasedate country="United Kingdom">January 31 2020</releasedate>
+		<releasedate country="Poland">January 31 2020</releasedate>
+		<releasedate country="United States">January 31 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Belgium">KT</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Mexico">R</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>abuse</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>intimidation</keyword>
+		<keyword>degradation</keyword>
+		<keyword>sexism</keyword>
+		<keyword>whistleblowing</keyword>
+		<keyword>girl</keyword>
+		<keyword>receptionist</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>me too movement</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>workplace drama</keyword>
+		<keyword>workplace harassment</keyword>
+		<keyword>workplace abuse</keyword>
+		<keyword>workplace bullying</keyword>
+		<keyword>hostile workplace</keyword>
+		<keyword>workplace stress</keyword>
+		<keyword>woman in workplace</keyword>
+		<keyword>male dominated workplace</keyword>
+		<keyword>workplace</keyword>
+		<keyword>office worker</keyword>
+		<keyword>office job</keyword>
+		<keyword>office work</keyword>
+		<keyword>job</keyword>
+		<keyword>employee</keyword>
+		<keyword>boss from hell</keyword>
+		<keyword>boss</keyword>
+		<keyword>corporation</keyword>
+		<keyword>dead end job</keyword>
+		<keyword>corporate world</keyword>
+		<keyword>boss employee relationship</keyword>
+		<keyword>boss subordinate relationship</keyword>
+		<keyword>employee employee relationship</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>company executive</keyword>
+		<keyword>f rated</keyword>
+		<keyword>triple f rated</keyword>
+		<keyword>office assistant</keyword>
+		<keyword>listening to a car radio</keyword>
+		<keyword>new york city</keyword>
+		<keyword>prologue</keyword>
+		<keyword>elevator</keyword>
+		<keyword>coffee</keyword>
+		<keyword>copy machine</keyword>
+		<keyword>breakfast cereal</keyword>
+		<keyword>printing machine</keyword>
+		<keyword>telephone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>manuscript</keyword>
+		<keyword>apology</keyword>
+		<keyword>computer</keyword>
+		<keyword>mail</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>doughnut</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>earphones</keyword>
+		<keyword>text on screen</keyword>
+		<keyword>water cooler</keyword>
+		<keyword>money</keyword>
+		<keyword>office</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>nickname</keyword>
+		<keyword>wastepaper basket</keyword>
+		<keyword>delivery man</keyword>
+		<keyword>paper bag</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>laughter</keyword>
+		<keyword>cleaning</keyword>
+		<keyword>washing dishes</keyword>
+		<keyword>spanish</keyword>
+		<keyword>mailman</keyword>
+		<keyword>little boy</keyword>
+		<keyword>pretending to be a horse</keyword>
+		<keyword>babysitting</keyword>
+		<keyword>blustering</keyword>
+		<keyword>bathroom</keyword>
+		<keyword>mirror</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>uncle niece relationship</keyword>
+		<keyword>intercom</keyword>
+		<keyword>mandarin</keyword>
+		<keyword>chinese</keyword>
+		<keyword>microwave oven</keyword>
+		<keyword>bottled water</keyword>
+		<keyword>lie</keyword>
+		<keyword>promise</keyword>
+		<keyword>limousine</keyword>
+		<keyword>tapping on a window</keyword>
+		<keyword>scarf</keyword>
+		<keyword>hooded coat</keyword>
+		<keyword>ex waitress</keyword>
+		<keyword>earring</keyword>
+		<keyword>film production company</keyword>
+		<keyword>false accusation of jealousy</keyword>
+		<keyword>snowing</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>threat to fire someone</keyword>
+		<keyword>compromise</keyword>
+		<keyword>ice cube</keyword>
+		<keyword>blender</keyword>
+		<keyword>corruption</keyword>
+		<keyword>limousine driver</keyword>
+		<keyword>dvd</keyword>
+		<keyword>actress</keyword>
+		<keyword>audition tape</keyword>
+		<keyword>dvd player</keyword>
+		<keyword>street life</keyword>
+		<keyword>deli</keyword>
+		<keyword>ombudsman</keyword>
+		<keyword>written by director</keyword>
+		<keyword>telephone terror</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>unnamed character</keyword>
+		<keyword>executive</keyword>
+		<keyword>filmmaking</keyword>
+		<keyword>movie industry</keyword>
+		<keyword>entertainment industry</keyword>
+		<keyword>entertainment business</keyword>
+		<keyword>executive assistant</keyword>
+		<keyword>corporate executive</keyword>
+		<keyword>female filmmaker</keyword>
+		<keyword>aspiring film producer</keyword>
+	</keywords>
+	<directors>
+		<director> Kitty Green</director>
+	</directors>
+	<composers>
+		<composer> Tamar-kali</composer>
+	</composers>
+	<producers>
+		<producer> P. Jennifer Dana</producer>
+		<producer> Abigail Disney</producer>
+		<producer> Philipp Engelhorn</producer>
+		<producer> Avy Eschenasy</producer>
+		<producer> Leah Giblin</producer>
+		<producer> Kitty Green</producer>
+		<producer> John Howard</producer>
+		<producer> Ross Jacobson</producer>
+		<producer> Scott Macaulay</producer>
+		<producer> Sean King O'Grady</producer>
+		<producer> Jimmy Price</producer>
+		<producer> Mark Roberts</producer>
+		<producer> James Schamus</producer>
+		<producer> The Level Forward Team</producer>
+		<producer> Rita Walsh</producer>
+	</producers>
+	<writers>
+		<writer> Kitty Green</writer>
+	</writers>
+	<editors>
+		<editor> Kitty Green</editor>
+		<editor> Blair McClendon</editor>
+	</editors>
+</doc>

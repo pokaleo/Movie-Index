@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<doc id="tt11621710">
+	<docid>tt11621710</docid>
+	<title>MacGruber</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTBjZTBlY2EtNjIwZC00ZWU1LWI2ODUtYzFmOTJhNDUyOWI1XkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>TV series based on the 'Saturday Night Live' sketch spoofing the hit 1980s action series 'MacGyver'.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Will Forte</actor>
+			<role>MacGruber</role>
+		</credit>
+		<credit>
+			<actor>Kristen Wiig</actor>
+			<role>Vicki St. Elmo</role>
+		</credit>
+		<credit>
+			<actor>Ryan Phillippe</actor>
+			<role>Dixon Piper</role>
+		</credit>
+		<credit>
+			<actor>Laurence Fishburne</actor>
+			<role>Barrett Fasoose</role>
+		</credit>
+		<credit>
+			<actor>Sam Elliott</actor>
+			<role>Perry</role>
+		</credit>
+		<credit>
+			<actor>Billy Zane</actor>
+			<role>Enos Queeth</role>
+		</credit>
+		<credit>
+			<actor>Joseph Lee Anderson</actor>
+			<role>Maj. Harold Kernst</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Czajkowski</actor>
+			<role>Bex Dawson</role>
+		</credit>
+		<credit>
+			<actor>Vartan</actor>
+			<role>Baker Jaxx</role>
+		</credit>
+		<credit>
+			<actor>Marielle Heller</actor>
+			<role>Mac's Mom</role>
+		</credit>
+		<credit>
+			<actor>Mac Ericsson</actor>
+			<role>Lil' MacGruber</role>
+		</credit>
+		<credit>
+			<actor>Ryan Kendrick</actor>
+			<role>Mac's Dad</role>
+		</credit>
+		<credit>
+			<actor>Ella Ayberk</actor>
+			<role>Irina Poliskaya</role>
+		</credit>
+		<credit>
+			<actor>Josh Horton</actor>
+			<role>NSA Nerd</role>
+		</credit>
+		<credit>
+			<actor>Angel Rosario Jr.</actor>
+			<role>Chance Tucker</role>
+		</credit>
+		<credit>
+			<actor>Maya Rudolph</actor>
+			<role>Casey</role>
+		</credit>
+		<credit>
+			<actor>Jon Snow</actor>
+			<role>Queeth, 1985</role>
+		</credit>
+		<credit>
+			<actor>Marie Wagenman</actor>
+			<role>Lucy</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Poland">December 16 2021</releasedate>
+		<releasedate country="United States">December 16 2021</releasedate>
+		<releasedate country="Australia">December 17 2021</releasedate>
+		<releasedate country="Italy">December 18 2021</releasedate>
+		<releasedate country="Canada">January 9 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>1980s</keyword>
+		<keyword>parody comedy</keyword>
+	</keywords>
+	<directors>
+		<director> John Solomon</director>
+		<director> Jorma Taccone</director>
+	</directors>
+	<composers>
+		<composer> Matthew Compton</composer>
+	</composers>
+	<producers>
+		<producer> Steve Burgess</producer>
+		<producer> Erin David</producer>
+		<producer> Will Forte</producer>
+		<producer> John Goldwyn</producer>
+		<producer> Heather Imerman</producer>
+		<producer> Tim McAuliffe</producer>
+		<producer> Lorne Michaels</producer>
+		<producer> David Noel</producer>
+		<producer> Andrew Singer</producer>
+		<producer> John Solomon</producer>
+		<producer> Jorma Taccone</producer>
+		<producer> Kassia Miller</producer>
+	</producers>
+	<writers>
+		<writer> Will Forte</writer>
+		<writer> Will Forte</writer>
+		<writer> John Solomon</writer>
+		<writer> John Solomon</writer>
+		<writer> Jorma Taccone</writer>
+		<writer> Jorma Taccone</writer>
+		<writer> Nguyen Fletcher Le</writer>
+		<writer> Tim McAuliffe</writer>
+		<writer> Kassia Miller</writer>
+		<writer> David Noel</writer>
+	</writers>
+	<editors>
+		<editor> Nick Olah</editor>
+		<editor> Matt Raichel</editor>
+	</editors>
+</doc>

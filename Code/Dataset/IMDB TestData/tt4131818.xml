@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<doc id="tt4131818">
+	<docid>tt4131818</docid>
+	<title>The Hot Zone</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzU5OWNmZjktYTJiOC00MTc4LThkMzQtODdmNTRjNmVmMWQwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>History</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>The frightening spread of the Ebolavirus (season 1) and anthrax (season 2).</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Julianna Margulies</actor>
+			<role>Dr. Nancy Jaax</role>
+		</credit>
+		<credit>
+			<actor>Tony Goldwyn</actor>
+			<role>Bruce Ivins</role>
+		</credit>
+		<credit>
+			<actor>Noah Emmerich</actor>
+			<role>Lt. Col. Jerry Jaax</role>
+		</credit>
+		<credit>
+			<actor>Daniel Dae Kim</actor>
+			<role>Matthew Ryker</role>
+		</credit>
+		<credit>
+			<actor>Dylan Baker</actor>
+			<role>Ed Copak</role>
+		</credit>
+		<credit>
+			<actor>Topher Grace</actor>
+			<role>Dr. Peter Jahrling</role>
+		</credit>
+		<credit>
+			<actor>Ian Colletti</actor>
+			<role>Agent Chris Moore</role>
+		</credit>
+		<credit>
+			<actor>Liam Cunningham</actor>
+			<role>Wade Carter</role>
+		</credit>
+		<credit>
+			<actor>Paul James</actor>
+			<role>Ben Gellis</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Matsui</actor>
+			<role>Jody Hall</role>
+		</credit>
+		<credit>
+			<actor>Carlos Gonzalez-Vio</actor>
+			<role>Simon Kurz</role>
+		</credit>
+		<credit>
+			<actor>Lenny Platt</actor>
+			<role>Capt. Kyle Orman</role>
+		</credit>
+		<credit>
+			<actor>James D'Arcy</actor>
+			<role>Travis Rhodes</role>
+		</credit>
+		<credit>
+			<actor>Morgan Kelly</actor>
+			<role>Eric Sykes</role>
+		</credit>
+		<credit>
+			<actor>Robert Wisdom</actor>
+			<role>Col. Vernon Tucker</role>
+		</credit>
+		<credit>
+			<actor>Nick Searcy</actor>
+			<role>Frank Mays</role>
+		</credit>
+		<credit>
+			<actor>Mark Kelly</actor>
+			<role>Bruce Domanski</role>
+		</credit>
+		<credit>
+			<actor>Aiden Glenn</actor>
+			<role>Jason Jaax</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Italy">May 26 2019</releasedate>
+		<releasedate country="Philippines">May 26 2019</releasedate>
+		<releasedate country="Brazil">May 27 2019</releasedate>
+		<releasedate country="Canada">May 27 2019</releasedate>
+		<releasedate country="Poland">May 27 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">14</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Mexico">TV-14</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>female protagonist</keyword>
+		<keyword>scientist</keyword>
+		<keyword>army</keyword>
+		<keyword>hysteria</keyword>
+		<keyword>research</keyword>
+		<keyword>military</keyword>
+		<keyword>infection</keyword>
+		<keyword>virginia</keyword>
+		<keyword>primate</keyword>
+		<keyword>quarantine</keyword>
+		<keyword>death</keyword>
+		<keyword>based on bestseller</keyword>
+		<keyword>doctor</keyword>
+		<keyword>virus</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>1980s</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>male soldier</keyword>
+		<keyword>investigation</keyword>
+		<keyword>timeframe 1980s</keyword>
+		<keyword>anthrax</keyword>
+		<keyword>ebola</keyword>
+		<keyword>cdc</keyword>
+		<keyword>bl4</keyword>
+		<keyword>army scientist</keyword>
+		<keyword>scientists</keyword>
+		<keyword>infected monkey</keyword>
+		<keyword>infected animal</keyword>
+		<keyword>infected</keyword>
+		<keyword>fbi</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>center for disease control</keyword>
+		<keyword>u.s. centers for disease control and prevention</keyword>
+		<keyword>infected village</keyword>
+		<keyword>reference to september 11 2001</keyword>
+		<keyword>september 11 2001</keyword>
+		<keyword>post september 11 2001</keyword>
+		<keyword>terrorist attack investigation</keyword>
+		<keyword>deadly bacteria</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>communicable disease</keyword>
+		<keyword>chequered past</keyword>
+		<keyword>united states postal service</keyword>
+		<keyword>usps</keyword>
+		<keyword>us postal service</keyword>
+		<keyword>u.s. postal service</keyword>
+		<keyword>postal service</keyword>
+		<keyword>rainforest</keyword>
+		<keyword>disease</keyword>
+		<keyword>africa</keyword>
+		<keyword>outbreak</keyword>
+		<keyword>pathogen</keyword>
+		<keyword>blood</keyword>
+		<keyword>ebola virus</keyword>
+		<keyword>based on book</keyword>
+		<keyword>cleveland ohio</keyword>
+		<keyword>bomb</keyword>
+		<keyword>passenger</keyword>
+		<keyword>cave</keyword>
+		<keyword>operation</keyword>
+		<keyword>soldier</keyword>
+		<keyword>swat team</keyword>
+		<keyword>fear</keyword>
+		<keyword>mutation</keyword>
+		<keyword>dallas texas</keyword>
+		<keyword>victim</keyword>
+		<keyword>texas</keyword>
+	</keywords>
+	<directors>
+		<director> Nick Murphy</director>
+		<director> Michael Uppendahl</director>
+		<director> John Fawcett</director>
+		<director> Courtney Hunt</director>
+		<director> Daniel Percival</director>
+	</directors>
+	<composers>
+		<composer> Sean Callery</composer>
+		<composer> John Paesano</composer>
+	</composers>
+	<producers>
+		<producer> David W. Zucker</producer>
+		<producer> Lynda Obst</producer>
+		<producer> Brian Peterson</producer>
+		<producer> Richard Preston</producer>
+		<producer> Ridley Scott</producer>
+		<producer> Jordan Sheehan</producer>
+		<producer> Kelly Souders</producer>
+		<producer> Jeff Vintar</producer>
+		<producer> Carina Sposato</producer>
+		<producer> Greig Buckle</producer>
+		<producer> Lena Cordina</producer>
+		<producer> James V. Hart</producer>
+		<producer> Geoffrey Hemwall</producer>
+		<producer> Brian Campbell</producer>
+		<producer> Cathryn Humphris</producer>
+		<producer> Mac Marshall</producer>
+		<producer> Ben Robbins</producer>
+		<producer> David A. Rosemont</producer>
+		<producer> Cristina Verano</producer>
+		<producer> Michael Uppendahl</producer>
+		<producer> Debra Lovatelli</producer>
+		<producer> Daniel Percival</producer>
+	</producers>
+	<writers>
+		<writer> Brian Peterson</writer>
+		<writer> Brian Peterson</writer>
+		<writer> Brian Peterson</writer>
+		<writer> Brian Peterson</writer>
+		<writer> Kelly Souders</writer>
+		<writer> Kelly Souders</writer>
+		<writer> Kelly Souders</writer>
+		<writer> Kelly Souders</writer>
+		<writer> Kelly Souders</writer>
+		<writer> Jeff Vintar</writer>
+		<writer> Jeff Vintar</writer>
+		<writer> Jeff Vintar</writer>
+		<writer> Jeff Vintar</writer>
+		<writer> James V. Hart</writer>
+		<writer> James V. Hart</writer>
+		<writer> James V. Hart</writer>
+		<writer> James V. Hart</writer>
+		<writer> Richard Preston</writer>
+		<writer> Mac Marshall</writer>
+		<writer> Cathryn Humphris</writer>
+	</writers>
+	<editors>
+		<editor> Jake Cohen</editor>
+		<editor> Matthew Colonna</editor>
+		<editor> Jon Otazua</editor>
+		<editor> Eric Litman</editor>
+		<editor> Mark Manos</editor>
+		<editor> Christopher S. Capp</editor>
+		<editor> Iain Erskine</editor>
+		<editor> Joaquin Elizondo</editor>
+		<editor> Sang Han</editor>
+	</editors>
+</doc>

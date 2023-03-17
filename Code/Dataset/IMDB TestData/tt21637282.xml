@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<doc id="tt21637282">
+	<docid>tt21637282</docid>
+	<title>Charcoal</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzk2MjZkZTAtYTYwNi00ZjUzLWEyOWYtYTAyNTVlZGEwZWU0XkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">107</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A family straining to care for their bedridden patriarch is offered a diabolical deal: to put their elder to rest and host an Argentinian drug kingpin in need of a place to hide.</plot>
+	<countries>
+		<country>Argentina</country>
+	</countries>
+	<languages>
+		<language>Portuguese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>César Bordón</actor>
+			<role>Miguel</role>
+		</credit>
+		<credit>
+			<actor>Rômulo Braga</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Jean de Almeida Costa</actor>
+			<role>Jean</role>
+		</credit>
+		<credit>
+			<actor>Maeve Jinkings</actor>
+			<role>Irene</role>
+		</credit>
+		<credit>
+			<actor>Aline Marta Maia</actor>
+			<role>Juracy</role>
+		</credit>
+		<credit>
+			<actor>Camila Márdila</actor>
+			<role>Luciana</role>
+		</credit>
+		<credit>
+			<actor>Pedro Wagner</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 11 2022</releasedate>
+		<releasedate country="Spain">September 16 2022</releasedate>
+		<releasedate country="United States">October 7 2022</releasedate>
+		<releasedate country="Brazil">October 12 2022</releasedate>
+		<releasedate country="Brazil">October 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Carolina Markowicz</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Mayra Faour Auad</producer>
+		<producer> Zita Carvalhosa</producer>
+		<producer> Karen Castanho</producer>
+		<producer> Alejandro Israel</producer>
+		<producer> Carolina Markowicz</producer>
+		<producer> Leonardo Mecchi</producer>
+		<producer> Dana Najlis</producer>
+		<producer> Mario Peixoto</producer>
+	</producers>
+	<writers>
+		<writer> Carolina Markowicz</writer>
+	</writers>
+	<editors>
+		<editor> Lautaro Colace</editor>
+		<editor> Ricardo Saraiva</editor>
+	</editors>
+</doc>

@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<doc id="tt2968404">
+	<docid>tt2968404</docid>
+	<title>Black Box</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDExM2Y5MzYtYmMxNS00ZWU4LTkwYzEtY2JiMWU2NTFlZWM5XkEyXkFqcGdeQXVyODE0OTU5Nzg@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Catherine Black, a famed neuroscientist with a job at the Center for Neurological Research and Treatment, struggles with mental illness. However, this is just one of the many secrets she hides from her fiancé and her family.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kelly Reilly</actor>
+			<role>Dr. Catherine Black</role>
+		</credit>
+		<credit>
+			<actor>Ditch Davey</actor>
+			<role>Dr. Ian Bickman</role>
+		</credit>
+		<credit>
+			<actor>David Ajala</actor>
+			<role>Will Van Renseller</role>
+		</credit>
+		<credit>
+			<actor>Ali Wong</actor>
+			<role>Dr. Lina Lark</role>
+		</credit>
+		<credit>
+			<actor>David Chisum</actor>
+			<role>Joshua Black</role>
+		</credit>
+		<credit>
+			<actor>Siobhan Williams</actor>
+			<role>Esme Black</role>
+		</credit>
+		<credit>
+			<actor>Terry Kinney</actor>
+			<role>Dr. Owen Morely</role>
+		</credit>
+		<credit>
+			<actor>Laura Fraser</actor>
+			<role>Reagan Black</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Redgrave</actor>
+			<role>Dr. Hartramph</role>
+		</credit>
+		<credit>
+			<actor>Audrey Esparza</actor>
+			<role>Carlotta</role>
+		</credit>
+		<credit>
+			<actor>Tasso Feldman</actor>
+			<role>Leo Robinson</role>
+		</credit>
+		<credit>
+			<actor>Aja Naomi King</actor>
+			<role>Ali Henslee</role>
+		</credit>
+		<credit>
+			<actor>Sepideh Moafi</actor>
+			<role>Dr. Farrah Mahmoud</role>
+		</credit>
+		<credit>
+			<actor>Alex Hernandez</actor>
+			<role>Manuel</role>
+		</credit>
+		<credit>
+			<actor>Rachel Brosnahan</actor>
+			<role>Delilah Buchanan</role>
+		</credit>
+		<credit>
+			<actor>Tracee Chimo Pallero</actor>
+			<role>Mackenzie Teller</role>
+		</credit>
+		<credit>
+			<actor>Ali Ahn</actor>
+			<role>Tinker</role>
+		</credit>
+		<credit>
+			<actor>Dartel McRae</actor>
+			<role>Resident</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">April 24 2014</releasedate>
+		<releasedate country="United States">April 24 2014</releasedate>
+		<releasedate country="Finland">August 4 2014</releasedate>
+		<releasedate country="Germany">October 13 2014</releasedate>
+		<releasedate country="Sweden">October 18 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>secret</keyword>
+	</keywords>
+	<directors>
+		<director> Tricia Brock</director>
+		<director> Simon Curtis</director>
+		<director> Bronwen Hughes</director>
+		<director> John Krokidas</director>
+		<director> Joshua Marston</director>
+		<director> Eric Stoltz</director>
+		<director> Andrew McCarthy</director>
+	</directors>
+	<composers>
+		<composer> Clare Manchon</composer>
+		<composer> Olivier Manchon</composer>
+	</composers>
+	<producers>
+		<producer> Leslie Estelle</producer>
+		<producer> Amy Holden Jones</producer>
+		<producer> Merrill H. Karpf</producer>
+		<producer> David Lancaster</producer>
+		<producer> Gary Lennon</producer>
+		<producer> Oliver Obst</producer>
+		<producer> Kelly Reilly</producer>
+		<producer> Bryan Singer</producer>
+		<producer> Jeffrey Stott</producer>
+		<producer> Janace Tashjian</producer>
+		<producer> Anne Thomopoulos</producer>
+		<producer> Gary Michael Walters</producer>
+		<producer> Ilene Chaiken</producer>
+		<producer> Stephanie Wilcox</producer>
+		<producer> Oanh Ly</producer>
+	</producers>
+	<writers>
+		<writer> Amy Holden Jones</writer>
+		<writer> Amy Holden Jones</writer>
+		<writer> Amy Holden Jones</writer>
+		<writer> Amy Holden Jones</writer>
+		<writer> Ilene Chaiken</writer>
+		<writer> Ilene Chaiken</writer>
+		<writer> Ish Goldstein</writer>
+		<writer> Ish Goldstein</writer>
+		<writer> Ish Goldstein</writer>
+		<writer> Matthew Robinson</writer>
+		<writer> Matthew Robinson</writer>
+		<writer> Matthew Robinson</writer>
+		<writer> Michael Madden</writer>
+		<writer> Michael Madden</writer>
+		<writer> Gary Lennon</writer>
+		<writer> Oanh Ly</writer>
+		<writer> Hayley Schore</writer>
+	</writers>
+	<editors>
+		<editor> Zack Arnold</editor>
+		<editor> Gregg Featherman</editor>
+		<editor> Robert Ivison</editor>
+		<editor> John L. Roberts</editor>
+	</editors>
+</doc>

@@ -1,0 +1,345 @@
+<?xml version="1.0" ?>
+<doc id="tt11618536">
+	<docid>tt11618536</docid>
+	<title>Freshman Year</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTgwNzNmNjUtNWQwMy00NDZkLWFhMzktMjE3YjBiZGFjNThiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A lonely college freshman forges a strong connection with his resident assistant during a fraternity party.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Cooper Raiff</actor>
+			<role>Alex Malmquist</role>
+		</credit>
+		<credit>
+			<actor>Dylan Gelula</actor>
+			<role>Maggie Hill</role>
+		</credit>
+		<credit>
+			<actor>Amy Landecker</actor>
+			<role>Mom</role>
+		</credit>
+		<credit>
+			<actor>Logan Miller</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Olivia Scott Welch</actor>
+			<role>Jess</role>
+		</credit>
+		<credit>
+			<actor>Abby Quinn</actor>
+			<role>Georgia</role>
+		</credit>
+		<credit>
+			<actor>Joy Sunday</actor>
+			<role>Sophia</role>
+		</credit>
+		<credit>
+			<actor>Ashley Padilla</actor>
+			<role>DG</role>
+		</credit>
+		<credit>
+			<actor>Tre Hall</actor>
+			<role>Garrett</role>
+		</credit>
+		<credit>
+			<actor>Alina Patra</actor>
+			<role>Julia</role>
+		</credit>
+		<credit>
+			<actor>Chinedu Unaka</actor>
+			<role>Timothy</role>
+		</credit>
+		<credit>
+			<actor>Nick Saso</actor>
+			<role>Mason Birch</role>
+		</credit>
+		<credit>
+			<actor>Wyatt Whipple</actor>
+			<role>Seb</role>
+		</credit>
+		<credit>
+			<actor>Juan Wood</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Andrew Hales</actor>
+			<role>Jeff</role>
+		</credit>
+		<credit>
+			<actor>Mallory Low</actor>
+			<role>Caroline</role>
+		</credit>
+		<credit>
+			<actor>Adan Rocha</actor>
+			<role>Scott</role>
+		</credit>
+		<credit>
+			<actor>Natalie Rousseau</actor>
+			<role>Nellie</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 13 2020</releasedate>
+		<releasedate country="Switzerland">September 25 2020</releasedate>
+		<releasedate country="Iceland">September 27 2020</releasedate>
+		<releasedate country="United States">October 9 2020</releasedate>
+		<releasedate country="United States">October 15 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">R</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>party</keyword>
+		<keyword>college</keyword>
+		<keyword>dorm room</keyword>
+		<keyword>college party</keyword>
+		<keyword>college roommate</keyword>
+		<keyword>roommate roommate relationship</keyword>
+		<keyword>college freshman</keyword>
+		<keyword>college sophomore</keyword>
+		<keyword>adjusting to college</keyword>
+		<keyword>college campus</keyword>
+		<keyword>socially awkward protagonist</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>college student</keyword>
+		<keyword>sex in college dorm room</keyword>
+		<keyword>college dorm</keyword>
+		<keyword>talking to a stuffed animal</keyword>
+		<keyword>meet cute</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>stuffed animal</keyword>
+		<keyword>wolf stuffed animal</keyword>
+		<keyword>roommate</keyword>
+		<keyword>sensitive man</keyword>
+		<keyword>resident advisor</keyword>
+		<keyword>college library</keyword>
+		<keyword>stand up comedy</keyword>
+		<keyword>reference to 13 going on 30</keyword>
+		<keyword>reference to jennifer garner</keyword>
+		<keyword>friendship</keyword>
+		<keyword>no friends</keyword>
+		<keyword>funeral for a pet</keyword>
+		<keyword>burying a pet</keyword>
+		<keyword>pet turtle</keyword>
+		<keyword>dead turtle</keyword>
+		<keyword>searching a dumpster</keyword>
+		<keyword>shoebox</keyword>
+		<keyword>wig</keyword>
+		<keyword>buying a wig</keyword>
+		<keyword>aquarium</keyword>
+		<keyword>parent cusses</keyword>
+		<keyword>drinking game</keyword>
+		<keyword>spin the bottle</keyword>
+		<keyword>breakfast burrito</keyword>
+		<keyword>going to college</keyword>
+		<keyword>leaving home to go to college</keyword>
+		<keyword>homesickness</keyword>
+		<keyword>telephone conversation</keyword>
+		<keyword>drinking beer</keyword>
+		<keyword>drinking wine</keyword>
+		<keyword>drinking wine from a bottle</keyword>
+		<keyword>plastic cup</keyword>
+		<keyword>red plastic cup</keyword>
+		<keyword>casual sex</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>drunk</keyword>
+		<keyword>bottle of wine</keyword>
+		<keyword>social media</keyword>
+		<keyword>dancing at a party</keyword>
+		<keyword>dancing</keyword>
+		<keyword>backpack</keyword>
+		<keyword>crying teenage boy</keyword>
+		<keyword>crying man</keyword>
+		<keyword>calling home</keyword>
+		<keyword>claritin</keyword>
+		<keyword>allegra</keyword>
+		<keyword>benadryl</keyword>
+		<keyword>cvs</keyword>
+		<keyword>fake friend</keyword>
+		<keyword>defecating in one's pants</keyword>
+		<keyword>house party</keyword>
+		<keyword>drunk teenager</keyword>
+		<keyword>teenager</keyword>
+		<keyword>vomiting in a trash can</keyword>
+		<keyword>bottle of vodka</keyword>
+		<keyword>brushing one's teeth</keyword>
+		<keyword>hug</keyword>
+		<keyword>self doubt</keyword>
+		<keyword>drinking vodka</keyword>
+		<keyword>drinking shots</keyword>
+		<keyword>basketball team</keyword>
+		<keyword>basketball player</keyword>
+		<keyword>college basketball</keyword>
+		<keyword>taking a shower</keyword>
+		<keyword>locked out of a room</keyword>
+		<keyword>inviting someone over</keyword>
+		<keyword>promiscuous woman</keyword>
+		<keyword>promiscuous teenager</keyword>
+		<keyword>clean room</keyword>
+		<keyword>making a bed</keyword>
+		<keyword>hoodie</keyword>
+		<keyword>condom</keyword>
+		<keyword>kiss</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>coed dormitory</keyword>
+		<keyword>texas</keyword>
+		<keyword>dallas texas</keyword>
+		<keyword>bay area</keyword>
+		<keyword>chicago illinois</keyword>
+		<keyword>college life</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>socially awkward</keyword>
+		<keyword>death of a pet</keyword>
+		<keyword>estranged father daughter relationship</keyword>
+		<keyword>estranged family member</keyword>
+		<keyword>dumpster</keyword>
+		<keyword>argument</keyword>
+		<keyword>talking while walking</keyword>
+		<keyword>softball game</keyword>
+		<keyword>softball</keyword>
+		<keyword>playing softball</keyword>
+		<keyword>making a friend</keyword>
+		<keyword>not invited to a party</keyword>
+		<keyword>going to a party</keyword>
+		<keyword>cheating girlfriend</keyword>
+		<keyword>teenage relationship</keyword>
+		<keyword>teenage sex</keyword>
+		<keyword>teenage sexuality</keyword>
+		<keyword>ice</keyword>
+		<keyword>video chat</keyword>
+		<keyword>pedestrian signal</keyword>
+		<keyword>crosswalk</keyword>
+		<keyword>peanut allergy</keyword>
+		<keyword>gluten allergy</keyword>
+		<keyword>food allergy</keyword>
+		<keyword>color blind</keyword>
+		<keyword>color blindness</keyword>
+		<keyword>mesopotamia</keyword>
+		<keyword>staying up late</keyword>
+		<keyword>ignoring someone</keyword>
+		<keyword>pretending not to know someone</keyword>
+		<keyword>exercising</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>farting</keyword>
+		<keyword>wearing a wig</keyword>
+		<keyword>man wears a blue wig</keyword>
+		<keyword>instagram</keyword>
+		<keyword>man wears a purple wig</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>kicked out of a party</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>wrong room</keyword>
+		<keyword>entering a wrong bedroom</keyword>
+		<keyword>shooting hoops</keyword>
+		<keyword>basketball</keyword>
+		<keyword>hangover</keyword>
+		<keyword>googling for information</keyword>
+		<keyword>play within a movie</keyword>
+		<keyword>studying for an exam</keyword>
+		<keyword>emotional distance</keyword>
+		<keyword>asking someone to be boyfriend</keyword>
+		<keyword>taking a test</keyword>
+		<keyword>teen drinking</keyword>
+		<keyword>underage drinking</keyword>
+		<keyword>fake identification</keyword>
+		<keyword>teenage protagonist</keyword>
+		<keyword>not feeling well</keyword>
+		<keyword>depression</keyword>
+		<keyword>depressed man</keyword>
+		<keyword>depressed teen</keyword>
+		<keyword>drunk roommate</keyword>
+		<keyword>doing laundry</keyword>
+		<keyword>switching sex positions</keyword>
+		<keyword>cold shower</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>texan</keyword>
+		<keyword>texan in california</keyword>
+		<keyword>actress</keyword>
+		<keyword>baseball field</keyword>
+		<keyword>hit with a softball</keyword>
+		<keyword>talking about sex</keyword>
+		<keyword>color blind woman</keyword>
+		<keyword>told to leave</keyword>
+		<keyword>death of parent</keyword>
+		<keyword>dysfunctional family</keyword>
+		<keyword>child of divorce</keyword>
+		<keyword>swimming</keyword>
+		<keyword>swimming in a pool</keyword>
+		<keyword>elliptical machine</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>pretending to know someone</keyword>
+		<keyword>crashing a party</keyword>
+		<keyword>drinking from a miniature liquor bottle</keyword>
+		<keyword>miniature liquor bottle</keyword>
+		<keyword>purple wig</keyword>
+		<keyword>tattooed man</keyword>
+		<keyword>arm tattoo</keyword>
+		<keyword>climbing over a wall</keyword>
+		<keyword>locked out</keyword>
+		<keyword>written by director</keyword>
+		<keyword>reference to jerry seinfeld</keyword>
+		<keyword>time jump</keyword>
+		<keyword>mount fuji</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>19 year old boy</keyword>
+		<keyword>19 year old girl</keyword>
+		<keyword>stand up comedian</keyword>
+		<keyword>death of father</keyword>
+		<keyword>independent film</keyword>
+		<keyword>reference to cvs pharmacy</keyword>
+		<keyword>reference to allegra</keyword>
+		<keyword>reference to venmo</keyword>
+	</keywords>
+	<directors>
+		<director> Cooper Raiff</director>
+	</directors>
+	<composers>
+		<composer> Jack Kraus</composer>
+	</composers>
+	<producers>
+		<producer> Divi Crockett</producer>
+		<producer> Andrew Hutcheson</producer>
+		<producer> Rachel Klein</producer>
+		<producer> Cooper Raiff</producer>
+		<producer> Will Youmans</producer>
+	</producers>
+	<writers>
+		<writer> Cooper Raiff</writer>
+	</writers>
+	<editors>
+		<editor> Autumn Dea</editor>
+		<editor> Cooper Raiff</editor>
+	</editors>
+</doc>

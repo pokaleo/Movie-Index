@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc id="tt19886242">
+	<docid>tt19886242</docid>
+	<title>Rorschach</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWZmZWNkYTUtZmNjOC00MzUwLTg4NmQtMzFjZDg1MGU3NmQ0XkEyXkFqcGdeQXVyODA1MTcyNjE@._V1_QL75_UY281_CR8,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">150</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The Movie is about Luke Anthony who has a mysterious past and is out on a mission to seek revenge from someone who has destroyed him deeply</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Malayalam</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Mammootty</actor>
+			<role>Luke Antony</role>
+		</credit>
+		<credit>
+			<actor>Grace Antony</actor>
+			<role>Sujatha</role>
+		</credit>
+		<credit>
+			<actor>Jagadish</actor>
+			<role>Head Cost. Ashraf</role>
+		</credit>
+		<credit>
+			<actor>Bindu Panikkar</actor>
+			<role>Seetha Balan</role>
+		</credit>
+		<credit>
+			<actor>Sharafudheen</actor>
+			<role>Satheeshan</role>
+		</credit>
+		<credit>
+			<actor>Kottayam Nazeer</actor>
+			<role>Shashankan</role>
+		</credit>
+		<credit>
+			<actor>Sanju Sivram</actor>
+			<role>Anil Balan</role>
+		</credit>
+		<credit>
+			<actor>Asif Ali</actor>
+			<role>Dileep Balan</role>
+		</credit>
+		<credit>
+			<actor>Mani Shornur</actor>
+			<role>Balan</role>
+		</credit>
+		<credit>
+			<actor>Ira Noor</actor>
+			<role>Sophia Luke</role>
+		</credit>
+		<credit>
+			<actor>Sreeja</actor>
+			<role>Sujatha's Mother</role>
+		</credit>
+		<credit>
+			<actor>Keerikkadan Jose</actor>
+			<role>Sujatha's Father</role>
+		</credit>
+		<credit>
+			<actor>Priyamvada Krishnan</actor>
+			<role>Ammu</role>
+		</credit>
+		<credit>
+			<actor>Zeenath</actor>
+			<role>Satheeshan's Mother</role>
+		</credit>
+		<credit>
+			<actor>Mathew Mampra</actor>
+			<role>Rasheed - Robber's Father</role>
+		</credit>
+		<credit>
+			<actor>Nilambur Ayisha</actor>
+			<role>Sainaba - Robber's Mother</role>
+		</credit>
+		<credit>
+			<actor>Jordi Poonjar</actor>
+			<role>Insp. George</role>
+		</credit>
+		<credit>
+			<actor>Babu Annur</actor>
+			<role>SI P. Pisharody</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">October 7 2022</releasedate>
+		<releasedate country="Bahrain">October 7 2022</releasedate>
+		<releasedate country="Canada">October 7 2022</releasedate>
+		<releasedate country="India">October 7 2022</releasedate>
+		<releasedate country="Kuwait">October 7 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>destruction</keyword>
+	</keywords>
+	<directors>
+		<director> Nissam Basheer</director>
+	</directors>
+	<composers>
+		<composer> Midhun Mukundan</composer>
+	</composers>
+	<producers>
+		<producer> Mammootty</producer>
+	</producers>
+	<writers>
+		<writer> Sameer Abdul</writer>
+	</writers>
+	<editors>
+		<editor> Kiran Das</editor>
+	</editors>
+</doc>

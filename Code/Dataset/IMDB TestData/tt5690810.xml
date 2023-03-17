@@ -1,0 +1,413 @@
+<?xml version="1.0" ?>
+<doc id="tt5690810">
+	<docid>tt5690810</docid>
+	<title>Ophelia</title>
+	<image/>
+	<year>I 2018</year>
+	<runningtimes>
+		<runningtime country="default">114</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A reimagining of Hamlet, told from Ophelia's perspective.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Daisy Ridley</actor>
+			<role>Ophelia</role>
+		</credit>
+		<credit>
+			<actor>Mia Quiney</actor>
+			<role>Young Ophelia</role>
+		</credit>
+		<credit>
+			<actor>Calum O'Rourke</actor>
+			<role>Young Laertes</role>
+		</credit>
+		<credit>
+			<actor>Nathaniel Parker</actor>
+			<role>King Hamlet</role>
+		</credit>
+		<credit>
+			<actor>Naomi Watts</actor>
+			<role>Gertrude</role>
+		</credit>
+		<credit>
+			<actor>Jack Cunningham-Nuttall</actor>
+			<role>Young Hamlet</role>
+		</credit>
+		<credit>
+			<actor>Lenka Olsanová</actor>
+			<role>Lady in Waiting 1</role>
+		</credit>
+		<credit>
+			<actor>Daniela Hirsh</actor>
+			<role>Lady in Waiting 2</role>
+		</credit>
+		<credit>
+			<actor>Veronika Strapková</actor>
+			<role>Lady in Waiting 3</role>
+		</credit>
+		<credit>
+			<actor>Issy Stewart</actor>
+			<role>Lady in Waiting 4</role>
+		</credit>
+		<credit>
+			<actor>Adriana Hercigonja</actor>
+			<role>Lady in Waiting 5</role>
+		</credit>
+		<credit>
+			<actor>Nhung Hong Dangová</actor>
+			<role>Lady in Waiting 6</role>
+		</credit>
+		<credit>
+			<actor>Angela Nwagbo</actor>
+			<role>Viola</role>
+		</credit>
+		<credit>
+			<actor>Clive Owen</actor>
+			<role>Claudius</role>
+		</credit>
+		<credit>
+			<actor>Dominic Mafham</actor>
+			<role>Polonius</role>
+		</credit>
+		<credit>
+			<actor>Daisy Head</actor>
+			<role>Cristiana</role>
+		</credit>
+		<credit>
+			<actor>Sebastian De Souza</actor>
+			<role>Edmund</role>
+		</credit>
+		<credit>
+			<actor>Tom Felton</actor>
+			<role>Laertes</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 22 2018</releasedate>
+		<releasedate country="Russia">April 25 2018</releasedate>
+		<releasedate country="France">September 3 2018</releasedate>
+		<releasedate country="Australia">October 29 2018</releasedate>
+		<releasedate country="United States">2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Ecuador">13+</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>shakespeare's hamlet</keyword>
+		<keyword>prince</keyword>
+		<keyword>king</keyword>
+		<keyword>lady in waiting</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>intrigue</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>murder of father</keyword>
+		<keyword>queen</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>medieval times</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>narrated by lead character</keyword>
+		<keyword>prologue</keyword>
+		<keyword>castle</keyword>
+		<keyword>horse and cart</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>looking out a window</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>boy</keyword>
+		<keyword>girl</keyword>
+		<keyword>running boy</keyword>
+		<keyword>running girl</keyword>
+		<keyword>court jester</keyword>
+		<keyword>15 year old</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>dead mother</keyword>
+		<keyword>bathing a girl</keyword>
+		<keyword>brushing a girl's hair</keyword>
+		<keyword>dressing a girl</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dancing</keyword>
+		<keyword>imitating a goat</keyword>
+		<keyword>deer</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>redheaded teenage girl</keyword>
+		<keyword>wading in water</keyword>
+		<keyword>flowers</keyword>
+		<keyword>woman takes a bath</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>candle</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>teenage girl reads a book aloud</keyword>
+		<keyword>voice over reading</keyword>
+		<keyword>book</keyword>
+		<keyword>horse</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>lily pond</keyword>
+		<keyword>falling into water</keyword>
+		<keyword>woods</keyword>
+		<keyword>reference to diana the roman goddess</keyword>
+		<keyword>tapestry</keyword>
+		<keyword>fisherman</keyword>
+		<keyword>white peacock</keyword>
+		<keyword>brother in law sister in law relationship</keyword>
+		<keyword>fear of aging</keyword>
+		<keyword>hiding</keyword>
+		<keyword>love</keyword>
+		<keyword>gossip</keyword>
+		<keyword>kiss</keyword>
+		<keyword>belladonna</keyword>
+		<keyword>nightshade</keyword>
+		<keyword>poison</keyword>
+		<keyword>promise</keyword>
+		<keyword>sword</keyword>
+		<keyword>swordplay</keyword>
+		<keyword>dance</keyword>
+		<keyword>drums</keyword>
+		<keyword>drummer</keyword>
+		<keyword>party</keyword>
+		<keyword>costume party</keyword>
+		<keyword>torch</keyword>
+		<keyword>wine</keyword>
+		<keyword>pledge</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>saying goodbye</keyword>
+		<keyword>throne</keyword>
+		<keyword>deception</keyword>
+		<keyword>mother kisses her son on his cheek</keyword>
+		<keyword>female healer</keyword>
+		<keyword>snake</keyword>
+		<keyword>falling in love</keyword>
+		<keyword>tonic</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>overhearing a conversation</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>following someone</keyword>
+		<keyword>being followed</keyword>
+		<keyword>fear</keyword>
+		<keyword>gargoyle</keyword>
+		<keyword>insanity</keyword>
+		<keyword>death of a king</keyword>
+		<keyword>rosencrantz character</keyword>
+		<keyword>guildenstern character</keyword>
+		<keyword>murder of a king</keyword>
+		<keyword>running teenage girl</keyword>
+		<keyword>garden</keyword>
+		<keyword>dead body</keyword>
+		<keyword>church</keyword>
+		<keyword>crown</keyword>
+		<keyword>trumpet</keyword>
+		<keyword>polonius character</keyword>
+		<keyword>grief</keyword>
+		<keyword>kneeling</keyword>
+		<keyword>dog</keyword>
+		<keyword>bullying a woman</keyword>
+		<keyword>ruffian</keyword>
+		<keyword>summer</keyword>
+		<keyword>laertes character</keyword>
+		<keyword>daughter kisses her father on his cheek</keyword>
+		<keyword>library</keyword>
+		<keyword>healer</keyword>
+		<keyword>rampart</keyword>
+		<keyword>sentinel</keyword>
+		<keyword>secret</keyword>
+		<keyword>asking for forgiveness</keyword>
+		<keyword>19 year old</keyword>
+		<keyword>unwed pregnancy</keyword>
+		<keyword>reference to the devil</keyword>
+		<keyword>flashback</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>venom</keyword>
+		<keyword>assumed death</keyword>
+		<keyword>corpse</keyword>
+		<keyword>remedy</keyword>
+		<keyword>dead son</keyword>
+		<keyword>rain</keyword>
+		<keyword>thunder</keyword>
+		<keyword>church bell</keyword>
+		<keyword>praying</keyword>
+		<keyword>confessional booth</keyword>
+		<keyword>confession of love</keyword>
+		<keyword>chapel</keyword>
+		<keyword>marriage</keyword>
+		<keyword>laughter</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>priest</keyword>
+		<keyword>sex</keyword>
+		<keyword>secret marriage</keyword>
+		<keyword>wedding ring</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>montage</keyword>
+		<keyword>implied nudity</keyword>
+		<keyword>man wears a hooded cloak</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>innocence</keyword>
+		<keyword>teenage girl in jeopardy</keyword>
+		<keyword>murder</keyword>
+		<keyword>musician</keyword>
+		<keyword>adultery</keyword>
+		<keyword>extramarital affair</keyword>
+		<keyword>unfaithfulness</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>treachery</keyword>
+		<keyword>lie</keyword>
+		<keyword>widow</keyword>
+		<keyword>reference to yorick character</keyword>
+		<keyword>pretending to be mad</keyword>
+		<keyword>shadow play</keyword>
+		<keyword>sadness</keyword>
+		<keyword>watching a play</keyword>
+		<keyword>actor</keyword>
+		<keyword>actress</keyword>
+		<keyword>revenge</keyword>
+		<keyword>treason</keyword>
+		<keyword>man wears eye liner</keyword>
+		<keyword>surrogate mother surrogate daughter relationship</keyword>
+		<keyword>guard</keyword>
+		<keyword>survival</keyword>
+		<keyword>horatio character</keyword>
+		<keyword>begging for forgiveness</keyword>
+		<keyword>blood</keyword>
+		<keyword>accidental murder</keyword>
+		<keyword>coffin</keyword>
+		<keyword>burial</keyword>
+		<keyword>grave</keyword>
+		<keyword>graveyard</keyword>
+		<keyword>anguish</keyword>
+		<keyword>woman wears a hooded cloak</keyword>
+		<keyword>female female fight</keyword>
+		<keyword>mistakenly believing that someone is dead</keyword>
+		<keyword>repeated song</keyword>
+		<keyword>teenage girl punches a teenage boy</keyword>
+		<keyword>sailing ship</keyword>
+		<keyword>dagger</keyword>
+		<keyword>man holds a dagger to a yeenage girl's throat</keyword>
+		<keyword>jail</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>screaming teenage girl</keyword>
+		<keyword>humming</keyword>
+		<keyword>rosemary the herb plant</keyword>
+		<keyword>pansy the flower</keyword>
+		<keyword>memory</keyword>
+		<keyword>rue the evergreen plant</keyword>
+		<keyword>regret</keyword>
+		<keyword>daisy the flower</keyword>
+		<keyword>flattery</keyword>
+		<keyword>throwing flowers on the floor</keyword>
+		<keyword>convent</keyword>
+		<keyword>nunnery</keyword>
+		<keyword>st. emilion france</keyword>
+		<keyword>chase</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>suicide by drowning</keyword>
+		<keyword>lantern</keyword>
+		<keyword>norwegian soldier</keyword>
+		<keyword>apothecary</keyword>
+		<keyword>ex lover ex lover relationship</keyword>
+		<keyword>absolution</keyword>
+		<keyword>wager</keyword>
+		<keyword>swordsman</keyword>
+		<keyword>teenage girl pretends to be a teenage boy</keyword>
+		<keyword>rowboat</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>wife murders her husband</keyword>
+		<keyword>murder of son</keyword>
+		<keyword>stabbed with a sword</keyword>
+		<keyword>stabbed through the chest</keyword>
+		<keyword>suicide by poisoning</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>death of sister</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>little girl</keyword>
+		<keyword>death of husband</keyword>
+		<keyword>murder of husband</keyword>
+		<keyword>deceased mother</keyword>
+		<keyword>female director</keyword>
+		<keyword>female filmmaker</keyword>
+		<keyword>15 year old boy</keyword>
+		<keyword>19 year old girl</keyword>
+		<keyword>death of father</keyword>
+		<keyword>gertrude character</keyword>
+		<keyword>ophelia character</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>denmark</keyword>
+		<keyword>hamlet character</keyword>
+		<keyword>one word title</keyword>
+		<keyword>feminism</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>first person narration</keyword>
+		<keyword>girl crawls under a table</keyword>
+		<keyword>claudius character</keyword>
+		<keyword>f rated</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Claire McCarthy</director>
+	</directors>
+	<composers>
+		<composer> Steven Price</composer>
+	</composers>
+	<producers>
+		<producer> Daniel Bobker</producer>
+		<producer> Alastair Burlingham</producer>
+		<producer> Sarah Curtis</producer>
+		<producer> Elissa Friedman</producer>
+		<producer> Paul Hanson</producer>
+		<producer> Mathew Hart</producer>
+		<producer> Ehren Kruger</producer>
+		<producer> Anton Lessine</producer>
+		<producer> Bert Marcus</producer>
+		<producer> David Minkowski</producer>
+		<producer> Gary Raskin</producer>
+		<producer> Sasha Shapiro</producer>
+		<producer> Matthew Stillman</producer>
+		<producer> Cassandra Hamar Thornton</producer>
+	</producers>
+	<writers>
+		<writer> Semi Chellas</writer>
+		<writer> Semi Chellas</writer>
+		<writer> Lisa Klein</writer>
+		<writer> Lisa Klein</writer>
+		<writer> William Shakespeare</writer>
+	</writers>
+	<editors>
+		<editor> Luke Dunkley</editor>
+	</editors>
+</doc>

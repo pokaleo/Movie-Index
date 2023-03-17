@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<doc id="tt10068932">
+	<docid>tt10068932</docid>
+	<title>Bäckström</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODgwYWU3NTUtZTc0Yi00NThiLTliZDktZTlhNjc4ZjYyNGYwXkEyXkFqcGdeQXVyOTQ5MjQwNDc@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Unscrupulous and arrogant murder detective Evert Bäckström finds himself with the hardest case he ever had when a skull pierced with bullet holes is found on an uninhabited island in the archipelago.</plot>
+	<countries>
+		<country>Sweden</country>
+	</countries>
+	<languages>
+		<language>Swedish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kjell Bergqvist</actor>
+			<role>Evert Bäckström</role>
+		</credit>
+		<credit>
+			<actor>Agnes Lindström Bolmgren</actor>
+			<role>Ankan Carlsson</role>
+		</credit>
+		<credit>
+			<actor>Filip Berg</actor>
+			<role>Kristian Olsson</role>
+		</credit>
+		<credit>
+			<actor>Peshang Rad</actor>
+			<role>Adam Olzzon</role>
+		</credit>
+		<credit>
+			<actor>Rolf Lydahl</actor>
+			<role>Peter Niemi</role>
+		</credit>
+		<credit>
+			<actor>Elvis Stegmar</actor>
+			<role>Edvin</role>
+		</credit>
+		<credit>
+			<actor>Pekka Strang</actor>
+			<role>Toivonen</role>
+		</credit>
+		<credit>
+			<actor>Victoria Dyrstad</actor>
+			<role>Clara Nord</role>
+		</credit>
+		<credit>
+			<actor>Malgorzata Pieczynska</actor>
+			<role>Nadja Högberg</role>
+		</credit>
+		<credit>
+			<actor>Jens Hultén</actor>
+			<role>Tomas Eriksson</role>
+		</credit>
+		<credit>
+			<actor>Helena Bergström</actor>
+			<role>Tussan</role>
+		</credit>
+		<credit>
+			<actor>Helen Sjöholm</actor>
+			<role>Tina Bonde</role>
+		</credit>
+		<credit>
+			<actor>Anders Mossling</actor>
+			<role>G Gurra</role>
+		</credit>
+		<credit>
+			<actor>Arbi Alviati</actor>
+			<role>Boris</role>
+		</credit>
+		<credit>
+			<actor>Livia Millhagen</actor>
+			<role>Hanna Hwass</role>
+		</credit>
+		<credit>
+			<actor>Lisa Lindgren</actor>
+			<role>Lisa Kvarnström</role>
+		</credit>
+		<credit>
+			<actor>Panos Koronis</actor>
+			<role>Detective Morales</role>
+		</credit>
+		<credit>
+			<actor>Julia Marko-Nord</actor>
+			<role>Xenia Wall</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">March 23 2020</releasedate>
+		<releasedate country="Sweden">March 23 2020</releasedate>
+		<releasedate country="United States">March 23 2020</releasedate>
+		<releasedate country="Germany">December 12 2020</releasedate>
+		<releasedate country="Australia">February 18 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Sweden">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>surname as series title</keyword>
+		<keyword>character name as series title</keyword>
+		<keyword>sweden</keyword>
+		<keyword>police detective</keyword>
+		<keyword>swedish police</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>homicide detective</keyword>
+		<keyword>womanizer</keyword>
+		<keyword>murder</keyword>
+		<keyword>stockholm sweden</keyword>
+		<keyword>scandi noir crime</keyword>
+		<keyword>cop drama</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Jonathan Sjöberg</director>
+		<director> Amanda Adolfsson</director>
+		<director> Manuel Concha</director>
+		<director> Andreas Öhman</director>
+		<director> David Berron</director>
+	</directors>
+	<composers>
+		<composer> Eric Rosse</composer>
+	</composers>
+	<producers>
+		<producer> Niva Westlin Dahl</producer>
+		<producer> Mikael Lundberg</producer>
+		<producer> Sebastian Lückel</producer>
+		<producer> Leif G.W. Persson</producer>
+		<producer> Niclas Salomonsson</producer>
+		<producer> Georgie Mathew</producer>
+		<producer> Katja Ravén</producer>
+		<producer> Stefan Baron</producer>
+		<producer> Peter Possne</producer>
+		<producer> Jonathan Sjöberg</producer>
+		<producer> Line Winther Skyum Funch</producer>
+		<producer> Johannes Jensen</producer>
+		<producer> Cecilia Forsberg</producer>
+		<producer> Petra Ahlin</producer>
+		<producer> Lea Berg</producer>
+		<producer> Agnes Blåsjö</producer>
+		<producer> Jakob Feeney</producer>
+		<producer> Daniel Gylling</producer>
+		<producer> George Nounessis</producer>
+		<producer> Brigid Olen</producer>
+		<producer> Christoph Pellander</producer>
+		<producer> Suwimon Keisker</producer>
+	</producers>
+	<writers>
+		<writer> Dennis Magnusson</writer>
+		<writer> Dennis Magnusson</writer>
+		<writer> Dennis Magnusson</writer>
+		<writer> Leif G.W. Persson</writer>
+		<writer> Jonathan Sjöberg</writer>
+		<writer> Jonathan Sjöberg</writer>
+		<writer> Jonathan Sjöberg</writer>
+		<writer> Jonathan Sjöberg</writer>
+	</writers>
+	<editors>
+		<editor> Pablo Labañino</editor>
+		<editor> Tomas Beije</editor>
+		<editor> Britta Norell</editor>
+	</editors>
+</doc>

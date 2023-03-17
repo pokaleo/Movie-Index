@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<doc id="tt21603982">
+	<docid>tt21603982</docid>
+	<title>Clanul</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWFmZGY3YzQtZjcxYS00NGYwLThhOTktMjhmZTBlMGEyZmQxXkEyXkFqcGdeQXVyMzg3NDY5Mzk@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">110</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>The Clan is an adaptation that will center on an engaging story about the classic struggle between the Police and the Mafia. Tensions will rise as love stories spice up the eternal battle between good and evil.</plot>
+	<countries>
+		<country>Romania</country>
+	</countries>
+	<languages>
+		<language>Romanian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Denis Hanganu</actor>
+			<role>Tudor Achim</role>
+		</credit>
+		<credit>
+			<actor>Marian Olteanu</actor>
+			<role>David Pribeag</role>
+		</credit>
+		<credit>
+			<actor>Serban Pavlu</actor>
+			<role>Comisarul Sef Costoiu</role>
+		</credit>
+		<credit>
+			<actor>George Mihaita</actor>
+			<role>Bebe Macelaru</role>
+		</credit>
+		<credit>
+			<actor>Madalina Craiu</actor>
+			<role>Ilinca Anghel</role>
+		</credit>
+		<credit>
+			<actor>Sergiu Costache</actor>
+			<role>Sergiu</role>
+		</credit>
+		<credit>
+			<actor>Catalina Grama</actor>
+			<role>Magda Udrea</role>
+		</credit>
+		<credit>
+			<actor>Codin Maticiuc</actor>
+			<role>Iulica</role>
+		</credit>
+		<credit>
+			<actor>Theo Rose</actor>
+			<role>Vera Maximilian</role>
+		</credit>
+		<credit>
+			<actor>Carmen Tanase</actor>
+			<role>Luminita</role>
+		</credit>
+		<credit>
+			<actor>Catalin Nicolau</actor>
+			<role>Micu'</role>
+		</credit>
+		<credit>
+			<actor>Silviu Mircescu</actor>
+			<role>Silviu</role>
+		</credit>
+		<credit>
+			<actor>George Ivascu</actor>
+			<role>Pelicanu</role>
+		</credit>
+		<credit>
+			<actor>Alice Halpert</actor>
+			<role>Patricia</role>
+		</credit>
+		<credit>
+			<actor>Bogdan Farcas</actor>
+			<role>Ciomag</role>
+		</credit>
+		<credit>
+			<actor>Vladimir Draghia</actor>
+			<role>Misu</role>
+		</credit>
+		<credit>
+			<actor>Constantin Dogioiu</actor>
+			<role>Mircea</role>
+		</credit>
+		<credit>
+			<actor>Eduard Trifa</actor>
+			<role>Dima</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">August 19 2022</releasedate>
+		<releasedate country="Romania">September 19 2022</releasedate>
+		<releasedate country="Romania">October 1 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>love</keyword>
+	</keywords>
+	<directors>
+		<director> Anghel Damian</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Lia Bugnar</writer>
+		<writer> Anghel Damian</writer>
+	</writers>
+	<editors>
+		<editor> Mihai Codleanu</editor>
+	</editors>
+</doc>

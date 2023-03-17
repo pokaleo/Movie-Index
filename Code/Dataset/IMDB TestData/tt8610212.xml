@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<doc id="tt8610212">
+	<docid>tt8610212</docid>
+	<title>The Gloaming</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDQyNGQzOGMtMDZlYi00MzJhLWI3ZjctODQ5YWEzNTM1YWRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,28,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>When an unidentified woman is found brutally murdered, Detective Molly McGee teams up with fellow cop, Alex O'Connell, with whom she shares a tragic past, to solve the crime.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Emma Booth</actor>
+			<role>Molly McGee</role>
+		</credit>
+		<credit>
+			<actor>Ewen Leslie</actor>
+			<role>Alex O'Connell</role>
+		</credit>
+		<credit>
+			<actor>Aaron Pedersen</actor>
+			<role>Lewis Grimshaw</role>
+		</credit>
+		<credit>
+			<actor>Rena Owen</actor>
+			<role>Grace Cochran</role>
+		</credit>
+		<credit>
+			<actor>Anthony Phelan</actor>
+			<role>William Fian</role>
+		</credit>
+		<credit>
+			<actor>Nicole Chamoun</actor>
+			<role>Jacinta Clunes</role>
+		</credit>
+		<credit>
+			<actor>Ditch Davey</actor>
+			<role>Toby Broomhall</role>
+		</credit>
+		<credit>
+			<actor>Max Brown</actor>
+			<role>Oscar Wolfe</role>
+		</credit>
+		<credit>
+			<actor>Josephine Blazier</actor>
+			<role>Lily Broomhall</role>
+		</credit>
+		<credit>
+			<actor>Matt Testro</actor>
+			<role>Freddie Hopkins</role>
+		</credit>
+		<credit>
+			<actor>Markella Kavenagh</actor>
+			<role>Daisy Hart</role>
+		</credit>
+		<credit>
+			<actor>Zenia Starr</actor>
+			<role>Freya Harris</role>
+		</credit>
+		<credit>
+			<actor>Martin Henderson</actor>
+			<role>Gareth McAvaney</role>
+		</credit>
+		<credit>
+			<actor>Ben Morton</actor>
+			<role>Constable Francis</role>
+		</credit>
+		<credit>
+			<actor>Milly Alcock</actor>
+			<role>Jenny McGinty</role>
+		</credit>
+		<credit>
+			<actor>Airlie Dodds</actor>
+			<role>Stephanie McGinty</role>
+		</credit>
+		<credit>
+			<actor>Nell Feeney</actor>
+			<role>Shelly Hopkins</role>
+		</credit>
+		<credit>
+			<actor>Anni Finsterer</actor>
+			<role>Eileen McGinty</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">January 1 2020</releasedate>
+		<releasedate country="Australia">January 1 2020</releasedate>
+		<releasedate country="United States">January 1 2020</releasedate>
+		<releasedate country="Germany">October 14 2020</releasedate>
+		<releasedate country="Canada">March 21 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">14</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>ghost</keyword>
+		<keyword>fish and chip shop</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>cop drama</keyword>
+		<keyword>2020s</keyword>
+		<keyword>21st century</keyword>
+	</keywords>
+	<directors>
+		<director> Greg McLean</director>
+		<director> Sian Davies</director>
+		<director> Michael Rymer</director>
+	</directors>
+	<composers>
+		<composer> Brett Aplin</composer>
+		<composer> Burkhard von Dallwitz</composer>
+		<composer> Dmitri Golovko</composer>
+	</composers>
+	<producers>
+		<producer> Jon Adgemis</producer>
+		<producer> Nick Forward</producer>
+		<producer> Michael Gudinski</producer>
+		<producer> Richard Kelly</producer>
+		<producer> Keli Lee</producer>
+		<producer> Vicki Madden</producer>
+		<producer> Fiona McConaghy</producer>
+		<producer> John Molloy</producer>
+	</producers>
+	<writers>
+		<writer> Vicki Madden</writer>
+		<writer> Vicki Madden</writer>
+		<writer> Peter McKenna</writer>
+	</writers>
+	<editors>
+		<editor> Dave Redman</editor>
+		<editor> Anne Carter</editor>
+		<editor> Angie Higgins</editor>
+		<editor> Sean Lahiff</editor>
+	</editors>
+</doc>

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<doc id="tt21631058">
+	<docid>tt21631058</docid>
+	<title>Blind</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes/>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A homicide squad detective, suspected of serial murder, searches for the real culprit.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Taecyeon</actor>
+			<role>Sung-jun Ryu</role>
+		</credit>
+		<credit>
+			<actor>Ha Seok-jin</actor>
+			<role>Sung-hoon Ryu</role>
+		</credit>
+		<credit>
+			<actor>Eun-ji Jung</actor>
+			<role>Eun-gi Jo</role>
+		</credit>
+		<credit>
+			<actor>Park Ji-bin</actor>
+			<role>In-sung Jung</role>
+		</credit>
+		<credit>
+			<actor>Jung Eui-Wook</actor>
+			<role>Young-guk Oh</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">September 16 2022</releasedate>
+		<releasedate country="South Korea">September 16 2022</releasedate>
+		<releasedate country="Indonesia">September 17 2022</releasedate>
+		<releasedate country="South Korea">September 17 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="South Korea">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Yong Hwi Shin</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Ki-Kyeong Kwon</writer>
+	</writers>
+	<editors/>
+</doc>

@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<doc id="tt6840106">
+	<docid>tt6840106</docid>
+	<title>Sparta</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTdhMWEwNzktZGUxMi00NjE2LTkwNGEtOTM2NzAwNjYwNzI2XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">53</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>While investigating the mysterious death of a teacher, a grizzled detective gets caught up in the world of a high-stakes virtual reality game.</plot>
+	<countries>
+		<country>Russia</country>
+	</countries>
+	<languages>
+		<language>Russian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Alyssa Lozovskaya</actor>
+			<role>Irina Shorina</role>
+		</credit>
+		<credit>
+			<actor>Alexander Petrov</actor>
+			<role>Michail Barkovskiy</role>
+		</credit>
+		<credit>
+			<actor>Artyom Tkachenko</actor>
+			<role>Igor Andreevich Kryuko</role>
+		</credit>
+		<credit>
+			<actor>Philipp Mogilnitskiy</actor>
+			<role>Vladimir Bagramov</role>
+		</credit>
+		<credit>
+			<actor>Aleksandr Bolshakov</actor>
+			<role>(2019)</role>
+		</credit>
+		<credit>
+			<actor>Valeriya Shkirando</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Yana Yenzhayeva</actor>
+			<role>Anna Melkova</role>
+		</credit>
+		<credit>
+			<actor>Marina Kaletskaya</actor>
+			<role>Natasha Belodedova</role>
+		</credit>
+		<credit>
+			<actor>Yuliya Marchenko</actor>
+			<role>Lyudmila Mikhaylovna Tsareva</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Russia">July 9 2018</releasedate>
+		<releasedate country="Indonesia">January 31 2019</releasedate>
+		<releasedate country="Philippines">January 31 2019</releasedate>
+		<releasedate country="Poland">January 31 2019</releasedate>
+		<releasedate country="Singapore">January 31 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>death</keyword>
+	</keywords>
+	<directors>
+		<director> Egor Baranov</director>
+	</directors>
+	<composers>
+		<composer> Ryan Otter</composer>
+	</composers>
+	<producers>
+		<producer> Aleksandra Remizova</producer>
+		<producer> Ivan Samokhvalov</producer>
+	</producers>
+	<writers>
+		<writer> Ilya Tilkin</writer>
+		<writer> Ilya Tilkin</writer>
+	</writers>
+	<editors/>
+</doc>

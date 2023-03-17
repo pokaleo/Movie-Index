@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<doc id="tt19387554">
+	<docid>tt19387554</docid>
+	<title>The Deep End</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODVhNDEyYzktMmU2Ni00NzlkLTg0NWQtYmEzYTg4MDliOWQ3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">44</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>An arresting and provocative exploration inside the world of one of today's most controversial spiritual teachers and her dedicated followers.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Teal Swan</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Molly Monahan</actor>
+			<role>Self - Private Investigator</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">May 18 2022</releasedate>
+		<releasedate country="France">May 18 2022</releasedate>
+		<releasedate country="United States">May 18 2022</releasedate>
+		<releasedate country="United States">May 19 2022</releasedate>
+		<releasedate country="Spain">December 28 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Canada">Not Rated</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+	</keywords>
+	<directors>
+		<director> Jon Kasbe</director>
+	</directors>
+	<composers>
+		<composer> West Dylan Thordson</composer>
+	</composers>
+	<producers>
+		<producer> Sam Broadwin</producer>
+		<producer> Isabela de Campos</producer>
+		<producer> Alison Joy</producer>
+		<producer> Jon Kasbe</producer>
+		<producer> Stacey Kleiger</producer>
+		<producer> Julia Lewis</producer>
+		<producer> Jonna McLaughlin</producer>
+		<producer> Bits Sola</producer>
+		<producer> Gabrielle Tenenbaum</producer>
+		<producer> Tom Yellin</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Dan Duran</editor>
+		<editor> Jeff Seymann Gilbert</editor>
+		<editor> Frederick Shanahan</editor>
+		<editor> Aleks Gezentsvey</editor>
+		<editor> Jim Hession</editor>
+	</editors>
+</doc>

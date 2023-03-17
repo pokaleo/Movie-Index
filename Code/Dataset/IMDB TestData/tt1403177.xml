@@ -1,0 +1,465 @@
+<?xml version="1.0" ?>
+<doc id="tt1403177">
+	<docid>tt1403177</docid>
+	<title>Hesher</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTUzMjU1NzY4NV5BMl5BanBnXkFtZTcwODg0ODU4NA@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A young boy has lost his mother and is losing touch with his father and the world around him. Then he meets Hesher who manages to make his life even more chaotic.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Joseph Gordon-Levitt</actor>
+			<role>Hesher</role>
+		</credit>
+		<credit>
+			<actor>Devin Brochu</actor>
+			<role>TJ</role>
+		</credit>
+		<credit>
+			<actor>Natalie Portman</actor>
+			<role>Nicole</role>
+		</credit>
+		<credit>
+			<actor>Rainn Wilson</actor>
+			<role>Paul</role>
+		</credit>
+		<credit>
+			<actor>Piper Laurie</actor>
+			<role>Grandma</role>
+		</credit>
+		<credit>
+			<actor>Brendan Hill</actor>
+			<role>Dustin</role>
+		</credit>
+		<credit>
+			<actor>John Carroll Lynch</actor>
+			<role>Larry</role>
+		</credit>
+		<credit>
+			<actor>Monica Staggs</actor>
+			<role>Mom</role>
+		</credit>
+		<credit>
+			<actor>Mary Elizabeth Barrett</actor>
+			<role>Meryl</role>
+		</credit>
+		<credit>
+			<actor>Audrey Wasilewski</actor>
+			<role>Coleen</role>
+		</credit>
+		<credit>
+			<actor>Lyle Kanouse</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Frank Collison</actor>
+			<role>Funeral Director</role>
+		</credit>
+		<credit>
+			<actor>Van Epperson</actor>
+			<role>Angry Driver</role>
+		</credit>
+		<credit>
+			<actor>Helen Slayton-Hughes</actor>
+			<role>Mrs. Rosowski</role>
+		</credit>
+		<credit>
+			<actor>Paul Bates</actor>
+			<role>Mr. Elsberry</role>
+		</credit>
+		<credit>
+			<actor>Ralph P. Martin</actor>
+			<role>Tow Truck Driver</role>
+		</credit>
+		<credit>
+			<actor>Timothy Davis</actor>
+			<role>Mechanic</role>
+		</credit>
+		<credit>
+			<actor>Allan Graf</actor>
+			<role>Security Guard</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 22 2010</releasedate>
+		<releasedate country="United States">October 15 2010</releasedate>
+		<releasedate country="United States">April 16 2011</releasedate>
+		<releasedate country="United States">May 13 2011</releasedate>
+		<releasedate country="Japan">June 25 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>funeral</keyword>
+		<keyword>bully</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>male wears underwear</keyword>
+		<keyword>drawing</keyword>
+		<keyword>hooded sweatshirt</keyword>
+		<keyword>bicycling in the rain</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>antisocial behavior</keyword>
+		<keyword>car insurance</keyword>
+		<keyword>roof</keyword>
+		<keyword>yard</keyword>
+		<keyword>flower</keyword>
+		<keyword>gasoline can</keyword>
+		<keyword>heavy metal</keyword>
+		<keyword>police officer</keyword>
+		<keyword>offer</keyword>
+		<keyword>pill</keyword>
+		<keyword>drug abuse</keyword>
+		<keyword>sale</keyword>
+		<keyword>threat</keyword>
+		<keyword>death threat</keyword>
+		<keyword>throwing something at someone</keyword>
+		<keyword>barbecue grill</keyword>
+		<keyword>can</keyword>
+		<keyword>coffee table</keyword>
+		<keyword>writing</keyword>
+		<keyword>poverty</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>tying someone's necktie</keyword>
+		<keyword>diving board</keyword>
+		<keyword>older woman younger man relationship</keyword>
+		<keyword>beer</keyword>
+		<keyword>damage</keyword>
+		<keyword>lawn chair</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>reference to r2 d2</keyword>
+		<keyword>barefoot boy</keyword>
+		<keyword>barefoot male</keyword>
+		<keyword>camera shot of feet</keyword>
+		<keyword>camera shot of bare feet</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>reference to shaved vagina</keyword>
+		<keyword>reference to snake</keyword>
+		<keyword>reference to vagina</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>u.s. car</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>chevrolet motor vehicle</keyword>
+		<keyword>chevrolet chevette</keyword>
+		<keyword>chevrolet van</keyword>
+		<keyword>chevrolet chevy van</keyword>
+		<keyword>convertible</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford motor vehicle</keyword>
+		<keyword>ford car</keyword>
+		<keyword>ford mustang</keyword>
+		<keyword>ford mustang convertible</keyword>
+		<keyword>japanese car</keyword>
+		<keyword>honda</keyword>
+		<keyword>honda motor vehicle</keyword>
+		<keyword>honda civic the car</keyword>
+		<keyword>honda civic</keyword>
+		<keyword>swedish car</keyword>
+		<keyword>volvo</keyword>
+		<keyword>volvo motor vehicle</keyword>
+		<keyword>volvo car</keyword>
+		<keyword>volvo 740</keyword>
+		<keyword>belching</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>car</keyword>
+		<keyword>car accident</keyword>
+		<keyword>fire</keyword>
+		<keyword>squatter</keyword>
+		<keyword>death</keyword>
+		<keyword>van</keyword>
+		<keyword>school</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>grocery store</keyword>
+		<keyword>grocery store clerk</keyword>
+		<keyword>pushing a coffin</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>malnutrition</keyword>
+		<keyword>headbanger</keyword>
+		<keyword>reference to metallica</keyword>
+		<keyword>reference to motorhead</keyword>
+		<keyword>singing in a car</keyword>
+		<keyword>derelict</keyword>
+		<keyword>stained glass window</keyword>
+		<keyword>photograph</keyword>
+		<keyword>throwing a chair</keyword>
+		<keyword>ransacking</keyword>
+		<keyword>breaking a car window</keyword>
+		<keyword>peanut</keyword>
+		<keyword>counseling</keyword>
+		<keyword>gang</keyword>
+		<keyword>bad influence</keyword>
+		<keyword>misfit</keyword>
+		<keyword>mentor protege relationship</keyword>
+		<keyword>brushing one's teeth</keyword>
+		<keyword>dirt in mouth</keyword>
+		<keyword>walking</keyword>
+		<keyword>scrotum</keyword>
+		<keyword>blood</keyword>
+		<keyword>bloody mouth</keyword>
+		<keyword>answering machine</keyword>
+		<keyword>bicycle lock</keyword>
+		<keyword>cutting someone's nose</keyword>
+		<keyword>violence</keyword>
+		<keyword>looking in a window</keyword>
+		<keyword>looking out a window</keyword>
+		<keyword>climbing through a window</keyword>
+		<keyword>frustration</keyword>
+		<keyword>lead pipe</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>riding a bicycle into a swimming pool</keyword>
+		<keyword>metaphor</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>sing along</keyword>
+		<keyword>compacted car</keyword>
+		<keyword>funeral director</keyword>
+		<keyword>scissors</keyword>
+		<keyword>house for sale</keyword>
+		<keyword>hit by a van</keyword>
+		<keyword>kicked in the groin</keyword>
+		<keyword>urinal</keyword>
+		<keyword>holding someone's head in a toilet</keyword>
+		<keyword>pouring gas on a car</keyword>
+		<keyword>obscene drawing</keyword>
+		<keyword>bicycle accident</keyword>
+		<keyword>sports car</keyword>
+		<keyword>drawing on the side of a car</keyword>
+		<keyword>magic marker</keyword>
+		<keyword>witness to sex</keyword>
+		<keyword>sitting in the dark</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>climbing a pole</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>reference to jesus christ</keyword>
+		<keyword>watching a porn video</keyword>
+		<keyword>guitarist</keyword>
+		<keyword>guitar</keyword>
+		<keyword>suburb</keyword>
+		<keyword>wallet</keyword>
+		<keyword>surrogate mother</keyword>
+		<keyword>teenage crush</keyword>
+		<keyword>boxer shorts</keyword>
+		<keyword>rape</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>listening to a car radio</keyword>
+		<keyword>construction site</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>reckless driving</keyword>
+		<keyword>automated teller machine</keyword>
+		<keyword>tin snips</keyword>
+		<keyword>breaking a lamp</keyword>
+		<keyword>throwing a lamp</keyword>
+		<keyword>caught in the act</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>reading a porn magazine</keyword>
+		<keyword>cunnilingus</keyword>
+		<keyword>swimming</keyword>
+		<keyword>jumping into a swimming pool</keyword>
+		<keyword>pushed into a swimming pool</keyword>
+		<keyword>fingering</keyword>
+		<keyword>traffic ticket</keyword>
+		<keyword>kicking a car</keyword>
+		<keyword>mouse</keyword>
+		<keyword>felony</keyword>
+		<keyword>death of grandmother</keyword>
+		<keyword>milk</keyword>
+		<keyword>dry cereal</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>rain</keyword>
+		<keyword>crawling through a dog door</keyword>
+		<keyword>coffin</keyword>
+		<keyword>apology</keyword>
+		<keyword>facial wound</keyword>
+		<keyword>crushing a car</keyword>
+		<keyword>car compactor</keyword>
+		<keyword>memory</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>urination</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>arrest</keyword>
+		<keyword>fingerprinting</keyword>
+		<keyword>mugshot</keyword>
+		<keyword>jail</keyword>
+		<keyword>penis</keyword>
+		<keyword>rear ending a car</keyword>
+		<keyword>hiding</keyword>
+		<keyword>liar</keyword>
+		<keyword>lie</keyword>
+		<keyword>reference to miss piggy</keyword>
+		<keyword>reference to kermit the frog</keyword>
+		<keyword>telling a joke</keyword>
+		<keyword>song</keyword>
+		<keyword>singing</keyword>
+		<keyword>singer</keyword>
+		<keyword>pizza</keyword>
+		<keyword>flashback</keyword>
+		<keyword>remote control</keyword>
+		<keyword>homelessness</keyword>
+		<keyword>choking someone</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>destruction of property</keyword>
+		<keyword>vandalism</keyword>
+		<keyword>breaking a window</keyword>
+		<keyword>throwing a stone at a window</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>washing clothes</keyword>
+		<keyword>washing machine</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>arm cast</keyword>
+		<keyword>friendship</keyword>
+		<keyword>friend</keyword>
+		<keyword>parking lot</keyword>
+		<keyword>damaged bicycle</keyword>
+		<keyword>car fire</keyword>
+		<keyword>explosion</keyword>
+		<keyword>doctor</keyword>
+		<keyword>prologue</keyword>
+		<keyword>junkyard</keyword>
+		<keyword>automobile graveyard</keyword>
+		<keyword>tow truck</keyword>
+		<keyword>climbing a fence</keyword>
+		<keyword>grief therapy</keyword>
+		<keyword>group therapy</keyword>
+		<keyword>therapy</keyword>
+		<keyword>grief</keyword>
+		<keyword>bath</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>wanting to buy a car</keyword>
+		<keyword>damaged car</keyword>
+		<keyword>rescue</keyword>
+		<keyword>masturbation</keyword>
+		<keyword>marijuana</keyword>
+		<keyword>stalking</keyword>
+		<keyword>being followed</keyword>
+		<keyword>following someone</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>arsonist</keyword>
+		<keyword>breaking and entering</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>arson</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>depression</keyword>
+		<keyword>setting a car on fire</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>car chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>classroom</keyword>
+		<keyword>teacher</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>self medication</keyword>
+		<keyword>sleep</keyword>
+		<keyword>beating</keyword>
+		<keyword>fight</keyword>
+		<keyword>spitting on someone</keyword>
+		<keyword>ice cream cone</keyword>
+		<keyword>f word</keyword>
+		<keyword>boys' bathroom</keyword>
+		<keyword>undressing</keyword>
+		<keyword>underwear</keyword>
+		<keyword>crying</keyword>
+		<keyword>suffering</keyword>
+		<keyword>pain</keyword>
+		<keyword>bullying</keyword>
+		<keyword>male female relationship</keyword>
+		<keyword>revenge</keyword>
+		<keyword>male with long hair</keyword>
+		<keyword>money</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>grandmother grandson relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>briefs</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>loss of wife</keyword>
+		<keyword>loss of daughter in law</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>lesbian sex</keyword>
+		<keyword>throwing food off a table</keyword>
+		<keyword>murder</keyword>
+		<keyword>running</keyword>
+	</keywords>
+	<directors>
+		<director> Spencer Susser</director>
+	</directors>
+	<composers>
+		<composer> François Tétaz</composer>
+	</composers>
+	<producers>
+		<producer> Ari Ackerman</producer>
+		<producer> Scot Armstrong</producer>
+		<producer> Marc Bell</producer>
+		<producer> Wayne H. Chang</producer>
+		<producer> Jeff Davis</producer>
+		<producer> Aaron Downing</producer>
+		<producer> Jay Franks</producer>
+		<producer> Ian Fruchtman</producer>
+		<producer> Jerry Fruchtman</producer>
+		<producer> Peter Fruchtman</producer>
+		<producer> Barry Habib</producer>
+		<producer> Toni Habib</producer>
+		<producer> Aleen Keshishian</producer>
+		<producer> Gina Kirkpatrick</producer>
+		<producer> Scott Kluge</producer>
+		<producer> Johnny Lin</producer>
+		<producer> Chase Mishkin</producer>
+		<producer> Ravi Nandan</producer>
+		<producer> Robert Ortiz</producer>
+		<producer> Tom Pellegrini</producer>
+		<producer> Natalie Portman</producer>
+		<producer> Scott Prisand</producer>
+		<producer> Jay Rifkin</producer>
+		<producer> Michael Roban</producer>
+		<producer> Annette Savitch</producer>
+		<producer> J.D. Seraphine</producer>
+		<producer> Win Sheridan</producer>
+		<producer> Lucy Sumner</producer>
+		<producer> Spencer Susser</producer>
+		<producer> Happy Walters</producer>
+		<producer> Matt Weaver</producer>
+		<producer> Jonathan Weisgal</producer>
+		<producer> Israel Wolfson</producer>
+	</producers>
+	<writers>
+		<writer> Spencer Susser</writer>
+		<writer> David Michôd</writer>
+		<writer> Brian Charles Frank</writer>
+	</writers>
+	<editors>
+		<editor> Michael McCusker</editor>
+		<editor> Spencer Susser</editor>
+	</editors>
+</doc>

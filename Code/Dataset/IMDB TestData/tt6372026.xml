@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<doc id="tt6372026">
+	<docid>tt6372026</docid>
+	<title>The Earliest Show</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTNlYmM5YmQtN2NhMi00MTYwLWIyMGYtNTc2NGM0M2M5ZGUwXkEyXkFqcGdeQXVyMTkxNzc0Nw@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">12</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Co-hosts Josh Bath and Samantha Newman have troubles with their early morning talk show when Josh gets dumped live on the air and battles through the seven stages of grief.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lauren Lapkus</actor>
+			<role>Samantha Newman</role>
+		</credit>
+		<credit>
+			<actor>Ben Schwartz</actor>
+			<role>Josh Bath</role>
+		</credit>
+		<credit>
+			<actor>Ryan Stanger</actor>
+			<role>Chip Stump</role>
+		</credit>
+		<credit>
+			<actor>Joe Hartzler</actor>
+			<role>Marc</role>
+		</credit>
+		<credit>
+			<actor>Eugene Cordero</actor>
+			<role>Chef Tommy</role>
+		</credit>
+		<credit>
+			<actor>Jessica Meraz</actor>
+			<role>Emily Fernandez</role>
+		</credit>
+		<credit>
+			<actor>Pedro Pascal</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Jane Levy</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jake Johnson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Betsy Sodaro</actor>
+			<role>Katie Veal</role>
+		</credit>
+		<credit>
+			<actor>Thomas Middleditch</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Reggie Watts</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Arielle Vandenberg</actor>
+			<role>Janice Crawl</role>
+		</credit>
+		<credit>
+			<actor>Reggie Miller</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Mel Cowan</actor>
+			<role>Bert Donaldson</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">October 27 2016</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>show</keyword>
+	</keywords>
+	<directors>
+		<director> Ben Schwartz</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Becca Kinskey</producer>
+		<producer> Alison Mobley</producer>
+		<producer> Matt Pittman</producer>
+	</producers>
+	<writers>
+		<writer> Ben Schwartz</writer>
+	</writers>
+	<editors/>
+</doc>

@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<doc id="tt3315386">
+	<docid>tt3315386</docid>
+	<title>Roots</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTg1Yjk5OGQtMDI1Yy00NjFiLTkwZjctNTMwM2ExNDg4NDhjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>War</genre>
+	</genres>
+	<plot>An adaptation of Alex Haley's &quot;Roots.&quot; Chronicles the history of an African man and his descendants sold into slavery in America.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>Mandingo</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jonathan Rhys Meyers</actor>
+			<role>Tom Lea</role>
+		</credit>
+		<credit>
+			<actor>Malachi Kirby</actor>
+			<role>Kunta Kinte</role>
+		</credit>
+		<credit>
+			<actor>Forest Whitaker</actor>
+			<role>Fiddler</role>
+		</credit>
+		<credit>
+			<actor>Laurence Fishburne</actor>
+			<role>Alex Haley</role>
+		</credit>
+		<credit>
+			<actor>Babs Olusanmokun</actor>
+			<role>Omoro Kinte</role>
+		</credit>
+		<credit>
+			<actor>Kerry Sims</actor>
+			<role>Slave</role>
+		</credit>
+		<credit>
+			<actor>Tevin Paul</actor>
+			<role>Freed Slave Soldier</role>
+		</credit>
+		<credit>
+			<actor>Matthew Goode</actor>
+			<role>Dr. William Waller</role>
+		</credit>
+		<credit>
+			<actor>Regé-Jean Page</actor>
+			<role>Chicken George</role>
+		</credit>
+		<credit>
+			<actor>Emayatzy Corinealdi</actor>
+			<role>Belle</role>
+		</credit>
+		<credit>
+			<actor>Shannon Lucio</actor>
+			<role>Patricia Lea</role>
+		</credit>
+		<credit>
+			<actor>James Purefoy</actor>
+			<role>John Waller</role>
+		</credit>
+		<credit>
+			<actor>Erica Tazel</actor>
+			<role>Matilda</role>
+		</credit>
+		<credit>
+			<actor>Derek Luke</actor>
+			<role>Silla Ba Dibba</role>
+		</credit>
+		<credit>
+			<actor>Katie McGuinness</actor>
+			<role>Elizabeth Waller</role>
+		</credit>
+		<credit>
+			<actor>Anika Noni Rose</actor>
+			<role>Kizzy</role>
+		</credit>
+		<credit>
+			<actor>Tony Curran</actor>
+			<role>Connelly</role>
+		</credit>
+		<credit>
+			<actor>Adam Fergus</actor>
+			<role>Sir Eric Russell</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">May 30 2016</releasedate>
+		<releasedate country="United States">May 30 2016</releasedate>
+		<releasedate country="New Zealand">July 3 2016</releasedate>
+		<releasedate country="Australia">July 27 2016</releasedate>
+		<releasedate country="Japan">August 22 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>one word series title</keyword>
+		<keyword>biracial</keyword>
+		<keyword>biracial child</keyword>
+		<keyword>american historical setting</keyword>
+		<keyword>18th century</keyword>
+		<keyword>19th century</keyword>
+		<keyword>slave</keyword>
+		<keyword>ancestor</keyword>
+		<keyword>mentor protege relationship</keyword>
+		<keyword>struggle for survival</keyword>
+		<keyword>parent child relationship</keyword>
+		<keyword>master slave relationship</keyword>
+		<keyword>african history</keyword>
+		<keyword>slavery</keyword>
+		<keyword>multi generational saga</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>based on book</keyword>
+	</keywords>
+	<directors>
+		<director> Bruce Beresford</director>
+		<director> Thomas Carter</director>
+		<director> Phillip Noyce</director>
+		<director> Mario Van Peebles</director>
+	</directors>
+	<composers>
+		<composer> Alex Heffes</composer>
+		<composer> Philip Miller</composer>
+	</composers>
+	<producers>
+		<producer> LeVar Burton</producer>
+		<producer> Alissa M. Kantrow</producer>
+		<producer> Karen Mayeda Vranek</producer>
+		<producer> Will Packer</producer>
+		<producer> Mike Stiller</producer>
+		<producer> Marc Toberoff</producer>
+		<producer> Korin Williams</producer>
+		<producer> Mark Wolper</producer>
+		<producer> Ann Kindberg</producer>
+		<producer> Cheryl Eatock</producer>
+		<producer> Barry Jossen</producer>
+		<producer> Lawrence Konner</producer>
+		<producer> Mark Rosenthal</producer>
+	</producers>
+	<writers>
+		<writer> Alex Haley</writer>
+		<writer> Lawrence Konner</writer>
+		<writer> Mark Rosenthal</writer>
+		<writer> Alison McDonald</writer>
+		<writer> Charles Murray</writer>
+	</writers>
+	<editors>
+		<editor> Greg Babor</editor>
+		<editor> David Beatty</editor>
+		<editor> Neil Mandelberg</editor>
+		<editor> Martin Nicholson</editor>
+		<editor> James Wilcox</editor>
+	</editors>
+</doc>

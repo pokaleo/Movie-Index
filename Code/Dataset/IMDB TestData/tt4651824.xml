@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<doc id="tt4651824">
+	<docid>tt4651824</docid>
+	<title>The Muppets</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjE0MTM4NTc3NF5BMl5BanBnXkFtZTcwMjYzOTIxNg@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">21</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>Jim Henson's lovable Muppets return to the small screen in this mockumentary-style series that follows their personal and professional lives.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dave Goelz</actor>
+			<role>Zoot</role>
+		</credit>
+		<credit>
+			<actor>Eric Jacobson</actor>
+			<role>Fozzie Bear</role>
+		</credit>
+		<credit>
+			<actor>Bill Barretta</actor>
+			<role>Pepe the King Prawn</role>
+		</credit>
+		<credit>
+			<actor>Peter Linz</actor>
+			<role>Various</role>
+		</credit>
+		<credit>
+			<actor>David Rudman</actor>
+			<role>Janice</role>
+		</credit>
+		<credit>
+			<actor>Matt Vogel</actor>
+			<role>Floyd Pepper</role>
+		</credit>
+		<credit>
+			<actor>Steve Whitmire</actor>
+			<role>Kermit the Frog</role>
+		</credit>
+		<credit>
+			<actor>Julianne Buescher</actor>
+			<role>Yolanda the Rat</role>
+		</credit>
+		<credit>
+			<actor>Bruce Lanoil</actor>
+			<role>Additional Muppet Performer</role>
+		</credit>
+		<credit>
+			<actor>Mike Quinn</actor>
+			<role>Additional Muppet Performer</role>
+		</credit>
+		<credit>
+			<actor>Tim Lagasse</actor>
+			<role>Additional Muppet Performer</role>
+		</credit>
+		<credit>
+			<actor>Michelan Sisti</actor>
+			<role>Additional Muppet Performer</role>
+		</credit>
+		<credit>
+			<actor>Alice Dinnean</actor>
+			<role>Additional Muppet Performer</role>
+		</credit>
+		<credit>
+			<actor>Layla Alizada</actor>
+			<role>Betty</role>
+		</credit>
+		<credit>
+			<actor>Riki Lindhome</actor>
+			<role>Becky</role>
+		</credit>
+		<credit>
+			<actor>Utkarsh Ambudkar</actor>
+			<role>Pizza</role>
+		</credit>
+		<credit>
+			<actor>Tyler Bunch</actor>
+			<role>Additional Muppet Performer</role>
+		</credit>
+		<credit>
+			<actor>June Diane Raphael</actor>
+			<role>Lucy Royce</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">July 21 2015</releasedate>
+		<releasedate country="United States">September 22 2015</releasedate>
+		<releasedate country="United Kingdom">October 19 2015</releasedate>
+		<releasedate country="Sweden">November 1 2015</releasedate>
+		<releasedate country="Netherlands">November 27 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Portugal">T</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mockumentary</keyword>
+		<keyword>disney</keyword>
+		<keyword>abc</keyword>
+		<keyword>the muppets</keyword>
+		<keyword>two word title</keyword>
+		<keyword>period in title</keyword>
+		<keyword>puppet</keyword>
+	</keywords>
+	<directors>
+		<director> Randall Einhorn</director>
+		<director> Matt Sohn</director>
+		<director> Bill Barretta</director>
+	</directors>
+	<composers>
+		<composer> Ed Mitchell</composer>
+		<composer> Steve Morrell</composer>
+	</composers>
+	<producers>
+		<producer> Kris Eber</producer>
+		<producer> Josh Greene</producer>
+		<producer> Bill Barretta</producer>
+		<producer> Dave Caplan</producer>
+		<producer> Randall Einhorn</producer>
+		<producer> Bob Kushell</producer>
+		<producer> Debbie McClellan</producer>
+		<producer> Bill Prady</producer>
+		<producer> Kyle Laughlin</producer>
+		<producer> Nell Scovell</producer>
+		<producer> Margee Magee</producer>
+		<producer> Gregg Mettler</producer>
+		<producer> Angeli Millan</producer>
+		<producer> Steve Rudnick</producer>
+		<producer> Emily R. Wilson</producer>
+		<producer> Kristin Newman</producer>
+		<producer> Franklin Hardy</producer>
+		<producer> Shane Kosakowski</producer>
+		<producer> Scott Weinger</producer>
+		<producer> Deborah Sahagun</producer>
+	</producers>
+	<writers>
+		<writer> Bob Kushell</writer>
+		<writer> Bob Kushell</writer>
+		<writer> Bob Kushell</writer>
+		<writer> Bob Kushell</writer>
+		<writer> Bill Prady</writer>
+		<writer> Bill Prady</writer>
+		<writer> Bill Prady</writer>
+		<writer> Jim Henson</writer>
+		<writer> Dave Caplan</writer>
+		<writer> Dave Caplan</writer>
+		<writer> Dave Caplan</writer>
+		<writer> Gregg Mettler</writer>
+		<writer> Gregg Mettler</writer>
+		<writer> Gregg Mettler</writer>
+		<writer> Nell Scovell</writer>
+		<writer> Nell Scovell</writer>
+		<writer> Nell Scovell</writer>
+		<writer> Steve Rudnick</writer>
+		<writer> Steve Rudnick</writer>
+		<writer> Steve Rudnick</writer>
+		<writer> Gus Hickey</writer>
+		<writer> Gus Hickey</writer>
+		<writer> Gus Hickey</writer>
+		<writer> Jordan Reddout</writer>
+		<writer> Jordan Reddout</writer>
+		<writer> Jordan Reddout</writer>
+		<writer> Emily R. Wilson</writer>
+		<writer> Emily R. Wilson</writer>
+		<writer> Franklin Hardy</writer>
+		<writer> Franklin Hardy</writer>
+		<writer> Franklin Hardy</writer>
+		<writer> Shane Kosakowski</writer>
+		<writer> Shane Kosakowski</writer>
+		<writer> Shane Kosakowski</writer>
+		<writer> Margee Magee</writer>
+		<writer> Margee Magee</writer>
+		<writer> Margee Magee</writer>
+		<writer> Angeli Millan</writer>
+		<writer> Angeli Millan</writer>
+		<writer> Angeli Millan</writer>
+		<writer> Mike Coughlin</writer>
+		<writer> Amy Heckerling</writer>
+		<writer> Scott Weinger</writer>
+	</writers>
+	<editors>
+		<editor> Richie Edelson</editor>
+		<editor> Ivan Victor</editor>
+		<editor> James Renfroe</editor>
+	</editors>
+</doc>

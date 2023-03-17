@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<doc id="tt2705602">
+	<docid>tt2705602</docid>
+	<title>Atlantis</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI0MTI4MTY3N15BMl5BanBnXkFtZTcwMjg1NjQ4NA@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Far from home, Jason washes up on the shores of the ancient and mysterious city of Atlantis.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Mark Addy</actor>
+			<role>Hercules</role>
+		</credit>
+		<credit>
+			<actor>Jack Donnelly</actor>
+			<role>Jason</role>
+		</credit>
+		<credit>
+			<actor>Robert Emms</actor>
+			<role>Pythagoras</role>
+		</credit>
+		<credit>
+			<actor>Aiysha Hart</actor>
+			<role>Ariadne</role>
+		</credit>
+		<credit>
+			<actor>Sarah Parish</actor>
+			<role>Pasiphae</role>
+		</credit>
+		<credit>
+			<actor>Jemima Rooper</actor>
+			<role>Medusa</role>
+		</credit>
+		<credit>
+			<actor>Juliet Stevenson</actor>
+			<role>The Oracle</role>
+		</credit>
+		<credit>
+			<actor>Amy Manson</actor>
+			<role>Medea</role>
+		</credit>
+		<credit>
+			<actor>Ken Bones</actor>
+			<role>Melas</role>
+		</credit>
+		<credit>
+			<actor>Peter De Jersey</actor>
+			<role>Goran</role>
+		</credit>
+		<credit>
+			<actor>Alexander Siddig</actor>
+			<role>Minos</role>
+		</credit>
+		<credit>
+			<actor>Oliver Walker</actor>
+			<role>Heptarian</role>
+		</credit>
+		<credit>
+			<actor>Lorcan Cranitch</actor>
+			<role>Cilix</role>
+		</credit>
+		<credit>
+			<actor>Kate Speak</actor>
+			<role>Atlantean</role>
+		</credit>
+		<credit>
+			<actor>Anya Taylor-Joy</actor>
+			<role>Cassandra</role>
+		</credit>
+		<credit>
+			<actor>Robert Lindsay</actor>
+			<role>Daedalus</role>
+		</credit>
+		<credit>
+			<actor>Vincent Regan</actor>
+			<role>Dion</role>
+		</credit>
+		<credit>
+			<actor>Joseph Timms</actor>
+			<role>Icarus</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">September 28 2013</releasedate>
+		<releasedate country="Canada">October 12 2013</releasedate>
+		<releasedate country="United States">November 23 2013</releasedate>
+		<releasedate country="Sweden">January 18 2014</releasedate>
+		<releasedate country="France">February 16 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">G</certificate>
+		<certificate country="France">Not Rated</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>greek mythology</keyword>
+		<keyword>atlantis</keyword>
+		<keyword>hercules character</keyword>
+		<keyword>medusa character</keyword>
+		<keyword>pythagoras character</keyword>
+		<keyword>jason character</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>king</keyword>
+		<keyword>mythology</keyword>
+		<keyword>oracle character</keyword>
+		<keyword>sword and sorcery</keyword>
+		<keyword>medea character</keyword>
+		<keyword>epic fantasy</keyword>
+		<keyword>mythic fantasy</keyword>
+	</keywords>
+	<directors>
+		<director> Justin Molotnikov</director>
+		<director> Declan O'Dwyer</director>
+		<director> Alice Troughton</director>
+		<director> Lawrence Gough</director>
+		<director> Jeremy Webb</director>
+		<director> Julian Murphy</director>
+	</directors>
+	<composers>
+		<composer> Rob Lane</composer>
+		<composer> Stuart Hancock</composer>
+		<composer> Rohan Stevenson</composer>
+		<composer> James Gosling</composer>
+	</composers>
+	<producers>
+		<producer> Johnny Capps</producer>
+		<producer> Rachel Knight</producer>
+		<producer> Julian Murphy</producer>
+		<producer> Howard Overman</producer>
+		<producer> Gareth Williams</producer>
+		<producer> Amanda Wilkie</producer>
+		<producer> Bethan Jones</producer>
+		<producer> Alexandra Kosevic</producer>
+	</producers>
+	<writers>
+		<writer> Howard Overman</writer>
+		<writer> Howard Overman</writer>
+		<writer> Howard Overman</writer>
+		<writer> Johnny Capps</writer>
+		<writer> Julian Murphy</writer>
+		<writer> Julian Jones</writer>
+		<writer> Richard McBrien</writer>
+		<writer> Lucy Watkins</writer>
+	</writers>
+	<editors>
+		<editor> Simon Reglar</editor>
+		<editor> Mark Thornton</editor>
+		<editor> Tom White</editor>
+		<editor> Jeremy Strachan</editor>
+		<editor> Calum Ross</editor>
+	</editors>
+</doc>

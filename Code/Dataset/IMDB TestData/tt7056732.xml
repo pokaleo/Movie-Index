@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<doc id="tt7056732">
+	<docid>tt7056732</docid>
+	<title>Midnight Runners</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDE5Zjc3NjUtNmYwYS00M2IxLWFjMGMtYmI3ZWNkOTZmNWExXkEyXkFqcGdeQXVyNTAwNzc3ODg@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">109</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>Two friends who are students at Korean National Police University, find themselves in an endless race against time after they witness a kidnapping and decide to use their knowledge.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Park Seo-joon</actor>
+			<role>Hwang Ki-joon</role>
+		</credit>
+		<credit>
+			<actor>Kang Ha-neul</actor>
+			<role>Kang Hee-yeol</role>
+		</credit>
+		<credit>
+			<actor>Ha-seon Park</actor>
+			<role>Joo-hee</role>
+		</credit>
+		<credit>
+			<actor>Dong-il Sung</actor>
+			<role>Professor Yang</role>
+		</credit>
+		<credit>
+			<actor>Yoo-ram Bae</actor>
+			<role>Jae-ho</role>
+		</credit>
+		<credit>
+			<actor>Joon Go</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Lee Ho-jung</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Min-tae Kang</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Si-Won Cha</actor>
+			<role>Cadet at police academy</role>
+		</credit>
+		<credit>
+			<actor>Ji Won Han</actor>
+			<role>Female student</role>
+		</credit>
+		<credit>
+			<actor>Hyun-Lim Jo</actor>
+			<role>OB</role>
+		</credit>
+		<credit>
+			<actor>Kim Kyu-baek</actor>
+			<role>Young-Choon's gang member</role>
+		</credit>
+		<credit>
+			<actor>Eunbi Lee</actor>
+			<role>Bit part</role>
+		</credit>
+		<credit>
+			<actor>Moon-cheol Nam</actor>
+			<role>OB</role>
+		</credit>
+		<credit>
+			<actor>Ahn Seong-bong</actor>
+			<role>Club security</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">August 9 2017</releasedate>
+		<releasedate country="Vietnam">August 18 2017</releasedate>
+		<releasedate country="United States">August 25 2017</releasedate>
+		<releasedate country="Indonesia">August 30 2017</releasedate>
+		<releasedate country="Australia">August 31 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Japan">Unrated</certificate>
+		<certificate country="Japan">PG-12</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>kidnapping</keyword>
+	</keywords>
+	<directors>
+		<director> Joo-hwan Kim</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Won-Chun Cha</producer>
+		<producer> Gyeong-jae Jeong</producer>
+		<producer> Jae-Joong Kim</producer>
+		<producer> Woo-Jae Kim</producer>
+		<producer> Jun-woo Lee</producer>
+	</producers>
+	<writers>
+		<writer> Joo-hwan Kim</writer>
+	</writers>
+	<editors>
+		<editor> Changju Kim</editor>
+	</editors>
+</doc>

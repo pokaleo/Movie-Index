@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<doc id="tt4711184">
+	<docid>tt4711184</docid>
+	<title>Game Shakers</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzY0Nzg5ODAtMDliNC00OTlhLWFlNDItODAxMmFkY2FiZmVhXkEyXkFqcGdeQXVyODk4Nzg5NjE@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>A live-action sitcom about two 12-year-old girls who start a multi-million-dollar gaming company and take on rap superstar Double G as a business partner.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Cree</actor>
+			<role>Babe Carano</role>
+		</credit>
+		<credit>
+			<actor>Madisyn Shipman</actor>
+			<role>Kenzie Bell</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Flores Jr.</actor>
+			<role>Triple G</role>
+		</credit>
+		<credit>
+			<actor>Thomas Kuc</actor>
+			<role>Hudson Gimble</role>
+		</credit>
+		<credit>
+			<actor>Kel Mitchell</actor>
+			<role>Double G</role>
+		</credit>
+		<credit>
+			<actor>Bubba Ganter</actor>
+			<role>Bunny</role>
+		</credit>
+		<credit>
+			<actor>Sheldon Bailey</actor>
+			<role>Ruthless</role>
+		</credit>
+		<credit>
+			<actor>Regi Davis</actor>
+			<role>Mr. Sammich</role>
+		</credit>
+		<credit>
+			<actor>Todd Bosley</actor>
+			<role>Teague</role>
+		</credit>
+		<credit>
+			<actor>Melanie Rains</actor>
+			<role>Shelly</role>
+		</credit>
+		<credit>
+			<actor>Tanner Buchanan</actor>
+			<role>Mason Kendall</role>
+		</credit>
+		<credit>
+			<actor>Alexandre Chen</actor>
+			<role>Bobby Dong</role>
+		</credit>
+		<credit>
+			<actor>Kelli Barksdale</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Dan Schneider</actor>
+			<role>Pig's voice</role>
+		</credit>
+		<credit>
+			<actor>Kara Petersen</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Jake Farrow</actor>
+			<role>Rex</role>
+		</credit>
+		<credit>
+			<actor>Sam Becker</actor>
+			<role>Announcer #1</role>
+		</credit>
+		<credit>
+			<actor>Steve Kuzj</actor>
+			<role>Ken Jennings</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">September 12 2015</releasedate>
+		<releasedate country="United States">September 12 2015</releasedate>
+		<releasedate country="Germany">January 10 2016</releasedate>
+		<releasedate country="France">February 15 2016</releasedate>
+		<releasedate country="Italy">February 15 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>nickelodeon</keyword>
+		<keyword>laugh track</keyword>
+	</keywords>
+	<directors>
+		<director> Steve Hoefer</director>
+		<director> Adam Weissman</director>
+		<director> David Kendall</director>
+		<director> Russ Reinsel</director>
+		<director> Mike Caron</director>
+		<director> Nathan Kress</director>
+		<director> Peter Filsinger</director>
+		<director> Harry Matheu</director>
+	</directors>
+	<composers>
+		<composer> Eric Goldman</composer>
+		<composer> Michael Corcoran</composer>
+	</composers>
+	<producers>
+		<producer> Bruce Rand Berman</producer>
+		<producer> Philip Mangano</producer>
+		<producer> Dan Schneider</producer>
+		<producer> Robin Weiner</producer>
+		<producer> Karen Fensterstock</producer>
+		<producer> Richard Goodman</producer>
+		<producer> Catherine LeFebvre</producer>
+		<producer> Jake Farrow</producer>
+		<producer> Jeffrey L. Goldstein</producer>
+		<producer> Sean Gill</producer>
+		<producer> Andrew Hirsch</producer>
+		<producer> Jana Petrosini</producer>
+		<producer> Stephan Reese</producer>
+		<producer> Trent Dempsey</producer>
+		<producer> Yoli Poropat</producer>
+		<producer> Seth Kurland</producer>
+	</producers>
+	<writers>
+		<writer> Dan Schneider</writer>
+		<writer> Dan Schneider</writer>
+		<writer> Dan Schneider</writer>
+		<writer> Dan Schneider</writer>
+		<writer> Dan Schneider</writer>
+		<writer> Dan Schneider</writer>
+		<writer> Alejandro Bien-Willner</writer>
+		<writer> Alejandro Bien-Willner</writer>
+		<writer> Jake Farrow</writer>
+		<writer> Jake Farrow</writer>
+		<writer> Jake Farrow</writer>
+		<writer> Richard Goodman</writer>
+		<writer> Richard Goodman</writer>
+		<writer> Richard Goodman</writer>
+		<writer> Sean Gill</writer>
+		<writer> Jana Petrosini</writer>
+		<writer> Seth Kurland</writer>
+		<writer> Seth Kurland</writer>
+		<writer> Danny Warren</writer>
+	</writers>
+	<editors>
+		<editor> Andrew Hirsch</editor>
+		<editor> Nancy Morrison</editor>
+		<editor> Jonathan Posell</editor>
+		<editor> Evan Himel</editor>
+		<editor> Mark Dashnaw</editor>
+		<editor> Timothy M. Snell</editor>
+		<editor> Ben Bosse</editor>
+	</editors>
+</doc>

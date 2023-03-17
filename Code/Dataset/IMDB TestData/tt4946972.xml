@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<doc id="tt4946972">
+	<docid>tt4946972</docid>
+	<title>Training Day</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDZkMTUxYWEtMDY5NS00ZTA5LTg3MTItNTlkZWE1YWRjYjMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>TV follow-up to the 2001 film 'Training Day' about a rookie cop partnered with a corrupt officer.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Bill Paxton</actor>
+			<role>Det. Frank Rourke</role>
+		</credit>
+		<credit>
+			<actor>Justin Cornwell</actor>
+			<role>Det. Kyle Craig</role>
+		</credit>
+		<credit>
+			<actor>Katrina Law</actor>
+			<role>Rebecca Lee</role>
+		</credit>
+		<credit>
+			<actor>Drew Van Acker</actor>
+			<role>Tommy Campbell</role>
+		</credit>
+		<credit>
+			<actor>Christina Vidal</actor>
+			<role>Det. Valeria Chavez</role>
+		</credit>
+		<credit>
+			<actor>Marianne Jean-Baptiste</actor>
+			<role>Deputy Chief Joy Lockhart</role>
+		</credit>
+		<credit>
+			<actor>Lex Scott Davis</actor>
+			<role>Alyse Craig</role>
+		</credit>
+		<credit>
+			<actor>Julie Benz</actor>
+			<role>Holly Butler</role>
+		</credit>
+		<credit>
+			<actor>Noel Gugliemi</actor>
+			<role>Moreno</role>
+		</credit>
+		<credit>
+			<actor>Cassius M. Willis</actor>
+			<role>Billy</role>
+		</credit>
+		<credit>
+			<actor>Max Martini</actor>
+			<role>Jack Ivers</role>
+		</credit>
+		<credit>
+			<actor>Lela Rochon</actor>
+			<role>Mrs. Craig</role>
+		</credit>
+		<credit>
+			<actor>Nick Chinlund</actor>
+			<role>Tim Wallace</role>
+		</credit>
+		<credit>
+			<actor>Christopher Cousins</actor>
+			<role>Ken Patterson</role>
+		</credit>
+		<credit>
+			<actor>Alex Quijano</actor>
+			<role>FBI Agent Noah Boudreau</role>
+		</credit>
+		<credit>
+			<actor>Tehmina Sunny</actor>
+			<role>Lina Farzan</role>
+		</credit>
+		<credit>
+			<actor>Joaquim de Almeida</actor>
+			<role>Menjivar</role>
+		</credit>
+		<credit>
+			<actor>Ai-Chan Carrier</actor>
+			<role>5 Yr. Old Rebecca</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">February 2 2017</releasedate>
+		<releasedate country="United States">February 2 2017</releasedate>
+		<releasedate country="Australia">February 26 2017</releasedate>
+		<releasedate country="Spain">February 28 2017</releasedate>
+		<releasedate country="Italy">September 19 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Italy"> BA</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>detective</keyword>
+		<keyword>timeframe 2000s</keyword>
+	</keywords>
+	<directors>
+		<director> Steven A. Adelson</director>
+		<director> Matt Earl Beesley</director>
+		<director> Danny Cannon</director>
+		<director> Milan Cheylov</director>
+		<director> Anton Cropper</director>
+		<director> Eagle Egilsson</director>
+		<director> Nathan Hope</director>
+		<director> Jeffrey G. Hunt</director>
+		<director> Eriq La Salle</director>
+		<director> Louis Shaw Milito</director>
+		<director> Christine Moore</director>
+		<director> Steve Shill</director>
+		<director> Larry Teng</director>
+	</directors>
+	<composers>
+		<composer> Jeff Cardoni</composer>
+		<composer> Daniel Merlot</composer>
+	</composers>
+	<producers>
+		<producer> Will Beall</producer>
+		<producer> Jerry Bruckheimer</producer>
+		<producer> Antoine Fuqua</producer>
+		<producer> Erik Holmberg</producer>
+		<producer> Jonathan Littman</producer>
+		<producer> Tom Flores</producer>
+		<producer> Terence Paul Winter</producer>
+		<producer> Danny Cannon</producer>
+		<producer> KristieAnne Reed</producer>
+		<producer> Barry Schindel</producer>
+		<producer> Maisha Closson</producer>
+		<producer> Rebecca Dameron</producer>
+		<producer> Robert David Port</producer>
+		<producer> Mike Azzolino</producer>
+		<producer> Jonathan C. Brody</producer>
+	</producers>
+	<writers>
+		<writer> David Ayer</writer>
+		<writer> David Ayer</writer>
+		<writer> Will Beall</writer>
+		<writer> Will Beall</writer>
+		<writer> Will Beall</writer>
+		<writer> Bianca Sams</writer>
+		<writer> Bianca Sams</writer>
+		<writer> Rebecca Dameron</writer>
+		<writer> Robb Berke</writer>
+		<writer> Maisha Closson</writer>
+		<writer> John Covarrubias</writer>
+		<writer> Alexi Hawley</writer>
+		<writer> Robert David Port</writer>
+		<writer> Barry Schindel</writer>
+		<writer> Clay Senechal</writer>
+		<writer> Ian Shorr</writer>
+		<writer> Alec Wells</writer>
+		<writer> Terence Paul Winter</writer>
+		<writer> Gregory Yeoman</writer>
+	</writers>
+	<editors>
+		<editor> Louis Bravo</editor>
+		<editor> Tim Mirkovich</editor>
+		<editor> Ian S. Tan</editor>
+		<editor> Jason Hellmann</editor>
+	</editors>
+</doc>

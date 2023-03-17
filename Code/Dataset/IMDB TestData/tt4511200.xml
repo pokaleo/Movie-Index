@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<doc id="tt4511200">
+	<docid>tt4511200</docid>
+	<title>Manifesto</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjU5MzA4YjMtOGQ4NS00MjAzLWEyOTUtMGQ0OTE5MjgxY2JmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>III 2015</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Cate Blanchett performs manifestos as a series of striking monologues.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Cate Blanchett</actor>
+			<role>Homeless Man</role>
+		</credit>
+		<credit>
+			<actor>Erika Bauer</actor>
+			<role>Situationism Extra #4</role>
+		</credit>
+		<credit>
+			<actor>Ruby Bustamante</actor>
+			<role>Flight Attendant</role>
+		</credit>
+		<credit>
+			<actor>Carl Dietrich</actor>
+			<role>Situationism Extra #5</role>
+		</credit>
+		<credit>
+			<actor>Marie Borkowski Foedrowitz</actor>
+			<role>Situationism Extra #1</role>
+		</credit>
+		<credit>
+			<actor>Ea-Ja Kim</actor>
+			<role>Pop Art Extra</role>
+		</credit>
+		<credit>
+			<actor>Marina Michael</actor>
+			<role>Situationism Extra #3</role>
+		</credit>
+		<credit>
+			<actor>Hannelore Ohlendorf</actor>
+			<role>Situationism Extra #2</role>
+		</credit>
+		<credit>
+			<actor>Ottokar Sachse</actor>
+			<role>Situationism Extra #6</role>
+		</credit>
+		<credit>
+			<actor>Ralf Tempel</actor>
+			<role>Catholic Priest (Dadaism)</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Trash</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Andrew Upton</actor>
+			<role>Pop Art Extra</role>
+		</credit>
+		<credit>
+			<actor>Frederik Klaus</actor>
+			<role>Jogger</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">December 9 2015</releasedate>
+		<releasedate country="Germany">February 10 2016</releasedate>
+		<releasedate country="Australia">May 28 2016</releasedate>
+		<releasedate country="United States">January 23 2017</releasedate>
+		<releasedate country="Netherlands">February 1 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Finland">S</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>one word title</keyword>
+		<keyword>voice over</keyword>
+		<keyword>elevator</keyword>
+		<keyword>garbage</keyword>
+		<keyword>reference to dante alighieri</keyword>
+		<keyword>reference to johann wolfgang von goethe</keyword>
+		<keyword>reference to william shakespeare</keyword>
+		<keyword>reference to leo tolstoy</keyword>
+		<keyword>reference to michel de montaigne</keyword>
+		<keyword>reference to richard wagner</keyword>
+		<keyword>reference to ludwig van beethoven</keyword>
+		<keyword>reference to charles baudelaire</keyword>
+		<keyword>reference to walt whitman</keyword>
+		<keyword>homeless person</keyword>
+		<keyword>narration</keyword>
+		<keyword>film on art and artists</keyword>
+		<keyword>spiral staircase</keyword>
+		<keyword>circular staircase</keyword>
+		<keyword>dog</keyword>
+		<keyword>school</keyword>
+		<keyword>classroom</keyword>
+		<keyword>schoolyard</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>fluxus</keyword>
+		<keyword>berlin germany</keyword>
+		<keyword>woman wears coverall</keyword>
+		<keyword>coverall</keyword>
+		<keyword>reference to frederic chopin</keyword>
+		<keyword>futurism</keyword>
+		<keyword>teacher</keyword>
+		<keyword>factory</keyword>
+		<keyword>puppeteer</keyword>
+		<keyword>housewife</keyword>
+		<keyword>doll</keyword>
+		<keyword>choreographer</keyword>
+		<keyword>punk rocker</keyword>
+		<keyword>newscaster</keyword>
+		<keyword>news reporter</keyword>
+		<keyword>scientist</keyword>
+		<keyword>funeral</keyword>
+	</keywords>
+	<directors>
+		<director> Julian Rosefeldt</director>
+	</directors>
+	<composers>
+		<composer> Ben Lukas Boysen</composer>
+		<composer> Nils Frahm</composer>
+	</composers>
+	<producers>
+		<producer> Cornelia Ackers</producer>
+		<producer> Monique Burger</producer>
+		<producer> Burger Collection</producer>
+		<producer> Marcos Kantis</producer>
+		<producer> Martin Lehwald</producer>
+		<producer> Julian Rosefeldt</producer>
+		<producer> Wassili Zygouris</producer>
+	</producers>
+	<writers>
+		<writer> Julian Rosefeldt</writer>
+	</writers>
+	<editors>
+		<editor> Bobby Good</editor>
+	</editors>
+</doc>

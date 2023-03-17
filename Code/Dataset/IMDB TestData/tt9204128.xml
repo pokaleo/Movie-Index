@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<doc id="tt9204128">
+	<docid>tt9204128</docid>
+	<title>The Mallorca Files</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzYwYWNhNmItMDk1Mi00ODEyLWExMTYtNjk1NDA2ZDI0YzQ1XkEyXkFqcGdeQXVyNjE4MjUwNjk@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A British and German detective clashing over how to police the Spanish island of Mallorca.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Elen Rhys</actor>
+			<role>Miranda Blake</role>
+		</credit>
+		<credit>
+			<actor>Julian Looman</actor>
+			<role>Max Winter</role>
+		</credit>
+		<credit>
+			<actor>María Fernández Ache</actor>
+			<role>Inés Villegas</role>
+		</credit>
+		<credit>
+			<actor>Tábata Cerezo</actor>
+			<role>Carmen Lorenzo</role>
+		</credit>
+		<credit>
+			<actor>Nacho Aldeguer</actor>
+			<role>Federico Ramis</role>
+		</credit>
+		<credit>
+			<actor>Denis Schmidt</actor>
+			<role>Christian</role>
+		</credit>
+		<credit>
+			<actor>Alex Hafner</actor>
+			<role>Roberto Herrero</role>
+		</credit>
+		<credit>
+			<actor>Carlos Olalla</actor>
+			<role>Joan Lorenzo</role>
+		</credit>
+		<credit>
+			<actor>Tanya Moodie</actor>
+			<role>Superintendent Abbey Palmer</role>
+		</credit>
+		<credit>
+			<actor>Nansi Nsue</actor>
+			<role>Luisa Rosa</role>
+		</credit>
+		<credit>
+			<actor>Aidan McArdle</actor>
+			<role>Man</role>
+		</credit>
+		<credit>
+			<actor>Lucía Guerrero</actor>
+			<role>Clara Cicada</role>
+		</credit>
+		<credit>
+			<actor>Olga Hueso</actor>
+			<role>Roberta Garcia</role>
+		</credit>
+		<credit>
+			<actor>Denise McCormack</actor>
+			<role>Stella Taylor</role>
+		</credit>
+		<credit>
+			<actor>Michael Epp</actor>
+			<role>Rainer Schröder</role>
+		</credit>
+		<credit>
+			<actor>Richard Cunningham</actor>
+			<role>Nicholas Mountford</role>
+		</credit>
+		<credit>
+			<actor>Toby Williams</actor>
+			<role>Mike Fowler</role>
+		</credit>
+		<credit>
+			<actor>Wayne Foskett</actor>
+			<role>Tony Ball</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">November 24 2019</releasedate>
+		<releasedate country="United Kingdom">November 25 2019</releasedate>
+		<releasedate country="Belgium">2020</releasedate>
+		<releasedate country="Brazil">February 20 2020</releasedate>
+		<releasedate country="Japan">February 29 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>daytime television</keyword>
+		<keyword>murder mystery</keyword>
+		<keyword>spain</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>island</keyword>
+		<keyword>location in title</keyword>
+		<keyword>three word title</keyword>
+		<keyword>policeman</keyword>
+	</keywords>
+	<directors>
+		<director> Bryn Higgins</director>
+		<director> Gordon Anderson</director>
+		<director> Rob Evans</director>
+		<director> Charlie Palmer</director>
+		<director> Christiana Ebohon-Green</director>
+		<director> Craig Pickles</director>
+	</directors>
+	<composers>
+		<composer> Charlie Mole</composer>
+	</composers>
+	<producers>
+		<producer> Dominic Barlow</producer>
+		<producer> Ben Donald</producer>
+		<producer> Michael Robins</producer>
+		<producer> Helen Munson</producer>
+		<producer> Annika Schmidt</producer>
+		<producer> Trent Walton</producer>
+		<producer> Pilar Amer</producer>
+		<producer> Murray Ferguson</producer>
+		<producer> Dan Sefton</producer>
+	</producers>
+	<writers>
+		<writer> Dan Sefton</writer>
+		<writer> Dan Sefton</writer>
+		<writer> Dan Sefton</writer>
+		<writer> Dan Muirden</writer>
+		<writer> Sarah-Louise Hawkins</writer>
+		<writer> Sarah-Louise Hawkins</writer>
+		<writer> Alex McBride</writer>
+		<writer> Rachael New</writer>
+		<writer> Rachael New</writer>
+		<writer> Liz Lake</writer>
+		<writer> Damian Wayling</writer>
+		<writer> Tim Whitnall</writer>
+	</writers>
+	<editors>
+		<editor> Mark Davis</editor>
+		<editor> Joris Brouwers</editor>
+		<editor> Xavier Russell</editor>
+		<editor> Christian Sandino-Taylor</editor>
+		<editor> David Head</editor>
+		<editor> Tom Henson-Webb</editor>
+		<editor> Louise Pearson</editor>
+	</editors>
+</doc>

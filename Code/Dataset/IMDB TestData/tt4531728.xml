@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<doc id="tt4531728">
+	<docid>tt4531728</docid>
+	<title>Dickensian</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTZkZGJiYmYtNmIwNi00ZmE5LWJlYTgtNWMyZDg4YjY0NDk5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Drama set within the fictional realms of Charles Dickens critically acclaimed novels, bringing together some of his most iconic characters as their lives intertwine in 19th century London.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tuppence Middleton</actor>
+			<role>Amelia Havisham</role>
+		</credit>
+		<credit>
+			<actor>Sophie Rundle</actor>
+			<role>Honoria Barbary</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Moen</actor>
+			<role>Frances Barbary</role>
+		</credit>
+		<credit>
+			<actor>Joseph Quinn</actor>
+			<role>Arthur Havisham</role>
+		</credit>
+		<credit>
+			<actor>Tom Weston-Jones</actor>
+			<role>Meriwether Compeyson</role>
+		</credit>
+		<credit>
+			<actor>Stephen Rea</actor>
+			<role>Inspector Bucket</role>
+		</credit>
+		<credit>
+			<actor>Robert Wilfort</actor>
+			<role>Bob Cratchit</role>
+		</credit>
+		<credit>
+			<actor>Pauline Collins</actor>
+			<role>Mrs. Gamp</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Hennessy</actor>
+			<role>Emily Cratchit</role>
+		</credit>
+		<credit>
+			<actor>Caroline Quentin</actor>
+			<role>Mrs. Bumble</role>
+		</credit>
+		<credit>
+			<actor>Richard Ridings</actor>
+			<role>Mr. Bumble</role>
+		</credit>
+		<credit>
+			<actor>Anton Lesser</actor>
+			<role>Fagin</role>
+		</credit>
+		<credit>
+			<actor>Christopher Fairbank</actor>
+			<role>Silas Wegg</role>
+		</credit>
+		<credit>
+			<actor>Laurel Jordan</actor>
+			<role>Daisy</role>
+		</credit>
+		<credit>
+			<actor>Adrian Rawlins</actor>
+			<role>Edward Barbary</role>
+		</credit>
+		<credit>
+			<actor>Mark Stanley</actor>
+			<role>Bill Sikes</role>
+		</credit>
+		<credit>
+			<actor>Ned Dennehy</actor>
+			<role>Ebeneezer Scrooge</role>
+		</credit>
+		<credit>
+			<actor>John Heffernan</actor>
+			<role>Jaggers</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">December 25 2015</releasedate>
+		<releasedate country="Germany">December 26 2015</releasedate>
+		<releasedate country="United Kingdom">December 26 2015</releasedate>
+		<releasedate country="Netherlands">January 5 2016</releasedate>
+		<releasedate country="Australia">February 7 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>period drama</keyword>
+		<keyword>timeframe 19th century</keyword>
+		<keyword>victorian era</keyword>
+		<keyword>dickensian</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>british historical setting</keyword>
+		<keyword>1840s</keyword>
+		<keyword>19th century</keyword>
+		<keyword>19th century england</keyword>
+		<keyword>murder</keyword>
+		<keyword>mash up</keyword>
+		<keyword>london england</keyword>
+		<keyword>england</keyword>
+		<keyword>name in title</keyword>
+		<keyword>melodrama</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Harry Bradbeer</director>
+		<director> Mark Brozel</director>
+		<director> Philippa Langdale</director>
+		<director> Andy Hay</director>
+	</directors>
+	<composers>
+		<composer> Debbie Wiseman</composer>
+	</composers>
+	<producers>
+		<producer> Belinda Campbell</producer>
+		<producer> Polly Hill</producer>
+		<producer> Tony Jordan</producer>
+		<producer> Brian Kaczynski</producer>
+		<producer> David Boulter</producer>
+		<producer> Elizabeth Kilgarriff</producer>
+	</producers>
+	<writers>
+		<writer> Charles Dickens</writer>
+		<writer> Charles Dickens</writer>
+		<writer> Tony Jordan</writer>
+		<writer> Tony Jordan</writer>
+		<writer> Chloe Moss</writer>
+		<writer> Sarah Phelps</writer>
+		<writer> Sarah Phelps</writer>
+		<writer> Julie Rutterford</writer>
+		<writer> Simon Winstone</writer>
+		<writer> Justin Young</writer>
+		<writer> Justin Young</writer>
+	</writers>
+	<editors>
+		<editor> St. John O'Rorke</editor>
+		<editor> Steve Singleton</editor>
+		<editor> Xavier Russell</editor>
+		<editor> Philip Hookway</editor>
+	</editors>
+</doc>

@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<doc id="tt4816364">
+	<docid>tt4816364</docid>
+	<title>BattleBots</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjZjM2M4ZDItYmM4Yi00MWRjLWFjZTQtNDVhZmI4MGQyNzcxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes/>
+	<genres>
+		<genre>Action</genre>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>BattleBots is a robot combat competition that takes place in an elimination style tournament. Designers build, operate and battle their destructive robots until a champion is crowned.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Chris Rose</actor>
+			<role>Self - Play-By-Play Announcer</role>
+		</credit>
+		<credit>
+			<actor>Kenny Florian</actor>
+			<role>Self - Color Commentator</role>
+		</credit>
+		<credit>
+			<actor>Faruq Tauheed</actor>
+			<role>Self - BattleBox® Announcer</role>
+		</credit>
+		<credit>
+			<actor>Derek Young</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>John Remar</actor>
+			<role>Self - Referee</role>
+		</credit>
+		<credit>
+			<actor>Lisa Winter</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>David San Filippo</actor>
+			<role>Self - Referee</role>
+		</credit>
+		<credit>
+			<actor>Jason Bardis</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Michael Ayers</actor>
+			<role>Self - Referee</role>
+		</credit>
+		<credit>
+			<actor>Jessica Chobot</actor>
+			<role>Self - Sideline Reporter</role>
+		</credit>
+		<credit>
+			<actor>Jenny Taft</actor>
+			<role>Self - Pit Reporter</role>
+		</credit>
+		<credit>
+			<actor>Peter Abrahamson</actor>
+			<role>Self - Bot Whisperer</role>
+		</credit>
+		<credit>
+			<actor>Fon Davis</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Naomi Kyle</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Alison Haislip</actor>
+			<role>Self - Sideline Reporter</role>
+		</credit>
+		<credit>
+			<actor>Kathryn Godfrey</actor>
+			<role>Self - Referee</role>
+		</credit>
+		<credit>
+			<actor>Samantha Ponder</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Bobak Ferdowsi</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">June 21 2015</releasedate>
+		<releasedate country="Philippines">August 9 2016</releasedate>
+		<releasedate country="Germany">September 3 2016</releasedate>
+		<releasedate country="Singapore">August 17 2021</releasedate>
+		<releasedate country="Turkey">August 17 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Singapore">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>robot</keyword>
+		<keyword>competition</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Ryan Polito</director>
+		<director> Toby Santos</director>
+	</directors>
+	<composers>
+		<composer> David Vanacore</composer>
+		<composer> Robert Allen Elliott</composer>
+	</composers>
+	<producers>
+		<producer> Aaron Catling</producer>
+		<producer> Tom Gutteridge</producer>
+		<producer> Evan Gatica</producer>
+		<producer> Chris Cowan</producer>
+		<producer> Greg Munson</producer>
+		<producer> Andrew Calver</producer>
+		<producer> Sam Bullard</producer>
+		<producer> Jacqueline Topacio</producer>
+		<producer> Joel Dobzewitz</producer>
+		<producer> Jay Light</producer>
+		<producer> Justin Ercole</producer>
+		<producer> Pat Barker</producer>
+		<producer> Alvin Hayes</producer>
+		<producer> Ed Roski</producer>
+		<producer> Oliver Paradise</producer>
+		<producer> Emily Carroll</producer>
+		<producer> Katie Franzeo</producer>
+		<producer> Marissa Ramirez</producer>
+		<producer> Nate Thomas</producer>
+		<producer> Lauren Robinson</producer>
+		<producer> Courtney Cronin</producer>
+		<producer> Lloyd Braun</producer>
+		<producer> Ben McShane</producer>
+		<producer> Nicole San Filippo</producer>
+		<producer> Peter Cameron</producer>
+		<producer> Joaquin Mesa</producer>
+		<producer> Steve Sobel</producer>
+		<producer> Keith Richards Carey</producer>
+		<producer> Doug Fager</producer>
+		<producer> Joshua Sandoval</producer>
+		<producer> Steve Berkowitz</producer>
+		<producer> Robert Asher</producer>
+		<producer> Ryan Braun</producer>
+		<producer> Jeremey Connors</producer>
+		<producer> Scott Mlodzinski</producer>
+		<producer> Geoff Nuanes</producer>
+		<producer> Julia Pyzik</producer>
+		<producer> Dionn Richardson</producer>
+		<producer> Zoe Ritchken</producer>
+		<producer> Matt Pella</producer>
+		<producer> Tifani Welch</producer>
+		<producer> David Braun</producer>
+		<producer> Ali Dubrow</producer>
+		<producer> Alicia Good</producer>
+		<producer> Dan Keats</producer>
+		<producer> Asabi Lee</producer>
+		<producer> Edward Roske</producer>
+		<producer> Ryane Belafsky</producer>
+		<producer> Timothy Dix</producer>
+		<producer> Maya Schulefand</producer>
+		<producer> Matt Silverberg</producer>
+		<producer> Troy Combs</producer>
+		<producer> Kat Gonzalez</producer>
+		<producer> Wyatt Channell</producer>
+		<producer> Joel Solomon</producer>
+		<producer> Matthew Larkin</producer>
+		<producer> Zachary Sundelius</producer>
+		<producer> Michael Burks</producer>
+		<producer> Mike Magana</producer>
+		<producer> Matthew F. Miller</producer>
+		<producer> Daniel Schultz</producer>
+		<producer> Tim Stampher</producer>
+	</producers>
+	<writers>
+		<writer> Greg Munson</writer>
+		<writer> Ed Roski</writer>
+	</writers>
+	<editors>
+		<editor> Matthew F. Miller</editor>
+		<editor> Terran Schackor</editor>
+		<editor> Duane Fogwell</editor>
+		<editor> Evan Gatica</editor>
+		<editor> Nida Ball</editor>
+		<editor> Corey Becker</editor>
+		<editor> Alexander Emanuele</editor>
+		<editor> Ed Greene</editor>
+		<editor> Laurens Van Charante</editor>
+		<editor> Jason Groothuis</editor>
+		<editor> Chris Peters</editor>
+		<editor> Jonathan Siegel</editor>
+		<editor> Jonah Max</editor>
+		<editor> Jeff Learned</editor>
+		<editor> Brooks Larson</editor>
+		<editor> Jonathan Fischer</editor>
+		<editor> Chris Kirkpatrick</editor>
+		<editor> Matt Cluett</editor>
+		<editor> Austin Scott</editor>
+		<editor> Mike Hale</editor>
+	</editors>
+</doc>

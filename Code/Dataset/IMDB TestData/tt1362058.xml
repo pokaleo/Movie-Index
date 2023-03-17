@@ -1,0 +1,496 @@
+<?xml version="1.0" ?>
+<doc id="tt1362058">
+	<docid>tt1362058</docid>
+	<title>Cockneys vs Zombies</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTg3Njc4NDA0Ml5BMl5BanBnXkFtZTcwODA0NjkzOQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">88</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A gang of bank robbers fight their way out of a zombie-infested London.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Rasmus Hardiker</actor>
+			<role>Terry</role>
+		</credit>
+		<credit>
+			<actor>Harry Treadaway</actor>
+			<role>Andy</role>
+		</credit>
+		<credit>
+			<actor>Michelle Ryan</actor>
+			<role>Katy</role>
+		</credit>
+		<credit>
+			<actor>Ashley Thomas</actor>
+			<role>Mental Mickey</role>
+		</credit>
+		<credit>
+			<actor>Jack Doolan</actor>
+			<role>Davey Tuppence</role>
+		</credit>
+		<credit>
+			<actor>Georgia King</actor>
+			<role>Emma</role>
+		</credit>
+		<credit>
+			<actor>Tony Gardner</actor>
+			<role>Clive</role>
+		</credit>
+		<credit>
+			<actor>Alan Ford</actor>
+			<role>Ray</role>
+		</credit>
+		<credit>
+			<actor>Honor Blackman</actor>
+			<role>Peggy</role>
+		</credit>
+		<credit>
+			<actor>Tony Selby</actor>
+			<role>Darryl</role>
+		</credit>
+		<credit>
+			<actor>Georgina Hale</actor>
+			<role>Doreen</role>
+		</credit>
+		<credit>
+			<actor>Dudley Sutton</actor>
+			<role>Eric</role>
+		</credit>
+		<credit>
+			<actor>Richard Briers</actor>
+			<role>Hamish</role>
+		</credit>
+		<credit>
+			<actor>Natalie Walter</actor>
+			<role>Bank Manager</role>
+		</credit>
+		<credit>
+			<actor>Phil Cornwell</actor>
+			<role>Grainger</role>
+		</credit>
+		<credit>
+			<actor>Josh Cole</actor>
+			<role>Davvers</role>
+		</credit>
+		<credit>
+			<actor>Gary Beadle</actor>
+			<role>Greg</role>
+		</credit>
+		<credit>
+			<actor>Finlay Robertson</actor>
+			<role>Eddie</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">August 23 2012</releasedate>
+		<releasedate country="Germany">August 29 2012</releasedate>
+		<releasedate country="United Kingdom">August 31 2012</releasedate>
+		<releasedate country="Ireland">August 31 2012</releasedate>
+		<releasedate country="France">September 9 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>bank robber</keyword>
+		<keyword>zombie</keyword>
+		<keyword>zombie comedy</keyword>
+		<keyword>zombie attack</keyword>
+		<keyword>dark comedy</keyword>
+		<keyword>urban fantasy</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>excavator</keyword>
+		<keyword>worker</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>demolition</keyword>
+		<keyword>graveyard</keyword>
+		<keyword>skull</keyword>
+		<keyword>discovery</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>corpse</keyword>
+		<keyword>scare prank</keyword>
+		<keyword>jump scare</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>biting someone</keyword>
+		<keyword>scream</keyword>
+		<keyword>screaming man</keyword>
+		<keyword>gore</keyword>
+		<keyword>blood</keyword>
+		<keyword>spurting blood</keyword>
+		<keyword>old man</keyword>
+		<keyword>old woman</keyword>
+		<keyword>construction worker</keyword>
+		<keyword>van</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>friend</keyword>
+		<keyword>friendship</keyword>
+		<keyword>masturbation reference</keyword>
+		<keyword>friendship between men</keyword>
+		<keyword>reading a newspaper</keyword>
+		<keyword>reference to jesus christ</keyword>
+		<keyword>flashback</keyword>
+		<keyword>drunken man</keyword>
+		<keyword>pub</keyword>
+		<keyword>bar</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>bouncer</keyword>
+		<keyword>f word</keyword>
+		<keyword>care home</keyword>
+		<keyword>retirement home</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>orphan</keyword>
+		<keyword>delivery</keyword>
+		<keyword>delivery man</keyword>
+		<keyword>food delivery</keyword>
+		<keyword>food delivery man</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>reference to world war two</keyword>
+		<keyword>reference to adolf hitler</keyword>
+		<keyword>domineering grandfather</keyword>
+		<keyword>unreliable flashback</keyword>
+		<keyword>shooting</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>death by gunshot</keyword>
+		<keyword>photograph</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>delivery man as a protagonist</keyword>
+		<keyword>food delivery man as a protagonist</keyword>
+		<keyword>seductive old woman</keyword>
+		<keyword>seductive woman</keyword>
+		<keyword>seductive behavior</keyword>
+		<keyword>older person</keyword>
+		<keyword>part time job</keyword>
+		<keyword>sarcastic man</keyword>
+		<keyword>voyeur</keyword>
+		<keyword>voyeurism</keyword>
+		<keyword>sunbathing</keyword>
+		<keyword>barefoot female</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>secretly observing</keyword>
+		<keyword>nurse</keyword>
+		<keyword>sexual harassment</keyword>
+		<keyword>sexually harassed male</keyword>
+		<keyword>female sexual predator</keyword>
+		<keyword>sexual predator</keyword>
+		<keyword>boy</keyword>
+		<keyword>little boy</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>criminal</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>gun</keyword>
+		<keyword>childhood memory</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>investigation</keyword>
+		<keyword>bus stop</keyword>
+		<keyword>car</keyword>
+		<keyword>split screen</keyword>
+		<keyword>security</keyword>
+		<keyword>disguise</keyword>
+		<keyword>virgin</keyword>
+		<keyword>male virgin</keyword>
+		<keyword>overweight man</keyword>
+		<keyword>obese man</keyword>
+		<keyword>fat man</keyword>
+		<keyword>hit on the head with a gun</keyword>
+		<keyword>seductive man</keyword>
+		<keyword>accomplice</keyword>
+		<keyword>matronizing</keyword>
+		<keyword>patronizing</keyword>
+		<keyword>locksmith</keyword>
+		<keyword>female locksmith</keyword>
+		<keyword>gang</keyword>
+		<keyword>playing drums</keyword>
+		<keyword>playing piano</keyword>
+		<keyword>piano playing</keyword>
+		<keyword>singing along</keyword>
+		<keyword>dance scene</keyword>
+		<keyword>building site</keyword>
+		<keyword>witness</keyword>
+		<keyword>rat</keyword>
+		<keyword>fake mustache</keyword>
+		<keyword>bank</keyword>
+		<keyword>pretending to be someone else</keyword>
+		<keyword>group of friends</keyword>
+		<keyword>hold up</keyword>
+		<keyword>hit on the head with a gun butt</keyword>
+		<keyword>robbery</keyword>
+		<keyword>money</keyword>
+		<keyword>mistaken identity</keyword>
+		<keyword>safe</keyword>
+		<keyword>pointing a gun at someone</keyword>
+		<keyword>heist</keyword>
+		<keyword>cutting wood</keyword>
+		<keyword>gardener</keyword>
+		<keyword>police</keyword>
+		<keyword>police operation</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>failed expectation</keyword>
+		<keyword>plan gone wrong</keyword>
+		<keyword>disappointed expectations</keyword>
+		<keyword>megaphone</keyword>
+		<keyword>wheelchair</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>fight</keyword>
+		<keyword>hostage</keyword>
+		<keyword>violent man</keyword>
+		<keyword>violence</keyword>
+		<keyword>disembodied leg</keyword>
+		<keyword>leg pulled off</keyword>
+		<keyword>policeman</keyword>
+		<keyword>survival</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>fight in a van</keyword>
+		<keyword>fight in a car</keyword>
+		<keyword>falling out of a car</keyword>
+		<keyword>accidental gunshot</keyword>
+		<keyword>coughing</keyword>
+		<keyword>leg ripped off</keyword>
+		<keyword>falling out of a moving car</keyword>
+		<keyword>locked door</keyword>
+		<keyword>arm injury</keyword>
+		<keyword>hand injury</keyword>
+		<keyword>stroller</keyword>
+		<keyword>head shot off</keyword>
+		<keyword>baby</keyword>
+		<keyword>zombie baby</keyword>
+		<keyword>kicking a baby</keyword>
+		<keyword>killing a baby</keyword>
+		<keyword>reference to dido</keyword>
+		<keyword>reference to mr. bean</keyword>
+		<keyword>radio</keyword>
+		<keyword>bank clerk</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>kidnapped man</keyword>
+		<keyword>kidnapped woman</keyword>
+		<keyword>criminal as protagonist</keyword>
+		<keyword>theft</keyword>
+		<keyword>stolen money</keyword>
+		<keyword>thief as protagonist</keyword>
+		<keyword>class differences</keyword>
+		<keyword>spitting water</keyword>
+		<keyword>chase</keyword>
+		<keyword>spitting out drink</keyword>
+		<keyword>spitting</keyword>
+		<keyword>war veteran</keyword>
+		<keyword>drinking from a bottle</keyword>
+		<keyword>manager</keyword>
+		<keyword>retirement home manager</keyword>
+		<keyword>belief in vampires</keyword>
+		<keyword>reference to christopher lee</keyword>
+		<keyword>awkward situation</keyword>
+		<keyword>lack of money</keyword>
+		<keyword>key</keyword>
+		<keyword>breaking someone's neck</keyword>
+		<keyword>broken neck</keyword>
+		<keyword>disembodied head</keyword>
+		<keyword>headless body</keyword>
+		<keyword>head ripped off</keyword>
+		<keyword>83 year old woman</keyword>
+		<keyword>sleeping in a chair</keyword>
+		<keyword>watching someone sleep</keyword>
+		<keyword>bondage</keyword>
+		<keyword>female bondage</keyword>
+		<keyword>male bondage</keyword>
+		<keyword>wound</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>limping man</keyword>
+		<keyword>limping woman</keyword>
+		<keyword>rescue operation</keyword>
+		<keyword>rescue</keyword>
+		<keyword>fire extinguisher</keyword>
+		<keyword>massacre</keyword>
+		<keyword>bag full of money</keyword>
+		<keyword>hit in the head with a shovel</keyword>
+		<keyword>hit on the head with a shovel</keyword>
+		<keyword>shovel as weapon</keyword>
+		<keyword>fire extinguisher as weapon</keyword>
+		<keyword>strong female character</keyword>
+		<keyword>tied hands</keyword>
+		<keyword>metamorphosis</keyword>
+		<keyword>talking to a dead friend</keyword>
+		<keyword>screaming woman</keyword>
+		<keyword>talking to a dead body</keyword>
+		<keyword>transformation</keyword>
+		<keyword>irony of fate</keyword>
+		<keyword>grenade in mouth</keyword>
+		<keyword>explosion</keyword>
+		<keyword>head explosion</keyword>
+		<keyword>exploding person</keyword>
+		<keyword>exploding man</keyword>
+		<keyword>chekhov's gun</keyword>
+		<keyword>passive aggressive man</keyword>
+		<keyword>passive aggressive behavior</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>cannibalism</keyword>
+		<keyword>cannibal</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>passive aggressive woman</keyword>
+		<keyword>hand grenade in mouth</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>dead body</keyword>
+		<keyword>escape</keyword>
+		<keyword>dragging a dead body</keyword>
+		<keyword>carrying a dead body</keyword>
+		<keyword>mistaken belief that someone is dead</keyword>
+		<keyword>reference to the muppets</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>lie</keyword>
+		<keyword>hooligan</keyword>
+		<keyword>zombie hooligan</keyword>
+		<keyword>female zombie</keyword>
+		<keyword>bus</keyword>
+		<keyword>hit by a bus</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>football hooligan</keyword>
+		<keyword>zombie vs zombie</keyword>
+		<keyword>arrogant woman</keyword>
+		<keyword>climbing up a ladder</keyword>
+		<keyword>climbing a ladder</keyword>
+		<keyword>escape plan</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>kicked off a rooftop</keyword>
+		<keyword>standing on a rooftop</keyword>
+		<keyword>lock</keyword>
+		<keyword>duct tape</keyword>
+		<keyword>disembodied arm</keyword>
+		<keyword>arm ripped off</keyword>
+		<keyword>katana</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>sword</keyword>
+		<keyword>wooden leg</keyword>
+		<keyword>wooden leg as a weapon</keyword>
+		<keyword>one legged man</keyword>
+		<keyword>home care nurse</keyword>
+		<keyword>obese woman</keyword>
+		<keyword>fat woman</keyword>
+		<keyword>overweight woman</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>stolen bus</keyword>
+		<keyword>stealing a bus</keyword>
+		<keyword>beaten with a wooden leg</keyword>
+		<keyword>dock</keyword>
+		<keyword>bank robbery</keyword>
+		<keyword>ship</keyword>
+		<keyword>chain</keyword>
+		<keyword>crying</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>crying female</keyword>
+		<keyword>shootout</keyword>
+		<keyword>slow motion shootout</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>reunion</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>gun pointed at camera</keyword>
+		<keyword>undead</keyword>
+		<keyword>undead man</keyword>
+		<keyword>undead woman</keyword>
+		<keyword>vulture</keyword>
+		<keyword>plaque</keyword>
+		<keyword>memorial plaque</keyword>
+		<keyword>memorial</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>weaponized wheelchair</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>listening to a car radio</keyword>
+		<keyword>listening to a radio</keyword>
+		<keyword>man reads a newspaper</keyword>
+		<keyword>man wears a tank top</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>man wears goggles</keyword>
+		<keyword>man wears sunglasses</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>woman hits a man</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>man with long hair</keyword>
+		<keyword>woman wears a bra</keyword>
+		<keyword>camera shot from inside a car trunk</keyword>
+		<keyword>girls with guns</keyword>
+		<keyword>man uses a wheelchair</keyword>
+		<keyword>car keys</keyword>
+		<keyword>british</keyword>
+		<keyword>working class</keyword>
+		<keyword>grenade</keyword>
+		<keyword>walker</keyword>
+		<keyword>retired criminal</keyword>
+		<keyword>dye pack</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>boat</keyword>
+		<keyword>cockney</keyword>
+		<keyword>retirement community</keyword>
+		<keyword>king of england</keyword>
+		<keyword>construction site</keyword>
+		<keyword>london england</keyword>
+		<keyword>british horror</keyword>
+		<keyword>three word title</keyword>
+		<keyword>zombie apocalypse</keyword>
+		<keyword>death of friend</keyword>
+	</keywords>
+	<directors>
+		<director> Matthias Hoene</director>
+	</directors>
+	<composers>
+		<composer> Jody Jenkins</composer>
+	</composers>
+	<producers>
+		<producer> Mark Birmingham</producer>
+		<producer> Jenny Borgars</producer>
+		<producer> Andrew Boswell</producer>
+		<producer> Will Clarke</producer>
+		<producer> Simon Crowe</producer>
+		<producer> James Harris</producer>
+		<producer> Michael Henry</producer>
+		<producer> Matthias Hoene</producer>
+		<producer> Chris Hunt</producer>
+		<producer> Matthew Joynes</producer>
+		<producer> Mark Lane</producer>
+		<producer> Susie Liggat</producer>
+		<producer> Joe MacCarthy</producer>
+		<producer> Dan MacRae</producer>
+		<producer> Deepak Nayar</producer>
+		<producer> Anand Tewari</producer>
+	</producers>
+	<writers>
+		<writer> Matthias Hoene</writer>
+		<writer> James Moran</writer>
+		<writer> Lucas Roche</writer>
+	</writers>
+	<editors>
+		<editor> Neil Farrell</editor>
+		<editor> John Palmer</editor>
+	</editors>
+</doc>

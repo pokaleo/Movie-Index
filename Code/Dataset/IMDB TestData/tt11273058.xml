@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc id="tt11273058">
+	<docid>tt11273058</docid>
+	<title>The Spider</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">130</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An action thriller that revolves around a dangerous drug dealer, who is able to manufacture new drugs and sells them but falls into many problems and is chased by the police.</plot>
+	<countries>
+		<country>Egypt</country>
+	</countries>
+	<languages>
+		<language>Arabic</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Ahmed el-Sakka</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Dhafer L'Abidine</actor>
+			<role>Adam Gubran's</role>
+		</credit>
+		<credit>
+			<actor>Mona Zaki</actor>
+			<role>Leila</role>
+		</credit>
+		<credit>
+			<actor>Mohamed Mamdouh</actor>
+			<role>Marwan Gubran's</role>
+		</credit>
+		<credit>
+			<actor>Yousra El Lozy</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Ahmed Fouad Selim</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Reem Mostafa</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Zaky Fateen Abdel Wahab</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Muhammad Lutfi</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Akram Al Sharqawi</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Mahmoud Ghareeb</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Shikoo</actor>
+			<role>Sameh ( guest )</role>
+		</credit>
+		<credit>
+			<actor>Shaimaa Saif</actor>
+			<role>Guest</role>
+		</credit>
+		<credit>
+			<actor>Asser Yassin</actor>
+			<role>Guest</role>
+		</credit>
+		<credit>
+			<actor>Amir Adham</actor>
+			<role>Hossam</role>
+		</credit>
+		<credit>
+			<actor>Ramez Amir</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Ahmed El-Saadany</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Ahmed Magdy Emara</actor>
+			<role>Mohamed</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Egypt">May 2 2022</releasedate>
+		<releasedate country="United Arab Emirates">May 12 2022</releasedate>
+		<releasedate country="Bahrain">May 12 2022</releasedate>
+		<releasedate country="Iraq">May 12 2022</releasedate>
+		<releasedate country="Jordan">May 12 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Egypt">12+</certificate>
+		<certificate country="Kuwait">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fictional drug</keyword>
+	</keywords>
+	<directors>
+		<director> Ahmad Nader Galal</director>
+	</directors>
+	<composers>
+		<composer> Mohamed Elhusseini</composer>
+		<composer> Amr Ismail</composer>
+	</composers>
+	<producers>
+		<producer> Mohammed Alsaadi</producer>
+	</producers>
+	<writers>
+		<writer> Mohamed Nayer</writer>
+	</writers>
+	<editors>
+		<editor> Ibrahim Elhefnawy</editor>
+	</editors>
+</doc>

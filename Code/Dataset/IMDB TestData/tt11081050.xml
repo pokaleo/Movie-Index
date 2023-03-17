@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<doc id="tt11081050">
+	<docid>tt11081050</docid>
+	<title>Shorta</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjVlOGIzODQtMmQ5OC00NGMwLWJjY2UtOWVhOWIwODAwMmRhXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Jens and Mike, two police officers on routine patrol, find themselves trapped in a maze of buildings when unrest spreads.</plot>
+	<countries>
+		<country>Denmark</country>
+	</countries>
+	<languages>
+		<language>Danish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jacob Lohmann</actor>
+			<role>Mike Andersen</role>
+		</credit>
+		<credit>
+			<actor>Simon Sears</actor>
+			<role>Jens Høyer</role>
+		</credit>
+		<credit>
+			<actor>Tarek Zayat</actor>
+			<role>Amos Al-Shami</role>
+		</credit>
+		<credit>
+			<actor>Dulfi Al-Jabouri</actor>
+			<role>Sami</role>
+		</credit>
+		<credit>
+			<actor>Issa Khattab</actor>
+			<role>Iza</role>
+		</credit>
+		<credit>
+			<actor>Abdelmalik Dhaflaoui</actor>
+			<role>Danjiel (Iza's friend)</role>
+		</credit>
+		<credit>
+			<actor>Özlem Saglanmak</actor>
+			<role>Abia</role>
+		</credit>
+		<credit>
+			<actor>Lara Aksoy</actor>
+			<role>Amira</role>
+		</credit>
+		<credit>
+			<actor>Arian Kashef</actor>
+			<role>Osman</role>
+		</credit>
+		<credit>
+			<actor>Ali Abdul Amir Najei</actor>
+			<role>Osman's bodyguard</role>
+		</credit>
+		<credit>
+			<actor>Imad Abul-Foul</actor>
+			<role>Store owner</role>
+		</credit>
+		<credit>
+			<actor>Wagma Khattak</actor>
+			<role>Store owner's wife</role>
+		</credit>
+		<credit>
+			<actor>Jonas El Keh</actor>
+			<role>Store owner's youngest son</role>
+		</credit>
+		<credit>
+			<actor>Jousef Sobhie</actor>
+			<role>Store owner's oldest son</role>
+		</credit>
+		<credit>
+			<actor>Anna Tulestedt</actor>
+			<role>Woman in convenience store</role>
+		</credit>
+		<credit>
+			<actor>Michael Brostrup</actor>
+			<role>Captain Hedegaard</role>
+		</credit>
+		<credit>
+			<actor>Josephine Park</actor>
+			<role>Rønning</role>
+		</credit>
+		<credit>
+			<actor>Mads Rømer</actor>
+			<role>Møller</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">September 5 2020</releasedate>
+		<releasedate country="Canada">September 11 2020</releasedate>
+		<releasedate country="Switzerland">September 26 2020</releasedate>
+		<releasedate country="Denmark">October 8 2020</releasedate>
+		<releasedate country="India">October 8 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>patrol</keyword>
+		<keyword>police</keyword>
+		<keyword>housing estate</keyword>
+		<keyword>copenhagen denmark</keyword>
+		<keyword>racist cop</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>one word title</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police partner</keyword>
+		<keyword>new partner</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>zip tie restraints</keyword>
+		<keyword>tv news</keyword>
+		<keyword>wrongful arrest</keyword>
+		<keyword>killed by police</keyword>
+		<keyword>riot</keyword>
+		<keyword>fire bombing a car</keyword>
+		<keyword>tear gas</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>killing a dog</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>reference to arsenal football club</keyword>
+		<keyword>reference to real madrid</keyword>
+	</keywords>
+	<directors>
+		<director> Frederik Louis Hviid</director>
+		<director> Anders Ølholm</director>
+	</directors>
+	<composers>
+		<composer> Martin Dirkov</composer>
+	</composers>
+	<producers>
+		<producer> Carla Malling Agger</producer>
+		<producer> Signe Leick Jensen</producer>
+		<producer> Morten Kaufmann</producer>
+		<producer> Lin Jo Skytte</producer>
+		<producer> Mikael Windelin</producer>
+	</producers>
+	<writers>
+		<writer> Anders Ølholm</writer>
+		<writer> Frederik Louis Hviid</writer>
+		<writer> Anders Ølholm</writer>
+	</writers>
+	<editors>
+		<editor> Anders Albjerg Kristiansen</editor>
+	</editors>
+</doc>

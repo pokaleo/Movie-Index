@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<doc id="tt3230780">
+	<docid>tt3230780</docid>
+	<title>The Returned</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjEwOTExNDY5MV5BMl5BanBnXkFtZTgwMzMzOTU5MTE@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A small town's residents are stunned when recently deceased locals begin returning from the dead. What should be a miracle soon becomes a nightmare.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kevin Alejandro</actor>
+			<role>Tommy Solano</role>
+		</credit>
+		<credit>
+			<actor>Agnes Bruckner</actor>
+			<role>Nikki Banks</role>
+		</credit>
+		<credit>
+			<actor>India Ennenga</actor>
+			<role>Camille Winship</role>
+		</credit>
+		<credit>
+			<actor>Sandrine Holt</actor>
+			<role>Julie Han</role>
+		</credit>
+		<credit>
+			<actor>Sophie Lowe</actor>
+			<role>Lena Winship</role>
+		</credit>
+		<credit>
+			<actor>Mark Pellegrino</actor>
+			<role>Jack Winship</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Sisto</actor>
+			<role>Peter Lattimore</role>
+		</credit>
+		<credit>
+			<actor>Mat Vairo</actor>
+			<role>Simon Moran</role>
+		</credit>
+		<credit>
+			<actor>Mary Elizabeth Winstead</actor>
+			<role>Rowan Blackshaw</role>
+		</credit>
+		<credit>
+			<actor>Tandi Wright</actor>
+			<role>Claire Winship</role>
+		</credit>
+		<credit>
+			<actor>Dylan Kingwell</actor>
+			<role>Victor</role>
+		</credit>
+		<credit>
+			<actor>Dakota Guppy</actor>
+			<role>Chloe Blackshaw</role>
+		</credit>
+		<credit>
+			<actor>Keenan Tracey</actor>
+			<role>Ben Lowry</role>
+		</credit>
+		<credit>
+			<actor>Michelle Forbes</actor>
+			<role>Helen Goddard</role>
+		</credit>
+		<credit>
+			<actor>Terry Chen</actor>
+			<role>Mark Bao</role>
+		</credit>
+		<credit>
+			<actor>Aaron Douglas</actor>
+			<role>Tony Darrow</role>
+		</credit>
+		<credit>
+			<actor>Rhys Ward</actor>
+			<role>Adam Darrow</role>
+		</credit>
+		<credit>
+			<actor>Giacomo Baessato</actor>
+			<role>Shane Slater</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">March 9 2015</releasedate>
+		<releasedate country="Turkey">March 9 2015</releasedate>
+		<releasedate country="United States">March 9 2015</releasedate>
+		<releasedate country="Austria">March 10 2015</releasedate>
+		<releasedate country="Belgium">March 10 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on french tv series</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>return from the dead</keyword>
+		<keyword>mystery box</keyword>
+		<keyword>unexplained phenomenon</keyword>
+		<keyword>small town</keyword>
+		<keyword>remake</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>resurrection</keyword>
+	</keywords>
+	<directors>
+		<director> Jennifer Getzinger</director>
+		<director> Charles Martin</director>
+		<director> Deran Sarafian</director>
+		<director> Stephen Williams</director>
+		<director> Keith Gordon</director>
+		<director> Vincenzo Natali</director>
+	</directors>
+	<composers>
+		<composer> Zoe Keating</composer>
+		<composer> Jeff Russo</composer>
+	</composers>
+	<producers>
+		<producer> Thom Beers</producer>
+		<producer> Caroline Benjo</producer>
+		<producer> Stefanie Berk</producer>
+		<producer> Cory Bird</producer>
+		<producer> Craig Cegielski</producer>
+		<producer> Regina Corrado</producer>
+		<producer> Carlton Cuse</producer>
+		<producer> Robert DeBitetto</producer>
+		<producer> Jimmy Desmarais</producer>
+		<producer> Justis Greene</producer>
+		<producer> David McKillop</producer>
+		<producer> Heather Meehan</producer>
+		<producer> Graham Roland</producer>
+		<producer> Raelle Tucker</producer>
+		<producer> Jamie Vega Wheeler</producer>
+		<producer> Keith Gordon</producer>
+	</producers>
+	<writers>
+		<writer> Fabien Adda</writer>
+		<writer> Robin Campillo</writer>
+		<writer> Emmanuel Carrère</writer>
+		<writer> Carlton Cuse</writer>
+		<writer> Carlton Cuse</writer>
+		<writer> Fabrice Gobert</writer>
+		<writer> Catherine Hoffmann</writer>
+		<writer> Nicolas Peufaillit</writer>
+		<writer> Brigitte Tijou</writer>
+		<writer> Raelle Tucker</writer>
+		<writer> Graham Roland</writer>
+		<writer> Regina Corrado</writer>
+		<writer> Bronwyn Garrity</writer>
+		<writer> Gianna Sobol</writer>
+	</writers>
+	<editors>
+		<editor> Sarah Boyd</editor>
+		<editor> Christopher Nelson</editor>
+		<editor> David Eisenberg</editor>
+	</editors>
+</doc>

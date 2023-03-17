@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<doc id="tt15249262">
+	<docid>tt15249262</docid>
+	<title>Winchester</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI2OWE5OGItMTE4Yi00ZmIzLThjZDctNTU1OTMxMTc3Yjg4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX190_CR0,10,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">41</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A man hellbent on revenge after his wife's murder, seeks answers while paving a path for his sons</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Britt Bankhead</actor>
+			<role>John Winchester</role>
+		</credit>
+		<credit>
+			<actor>Chip Joslin</actor>
+			<role>Mike Guenther</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Rhodes</actor>
+			<role>Mary Winchester</role>
+		</credit>
+		<credit>
+			<actor>John Wirt</actor>
+			<role>Ghoul</role>
+		</credit>
+		<credit>
+			<actor>Selase Botchway</actor>
+			<role>Detective</role>
+		</credit>
+		<credit>
+			<actor>Blake Higdon</actor>
+			<role>Rob</role>
+		</credit>
+		<credit>
+			<actor>Cade Chatham</actor>
+			<role>Dean Winchester</role>
+		</credit>
+		<credit>
+			<actor>Milan Olejnik</actor>
+			<role>Red</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">August 15 2021</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Britt Bankhead</director>
+		<director> Zak Sanchez</director>
+	</directors>
+	<composers>
+		<composer> Jarrett Golden</composer>
+		<composer> The Next Door Narrative</composer>
+	</composers>
+	<producers>
+		<producer> Britt Bankhead</producer>
+	</producers>
+	<writers>
+		<writer> Britt Bankhead</writer>
+		<writer> Eric Kripke</writer>
+		<writer> Zak Sanchez</writer>
+	</writers>
+	<editors>
+		<editor> Britt Bankhead</editor>
+		<editor> Zak Sanchez</editor>
+	</editors>
+</doc>

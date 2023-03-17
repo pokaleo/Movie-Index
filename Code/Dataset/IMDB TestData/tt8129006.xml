@@ -1,0 +1,284 @@
+<?xml version="1.0" ?>
+<doc id="tt8129006">
+	<docid>tt8129006</docid>
+	<title>Central Park</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjQ4ZmM2MDQtMjIzZS00ZThkLTk1ZjAtNmNhMTFmNTc4NmRhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">25</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Musical</genre>
+	</genres>
+	<plot>An animated musical series that tells the story of how a family of caretakers, who live and work in Central Park, end up saving the park and basically the world.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tituss Burgess</actor>
+			<role>Cole Tillerman</role>
+		</credit>
+		<credit>
+			<actor>Daveed Diggs</actor>
+			<role>Helen</role>
+		</credit>
+		<credit>
+			<actor>Josh Gad</actor>
+			<role>Birdie</role>
+		</credit>
+		<credit>
+			<actor>Kathryn Hahn</actor>
+			<role>Paige Hunter</role>
+		</credit>
+		<credit>
+			<actor>Leslie Odom Jr.</actor>
+			<role>Owen Tillerman</role>
+		</credit>
+		<credit>
+			<actor>Stanley Tucci</actor>
+			<role>Bitsy Brandenham</role>
+		</credit>
+		<credit>
+			<actor>Emmy Raver-Lampman</actor>
+			<role>Molly Tillerman</role>
+		</credit>
+		<credit>
+			<actor>David Herman</actor>
+			<role>Bellhop</role>
+		</credit>
+		<credit>
+			<actor>Kristen Bell</actor>
+			<role>Abby</role>
+		</credit>
+		<credit>
+			<actor>Phil LaMarr</actor>
+			<role>Randy</role>
+		</credit>
+		<credit>
+			<actor>Rory O'Malley</actor>
+			<role>Elwood</role>
+		</credit>
+		<credit>
+			<actor>Eugene Cordero</actor>
+			<role>Brendan</role>
+		</credit>
+		<credit>
+			<actor>Brooke Dillman</actor>
+			<role>Beatrice</role>
+		</credit>
+		<credit>
+			<actor>Yvette Nicole Brown</actor>
+			<role>Fran</role>
+		</credit>
+		<credit>
+			<actor>Janelle James</actor>
+			<role>Fran</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Beatriz</actor>
+			<role>Enrique</role>
+		</credit>
+		<credit>
+			<actor>Ester Dean</actor>
+			<role>Hazel</role>
+		</credit>
+		<credit>
+			<actor>Lindsey Stoddart</actor>
+			<role>Ambrose's Daughter</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">May 29 2020</releasedate>
+		<releasedate country="Australia">May 29 2020</releasedate>
+		<releasedate country="Brazil">May 29 2020</releasedate>
+		<releasedate country="Canada">May 29 2020</releasedate>
+		<releasedate country="Germany">May 29 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Ecuador">B</certificate>
+		<certificate country="Egypt">12+</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Israel">15+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">12</certificate>
+		<certificate country="Mexico">12+</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Philippines">PG</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">7-9PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="Thailand">4</certificate>
+		<certificate country="United Kingdom">Caution</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">12+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>work</keyword>
+		<keyword>2d animation</keyword>
+		<keyword>pop musical</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+	</keywords>
+	<directors>
+		<director> Ian Hamilton</director>
+		<director> Mario D'Anna Jr.</director>
+		<director> Tom King</director>
+		<director> Gapsuk Mun</director>
+		<director> Whanjun Yeo</director>
+		<director> Young Dal Choi</director>
+		<director> Steven Theis</director>
+		<director> Corey Barnes</director>
+		<director> Miyoung Song</director>
+		<director> Brian Kaufman</director>
+		<director> Gavin Dell</director>
+		<director> Joel Moser</director>
+		<director> Bernard Derriman</director>
+		<director> Matt Garofalo</director>
+		<director> Tony Gennaro</director>
+		<director> Chulho Seo</director>
+	</directors>
+	<composers>
+		<composer> Leo Birenberg</composer>
+		<composer> Elyssa Samsel</composer>
+		<composer> Elegant Too</composer>
+		<composer> John Dylan Keith</composer>
+		<composer> Brent Knopf</composer>
+	</composers>
+	<producers>
+		<producer> Loren Bouchard</producer>
+		<producer> Josh Gad</producer>
+		<producer> Marc Gurvitz</producer>
+		<producer> Joel Kuwahara</producer>
+		<producer> Jon Liebman</producer>
+		<producer> Janelle Momary</producer>
+		<producer> Sanjay Shah</producer>
+		<producer> Nora Smith</producer>
+		<producer> Halsted Sullivan</producer>
+		<producer> Steven Davis</producer>
+		<producer> Howard Huxham</producer>
+		<producer> Kevin Larsen</producer>
+		<producer> Robin Schwartz</producer>
+		<producer> Kelvin Yu</producer>
+		<producer> Scott D. Greenberg</producer>
+		<producer> Matt Kalmus</producer>
+		<producer> Scout Raskin</producer>
+		<producer> Bernard Derriman</producer>
+		<producer> Tony Gennaro</producer>
+		<producer> Youmi Kim</producer>
+		<producer> Laura Montero Plata</producer>
+		<producer> Benji Samit</producer>
+		<producer> Lindsey Stoddart</producer>
+		<producer> Dan Hernandez</producer>
+		<producer> Chuck Tatham</producer>
+		<producer> Selma Edelman</producer>
+		<producer> Bernard Lajoie</producer>
+		<producer> Bernard LaJoie</producer>
+		<producer> Mark Alton Brown</producer>
+		<producer> Jonathan Emerson</producer>
+		<producer> Annie Levine</producer>
+		<producer> Matthew Mahoney</producer>
+		<producer> Seranie A. Manoogian</producer>
+		<producer> Monica Padrick</producer>
+		<producer> Francisco Angones</producer>
+		<producer> Meredith Dawson</producer>
+		<producer> Ava Tramer</producer>
+		<producer> Marina Khoury</producer>
+		<producer> Nick Adams</producer>
+		<producer> Selma Gladney-Eldman</producer>
+		<producer> Scott Greenberg</producer>
+		<producer> Brett Coker</producer>
+		<producer> Benrard Lajoie</producer>
+		<producer> Chuck Tathum</producer>
+		<producer> Paula Haifley</producer>
+		<producer> Luispa Salmón</producer>
+		<producer> Laura Vassallo</producer>
+		<producer> Marina Khoury</producer>
+		<producer> Nick Adams</producer>
+		<producer> Ian Hamilton</producer>
+		<producer> Regina Y. Hicks</producer>
+		<producer> Chuck Tatum</producer>
+		<producer> Dan Hernandez</producer>
+		<producer> Daniel Hernandez</producer>
+		<producer> Robin Schwartz</producer>
+	</producers>
+	<writers>
+		<writer> Loren Bouchard</writer>
+		<writer> Loren Bouchard</writer>
+		<writer> Jeff Drake</writer>
+		<writer> Jeff Drake</writer>
+		<writer> Jeff Drake</writer>
+		<writer> Jeff Drake</writer>
+		<writer> Josh Gad</writer>
+		<writer> Josh Gad</writer>
+		<writer> Nora Smith</writer>
+		<writer> Nora Smith</writer>
+		<writer> Rachel Hastings</writer>
+		<writer> Rachel Hastings</writer>
+		<writer> Rachel Hastings</writer>
+		<writer> Meredith Dawson</writer>
+		<writer> Meredith Dawson</writer>
+		<writer> Ava Tramer</writer>
+		<writer> Ava Tramer</writer>
+		<writer> Mnelik Belilgne</writer>
+		<writer> Mnelik Belilgne</writer>
+		<writer> Syreeta Singleton</writer>
+		<writer> Syreeta Singleton</writer>
+		<writer> Kate Anderson</writer>
+		<writer> Janelle James</writer>
+		<writer> Janelle James</writer>
+		<writer> Andrew Mueth</writer>
+		<writer> Andrew Mueth</writer>
+		<writer> Elyssa Samsel</writer>
+		<writer> Bennett Walsh</writer>
+		<writer> Bennett Walsh</writer>
+		<writer> Lindsey Stoddart</writer>
+		<writer> Halsted Sullivan</writer>
+		<writer> Chuck Tatham</writer>
+		<writer> Amanda Idoko</writer>
+		<writer> Dan Hernandez</writer>
+		<writer> Dan Hernandez</writer>
+		<writer> Benji Samit</writer>
+		<writer> Benji Samit</writer>
+		<writer> Nick Adams</writer>
+		<writer> Francisco Angones</writer>
+		<writer> Mark Alton Brown</writer>
+		<writer> Jonathan Emerson</writer>
+		<writer> Regina Y. Hicks</writer>
+		<writer> Annie Levine</writer>
+		<writer> Monica Padrick</writer>
+		<writer> Sanjay Shah</writer>
+		<writer> Michael Daniel Cassady</writer>
+	</writers>
+	<editors>
+		<editor> Stephanie Earley</editor>
+		<editor> Kris Fitzgerald</editor>
+		<editor> Matthew Parcone</editor>
+	</editors>
+</doc>

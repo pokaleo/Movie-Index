@@ -1,0 +1,359 @@
+<?xml version="1.0" ?>
+<doc id="tt3553442">
+	<docid>tt3553442</docid>
+	<title>Whiskey Tango Foxtrot</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjIxOTIzMTM5OF5BMl5BanBnXkFtZTgwNDIxNTA1NzE@._V1_QL75_UX190_CR0,8,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">112</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A journalist recounts her wartime coverage in Afghanistan.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Datasat</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tina Fey</actor>
+			<role>Kim Baker</role>
+		</credit>
+		<credit>
+			<actor>Margot Robbie</actor>
+			<role>Tanya Vanderpoel</role>
+		</credit>
+		<credit>
+			<actor>Martin Freeman</actor>
+			<role>Iain MacKelpie</role>
+		</credit>
+		<credit>
+			<actor>Alfred Molina</actor>
+			<role>Ali Massoud Sadiq</role>
+		</credit>
+		<credit>
+			<actor>Christopher Abbott</actor>
+			<role>Fahim Ahmadzai</role>
+		</credit>
+		<credit>
+			<actor>Billy Bob Thornton</actor>
+			<role>General Hollanek</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Braun</actor>
+			<role>Tall Brian</role>
+		</credit>
+		<credit>
+			<actor>Stephen Peacocke</actor>
+			<role>Nic</role>
+		</credit>
+		<credit>
+			<actor>Sheila Vand</actor>
+			<role>Shakira Khar</role>
+		</credit>
+		<credit>
+			<actor>Evan Jonigkeit</actor>
+			<role>Specialist Coughlin</role>
+		</credit>
+		<credit>
+			<actor>Fahim Anwar</actor>
+			<role>Jaweed</role>
+		</credit>
+		<credit>
+			<actor>Josh Charles</actor>
+			<role>Chris</role>
+		</credit>
+		<credit>
+			<actor>Cherry Jones</actor>
+			<role>Geri Taub</role>
+		</credit>
+		<credit>
+			<actor>Scott Takeda</actor>
+			<role>Ed Faber</role>
+		</credit>
+		<credit>
+			<actor>Eli Goodman</actor>
+			<role>Tucker Wang</role>
+		</credit>
+		<credit>
+			<actor>Soledad O'Brien</actor>
+			<role>Soledad O'Brien</role>
+		</credit>
+		<credit>
+			<actor>Thomas Kretschmann</actor>
+			<role>Airplane Passenger</role>
+		</credit>
+		<credit>
+			<actor>Demosthenes Chrysan</actor>
+			<role>Warlord</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">March 4 2016</releasedate>
+		<releasedate country="United States">March 4 2016</releasedate>
+		<releasedate country="Philippines">March 16 2016</releasedate>
+		<releasedate country="Australia">March 17 2016</releasedate>
+		<releasedate country="North Macedonia">March 17 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Egypt">R</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>afghanistan</keyword>
+		<keyword>journalist</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>u.s. military</keyword>
+		<keyword>karaoke</keyword>
+		<keyword>dancing</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>war on terrorism</keyword>
+		<keyword>kabul afghanistan</keyword>
+		<keyword>war reporter</keyword>
+		<keyword>war correspondent</keyword>
+		<keyword>product placement</keyword>
+		<keyword>fake accent</keyword>
+		<keyword>based on book</keyword>
+		<keyword>drink in title</keyword>
+		<keyword>unsubtitled foreign language</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>female reporter</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>canadian abroad</keyword>
+		<keyword>frenchman abroad</keyword>
+		<keyword>american imperialism</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>usmc</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>water</keyword>
+		<keyword>guide</keyword>
+		<keyword>translator</keyword>
+		<keyword>gym</keyword>
+		<keyword>drone strike</keyword>
+		<keyword>drone attack</keyword>
+		<keyword>horse</keyword>
+		<keyword>escape</keyword>
+		<keyword>corpse</keyword>
+		<keyword>hospital</keyword>
+		<keyword>love interest</keyword>
+		<keyword>fixer</keyword>
+		<keyword>bed</keyword>
+		<keyword>seduction</keyword>
+		<keyword>fear</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>photograph</keyword>
+		<keyword>photographer</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>afghanistan war</keyword>
+		<keyword>stripper</keyword>
+		<keyword>strip club</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>disguise</keyword>
+		<keyword>water well</keyword>
+		<keyword>desert</keyword>
+		<keyword>commando</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>mission</keyword>
+		<keyword>commando mission</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>taxi</keyword>
+		<keyword>wedding</keyword>
+		<keyword>dog</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>big ben london</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>newscaster</keyword>
+		<keyword>news report</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>farm</keyword>
+		<keyword>panic</keyword>
+		<keyword>bong</keyword>
+		<keyword>snorting cocaine</keyword>
+		<keyword>goat</keyword>
+		<keyword>camel</keyword>
+		<keyword>office</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>air strike</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>combat</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>battle</keyword>
+		<keyword>shootout</keyword>
+		<keyword>night vision binoculars</keyword>
+		<keyword>bus</keyword>
+		<keyword>montage</keyword>
+		<keyword>new year's eve</keyword>
+		<keyword>village</keyword>
+		<keyword>rpg</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>metal detector</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>webcam</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>armored car</keyword>
+		<keyword>tank</keyword>
+		<keyword>airfield</keyword>
+		<keyword>airport</keyword>
+		<keyword>airplane</keyword>
+		<keyword>embassy</keyword>
+		<keyword>marine base</keyword>
+		<keyword>u.s. marine corps</keyword>
+		<keyword>marine</keyword>
+		<keyword>general</keyword>
+		<keyword>year 2006</keyword>
+		<keyword>year 2005</keyword>
+		<keyword>year 2004</keyword>
+		<keyword>year 2003</keyword>
+		<keyword>premarital sex</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>beer</keyword>
+		<keyword>bar</keyword>
+		<keyword>party</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>hedonism</keyword>
+		<keyword>war wound</keyword>
+		<keyword>prosthetic leg</keyword>
+		<keyword>leg blown off</keyword>
+		<keyword>corporal</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>scottish accent</keyword>
+		<keyword>tent</keyword>
+		<keyword>abandoned school</keyword>
+		<keyword>secret filming</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>attorney general</keyword>
+		<keyword>warlord</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>cameraman</keyword>
+		<keyword>hijab</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>embedded journalism</keyword>
+		<keyword>rescue</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>soldier</keyword>
+		<keyword>interview</keyword>
+		<keyword>drone</keyword>
+		<keyword>unmanned aerial vehicle</keyword>
+		<keyword>taliban</keyword>
+		<keyword>culture clash</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>danger</keyword>
+		<keyword>reporter</keyword>
+		<keyword>english</keyword>
+		<keyword>firearm</keyword>
+		<keyword>american flag</keyword>
+		<keyword>war violence</keyword>
+		<keyword>violence</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>geopolitics</keyword>
+		<keyword>glasgow scotland</keyword>
+		<keyword>new york city</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>silencer</keyword>
+		<keyword>reference to arnold schwarzenegger</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>rifle</keyword>
+		<keyword>revolver</keyword>
+		<keyword>pistol</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>in medias res</keyword>
+		<keyword>reference to osama bin laden</keyword>
+		<keyword>urination</keyword>
+		<keyword>reference to the three stooges</keyword>
+		<keyword>reference to art garfunkel</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>foreign correspondent</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>religion</keyword>
+		<keyword>war journalist</keyword>
+		<keyword>american war in afghanistan</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Glenn Ficarra</director>
+		<director> John Requa</director>
+	</directors>
+	<composers>
+		<composer> Nick Urata</composer>
+	</composers>
+	<producers>
+		<producer> Ian Bryce</producer>
+		<producer> Tina Fey</producer>
+		<producer> Charlie Gogolak</producer>
+		<producer> Sam Grey</producer>
+		<producer> Eric Gurian</producer>
+		<producer> Jeffrey Harlacker</producer>
+		<producer> Lorne Michaels</producer>
+		<producer> Jeff Richmond</producer>
+		<producer> Regan Riskas</producer>
+	</producers>
+	<writers>
+		<writer> Robert Carlock</writer>
+		<writer> Kim Barker</writer>
+	</writers>
+	<editors>
+		<editor> Jan Kovác</editor>
+	</editors>
+</doc>

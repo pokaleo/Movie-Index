@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<doc id="tt14902026">
+	<docid>tt14902026</docid>
+	<title>Infiniti</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDU1OGU0ODgtMzRkNS00NDgwLWI2NzUtMDNjNzA5MmE4ZTg2XkEyXkFqcGdeQXVyODU4NzA4OTc@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">52</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A dead body is found on a roof in Kazakhstan: it belongs to Anthony Kurz, an American astronaut currently on the ISS. Anna Zarathi, a French astronaut, and Isaak Turgun, a Kazakh cop, set out to solve this mysterious paradox.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Céline Sallette</actor>
+			<role>Anna Zarathi</role>
+		</credit>
+		<credit>
+			<actor>Daniyar Alshinov</actor>
+			<role>Isaak Turgun</role>
+		</credit>
+		<credit>
+			<actor>Vlad Ivanov</actor>
+			<role>Emil Durkhov</role>
+		</credit>
+		<credit>
+			<actor>Lex Shrapnel</actor>
+			<role>Anthony Kurz</role>
+		</credit>
+		<credit>
+			<actor>Karina Arutyunyan</actor>
+			<role>Lydia Joukovskaïa</role>
+		</credit>
+		<credit>
+			<actor>Anatolii Panchenko</actor>
+			<role>Mikhail</role>
+		</credit>
+		<credit>
+			<actor>Ellora Torchia</actor>
+			<role>Reva</role>
+		</credit>
+		<credit>
+			<actor>Jarreth J. Merz</actor>
+			<role>Mason</role>
+		</credit>
+		<credit>
+			<actor>Laurent Capelluto</actor>
+			<role>Xavier De Livier</role>
+		</credit>
+		<credit>
+			<actor>Samal Yeslyamova</actor>
+			<role>Irina</role>
+		</credit>
+		<credit>
+			<actor>Oleg Levin</actor>
+			<role>Belinski</role>
+		</credit>
+		<credit>
+			<actor>Eric Raymond Lim</actor>
+			<role>Xi Ning</role>
+		</credit>
+		<credit>
+			<actor>Xuemeng Li</actor>
+			<role>Hoi Han</role>
+		</credit>
+		<credit>
+			<actor>Yerken Gubashev</actor>
+			<role>Fef Askarev</role>
+		</credit>
+		<credit>
+			<actor>Oleg Drach</actor>
+			<role>Gilgamesh</role>
+		</credit>
+		<credit>
+			<actor>Nurbek Mukushev</actor>
+			<role>Chingiz</role>
+		</credit>
+		<credit>
+			<actor>Chike Chan</actor>
+			<role>Li Wong</role>
+		</credit>
+		<credit>
+			<actor>Rob Feldman</actor>
+			<role>Youri Kozlov</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">April 4 2022</releasedate>
+		<releasedate country="France">April 4 2022</releasedate>
+		<releasedate country="Australia">November 17 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>space</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>space program</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>murder</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>international space station</keyword>
+		<keyword>baikonur kazakhstan</keyword>
+		<keyword>cosmodrome</keyword>
+		<keyword>kazakhstan</keyword>
+		<keyword>space launch</keyword>
+		<keyword>cosmonaut</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>watch</keyword>
+		<keyword>paradox</keyword>
+		<keyword>outer space</keyword>
+	</keywords>
+	<directors>
+		<director> Thierry Poiraud</director>
+	</directors>
+	<composers>
+		<composer> Thomas Couzinier</composer>
+		<composer> Frédéric Kooshmanian</composer>
+	</composers>
+	<producers>
+		<producer> Olias Barco</producer>
+		<producer> Hubert Brault</producer>
+		<producer> Eric Laroche</producer>
+		<producer> Jean-Charles Levy</producer>
+		<producer> Marc Libert</producer>
+		<producer> Jean-Luc Olivier</producer>
+		<producer> Raphaël Rocher</producer>
+		<producer> Lionel Uzan</producer>
+	</producers>
+	<writers>
+		<writer> Stéphane Pannetier</writer>
+		<writer> Julien Vanlerenberghe</writer>
+	</writers>
+	<editors>
+		<editor> Eric Armbruster</editor>
+		<editor> Stéphane Elmadjian</editor>
+		<editor> Claire Vandewalle</editor>
+		<editor> Mario Battistel</editor>
+		<editor> Olivier Gajan</editor>
+	</editors>
+</doc>

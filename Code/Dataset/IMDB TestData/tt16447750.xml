@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc id="tt16447750">
+	<docid>tt16447750</docid>
+	<title>Maestro</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjMzN2VlMTEtYjY4Ny00ZDc4LWFmNTktMjViZmE1ODFjYzVhXkEyXkFqcGdeQXVyMzQ0NDM5NTk@._V1_QL75_UY281_CR139,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Orestes travels to a small island during the pandemic in order to set up a music festival from scratch. Confronted with the small society of the island, he will find himself involved in an extreme love story.</plot>
+	<countries>
+		<country>Greece</country>
+	</countries>
+	<languages>
+		<language>Greek</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Christopher Papakaliatis</actor>
+			<role>Orestis</role>
+		</credit>
+		<credit>
+			<actor>Klelia Andriolatou</actor>
+			<role>Klelia</role>
+		</credit>
+		<credit>
+			<actor>Maria Kavoyianni</actor>
+			<role>Maria</role>
+		</credit>
+		<credit>
+			<actor>Fanis Mouratidis</actor>
+			<role>Fanis</role>
+		</credit>
+		<credit>
+			<actor>Marisha Triantafyllidou</actor>
+			<role>Sofia</role>
+		</credit>
+		<credit>
+			<actor>Giannis Tsortekis</actor>
+			<role>Haralambos</role>
+		</credit>
+		<credit>
+			<actor>Orestis Chalkias</actor>
+			<role>Antonis</role>
+		</credit>
+		<credit>
+			<actor>Yorgos Benos</actor>
+			<role>Spyros</role>
+		</credit>
+		<credit>
+			<actor>Spyro Curtis</actor>
+			<role>British Friend Musician</role>
+		</credit>
+		<credit>
+			<actor>Haris Alexiou</actor>
+			<role>Haris</role>
+		</credit>
+		<credit>
+			<actor>Antinoos Albanis</actor>
+			<role>Michalis</role>
+		</credit>
+		<credit>
+			<actor>Dimitris Kitsos</actor>
+			<role>Thanos</role>
+		</credit>
+		<credit>
+			<actor>Stefania Goulioti</actor>
+			<role>Alexandra</role>
+		</credit>
+		<credit>
+			<actor>Tonia Maraki</actor>
+			<role>Gianna</role>
+		</credit>
+		<credit>
+			<actor>Sandra Sarafanova</actor>
+			<role>Lena</role>
+		</credit>
+		<credit>
+			<actor>Ioanna Chronopoulou</actor>
+			<role>Kiki</role>
+		</credit>
+		<credit>
+			<actor>Giorgos Biniaris</actor>
+			<role>Dionysis</role>
+		</credit>
+		<credit>
+			<actor>Christos Loulis</actor>
+			<role>Andreas</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">October 13 2022</releasedate>
+		<releasedate country="Greece">October 13 2022</releasedate>
+		<releasedate country="Sweden">March 17 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Singapore">R21</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>festival</keyword>
+	</keywords>
+	<directors>
+		<director> Christopher Papakaliatis</director>
+		<director> Akis Polizos</director>
+	</directors>
+	<composers>
+		<composer> Kostas Christides</composer>
+	</composers>
+	<producers>
+		<producer> Stelios Cotionis</producer>
+		<producer> Giorgos Moshovitis</producer>
+	</producers>
+	<writers>
+		<writer> Christopher Papakaliatis</writer>
+	</writers>
+	<editors>
+		<editor> Stella Filippopoulou</editor>
+	</editors>
+</doc>

@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<doc id="tt6469548">
+	<docid>tt6469548</docid>
+	<title>The Head Hunter</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjU5NjYwNWMtYzcxNC00MjIwLThhNjItYzZmNmUyYmI0NGQyXkEyXkFqcGdeQXVyMTY1OTIzMTc@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">72</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A medieval warrior's gruesome collection of heads is missing only one - the monster that killed his daughter years ago.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Christopher Rygh</actor>
+			<role>Father</role>
+		</credit>
+		<credit>
+			<actor>Cora Kaufman</actor>
+			<role>Daughter</role>
+		</credit>
+		<credit>
+			<actor>Aisha Ricketts</actor>
+			<role>The Head</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Spain">October 6 2018</releasedate>
+		<releasedate country="Peru">February 7 2019</releasedate>
+		<releasedate country="Portugal">February 24 2019</releasedate>
+		<releasedate country="United States">March 16 2019</releasedate>
+		<releasedate country="United States">April 5 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dark fantasy</keyword>
+		<keyword>revenge</keyword>
+		<keyword>warrior</keyword>
+		<keyword>exploitation</keyword>
+		<keyword>demon</keyword>
+		<keyword>hunt</keyword>
+		<keyword>behead</keyword>
+		<keyword>head collection</keyword>
+		<keyword>potion</keyword>
+		<keyword>middle ages</keyword>
+		<keyword>monster horror</keyword>
+	</keywords>
+	<directors>
+		<director> Jordan Downey</director>
+	</directors>
+	<composers>
+		<composer> Nick Soole</composer>
+	</composers>
+	<producers>
+		<producer> Jordan Downey</producer>
+		<producer> Ricky Fosheim</producer>
+		<producer> Kevin Stewart</producer>
+	</producers>
+	<writers>
+		<writer> Kevin Stewart</writer>
+		<writer> Jordan Downey</writer>
+	</writers>
+	<editors>
+		<editor> Jordan Downey</editor>
+	</editors>
+</doc>

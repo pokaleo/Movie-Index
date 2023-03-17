@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<doc id="tt18413028">
+	<docid>tt18413028</docid>
+	<title>The Merciful</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZGMzMTlmM2QtNzk1MC00YTVhLWI1MWEtMTk0NTQzODI5MDI5XkEyXkFqcGdeQXVyMTQ2NzcxMDMz._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">119</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>As the world falls apart one man walks into the mountains of Idaho to end his life on a quiet note...but that just doesn't happen.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Robert Schumacher</actor>
+			<role>Hey</role>
+		</credit>
+		<credit>
+			<actor>Kathryn Sokol</actor>
+			<role>Allison</role>
+		</credit>
+		<credit>
+			<actor>Josiah Bruns</actor>
+			<role>Jimmy McFarlane</role>
+		</credit>
+		<credit>
+			<actor>Greg Gerot</actor>
+			<role>Scott 'Hunter' McFarlane</role>
+		</credit>
+		<credit>
+			<actor>Jayce Huling</actor>
+			<role>Greg</role>
+		</credit>
+		<credit>
+			<actor>Maddy Vance</actor>
+			<role>Linda</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">April 20 2022</releasedate>
+		<releasedate country="United States">October 7 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Robert Schumacher</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Phyllis Bohlman</producer>
+		<producer> Robert Schumacher</producer>
+	</producers>
+	<writers>
+		<writer> Robert Schumacher</writer>
+	</writers>
+	<editors>
+		<editor> Aaron Bren</editor>
+		<editor> Noah Koehoorn</editor>
+		<editor> Robert Schumacher</editor>
+	</editors>
+</doc>

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc id="tt13101040">
+	<docid>tt13101040</docid>
+	<title>The Last Movie Stars</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjFiMWQ5ZGItMDk3ZS00ZTJhLTg4ZjQtM2MxYzhiMzY4MjU1XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">59</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>In this intimate six-part docuseries, actor/director Ethan Hawke explores the love story and enduring legacy of Hollywood legends Joanne Woodward and Paul Newman.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>George Clooney</actor>
+			<role>Paul Newman</role>
+		</credit>
+		<credit>
+			<actor>Laura Linney</actor>
+			<role>Joanne Woodward</role>
+		</credit>
+		<credit>
+			<actor>Zoe Kazan</actor>
+			<role>Jackie McDonald</role>
+		</credit>
+		<credit>
+			<actor>Josh Hamilton</actor>
+			<role>George Roy Hill</role>
+		</credit>
+		<credit>
+			<actor>Barry Poltermann</actor>
+			<role>Stewart Stern</role>
+		</credit>
+		<credit>
+			<actor>Martin Scorsese</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Sam Rockwell</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Ethan Hawke</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Brooks Ashmanskas</actor>
+			<role>Gore Vidal</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Marc Sherman</actor>
+			<role>Martin Ritt</role>
+		</credit>
+		<credit>
+			<actor>Billy Crudup</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Sally Field</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Alessandro Nivola</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Melissa Newman</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Claire Newman</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Newman</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Steve Zahn</actor>
+			<role>Donald 'Duck' Dobbins</role>
+		</credit>
+		<credit>
+			<actor>Karen Allen</actor>
+			<role>Frances Woodward</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">March 14 2022</releasedate>
+		<releasedate country="France">May 2022</releasedate>
+		<releasedate country="Argentina">July 21 2022</releasedate>
+		<releasedate country="Ecuador">July 21 2022</releasedate>
+		<releasedate country="France">July 21 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>hbo max</keyword>
+		<keyword>entertainment documentary</keyword>
+	</keywords>
+	<directors>
+		<director> Ethan Hawke</director>
+	</directors>
+	<composers>
+		<composer> Hamilton Leithauser</composer>
+	</composers>
+	<producers>
+		<producer> Amy Entelis</producer>
+		<producer> Lisa Frechette</producer>
+		<producer> Lisa Long Adler</producer>
+		<producer> Courtney Sexton</producer>
+		<producer> Emily Wachtel</producer>
+		<producer> Austin Wilkin</producer>
+		<producer> Adam Gibbs</producer>
+		<producer> Ryan Hawke</producer>
+		<producer> Martin Scorsese</producer>
+		<producer> Mario Andretti</producer>
+		<producer> Alexandra Hannibal</producer>
+		<producer> Ryan Robinson</producer>
+		<producer> Denise Fournier Zako</producer>
+	</producers>
+	<writers>
+		<writer> Paul Newman</writer>
+		<writer> Stewart Stern</writer>
+		<writer> Emily Wachtel</writer>
+	</writers>
+	<editors>
+		<editor> Barry Poltermann</editor>
+	</editors>
+</doc>

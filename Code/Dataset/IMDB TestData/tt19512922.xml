@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<doc id="tt19512922">
+	<docid>tt19512922</docid>
+	<title>Aftersun</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTM3OTU0ZGUtNzYwYy00ODU3LWI3YjgtOWZlODliMmRiMWEzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2022</year>
+	<runningtimes>
+		<runningtime country="default">70</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Summertime. In a camping, three little girls listen to an old mysterious story about a missing kid. They start to investigate.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Catalan</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lola Daniel</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Alex Moreu</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Carmela Poch</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Ainoa Suros</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Àgueda Suros</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Spain">May 1 2022</releasedate>
+		<releasedate country="South Korea">September 24 2022</releasedate>
+		<releasedate country="Netherlands">November 2022</releasedate>
+		<releasedate country="Italy">December 2 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="South Korea">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>experimental film</keyword>
+	</keywords>
+	<directors>
+		<director> Lluís Galter</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Oriol Cid</producer>
+		<producer> Albert Pons</producer>
+	</producers>
+	<writers>
+		<writer> Lluís Galter</writer>
+	</writers>
+	<editors/>
+</doc>

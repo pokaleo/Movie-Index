@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<doc id="tt5311790">
+	<docid>tt5311790</docid>
+	<title>The A Word</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODIwMmVkYjAtYzQzNS00NGRiLWI5NjMtN2U3OWFkZDExOTMyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The Hughes family work and love and fight like every other family. Then, their youngest son is diagnosed with autism and they don't feel like every other family anymore.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Max Vento</actor>
+			<role>Joe Hughes</role>
+		</credit>
+		<credit>
+			<actor>Lee Ingleby</actor>
+			<role>Paul Hughes</role>
+		</credit>
+		<credit>
+			<actor>Christopher Eccleston</actor>
+			<role>Maurice Scott</role>
+		</credit>
+		<credit>
+			<actor>Molly Wright</actor>
+			<role>Rebecca Hughes</role>
+		</credit>
+		<credit>
+			<actor>Pooky Quesnel</actor>
+			<role>Louise Wilson</role>
+		</credit>
+		<credit>
+			<actor>Morven Christie</actor>
+			<role>Alison Hughes</role>
+		</credit>
+		<credit>
+			<actor>Leon Harrop</actor>
+			<role>Ralph Wilson</role>
+		</credit>
+		<credit>
+			<actor>Greg McHugh</actor>
+			<role>Eddie Scott</role>
+		</credit>
+		<credit>
+			<actor>Vinette Robinson</actor>
+			<role>Nicola Daniels</role>
+		</credit>
+		<credit>
+			<actor>Matt Greenwood</actor>
+			<role>Tom Clarke</role>
+		</credit>
+		<credit>
+			<actor>Adam Wittek</actor>
+			<role>David Nowak</role>
+		</credit>
+		<credit>
+			<actor>Tommie Grabiec</actor>
+			<role>Pavel Kaminski</role>
+		</credit>
+		<credit>
+			<actor>Travis George</actor>
+			<role>Mark Berwick</role>
+		</credit>
+		<credit>
+			<actor>Ibrahim Ismail</actor>
+			<role>Ramesh</role>
+		</credit>
+		<credit>
+			<actor>Daniel Cerqueira</actor>
+			<role>Dr. Graves</role>
+		</credit>
+		<credit>
+			<actor>Harrison Newell-Parker</actor>
+			<role>Bill Hibbs</role>
+		</credit>
+		<credit>
+			<actor>Gemma Paige North</actor>
+			<role>Sarah Hibbs</role>
+		</credit>
+		<credit>
+			<actor>George Bukhari</actor>
+			<role>Terry</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">March 22 2016</releasedate>
+		<releasedate country="United Kingdom">March 22 2016</releasedate>
+		<releasedate country="United States">July 13 2016</releasedate>
+		<releasedate country="Australia">September 4 2016</releasedate>
+		<releasedate country="Canada">January 15 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>manchester england</keyword>
+		<keyword>autism</keyword>
+		<keyword>autism spectrum</keyword>
+		<keyword>northern humour</keyword>
+		<keyword>yorkshire england</keyword>
+		<keyword>yorkshire dales</keyword>
+		<keyword>lake district</keyword>
+		<keyword>diversity in media awards</keyword>
+		<keyword>yellow peppers</keyword>
+		<keyword>remake</keyword>
+		<keyword>adaption</keyword>
+		<keyword>northern england</keyword>
+		<keyword>love</keyword>
+		<keyword>based on israeli tv series</keyword>
+		<keyword>reference to doctor who</keyword>
+		<keyword>north of england</keyword>
+	</keywords>
+	<directors>
+		<director> Susan Tully</director>
+		<director> Peter Cattaneo</director>
+		<director> Luke Snellin</director>
+		<director> Fergus O'Brien</director>
+		<director> Dominic Leclerc</director>
+		<director> John Hardwick</director>
+		<director> Sasha Ransome</director>
+	</directors>
+	<composers>
+		<composer> Rob Lane</composer>
+		<composer> Peter Jobson</composer>
+	</composers>
+	<producers>
+		<producer> Avi Nir</producer>
+		<producer> Patrick Spence</producer>
+		<producer> Marcus Wilson</producer>
+		<producer> Peter Bowker</producer>
+		<producer> Lucy Richer</producer>
+		<producer> Keren Margalit</producer>
+		<producer> Alon Shtruzman</producer>
+		<producer> Howard Burch</producer>
+		<producer> Jenny Frayn</producer>
+		<producer> Sara Johnson</producer>
+		<producer> Keran Magelit</producer>
+		<producer> Clare Shepherd</producer>
+		<producer> Des Hughes</producer>
+		<producer> Nick Brown</producer>
+		<producer> Samantha McCole</producer>
+		<producer> Phillipa Cole</producer>
+	</producers>
+	<writers>
+		<writer> Peter Bowker</writer>
+		<writer> Peter Bowker</writer>
+		<writer> Keren Margalit</writer>
+	</writers>
+	<editors>
+		<editor> Jeremy Strachan</editor>
+		<editor> Jamie Pearson</editor>
+		<editor> Johnny Rayner</editor>
+		<editor> Joel Skinner</editor>
+		<editor> Simon Brasse</editor>
+		<editor> Jim Hampton</editor>
+		<editor> Matthew Cannings</editor>
+		<editor> Mark Henson</editor>
+	</editors>
+</doc>

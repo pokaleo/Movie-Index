@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<doc id="tt5603140">
+	<docid>tt5603140</docid>
+	<title>The Restaurant</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDZkMjc3MjctNjBhZC00MGE1LWFhYzYtMDcyNGY5ZmVlNDc5XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Stockholm, the day of peace in Europe 1945. A spontaneous kiss between two strangers, during the celebration at Kungsgatan, will have major consequences.</plot>
+	<countries>
+		<country>Sweden</country>
+	</countries>
+	<languages>
+		<language>Swedish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Hedda Stiernstedt</actor>
+			<role>Nina</role>
+		</credit>
+		<credit>
+			<actor>Charlie Gustafsson</actor>
+			<role>Calle</role>
+		</credit>
+		<credit>
+			<actor>Anna Bjelkerud</actor>
+			<role>Ethel</role>
+		</credit>
+		<credit>
+			<actor>Adam Lundgren</actor>
+			<role>Peter</role>
+		</credit>
+		<credit>
+			<actor>Josefin Neldén</actor>
+			<role>Maggan</role>
+		</credit>
+		<credit>
+			<actor>Rasmus Troedsson</actor>
+			<role>Bellan</role>
+		</credit>
+		<credit>
+			<actor>Mattias Nordkvist</actor>
+			<role>Gustaf</role>
+		</credit>
+		<credit>
+			<actor>Suzanne Reuter</actor>
+			<role>Helga</role>
+		</credit>
+		<credit>
+			<actor>Peter Dalle</actor>
+			<role>Stickan</role>
+		</credit>
+		<credit>
+			<actor>Caroline Söderström</actor>
+			<role>Astrid</role>
+		</credit>
+		<credit>
+			<actor>Karin Franz Körlof</actor>
+			<role>Lilly</role>
+		</credit>
+		<credit>
+			<actor>Malin Persson</actor>
+			<role>Sonja</role>
+		</credit>
+		<credit>
+			<actor>Ida Engvoll</actor>
+			<role>Ester</role>
+		</credit>
+		<credit>
+			<actor>Simone Coppo</actor>
+			<role>Angelo</role>
+		</credit>
+		<credit>
+			<actor>Tova Magnusson</actor>
+			<role>Britt Gahn</role>
+		</credit>
+		<credit>
+			<actor>Hannes Fohlin</actor>
+			<role>Erik</role>
+		</credit>
+		<credit>
+			<actor>Leif Edlund</actor>
+			<role>Andersson</role>
+		</credit>
+		<credit>
+			<actor>Hedda Rehnberg</actor>
+			<role>Suzanne</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">October 1 2017</releasedate>
+		<releasedate country="Sweden">October 2 2017</releasedate>
+		<releasedate country="Finland">October 8 2017</releasedate>
+		<releasedate country="Denmark">November 4 2017</releasedate>
+		<releasedate country="Germany">August 19 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>family saga</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>stockholm sweden</keyword>
+		<keyword>family business</keyword>
+		<keyword>period drama</keyword>
+		<keyword>post world war two</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>chef</keyword>
+		<keyword>back seamed stockings</keyword>
+		<keyword>black market goods</keyword>
+		<keyword>ration coupon</keyword>
+		<keyword>anti semitism</keyword>
+		<keyword>kiss</keyword>
+		<keyword>bistro</keyword>
+		<keyword>jazz club</keyword>
+		<keyword>dancing</keyword>
+		<keyword>brother brother rivalry</keyword>
+		<keyword>class differences</keyword>
+		<keyword>finding love</keyword>
+		<keyword>sexism</keyword>
+		<keyword>passion</keyword>
+		<keyword>love</keyword>
+		<keyword>scandinavia</keyword>
+		<keyword>eastern scandinavia</keyword>
+		<keyword>timeframe 1940s</keyword>
+		<keyword>swedish historical setting</keyword>
+		<keyword>domestic drama</keyword>
+		<keyword>social history</keyword>
+		<keyword>20th century</keyword>
+		<keyword>northern europe</keyword>
+	</keywords>
+	<directors>
+		<director> Harald Hamrell</director>
+		<director> Anna Zackrisson</director>
+		<director> Andrea Östlund</director>
+		<director> Molly Hartleb</director>
+		<director> Måns Herngren</director>
+	</directors>
+	<composers>
+		<composer> Adam Nordén</composer>
+	</composers>
+	<producers>
+		<producer> Heidi Rydbeck</producer>
+		<producer> Susann Billberg-Rydholm</producer>
+		<producer> Tomas Eskilsson</producer>
+		<producer> Iréne Lindblad</producer>
+		<producer> Fredrik Ljungberg</producer>
+		<producer> Lars Wannebo</producer>
+		<producer> Line Winther Skyum Funch</producer>
+		<producer> Anna Croneman</producer>
+		<producer> Christian Wikander</producer>
+		<producer> Anette Wiman</producer>
+		<producer> Peter Bengtsson</producer>
+	</producers>
+	<writers>
+		<writer> Ulf Kvensler</writer>
+		<writer> Ulf Kvensler</writer>
+		<writer> Ulf Kvensler</writer>
+		<writer> Ulf Kvensler</writer>
+		<writer> Malin Nevander</writer>
+		<writer> Malin Nevander</writer>
+		<writer> Malin Nevander</writer>
+		<writer> Malin Nevander</writer>
+		<writer> Malin Nevander</writer>
+		<writer> Johan Rosenlind</writer>
+		<writer> Johan Rosenlind</writer>
+		<writer> Johan Rosenlind</writer>
+		<writer> Johan Rosenlind</writer>
+		<writer> Cilla Jackert</writer>
+		<writer> Pernilla Oljelund</writer>
+		<writer> Pernilla Oljelund</writer>
+	</writers>
+	<editors>
+		<editor> Andreas Nilsson</editor>
+		<editor> Rickard Krantz</editor>
+		<editor> Emil Stenberg</editor>
+		<editor> Erlend Kristoffersen</editor>
+		<editor> Fredrik Morheden</editor>
+		<editor> Linda Jildmalm</editor>
+		<editor> Malin Lindström</editor>
+	</editors>
+</doc>

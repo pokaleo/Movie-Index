@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<doc id="tt13581936">
+	<docid>tt13581936</docid>
+	<title>Blood Covered Chocolate</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWQyODcyZTYtYTZmYS00ZTc1LTg2NzgtYzVjZDIwMmYzMDE2XkEyXkFqcGdeQXVyMjIzMzk2MTk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">82</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>When a recovering drug-addict named Massimo is bitten by an ancient, shapeshifting monster, he must fight to save his girlfriend Tien from the same bloody fate.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Black and White</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Christine Nguyen</actor>
+			<role>Tien</role>
+		</credit>
+		<credit>
+			<actor>Helene Udy</actor>
+			<role>Candy</role>
+		</credit>
+		<credit>
+			<actor>Mike Ferguson</actor>
+			<role>Gage</role>
+		</credit>
+		<credit>
+			<actor>Debra Lamb</actor>
+			<role>Barbara</role>
+		</credit>
+		<credit>
+			<actor>Meghan Deanna Smith</actor>
+			<role>Sofia</role>
+		</credit>
+		<credit>
+			<actor>Michael Klug</actor>
+			<role>Massimo</role>
+		</credit>
+		<credit>
+			<actor>Jamie Tran</actor>
+			<role>Lucky</role>
+		</credit>
+		<credit>
+			<actor>Joe Altieri</actor>
+			<role>Crate</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 30 2022</releasedate>
+		<releasedate country="United States">December 6 2022</releasedate>
+		<releasedate country="United States">December 10 2022</releasedate>
+		<releasedate country="United States">April 7 2023</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Monte Light</director>
+	</directors>
+	<composers>
+		<composer> Mac Light</composer>
+	</composers>
+	<producers>
+		<producer> Monte Light</producer>
+		<producer> Susan Light</producer>
+		<producer> Frank Merle</producer>
+		<producer> Gregory Schmittel</producer>
+		<producer> Neal Tyler</producer>
+	</producers>
+	<writers>
+		<writer> Monte Light</writer>
+	</writers>
+	<editors>
+		<editor> Monte Light</editor>
+	</editors>
+</doc>

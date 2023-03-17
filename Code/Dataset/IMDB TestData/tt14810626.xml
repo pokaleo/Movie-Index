@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<doc id="tt14810626">
+	<docid>tt14810626</docid>
+	<title>Üç Kurus</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzA2MmRlNzktZmU0MS00MzA1LTkwNjgtZDExYWQ2MWQ4NjdkXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>When a serial killer stalks a Romani neighborhood, a hardboiled police captain teams up with a Gypsy crime boss to bring the killer to justice.</plot>
+	<countries>
+		<country>Turkey</country>
+	</countries>
+	<languages>
+		<language>Turkish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Uraz Kaygilaroglu</actor>
+			<role>Kartal</role>
+		</credit>
+		<credit>
+			<actor>Ekin Koç</actor>
+			<role>Efe</role>
+		</credit>
+		<credit>
+			<actor>Aslihan Malbora</actor>
+			<role>Leyla</role>
+		</credit>
+		<credit>
+			<actor>Mustafa Kirantepe</actor>
+			<role>Rusen</role>
+		</credit>
+		<credit>
+			<actor>Ugur Yildiran</actor>
+			<role>Sesu</role>
+		</credit>
+		<credit>
+			<actor>Civan Canova</actor>
+			<role>Oktay</role>
+		</credit>
+		<credit>
+			<actor>Umutcan Ütebay</actor>
+			<role>Sahin</role>
+		</credit>
+		<credit>
+			<actor>Damla Makar</actor>
+			<role>Halide</role>
+		</credit>
+		<credit>
+			<actor>Alisan Ugur</actor>
+			<role>Konyali</role>
+		</credit>
+		<credit>
+			<actor>Nesrin Cavadzade</actor>
+			<role>Bahar</role>
+		</credit>
+		<credit>
+			<actor>Volkan Kiran</actor>
+			<role>Kamil</role>
+		</credit>
+		<credit>
+			<actor>Nursel Köse</actor>
+			<role>Neriman</role>
+		</credit>
+		<credit>
+			<actor>Ertugrul Aytaç Usun</actor>
+			<role>Batu</role>
+		</credit>
+		<credit>
+			<actor>Ömer Civan Sit</actor>
+			<role>Hüseyin</role>
+		</credit>
+		<credit>
+			<actor>Cenk Kangöz</actor>
+			<role>Mesut</role>
+		</credit>
+		<credit>
+			<actor>Özkan Özipek</actor>
+			<role>Ahmet</role>
+		</credit>
+		<credit>
+			<actor>Diren Polatogullari</actor>
+			<role>Ferhan</role>
+		</credit>
+		<credit>
+			<actor>Asena Girisken</actor>
+			<role>Peri</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Turkey">November 1 2021</releasedate>
+		<releasedate country="United Arab Emirates">November 2 2021</releasedate>
+		<releasedate country="Egypt">November 2 2021</releasedate>
+		<releasedate country="Indonesia">November 2 2021</releasedate>
+		<releasedate country="Philippines">November 2 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Indonesia">Not Rated</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Arab Emirates">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>serial killer</keyword>
+	</keywords>
+	<directors>
+		<director> Sinan Ozturk</director>
+		<director> Barbaros Bilgin</director>
+		<director> Ugur Kuyucu</director>
+	</directors>
+	<composers>
+		<composer> Toygar Isikli</composer>
+	</composers>
+	<producers>
+		<producer> Gizem Alpay</producer>
+		<producer> Yamac Okur</producer>
+		<producer> Cem Ozkan</producer>
+		<producer> Kerem Çatay</producer>
+	</producers>
+	<writers>
+		<writer> Eset Akcilad</writer>
+		<writer> Eset Akcilad</writer>
+		<writer> Hazak Inaltekin</writer>
+		<writer> Damla Serim</writer>
+		<writer> Berrin Tekdemir</writer>
+		<writer> Berrin Tekdemir</writer>
+		<writer> Murat Uyurkulak</writer>
+		<writer> Murat Uyurkulak</writer>
+	</writers>
+	<editors>
+		<editor> Kaan Oden</editor>
+		<editor> Serdar Çakular</editor>
+	</editors>
+</doc>

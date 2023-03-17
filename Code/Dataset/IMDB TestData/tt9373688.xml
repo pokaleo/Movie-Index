@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<doc id="tt9373688">
+	<docid>tt9373688</docid>
+	<title>Settlers</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjAzYjM1OTUtYjNlZC00MzI1LTk3MGItMzg3MzA1NmJmMzVjXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">103</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Mankind's earliest settlers on the Martian frontier do what they must to survive the cosmic elements and each other.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Sofia Boutella</actor>
+			<role>Ilsa</role>
+		</credit>
+		<credit>
+			<actor>Ismael Cruz Cordova</actor>
+			<role>Jerry</role>
+		</credit>
+		<credit>
+			<actor>Brooklynn Prince</actor>
+			<role>Younger Remmy</role>
+		</credit>
+		<credit>
+			<actor>Nell Tiger Free</actor>
+			<role>Older Remmy</role>
+		</credit>
+		<credit>
+			<actor>Jonny Lee Miller</actor>
+			<role>Reza</role>
+		</credit>
+		<credit>
+			<actor>Natalie Walsh</actor>
+			<role>Female Stranger</role>
+		</credit>
+		<credit>
+			<actor>Matthew Van Leeve</actor>
+			<role>Male Stranger</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">June 18 2021</releasedate>
+		<releasedate country="United Kingdom">July 23 2021</releasedate>
+		<releasedate country="Indonesia">July 23 2021</releasedate>
+		<releasedate country="Poland">July 23 2021</releasedate>
+		<releasedate country="United States">July 23 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>life</keyword>
+		<keyword>tied to a bed</keyword>
+		<keyword>gun held to head</keyword>
+		<keyword>chicken</keyword>
+		<keyword>pig</keyword>
+		<keyword>robot</keyword>
+		<keyword>mars</keyword>
+		<keyword>written by director</keyword>
+		<keyword>isolation</keyword>
+	</keywords>
+	<directors>
+		<director> Wyatt Rockefeller</director>
+	</directors>
+	<composers>
+		<composer> Nitin Sawhney</composer>
+	</composers>
+	<producers>
+		<producer> Schalk Willem Burger</producer>
+		<producer> James Cotton</producer>
+		<producer> Julie Fabrizio</producer>
+		<producer> Joshua Horsfield</producer>
+		<producer> Johan Kruger</producer>
+		<producer> Jason Mandl</producer>
+		<producer> Kenny Moleme</producer>
+		<producer> Ben Pugh</producer>
+	</producers>
+	<writers>
+		<writer> Wyatt Rockefeller</writer>
+	</writers>
+	<editors>
+		<editor> Johnny Daukes</editor>
+	</editors>
+</doc>

@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<doc id="tt1595842">
+	<docid>tt1595842</docid>
+	<title>Fred: The Movie</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGFhMDc5NjYtODI4Ny00M2FmLTk3YmUtMTQwZDFlYmRiNDI1XkEyXkFqcGdeQXVyODIxNjk4NzQ@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2010 TV Movie</year>
+	<runningtimes>
+		<runningtime country="default">81</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>Lovestruck, awkward teen Fred Figglehorn makes desperate attempts to make Judy fall in love with him - while also dodging the mischievous Kevin.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Lucas Cruikshank</actor>
+			<role>Fred Figglehorn</role>
+		</credit>
+		<credit>
+			<actor>Pixie Lott</actor>
+			<role>Judy</role>
+		</credit>
+		<credit>
+			<actor>Jake Weary</actor>
+			<role>Kevin</role>
+		</credit>
+		<credit>
+			<actor>Jennette McCurdy</actor>
+			<role>Bertha</role>
+		</credit>
+		<credit>
+			<actor>John Cena</actor>
+			<role>Fred's Dad</role>
+		</credit>
+		<credit>
+			<actor>Siobhan Fallon Hogan</actor>
+			<role>Fred's Mom</role>
+		</credit>
+		<credit>
+			<actor>Jack Coughlan</actor>
+			<role>Young Fred</role>
+		</credit>
+		<credit>
+			<actor>Mak Kriksciun</actor>
+			<role>Little Evan Weiss</role>
+		</credit>
+		<credit>
+			<actor>Robert Noble</actor>
+			<role>#6 Bus Driver</role>
+		</credit>
+		<credit>
+			<actor>Gary Anthony Williams</actor>
+			<role>Laundromat Manager</role>
+		</credit>
+		<credit>
+			<actor>John Gatins</actor>
+			<role>Car Wash Clerk #1</role>
+		</credit>
+		<credit>
+			<actor>Bambadjan Bamba</actor>
+			<role>Car Wash Clerk #2</role>
+		</credit>
+		<credit>
+			<actor>Kirsten Berman</actor>
+			<role>Fiat Driver</role>
+		</credit>
+		<credit>
+			<actor>Oscar Nuñez</actor>
+			<role>Lorenzo</role>
+		</credit>
+		<credit>
+			<actor>Jordan Black</actor>
+			<role>Gary</role>
+		</credit>
+		<credit>
+			<actor>Dave Silva</actor>
+			<role>Man Who Doesn't Speak English</role>
+		</credit>
+		<credit>
+			<actor>Chris Wylde</actor>
+			<role>Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Kevin Olson</actor>
+			<role>Older Evan Weiss</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 18 2010</releasedate>
+		<releasedate country="United Kingdom">December 17 2010</releasedate>
+		<releasedate country="Ireland">December 17 2010</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Bulgaria">B</certificate>
+		<certificate country="Czechia">U</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="New Zealand">G</certificate>
+		<certificate country="Nigeria">G</certificate>
+		<certificate country="Saudi Arabia">G</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+	</certificates>
+	<keywords>
+		<keyword>part of trilogy</keyword>
+		<keyword>based on web series</keyword>
+		<keyword>first of series</keyword>
+		<keyword>first part</keyword>
+		<keyword>z movie</keyword>
+		<keyword>in love</keyword>
+		<keyword>crush</keyword>
+		<keyword>sand</keyword>
+		<keyword>movie in title</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Clay Weiner</director>
+	</directors>
+	<composers>
+		<composer> Roddy Bottum</composer>
+	</composers>
+	<producers>
+		<producer> Gary Binkow</producer>
+		<producer> Lucas Cruikshank</producer>
+		<producer> Don Dunn</producer>
+		<producer> Brian Robbins</producer>
+		<producer> Meghann Collins Robertson</producer>
+		<producer> Sharla Sumpter Bridgett</producer>
+		<producer> Evan Weiss</producer>
+	</producers>
+	<writers>
+		<writer> David A. Goodman</writer>
+		<writer> Lucas Cruikshank</writer>
+	</writers>
+	<editors>
+		<editor> Ned Bastille</editor>
+	</editors>
+</doc>

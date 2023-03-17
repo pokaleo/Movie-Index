@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<doc id="tt18298588">
+	<docid>tt18298588</docid>
+	<title>Monolith</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjJjZjZiYjUtNzA2Ny00NTM0LThkZjAtMTMxN2ZlZGIxMzQxXkEyXkFqcGdeQXVyMTY1MTcxMzc@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">94</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A headstrong journalist whose investigative podcast uncovers a strange artifact, an alien conspiracy, and the lies at the heart of her own story.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lily Sullivan</actor>
+			<role>The Interviewer</role>
+		</credit>
+		<credit>
+			<actor>Ling Cooper Tang</actor>
+			<role>Floramae</role>
+		</credit>
+		<credit>
+			<actor>Ansuya Nathan</actor>
+			<role>Paula</role>
+		</credit>
+		<credit>
+			<actor>Erik Thomson</actor>
+			<role>Dad</role>
+		</credit>
+		<credit>
+			<actor>Terence Crawford</actor>
+			<role>Klaus</role>
+		</credit>
+		<credit>
+			<actor>Matt Crook</actor>
+			<role>Scott</role>
+		</credit>
+		<credit>
+			<actor>Kate Box</actor>
+			<role>Laura</role>
+		</credit>
+		<credit>
+			<actor>Rashidi Edward</actor>
+			<role>John</role>
+		</credit>
+		<credit>
+			<actor>Brigid Zengeni</actor>
+			<role>Shiloh</role>
+		</credit>
+		<credit>
+			<actor>Belle Kalendra-Harding</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Damon Herriman</actor>
+			<role>Jarad</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">October 27 2022</releasedate>
+		<releasedate country="United States">March 13 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+	</certificates>
+	<keywords>
+		<keyword>conspiracy thriller</keyword>
+		<keyword>conspiracy</keyword>
+	</keywords>
+	<directors>
+		<director> Matt Vesely</director>
+	</directors>
+	<composers>
+		<composer> Benjamin Speed</composer>
+	</composers>
+	<producers>
+		<producer> Bettina Hamilton</producer>
+	</producers>
+	<writers>
+		<writer> Lucy Campbell</writer>
+	</writers>
+	<editors>
+		<editor> Tania Nehme</editor>
+	</editors>
+</doc>

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<doc id="tt16282998">
+	<docid>tt16282998</docid>
+	<title>Mentega Terbang</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTUyMjA3NWMtNzA5ZC00YjY1LWE1OGItNWE3Yjc2ZThmNWVhXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">104</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After finding out her mother has terminal cancer, teenager Aisyah wants to find out what happens after death.</plot>
+	<countries>
+		<country>Malaysia</country>
+	</countries>
+	<languages>
+		<language>Malay</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Firdaus Karim</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Khairunazwan Rodzy</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Syumaila Salihin</actor>
+			<role>Aisyah</role>
+		</credit>
+		<credit>
+			<actor>Arjun Thanaraju</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Nik Waheeda</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Indonesia">November 28 2021</releasedate>
+		<releasedate country="Malaysia">January 19 2023</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>teenager</keyword>
+	</keywords>
+	<directors>
+		<director> Khairi Anwar</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Tan Meng Kheng</producer>
+		<producer> Cassandra Lew</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Sidney Chan</editor>
+	</editors>
+</doc>

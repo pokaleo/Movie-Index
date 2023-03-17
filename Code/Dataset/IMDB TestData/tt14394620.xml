@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<doc id="tt14394620">
+	<docid>tt14394620</docid>
+	<title>Crawlspace</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTNkYTgyODgtNjVkYS00YTY1LTkxZGUtYTUxMmNkMWQ3MzdlXkEyXkFqcGdeQXVyMDAyMTY3Nw@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A family man finds himself trapped in the crawlspace of a remote Oregon cabin where ruthless poachers have stashed their gains.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Henry Thomas</actor>
+			<role>Robert Mitchell</role>
+		</credit>
+		<credit>
+			<actor>Bradley Stryker</actor>
+			<role>Sterling</role>
+		</credit>
+		<credit>
+			<actor>C. Ernst Harth</actor>
+			<role>Dooley</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Robertson</actor>
+			<role>Deputy Jordan Pacer</role>
+		</credit>
+		<credit>
+			<actor>Olivia Taylor Dudley</actor>
+			<role>Carrie Mitchell</role>
+		</credit>
+		<credit>
+			<actor>Joe Costa</actor>
+			<role>Sheriff Higgon</role>
+		</credit>
+		<credit>
+			<actor>Catherine Lough Haggquist</actor>
+			<role>Helen Masur</role>
+		</credit>
+		<credit>
+			<actor>Colin Decker</actor>
+			<role>Tim Witner</role>
+		</credit>
+		<credit>
+			<actor>Andrei Kovski</actor>
+			<role>Vladimir Popov</role>
+		</credit>
+		<credit>
+			<actor>Charles Jarman</actor>
+			<role>Jeff</role>
+		</credit>
+		<credit>
+			<actor>Fletcher Donovan</actor>
+			<role>Gerald Simmons</role>
+		</credit>
+		<credit>
+			<actor>Justin Lacey</actor>
+			<role>Cop</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 31 2022</releasedate>
+		<releasedate country="United States">June 14 2022</releasedate>
+		<releasedate country="Turkey">August 17 2022</releasedate>
+		<releasedate country="Argentina">November 11 2022</releasedate>
+		<releasedate country="Canada">December 13 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>psychological thriller</keyword>
+		<keyword>trap</keyword>
+	</keywords>
+	<directors>
+		<director> L. Gustavo Cooper</director>
+	</directors>
+	<composers>
+		<composer> Rich Walters</composer>
+	</composers>
+	<producers>
+		<producer> Alejandro Brugués</producer>
+		<producer> Charles Cooper</producer>
+		<producer> Christine Holder</producer>
+		<producer> Mark Holder</producer>
+		<producer> Scott Karol</producer>
+		<producer> Steven Paul</producer>
+		<producer> Andrew J. Wilson</producer>
+	</producers>
+	<writers>
+		<writer> Jacob D. Wehrman</writer>
+	</writers>
+	<editors>
+		<editor> Billy Gaggins</editor>
+	</editors>
+</doc>

@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<doc id="tt23343786">
+	<docid>tt23343786</docid>
+	<title>Lesson Plan</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmJhNmVjNmMtYmVlNy00Y2I3LThjMGYtNThkODgyYzI1OTIwXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">101</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After a teacher tragically dies, his friend, who happens to be a former cop, takes over his old job in hopes of catching the people responsible for his murder.</plot>
+	<countries>
+		<country>Poland</country>
+	</countries>
+	<languages>
+		<language>Polish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Piotr Witkowski</actor>
+			<role>Damian Nowicki</role>
+		</credit>
+		<credit>
+			<actor>Jan Wieczorkowski</actor>
+			<role>Leszek Zamojski</role>
+		</credit>
+		<credit>
+			<actor>Antonina Jarnuszkiewicz</actor>
+			<role>Agata Kierska</role>
+		</credit>
+		<credit>
+			<actor>Nicolas Przygoda</actor>
+			<role>Kamil Makowiecki</role>
+		</credit>
+		<credit>
+			<actor>Daniel Namiotko</actor>
+			<role>Jarek</role>
+		</credit>
+		<credit>
+			<actor>Rafal Zawierucha</actor>
+			<role>Stefan Idziorek</role>
+		</credit>
+		<credit>
+			<actor>Zuzanna Galewicz</actor>
+			<role>Emilia</role>
+		</credit>
+		<credit>
+			<actor>Marcin Bosak</actor>
+			<role>Szymon Makowiecki</role>
+		</credit>
+		<credit>
+			<actor>Pascal Fischer</actor>
+			<role>'Harry'</role>
+		</credit>
+		<credit>
+			<actor>Roma Gasiorowska</actor>
+			<role>Ela Makowiecka</role>
+		</credit>
+		<credit>
+			<actor>Michal Pluskota</actor>
+			<role>Chmielski</role>
+		</credit>
+		<credit>
+			<actor>Maria Wróbel</actor>
+			<role>Paula</role>
+		</credit>
+		<credit>
+			<actor>Eugeniusz Diaczkow</actor>
+			<role>Lyosza</role>
+		</credit>
+		<credit>
+			<actor>Nel Kaczmarek</actor>
+			<role>Zuza</role>
+		</credit>
+		<credit>
+			<actor>Marcin Dabrowski</actor>
+			<role>'Makak'</role>
+		</credit>
+		<credit>
+			<actor>Nicole Bogdanowicz</actor>
+			<role>'Lucy'</role>
+		</credit>
+		<credit>
+			<actor>Kuba Sprenger</actor>
+			<role>Franek</role>
+		</credit>
+		<credit>
+			<actor>Maciej Kobiela</actor>
+			<role>Tytus</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Argentina">November 23 2022</releasedate>
+		<releasedate country="Australia">November 23 2022</releasedate>
+		<releasedate country="Brazil">November 23 2022</releasedate>
+		<releasedate country="Canada">November 23 2022</releasedate>
+		<releasedate country="Germany">November 23 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">UA 16+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>teacher</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Markowicz</director>
+	</directors>
+	<composers>
+		<composer> Miro Kepinski</composer>
+	</composers>
+	<producers>
+		<producer> Daniel Markowicz</producer>
+		<producer> Mike Zawadzki</producer>
+	</producers>
+	<writers>
+		<writer> Daniel Bernardi</writer>
+		<writer> Jan Kuznik</writer>
+	</writers>
+	<editors>
+		<editor> Jan Kidawa-Blonski Jr.</editor>
+	</editors>
+</doc>

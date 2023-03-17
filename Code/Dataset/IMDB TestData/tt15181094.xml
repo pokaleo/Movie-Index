@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<doc id="tt15181094">
+	<docid>tt15181094</docid>
+	<title>Thirty Nine</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmNmNDYwOTEtODVmZC00ZGJhLWE1NGMtNDJhNzBmMzk4YjM1XkEyXkFqcGdeQXVyMTA2NTg2Njg2._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>Three rounding almost the 40 year old mark, will juggle life, work and relationships.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jeon Mi Do</actor>
+			<role>Jeong Chan-Young</role>
+		</credit>
+		<credit>
+			<actor>Kim Ji-Hyeon</actor>
+			<role>Jang Joo-Hee</role>
+		</credit>
+		<credit>
+			<actor>Woo-jin Yeon</actor>
+			<role>Kim Sun-Woo</role>
+		</credit>
+		<credit>
+			<actor>Lee Tae-Hwan</actor>
+			<role>Park Hyun-Joon</role>
+		</credit>
+		<credit>
+			<actor>Lee Moo-saeng</actor>
+			<role>Kim Jin-Seok</role>
+		</credit>
+		<credit>
+			<actor>Son Ye-jin</actor>
+			<role>Cha Mi Jo</role>
+		</credit>
+		<credit>
+			<actor>Sohee</actor>
+			<role>Kim So-Won</role>
+		</credit>
+		<credit>
+			<actor>Mal-Geum Kang</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">February 16 2022</releasedate>
+		<releasedate country="Indonesia">February 16 2022</releasedate>
+		<releasedate country="India">February 16 2022</releasedate>
+		<releasedate country="Japan">February 16 2022</releasedate>
+		<releasedate country="South Korea">February 16 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>friendship</keyword>
+		<keyword>dermatologist</keyword>
+		<keyword>slice of life</keyword>
+		<keyword>teacher</keyword>
+		<keyword>female friends</keyword>
+	</keywords>
+	<directors>
+		<director> Sang-ho Kim</director>
+		<director> Kim Sang-Ho</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Young Ah Yoo</writer>
+		<writer> Young Ah Yoo</writer>
+	</writers>
+	<editors/>
+</doc>

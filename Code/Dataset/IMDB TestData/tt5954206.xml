@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc id="tt5954206">
+	<docid>tt5954206</docid>
+	<title>District 31</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDY4NjdhNzItZmRmOC00ODQxLWJiZGUtNjJiZGM0NWE0M2NiXkEyXkFqcGdeQXVyNjkzNDA4OTQ@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">22</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A Montreal police station dealing with crimes that happen in big cities, including kidnappings, break-ins, murders, family violence, drug trafficking, and terrorism.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Gildor Roy</actor>
+			<role>Daniel Chiasson</role>
+		</credit>
+		<credit>
+			<actor>Michel Charette</actor>
+			<role>Bruno Gagné</role>
+		</credit>
+		<credit>
+			<actor>Vincent-Guillaume Otis</actor>
+			<role>Patrick Bissonnette</role>
+		</credit>
+		<credit>
+			<actor>Sébastien Delorme</actor>
+			<role>Stéphane Pouliot</role>
+		</credit>
+		<credit>
+			<actor>Catherine St-Laurent</actor>
+			<role>Noélie St-Hilaire</role>
+		</credit>
+		<credit>
+			<actor>Geneviève Brouillette</actor>
+			<role>Gabrielle Simard</role>
+		</credit>
+		<credit>
+			<actor>Cynthia Wu-Maheux</actor>
+			<role>Da-Xia Bernard</role>
+		</credit>
+		<credit>
+			<actor>Catherine Proulx-Lemay</actor>
+			<role>Florence Guindon</role>
+		</credit>
+		<credit>
+			<actor>Pascale Montpetit</actor>
+			<role>Sonia Blanchard</role>
+		</credit>
+		<credit>
+			<actor>Hélène Bourgeois Leclerc</actor>
+			<role>Isabelle Roy</role>
+		</credit>
+		<credit>
+			<actor>Frédéric Cloutier</actor>
+			<role>Jérôme Langevin</role>
+		</credit>
+		<credit>
+			<actor>Patrick Labbé</actor>
+			<role>Laurent Cloutier</role>
+		</credit>
+		<credit>
+			<actor>Jeff Boudreault</actor>
+			<role>Jean Brière</role>
+		</credit>
+		<credit>
+			<actor>Marc Fournier</actor>
+			<role>Enquêteur Yves Jacob</role>
+		</credit>
+		<credit>
+			<actor>Ralph Prosper</actor>
+			<role>François</role>
+		</credit>
+		<credit>
+			<actor>Magalie Lépine Blondeau</actor>
+			<role>Nadine Legrand</role>
+		</credit>
+		<credit>
+			<actor>Patrice Godin</actor>
+			<role>Yannick Dubeau</role>
+		</credit>
+		<credit>
+			<actor>Luc Picard</actor>
+			<role>Geoffroy Morin</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">September 12 2016</releasedate>
+		<releasedate country="France">December 4 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">G</certificate>
+		<certificate country="France">Tous publics</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+	</keywords>
+	<directors>
+		<director> Simon Barrette</director>
+		<director> Catherine Therrien</director>
+		<director> Danièle Méthot</director>
+		<director> Sébastien Gagné</director>
+		<director> Jean-Claude Lord</director>
+	</directors>
+	<composers>
+		<composer> Micklos Simpson</composer>
+	</composers>
+	<producers>
+		<producer> Fabienne Larouche</producer>
+		<producer> Michel Trudeau</producer>
+	</producers>
+	<writers>
+		<writer> Luc Dionne</writer>
+		<writer> Luc Dionne</writer>
+	</writers>
+	<editors>
+		<editor> Valérie Héroux</editor>
+		<editor> Eric Marapin</editor>
+		<editor> David Di Francesco</editor>
+		<editor> Yvann Thibaudeau</editor>
+		<editor> Jean Beaudoin</editor>
+		<editor> Benoit Salin</editor>
+		<editor> Sylvain Laliberté</editor>
+	</editors>
+</doc>

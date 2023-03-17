@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc id="tt8810204">
+	<docid>tt8810204</docid>
+	<title>Mocro Maffia</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2JjMjcxMDgtMDI5OS00NDZhLTg5ZjMtN2M2YzcxYWJmNmZlXkEyXkFqcGdeQXVyNTExMzIyNDM@._V1_QL75_UY281_CR24,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+	</genres>
+	<plot>A fictional crime series about the three best friends, Romano, Pencil and The Pope, who together transition from petty crime to serious crime.</plot>
+	<countries>
+		<country>Netherlands</country>
+	</countries>
+	<languages>
+		<language>Dutch</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Achmed Akkabi</actor>
+			<role>Jaouad 'De Paus' Ancharad</role>
+		</credit>
+		<credit>
+			<actor>Nasrdin Dchar</actor>
+			<role>Chaouki 'Potlood' Chadli</role>
+		</credit>
+		<credit>
+			<actor>Robert de Hoog</actor>
+			<role>Rinus 'Tatta' Massing</role>
+		</credit>
+		<credit>
+			<actor>Walid Benmbarek</actor>
+			<role>Adil El Haddaoui</role>
+		</credit>
+		<credit>
+			<actor>Iliass Ojja</actor>
+			<role>Younes 'Taxi' Al Saddiqi</role>
+		</credit>
+		<credit>
+			<actor>Mandela Wee Wee</actor>
+			<role>Romano Tevreden</role>
+		</credit>
+		<credit>
+			<actor>Bilal Wahib</actor>
+			<role>Moshin 'Mo de Show' Kaddouri</role>
+		</credit>
+		<credit>
+			<actor>Khalid Alterch</actor>
+			<role>Tonnano</role>
+		</credit>
+		<credit>
+			<actor>Omar Ahaddaf</actor>
+			<role>Abdelhak Taheri</role>
+		</credit>
+		<credit>
+			<actor>Nora El Koussour</actor>
+			<role>Nadira Taheri</role>
+		</credit>
+		<credit>
+			<actor>Charlie Chan Dagelet</actor>
+			<role>Celine</role>
+		</credit>
+		<credit>
+			<actor>Aziz Akazim</actor>
+			<role>Taliban</role>
+		</credit>
+		<credit>
+			<actor>Oussama Ahammoud</actor>
+			<role>Youssef 'Muis' Taheri</role>
+		</credit>
+		<credit>
+			<actor>Marouane Meftah</actor>
+			<role>Zakaria 'Komtgoed' Fallouny</role>
+		</credit>
+		<credit>
+			<actor>Bart Harder</actor>
+			<role>Rechercheur Dewus</role>
+		</credit>
+		<credit>
+			<actor>Nizar El Manouzi</actor>
+			<role>Rechercheur El Moussaoui</role>
+		</credit>
+		<credit>
+			<actor>Pierre Bokma</actor>
+			<role>Gerben van Jaren</role>
+		</credit>
+		<credit>
+			<actor>Zineb Fallouk</actor>
+			<role>Samira Al Saddiqi</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Netherlands">October 11 2018</releasedate>
+		<releasedate country="Netherlands">October 11 2018</releasedate>
+		<releasedate country="United States">October 11 2018</releasedate>
+		<releasedate country="Germany">November 26 2019</releasedate>
+		<releasedate country="France">February 6 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>friendship</keyword>
+	</keywords>
+	<directors>
+		<director> Victor D. Ponten</director>
+		<director> Bobby Boermans</director>
+		<director> Giancarlo Sanchez</director>
+		<director> Mustafa Duygulu</director>
+		<director> Aaron van Valen</director>
+	</directors>
+	<composers>
+		<composer> Zbigniew Wolny</composer>
+		<composer> Martijn Schimmer</composer>
+	</composers>
+	<producers>
+		<producer> Achmed Akkabi</producer>
+		<producer> Steven van Roosmalen</producer>
+		<producer> Robert Post</producer>
+		<producer> Ingrid Remeysen</producer>
+		<producer> Jessica Zondervan</producer>
+		<producer> Annemieke van Vliet</producer>
+		<producer> Eveline Kortenaar</producer>
+		<producer> Thijs Römer</producer>
+	</producers>
+	<writers>
+		<writer> Achmed Akkabi</writer>
+		<writer> Achmed Akkabi</writer>
+		<writer> Achmed Akkabi</writer>
+		<writer> Achmed Akkabi</writer>
+		<writer> Kevin Boitelle</writer>
+		<writer> Kevin Boitelle</writer>
+		<writer> Sergej Groenhart</writer>
+		<writer> Ashar Medina</writer>
+		<writer> Ashar Medina</writer>
+		<writer> Ashar Medina</writer>
+		<writer> Randy Oost</writer>
+		<writer> Randy Oost</writer>
+		<writer> Victor D. Ponten</writer>
+		<writer> Thijs Römer</writer>
+		<writer> Oscar van Woensel</writer>
+		<writer> Oscar van Woensel</writer>
+		<writer> Oscar van Woensel</writer>
+		<writer> Oscar van Woensel</writer>
+	</writers>
+	<editors>
+		<editor> Yamal Stitou</editor>
+		<editor> Patrick Schonewille</editor>
+		<editor> Brian Ent</editor>
+		<editor> Bas Icke</editor>
+		<editor> Fatih Tura</editor>
+		<editor> Marcel Wijninga</editor>
+		<editor> Godelinde Pollmann</editor>
+		<editor> Marc Bechtold</editor>
+	</editors>
+</doc>

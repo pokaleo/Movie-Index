@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc id="tt21840894">
+	<docid>tt21840894</docid>
+	<title>Snack VS. Chef</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODcyMTQ1NGUtN2ZjNi00NjNiLThlNDEtZmE2NTA3MzJlOGQ5XkEyXkFqcGdeQXVyMTU3MzE1NTYy._V1_QL75_UY281_CR43,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">40</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>12 chefs will go head to head in the ultimate snack showdown. Recreating some of the world's most iconic snacks, as well as inventing your own original snacks inspired by beloved classics. Only one will prevail and claim the $50,000 prize.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Megan Stalter</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Hari Kondabolu</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Ali Bouzari</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Helen Park</actor>
+			<role>Self - Judge</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">November 30 2022</releasedate>
+		<releasedate country="Argentina">November 30 2022</releasedate>
+		<releasedate country="Australia">November 30 2022</releasedate>
+		<releasedate country="Brazil">November 30 2022</releasedate>
+		<releasedate country="Canada">November 30 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="Egypt">7+</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Hong Kong">7+</certificate>
+		<certificate country="India">UA 7+</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Italy"> BA</certificate>
+		<certificate country="Mexico">TV-PG</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>food reality tv</keyword>
+		<keyword>cookery game show</keyword>
+		<keyword>comedian</keyword>
+		<keyword>competition</keyword>
+		<keyword>chef</keyword>
+		<keyword>cooking</keyword>
+		<keyword>food</keyword>
+		<keyword>drink</keyword>
+		<keyword>prize</keyword>
+		<keyword>kitchen</keyword>
+	</keywords>
+	<directors/>
+	<composers/>
+	<producers>
+		<producer> Dan Adams</producer>
+		<producer> Chloe Badat</producer>
+		<producer> Justin Rae Barnes</producer>
+		<producer> Isaac Butler</producer>
+		<producer> Ellen Crilly</producer>
+		<producer> Chris DeRosa</producer>
+		<producer> Amy Drummond</producer>
+		<producer> Gary Entin</producer>
+		<producer> Morgan Evans</producer>
+		<producer> Abby Farrar</producer>
+		<producer> Joseph Ferdman</producer>
+		<producer> Kori Frederick</producer>
+		<producer> Julie Golden</producer>
+		<producer> Cyndi Harder</producer>
+		<producer> Mark Hauber</producer>
+		<producer> Jeremy Kaulana Hauck</producer>
+		<producer> Jordana Hochman</producer>
+		<producer> Andy Liang</producer>
+		<producer> David Luce</producer>
+		<producer> Scott Mlodzinski</producer>
+		<producer> Jonty Nash</producer>
+		<producer> Michael J. Nelson</producer>
+		<producer> Michael James Nelson</producer>
+		<producer> Peter Ney</producer>
+		<producer> Frankie Nicole</producer>
+		<producer> Christopher Potts</producer>
+		<producer> Paul Ramsdell</producer>
+		<producer> Victoria Reiss</producer>
+		<producer> Griffin Senning</producer>
+		<producer> Danielle Strain</producer>
+		<producer> Jacqueline Tris</producer>
+		<producer> Michelle Velasquez</producer>
+		<producer> Casey Furche</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Andrew Burns</editor>
+		<editor> Kanan Capshaw</editor>
+		<editor> Matt Deitrich</editor>
+		<editor> Fred Heismeyer</editor>
+		<editor> Paul Kropfl</editor>
+		<editor> Michael Schwab</editor>
+	</editors>
+</doc>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<doc id="tt10711718">
+	<docid>tt10711718</docid>
+	<title>Miru Tights</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTMzZGU4MGItZjZlOS00ODE1LWFmZmItMDQ0MTFjNGVjNTVjXkEyXkFqcGdeQXVyNTk1MjA5MjM@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">4</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Short</genre>
+	</genres>
+	<plot>Short anime about high school girls who love tights.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>Japanese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Haruka Tomatsu</actor>
+			<role>Ren Aikawa</role>
+		</credit>
+		<credit>
+			<actor>Yôko Hikasa</actor>
+			<role>Yua Nakabeni</role>
+		</credit>
+		<credit>
+			<actor>Aya Suzaki</actor>
+			<role>Homi Moegi</role>
+		</credit>
+		<credit>
+			<actor>Ai Kayano</actor>
+			<role>Yuiko Okuzumi</role>
+		</credit>
+		<credit>
+			<actor>Hôchû Ôtsuka</actor>
+			<role>Bar Master</role>
+		</credit>
+		<credit>
+			<actor>Natsumi Fujiwara</actor>
+			<role>Rui Moegi</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">May 11 2019</releasedate>
+		<releasedate country="Indonesia">May 11 2019</releasedate>
+		<releasedate country="Japan">May 11 2019</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>love</keyword>
+		<keyword>tights</keyword>
+		<keyword>ecchi</keyword>
+		<keyword>two word title</keyword>
+		<keyword>anime animation</keyword>
+	</keywords>
+	<directors>
+		<director> Kazuya Aiura</director>
+		<director> Yuki Ogawa</director>
+	</directors>
+	<composers>
+		<composer> Shade</composer>
+	</composers>
+	<producers/>
+	<writers>
+		<writer> Fumiaki Maruto</writer>
+		<writer> Yomu</writer>
+	</writers>
+	<editors>
+		<editor> Masato Yoshitake</editor>
+	</editors>
+</doc>

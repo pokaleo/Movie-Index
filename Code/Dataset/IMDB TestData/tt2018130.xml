@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<doc id="tt2018130">
+	<docid>tt2018130</docid>
+	<title>Terrifier</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmMxNzA0OTUtOTJiOS00NTc4LWJmNTItMGM3OWE0N2Y0NjhjXkEyXkFqcGdeQXVyMTg5NjU4NjE@._V1_QL75_UX190_CR0,4,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">20</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>After witnessing a brutal murder on Halloween night, a young woman becomes the next target of a maniacal entity.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Marie Maser</actor>
+			<role>Woman</role>
+		</credit>
+		<credit>
+			<actor>Mike Giannelli</actor>
+			<role>Art the Clown</role>
+		</credit>
+		<credit>
+			<actor>Michael Chmiel</actor>
+			<role>Attendant</role>
+		</credit>
+		<credit>
+			<actor>Daniel Rodas</actor>
+			<role>Man in Car</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Castellano</actor>
+			<role>Mutilated Woman</role>
+		</credit>
+		<credit>
+			<actor>Gary LoSavio</actor>
+			<role>Talk Radio Host</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates/>
+	<certificates>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>art the clown character</keyword>
+		<keyword>halloween</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>gore</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>severed head</keyword>
+		<keyword>blood</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>killer clown</keyword>
+		<keyword>scary clown</keyword>
+		<keyword>evil clown</keyword>
+	</keywords>
+	<directors>
+		<director> Damien Leone</director>
+	</directors>
+	<composers>
+		<composer> Zach Bourne</composer>
+		<composer> Chris Stark</composer>
+	</composers>
+	<producers>
+		<producer> Jennifer Castellano</producer>
+		<producer> Damien Leone</producer>
+		<producer> Gary LoSavio</producer>
+		<producer> Danny Pontecorvo</producer>
+	</producers>
+	<writers>
+		<writer> Damien Leone</writer>
+	</writers>
+	<editors>
+		<editor> Damien Leone</editor>
+	</editors>
+</doc>

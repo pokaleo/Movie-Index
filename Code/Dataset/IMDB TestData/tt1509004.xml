@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<doc id="tt1509004">
+	<docid>tt1509004</docid>
+	<title>Enlightened</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTUzNzY3NjA4NF5BMl5BanBnXkFtZTcwNTA5MTY2Ng@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">28</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A self-destructive woman who has a spiritual awakening becomes determined to live an enlightened life, creating havoc at home and work.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Laura Dern</actor>
+			<role>Amy Jellicoe</role>
+		</credit>
+		<credit>
+			<actor>Diane Ladd</actor>
+			<role>Helen Jellicoe</role>
+		</credit>
+		<credit>
+			<actor>Sarah Burns</actor>
+			<role>Krista Jacobs</role>
+		</credit>
+		<credit>
+			<actor>Luke Wilson</actor>
+			<role>Levi Callow</role>
+		</credit>
+		<credit>
+			<actor>Timm Sharp</actor>
+			<role>Dougie Daniels</role>
+		</credit>
+		<credit>
+			<actor>Mike White</actor>
+			<role>Tyler</role>
+		</credit>
+		<credit>
+			<actor>Jon Shere</actor>
+			<role>Louis</role>
+		</credit>
+		<credit>
+			<actor>Brent Bradshaw</actor>
+			<role>Ken</role>
+		</credit>
+		<credit>
+			<actor>Bayne Gibby</actor>
+			<role>Connie</role>
+		</credit>
+		<credit>
+			<actor>Michaela Watkins</actor>
+			<role>Janice Holm</role>
+		</credit>
+		<credit>
+			<actor>Jason Mantzoukas</actor>
+			<role>Omar Ali</role>
+		</credit>
+		<credit>
+			<actor>Travis Heaps</actor>
+			<role>Steve Jacobs</role>
+		</credit>
+		<credit>
+			<actor>Charles Esten</actor>
+			<role>Damon Manning</role>
+		</credit>
+		<credit>
+			<actor>Dermot Mulroney</actor>
+			<role>Jeff Flender</role>
+		</credit>
+		<credit>
+			<actor>Amy Hill</actor>
+			<role>Judy Harvey</role>
+		</credit>
+		<credit>
+			<actor>Riki Lindhome</actor>
+			<role>Harper</role>
+		</credit>
+		<credit>
+			<actor>Dan Levy</actor>
+			<role>Seth</role>
+		</credit>
+		<credit>
+			<actor>Christie Volkmer</actor>
+			<role>Szidon's Assistant</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Turkey">October 10 2011</releasedate>
+		<releasedate country="United States">October 10 2011</releasedate>
+		<releasedate country="Chile">October 16 2011</releasedate>
+		<releasedate country="Brazil">October 17 2011</releasedate>
+		<releasedate country="Hungary">October 17 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>enlightened</keyword>
+		<keyword>new age</keyword>
+		<keyword>corporation</keyword>
+		<keyword>making change</keyword>
+		<keyword>living with mother</keyword>
+		<keyword>it</keyword>
+		<keyword>data entry</keyword>
+		<keyword>spiritual</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>mentioning bangladesh</keyword>
+		<keyword>personal drama</keyword>
+		<keyword>psychological drama</keyword>
+	</keywords>
+	<directors>
+		<director> Mike White</director>
+		<director> Miguel Arteta</director>
+		<director> Nicole Holofcener</director>
+		<director> Jonathan Demme</director>
+		<director> Phil Morrison</director>
+		<director> James Bobin</director>
+		<director> Todd Haynes</director>
+		<director> David Michôd</director>
+	</directors>
+	<composers>
+		<composer> Mark Mothersbaugh</composer>
+		<composer> Carter Burwell</composer>
+	</composers>
+	<producers>
+		<producer> David Bernad</producer>
+		<producer> Laura Dern</producer>
+		<producer> Gianna Maria Smart</producer>
+		<producer> Jason Weinberg</producer>
+		<producer> Mike White</producer>
+		<producer> Dody Dorn</producer>
+		<producer> Miguel Arteta</producer>
+		<producer> Edward Saxon</producer>
+		<producer> Joanne Toll</producer>
+		<producer> Jayme Lemons</producer>
+		<producer> Mickie Reuster</producer>
+		<producer> David Branson Smith</producer>
+		<producer> Scott Stephens</producer>
+		<producer> Eric Tignini</producer>
+		<producer> Billy Crawford</producer>
+		<producer> Timothy Marx</producer>
+	</producers>
+	<writers>
+		<writer> Laura Dern</writer>
+		<writer> Laura Dern</writer>
+		<writer> Mike White</writer>
+		<writer> Mike White</writer>
+		<writer> Mike White</writer>
+		<writer> Mike White</writer>
+	</writers>
+	<editors>
+		<editor> Dody Dorn</editor>
+		<editor> Dorian Harris</editor>
+		<editor> John M. Valerio</editor>
+		<editor> Jake Cohen</editor>
+		<editor> Robert Frazen</editor>
+		<editor> Brock Hammitt</editor>
+	</editors>
+</doc>

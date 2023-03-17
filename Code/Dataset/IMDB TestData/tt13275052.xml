@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<doc id="tt13275052">
+	<docid>tt13275052</docid>
+	<title>Dive Club</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTI2M2U2MTYtZWJiNC00MGQ4LWFiNDktNzI0OGVjM2JkOTE2XkEyXkFqcGdeQXVyNDIyOTQ4MzY@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">27</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>Dive Club follows the story of a feisty group of teen divers who search for their friend when she disappears after a cyclone hits Cape Mercy, their small coastal town.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Miah Madden</actor>
+			<role>Maddie</role>
+		</credit>
+		<credit>
+			<actor>Georgia-May Davis</actor>
+			<role>Lauren Rose</role>
+		</credit>
+		<credit>
+			<actor>Sana'a Shaik</actor>
+			<role>Stevie Harrison</role>
+		</credit>
+		<credit>
+			<actor>Aubri Ibrag</actor>
+			<role>Anna</role>
+		</credit>
+		<credit>
+			<actor>Mercy Cornwall</actor>
+			<role>Izzie Martin</role>
+		</credit>
+		<credit>
+			<actor>Josh Heuston</actor>
+			<role>Henry</role>
+		</credit>
+		<credit>
+			<actor>Alexander Grant</actor>
+			<role>Hayden</role>
+		</credit>
+		<credit>
+			<actor>John McNeill</actor>
+			<role>Sea Dog</role>
+		</credit>
+		<credit>
+			<actor>Veronica Neave</actor>
+			<role>Mayor Renee Volkov</role>
+		</credit>
+		<credit>
+			<actor>Kate Peters</actor>
+			<role>Victoria Volkov</role>
+		</credit>
+		<credit>
+			<actor>Yasmin Kassim</actor>
+			<role>Lucinda Harrison</role>
+		</credit>
+		<credit>
+			<actor>Jai Koutrae</actor>
+			<role>Chief Jack Rose</role>
+		</credit>
+		<credit>
+			<actor>Tim Ross</actor>
+			<role>John Martin</role>
+		</credit>
+		<credit>
+			<actor>Phoenix Mendoza</actor>
+			<role>Camille</role>
+		</credit>
+		<credit>
+			<actor>Patch Harrison</actor>
+			<role>Leonid Komarov</role>
+		</credit>
+		<credit>
+			<actor>Joseph Spanti</actor>
+			<role>Brad</role>
+		</credit>
+		<credit>
+			<actor>Brett Krause</actor>
+			<role>Background Extra</role>
+		</credit>
+		<credit>
+			<actor>Lynn Gilmartin</actor>
+			<role>Pirate Queen</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">May 29 2021</releasedate>
+		<releasedate country="Germany">May 29 2021</releasedate>
+		<releasedate country="Argentina">September 3 2021</releasedate>
+		<releasedate country="Canada">September 3 2021</releasedate>
+		<releasedate country="Spain">September 3 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">7+</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dive</keyword>
+		<keyword>small town</keyword>
+		<keyword>girl</keyword>
+		<keyword>sea</keyword>
+		<keyword>ocean</keyword>
+		<keyword>friend</keyword>
+		<keyword>island</keyword>
+		<keyword>diving</keyword>
+		<keyword>secret</keyword>
+	</keywords>
+	<directors>
+		<director> Rhiannon Bannenberg</director>
+		<director> Christine Luby</director>
+		<director> Hayley MacFarlane</director>
+	</directors>
+	<composers>
+		<composer> Piers Burbrook de Vere</composer>
+		<composer> Angela Little</composer>
+	</composers>
+	<producers>
+		<producer> Jack Christian</producer>
+		<producer> Joshua Gowdy</producer>
+		<producer> Georgia Harrison</producer>
+		<producer> Steve Jaggi</producer>
+		<producer> Kylie Mascord</producer>
+		<producer> Spencer McLaren</producer>
+		<producer> Kylie Pascoe</producer>
+		<producer> Vanessa Shapiro</producer>
+		<producer> Kelly Son Hing</producer>
+		<producer> Sophie Tilson</producer>
+		<producer> Annie Kinnane</producer>
+	</producers>
+	<writers>
+		<writer> Georgia Harrison</writer>
+		<writer> Steve Jaggi</writer>
+		<writer> Claire J. Harris</writer>
+		<writer> Claire J. Harris</writer>
+		<writer> Claire J. Harris</writer>
+		<writer> Caera Bradshaw</writer>
+		<writer> Adrian Powers</writer>
+		<writer> Rhiannon Bannenberg</writer>
+		<writer> Drew Jarvis</writer>
+	</writers>
+	<editors>
+		<editor> Ahmad Halimi</editor>
+		<editor> Charlotte Cutting</editor>
+		<editor> Geoff Lamb</editor>
+	</editors>
+</doc>

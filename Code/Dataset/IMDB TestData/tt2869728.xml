@@ -1,0 +1,394 @@
+<?xml version="1.0" ?>
+<doc id="tt2869728">
+	<docid>tt2869728</docid>
+	<title>Ride Along 2</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTU4ODAzMzcxOV5BMl5BanBnXkFtZTgwODkxMDI1NjE@._V1_QL75_UX190_CR0,10,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who's supplying the dealers of Atlanta with product.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>SDDS</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ice Cube</actor>
+			<role>James Payton</role>
+		</credit>
+		<credit>
+			<actor>Kevin Hart</actor>
+			<role>Ben Barber</role>
+		</credit>
+		<credit>
+			<actor>Tika Sumpter</actor>
+			<role>Angela Payton</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Bratt</actor>
+			<role>Antonio Pope</role>
+		</credit>
+		<credit>
+			<actor>Olivia Munn</actor>
+			<role>Maya</role>
+		</credit>
+		<credit>
+			<actor>Ken Jeong</actor>
+			<role>AJ</role>
+		</credit>
+		<credit>
+			<actor>Bruce McGill</actor>
+			<role>Lt. Brooks</role>
+		</credit>
+		<credit>
+			<actor>Michael Rose</actor>
+			<role>The Hitter</role>
+		</credit>
+		<credit>
+			<actor>Sherri Shepherd</actor>
+			<role>Cori</role>
+		</credit>
+		<credit>
+			<actor>Arturo Del Puerto</actor>
+			<role>Alonso</role>
+		</credit>
+		<credit>
+			<actor>Eric Goins</actor>
+			<role>Assface</role>
+		</credit>
+		<credit>
+			<actor>Carlos Gómez</actor>
+			<role>Captain Hernandez</role>
+		</credit>
+		<credit>
+			<actor>Utkarsh Ambudkar</actor>
+			<role>Amir</role>
+		</credit>
+		<credit>
+			<actor>Glen Powell</actor>
+			<role>Troy</role>
+		</credit>
+		<credit>
+			<actor>Nadine Velazquez</actor>
+			<role>Tasha</role>
+		</credit>
+		<credit>
+			<actor>Bresha Webb</actor>
+			<role>Shayla</role>
+		</credit>
+		<credit>
+			<actor>Jessica Bialick</actor>
+			<role>Bikini Salesgirl</role>
+		</credit>
+		<credit>
+			<actor>Michelle Pieroway</actor>
+			<role>Bikini Shop Customer</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 6 2016</releasedate>
+		<releasedate country="United Arab Emirates">January 13 2016</releasedate>
+		<releasedate country="Egypt">January 13 2016</releasedate>
+		<releasedate country="Kuwait">January 14 2016</releasedate>
+		<releasedate country="Portugal">January 14 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">12</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous Public</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Iceland">12</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>male protagonist</keyword>
+		<keyword>acura</keyword>
+		<keyword>bentley the car</keyword>
+		<keyword>buick automobile</keyword>
+		<keyword>ford motor company</keyword>
+		<keyword>ford crown victoria</keyword>
+		<keyword>chevrolet</keyword>
+		<keyword>chrysler automobile</keyword>
+		<keyword>chevrolet camaro</keyword>
+		<keyword>chevrolet aveo</keyword>
+		<keyword>dodge the car</keyword>
+		<keyword>honda</keyword>
+		<keyword>chevrolet corvette</keyword>
+		<keyword>honda accord</keyword>
+		<keyword>hyundai</keyword>
+		<keyword>jeep</keyword>
+		<keyword>jeep grand cherokee</keyword>
+		<keyword>lamborghini</keyword>
+		<keyword>lamborghini murcielago</keyword>
+		<keyword>lamborghini aventador</keyword>
+		<keyword>lincoln motor company</keyword>
+		<keyword>lincoln town car</keyword>
+		<keyword>mazda</keyword>
+		<keyword>mercedes benz s klasse</keyword>
+		<keyword>nissan</keyword>
+		<keyword>pontiac</keyword>
+		<keyword>toyota corolla</keyword>
+		<keyword>toyota prius the car</keyword>
+		<keyword>volvo car</keyword>
+		<keyword>xbox one</keyword>
+		<keyword>ultra high definition television</keyword>
+		<keyword>4k television</keyword>
+		<keyword>uhdtv</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>buddy cop crime</keyword>
+		<keyword>drugs</keyword>
+		<keyword>wedding</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>computer hacker</keyword>
+		<keyword>detective</keyword>
+		<keyword>drug dealer</keyword>
+		<keyword>sequel</keyword>
+		<keyword>car theft</keyword>
+		<keyword>car stunt</keyword>
+		<keyword>thrown from a car</keyword>
+		<keyword>marriage</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>2010s</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>stolen money</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>safe</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>money laundering</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>gangster</keyword>
+		<keyword>texting</keyword>
+		<keyword>rescue</keyword>
+		<keyword>florida keys</keyword>
+		<keyword>motion sensor</keyword>
+		<keyword>fake drunkenness</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>impostor</keyword>
+		<keyword>forklift truck</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>badge</keyword>
+		<keyword>bag of money</keyword>
+		<keyword>love interest</keyword>
+		<keyword>partner</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>reference to star wars</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>buddy comedy</keyword>
+		<keyword>buddy cop</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>jumping from a car</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>docks</keyword>
+		<keyword>corruption</keyword>
+		<keyword>corrupt official</keyword>
+		<keyword>commissioner</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>mansion</keyword>
+		<keyword>double cross</keyword>
+		<keyword>deception</keyword>
+		<keyword>wedding planner</keyword>
+		<keyword>hospital</keyword>
+		<keyword>dancing</keyword>
+		<keyword>cover up</keyword>
+		<keyword>escape</keyword>
+		<keyword>arrest</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>bar</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>beach</keyword>
+		<keyword>climbing out a window</keyword>
+		<keyword>walking on a ledge</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>alligator</keyword>
+		<keyword>embezzlement</keyword>
+		<keyword>wiretapping</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>asian american</keyword>
+		<keyword>african american</keyword>
+		<keyword>product placement</keyword>
+		<keyword>lowrider</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>montage</keyword>
+		<keyword>ringtone</keyword>
+		<keyword>camera phone</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>party</keyword>
+		<keyword>sports car</keyword>
+		<keyword>muscle car</keyword>
+		<keyword>american muscle</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>ends with wedding</keyword>
+		<keyword>police station</keyword>
+		<keyword>police captain</keyword>
+		<keyword>police lieutenant</keyword>
+		<keyword>investigation</keyword>
+		<keyword>hydrangea</keyword>
+		<keyword>police</keyword>
+		<keyword>rookie cop</keyword>
+		<keyword>police uniform</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>police officer</keyword>
+		<keyword>cameo</keyword>
+		<keyword>tough cop</keyword>
+		<keyword>loudmouth</keyword>
+		<keyword>black cop</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>two man army</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>action hero</keyword>
+		<keyword>newspaper clipping</keyword>
+		<keyword>race against time</keyword>
+		<keyword>palm tree</keyword>
+		<keyword>speedboat</keyword>
+		<keyword>yacht</keyword>
+		<keyword>knife</keyword>
+		<keyword>drug smuggling</keyword>
+		<keyword>arms smuggling</keyword>
+		<keyword>drug lord</keyword>
+		<keyword>crime lord</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>animated sequence</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>loud shirt</keyword>
+		<keyword>bomb</keyword>
+		<keyword>disguise</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>henchman</keyword>
+		<keyword>assassin</keyword>
+		<keyword>hitman</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>silencer</keyword>
+		<keyword>car bomb</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>explosion</keyword>
+		<keyword>truck</keyword>
+		<keyword>fire</keyword>
+		<keyword>showdown</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>chicken</keyword>
+		<keyword>dog</keyword>
+		<keyword>trampoline</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>car accident</keyword>
+		<keyword>car crash</keyword>
+		<keyword>flipping car</keyword>
+		<keyword>car rollover</keyword>
+		<keyword>overturning car</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>car truck chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>car chase</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>undercover</keyword>
+		<keyword>police shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>accidental shooting</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>second part</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>miami florida</keyword>
+		<keyword>atlanta georgia</keyword>
+		<keyword>police detective</keyword>
+		<keyword>undercover cop</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Tim Story</director>
+	</directors>
+	<composers>
+		<composer> Christopher Lennertz</composer>
+	</composers>
+	<producers>
+		<producer> Matt Alvarez</producer>
+		<producer> Chris Bender</producer>
+		<producer> Scott Bernstein</producer>
+		<producer> Larry Brezner</producer>
+		<producer> Ice Cube</producer>
+		<producer> Ronald G. Muhammad</producer>
+		<producer> Will Packer</producer>
+		<producer> J.C. Spink</producer>
+		<producer> Nicolas Stern</producer>
+	</producers>
+	<writers>
+		<writer> Phil Hay</writer>
+		<writer> Matt Manfredi</writer>
+		<writer> Greg Coolidge</writer>
+	</writers>
+	<editors>
+		<editor> Peter S. Elliot</editor>
+	</editors>
+</doc>

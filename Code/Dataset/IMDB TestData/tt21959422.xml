@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<doc id="tt21959422">
+	<docid>tt21959422</docid>
+	<title>Retrograde</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjQ0ZjM2ODktZDc0YS00YTdkLTgzZTAtMjZkMjIyN2YyYzVkXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>III 2022</year>
+	<runningtimes>
+		<runningtime country="default">94</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>History</genre>
+		<genre>War</genre>
+	</genres>
+	<plot>Tells the story of the last months of the 20-year war in Afghanistan through the intimate relationship between American Green Berets and the Afghan officers they trained.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast/>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 3 2022</releasedate>
+		<releasedate country="Switzerland">September 25 2022</releasedate>
+		<releasedate country="Canada">October 2 2022</releasedate>
+		<releasedate country="South Korea">October 6 2022</releasedate>
+		<releasedate country="United States">October 8 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>military</keyword>
+		<keyword>soldier</keyword>
+		<keyword>army</keyword>
+		<keyword>attack</keyword>
+		<keyword>national geographic</keyword>
+	</keywords>
+	<directors>
+		<director> Matthew Heineman</director>
+	</directors>
+	<composers>
+		<composer> H. Scott Salinas</composer>
+	</composers>
+	<producers>
+		<producer> Baktash Ahadi</producer>
+		<producer> Ahmad Shah Amin</producer>
+		<producer> Carolyn Bernstein</producer>
+		<producer> Richard Butler</producer>
+		<producer> David Fialkow</producer>
+		<producer> Timothy Grucza</producer>
+		<producer> Matthew Heineman</producer>
+		<producer> Lani Levine</producer>
+		<producer> Caitlin McNally</producer>
+		<producer> Cyrus Mirzashafa</producer>
+		<producer> Saifullah Mohammadi</producer>
+		<producer> Joedan Okun</producer>
+		<producer> Andrew Petrilak</producer>
+		<producer> Mohammad Anil Qasemi</producer>
+		<producer> Javed Rezayee</producer>
+		<producer> Olivier Sarbil</producer>
+		<producer> Mohammad Zaher Tahery</producer>
+		<producer> Grace Zahrah</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Pablo Garza</editor>
+		<editor> Matthew Heineman</editor>
+		<editor> Grace Zahrah</editor>
+	</editors>
+</doc>

@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<doc id="tt14750652">
+	<docid>tt14750652</docid>
+	<title>Dinner Club</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzJkMzdjZDEtMWE5Ny00MjM5LWI5ODgtOWIxMzE3MDY3MGJhXkEyXkFqcGdeQXVyMTE2MDUyMjQ1._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>Michelin-starred chef Carlo Cracco undertakes six trips across Italy to rediscover its most authentic cuisine with famous actors for each destination.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>Italian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Carlo Cracco</actor>
+			<role>Carlo Cracco</role>
+		</credit>
+		<credit>
+			<actor>Sabrina Ferilli</actor>
+			<role>Sabrina Ferilli</role>
+		</credit>
+		<credit>
+			<actor>Luciana Littizzetto</actor>
+			<role>Luciana Littizzetto</role>
+		</credit>
+		<credit>
+			<actor>Antonio Albanese</actor>
+			<role>Antonio Albanese</role>
+		</credit>
+		<credit>
+			<actor>Paola Cortellesi</actor>
+			<role>Paola Cortellesi</role>
+		</credit>
+		<credit>
+			<actor>Marco Giallini</actor>
+			<role>Marco Giallini</role>
+		</credit>
+		<credit>
+			<actor>Luca Zingaretti</actor>
+			<role>Luca Zingaretti</role>
+		</credit>
+		<credit>
+			<actor>Pierfrancesco Favino</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Valerio Mastandrea</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Diego Abatantuono</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Fabio De Luigi</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">September 18 2021</releasedate>
+		<releasedate country="Brazil">September 23 2021</releasedate>
+		<releasedate country="Canada">September 24 2021</releasedate>
+		<releasedate country="Germany">September 24 2021</releasedate>
+		<releasedate country="Spain">September 24 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Caterina Pollini</director>
+		<director> Riccardo Struchil</director>
+	</directors>
+	<composers>
+		<composer> Robert Allen Elliott</composer>
+		<composer> Filadelfo Castro</composer>
+		<composer> Dino Ceglie</composer>
+	</composers>
+	<producers>
+		<producer> Luca Danesi</producer>
+		<producer> Marco Chiappa</producer>
+		<producer> Valentina Bolognesi</producer>
+	</producers>
+	<writers>
+		<writer> Saitta Alessandro</writer>
+		<writer> Magda Geronimo</writer>
+		<writer> Ugo Ripamonti</writer>
+		<writer> Marco Soprano</writer>
+	</writers>
+	<editors/>
+</doc>

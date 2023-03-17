@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc id="tt21875462">
+	<docid>tt21875462</docid>
+	<title>Once Upon a Small Town</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmQ0NDc4NzctN2M2Zi00NTUwLWEyMzAtMzdlYzg0YzExMWYyXkEyXkFqcGdeQXVyNjgxMTkwMjY@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">36</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A city veterinarian moves to the countryside where he meets a policewoman, a town insider with a friendly secret.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Soo-Young Park</actor>
+			<role>Ahn Ja-young</role>
+		</credit>
+		<credit>
+			<actor>Young Woo Chu</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Baek Sung-Chul</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Na Chul</actor>
+			<role>Yun Hyeong</role>
+		</credit>
+		<credit>
+			<actor>Jung Suk-yong</actor>
+			<role>Hwang Man Sung</role>
+		</credit>
+		<credit>
+			<actor>Park Ye-Ni</actor>
+			<role>Nurse Yeong Suk</role>
+		</credit>
+		<credit>
+			<actor>Ji-a Park</actor>
+			<role>Cha Yeon Hong</role>
+		</credit>
+		<credit>
+			<actor>Yeong-soo Park</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Kim Young-Sun</actor>
+			<role>Park Mal Geum</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">September 5 2022</releasedate>
+		<releasedate country="Argentina">September 5 2022</releasedate>
+		<releasedate country="Australia">September 5 2022</releasedate>
+		<releasedate country="Ecuador">September 5 2022</releasedate>
+		<releasedate country="Egypt">September 5 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">TV-14</certificate>
+		<certificate country="Egypt">13+</certificate>
+		<certificate country="Hong Kong">13+</certificate>
+		<certificate country="India">UA 13+</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">13+</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Taiwan">13+</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>domestic drama</keyword>
+	</keywords>
+	<directors>
+		<director> Kwon Seok-jang</director>
+	</directors>
+	<composers>
+		<composer> Moon Seong-nam</composer>
+	</composers>
+	<producers/>
+	<writers>
+		<writer> Baek Eun-kyeong</writer>
+	</writers>
+	<editors/>
+</doc>

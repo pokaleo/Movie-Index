@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<doc id="tt14725622">
+	<docid>tt14725622</docid>
+	<title>Give Me Pity!</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjBhY2IyZjMtODExYi00NjNhLTlmMTktZDg0MjdmOTI5ZGYyXkEyXkFqcGdeQXVyMjIwMTcwNjk@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">80</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Musical</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Sissy St. Claire graces the small screen for her first ever television special, an evening full of music and laughter, glamour and entertainment. But Sissy's live event quickly begins to curdle into a psychedelic nightmare.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Cricket Arrison</actor>
+			<role>Psychic</role>
+		</credit>
+		<credit>
+			<actor>M. Diesel</actor>
+			<role>Masked Man</role>
+		</credit>
+		<credit>
+			<actor>Reshma Gajjar</actor>
+			<role>Dancer</role>
+		</credit>
+		<credit>
+			<actor>Tess Hewlett</actor>
+			<role>Dancer</role>
+		</credit>
+		<credit>
+			<actor>Annie Kyle</actor>
+			<role>Nurse</role>
+		</credit>
+		<credit>
+			<actor>Shelley Long</actor>
+			<role>Baby Dog</role>
+		</credit>
+		<credit>
+			<actor>Malachi Middleton</actor>
+			<role>Dancer</role>
+		</credit>
+		<credit>
+			<actor>Sophie von Haselberg</actor>
+			<role>Sissy St. Claire</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Netherlands">January 29 2022</releasedate>
+		<releasedate country="Canada">July 22 2022</releasedate>
+		<releasedate country="Australia">August 12 2022</releasedate>
+		<releasedate country="United Kingdom">August 15 2022</releasedate>
+		<releasedate country="United States">September 23 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">Unrated</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Amanda Kramer</director>
+	</directors>
+	<composers>
+		<composer> Josh Ascalon</composer>
+		<composer> Giulio Carmassi</composer>
+		<composer> Bryan Scary</composer>
+	</composers>
+	<producers>
+		<producer> Jake Agger</producer>
+		<producer> Samuel Gursky</producer>
+		<producer> Rhianon Jones</producer>
+		<producer> Riccardo Maddalosso</producer>
+		<producer> Benjamin Shearn</producer>
+		<producer> Sarah Winshall</producer>
+	</producers>
+	<writers>
+		<writer> Amanda Kramer</writer>
+	</writers>
+	<editors>
+		<editor> Benjamin Shearn</editor>
+	</editors>
+</doc>

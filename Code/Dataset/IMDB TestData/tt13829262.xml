@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<doc id="tt13829262">
+	<docid>tt13829262</docid>
+	<title>Rubikon</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmZjNjIyNjMtODgzNC00NmI3LWIxM2QtZGZjYjEyODUyY2IyXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">110</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's &quot;algae symbiosis system&quot;.</plot>
+	<countries>
+		<country>Austria</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Julia Franz Richter</actor>
+			<role>Hannah Wagner</role>
+		</credit>
+		<credit>
+			<actor>George Blagden</actor>
+			<role>Gavin Abbott</role>
+		</credit>
+		<credit>
+			<actor>Mark Ivanir</actor>
+			<role>Dimitri Krylow</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Monu</actor>
+			<role>Philipp Jenson</role>
+		</credit>
+		<credit>
+			<actor>Daniela Kong</actor>
+			<role>Tracy Sato</role>
+		</credit>
+		<credit>
+			<actor>Konstantin Frolov</actor>
+			<role>Danilo Krylow</role>
+		</credit>
+		<credit>
+			<actor>Hannah Rang</actor>
+			<role>Knopf</role>
+		</credit>
+		<credit>
+			<actor>Ljubisa Grujcic</actor>
+			<role>Sergio</role>
+		</credit>
+		<credit>
+			<actor>Jonas Gerzabek</actor>
+			<role>Little Knopf</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Cannon</actor>
+			<role>Esther</role>
+		</credit>
+		<credit>
+			<actor>Bevin Kina Knappitsch</actor>
+			<role>Child on Earth</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Brazil">July 1 2022</releasedate>
+		<releasedate country="Canada">July 1 2022</releasedate>
+		<releasedate country="United States">July 1 2022</releasedate>
+		<releasedate country="Singapore">July 11 2022</releasedate>
+		<releasedate country="Austria">September 15 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>space sci fi</keyword>
+		<keyword>planet</keyword>
+		<keyword>trapped in space</keyword>
+	</keywords>
+	<directors>
+		<director> Magdalena Lauritsch</director>
+	</directors>
+	<composers>
+		<composer> Daniel Helmer</composer>
+		<composer> Wolf-Maximilian Liebich</composer>
+	</composers>
+	<producers>
+		<producer> Stefanie Feodorow</producer>
+		<producer> Klaus Graf</producer>
+		<producer> Livia Graf</producer>
+		<producer> Annemarie Pilgram-Ribitsch</producer>
+		<producer> Loredana Rehekampff</producer>
+		<producer> Andreas Schmied</producer>
+	</producers>
+	<writers>
+		<writer> Magdalena Lauritsch</writer>
+		<writer> Jessica Lind</writer>
+		<writer> Elisabeth Schmied</writer>
+	</writers>
+	<editors>
+		<editor> Anna Heuss</editor>
+		<editor> Christoph Loidl</editor>
+	</editors>
+</doc>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<doc id="tt19847670">
+	<docid>tt19847670</docid>
+	<title>The Gringo Papi</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmM2ZjgxZTctZTQ5ZC00M2YzLWIwNDgtYTE4ZWNlMGI1MmU1XkEyXkFqcGdeQXVyNTk2NjczNTc@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022 TV Special</year>
+	<runningtimes>
+		<runningtime country="default">25</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>The Gringo Papi: A stand-up comedy special written and performed by Brendan Schaub produced by Thiccc Boy Studios.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Brendan Schaub</actor>
+			<role>Star</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">April 28 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv special</keyword>
+		<keyword>stand up comedy</keyword>
+		<keyword>live audience</keyword>
+		<keyword>theater</keyword>
+		<keyword>sketch comedy</keyword>
+	</keywords>
+	<directors>
+		<director> Casey Geraghty</director>
+		<director> Michael Nell</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Brendan Schaub</producer>
+	</producers>
+	<writers>
+		<writer> Brendan Schaub</writer>
+	</writers>
+	<editors>
+		<editor> Casey Geraghty</editor>
+	</editors>
+</doc>

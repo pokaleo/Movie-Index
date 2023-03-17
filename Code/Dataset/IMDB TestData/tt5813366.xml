@@ -1,0 +1,522 @@
+<?xml version="1.0" ?>
+<doc id="tt5813366">
+	<docid>tt5813366</docid>
+	<title>Bleeding Steel</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDBhYjBkYzUtZDMyMi00NDI4LTg3MTYtNzU4MTIyNmQ5Yzg0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">109</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A Special Forces Agent is assigned to protect a scientist and his creation from a sinister gang.</plot>
+	<countries>
+		<country>China</country>
+	</countries>
+	<languages>
+		<language>Mandarin</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>D-Cinema 48kHz 5.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jackie Chan</actor>
+			<role>Lin Dong</role>
+		</credit>
+		<credit>
+			<actor>Show Lo</actor>
+			<role>Leeson</role>
+		</credit>
+		<credit>
+			<actor>Na-Na OuYang</actor>
+			<role>Nancy</role>
+		</credit>
+		<credit>
+			<actor>Erica Xia-Hou</actor>
+			<role>Susan</role>
+		</credit>
+		<credit>
+			<actor>Callan Mulvey</actor>
+			<role>Andre</role>
+		</credit>
+		<credit>
+			<actor>Tess Haubrich</actor>
+			<role>Woman in Black</role>
+		</credit>
+		<credit>
+			<actor>Kim Gyngell</actor>
+			<role>Dr. James</role>
+		</credit>
+		<credit>
+			<actor>Damien Garvey</actor>
+			<role>Rick Rogers</role>
+		</credit>
+		<credit>
+			<actor>Bowie Lam</actor>
+			<role>Dr. Wu</role>
+		</credit>
+		<credit>
+			<actor>Elena Askin</actor>
+			<role>Xixi</role>
+		</credit>
+		<credit>
+			<actor>Gillian Jones</actor>
+			<role>Witch</role>
+		</credit>
+		<credit>
+			<actor>Sammy The Dwarf</actor>
+			<role>Dwarf</role>
+		</credit>
+		<credit>
+			<actor>Cosentino</actor>
+			<role>Chamberlain</role>
+		</credit>
+		<credit>
+			<actor>Anna Cheney</actor>
+			<role>TV Host</role>
+		</credit>
+		<credit>
+			<actor>Brooklyn Allan</actor>
+			<role>Popcorn Girl</role>
+		</credit>
+		<credit>
+			<actor>Chris Bartlett</actor>
+			<role>Balloon Clown</role>
+		</credit>
+		<credit>
+			<actor>Nathaniel Boyd</actor>
+			<role>Scientist</role>
+		</credit>
+		<credit>
+			<actor>Kaitlyn Boyé</actor>
+			<role>Junkie Girl</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">December 22 2017</releasedate>
+		<releasedate country="China">December 22 2017</releasedate>
+		<releasedate country="United Kingdom">December 22 2017</releasedate>
+		<releasedate country="Ireland">December 22 2017</releasedate>
+		<releasedate country="Singapore">December 22 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Colombia">15</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Kuwait">PG</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>shootout</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>police shootout</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>kung fu</keyword>
+		<keyword>karate</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>martial artist</keyword>
+		<keyword>martial arts master</keyword>
+		<keyword>female martial artist</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>battle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>final battle</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding house</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>car chase</keyword>
+		<keyword>police chase</keyword>
+		<keyword>car crash</keyword>
+		<keyword>car accident</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the hand</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>bomb</keyword>
+		<keyword>car bomb</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police</keyword>
+		<keyword>police car</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>swat team</keyword>
+		<keyword>van</keyword>
+		<keyword>helmet</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>tough cop</keyword>
+		<keyword>action hero</keyword>
+		<keyword>one man army</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>fear</keyword>
+		<keyword>panic</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>race against time</keyword>
+		<keyword>blood transfusion</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>dark past</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>police raid</keyword>
+		<keyword>undercover</keyword>
+		<keyword>undercover cop</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>security camera</keyword>
+		<keyword>hidden camera</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>gas attack</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>henchwoman</keyword>
+		<keyword>cape</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>woman fights a man</keyword>
+		<keyword>secret door</keyword>
+		<keyword>secret room</keyword>
+		<keyword>hidden door</keyword>
+		<keyword>hidden room</keyword>
+		<keyword>leukemia</keyword>
+		<keyword>cancer</keyword>
+		<keyword>hospital</keyword>
+		<keyword>doctor</keyword>
+		<keyword>scientist</keyword>
+		<keyword>injection</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>self injection</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>lightning</keyword>
+		<keyword>deoxyribonucleic acid</keyword>
+		<keyword>genetic engineering</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>albino</keyword>
+		<keyword>mutation</keyword>
+		<keyword>transformation</keyword>
+		<keyword>revenge</keyword>
+		<keyword>human experiment</keyword>
+		<keyword>science runs amok</keyword>
+		<keyword>experiment gone wrong</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>technology</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>high tech</keyword>
+		<keyword>witness</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>prologue</keyword>
+		<keyword>flashback</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>scene before opening credits</keyword>
+		<keyword>written by director</keyword>
+		<keyword>2000s</keyword>
+		<keyword>2020s</keyword>
+		<keyword>near future</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>massacre</keyword>
+		<keyword>face mask</keyword>
+		<keyword>hong kong</keyword>
+		<keyword>self healing</keyword>
+		<keyword>regeneration</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>super strength</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>serum</keyword>
+		<keyword>memory</keyword>
+		<keyword>orphan</keyword>
+		<keyword>orphanage</keyword>
+		<keyword>artificial heart</keyword>
+		<keyword>heart in hand</keyword>
+		<keyword>heart ripped out</keyword>
+		<keyword>outrunning explosion</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>knife throwing</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>mutant</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>disguise</keyword>
+		<keyword>ambush</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>fire</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>two word title</keyword>
+		<keyword>carousel</keyword>
+		<keyword>fairground</keyword>
+		<keyword>lipstick</keyword>
+		<keyword>sydney australia</keyword>
+		<keyword>sydney opera house</keyword>
+		<keyword>bridge</keyword>
+		<keyword>australian</keyword>
+		<keyword>news report</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>pants falling down</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>motor scooter</keyword>
+		<keyword>speedboat</keyword>
+		<keyword>armory</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>arrest</keyword>
+		<keyword>gang</keyword>
+		<keyword>apartment</keyword>
+		<keyword>witch doctor</keyword>
+		<keyword>witch</keyword>
+		<keyword>security guard</keyword>
+		<keyword>dressing room</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>hypnotism</keyword>
+		<keyword>hypnotist</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>trailer</keyword>
+		<keyword>trailer home</keyword>
+		<keyword>pizza</keyword>
+		<keyword>author</keyword>
+		<keyword>penthouse</keyword>
+		<keyword>hot tub</keyword>
+		<keyword>hotel</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>lap dance</keyword>
+		<keyword>drugged drink</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>ski mask</keyword>
+		<keyword>thief</keyword>
+		<keyword>torture</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>safe</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>photograph</keyword>
+		<keyword>parachute</keyword>
+		<keyword>explosive decompression</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>impalement</keyword>
+		<keyword>teenager</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>dream</keyword>
+		<keyword>catfight</keyword>
+		<keyword>college student</keyword>
+		<keyword>spiritualist</keyword>
+		<keyword>body enhancement</keyword>
+		<keyword>taxi</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>amnesia</keyword>
+		<keyword>amnesiac</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>test subject</keyword>
+		<keyword>ex special forces</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>corpse</keyword>
+		<keyword>airport</keyword>
+		<keyword>airplane</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>key</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>following someone</keyword>
+		<keyword>detective</keyword>
+		<keyword>police detective</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>bank</keyword>
+		<keyword>bank vault</keyword>
+		<keyword>safe deposit box</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>bloopers during credits</keyword>
+		<keyword>evil man</keyword>
+		<keyword>desert</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>scar</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>jumping from an airplane</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>exploding airplane</keyword>
+		<keyword>popcorn</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>reference to spider man</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>man dresses as a woman</keyword>
+		<keyword>female police officer</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>timeframe 2000s</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>cyberpunk sci fi</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>agent</keyword>
+		<keyword>special forces</keyword>
+		<keyword>criminal gang</keyword>
+		<keyword>f rated</keyword>
+		<keyword>young girl</keyword>
+		<keyword>future</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Leo Zhang</director>
+	</directors>
+	<composers>
+		<composer> Fei Peng</composer>
+	</composers>
+	<producers>
+		<producer> Yali Bai</producer>
+		<producer> Sun Bin</producer>
+		<producer> Yan Cao</producer>
+		<producer> Allan Chan</producer>
+		<producer> Jackie Chan</producer>
+		<producer> Jaycee Chan</producer>
+		<producer> Keven Chan</producer>
+		<producer> Ryan Chen</producer>
+		<producer> Cary Cheng</producer>
+		<producer> Hungyao Chuchen</producer>
+		<producer> Paul Currie</producer>
+		<producer> Ellen Eliasoph</producer>
+		<producer> Alex Guan</producer>
+		<producer> Kyler Huang</producer>
+		<producer> Defu Jiang</producer>
+		<producer> Aileen Li</producer>
+		<producer> Alee Li</producer>
+		<producer> Edward Li</producer>
+		<producer> Jerry Li</producer>
+		<producer> Qin Li</producer>
+		<producer> Zhiqian Li</producer>
+		<producer> Kailuo Liu</producer>
+		<producer> Ning Liu</producer>
+		<producer> Quan Liu</producer>
+		<producer> Rong Liu</producer>
+		<producer> Yang Lu</producer>
+		<producer> Sharon Miller</producer>
+		<producer> Lulu Peng</producer>
+		<producer> Leung-Kit Shum</producer>
+		<producer> Jason Sun</producer>
+		<producer> Edward Tang</producer>
+		<producer> Bozhao Wang</producer>
+		<producer> Ke Wang</producer>
+		<producer> Peng Wang</producer>
+		<producer> Fei Xu</producer>
+		<producer> Karen Xu</producer>
+		<producer> Ziquan Xu</producer>
+		<producer> Hai Yang</producer>
+		<producer> Weidong Yang</producer>
+		<producer> Da Ying</producer>
+		<producer> You You</producer>
+		<producer> Yang Yue</producer>
+		<producer> John Zeng</producer>
+		<producer> Grace Zhang</producer>
+		<producer> Javier Zhang</producer>
+		<producer> Leo Zhang</producer>
+		<producer> Talent Zhang</producer>
+		<producer> Huan Zhou</producer>
+		<producer> Allen Zhu</producer>
+		<producer> Larry Zi</producer>
+	</producers>
+	<writers>
+		<writer> Erica Xia-Hou</writer>
+		<writer> Siwei Cui</writer>
+		<writer> Leo Zhang</writer>
+	</writers>
+	<editors>
+		<editor> Chi-Leung Kwong</editor>
+		<editor> Leo Zhang</editor>
+	</editors>
+</doc>

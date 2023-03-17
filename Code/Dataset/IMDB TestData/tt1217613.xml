@@ -1,0 +1,523 @@
+<?xml version="1.0" ?>
+<doc id="tt1217613">
+	<docid>tt1217613</docid>
+	<title>Battle: Los Angeles</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDg2NzQwOGMtMGRkNC00YjAwLTg4NjgtZWQwYzljZmM1YzA4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">116</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A squad of U.S. Marines becomes the last line of defense against a global invasion.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>SDDS</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Aaron Eckhart</actor>
+			<role>Ssgt. Michael Nantz</role>
+		</credit>
+		<credit>
+			<actor>Michelle Rodriguez</actor>
+			<role>TSgt. Elena Santos</role>
+		</credit>
+		<credit>
+			<actor>Bridget Moynahan</actor>
+			<role>Michele</role>
+		</credit>
+		<credit>
+			<actor>Ramón Rodríguez</actor>
+			<role>2nd Lt. William Martinez</role>
+		</credit>
+		<credit>
+			<actor>Will Rothhaar</actor>
+			<role>Cpl. Lee Imlay</role>
+		</credit>
+		<credit>
+			<actor>Cory Hardrict</actor>
+			<role>Cpl. Jason Lockett</role>
+		</credit>
+		<credit>
+			<actor>Jim Parrack</actor>
+			<role>LCpl. Peter Kerns</role>
+		</credit>
+		<credit>
+			<actor>Gino Anthony Pesi</actor>
+			<role>Cpl. Nick Stavrou</role>
+		</credit>
+		<credit>
+			<actor>Ne-Yo</actor>
+			<role>Cpl. Kevin Harris</role>
+		</credit>
+		<credit>
+			<actor>James Hiroyuki Liao</actor>
+			<role>LCpl. Steven Mottola</role>
+		</credit>
+		<credit>
+			<actor>Noel Fisher</actor>
+			<role>Pfc. Shaun Lenihan</role>
+		</credit>
+		<credit>
+			<actor>Adetokumboh M'Cormack</actor>
+			<role>Corpsman Jibril Adukwu</role>
+		</credit>
+		<credit>
+			<actor>Bryce Cass</actor>
+			<role>Hector Rincon</role>
+		</credit>
+		<credit>
+			<actor>Michael Peña</actor>
+			<role>Joe Rincon</role>
+		</credit>
+		<credit>
+			<actor>Neil Brown Jr.</actor>
+			<role>LCpl. Richard Guerrero</role>
+		</credit>
+		<credit>
+			<actor>Taylor Handley</actor>
+			<role>LCpl. Corey Simmons</role>
+		</credit>
+		<credit>
+			<actor>Joey King</actor>
+			<role>Kirsten</role>
+		</credit>
+		<credit>
+			<actor>Lucas Till</actor>
+			<role>Cpl. Scott Grayston</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 8 2011</releasedate>
+		<releasedate country="Argentina">March 10 2011</releasedate>
+		<releasedate country="Hong Kong">March 10 2011</releasedate>
+		<releasedate country="Israel">March 10 2011</releasedate>
+		<releasedate country="South Korea">March 10 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Finland">K-11</certificate>
+		<certificate country="Finland">K-12/9</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">PG</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Norway">11</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>alien invasion</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>alien attack</keyword>
+		<keyword>female veterinarian</keyword>
+		<keyword>massive explosion</keyword>
+		<keyword>military vehicle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>marine corps</keyword>
+		<keyword>heroism</keyword>
+		<keyword>hero</keyword>
+		<keyword>organ</keyword>
+		<keyword>child in jeopardy</keyword>
+		<keyword>extraterrestrial attack</keyword>
+		<keyword>gun</keyword>
+		<keyword>battle tank</keyword>
+		<keyword>marine</keyword>
+		<keyword>alien</keyword>
+		<keyword>invasion</keyword>
+		<keyword>military</keyword>
+		<keyword>combat</keyword>
+		<keyword>shootout</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>violence</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>battle</keyword>
+		<keyword>explosion</keyword>
+		<keyword>military life</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>soldier</keyword>
+		<keyword>staff sergeant</keyword>
+		<keyword>air strike</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>fireball</keyword>
+		<keyword>sniper</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>death of father</keyword>
+		<keyword>male lieutenant</keyword>
+		<keyword>wounded man</keyword>
+		<keyword>extraterrestrial alien</keyword>
+		<keyword>male captain</keyword>
+		<keyword>wounded soldier</keyword>
+		<keyword>male sergeant</keyword>
+		<keyword>laundry room</keyword>
+		<keyword>injured head</keyword>
+		<keyword>view through rifle scope</keyword>
+		<keyword>military aircraft</keyword>
+		<keyword>air force sergeant</keyword>
+		<keyword>hostile alien</keyword>
+		<keyword>injured leg</keyword>
+		<keyword>male corporal</keyword>
+		<keyword>reference to world war one</keyword>
+		<keyword>military humvee</keyword>
+		<keyword>garbage truck</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>transport helicopter</keyword>
+		<keyword>laser designator</keyword>
+		<keyword>rotorcraft</keyword>
+		<keyword>unknown object</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>meteorite</keyword>
+		<keyword>raid</keyword>
+		<keyword>attack</keyword>
+		<keyword>assault</keyword>
+		<keyword>onslaught</keyword>
+		<keyword>race</keyword>
+		<keyword>being</keyword>
+		<keyword>alien race</keyword>
+		<keyword>concrete</keyword>
+		<keyword>civil</keyword>
+		<keyword>civilian</keyword>
+		<keyword>rescuer</keyword>
+		<keyword>vital capacity</keyword>
+		<keyword>troop</keyword>
+		<keyword>trooper</keyword>
+		<keyword>battalion</keyword>
+		<keyword>unit</keyword>
+		<keyword>team</keyword>
+		<keyword>band</keyword>
+		<keyword>debris</keyword>
+		<keyword>last chance</keyword>
+		<keyword>last stand</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>rubble</keyword>
+		<keyword>bullet</keyword>
+		<keyword>slug</keyword>
+		<keyword>plan</keyword>
+		<keyword>metropolis</keyword>
+		<keyword>laser beam</keyword>
+		<keyword>detonation</keyword>
+		<keyword>guided missile</keyword>
+		<keyword>hit</keyword>
+		<keyword>globe</keyword>
+		<keyword>jump start</keyword>
+		<keyword>hiding</keyword>
+		<keyword>vital signs</keyword>
+		<keyword>school bus</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>weapon</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>soldier wears eyeglasses</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>katana</keyword>
+		<keyword>swordswoman</keyword>
+		<keyword>jarhead</keyword>
+		<keyword>helmet</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>human versus extraterrestrial</keyword>
+		<keyword>tandem rotor helicopter</keyword>
+		<keyword>injured man</keyword>
+		<keyword>firearm</keyword>
+		<keyword>african american u.s. marine</keyword>
+		<keyword>car</keyword>
+		<keyword>military helicopter</keyword>
+		<keyword>injured male</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>radio communication</keyword>
+		<keyword>u.s. marines helicopter</keyword>
+		<keyword>child</keyword>
+		<keyword>eight wheeled vehicle</keyword>
+		<keyword>girl</keyword>
+		<keyword>city</keyword>
+		<keyword>hug</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>night</keyword>
+		<keyword>hot wiring a motor vehicle</keyword>
+		<keyword>loss of parent</keyword>
+		<keyword>boy</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>view through binoculars</keyword>
+		<keyword>m16 rifle</keyword>
+		<keyword>bald man</keyword>
+		<keyword>handgun</keyword>
+		<keyword>death of parent</keyword>
+		<keyword>military rotorcraft</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>woman with long hair</keyword>
+		<keyword>head wound</keyword>
+		<keyword>leg wound</keyword>
+		<keyword>gritty</keyword>
+		<keyword>alien invasion sci fi</keyword>
+		<keyword>block of c4</keyword>
+		<keyword>mission</keyword>
+		<keyword>platoon</keyword>
+		<keyword>forward operating base</keyword>
+		<keyword>survivor</keyword>
+		<keyword>meteor</keyword>
+		<keyword>sergeant</keyword>
+		<keyword>u.s. marine</keyword>
+		<keyword>police station</keyword>
+		<keyword>rescue</keyword>
+		<keyword>airport</keyword>
+		<keyword>meteor shower</keyword>
+		<keyword>beach</keyword>
+		<keyword>lieutenant</keyword>
+		<keyword>bus</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>male soldier</keyword>
+		<keyword>human versus alien</keyword>
+		<keyword>alien spacecraft</keyword>
+		<keyword>in medias res</keyword>
+		<keyword>police officer killed</keyword>
+		<keyword>police officer</keyword>
+		<keyword>shoelace</keyword>
+		<keyword>killed in an elevator</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>m712 copperhead projectile</keyword>
+		<keyword>tying shoelaces</keyword>
+		<keyword>rappelling</keyword>
+		<keyword>helicopter shot down</keyword>
+		<keyword>hand bandage</keyword>
+		<keyword>blinded</keyword>
+		<keyword>fragmentation grenade</keyword>
+		<keyword>general dynamics lav 25</keyword>
+		<keyword>humvee</keyword>
+		<keyword>m 16</keyword>
+		<keyword>v 22 osprey</keyword>
+		<keyword>uh 1 huey helicopter</keyword>
+		<keyword>sit ups</keyword>
+		<keyword>boeing vertol ch 46 sea knight</keyword>
+		<keyword>colonel</keyword>
+		<keyword>general</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>coming out of retirement</keyword>
+		<keyword>unidentified flying object</keyword>
+		<keyword>gas station</keyword>
+		<keyword>female sergeant</keyword>
+		<keyword>technical sergeant</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>2010s</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>one day timespan</keyword>
+		<keyword>recipient of several purple hearts</keyword>
+		<keyword>pistol</keyword>
+		<keyword>tension</keyword>
+		<keyword>coastline</keyword>
+		<keyword>hollywood california</keyword>
+		<keyword>cnn reporter</keyword>
+		<keyword>crushed by a car</keyword>
+		<keyword>virgin</keyword>
+		<keyword>stabbed in the heart</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>freeway</keyword>
+		<keyword>death</keyword>
+		<keyword>exploding gas station</keyword>
+		<keyword>grenade</keyword>
+		<keyword>shot in the stomach</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>camp pendleton california</keyword>
+		<keyword>running on the beach</keyword>
+		<keyword>santa monica california</keyword>
+		<keyword>ocean</keyword>
+		<keyword>destruction</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>radio signal</keyword>
+		<keyword>medic</keyword>
+		<keyword>san diego california</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>party</keyword>
+		<keyword>retirement</keyword>
+		<keyword>flower shop</keyword>
+		<keyword>autopsy</keyword>
+		<keyword>veterinarian</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>helicopter crash</keyword>
+		<keyword>exploding helicopter</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>burned face</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>knife</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>chaos</keyword>
+		<keyword>survival</keyword>
+		<keyword>creature</keyword>
+		<keyword>redemption</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>ambush</keyword>
+		<keyword>dog</keyword>
+		<keyword>smoke</keyword>
+		<keyword>corpse</keyword>
+		<keyword>abandoned apartment</keyword>
+		<keyword>apartment</keyword>
+		<keyword>laundromat</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>dog tag</keyword>
+		<keyword>race against time</keyword>
+		<keyword>map</keyword>
+		<keyword>destroyed city</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>golf course</keyword>
+		<keyword>golf club</keyword>
+		<keyword>pool table</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>rookie</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>webcam</keyword>
+		<keyword>computer</keyword>
+		<keyword>nigerian</keyword>
+		<keyword>fiance fiancee relationship</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>american flag</keyword>
+		<keyword>military base</keyword>
+		<keyword>marine base</keyword>
+		<keyword>army</keyword>
+		<keyword>u.s. marine corps</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>air base</keyword>
+		<keyword>corporal</keyword>
+		<keyword>news reporter</keyword>
+		<keyword>news report</keyword>
+		<keyword>night vision</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>command center</keyword>
+		<keyword>weapons cabinet</keyword>
+		<keyword>captain</keyword>
+		<keyword>mojave desert</keyword>
+		<keyword>desert</keyword>
+		<keyword>laser</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>drone</keyword>
+		<keyword>shaky cam</keyword>
+		<keyword>end of the world scenario</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>missile</keyword>
+		<keyword>rocket</keyword>
+		<keyword>los angeles storm drain</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>sewer</keyword>
+		<keyword>alien contact</keyword>
+		<keyword>water</keyword>
+		<keyword>supermarket</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>exploding bus</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>c4 explosives</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>rope</keyword>
+		<keyword>rifle</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>50 calibre machine gun</keyword>
+		<keyword>tank</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>reference to john wayne</keyword>
+		<keyword>exploding gasoline station</keyword>
+		<keyword>gash in the face</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>little girl</keyword>
+		<keyword>little boy</keyword>
+		<keyword>escape</keyword>
+		<keyword>hotwiring</keyword>
+		<keyword>burning city</keyword>
+		<keyword>fire</keyword>
+		<keyword>three word title</keyword>
+		<keyword>punctuation in title</keyword>
+		<keyword>place name in title</keyword>
+		<keyword>city name in title</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>katana sword</keyword>
+	</keywords>
+	<directors>
+		<director> Jonathan Liebesman</director>
+	</directors>
+	<composers>
+		<composer> Brian Tyler</composer>
+	</composers>
+	<producers>
+		<producer> Jeffrey Chernov</producer>
+		<producer> David Greenblatt</producer>
+		<producer> Ori Marmur</producer>
+		<producer> Neal H. Moritz</producer>
+		<producer> Lisa Rodgers</producer>
+	</producers>
+	<writers>
+		<writer> Christopher Bertolini</writer>
+	</writers>
+	<editors>
+		<editor> Christian Wagner</editor>
+	</editors>
+</doc>

@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<doc id="tt19951082">
+	<docid>tt19951082</docid>
+	<title>Moriah's Lighthouse</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzcxM2MyOGMtMmExNS00MjVjLWFkMDEtY2E5NDZkNjgxYTZkXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022 TV Movie</year>
+	<runningtimes>
+		<runningtime country="default">84</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>Moriah is a woodworking artisan living in a French seaside town who dreams of restoring a local lighthouse. But Ben, an American architect who comes to town may derail her plans.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Rachelle Lefevre</actor>
+			<role>Moriah Bufort</role>
+		</credit>
+		<credit>
+			<actor>Luke Macfarlane</actor>
+			<role>Ben McCane</role>
+		</credit>
+		<credit>
+			<actor>Valeria Cavalli</actor>
+			<role>Catherine Bufort</role>
+		</credit>
+		<credit>
+			<actor>Serge Dupire</actor>
+			<role>Nicholas Martin</role>
+		</credit>
+		<credit>
+			<actor>Duncan Talhouet</actor>
+			<role>Jacques</role>
+		</credit>
+		<credit>
+			<actor>Caroline Marcos</actor>
+			<role>Brigitte</role>
+		</credit>
+		<credit>
+			<actor>Jerry Di Giacomo</actor>
+			<role>Maurice</role>
+		</credit>
+		<credit>
+			<actor>Catherine Hubeau</actor>
+			<role>Anastasia</role>
+		</credit>
+		<credit>
+			<actor>Régis Péjus</actor>
+			<role>Bonbon Staff</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">June 18 2022</releasedate>
+		<releasedate country="United States">June 18 2022</releasedate>
+		<releasedate country="France">February 20 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">G</certificate>
+		<certificate country="United States">TV-G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>two word title</keyword>
+		<keyword>apostrophe in title</keyword>
+		<keyword>television movie</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Stefan Scaini</director>
+	</directors>
+	<composers>
+		<composer> Christopher Guglick</composer>
+	</composers>
+	<producers>
+		<producer> Agnes Bristow</producer>
+		<producer> Leif Bristow</producer>
+		<producer> Paul Campbell</producer>
+		<producer> David Claikens</producer>
+		<producer> Terry Cunningham</producer>
+		<producer> Borga Dorter</producer>
+		<producer> Samuel Feller</producer>
+		<producer> Hubert Toint</producer>
+		<producer> Alex Verbaere</producer>
+	</producers>
+	<writers>
+		<writer> Serena B. Miller</writer>
+		<writer> Paul Campbell</writer>
+		<writer> Terry Cunningham</writer>
+	</writers>
+	<editors>
+		<editor> Paul Whitehead</editor>
+	</editors>
+</doc>

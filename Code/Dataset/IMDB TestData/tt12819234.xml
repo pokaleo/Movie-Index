@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<doc id="tt12819234">
+	<docid>tt12819234</docid>
+	<title>Manayek</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzg1NWUyYTktOWQ3Ni00ODdhLTk2MTEtZGQ2ZDg0ZGZiZjE2XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Izzy Bachar, a police internal affairs investigator, discovers just before retirement that his long time friend Barak, a senior police officer, is accused of being corrupt. Life as he knows it breaks into pieces.</plot>
+	<countries>
+		<country>Israel</country>
+	</countries>
+	<languages>
+		<language>Hebrew</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Shalom Assayag</actor>
+			<role>Izzy Bachar</role>
+		</credit>
+		<credit>
+			<actor>Amos Tamam</actor>
+			<role>Barak Harel</role>
+		</credit>
+		<credit>
+			<actor>Liraz Chamami</actor>
+			<role>Tal Ben Harush</role>
+		</credit>
+		<credit>
+			<actor>Doron Ben-David</actor>
+			<role>Ofir Leibowitz</role>
+		</credit>
+		<credit>
+			<actor>Ishai Golan</actor>
+			<role>Eitan Doitsh</role>
+		</credit>
+		<credit>
+			<actor>Mouna Hawa</actor>
+			<role>Hiba ElNasar</role>
+		</credit>
+		<credit>
+			<actor>Sasi Samucha</actor>
+			<role>Dudu Eini</role>
+		</credit>
+		<credit>
+			<actor>Micha Celektar</actor>
+			<role>Avner Baranes</role>
+		</credit>
+		<credit>
+			<actor>Rami Heuberger</actor>
+			<role>Shaul Katz</role>
+		</credit>
+		<credit>
+			<actor>Eyal Rozales</actor>
+			<role>Ezra Falah</role>
+		</credit>
+		<credit>
+			<actor>Haim Zanati</actor>
+			<role>Eyal Zigdon</role>
+		</credit>
+		<credit>
+			<actor>Subliminal</actor>
+			<role>Tamir Shemaya</role>
+		</credit>
+		<credit>
+			<actor>Avi Salama</actor>
+			<role>Gili Shemaya</role>
+		</credit>
+		<credit>
+			<actor>Omer Perelman Striks</actor>
+			<role>Yoel Schwartz</role>
+		</credit>
+		<credit>
+			<actor>Rona Lipaz-Michael</actor>
+			<role>Atalia Ben-Moshe</role>
+		</credit>
+		<credit>
+			<actor>Moti Ben Ishai</actor>
+			<role>Meir Shemer</role>
+		</credit>
+		<credit>
+			<actor>Sari Simahov</actor>
+			<role>Oksana Manhamov</role>
+		</credit>
+		<credit>
+			<actor>Abdallah El Akal</actor>
+			<role>Sami Sliman</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">August 2 2020</releasedate>
+		<releasedate country="Israel">August 2 2020</releasedate>
+		<releasedate country="Australia">November 25 2021</releasedate>
+		<releasedate country="Germany">February 23 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Sweden">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>internal affairs</keyword>
+		<keyword>internal affairs investigator</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>israeli police</keyword>
+		<keyword>shin bet</keyword>
+		<keyword>general security service of israel</keyword>
+		<keyword>shabak</keyword>
+		<keyword>police department politics</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>cheating wife</keyword>
+		<keyword>political corruption</keyword>
+		<keyword>police brutality</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>ukraine</keyword>
+	</keywords>
+	<directors>
+		<director> Alon Zingman</director>
+	</directors>
+	<composers>
+		<composer> Haim Frank Ilfman</composer>
+	</composers>
+	<producers>
+		<producer> Yoav Gross</producer>
+		<producer> Ido Ben-Basat</producer>
+		<producer> Guy Cohen</producer>
+		<producer> Efrat Fuks</producer>
+		<producer> Maayan Avraham</producer>
+		<producer> Uri Zur</producer>
+		<producer> Shalom Eisenbach</producer>
+		<producer> Irina Grinko</producer>
+	</producers>
+	<writers>
+		<writer> Roy Iddan</writer>
+		<writer> Roy Iddan</writer>
+		<writer> Lee Gilat</writer>
+		<writer> Yoav Gross</writer>
+	</writers>
+	<editors>
+		<editor> Yoav Gross</editor>
+		<editor> Eti Li-On-Zingman</editor>
+		<editor> Ron Omer</editor>
+	</editors>
+</doc>

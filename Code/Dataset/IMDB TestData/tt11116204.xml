@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<doc id="tt11116204">
+	<docid>tt11116204</docid>
+	<title>United States of Al</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGU5OTAxM2QtYTJlMS00NjFkLTkzY2ItMWMyNGMzYWU4NWZiXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>The friendship between Riley, a Marine combat veteran struggling to readjust to civilian life in Ohio, and Awalmir, the Afghan interpreter who served with his unit and has just arrived to start a new life in America.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Parker Young</actor>
+			<role>Riley</role>
+		</credit>
+		<credit>
+			<actor>Adhir Kalyan</actor>
+			<role>Al</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Alderfer</actor>
+			<role>Lizzie</role>
+		</credit>
+		<credit>
+			<actor>Dean Norris</actor>
+			<role>Art</role>
+		</credit>
+		<credit>
+			<actor>Farrah Mackenzie</actor>
+			<role>Hazel</role>
+		</credit>
+		<credit>
+			<actor>Kelli Goss</actor>
+			<role>Vanessa</role>
+		</credit>
+		<credit>
+			<actor>Brian Thomas Smith</actor>
+			<role>Freddy</role>
+		</credit>
+		<credit>
+			<actor>Amanda Payton</actor>
+			<role>Holly</role>
+		</credit>
+		<credit>
+			<actor>Rachel Bay Jones</actor>
+			<role>Lois</role>
+		</credit>
+		<credit>
+			<actor>Azita Ghanizada</actor>
+			<role>Ariana</role>
+		</credit>
+		<credit>
+			<actor>Blake Clark</actor>
+			<role>Wayne</role>
+		</credit>
+		<credit>
+			<actor>Jayma Mays</actor>
+			<role>Cindy</role>
+		</credit>
+		<credit>
+			<actor>John Ross Bowie</actor>
+			<role>Brett</role>
+		</credit>
+		<credit>
+			<actor>Wali Habib</actor>
+			<role>Zubair</role>
+		</credit>
+		<credit>
+			<actor>Sitara Attaie</actor>
+			<role>Hassina</role>
+		</credit>
+		<credit>
+			<actor>Hayden Crawford</actor>
+			<role>Shawn</role>
+		</credit>
+		<credit>
+			<actor>Zarmina Hamidi</actor>
+			<role>Gul Bashra</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Walker Jr.</actor>
+			<role>Walt</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">April 1 2021</releasedate>
+		<releasedate country="France">April 1 2021</releasedate>
+		<releasedate country="Poland">April 1 2021</releasedate>
+		<releasedate country="United States">April 1 2021</releasedate>
+		<releasedate country="Germany">October 9 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>friendship</keyword>
+		<keyword>warner bros</keyword>
+		<keyword>laugh track</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+	</keywords>
+	<directors>
+		<director> Mark Cendrowski</director>
+		<director> Nikki Lorre</director>
+	</directors>
+	<composers>
+		<composer> Robert Randolph</composer>
+	</composers>
+	<producers>
+		<producer> Mahyad Tousi</producer>
+		<producer> Ashley Korman</producer>
+		<producer> Maria Ferrari</producer>
+		<producer> David Goetsch</producer>
+		<producer> Chuck Lorre</producer>
+		<producer> Andrew Gordon</producer>
+		<producer> Jay O'Connell</producer>
+		<producer> Stephen Prime</producer>
+		<producer> Hila Hamidi</producer>
+		<producer> Reza Aslan</producer>
+		<producer> Chuck Tatham</producer>
+		<producer> Anthony Del Broccolo</producer>
+		<producer> Niko Mason</producer>
+		<producer> Fahim Anwar</producer>
+		<producer> Mark Cendrowski</producer>
+		<producer> Shannon Dixon</producer>
+	</producers>
+	<writers>
+		<writer> Maria Ferrari</writer>
+		<writer> Maria Ferrari</writer>
+		<writer> Maria Ferrari</writer>
+		<writer> Maria Ferrari</writer>
+		<writer> David Goetsch</writer>
+		<writer> David Goetsch</writer>
+		<writer> David Goetsch</writer>
+		<writer> David Goetsch</writer>
+		<writer> Emily Ann Brandstetter</writer>
+		<writer> Emily Ann Brandstetter</writer>
+		<writer> Emily Ann Brandstetter</writer>
+		<writer> Emily Ann Brandstetter</writer>
+		<writer> Ursula Taherian</writer>
+		<writer> Ursula Taherian</writer>
+		<writer> Ursula Taherian</writer>
+		<writer> Ursula Taherian</writer>
+		<writer> Bobby Telatovich</writer>
+		<writer> Bobby Telatovich</writer>
+		<writer> Bobby Telatovich</writer>
+		<writer> Bobby Telatovich</writer>
+		<writer> Habib Zahori</writer>
+		<writer> Habib Zahori</writer>
+		<writer> Habib Zahori</writer>
+		<writer> Habib Zahori</writer>
+		<writer> Andrew Gordon</writer>
+		<writer> Andrew Gordon</writer>
+		<writer> Chuck Lorre</writer>
+		<writer> Chuck Lorre</writer>
+		<writer> Anthony Del Broccolo</writer>
+		<writer> Anthony Del Broccolo</writer>
+		<writer> Fahim Anwar</writer>
+		<writer> Fahim Anwar</writer>
+		<writer> Chuck Tatham</writer>
+		<writer> Chuck Tatham</writer>
+		<writer> Reza Aslan</writer>
+		<writer> Jeffrey Silverstein</writer>
+		<writer> Miriam Arghandiwal</writer>
+		<writer> Miriam Arghandiwal</writer>
+		<writer> Hila Hamidi</writer>
+		<writer> Joshua Keller Katz</writer>
+		<writer> Chase Millsap</writer>
+		<writer> Mahyad Tousi</writer>
+	</writers>
+	<editors>
+		<editor> Stephen Prime</editor>
+	</editors>
+</doc>

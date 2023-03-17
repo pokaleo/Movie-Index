@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<doc id="tt3664864">
+	<docid>tt3664864</docid>
+	<title>Intruders</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTY5MzE0MjUwNV5BMl5BanBnXkFtZTgwNjQxNzM2NzE@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>I 2014</year>
+	<runningtimes>
+		<runningtime country="default">10</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>In the aftermath of a deadly haunting in a small suburban home, a sinister omnipresent entity proceeds to cause havoc in the private lives of a young boy, an unsuspecting teen, and absent minded inspector.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>None</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Joshua Young</actor>
+			<role>Child</role>
+		</credit>
+		<credit>
+			<actor>Charles Sirard-Blouin</actor>
+			<role>Jacov</role>
+		</credit>
+		<credit>
+			<actor>Sarianne Cormier</actor>
+			<role>Possessed Woman</role>
+		</credit>
+		<credit>
+			<actor>Alain Gendreau</actor>
+			<role>Inspector</role>
+		</credit>
+		<credit>
+			<actor>Lynda Lapierre</actor>
+			<role>Dead Woman</role>
+		</credit>
+		<credit>
+			<actor>Tristan Gabriel Chaput</actor>
+			<role>Teenager</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 10 2014</releasedate>
+		<releasedate country="Canada">October 24 2014</releasedate>
+		<releasedate country="United States">January 12 2015</releasedate>
+		<releasedate country="United States">May 2 2015</releasedate>
+		<releasedate country="France">September 11 2015</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Santiago Menghini</director>
+	</directors>
+	<composers>
+		<composer> Hugo Mayrand</composer>
+	</composers>
+	<producers>
+		<producer> Katerine Lefrançois</producer>
+	</producers>
+	<writers>
+		<writer> Uros B</writer>
+		<writer> Al Columbia</writer>
+		<writer> Santiago Menghini</writer>
+		<writer> Uno Moralez</writer>
+	</writers>
+	<editors>
+		<editor> Gina Hara</editor>
+	</editors>
+</doc>

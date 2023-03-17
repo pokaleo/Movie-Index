@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<doc id="tt16358754">
+	<docid>tt16358754</docid>
+	<title>The Wheel of Time: Origins</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2ViODQ2MDUtZDA3Ny00Yjc0LWI5NzctMjAyZDAwNzA0NjJmXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_QL75_UY281_CR162,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">3</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Experience the Origin Stories of the Wheel of Time as they bring you deeper into the world and its vast history and subjects.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Rupert Degas</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Ida May</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Steven Hartley</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Evelyn Miller</actor>
+			<role>Narrator</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Sweden">September 4 2021</releasedate>
+		<releasedate country="United States">November 18 2021</releasedate>
+		<releasedate country="France">November 19 2021</releasedate>
+		<releasedate country="India">November 19 2021</releasedate>
+		<releasedate country="Japan">November 19 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="India">A</certificate>
+		<certificate country="Japan">18</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>world</keyword>
+		<keyword>history as subject</keyword>
+		<keyword>time</keyword>
+	</keywords>
+	<directors>
+		<director> Dan DiFelice</director>
+	</directors>
+	<composers>
+		<composer> Luke Atencio</composer>
+	</composers>
+	<producers>
+		<producer> Jakub Chilczuk</producer>
+		<producer> Rafe Judkins</producer>
+		<producer> Rory Knight-Jones</producer>
+		<producer> Craig Muller</producer>
+		<producer> Mike Weber</producer>
+	</producers>
+	<writers>
+		<writer> Robert Jordan</writer>
+		<writer> Rammy Park</writer>
+	</writers>
+	<editors>
+		<editor> Ryan Beck</editor>
+	</editors>
+</doc>

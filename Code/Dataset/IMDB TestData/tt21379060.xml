@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<doc id="tt21379060">
+	<docid>tt21379060</docid>
+	<title>Stalker</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNThiZjM1NDEtZDdiNi00MTU5LTgwNjQtMTFlZTczZjhkYmZiXkEyXkFqcGdeQXVyMzEyMjE2NzA@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>III 2022</year>
+	<runningtimes>
+		<runningtime country="default">93</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An actress becomes trapped in an elevator with her stalker.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Stuart Brennan</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Bret Hart</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Sophie Skelton</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">August 28 2022</releasedate>
+		<releasedate country="Egypt">November 7 2022</releasedate>
+		<releasedate country="United States">2023</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Steve Johnson</director>
+	</directors>
+	<composers>
+		<composer> George Hinson</composer>
+	</composers>
+	<producers>
+		<producer> Stuart Brennan</producer>
+		<producer> Mark Paul Wake</producer>
+		<producer> Gareth Wiley</producer>
+	</producers>
+	<writers>
+		<writer> Chris Watt</writer>
+	</writers>
+	<editors>
+		<editor> Mark Paul Wake</editor>
+	</editors>
+</doc>

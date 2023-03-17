@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<doc id="tt7183074">
+	<docid>tt7183074</docid>
+	<title>The Good Cop</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTE0Nzg4NTgxODdeQTJeQWpwZ15BbWU4MDc2NTkxMDYz._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A disgraced former NYPD officer lives with his son, an earnest, obsessively honest NYPD detective.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tony Danza</actor>
+			<role>Tony Caruso Sr.</role>
+		</credit>
+		<credit>
+			<actor>Josh Groban</actor>
+			<role>Tony Caruso Jr.</role>
+		</credit>
+		<credit>
+			<actor>Monica Barbaro</actor>
+			<role>Cora Vasquez</role>
+		</credit>
+		<credit>
+			<actor>Isiah Whitlock Jr.</actor>
+			<role>Burl Loomis</role>
+		</credit>
+		<credit>
+			<actor>Bill Kottkamp</actor>
+			<role>Ryan</role>
+		</credit>
+		<credit>
+			<actor>Brooke Carrell</actor>
+			<role>Detective</role>
+		</credit>
+		<credit>
+			<actor>John Scurti</actor>
+			<role>Wendell Kirk</role>
+		</credit>
+		<credit>
+			<actor>Victor Cruz</actor>
+			<role>Sergeant Rudner</role>
+		</credit>
+		<credit>
+			<actor>Matthew Saldivar</actor>
+			<role>Gordy</role>
+		</credit>
+		<credit>
+			<actor>Frank Whaley</actor>
+			<role>Joseph Privett</role>
+		</credit>
+		<credit>
+			<actor>Glenn Fitzgerald</actor>
+			<role>Father Kokesh</role>
+		</credit>
+		<credit>
+			<actor>Molly Price</actor>
+			<role>Captain</role>
+		</credit>
+		<credit>
+			<actor>Alice Spivak</actor>
+			<role>Mrs. Spiro</role>
+		</credit>
+		<credit>
+			<actor>Johnny Celentano</actor>
+			<role>First Rookie</role>
+		</credit>
+		<credit>
+			<actor>Adam DeCarlo</actor>
+			<role>CSI Tech</role>
+		</credit>
+		<credit>
+			<actor>Stacey Raymond</actor>
+			<role>Another Uniform Cop</role>
+		</credit>
+		<credit>
+			<actor>Alanna Ubach</actor>
+			<role>Debbi Paddock</role>
+		</credit>
+		<credit>
+			<actor>C. Thomas Howell</actor>
+			<role>Businessman</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">September 21 2018</releasedate>
+		<releasedate country="Australia">September 21 2018</releasedate>
+		<releasedate country="Brazil">September 21 2018</releasedate>
+		<releasedate country="Canada">September 21 2018</releasedate>
+		<releasedate country="Germany">September 21 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">TV-14</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Israel">13</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">13+</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>nypd</keyword>
+		<keyword>cop comedy</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>odd couple</keyword>
+		<keyword>rule breaker</keyword>
+		<keyword>by the book</keyword>
+		<keyword>street smart</keyword>
+		<keyword>following the rules</keyword>
+	</keywords>
+	<directors>
+		<director> Randy Zisk</director>
+		<director> Kevin Hooks</director>
+		<director> Rebecca Asher</director>
+		<director> Neema Barnette</director>
+		<director> Rodrigo García</director>
+		<director> Alex Hardcastle</director>
+		<director> Silver Tree</director>
+	</directors>
+	<composers>
+		<composer> Pat Irwin</composer>
+	</composers>
+	<producers>
+		<producer> Andy Breckman</producer>
+		<producer> Brad Carpenter</producer>
+		<producer> Jonathan Collier</producer>
+		<producer> Hy Conrad</producer>
+		<producer> Howard Klein</producer>
+		<producer> David Breckman</producer>
+		<producer> Randy Zisk</producer>
+		<producer> Tony Danza</producer>
+		<producer> Antoine Douaihy</producer>
+		<producer> Ron Eilon</producer>
+		<producer> Yoav Gross</producer>
+	</producers>
+	<writers>
+		<writer> Erez Aviram</writer>
+		<writer> Tomer Aviram</writer>
+		<writer> Jack Bernstein</writer>
+		<writer> Zack Bornstein</writer>
+		<writer> Andy Breckman</writer>
+		<writer> Andy Breckman</writer>
+		<writer> Yuval Semo</writer>
+		<writer> Jonathan Collier</writer>
+		<writer> David Breckman</writer>
+		<writer> Hy Conrad</writer>
+	</writers>
+	<editors>
+		<editor> Deborah Moran</editor>
+		<editor> Sheri Bylander</editor>
+		<editor> Wadeh Arraf</editor>
+	</editors>
+</doc>

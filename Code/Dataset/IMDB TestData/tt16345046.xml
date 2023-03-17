@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc id="tt16345046">
+	<docid>tt16345046</docid>
+	<title>Hypersleep</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjY3MzVjMDctN2I4Ni00N2RiLTk1ODQtNjc2YjFjNzcwNjMwXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">103</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Near future. The old penitentiaries are a memory. Inmates now serve their sentence in a state of deep sleep. Until one day David Damiani, a prison psychologist, finds himself confronted with a prisoner over whom he has lost all control.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>Italian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Stefano Accorsi</actor>
+			<role>David Damiani</role>
+		</credit>
+		<credit>
+			<actor>Katsiaryna Shulha</actor>
+			<role>Viola</role>
+		</credit>
+		<credit>
+			<actor>Astrid Meloni</actor>
+			<role>Dottoressa Levi</role>
+		</credit>
+		<credit>
+			<actor>Andrea Germani</actor>
+			<role>Rinaldi</role>
+		</credit>
+		<credit>
+			<actor>Paolo Pierobon</actor>
+			<role>Detenuto 517</role>
+		</credit>
+		<credit>
+			<actor>Sandra Ceccarelli</actor>
+			<role>Anna Greco</role>
+		</credit>
+		<credit>
+			<actor>Alessandro Gazale</actor>
+			<role>Valli</role>
+		</credit>
+		<credit>
+			<actor>Francesco La Mantia</actor>
+			<role>Agente</role>
+		</credit>
+		<credit>
+			<actor>Tony Laudadio</actor>
+			<role>Ministro Costa</role>
+		</credit>
+		<credit>
+			<actor>Giordano De Plano</actor>
+			<role>Elia Treves</role>
+		</credit>
+		<credit>
+			<actor>Mauro Marino</actor>
+			<role>Paolo Greco</role>
+		</credit>
+		<credit>
+			<actor>Antonio Gargiulo</actor>
+			<role>Psichiatra</role>
+		</credit>
+		<credit>
+			<actor>Gianluca Scuotto</actor>
+			<role>Ex detenuto</role>
+		</credit>
+		<credit>
+			<actor>Davide Strava</actor>
+			<role>Attivista</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Finland">November 16 2022</releasedate>
+		<releasedate country="Italy">November 26 2022</releasedate>
+		<releasedate country="Italy">November 29 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Italy">6+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>near future</keyword>
+	</keywords>
+	<directors>
+		<director> Alberto Mascia</director>
+	</directors>
+	<composers>
+		<composer> Federico Bisozzi</composer>
+		<composer> Davide Tomat</composer>
+	</composers>
+	<producers>
+		<producer> Morena Amato</producer>
+		<producer> Elia Mazzoni</producer>
+		<producer> Andrea Paris</producer>
+		<producer> Matteo Rovere</producer>
+		<producer> Stefano Sardo</producer>
+		<producer> Ines Vasiljevic</producer>
+	</producers>
+	<writers>
+		<writer> Alberto Mascia</writer>
+		<writer> Enrico Saccà</writer>
+	</writers>
+	<editors>
+		<editor> Mario Marrone</editor>
+	</editors>
+</doc>

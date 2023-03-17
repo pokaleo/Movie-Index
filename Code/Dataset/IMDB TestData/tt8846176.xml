@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<doc id="tt8846176">
+	<docid>tt8846176</docid>
+	<title>Concrete Cowboy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODRlNjNhNDctMTJjYS00Y2Q4LTk1MGEtYTdiMDlkYWNkNGFjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">111</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Western</genre>
+	</genres>
+	<plot>Sent to live with his estranged father for the summer, a rebellious teen finds kinship in a tight-knit Philadelphia community of Black cowboys.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Idris Elba</actor>
+			<role>Harp</role>
+		</credit>
+		<credit>
+			<actor>Caleb McLaughlin</actor>
+			<role>Cole</role>
+		</credit>
+		<credit>
+			<actor>Lorraine Toussaint</actor>
+			<role>Nessi</role>
+		</credit>
+		<credit>
+			<actor>Jharrel Jerome</actor>
+			<role>Smush</role>
+		</credit>
+		<credit>
+			<actor>Ivannah-Mercedes</actor>
+			<role>Esha</role>
+		</credit>
+		<credit>
+			<actor>Jamil Prattis</actor>
+			<role>Paris</role>
+		</credit>
+		<credit>
+			<actor>Method Man</actor>
+			<role>Leroy</role>
+		</credit>
+		<credit>
+			<actor>Byron Bowers</actor>
+			<role>Rome</role>
+		</credit>
+		<credit>
+			<actor>Liz Priestley</actor>
+			<role>Amahle</role>
+		</credit>
+		<credit>
+			<actor>Michael Ta'Bon</actor>
+			<role>Jalen</role>
+		</credit>
+		<credit>
+			<actor>Devenie Young</actor>
+			<role>Trena</role>
+		</credit>
+		<credit>
+			<actor>Swen Temmel</actor>
+			<role>Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Patrick McDade</actor>
+			<role>City Official</role>
+		</credit>
+		<credit>
+			<actor>Danny Plaza</actor>
+			<role>Police Officer</role>
+		</credit>
+		<credit>
+			<actor>Andrew K. Stoltzfus</actor>
+			<role>Amish Farmer</role>
+		</credit>
+		<credit>
+			<actor>Canyon Formato</actor>
+			<role>Amish Kid</role>
+		</credit>
+		<credit>
+			<actor>Albert C. Lynch Jr.</actor>
+			<role>Al</role>
+		</credit>
+		<credit>
+			<actor>Michael 'Miz' Upshur</actor>
+			<role>Miz</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 13 2020</releasedate>
+		<releasedate country="United States">October 16 2020</releasedate>
+		<releasedate country="Argentina">April 2 2021</releasedate>
+		<releasedate country="Australia">April 2 2021</releasedate>
+		<releasedate country="Brazil">April 2 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">R</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R</certificate>
+		<certificate country="Mexico">R</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cowboy</keyword>
+		<keyword>teenager</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>horse</keyword>
+		<keyword>house</keyword>
+		<keyword>journey</keyword>
+		<keyword>domestic drama</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>philadelphia pennsylvania</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Ricky Staub</director>
+	</directors>
+	<composers>
+		<composer> Kevin Matley</composer>
+	</composers>
+	<producers>
+		<producer> Jason Barhydt</producer>
+		<producer> Emma Brown</producer>
+		<producer> Lorraine Burgess</producer>
+		<producer> Alastair Burlingham</producer>
+		<producer> Jennifer Corey</producer>
+		<producer> Lee Daniels</producer>
+		<producer> Idris Elba</producer>
+		<producer> Ana Garanito</producer>
+		<producer> Gregoire Gensollen</producer>
+		<producer> Staci Hagenbaugh</producer>
+		<producer> Tegan Jones</producer>
+		<producer> Jennifer Madeloff</producer>
+		<producer> Sam Mercer</producer>
+		<producer> G. Neri</producer>
+		<producer> Gary Raskin</producer>
+		<producer> Greg Renker</producer>
+		<producer> Tucker Tooley</producer>
+		<producer> Dan Walser</producer>
+		<producer> Jeff G. Waxman</producer>
+	</producers>
+	<writers>
+		<writer> G. Neri</writer>
+		<writer> Ricky Staub</writer>
+		<writer> Dan Walser</writer>
+	</writers>
+	<editors>
+		<editor> Luke Ciarrocchi</editor>
+	</editors>
+</doc>

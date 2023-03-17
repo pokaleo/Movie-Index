@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<doc id="tt13273172">
+	<docid>tt13273172</docid>
+	<title>Pawn</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzEzYjU5N2QtMjUzYS00MmMzLWJkYzAtNjNhMWIzZWZiM2RkXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">113</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>A human drama about a man who would do anything for money becoming friends with a child who is then taken hostage.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Dong-il Sung</actor>
+			<role>Park Doo-Suk</role>
+		</credit>
+		<credit>
+			<actor>Kim Hee-won</actor>
+			<role>Jong Bae</role>
+		</credit>
+		<credit>
+			<actor>Ha Ji-Won</actor>
+			<role>Lee Seung-Yi - Adult</role>
+		</credit>
+		<credit>
+			<actor>So-yi Park</actor>
+			<role>Lee Seung-Yi - Young</role>
+		</credit>
+		<credit>
+			<actor>Hong Seung-hee</actor>
+			<role>Lee Seung-Yi - Teen</role>
+		</credit>
+		<credit>
+			<actor>Yunjin Kim</actor>
+			<role>Kang Ming-Ja</role>
+		</credit>
+		<credit>
+			<actor>Moon-hee Na</actor>
+			<role>Grandma</role>
+		</credit>
+		<credit>
+			<actor>Yoon Jong-goo</actor>
+			<role>Factory Manager</role>
+		</credit>
+		<credit>
+			<actor>Eun-yeong Park</actor>
+			<role>Soup Restaurant Owner</role>
+		</credit>
+		<credit>
+			<actor>Yoo Seong-ju</actor>
+			<role>Choi Man-Sik</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">September 29 2020</releasedate>
+		<releasedate country="Taiwan">October 8 2020</releasedate>
+		<releasedate country="Vietnam">October 9 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Dae-gyu Kang</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Gyeong-Sam Yuk</producer>
+	</producers>
+	<writers>
+		<writer> Jang-Hoon Lee</writer>
+		<writer> Ju-Yeon Son</writer>
+	</writers>
+	<editors/>
+</doc>

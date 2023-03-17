@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<doc id="tt11220408">
+	<docid>tt11220408</docid>
+	<title>The Deal</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTI2MTg5Mzc2Nl5BMl5BanBnXkFtZTcwMzI3NTY1Mg@@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>IV 2022</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A mother fights to save the life of her ailing daughter after an unprecedented pandemic ravaged the planet, leaving resources so scarce you must pay for them with your life.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lisa Brenner</actor>
+			<role>Yuko Ito</role>
+		</credit>
+		<credit>
+			<actor>Emma Fischer</actor>
+			<role>Analyn Bayani</role>
+		</credit>
+		<credit>
+			<actor>Alastair Mackenzie</actor>
+			<role>Michael</role>
+		</credit>
+		<credit>
+			<actor>Pearl Mackie</actor>
+			<role>Kabira</role>
+		</credit>
+		<credit>
+			<actor>Sumalee Montano</actor>
+			<role>Tala Bayani</role>
+		</credit>
+		<credit>
+			<actor>Taz Skylar</actor>
+			<role>Gin</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">May 21 2022</releasedate>
+		<releasedate country="Germany">April 27 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Orsi Nagypal</director>
+	</directors>
+	<composers>
+		<composer> Nemanja Mosurovic</composer>
+	</composers>
+	<producers>
+		<producer> Lisa Brenner</producer>
+		<producer> Dean Devlin</producer>
+		<producer> Jonathan English</producer>
+		<producer> Grace Lay</producer>
+		<producer> Steven A. Lee</producer>
+		<producer> Sumalee Montano</producer>
+		<producer> Rachel Olschan</producer>
+		<producer> Marc Roskin</producer>
+	</producers>
+	<writers>
+		<writer> Sean Presant</writer>
+	</writers>
+	<editors>
+		<editor> Brian Gonosey</editor>
+		<editor> Wanda Kiss</editor>
+	</editors>
+</doc>

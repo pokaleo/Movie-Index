@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<doc id="tt3579018">
+	<docid>tt3579018</docid>
+	<title>Emerald City</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTA1MjYyMjY2MTZeQTJeQWpwZ15BbWU4MDg0NzQwMTcx._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>A modern reimagining of the stories that led to 'The Wizard of Oz'.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Adria Arjona</actor>
+			<role>Dorothy Gale</role>
+		</credit>
+		<credit>
+			<actor>Oliver Jackson-Cohen</actor>
+			<role>Lucas</role>
+		</credit>
+		<credit>
+			<actor>Ana Ularu</actor>
+			<role>West</role>
+		</credit>
+		<credit>
+			<actor>Gerran Howell</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Jordan Loughran</actor>
+			<role>Tip</role>
+		</credit>
+		<credit>
+			<actor>Vincent D'Onofrio</actor>
+			<role>The Wizard</role>
+		</credit>
+		<credit>
+			<actor>Mido Hamada</actor>
+			<role>Eamonn</role>
+		</credit>
+		<credit>
+			<actor>Isabel Lucas</actor>
+			<role>Anna</role>
+		</credit>
+		<credit>
+			<actor>Joely Richardson</actor>
+			<role>Glinda</role>
+		</credit>
+		<credit>
+			<actor>Ólafur Darri Ólafsson</actor>
+			<role>Ojo</role>
+		</credit>
+		<credit>
+			<actor>Roxy Sternberg</actor>
+			<role>Elizabeth</role>
+		</credit>
+		<credit>
+			<actor>Vahid Gold</actor>
+			<role>Toby</role>
+		</credit>
+		<credit>
+			<actor>Stefanie Martini</actor>
+			<role>Lady Ev</role>
+		</credit>
+		<credit>
+			<actor>Rebeka Rea</actor>
+			<role>Sylvie</role>
+		</credit>
+		<credit>
+			<actor>Gina McKee</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Gina Bellman</actor>
+			<role>Karen</role>
+		</credit>
+		<credit>
+			<actor>Stewart Scudamore</actor>
+			<role>Hugh</role>
+		</credit>
+		<credit>
+			<actor>Julian Bleach</actor>
+			<role>Roquat</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Poland">January 6 2017</releasedate>
+		<releasedate country="Turkey">January 6 2017</releasedate>
+		<releasedate country="United States">January 6 2017</releasedate>
+		<releasedate country="United Kingdom">February 8 2017</releasedate>
+		<releasedate country="Canada">May 22 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Italy">VM18</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fairy tale fantasy</keyword>
+		<keyword>epic fantasy</keyword>
+		<keyword>portal fantasy</keyword>
+		<keyword>fairy tale</keyword>
+		<keyword>heroic fantasy</keyword>
+		<keyword>oz</keyword>
+		<keyword>tornado</keyword>
+		<keyword>wizard</keyword>
+		<keyword>emerald city</keyword>
+		<keyword>witch</keyword>
+		<keyword>religion</keyword>
+		<keyword>sword and fantasy</keyword>
+		<keyword>witchcraft</keyword>
+		<keyword>wizardry</keyword>
+		<keyword>magician's assistant</keyword>
+		<keyword>castle</keyword>
+		<keyword>evil witch</keyword>
+		<keyword>escape</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>magic wand</keyword>
+		<keyword>hope</keyword>
+		<keyword>magic</keyword>
+		<keyword>magician</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>dorothy gale character</keyword>
+	</keywords>
+	<directors>
+		<director> Tarsem Singh</director>
+	</directors>
+	<composers>
+		<composer> Trevor Morris</composer>
+	</composers>
+	<producers>
+		<producer> Matthew Arnold</producer>
+		<producer> Tracy Bellomo</producer>
+		<producer> Shaun Cassidy</producer>
+		<producer> Josh Friedman</producer>
+		<producer> Thomas M. Horton</producer>
+		<producer> Tony Roman</producer>
+		<producer> David Schulner</producer>
+		<producer> Tarsem Singh</producer>
+		<producer> Nico Soultanakis</producer>
+		<producer> Stuart Sutherland</producer>
+		<producer> Chris Thompson</producer>
+		<producer> Tommy Turtle</producer>
+		<producer> Peter Welter Soler</producer>
+		<producer> Erika Milutin</producer>
+		<producer> Robert Bernacchi</producer>
+		<producer> James Middleton</producer>
+	</producers>
+	<writers>
+		<writer> Matthew Arnold</writer>
+		<writer> Matthew Arnold</writer>
+		<writer> Matthew Arnold</writer>
+		<writer> L. Frank Baum</writer>
+		<writer> L. Frank Baum</writer>
+		<writer> Josh Friedman</writer>
+		<writer> Josh Friedman</writer>
+		<writer> Josh Friedman</writer>
+		<writer> Jenn Kao</writer>
+		<writer> David Schulner</writer>
+		<writer> David Schulner</writer>
+		<writer> Tracy Bellomo</writer>
+		<writer> Shaun Cassidy</writer>
+		<writer> Shaun Cassidy</writer>
+		<writer> Justin Doble</writer>
+		<writer> Justin Doble</writer>
+		<writer> Nichole Beattie</writer>
+		<writer> Joshua Carlebach</writer>
+		<writer> Kelly Sue DeConnick</writer>
+		<writer> Leah Fong</writer>
+		<writer> Sheri Holman</writer>
+		<writer> Naomi Iizuka</writer>
+		<writer> Halley Wegryn Gross</writer>
+	</writers>
+	<editors>
+		<editor> Terry Kelley</editor>
+		<editor> Chris Barwell</editor>
+		<editor> Chi Yoon Chung</editor>
+	</editors>
+</doc>

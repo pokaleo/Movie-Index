@@ -1,0 +1,255 @@
+<?xml version="1.0" ?>
+<doc id="tt1726839">
+	<docid>tt1726839</docid>
+	<title>The Looney Tunes Show</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTIyMDc2MzgtNjFhNC00NDczLWFhYjMtN2IwZjI0Y2RjYTQxXkEyXkFqcGdeQXVyMTIwMzAwODg5._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">23</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>An updated iteration of the classic Looney Tunes characters focusing on their satirical misadventures living in suburbia.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jeff Bergman</actor>
+			<role>Bugs Bunny</role>
+		</credit>
+		<credit>
+			<actor>Bob Bergen</actor>
+			<role>Porky Pig</role>
+		</credit>
+		<credit>
+			<actor>Fred Armisen</actor>
+			<role>Speedy Gonzales</role>
+		</credit>
+		<credit>
+			<actor>Kristen Wiig</actor>
+			<role>Lola</role>
+		</credit>
+		<credit>
+			<actor>Maurice LaMarche</actor>
+			<role>Yosemite Sam</role>
+		</credit>
+		<credit>
+			<actor>Damon Jones</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Kwesi Boakye</actor>
+			<role>Gossamer</role>
+		</credit>
+		<credit>
+			<actor>Hugh Davidson</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Rachel Ramras</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Jess Harnell</actor>
+			<role>Tosh Gopher</role>
+		</credit>
+		<credit>
+			<actor>Grey Griffin</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Roz Ryan</actor>
+			<role>Witch Lezah</role>
+		</credit>
+		<credit>
+			<actor>June Foray</actor>
+			<role>Granny</role>
+		</credit>
+		<credit>
+			<actor>Rob Paulsen</actor>
+			<role>Mac Gopher</role>
+		</credit>
+		<credit>
+			<actor>Annie Mumolo</actor>
+			<role>Tina Russo Duck</role>
+		</credit>
+		<credit>
+			<actor>Billy West</actor>
+			<role>Elmer Fudd</role>
+		</credit>
+		<credit>
+			<actor>Garry Marshall</actor>
+			<role>Dr. Weisberg</role>
+		</credit>
+		<credit>
+			<actor>Jim Cummings</actor>
+			<role>Tasmanian Devil</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">2011</releasedate>
+		<releasedate country="India">2011</releasedate>
+		<releasedate country="Italy">2011</releasedate>
+		<releasedate country="Mexico">2011</releasedate>
+		<releasedate country="Canada">May 3 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="New Zealand">G</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="South Korea">7</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>love triangle</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>reboot</keyword>
+		<keyword>looney tunes</keyword>
+		<keyword>monster</keyword>
+		<keyword>martian</keyword>
+		<keyword>part computer animation</keyword>
+		<keyword>newsman</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>pizzeria</keyword>
+		<keyword>witch</keyword>
+		<keyword>cult tv</keyword>
+		<keyword>bugs bunny character</keyword>
+		<keyword>four word series title</keyword>
+		<keyword>gossamer the tennis shoe monster character</keyword>
+		<keyword>daffy duck character</keyword>
+		<keyword>lola bunny character</keyword>
+		<keyword>goofy gophers characters</keyword>
+		<keyword>porky pig character</keyword>
+		<keyword>foghorn leghorn character</keyword>
+		<keyword>sylvester the cat character</keyword>
+		<keyword>tweety bird character</keyword>
+		<keyword>pepe le pew character</keyword>
+		<keyword>speedy gonzales character</keyword>
+		<keyword>yosemite sam character</keyword>
+		<keyword>pete puma character</keyword>
+		<keyword>marvin the martian character</keyword>
+		<keyword>elmer fudd character</keyword>
+		<keyword>granny character</keyword>
+		<keyword>witch lezah character</keyword>
+		<keyword>wile e. coyote character</keyword>
+		<keyword>road runner character</keyword>
+		<keyword>2d animation</keyword>
+		<keyword>suburban life</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>flash animation</keyword>
+		<keyword>suburbia</keyword>
+		<keyword>old woman</keyword>
+		<keyword>canary</keyword>
+		<keyword>cat</keyword>
+		<keyword>coyote</keyword>
+		<keyword>dog</keyword>
+		<keyword>duck</keyword>
+		<keyword>gopher</keyword>
+		<keyword>mouse</keyword>
+		<keyword>pig</keyword>
+		<keyword>puma</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>roadrunner</keyword>
+		<keyword>rooster</keyword>
+		<keyword>skunk</keyword>
+		<keyword>tasmanian devil</keyword>
+		<keyword>taz the tasmanian devil character</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>suburb</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>sitcom</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>friendship</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>spin off</keyword>
+		<keyword>cult favorite</keyword>
+	</keywords>
+	<directors>
+		<director> Jeff Siergey</director>
+		<director> Spike Brandt</director>
+		<director> Tony Cervone</director>
+		<director> Seth Kearsley</director>
+		<director> Ethan Spaulding</director>
+		<director> Keith Baxter</director>
+		<director> Matt Danner</director>
+		<director> Swinton O. Scott III</director>
+		<director> Mauricio Pardo</director>
+		<director> Chris Headrick</director>
+	</directors>
+	<composers>
+		<composer> Andy Sturmer</composer>
+		<composer> Jason Brandt</composer>
+	</composers>
+	<producers>
+		<producer> Spike Brandt</producer>
+		<producer> Tony Cervone</producer>
+		<producer> Sam Register</producer>
+		<producer> Wade Wisinski</producer>
+		<producer> Matt Danner</producer>
+		<producer> Hugh Davidson</producer>
+		<producer> Rachel Ramras</producer>
+		<producer> Haven Alexander</producer>
+		<producer> Jonathon Tinsay</producer>
+		<producer> Orlando Verde</producer>
+	</producers>
+	<writers>
+		<writer> Tex Avery</writer>
+		<writer> Mark Banker</writer>
+		<writer> Steve Borst</writer>
+		<writer> Jim Cashman</writer>
+		<writer> Robert Clampett</writer>
+		<writer> Hugh Davidson</writer>
+		<writer> Hugh Davidson</writer>
+		<writer> Pat Devine</writer>
+		<writer> Larry Dorf</writer>
+		<writer> Larry Dorf</writer>
+		<writer> Ben Falcone</writer>
+		<writer> Friz Freleng</writer>
+		<writer> Ben Hardaway</writer>
+		<writer> Chuck Jones</writer>
+		<writer> Seth Kearsley</writer>
+		<writer> Seth Kearsley</writer>
+		<writer> Doug Langdale</writer>
+		<writer> Steve Mallory</writer>
+		<writer> Robert McKimson</writer>
+		<writer> Tedd Pierce</writer>
+		<writer> Hawley Pratt</writer>
+		<writer> Rachel Ramras</writer>
+		<writer> Rachel Ramras</writer>
+		<writer> Paul Rugg</writer>
+	</writers>
+	<editors>
+		<editor> Craig Paulsen</editor>
+	</editors>
+</doc>

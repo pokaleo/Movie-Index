@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<doc id="tt2727600">
+	<docid>tt2727600</docid>
+	<title>Mixology</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZmZjNGFjYmUtNmI5MS00MDQxLTgyNjQtY2E3MzRlNDg4YWUyXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">21</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>Chronicles the exploits of singles, five guys and five girls, in search of love all over the course of one night.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Adam Campbell</actor>
+			<role>Ron</role>
+		</credit>
+		<credit>
+			<actor>Adan Canto</actor>
+			<role>Dominic</role>
+		</credit>
+		<credit>
+			<actor>Alexis Carra</actor>
+			<role>Jessica</role>
+		</credit>
+		<credit>
+			<actor>Craig Frank</actor>
+			<role>Cal</role>
+		</credit>
+		<credit>
+			<actor>Ginger Gonzaga</actor>
+			<role>Maya</role>
+		</credit>
+		<credit>
+			<actor>Blake Lee</actor>
+			<role>Tom</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Lengies</actor>
+			<role>Kacey</role>
+		</credit>
+		<credit>
+			<actor>Andrew Santino</actor>
+			<role>Bruce</role>
+		</credit>
+		<credit>
+			<actor>Kate Simses</actor>
+			<role>Liv</role>
+		</credit>
+		<credit>
+			<actor>Frankie Shaw</actor>
+			<role>Fabienne</role>
+		</credit>
+		<credit>
+			<actor>Sarah Wright</actor>
+			<role>Laura</role>
+		</credit>
+		<credit>
+			<actor>David Clayton Rogers</actor>
+			<role>Jim</role>
+		</credit>
+		<credit>
+			<actor>Drew Leger</actor>
+			<role>Bartender</role>
+		</credit>
+		<credit>
+			<actor>Kaitlin Doubleday</actor>
+			<role>Trista</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Spencer</actor>
+			<role>Carl</role>
+		</credit>
+		<credit>
+			<actor>Becky T. Bordo</actor>
+			<role>Ethyl</role>
+		</credit>
+		<credit>
+			<actor>Daniel Hall</actor>
+			<role>Tom's Dad</role>
+		</credit>
+		<credit>
+			<actor>Hugo Garcia</actor>
+			<role>Maya's Dad</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">2013</releasedate>
+		<releasedate country="Canada">February 26 2014</releasedate>
+		<releasedate country="United States">February 26 2014</releasedate>
+		<releasedate country="Portugal">April 12 2014</releasedate>
+		<releasedate country="Sweden">June 3 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>love</keyword>
+	</keywords>
+	<directors>
+		<director> Richie Keen</director>
+		<director> Michael McDonald</director>
+		<director> Larry Charles</director>
+		<director> Adam Davidson</director>
+		<director> Scott Ellis</director>
+		<director> John Fortenberry</director>
+		<director> Eyal Gordin</director>
+		<director> Alex Hardcastle</director>
+		<director> Elliot Hegarty</director>
+		<director> Jon Lucas</director>
+		<director> Scott Moore</director>
+		<director> Jeffrey Walker</director>
+	</directors>
+	<composers>
+		<composer> Griffin Anthony</composer>
+	</composers>
+	<producers>
+		<producer> Jon Lucas</producer>
+		<producer> Scott Moore</producer>
+		<producer> Denise Pleune</producer>
+		<producer> Ryan Seacrest</producer>
+		<producer> Adam Sher</producer>
+		<producer> Nina Wass</producer>
+		<producer> Gloria Calderón Kellett</producer>
+		<producer> Patricia Carr</producer>
+		<producer> Caroline James</producer>
+		<producer> Lara Olsen</producer>
+		<producer> Ira Ungerleider</producer>
+		<producer> Vali Chandrasekaran</producer>
+		<producer> John Enbom</producer>
+		<producer> Larry Charles</producer>
+		<producer> Bari Halle</producer>
+		<producer> Nick Pavonetti</producer>
+	</producers>
+	<writers>
+		<writer> Jon Lucas</writer>
+		<writer> Jon Lucas</writer>
+		<writer> Scott Moore</writer>
+		<writer> Scott Moore</writer>
+		<writer> John Blickstead</writer>
+		<writer> John Blickstead</writer>
+		<writer> Trey Kollmer</writer>
+		<writer> Trey Kollmer</writer>
+		<writer> Gloria Calderón Kellett</writer>
+		<writer> Aeysha Carr</writer>
+		<writer> Patricia Carr</writer>
+		<writer> Vali Chandrasekaran</writer>
+		<writer> Matt Donnelly</writer>
+		<writer> John Enbom</writer>
+		<writer> Dave Horwitz</writer>
+		<writer> Jared Miller</writer>
+		<writer> Lara Olsen</writer>
+		<writer> Marisa Pinson</writer>
+		<writer> Ira Ungerleider</writer>
+	</writers>
+	<editors>
+		<editor> Skip Collector</editor>
+		<editor> Lance Luckey</editor>
+		<editor> Jonathan Schwartz</editor>
+	</editors>
+</doc>

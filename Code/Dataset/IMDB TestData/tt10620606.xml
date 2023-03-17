@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt10620606">
+	<docid>tt10620606</docid>
+	<title>The Now</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNGY5ZTk0ZDQtOTZiMC00MTZkLWJkNTktYWFkZjkwNDllZWZhXkEyXkFqcGdeQXVyMTE0MDM3ODE4._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">10</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A man decides to turn his life around after learning that he is the third member of his immediate family to be suicidal.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dave Franco</actor>
+			<role>Ed Poole</role>
+		</credit>
+		<credit>
+			<actor>Daryl Hannah</actor>
+			<role>Maxine Poole</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Tatro</actor>
+			<role>Hal</role>
+		</credit>
+		<credit>
+			<actor>O'Shea Jackson Jr.</actor>
+			<role>Coop</role>
+		</credit>
+		<credit>
+			<actor>Rob Yang</actor>
+			<role>Joon-Ho</role>
+		</credit>
+		<credit>
+			<actor>Bill Murray</actor>
+			<role>Dr. Robert Flaherty</role>
+		</credit>
+		<credit>
+			<actor>Lex Scott Davis</actor>
+			<role>Kendra</role>
+		</credit>
+		<credit>
+			<actor>Cooper Murray</actor>
+			<role>Mark</role>
+		</credit>
+		<credit>
+			<actor>Viv Leacock</actor>
+			<role>Joe</role>
+		</credit>
+		<credit>
+			<actor>Peter Kelamis</actor>
+			<role>Arthur</role>
+		</credit>
+		<credit>
+			<actor>Garry Chalk</actor>
+			<role>Roger</role>
+		</credit>
+		<credit>
+			<actor>Alyssa Milano</actor>
+			<role>Sarah</role>
+		</credit>
+		<credit>
+			<actor>Merritt Patterson</actor>
+			<role>April</role>
+		</credit>
+		<credit>
+			<actor>Paul Lazenby</actor>
+			<role>Thug #1</role>
+		</credit>
+		<credit>
+			<actor>Jacqueline Breakwell</actor>
+			<role>Roundup Waitress</role>
+		</credit>
+		<credit>
+			<actor>Mathias Retamal</actor>
+			<role>Thug #2</role>
+		</credit>
+		<credit>
+			<actor>Pete Davidson</actor>
+			<role>Hardware Employee</role>
+		</credit>
+		<credit>
+			<actor>Patrick Ryan</actor>
+			<role>Pizza Delivery Guy</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">December 10 2021</releasedate>
+		<releasedate country="United States">December 10 2021</releasedate>
+		<releasedate country="United States">December 10 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>suicide</keyword>
+		<keyword>suicide ideation</keyword>
+		<keyword>attempted suicide</keyword>
+		<keyword>multiple suicides</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>male friendship</keyword>
+		<keyword>suicide note</keyword>
+		<keyword>dysfunctional person</keyword>
+	</keywords>
+	<directors>
+		<director> Bobby Farrelly</director>
+		<director> Peter Farrelly</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Peter Farrelly</producer>
+		<producer> Pete Jones</producer>
+		<producer> Dawn Knight</producer>
+		<producer> Steve Leff</producer>
+		<producer> Greg Malone</producer>
+		<producer> Jeff Okin</producer>
+		<producer> Kami Putnam-Heist</producer>
+		<producer> J.B. Rogers</producer>
+		<producer> Mark Schimmel</producer>
+		<producer> Jonathan Schwartz</producer>
+		<producer> Darcy Wild</producer>
+		<producer> Jeffrey Katzenberg</producer>
+		<producer> Meg Whitman</producer>
+	</producers>
+	<writers>
+		<writer> Peter Farrelly</writer>
+		<writer> Peter Farrelly</writer>
+		<writer> Pete Jones</writer>
+		<writer> Pete Jones</writer>
+		<writer> Steve Leff</writer>
+		<writer> Steve Leff</writer>
+	</writers>
+	<editors>
+		<editor> Richard Schwadel</editor>
+	</editors>
+</doc>

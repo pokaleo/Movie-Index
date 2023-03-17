@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<doc id="tt11856246">
+	<docid>tt11856246</docid>
+	<title>Trom</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjE0YjQxMjgtNzk2OC00NjJhLWJmOTgtYjVjYjA2Yjg2MDUxXkEyXkFqcGdeQXVyMzI1NjI3NTc@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>After a missing animal rights activist is found amid a local whale hunt, journalist Hannis Martinsson risks his own skin on the trail of a spectacular story, sending shock waves through the isolated island community of the Faroes.</plot>
+	<countries>
+		<country>Denmark</country>
+	</countries>
+	<languages>
+		<language>Danish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ulrich Thomsen</actor>
+			<role>Hannis Martinsson</role>
+		</credit>
+		<credit>
+			<actor>Maria Rich</actor>
+			<role>Karla Mohr</role>
+		</credit>
+		<credit>
+			<actor>Olaf Johannessen</actor>
+			<role>Ragnar í Rong</role>
+		</credit>
+		<credit>
+			<actor>Mariann Hansen</actor>
+			<role>Anita Ravn</role>
+		</credit>
+		<credit>
+			<actor>Gunnvá Zachariasen</actor>
+			<role>Aurora á Heyggi</role>
+		</credit>
+		<credit>
+			<actor>Sissal Drews Hjaltalin</actor>
+			<role>Jenny Mikkelsen</role>
+		</credit>
+		<credit>
+			<actor>Búi Dam</actor>
+			<role>Mikkjal Mohr</role>
+		</credit>
+		<credit>
+			<actor>Magnus Reinert Gásadal</actor>
+			<role>Gunnar Mohr</role>
+		</credit>
+		<credit>
+			<actor>Michael Worthman</actor>
+			<role>Stewart Peters</role>
+		</credit>
+		<credit>
+			<actor>Hjálmar Dam</actor>
+			<role>Gísli Bjarnason</role>
+		</credit>
+		<credit>
+			<actor>Durita Dahl Andreassen</actor>
+			<role>Durita Thomsen</role>
+		</credit>
+		<credit>
+			<actor>Torkil Tórgarð</actor>
+			<role>Bergur Magnussen</role>
+		</credit>
+		<credit>
+			<actor>Hans Tórgarð</actor>
+			<role>Haraldur Martinsson</role>
+		</credit>
+		<credit>
+			<actor>Helena Heðinsdóttir</actor>
+			<role>Sonja á Heyggi</role>
+		</credit>
+		<credit>
+			<actor>Brandur Teitsson</actor>
+			<role>Trygvi í Rong</role>
+		</credit>
+		<credit>
+			<actor>Páll Danielsen</actor>
+			<role>Ódin Í Útistovu</role>
+		</credit>
+		<credit>
+			<actor>Dánjal á Neystabø</actor>
+			<role>Páll Hansen</role>
+		</credit>
+		<credit>
+			<actor>Ria Tórgarð</actor>
+			<role>Chief Medical Officer</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Denmark">February 13 2022</releasedate>
+		<releasedate country="Norway">February 13 2022</releasedate>
+		<releasedate country="Sweden">February 13 2022</releasedate>
+		<releasedate country="Faroe Islands">February 17 2022</releasedate>
+		<releasedate country="Australia">May 26 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Sweden">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>faroe islands</keyword>
+		<keyword>journalist</keyword>
+		<keyword>police</keyword>
+		<keyword>environmental activism</keyword>
+		<keyword>nordic noir</keyword>
+		<keyword>murder</keyword>
+		<keyword>corruption</keyword>
+		<keyword>one word title</keyword>
+	</keywords>
+	<directors>
+		<director> Peter Ahlén</director>
+		<director> Kasper Barfoed</director>
+		<director> Davíd Óskar Ólafsson</director>
+	</directors>
+	<composers>
+		<composer> Ólavur Jákupsson</composer>
+	</composers>
+	<producers>
+		<producer> Marlene Billie Andreasen</producer>
+		<producer> Helene Aurø</producer>
+		<producer> Uta Cappel</producer>
+		<producer> Rikke Ennis</producer>
+		<producer> Olaf Grunert</producer>
+		<producer> Jón Hammer</producer>
+		<producer> Torfinnur Jákupsson</producer>
+		<producer> Isabelle Lindberg Pechou</producer>
+		<producer> Camilla Rydbacken</producer>
+		<producer> Kristinn Thordarson</producer>
+		<producer> Elin Mjoll Thorhallsdottir</producer>
+		<producer> Filippa Wallestam</producer>
+		<producer> Leifur B. Dagfinnsson</producer>
+	</producers>
+	<writers>
+		<writer> Jógvan Isaksen</writer>
+		<writer> Torfinnur Jákupsson</writer>
+		<writer> Torfinnur Jákupsson</writer>
+		<writer> Torfinnur Jákupsson</writer>
+		<writer> Donna Sharpe</writer>
+	</writers>
+	<editors>
+		<editor> Guðlaugur Andri Eythórsson</editor>
+		<editor> Valdís Óskarsdóttir</editor>
+		<editor> Andri Steinn Guðjónsson</editor>
+	</editors>
+</doc>

@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<doc id="tt14168394">
+	<docid>tt14168394</docid>
+	<title>Agent Game</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjk0YjUyMzctMzc2Yi00Zjk0LThlMmUtOWIyMDJiMTFiYzAwXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A CIA officer finds himself the target of a rendition operation after being scapegoated for the death of an interrogation subject.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Dermot Mulroney</actor>
+			<role>Harris</role>
+		</credit>
+		<credit>
+			<actor>Adan Canto</actor>
+			<role>Kavinsky</role>
+		</credit>
+		<credit>
+			<actor>Katie Cassidy</actor>
+			<role>Miller</role>
+		</credit>
+		<credit>
+			<actor>Annie Ilonzeh</actor>
+			<role>Visser</role>
+		</credit>
+		<credit>
+			<actor>Rhys Coiro</actor>
+			<role>Reese</role>
+		</credit>
+		<credit>
+			<actor>Barkhad Abdi</actor>
+			<role>Omar</role>
+		</credit>
+		<credit>
+			<actor>Jason Isaacs</actor>
+			<role>Bill</role>
+		</credit>
+		<credit>
+			<actor>Mel Gibson</actor>
+			<role>Olsen</role>
+		</credit>
+		<credit>
+			<actor>Mark Weinhandl</actor>
+			<role>Manson</role>
+		</credit>
+		<credit>
+			<actor>Paul Burke</actor>
+			<role>Bundy</role>
+		</credit>
+		<credit>
+			<actor>Sara Areyano</actor>
+			<role>First Officer Martin</role>
+		</credit>
+		<credit>
+			<actor>Andrew Masset</actor>
+			<role>Captain Young</role>
+		</credit>
+		<credit>
+			<actor>Matt Riedy</actor>
+			<role>Deputy Director</role>
+		</credit>
+		<credit>
+			<actor>Blue Kimble</actor>
+			<role>Lieutenant Webber</role>
+		</credit>
+		<credit>
+			<actor>Michael Flippo</actor>
+			<role>The Puppet Master</role>
+		</credit>
+		<credit>
+			<actor>Gabby Kono</actor>
+			<role>Dana Harbor</role>
+		</credit>
+		<credit>
+			<actor>Luca De Massis</actor>
+			<role>Driver</role>
+		</credit>
+		<credit>
+			<actor>Nick DeKay</actor>
+			<role>Lead Special Op</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">April 8 2022</releasedate>
+		<releasedate country="Netherlands">May 23 2022</releasedate>
+		<releasedate country="India">May 24 2022</releasedate>
+		<releasedate country="Sweden">June 20 2022</releasedate>
+		<releasedate country="France">September 19 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>suspense</keyword>
+		<keyword>murder</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>investigation</keyword>
+		<keyword>antwerp belgium</keyword>
+		<keyword>reference to uber</keyword>
+		<keyword>black site</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>reference to colonel sanders</keyword>
+		<keyword>plane</keyword>
+		<keyword>kosovo</keyword>
+		<keyword>body bag</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>tv news</keyword>
+		<keyword>reference to al qaeda</keyword>
+		<keyword>f word</keyword>
+	</keywords>
+	<directors>
+		<director> Grant S. Johnson</director>
+	</directors>
+	<composers>
+		<composer> Kiley Norton</composer>
+	</composers>
+	<producers>
+		<producer> Shanan Becker</producer>
+		<producer> Bill Bromiley</producer>
+		<producer> Nicholas Erickson</producer>
+		<producer> Barbara Greaves</producer>
+		<producer> Madeleine Rudin Johnson</producer>
+		<producer> William Bruce Johnson</producer>
+		<producer> Tyler W. Konney</producer>
+		<producer> Emmett Loverde</producer>
+		<producer> Warren Ostergard</producer>
+		<producer> Thomas K Richards</producer>
+		<producer> Jonathan Saba</producer>
+		<producer> Ness Saban</producer>
+	</producers>
+	<writers>
+		<writer> Mike Langer</writer>
+		<writer> Tyler W. Konney</writer>
+	</writers>
+	<editors>
+		<editor> Charlie Porter</editor>
+	</editors>
+</doc>

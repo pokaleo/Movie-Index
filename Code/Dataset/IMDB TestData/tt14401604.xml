@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<doc id="tt14401604">
+	<docid>tt14401604</docid>
+	<title>Gutfeld!</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTJmNGI4YjUtMzI3Mi00ZWMzLTlkYTktZjFiYzE2YjU5ZWE2XkEyXkFqcGdeQXVyMTMwMTg1ODQw._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Talk-Show</genre>
+	</genres>
+	<plot>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Greg Gutfeld</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Katherine Timpf</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Tyrus</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Tom Shillue</actor>
+			<role>Joe Biden</role>
+		</credit>
+		<credit>
+			<actor>Gene Nelson</actor>
+			<role>Various</role>
+		</credit>
+		<credit>
+			<actor>Joe DeVito</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Joe Machi</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Emily Compagno</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Tom O'Connor</actor>
+			<role>Announcer</role>
+		</credit>
+		<credit>
+			<actor>Dagen McDowell</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Failla</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Jamie Lissow</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Andre Confuorto</actor>
+			<role>Hunter Biden</role>
+		</credit>
+		<credit>
+			<actor>Julie Banderas</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Johnny Jones</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Michael Loftus</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Dana Perino</actor>
+			<role>Self - Panelist</role>
+		</credit>
+		<credit>
+			<actor>Lisa Kennedy Montgomery</actor>
+			<role>Self - Panelist</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">April 5 2021</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>discussion</keyword>
+		<keyword>commentary</keyword>
+		<keyword>satire</keyword>
+		<keyword>late night</keyword>
+		<keyword>politics</keyword>
+		<keyword>late night talk show</keyword>
+		<keyword>politics talk show</keyword>
+		<keyword>satire comedy</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Weinstein</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Greg Gutfeld</producer>
+		<producer> Tom O'Connor</producer>
+		<producer> Gene Nelson</producer>
+		<producer> Emily Compagno</producer>
+		<producer> Katherine Timpf</producer>
+	</producers>
+	<writers>
+		<writer> Emily Compagno</writer>
+		<writer> Andre Confuorto</writer>
+		<writer> Joe DeVito</writer>
+		<writer> Greg Gutfeld</writer>
+		<writer> Gene Nelson</writer>
+		<writer> Katherine Timpf</writer>
+	</writers>
+	<editors/>
+</doc>

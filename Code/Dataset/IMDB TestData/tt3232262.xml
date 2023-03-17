@@ -1,0 +1,386 @@
+<?xml version="1.0" ?>
+<doc id="tt3232262">
+	<docid>tt3232262</docid>
+	<title>Sonic Boom</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjNkOWVhZmItMmE4Yi00MGNkLWI2YzQtOGRiNWFjNTEyMDFlXkEyXkFqcGdeQXVyOTcyNTkzOTA@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">11</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Short</genre>
+		<genre>Action</genre>
+	</genres>
+	<plot>23 years after the original Sonic the Hedgehog video game, fast, handsome, and arrogant hero Sonic continues to fight his arch nemesis, Dr. Eggman. Along with Tails, Knuckles, Amy, and a new recruit named Sticks.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Roger Craig Smith</actor>
+			<role>Sonic the Hedgehog</role>
+		</credit>
+		<credit>
+			<actor>Cindy Robinson</actor>
+			<role>Amy Rose</role>
+		</credit>
+		<credit>
+			<actor>Colleen O'Shaughnessey</actor>
+			<role>Miles 'Tails' Prower</role>
+		</credit>
+		<credit>
+			<actor>Travis Willingham</actor>
+			<role>Knuckles the Echidna</role>
+		</credit>
+		<credit>
+			<actor>Mike Pollock</actor>
+			<role>Dr. Eggman</role>
+		</credit>
+		<credit>
+			<actor>Nika Futterman</actor>
+			<role>Sticks the Badger</role>
+		</credit>
+		<credit>
+			<actor>Kirk Thornton</actor>
+			<role>Orbot</role>
+		</credit>
+		<credit>
+			<actor>Wally Wingert</actor>
+			<role>Cubot</role>
+		</credit>
+		<credit>
+			<actor>Johannes Oliver Hamm</actor>
+			<role>Dr. Ivo 'Eggman' Robotnik German</role>
+		</credit>
+		<credit>
+			<actor>Bill Freiberger</actor>
+			<role>Comedy Chimp</role>
+		</credit>
+		<credit>
+			<actor>Sébastien Desjours</actor>
+			<role>Knuckles the Echidna</role>
+		</credit>
+		<credit>
+			<actor>Alexandre Gillet</actor>
+			<role>Sonic the Hedgehog</role>
+		</credit>
+		<credit>
+			<actor>Gilbert Lévy</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Marie-Eugénie Maréchal</actor>
+			<role>Miles 'Tails' Prower</role>
+		</credit>
+		<credit>
+			<actor>Marc Bretonnière</actor>
+			<role>Dr. Ivo 'Eggman' Robotnik</role>
+		</credit>
+		<credit>
+			<actor>Tony Marot</actor>
+			<role>Orbot</role>
+		</credit>
+		<credit>
+			<actor>Antoine Nouel</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Naike Fauveau</actor>
+			<role>Amy Rose</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">November 8 2014</releasedate>
+		<releasedate country="France">November 19 2014</releasedate>
+		<releasedate country="Mexico">June 5 2015</releasedate>
+		<releasedate country="Brazil">July 5 2015</releasedate>
+		<releasedate country="Japan">July 23 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="France">Tous Public</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Portugal">T</certificate>
+		<certificate country="Russia">0+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+		<certificate country="United Arab Emirates">G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>body switching</keyword>
+		<keyword>anthropomorphic fox</keyword>
+		<keyword>echidna</keyword>
+		<keyword>anthropomorphic badger</keyword>
+		<keyword>island</keyword>
+		<keyword>sky city</keyword>
+		<keyword>jungle</keyword>
+		<keyword>jungle girl</keyword>
+		<keyword>boomerang</keyword>
+		<keyword>hammer</keyword>
+		<keyword>mech suit</keyword>
+		<keyword>robot dog</keyword>
+		<keyword>gala</keyword>
+		<keyword>circus</keyword>
+		<keyword>meteor</keyword>
+		<keyword>rock monster</keyword>
+		<keyword>temple</keyword>
+		<keyword>boy band</keyword>
+		<keyword>library</keyword>
+		<keyword>moose</keyword>
+		<keyword>alternate dimension</keyword>
+		<keyword>hot dog</keyword>
+		<keyword>frog</keyword>
+		<keyword>mayor</keyword>
+		<keyword>movie making</keyword>
+		<keyword>robot battle</keyword>
+		<keyword>platypus</keyword>
+		<keyword>village</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>beach volley</keyword>
+		<keyword>scarf</keyword>
+		<keyword>self replication</keyword>
+		<keyword>evil scientist</keyword>
+		<keyword>robot bee</keyword>
+		<keyword>road trip</keyword>
+		<keyword>bowling</keyword>
+		<keyword>anti gravity boots</keyword>
+		<keyword>race car</keyword>
+		<keyword>detective</keyword>
+		<keyword>anti gravity</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>robot cow</keyword>
+		<keyword>tomato soup</keyword>
+		<keyword>cave</keyword>
+		<keyword>hamburger</keyword>
+		<keyword>food court</keyword>
+		<keyword>force field</keyword>
+		<keyword>robot crab</keyword>
+		<keyword>ice</keyword>
+		<keyword>burger</keyword>
+		<keyword>babysitter</keyword>
+		<keyword>burrow</keyword>
+		<keyword>television reporter</keyword>
+		<keyword>desert</keyword>
+		<keyword>ring master</keyword>
+		<keyword>fennec fox</keyword>
+		<keyword>robot animal</keyword>
+		<keyword>walrus</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>new year's eve party</keyword>
+		<keyword>diving suit</keyword>
+		<keyword>redesign</keyword>
+		<keyword>volley</keyword>
+		<keyword>red sneakers</keyword>
+		<keyword>mustache</keyword>
+		<keyword>anthropomorphic hedgehog</keyword>
+		<keyword>anthropomorphic beaver</keyword>
+		<keyword>rock band</keyword>
+		<keyword>energy whip</keyword>
+		<keyword>crystal</keyword>
+		<keyword>gravity</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>plane</keyword>
+		<keyword>babysitting</keyword>
+		<keyword>goggles</keyword>
+		<keyword>anthropomorphic animal as protagonist</keyword>
+		<keyword>hammock</keyword>
+		<keyword>underwater battle</keyword>
+		<keyword>fear of water</keyword>
+		<keyword>can't swim</keyword>
+		<keyword>body swap</keyword>
+		<keyword>flying animal</keyword>
+		<keyword>tapir</keyword>
+		<keyword>anthropomorphic platypus</keyword>
+		<keyword>animal hero</keyword>
+		<keyword>anthropomorphic eagle</keyword>
+		<keyword>purple stockings</keyword>
+		<keyword>cuff</keyword>
+		<keyword>anthropomorphic frog</keyword>
+		<keyword>fat boy</keyword>
+		<keyword>sonic the hedgehog character</keyword>
+		<keyword>workshop</keyword>
+		<keyword>mechanic</keyword>
+		<keyword>alternate self</keyword>
+		<keyword>hero</keyword>
+		<keyword>aquaphobia</keyword>
+		<keyword>spiked hair</keyword>
+		<keyword>fish</keyword>
+		<keyword>canyon</keyword>
+		<keyword>animal superhero</keyword>
+		<keyword>diving</keyword>
+		<keyword>sidekick</keyword>
+		<keyword>astronaut jumpsuit</keyword>
+		<keyword>chili dog</keyword>
+		<keyword>bandage</keyword>
+		<keyword>wetsuit</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>red headband</keyword>
+		<keyword>headband</keyword>
+		<keyword>bandicoot</keyword>
+		<keyword>twin girls</keyword>
+		<keyword>twins</keyword>
+		<keyword>hero with spikey hair</keyword>
+		<keyword>pink haired female</keyword>
+		<keyword>sneakers</keyword>
+		<keyword>white gloves</keyword>
+		<keyword>pink hair</keyword>
+		<keyword>pink haired girl</keyword>
+		<keyword>crocodile</keyword>
+		<keyword>flower costume</keyword>
+		<keyword>sunflower costume</keyword>
+		<keyword>tree costume</keyword>
+		<keyword>robot clone</keyword>
+		<keyword>nutria</keyword>
+		<keyword>rodent</keyword>
+		<keyword>sega</keyword>
+		<keyword>hedgehog</keyword>
+		<keyword>blue animal</keyword>
+		<keyword>blue fur</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>anthropomorphic echidna</keyword>
+		<keyword>supersonic speed</keyword>
+		<keyword>speed</keyword>
+		<keyword>running</keyword>
+		<keyword>super speed</keyword>
+		<keyword>animal character name in title</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>year 2014</keyword>
+		<keyword>knuckles the echidna character</keyword>
+		<keyword>amy rose character</keyword>
+		<keyword>bob cut hairstyle</keyword>
+		<keyword>miles 'tails' prower character</keyword>
+		<keyword>dr. ivo 'eggman' robotnik character</keyword>
+		<keyword>superhero</keyword>
+		<keyword>athletic tape</keyword>
+		<keyword>sports tape</keyword>
+		<keyword>athletic taping</keyword>
+		<keyword>sports taping</keyword>
+		<keyword>neckerchief</keyword>
+		<keyword>stockings</keyword>
+		<keyword>road trip comedy</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>anthropomorphic hippopotamus</keyword>
+		<keyword>hippopotamus</keyword>
+		<keyword>hammer as weapon</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>villain</keyword>
+		<keyword>robot</keyword>
+		<keyword>super villain</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>based on video game</keyword>
+		<keyword>furry</keyword>
+		<keyword>sonic the hedgehog</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Natalys Raut Sieuzac</director>
+	</directors>
+	<composers>
+		<composer> Michael Richard Plowman</composer>
+	</composers>
+	<producers>
+		<producer> Bill Freiberger</producer>
+		<producer> Nayanshi Shaw</producer>
+		<producer> Evan Baily</producer>
+		<producer> Yvette Kaplan</producer>
+		<producer> Donna Friedman</producer>
+		<producer> Boris Hertzog</producer>
+		<producer> Jane McGregor</producer>
+		<producer> Sandrine Nguyen</producer>
+		<producer> Malinda Hee</producer>
+	</producers>
+	<writers>
+		<writer> Alan Denton</writer>
+		<writer> Alan Denton</writer>
+		<writer> Alan Denton</writer>
+		<writer> Alan Denton</writer>
+		<writer> Greg Hahn</writer>
+		<writer> Greg Hahn</writer>
+		<writer> Greg Hahn</writer>
+		<writer> Greg Hahn</writer>
+		<writer> Reid Harrison</writer>
+		<writer> Reid Harrison</writer>
+		<writer> Benoit Grenier</writer>
+		<writer> Benoit Grenier</writer>
+		<writer> Benoit Grenier</writer>
+		<writer> Natalys Raut Sieuzac</writer>
+		<writer> Natalys Raut Sieuzac</writer>
+		<writer> Sam Freiberger</writer>
+		<writer> Sam Freiberger</writer>
+		<writer> Sam Freiberger</writer>
+		<writer> Doug Lieblich</writer>
+		<writer> Doug Lieblich</writer>
+		<writer> Doug Lieblich</writer>
+		<writer> Bill Freiberger</writer>
+		<writer> Jean-Christophe Derrien</writer>
+		<writer> Jean-Christophe Derrien</writer>
+		<writer> Joelle Sellner</writer>
+		<writer> Joelle Sellner</writer>
+		<writer> Joelle Sellner</writer>
+		<writer> Romain van Liemt</writer>
+		<writer> Romain van Liemt</writer>
+		<writer> Mark Banker</writer>
+		<writer> Mark Banker</writer>
+		<writer> Mark Banker</writer>
+		<writer> Marie Beardmore</writer>
+		<writer> Marie Beardmore</writer>
+		<writer> Cedric Lachenaud</writer>
+		<writer> Cedric Lachenaud</writer>
+		<writer> Marine Lachenaud</writer>
+		<writer> Marine Lachenaud</writer>
+		<writer> Peter H. Saisselin</writer>
+		<writer> Freddie Gutierrez</writer>
+		<writer> Dave Polsky</writer>
+		<writer> Eric Trueheart</writer>
+		<writer> Charles-Henri Moarbes</writer>
+		<writer> Charles-Henri Moarbes</writer>
+		<writer> Ian Flynn</writer>
+		<writer> Tim Maile</writer>
+		<writer> Dan Milano</writer>
+		<writer> Douglas Tuber</writer>
+		<writer> Adam Beechen</writer>
+		<writer> Tom Pugsley</writer>
+		<writer> Tom Pugsley</writer>
+		<writer> Mitch Watson</writer>
+		<writer> Thomas Barichella</writer>
+		<writer> Phaea Crede</writer>
+		<writer> Phaea Crede</writer>
+		<writer> Justin Shatraw</writer>
+		<writer> Justin Shatraw</writer>
+		<writer> Paul Shriver</writer>
+		<writer> Francoise Alexander</writer>
+		<writer> Anne Baraou</writer>
+		<writer> Kevin Burke</writer>
+		<writer> Jake James</writer>
+		<writer> Sandrine Joly</writer>
+		<writer> Cindy Robinson</writer>
+		<writer> Evan Stanley</writer>
+		<writer> Chris Wyatt</writer>
+		<writer> Evan Baily</writer>
+		<writer> Donna Friedman</writer>
+		<writer> Sandrine Nguyen</writer>
+	</writers>
+	<editors/>
+</doc>

@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<doc id="tt13308276">
+	<docid>tt13308276</docid>
+	<title>Heirs to the Land</title>
+	<image>https://m.media-amazon.com/images/M/MV5BN2JiY2M0N2QtMTAwNi00NjY0LTk5MzEtY2RkMzAwNGNhNDA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Resourceful young Hugo Llor works to make a name for himself in 14th-century Barcelona while keeping a vow he made to the Estanyol family.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Yon González</actor>
+			<role>Hugo Llor</role>
+		</credit>
+		<credit>
+			<actor>Elena Rivera</actor>
+			<role>Caterina Llor</role>
+		</credit>
+		<credit>
+			<actor>Jesús Carroza</actor>
+			<role>Guerao</role>
+		</credit>
+		<credit>
+			<actor>Rodolfo Sancho</actor>
+			<role>Bernat Estanyol</role>
+		</credit>
+		<credit>
+			<actor>Maria Rodríguez Soto</actor>
+			<role>Regina</role>
+		</credit>
+		<credit>
+			<actor>Bruna Cusí</actor>
+			<role>Arsenda</role>
+		</credit>
+		<credit>
+			<actor>Juli Fàbregas</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Aria Bedmar</actor>
+			<role>Mercè</role>
+		</credit>
+		<credit>
+			<actor>Mercedes León</actor>
+			<role>Barcha</role>
+		</credit>
+		<credit>
+			<actor>Manel Sans</actor>
+			<role>Mateo</role>
+		</credit>
+		<credit>
+			<actor>Nancho Novo</actor>
+			<role>Jucef Crescas</role>
+		</credit>
+		<credit>
+			<actor>Jordi Banacolocha</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>David Solans</actor>
+			<role>Hugo Llor joven</role>
+		</credit>
+		<credit>
+			<actor>Pere Arquillué</actor>
+			<role>Roger Puig</role>
+		</credit>
+		<credit>
+			<actor>Pol López</actor>
+			<role>Perro Calvo</role>
+		</credit>
+		<credit>
+			<actor>Pedro Casablanc</actor>
+			<role>Galceran Destorrent</role>
+		</credit>
+		<credit>
+			<actor>Sergi Mateu</actor>
+			<role>Obispo</role>
+		</credit>
+		<credit>
+			<actor>Natalia Sánchez</actor>
+			<role>Marta Destorrent</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">April 15 2022</releasedate>
+		<releasedate country="Australia">April 15 2022</releasedate>
+		<releasedate country="Brazil">April 15 2022</releasedate>
+		<releasedate country="Canada">April 15 2022</releasedate>
+		<releasedate country="Germany">April 15 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">Youth not allowed</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>14th century</keyword>
+		<keyword>1380s</keyword>
+		<keyword>fate</keyword>
+		<keyword>teenager</keyword>
+		<keyword>dream</keyword>
+		<keyword>barcelona spain</keyword>
+		<keyword>life</keyword>
+		<keyword>medieval times</keyword>
+		<keyword>catalonian historical setting</keyword>
+		<keyword>european historical setting</keyword>
+		<keyword>spanish historical setting</keyword>
+		<keyword>period piece</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Jordi Frades</director>
+	</directors>
+	<composers>
+		<composer> Federico Jusid</composer>
+	</composers>
+	<producers>
+		<producer> Jaume Banacolocha</producer>
+		<producer> Ana del Hoyo</producer>
+		<producer> Jordi Frades</producer>
+		<producer> Montse García</producer>
+		<producer> Conxa Orea</producer>
+		<producer> Ángel Ossorio</producer>
+		<producer> Albert Sagalés</producer>
+		<producer> Oriol Sala-Patau</producer>
+	</producers>
+	<writers>
+		<writer> Sergio Barrejón</writer>
+		<writer> Ildefonso Falcones</writer>
+		<writer> Miriam García Montero</writer>
+		<writer> Antonio Onetti</writer>
+		<writer> Rodolf Sirera</writer>
+		<writer> Rodolf Sirera</writer>
+		<writer> Rodolf Sirera</writer>
+		<writer> Macu Tejera Osuna</writer>
+	</writers>
+	<editors>
+		<editor> Frank Gutiérrez</editor>
+	</editors>
+</doc>

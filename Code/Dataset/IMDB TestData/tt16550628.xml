@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<doc id="tt16550628">
+	<docid>tt16550628</docid>
+	<title>Chebi: My Fluffy Friend</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjRkZTMwYTktODdjYi00MDMzLTg1MWItNzRmYzMyYzdhYTg1XkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2023</year>
+	<runningtimes>
+		<runningtime country="default">113</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>What if Cheburashka really exists? What if he is not a plush toy, but quite a real furry animal that lives in an orange grove in a distant country?</plot>
+	<countries>
+		<country>Russia</country>
+	</countries>
+	<languages>
+		<language>Russian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Artyom Bystrov</actor>
+			<role>Gena v molodosti</role>
+		</credit>
+		<credit>
+			<actor>Ekaterina Cherednik</actor>
+			<role>Cheburashka</role>
+		</credit>
+		<credit>
+			<actor>Fyodor Dobronravov</actor>
+			<role>Valera</role>
+		</credit>
+		<credit>
+			<actor>Konstantin Fadeev</actor>
+			<role>Vasiliy</role>
+		</credit>
+		<credit>
+			<actor>Arseniy Fogelev</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Sergey Garmash</actor>
+			<role>Gena</role>
+		</credit>
+		<credit>
+			<actor>Zhannat Kerimbayev</actor>
+			<role>Dvornik</role>
+		</credit>
+		<credit>
+			<actor>Ilya Kondratenko</actor>
+			<role>Grisha</role>
+		</credit>
+		<credit>
+			<actor>Marina Konyashkina</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Olga Kuzmina</actor>
+			<role>Cheburashka</role>
+		</credit>
+		<credit>
+			<actor>Sergey Ladygin</actor>
+			<role>Tolya</role>
+		</credit>
+		<credit>
+			<actor>Dmitriy Lysenkov</actor>
+			<role>Larion</role>
+		</credit>
+		<credit>
+			<actor>Aleksandr Makarshin</actor>
+			<role>Okhrannik Rimmy</role>
+		</credit>
+		<credit>
+			<actor>Polina Maksimova</actor>
+			<role>Tanya</role>
+		</credit>
+		<credit>
+			<actor>Alisa Mynay</actor>
+			<role>Tanya v detstve</role>
+		</credit>
+		<credit>
+			<actor>Aleksey Novikov</actor>
+			<role>Ispanets</role>
+		</credit>
+		<credit>
+			<actor>Erik Sakanyan</actor>
+			<role>Ispanets</role>
+		</credit>
+		<credit>
+			<actor>Natalya Shchukina</actor>
+			<role>Nachalnitsa</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Armenia">January 1 2023</releasedate>
+		<releasedate country="Belarus">January 1 2023</releasedate>
+		<releasedate country="Kyrgyzstan">January 1 2023</releasedate>
+		<releasedate country="Russia">January 1 2023</releasedate>
+		<releasedate country="Tajikistan">January 1 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cheburashka character</keyword>
+		<keyword>gena the crocodile character</keyword>
+		<keyword>crocodile</keyword>
+		<keyword>live action adaptation</keyword>
+		<keyword>live action</keyword>
+		<keyword>one word title</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Dmitriy Dyachenko</director>
+	</directors>
+	<composers>
+		<composer> Ivan Kanaev</composer>
+	</composers>
+	<producers>
+		<producer> Lika Blank</producer>
+		<producer> Eduard Iloyan</producer>
+		<producer> Vyacheslav Murugov</producer>
+		<producer> Anna Ryzhikova</producer>
+		<producer> Vitaliy Shlyappo</producer>
+		<producer> Yuliana Slashcheva</producer>
+		<producer> Mikhail Tkachenko</producer>
+		<producer> Aleksey Trotsyuk</producer>
+		<producer> Vadim Vereshchagin</producer>
+		<producer> Denis Zhalinskiy</producer>
+		<producer> Anton Zlatopolskiy</producer>
+	</producers>
+	<writers>
+		<writer> Vasiliy Kutsenko</writer>
+		<writer> Anatoliy Molchanov</writer>
+		<writer> Vitaliy Shlyappo</writer>
+		<writer> Eduard Uspenskiy</writer>
+		<writer> Vyacheslav Zub</writer>
+	</writers>
+	<editors>
+		<editor> Kirill Abramov</editor>
+		<editor> Anton Anisimov</editor>
+		<editor> Tim Pavelko</editor>
+		<editor> Dmitrii Smorchkov</editor>
+	</editors>
+</doc>

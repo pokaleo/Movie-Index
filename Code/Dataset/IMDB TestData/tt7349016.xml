@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<doc id="tt7349016">
+	<docid>tt7349016</docid>
+	<title>The Crimson Rivers</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGNmMDgxZTItYjNkNy00NDlhLTk2ZmItM2UwNDcwYzhmNDU2XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A bizarre series of murders, a stubborn investigator duo and a lot of bodies.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Olivier Marchal</actor>
+			<role>Pierre Niémans</role>
+		</credit>
+		<credit>
+			<actor>Erika Sainte</actor>
+			<role>Camille Delaunay</role>
+		</credit>
+		<credit>
+			<actor>Ken Duken</actor>
+			<role>Kleinert</role>
+		</credit>
+		<credit>
+			<actor>Patrick Catalifo</actor>
+			<role>Canto</role>
+		</credit>
+		<credit>
+			<actor>Stéphan Wojtowicz</actor>
+			<role>Eric Castinet</role>
+		</credit>
+		<credit>
+			<actor>Claude Perron</actor>
+			<role>Caroline de Montferville</role>
+		</credit>
+		<credit>
+			<actor>Audran Cattin</actor>
+			<role>Léo</role>
+		</credit>
+		<credit>
+			<actor>Lubna Azabal</actor>
+			<role>Gendarme Sabrina Harel</role>
+		</credit>
+		<credit>
+			<actor>Nora Waldstätten</actor>
+			<role>Laura von Geyersberg</role>
+		</credit>
+		<credit>
+			<actor>Daniel Njo Lobé</actor>
+			<role>Thierry Chauveron</role>
+		</credit>
+		<credit>
+			<actor>Nicolas Grandhomme</actor>
+			<role>Stéphane Gandolfi</role>
+		</credit>
+		<credit>
+			<actor>Christiane Paul</actor>
+			<role>Professeur Vialle</role>
+		</credit>
+		<credit>
+			<actor>Gérald Laroche</actor>
+			<role>Charlier</role>
+		</credit>
+		<credit>
+			<actor>Marc Riso</actor>
+			<role>Courroyer</role>
+		</credit>
+		<credit>
+			<actor>Lizzie Brocheré</actor>
+			<role>Audrey</role>
+		</credit>
+		<credit>
+			<actor>Bastien Bouillon</actor>
+			<role>Werner</role>
+		</credit>
+		<credit>
+			<actor>Cyrielle Debreuil</actor>
+			<role>Ariane</role>
+		</credit>
+		<credit>
+			<actor>Nicolas Cazalé</actor>
+			<role>Philippe Cernac</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Switzerland">September 13 2018</releasedate>
+		<releasedate country="Germany">November 3 2018</releasedate>
+		<releasedate country="Andorra">November 26 2018</releasedate>
+		<releasedate country="Belgium">November 26 2018</releasedate>
+		<releasedate country="France">November 26 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Spain">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+		<keyword>police</keyword>
+		<keyword>police unit</keyword>
+		<keyword>male female police partnership</keyword>
+		<keyword>police detective</keyword>
+		<keyword>three word title</keyword>
+		<keyword>color in title</keyword>
+	</keywords>
+	<directors>
+		<director> Ivan Fegyveres</director>
+		<director> David Morley</director>
+		<director> Olivier Barma</director>
+		<director> Manuel Boursinhac</director>
+		<director> Julius Berg</director>
+		<director> Virginie Sauveur</director>
+		<director> Myriam Vinocour</director>
+		<director> Akim Isker</director>
+		<director> Arnauld Mercadier</director>
+	</directors>
+	<composers>
+		<composer> David Reyes</composer>
+	</composers>
+	<producers>
+		<producer> Sabine Barthélémy</producer>
+		<producer> Frédéric Bruneel</producer>
+		<producer> Philipp Kreuzer</producer>
+		<producer> Thomas Anargyros</producer>
+		<producer> Katja Kuhlmann</producer>
+		<producer> Louis Grangé</producer>
+		<producer> Bastien Sirodot</producer>
+		<producer> Robert Franke</producer>
+		<producer> Cloé Garbay</producer>
+		<producer> Sebastian Krekeler</producer>
+		<producer> Jörg Schulze</producer>
+		<producer> Stéphane Lhoest</producer>
+		<producer> Claire Pouzaud</producer>
+		<producer> Nadia Khamlichi</producer>
+		<producer> Adrian Politowski</producer>
+		<producer> Sebastian Lückel</producer>
+		<producer> Doris Schrenner</producer>
+	</producers>
+	<writers>
+		<writer> Jean-Christophe Grangé</writer>
+		<writer> Jean-Christophe Grangé</writer>
+		<writer> Jean-Christophe Grangé</writer>
+		<writer> Louis Grangé</writer>
+		<writer> Louis Grangé</writer>
+		<writer> Olivier Prieur</writer>
+		<writer> Mathieu Leblanc</writer>
+		<writer> Thomas Mansuy</writer>
+		<writer> David Morley</writer>
+		<writer> David Neiss</writer>
+		<writer> Sylvie Simon</writer>
+		<writer> Raphaël Luc</writer>
+	</writers>
+	<editors>
+		<editor> Aïn Varet</editor>
+		<editor> Jean-Daniel Fernandez Qundez</editor>
+		<editor> Joël Jacovella</editor>
+		<editor> Stéphane Mazalaigue</editor>
+		<editor> Romain Namura</editor>
+		<editor> Stratos Gabrielidis</editor>
+		<editor> Linda Naud</editor>
+		<editor> Nadine Verdier</editor>
+	</editors>
+</doc>

@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<doc id="tt12991200">
+	<docid>tt12991200</docid>
+	<title>Drinkwater</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDZlMTM3NmEtNmVlMS00MmNkLWI2ZGEtMzE1YWUyZDdlMzg3XkEyXkFqcGdeQXVyNjkwMjcyODQ@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">110</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A coming-of-age story in the John Hughes tradition. Mike Drinkwater is lost. His father, Hank, is hardly the role model Mike deserves. A young woman moves to town, and their friendship gives them the courage to overcome their challenges.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Eric McCormack</actor>
+			<role>Hank Drinkwater</role>
+		</credit>
+		<credit>
+			<actor>Louriza Tronco</actor>
+			<role>Wallace Owens</role>
+		</credit>
+		<credit>
+			<actor>Daniel Doheny</actor>
+			<role>Mike Drinkwater</role>
+		</credit>
+		<credit>
+			<actor>Alex Zahara</actor>
+			<role>Mr. Babcock</role>
+		</credit>
+		<credit>
+			<actor>Jordan Burtchett</actor>
+			<role>Luke Ryan</role>
+		</credit>
+		<credit>
+			<actor>Bob Frazer</actor>
+			<role>Wesley Ryan</role>
+		</credit>
+		<credit>
+			<actor>Chloe Babcook</actor>
+			<role>Danny Russo</role>
+		</credit>
+		<credit>
+			<actor>Linda Darlow</actor>
+			<role>Linda Owens</role>
+		</credit>
+		<credit>
+			<actor>Naika Toussaint</actor>
+			<role>Ms. Leblanc</role>
+		</credit>
+		<credit>
+			<actor>Jana Benoit</actor>
+			<role>Sharon Ryan</role>
+		</credit>
+		<credit>
+			<actor>Vincent Cheng</actor>
+			<role>Cliff Owens</role>
+		</credit>
+		<credit>
+			<actor>Graham Fraser</actor>
+			<role>Old Guy running</role>
+		</credit>
+		<credit>
+			<actor>David Allan Pearson</actor>
+			<role>Principal Fraser</role>
+		</credit>
+		<credit>
+			<actor>Lisa Huynh</actor>
+			<role>Althea</role>
+		</credit>
+		<credit>
+			<actor>Beth Fotheringham</actor>
+			<role>Monica</role>
+		</credit>
+		<credit>
+			<actor>Tyler Dreger</actor>
+			<role>American #2</role>
+		</credit>
+		<credit>
+			<actor>Lucas Fraser</actor>
+			<role>High School Runner (Grimsby)</role>
+		</credit>
+		<credit>
+			<actor>Dennis Cound</actor>
+			<role>Security Guard</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">2021</releasedate>
+		<releasedate country="Canada">December 3 2021</releasedate>
+		<releasedate country="Canada">October 14 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>multi generational</keyword>
+		<keyword>delusion</keyword>
+	</keywords>
+	<directors>
+		<director> Stephen S. Campanelli</director>
+	</directors>
+	<composers>
+		<composer> Rich Walters</composer>
+	</composers>
+	<producers>
+		<producer> Graham Fraser</producer>
+		<producer> Dennis Swartman</producer>
+	</producers>
+	<writers>
+		<writer> Luke Fraser</writer>
+		<writer> Edward McDonald</writer>
+	</writers>
+	<editors>
+		<editor> Christopher A. Smith</editor>
+	</editors>
+</doc>

@@ -1,0 +1,400 @@
+<?xml version="1.0" ?>
+<doc id="tt20765060">
+	<docid>tt20765060</docid>
+	<title>Call of Duty: Modern Warfare II</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjZjODM2MDMtMGE2ZS00NWIyLTkzOWMtYjY0YTM3MzQ0ZjMzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022 Video Game</year>
+	<runningtimes/>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>A sequel to 2019's modern warfare</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Alain Mesa</actor>
+			<role>Alejandro Vargas</role>
+		</credit>
+		<credit>
+			<actor>Barry Sloane</actor>
+			<role>Captain John Price</role>
+		</credit>
+		<credit>
+			<actor>Ramon Fernandez</actor>
+			<role>Diego Salgado</role>
+		</credit>
+		<credit>
+			<actor>Claudia Doumit</actor>
+			<role>Farah Karim</role>
+		</credit>
+		<credit>
+			<actor>Glenn Morshower</actor>
+			<role>General Shepherd</role>
+		</credit>
+		<credit>
+			<actor>Ibrahim Renno</actor>
+			<role>Hassan Zyani</role>
+		</credit>
+		<credit>
+			<actor>Neil Ellice</actor>
+			<role>John 'Soap' MacTavish</role>
+		</credit>
+		<credit>
+			<actor>Rya Kihlstedt</actor>
+			<role>Kate Laswell</role>
+		</credit>
+		<credit>
+			<actor>Elliot Knight</actor>
+			<role>Kyle 'Gaz' Garrick</role>
+		</credit>
+		<credit>
+			<actor>Stefan Kapicic</actor>
+			<role>Nikolai</role>
+		</credit>
+		<credit>
+			<actor>Ace Marrero</actor>
+			<role>Nunez</role>
+		</credit>
+		<credit>
+			<actor>Warren Kole</actor>
+			<role>Phillip Graves</role>
+		</credit>
+		<credit>
+			<actor>Bayardo De Murguia</actor>
+			<role>Rodolfo Parra</role>
+		</credit>
+		<credit>
+			<actor>Samuel Roukin</actor>
+			<role>Simon 'Ghost' Riley</role>
+		</credit>
+		<credit>
+			<actor>María Elisa Camargo</actor>
+			<role>Valeria Garza</role>
+		</credit>
+		<credit>
+			<actor>Adam Tsekhman</actor>
+			<role>Additional Voice</role>
+		</credit>
+		<credit>
+			<actor>Alejandro Vargas-Lugo</actor>
+			<role>Additional Voice</role>
+		</credit>
+		<credit>
+			<actor>Alex Feldman</actor>
+			<role>Additional Voice</role>
+		</credit>
+	</cast>
+	<type>other</type>
+	<releasedates>
+		<releasedate country="Japan">October 28 2022</releasedate>
+		<releasedate country="United States">October 28 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">M</certificate>
+	</certificates>
+	<keywords>
+		<keyword>first person shooter</keyword>
+		<keyword>video gaming</keyword>
+		<keyword>modern warfare</keyword>
+		<keyword>ground combat</keyword>
+		<keyword>tactical shooter</keyword>
+		<keyword>action game</keyword>
+		<keyword>military</keyword>
+		<keyword>online game</keyword>
+		<keyword>teamwork</keyword>
+		<keyword>war game</keyword>
+		<keyword>united states army</keyword>
+		<keyword>u. s. army</keyword>
+		<keyword>soldier</keyword>
+		<keyword>cia</keyword>
+		<keyword>cartel</keyword>
+		<keyword>mexican army</keyword>
+		<keyword>army</keyword>
+		<keyword>shadow cartel</keyword>
+		<keyword>mexican army officer</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>mercenary army</keyword>
+		<keyword>drug cartel</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>female officer</keyword>
+		<keyword>officer</keyword>
+		<keyword>captain</keyword>
+		<keyword>shepherd</keyword>
+		<keyword>gunsmith</keyword>
+		<keyword>russian army</keyword>
+		<keyword>usmc</keyword>
+		<keyword>u s marine corps</keyword>
+		<keyword>marine soldier</keyword>
+		<keyword>army soldier</keyword>
+		<keyword>cia agent</keyword>
+		<keyword>silenced rifle</keyword>
+		<keyword>scoped rifle</keyword>
+		<keyword>guerilla</keyword>
+		<keyword>grenade</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>scope</keyword>
+		<keyword>silencer</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>gun clip</keyword>
+		<keyword>missile</keyword>
+		<keyword>duty</keyword>
+		<keyword>deathmatch</keyword>
+		<keyword>sniper red dot sight</keyword>
+		<keyword>ground war</keyword>
+		<keyword>campaign</keyword>
+		<keyword>red dot sight</keyword>
+		<keyword>missile attack</keyword>
+		<keyword>bullet</keyword>
+		<keyword>mission</keyword>
+		<keyword>mission briefing</keyword>
+		<keyword>heckler &amp; koch hk mp5 a3</keyword>
+		<keyword>combatant</keyword>
+		<keyword>firearms magazine</keyword>
+		<keyword>fn scar assault rifle</keyword>
+		<keyword>fn scar l assault rifle</keyword>
+		<keyword>guerilla fighter</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>prisoner rescue</keyword>
+		<keyword>prison</keyword>
+		<keyword>m4 carbine</keyword>
+		<keyword>guerilla army</keyword>
+		<keyword>firearms clip</keyword>
+		<keyword>weapon magazine</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>m16 rifle</keyword>
+		<keyword>m16</keyword>
+		<keyword>heckler &amp; koch hk mp5</keyword>
+		<keyword>steyr aug a3</keyword>
+		<keyword>mp5</keyword>
+		<keyword>fn p90 submachine gun</keyword>
+		<keyword>ak 74u</keyword>
+		<keyword>magazine</keyword>
+		<keyword>heckler &amp; koch g3 select fire battle rifle</keyword>
+		<keyword>ak 74</keyword>
+		<keyword>ammunition</keyword>
+		<keyword>heckler &amp; koch hk mp7</keyword>
+		<keyword>ak74 assault rifle</keyword>
+		<keyword>heckler &amp; koch mp5</keyword>
+		<keyword>submachine gun</keyword>
+		<keyword>h&amp;k mp5 a3</keyword>
+		<keyword>battle zone</keyword>
+		<keyword>war zone</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>shotgun shell</keyword>
+		<keyword>explosive</keyword>
+		<keyword>drill explosive</keyword>
+		<keyword>drill charge</keyword>
+		<keyword>tactical shotgun</keyword>
+		<keyword>benelli m1014 shotgun</keyword>
+		<keyword>frag grenade</keyword>
+		<keyword>battle rifle</keyword>
+		<keyword>ligh machine gun</keyword>
+		<keyword>proximity mine</keyword>
+		<keyword>mini gun</keyword>
+		<keyword>mine</keyword>
+		<keyword>rotary machine gun</keyword>
+		<keyword>rotary gun</keyword>
+		<keyword>minigun</keyword>
+		<keyword>designated marksman rifle</keyword>
+		<keyword>marksman</keyword>
+		<keyword>resistance</keyword>
+		<keyword>sniper</keyword>
+		<keyword>combat knife</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>fragmentation hand grenade</keyword>
+		<keyword>riot shield</keyword>
+		<keyword>recon</keyword>
+		<keyword>recon drone</keyword>
+		<keyword>rpg 7</keyword>
+		<keyword>rocket</keyword>
+		<keyword>lethal equipment</keyword>
+		<keyword>tactical sprint</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>aiming</keyword>
+		<keyword>kill shot</keyword>
+		<keyword>surveillance drone</keyword>
+		<keyword>reload</keyword>
+		<keyword>tactical equipment</keyword>
+		<keyword>stealth</keyword>
+		<keyword>tactical map</keyword>
+		<keyword>enemy</keyword>
+		<keyword>enemy down</keyword>
+		<keyword>container</keyword>
+		<keyword>town</keyword>
+		<keyword>port</keyword>
+		<keyword>aw50 rifle</keyword>
+		<keyword>container port</keyword>
+		<keyword>accuracy international aw50 rifle</keyword>
+		<keyword>c4 explosives</keyword>
+		<keyword>thermite</keyword>
+		<keyword>thermite bomb</keyword>
+		<keyword>flash bang</keyword>
+		<keyword>flash grenade</keyword>
+		<keyword>desert eagle</keyword>
+		<keyword>glock g18 pistol</keyword>
+		<keyword>pistol</keyword>
+		<keyword>automatic pistol</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>box cutter</keyword>
+		<keyword>cutter knife</keyword>
+		<keyword>shiv</keyword>
+		<keyword>shiv knife</keyword>
+		<keyword>glock 18 pistol</keyword>
+		<keyword>fgm 148 javelin missile</keyword>
+		<keyword>glock 18</keyword>
+		<keyword>fgm 148 javelin</keyword>
+		<keyword>remington model 700</keyword>
+		<keyword>knife throwing</keyword>
+		<keyword>remington 700</keyword>
+		<keyword>border</keyword>
+		<keyword>desert eagle .50</keyword>
+		<keyword>anti tank missile</keyword>
+		<keyword>farm</keyword>
+		<keyword>border crossing</keyword>
+		<keyword>smoke grenade</keyword>
+		<keyword>stun grenade</keyword>
+		<keyword>embassy</keyword>
+		<keyword>anti personnel mine</keyword>
+		<keyword>claymore mine</keyword>
+		<keyword>claymore land mine</keyword>
+		<keyword>claymore</keyword>
+		<keyword>munition box</keyword>
+		<keyword>hotel</keyword>
+		<keyword>tactical camera</keyword>
+		<keyword>tear gas</keyword>
+		<keyword>cluster bomb</keyword>
+		<keyword>heartbeat sensor</keyword>
+		<keyword>ship</keyword>
+		<keyword>anti armor munition</keyword>
+		<keyword>house</keyword>
+		<keyword>night vision</keyword>
+		<keyword>fortress</keyword>
+		<keyword>night vision goggles</keyword>
+		<keyword>invasion</keyword>
+		<keyword>special ops</keyword>
+		<keyword>spec ops</keyword>
+		<keyword>raid</keyword>
+		<keyword>stealth bomber</keyword>
+		<keyword>sentry gun</keyword>
+		<keyword>ghost</keyword>
+		<keyword>survivor</keyword>
+		<keyword>uav</keyword>
+		<keyword>unmanned aerial vehicle</keyword>
+		<keyword>focus</keyword>
+		<keyword>cold blooded</keyword>
+		<keyword>bomb squad</keyword>
+		<keyword>overkill</keyword>
+		<keyword>scavenger</keyword>
+		<keyword>tactical</keyword>
+		<keyword>battle</keyword>
+		<keyword>team</keyword>
+		<keyword>special forces</keyword>
+		<keyword>door gunner</keyword>
+		<keyword>helicopter gunner</keyword>
+		<keyword>chopper gunner</keyword>
+		<keyword>counter uav</keyword>
+		<keyword>countermeasure</keyword>
+		<keyword>disarming bomb</keyword>
+		<keyword>alert</keyword>
+		<keyword>high alert</keyword>
+		<keyword>island</keyword>
+		<keyword>rebirth</keyword>
+		<keyword>heist</keyword>
+		<keyword>summer</keyword>
+		<keyword>covert ops</keyword>
+		<keyword>covert operation</keyword>
+		<keyword>halloween</keyword>
+		<keyword>scream</keyword>
+		<keyword>first strike</keyword>
+		<keyword>undead</keyword>
+		<keyword>attack</keyword>
+		<keyword>4th of july</keyword>
+		<keyword>operation</keyword>
+		<keyword>spectre</keyword>
+		<keyword>zero</keyword>
+		<keyword>absolute zero</keyword>
+		<keyword>liberty</keyword>
+		<keyword>strike</keyword>
+		<keyword>blitzkrieg</keyword>
+		<keyword>winter siege</keyword>
+		<keyword>siege</keyword>
+		<keyword>winter battle</keyword>
+		<keyword>winter combat</keyword>
+		<keyword>apocalypse</keyword>
+		<keyword>darkness</keyword>
+		<keyword>divide</keyword>
+		<keyword>arctic wolf</keyword>
+		<keyword>ballistic missile</keyword>
+		<keyword>air strike</keyword>
+		<keyword>narcotics</keyword>
+		<keyword>drug smuggling</keyword>
+		<keyword>narcotic smuggling</keyword>
+		<keyword>task force</keyword>
+		<keyword>terror network</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>counter terrorism</keyword>
+		<keyword>terror organization</keyword>
+		<keyword>armored personnel carrier</keyword>
+		<keyword>apc vehicle</keyword>
+		<keyword>light tank</keyword>
+		<keyword>heavy tank</keyword>
+		<keyword>battle tank</keyword>
+		<keyword>patrol boat</keyword>
+		<keyword>armored patrol boat</keyword>
+		<keyword>rib sea vehicle</keyword>
+		<keyword>main battle tank</keyword>
+		<keyword>rigid inflatable boat</keyword>
+		<keyword>rigid hulled inflatable boat</keyword>
+		<keyword>halo</keyword>
+		<keyword>tank</keyword>
+		<keyword>rhib sea vehicle</keyword>
+		<keyword>military helicopter</keyword>
+		<keyword>utility helicopter</keyword>
+		<keyword>light helicopter</keyword>
+		<keyword>heavy helicopter</keyword>
+		<keyword>transport helicopter</keyword>
+		<keyword>military transport helicopter</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>playstation 5</keyword>
+		<keyword>playstation 4</keyword>
+		<keyword>xbox series x</keyword>
+		<keyword>microsoft windows</keyword>
+		<keyword>xbox one</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>multiplayer</keyword>
+		<keyword>multiplatform</keyword>
+	</keywords>
+	<directors>
+		<director> Jeffrey Keith Negus</director>
+	</directors>
+	<composers>
+		<composer> Sarah Schachner</composer>
+	</composers>
+	<producers>
+		<producer> Lisa Foster</producer>
+		<producer> Graham Hagmaier</producer>
+		<producer> Karl Hutson</producer>
+		<producer> Dino Verano</producer>
+	</producers>
+	<writers>
+		<writer> Brian Bloom</writer>
+	</writers>
+	<editors>
+		<editor> Matthew Dunn</editor>
+	</editors>
+</doc>

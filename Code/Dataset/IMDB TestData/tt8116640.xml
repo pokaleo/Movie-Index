@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<doc id="tt8116640">
+	<docid>tt8116640</docid>
+	<title>Go Karts</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODBlNTdmMjMtYzgyMS00ZDllLWI3ZWMtMDI4YzhjN2E2YTRjXkEyXkFqcGdeQXVyMzc5NDU5NzY@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Family</genre>
+		<genre>Sport</genre>
+	</genres>
+	<plot>A thrilling family film about a boy who must overcome tremendous odds and his own recklessness to achieve his dream of winning the National Go Kart Championship.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>William Lodder</actor>
+			<role>Jack Hooper</role>
+		</credit>
+		<credit>
+			<actor>Frances O'Connor</actor>
+			<role>Christie Hooper</role>
+		</credit>
+		<credit>
+			<actor>Anastasia Bampos</actor>
+			<role>Mandy Zeta</role>
+		</credit>
+		<credit>
+			<actor>Darius Amarfio Jefferson</actor>
+			<role>Colin</role>
+		</credit>
+		<credit>
+			<actor>Cooper van Grootel</actor>
+			<role>Dean Zeta</role>
+		</credit>
+		<credit>
+			<actor>Jack Connell</actor>
+			<role>Ralph</role>
+		</credit>
+		<credit>
+			<actor>Rhys Lander</actor>
+			<role>Ted</role>
+		</credit>
+		<credit>
+			<actor>Adam T Perkins</actor>
+			<role>Jack's Dad</role>
+		</credit>
+		<credit>
+			<actor>George Thompson</actor>
+			<role>Young Jack</role>
+		</credit>
+		<credit>
+			<actor>Damian de Montemas</actor>
+			<role>Mike Zeta</role>
+		</credit>
+		<credit>
+			<actor>Sonia Borella</actor>
+			<role>Kate Zeta</role>
+		</credit>
+		<credit>
+			<actor>Dan Wyllie</actor>
+			<role>Barry</role>
+		</credit>
+		<credit>
+			<actor>Oscar Trigwell</actor>
+			<role>Dennis</role>
+		</credit>
+		<credit>
+			<actor>Davilia O'Connor</actor>
+			<role>Betsy</role>
+		</credit>
+		<credit>
+			<actor>Bayley Bell</actor>
+			<role>Arise Team</role>
+		</credit>
+		<credit>
+			<actor>Robert Hooper</actor>
+			<role>Arise Team</role>
+		</credit>
+		<credit>
+			<actor>Dalvin Nguyen</actor>
+			<role>Arise Team</role>
+		</credit>
+		<credit>
+			<actor>Michael Lewis</actor>
+			<role>Arise Team</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">January 16 2020</releasedate>
+		<releasedate country="Greece">March 13 2020</releasedate>
+		<releasedate country="India">March 13 2020</releasedate>
+		<releasedate country="South Korea">March 13 2020</releasedate>
+		<releasedate country="Netherlands">March 13 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="United Kingdom">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>small town</keyword>
+		<keyword>go kart</keyword>
+		<keyword>single mother</keyword>
+		<keyword>championship</keyword>
+		<keyword>racing</keyword>
+		<keyword>trailer house</keyword>
+		<keyword>single parent</keyword>
+		<keyword>policeman</keyword>
+		<keyword>police car</keyword>
+		<keyword>guitar</keyword>
+		<keyword>riding a motorcycle</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>crying teenage boy</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>texting</keyword>
+		<keyword>rain</keyword>
+		<keyword>standing in the rain</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>racing helmet</keyword>
+		<keyword>trophy</keyword>
+		<keyword>goggles</keyword>
+		<keyword>flashback</keyword>
+		<keyword>teenage boy</keyword>
+	</keywords>
+	<directors>
+		<director> Owen Trevor</director>
+	</directors>
+	<composers>
+		<composer> Andrew Kawczynski</composer>
+		<composer> Brendan Woithe</composer>
+	</composers>
+	<producers>
+		<producer> Sonia Borella</producer>
+		<producer> Barbara Gibbs</producer>
+		<producer> Dave Hansen</producer>
+		<producer> Jamie Hilton</producer>
+		<producer> Seph McKenna</producer>
+		<producer> Berry Meyerowitz</producer>
+		<producer> Joel Pearlman</producer>
+		<producer> Josh Pomeranz</producer>
+		<producer> Michael Pontin</producer>
+		<producer> Jeff Sackman</producer>
+	</producers>
+	<writers>
+		<writer> Steve Worland</writer>
+	</writers>
+	<editors>
+		<editor> Scott Gray</editor>
+		<editor> Vincent Tabaillon</editor>
+	</editors>
+</doc>

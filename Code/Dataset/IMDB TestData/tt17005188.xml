@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<doc id="tt17005188">
+	<docid>tt17005188</docid>
+	<title>Bosé</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTNlZjVlOTEtZTk2OC00MzczLWE5M2YtMjlhNzNkZTEyZTQ1XkEyXkFqcGdeQXVyMTI5NDA0OTQ3._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">52</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>Music</genre>
+	</genres>
+	<plot>Follows the impressive decades-long career of barrier-breaking Spanish singer and songwriter Miguel Bosé.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>José Pastor</actor>
+			<role>Miguel Bosé</role>
+		</credit>
+		<credit>
+			<actor>Valeria Solarino</actor>
+			<role>Lucia Bosé</role>
+		</credit>
+		<credit>
+			<actor>Iván Sánchez</actor>
+			<role>Miguel Bosé</role>
+		</credit>
+		<credit>
+			<actor>Ana Jara</actor>
+			<role>Rosa Lagarrigue</role>
+		</credit>
+		<credit>
+			<actor>Alicia Borrachero</actor>
+			<role>Tata Remedios</role>
+		</credit>
+		<credit>
+			<actor>Nacho Fresneda</actor>
+			<role>Luis Miguel Dominguín</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Guevara</actor>
+			<role>Nacho Duato</role>
+		</credit>
+		<credit>
+			<actor>Hugo Fuertes</actor>
+			<role>Miguel niño</role>
+		</credit>
+		<credit>
+			<actor>Raquel Salamanca</actor>
+			<role>Ana Obregón</role>
+		</credit>
+		<credit>
+			<actor>Óscar Higares</actor>
+			<role>Domingo Dominguín</role>
+		</credit>
+		<credit>
+			<actor>Débora Izaguirre</actor>
+			<role>Rosa Lagarrigue</role>
+		</credit>
+		<credit>
+			<actor>José Sospedra</actor>
+			<role>Pablo</role>
+		</credit>
+		<credit>
+			<actor>Daniel Chamorro</actor>
+			<role>Tomás Molina</role>
+		</credit>
+		<credit>
+			<actor>María García-Concha</actor>
+			<role>Rosi</role>
+		</credit>
+		<credit>
+			<actor>Luis Fernández de Eribe</actor>
+			<role>Ancho</role>
+		</credit>
+		<credit>
+			<actor>Ana Torrent</actor>
+			<role>Rosario Primo de Rivera</role>
+		</credit>
+		<credit>
+			<actor>Miguel Ángel Muñoz</actor>
+			<role>Julio Iglesias</role>
+		</credit>
+		<credit>
+			<actor>José Emilio Vera</actor>
+			<role>Editor in chief</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">November 3 2022</releasedate>
+		<releasedate country="Australia">November 3 2022</releasedate>
+		<releasedate country="Canada">November 3 2022</releasedate>
+		<releasedate country="Ecuador">November 3 2022</releasedate>
+		<releasedate country="Mexico">November 3 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Mexico">16</certificate>
+		<certificate country="Spain">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on real people</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>singing</keyword>
+		<keyword>paramount plus</keyword>
+		<keyword>gay interest</keyword>
+		<keyword>singer</keyword>
+		<keyword>love</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Miguel Bardem</director>
+		<director> Fernando Trullols</director>
+	</directors>
+	<composers>
+		<composer> Lucas Vidal</composer>
+	</composers>
+	<producers>
+		<producer> Laura Abril</producer>
+		<producer> Amir Agay</producer>
+		<producer> Michelle Alberty</producer>
+		<producer> Cristina Alcelay</producer>
+		<producer> José Bastón</producer>
+		<producer> Andrea Bini León</producer>
+		<producer> Javier Borrajo Muñoz</producer>
+		<producer> Elsa Buendía</producer>
+		<producer> Nélida Castro</producer>
+		<producer> Federico Cuervo</producer>
+		<producer> Lorena Díaz Gálvez</producer>
+		<producer> Concha Díaz</producer>
+		<producer> Carlota Echevarría Esquivel</producer>
+		<producer> Nacho Faerna</producer>
+		<producer> Javier de Francisco Pérez</producer>
+		<producer> José Antonio García García</producer>
+		<producer> Miguel Garrido Casariego</producer>
+		<producer> Fernando Gaston</producer>
+		<producer> Alejandro Guisado Gonzalez</producer>
+		<producer> Cristina López López</producer>
+		<producer> Toño Mauri</producer>
+		<producer> Carol Parra Sanz</producer>
+		<producer> Adrián Peña Gómez</producer>
+		<producer> José Picazo</producer>
+		<producer> Patricia Portero</producer>
+		<producer> Macarena Rey</producer>
+		<producer> Ana Victoria Sánchez Morales</producer>
+		<producer> Claudia Alfaro Vea</producer>
+		<producer> Carlos Viega Prieto</producer>
+		<producer> Jaime Villaverde Serrano</producer>
+		<producer> Francisco Álvarez García</producer>
+		<producer> José Luis Cabello Lara</producer>
+	</producers>
+	<writers>
+		<writer> Nacho Faerna</writer>
+		<writer> Martín Florio</writer>
+		<writer> Ángeles González Sinde</writer>
+		<writer> Isabel Vázquez</writer>
+		<writer> Boris Izaguirre</writer>
+	</writers>
+	<editors>
+		<editor> Cristina García Aller</editor>
+	</editors>
+</doc>

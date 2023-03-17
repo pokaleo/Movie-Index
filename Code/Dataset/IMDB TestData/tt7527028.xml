@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<doc id="tt7527028">
+	<docid>tt7527028</docid>
+	<title>The Tiger's Nest</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZWE1OWI1ZGUtZGU0Mi00MDU5LTg3MzgtYTYzZGQwMjI1YzVlXkEyXkFqcGdeQXVyODI5OTc0NA@@._V1_QL75_UY281_CR9,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">94</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>A live-action fantasy adventure film set in the tropical forests of Himalayas.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Claudia Gerini</actor>
+			<role>Miss Hannah</role>
+		</credit>
+		<credit>
+			<actor>Sunny Pawar</actor>
+			<role>Balmani</role>
+		</credit>
+		<credit>
+			<actor>Amandeep Singh</actor>
+			<role>Jenan</role>
+		</credit>
+		<credit>
+			<actor>Samir Gurung</actor>
+			<role>Madhav's Father</role>
+		</credit>
+		<credit>
+			<actor>Yoon C. Joyce</actor>
+			<role>Samchai</role>
+		</credit>
+		<credit>
+			<actor>Shi Yang Shi</actor>
+			<role>Head Lama</role>
+		</credit>
+		<credit>
+			<actor>Legyaan Thapa</actor>
+			<role>Madhav</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">October 13 2022</releasedate>
+		<releasedate country="Lithuania">October 14 2022</releasedate>
+		<releasedate country="Germany">October 20 2022</releasedate>
+		<releasedate country="Russia">October 20 2022</releasedate>
+		<releasedate country="Estonia">November 18 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Austria">8</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>forest</keyword>
+	</keywords>
+	<directors>
+		<director> Brando Quilici</director>
+	</directors>
+	<composers>
+		<composer> Vincenzo Ricca</composer>
+	</composers>
+	<producers>
+		<producer> S.M. Ferozeuddin Alameer</producer>
+		<producer> Anastasia Buynovskaya</producer>
+		<producer> Deborah Belford de Furia</producer>
+		<producer> Rob Goldberg</producer>
+		<producer> Fausto Grisi</producer>
+		<producer> Brando Quilici</producer>
+		<producer> Kopal Singh</producer>
+		<producer> Amresh Raj Tuladhar</producer>
+		<producer> Ben Zebelman</producer>
+	</producers>
+	<writers>
+		<writer> Brando Quilici</writer>
+		<writer> Hugh Hudson</writer>
+		<writer> Rupert Thomson</writer>
+	</writers>
+	<editors>
+		<editor> Paolo Cottignola</editor>
+		<editor> Frank Keraudren</editor>
+	</editors>
+</doc>

@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<doc id="tt13944138">
+	<docid>tt13944138</docid>
+	<title>Maggie</title>
+	<image/>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A young woman tries to cope with life while coming to terms with her abilities as a psychic. She can see everyone's futures, but her present is a mess.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Rebecca Rittenhouse</actor>
+			<role>Maggie</role>
+		</credit>
+		<credit>
+			<actor>David Del Rio</actor>
+			<role>Ben</role>
+		</credit>
+		<credit>
+			<actor>Nichole Sakura</actor>
+			<role>Louise</role>
+		</credit>
+		<credit>
+			<actor>Angelique Cabral</actor>
+			<role>Amy</role>
+		</credit>
+		<credit>
+			<actor>Chloe Bridges</actor>
+			<role>Jessie</role>
+		</credit>
+		<credit>
+			<actor>Ray Ford</actor>
+			<role>Angel</role>
+		</credit>
+		<credit>
+			<actor>Leonardo Nam</actor>
+			<role>Dave</role>
+		</credit>
+		<credit>
+			<actor>Kerri Kenney</actor>
+			<role>Maria</role>
+		</credit>
+		<credit>
+			<actor>Chris Elliott</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Adam Korson</actor>
+			<role>Daniel</role>
+		</credit>
+		<credit>
+			<actor>Trent Garrett</actor>
+			<role>John</role>
+		</credit>
+		<credit>
+			<actor>Martin Mull</actor>
+			<role>Zach</role>
+		</credit>
+		<credit>
+			<actor>Jake Lockett</actor>
+			<role>Plant Guy</role>
+		</credit>
+		<credit>
+			<actor>Allison Acosta</actor>
+			<role>Lucy</role>
+		</credit>
+		<credit>
+			<actor>Andy Favreau</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Arica Himmel</actor>
+			<role>Abby</role>
+		</credit>
+		<credit>
+			<actor>Christina Kartchner</actor>
+			<role>Rachel</role>
+		</credit>
+		<credit>
+			<actor>Dave Theune</actor>
+			<role>Marcus Mann</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">July 6 2022</releasedate>
+		<releasedate country="Spain">July 6 2022</releasedate>
+		<releasedate country="United States">July 6 2022</releasedate>
+		<releasedate country="India">July 14 2022</releasedate>
+		<releasedate country="Australia">August 10 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">14</certificate>
+		<certificate country="India">UA 13+</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">12+</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>quirky comedy</keyword>
+		<keyword>high concept comedy</keyword>
+		<keyword>psychic</keyword>
+		<keyword>clairvoyant</keyword>
+	</keywords>
+	<directors>
+		<director> Natalia Anderson</director>
+		<director> Justin Adler</director>
+		<director> Shiri Appleby</director>
+		<director> Jaffar Mahmood</director>
+		<director> Molly McGlynn</director>
+		<director> Katie Locke O'Brien</director>
+		<director> Lee Shallat Chemel</director>
+		<director> Jude Weng</director>
+		<director> Ken Whittingham</director>
+	</directors>
+	<composers>
+		<composer> Duncan Blickenstaff</composer>
+		<composer> Rob Simonsen</composer>
+	</composers>
+	<producers>
+		<producer> Justin Adler</producer>
+		<producer> Natalia Anderson</producer>
+		<producer> Andrew Brooks</producer>
+		<producer> Joe Cristalli</producer>
+		<producer> Tim Curcio</producer>
+		<producer> Solomon Georgio</producer>
+		<producer> Evan Hayes</producer>
+		<producer> Jeff Morton</producer>
+		<producer> Maggie Mull</producer>
+		<producer> Mariel Paniagua</producer>
+		<producer> Max Saltarelli</producer>
+		<producer> Ilana Wernick</producer>
+	</producers>
+	<writers>
+		<writer> Hayley Adams</writer>
+		<writer> Hayley Adams</writer>
+		<writer> Justin Adler</writer>
+		<writer> Justin Adler</writer>
+		<writer> Justin Adler</writer>
+		<writer> Tim Curcio</writer>
+		<writer> Tim Curcio</writer>
+		<writer> Jesse Esparza</writer>
+		<writer> Jesse Esparza</writer>
+		<writer> Maggie Mull</writer>
+		<writer> Maggie Mull</writer>
+		<writer> Maggie Mull</writer>
+		<writer> Maggie Mull</writer>
+		<writer> Maggie Mull</writer>
+		<writer> Joellen Redlingshafer</writer>
+		<writer> Joellen Redlingshafer</writer>
+		<writer> Dani Shank</writer>
+		<writer> Dani Shank</writer>
+		<writer> Ceda Xiong</writer>
+		<writer> Ceda Xiong</writer>
+		<writer> Colby Bachiller</writer>
+		<writer> Joe Cristalli</writer>
+		<writer> Solomon Georgio</writer>
+		<writer> Katharine Konietzko</writer>
+		<writer> Max Saltarelli</writer>
+		<writer> Ilana Wernick</writer>
+	</writers>
+	<editors>
+		<editor> Christian Miglio</editor>
+		<editor> Jamie Conklin</editor>
+		<editor> Colin Johnson</editor>
+		<editor> Steven Sprung</editor>
+	</editors>
+</doc>

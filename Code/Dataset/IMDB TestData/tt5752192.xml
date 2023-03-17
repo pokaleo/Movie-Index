@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt5752192">
+	<docid>tt5752192</docid>
+	<title>Meander</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmQ3OWQ4MDYtNmVmZC00ODM2LWFjOGItNmQzMTlmNTFjOWUwXkEyXkFqcGdeQXVyMTk4MDMyOTM@._V1_QL75_UY281_CR8,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A woman finds herself locked in a series of strange tunnels full of deadly traps.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Gaia Weiss</actor>
+			<role>Lisa</role>
+		</credit>
+		<credit>
+			<actor>Peter Franzén</actor>
+			<role>Adam</role>
+		</credit>
+		<credit>
+			<actor>Romane Libert</actor>
+			<role>Nina</role>
+		</credit>
+		<credit>
+			<actor>Frédéric Franchitti</actor>
+			<role>Adam brûlé</role>
+		</credit>
+		<credit>
+			<actor>Corneliu Dragomirescu</actor>
+			<role>Le père</role>
+		</credit>
+		<credit>
+			<actor>Eva Niewdanski</actor>
+			<role>Lisa adolescente</role>
+		</credit>
+		<credit>
+			<actor>Carl Laforêt</actor>
+			<role>'Eux'</role>
+		</credit>
+		<credit>
+			<actor>Henri Benard</actor>
+			<role>'Eux'</role>
+		</credit>
+		<credit>
+			<actor>Fabien Houssaye</actor>
+			<role>'Eux'</role>
+		</credit>
+		<credit>
+			<actor>Olympe Turi</actor>
+			<role>'Eux'</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Spain">October 11 2020</releasedate>
+		<releasedate country="Norway">October 16 2020</releasedate>
+		<releasedate country="Italy">November 4 2020</releasedate>
+		<releasedate country="Australia">December 3 2020</releasedate>
+		<releasedate country="Macao">December 4 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Arab Emirates">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>claustrophobia</keyword>
+		<keyword>loss of daughter</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>claustrophobic setting</keyword>
+		<keyword>tube</keyword>
+		<keyword>pipe</keyword>
+		<keyword>trap</keyword>
+		<keyword>crawling</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>guilt</keyword>
+		<keyword>maze</keyword>
+		<keyword>labyrinth</keyword>
+		<keyword>one word title</keyword>
+		<keyword>suicidal thoughts</keyword>
+		<keyword>no exit</keyword>
+		<keyword>survival</keyword>
+		<keyword>crawling through a pipe</keyword>
+		<keyword>flashback</keyword>
+		<keyword>fire</keyword>
+		<keyword>acid</keyword>
+		<keyword>wound</keyword>
+		<keyword>fight</keyword>
+		<keyword>code</keyword>
+		<keyword>no way out</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>point of view</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>minimal cast</keyword>
+		<keyword>alien abduction</keyword>
+		<keyword>trapped</keyword>
+		<keyword>very little dialogue</keyword>
+		<keyword>creature</keyword>
+		<keyword>monster</keyword>
+	</keywords>
+	<directors>
+		<director> Mathieu Turi</director>
+	</directors>
+	<composers>
+		<composer> Frédéric Poirier</composer>
+	</composers>
+	<producers>
+		<producer> Gregory Chambet</producer>
+		<producer> Julien Deris</producer>
+		<producer> David Gauquié</producer>
+		<producer> Eric Gendarme</producer>
+		<producer> Fanny Habigand</producer>
+		<producer> Sandra Karim</producer>
+		<producer> Thomas Lubeau</producer>
+		<producer> Marc Olla</producer>
+		<producer> Jordan Sarralie</producer>
+		<producer> Dimitri Stephanides</producer>
+	</producers>
+	<writers>
+		<writer> Mathieu Turi</writer>
+	</writers>
+	<editors>
+		<editor> Joël Jacovella</editor>
+	</editors>
+</doc>

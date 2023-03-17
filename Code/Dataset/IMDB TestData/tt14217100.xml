@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<doc id="tt14217100">
+	<docid>tt14217100</docid>
+	<title>Ferry</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZThhNWM2Y2ItMDRkOC00MWEyLTg5YmItMThkMzRjYjA3Mzk4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Ruthless Ferry Bouman is sent to his native region of Brabant by his boss Brink to avenge an attack on their gang. When he meets lovely Danielle and old family feuds resurface, Brabant starts to pierce his steel armour.</plot>
+	<countries>
+		<country>Belgium</country>
+	</countries>
+	<languages>
+		<language>Flemish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Frank Lammers</actor>
+			<role>Ferry Bouman</role>
+		</credit>
+		<credit>
+			<actor>Elise Schaap</actor>
+			<role>Daniëlle van Marken</role>
+		</credit>
+		<credit>
+			<actor>Huub Stapel</actor>
+			<role>Brink</role>
+		</credit>
+		<credit>
+			<actor>Raymond Thiry</actor>
+			<role>John Zwart</role>
+		</credit>
+		<credit>
+			<actor>Monic Hendrickx</actor>
+			<role>Claudia Zwart - Bouman</role>
+		</credit>
+		<credit>
+			<actor>Brigitta Alen</actor>
+			<role>Jenny</role>
+		</credit>
+		<credit>
+			<actor>Bram Blankestijn</actor>
+			<role>Davy Mols</role>
+		</credit>
+		<credit>
+			<actor>Noah Blindenburg</actor>
+			<role>Vriendin Danielle</role>
+		</credit>
+		<credit>
+			<actor>Erwin Bozzolini</actor>
+			<role>Bad guy</role>
+		</credit>
+		<credit>
+			<actor>Robbert Budde</actor>
+			<role>Wesley</role>
+		</credit>
+		<credit>
+			<actor>Benny Claessens</actor>
+			<role>Filip</role>
+		</credit>
+		<credit>
+			<actor>Johannes de Jong</actor>
+			<role>Oude Man op Camping</role>
+		</credit>
+		<credit>
+			<actor>Mika de Wild</actor>
+			<role>Jonge Ferry</role>
+		</credit>
+		<credit>
+			<actor>Tim de Zwart</actor>
+			<role>Man in Garage</role>
+		</credit>
+		<credit>
+			<actor>Adison dos Reis</actor>
+			<role>Olav</role>
+		</credit>
+		<credit>
+			<actor>Tim Haars</actor>
+			<role>Remco</role>
+		</credit>
+		<credit>
+			<actor>Maarten Heijmans</actor>
+			<role>Rico</role>
+		</credit>
+		<credit>
+			<actor>Guusje Hoornweg</actor>
+			<role>Jonge Claudia</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">May 14 2021</releasedate>
+		<releasedate country="Argentina">May 14 2021</releasedate>
+		<releasedate country="Australia">May 14 2021</releasedate>
+		<releasedate country="Belgium">May 14 2021</releasedate>
+		<releasedate country="Brazil">May 14 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">18</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">Youth not allowed</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+		<keyword>criminal</keyword>
+		<keyword>empire</keyword>
+		<keyword>undercover</keyword>
+		<keyword>drug</keyword>
+		<keyword>prequel</keyword>
+		<keyword>revenge</keyword>
+		<keyword>attack</keyword>
+		<keyword>defend</keyword>
+		<keyword>mission</keyword>
+	</keywords>
+	<directors>
+		<director> Cecilia Verheyden</director>
+	</directors>
+	<composers>
+		<composer> François De Meyer</composer>
+	</composers>
+	<producers>
+		<producer> Lina Brouneus</producer>
+		<producer> De Mensen</producer>
+		<producer> Nico Moolenaar</producer>
+		<producer> Hiskia Van Aert</producer>
+		<producer> Yves Van De Paer</producer>
+		<producer> Pieter Van Huyck</producer>
+		<producer> Janey van Ierland</producer>
+		<producer> Ivy Vanhaecke</producer>
+	</producers>
+	<writers>
+		<writer> Nico Moolenaar</writer>
+		<writer> Bart Uytdenhouwen</writer>
+	</writers>
+	<editors>
+		<editor> Gert Fimmers</editor>
+	</editors>
+</doc>

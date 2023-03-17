@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<doc id="tt6300100">
+	<docid>tt6300100</docid>
+	<title>Aetaneun Romaenseu</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWE3YjI3M2MtYjAyYS00YjAyLWFkZDAtOTM5NDVjZTY0ZGNiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">47</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>Jin-wook and Yoo-mi meet at a Gangwon-do resort and get caught up in a series of misunderstandings and accidents.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Ji-eun Song</actor>
+			<role>Lee Yumi</role>
+		</credit>
+		<credit>
+			<actor>Sung Hoon</actor>
+			<role>Cha Jin-wook</role>
+		</credit>
+		<credit>
+			<actor>Jae-young Kim</actor>
+			<role>Jung Hyun-tae</role>
+		</credit>
+		<credit>
+			<actor>Da-Sol Jeong</actor>
+			<role>Joo Hye-Ri</role>
+		</credit>
+		<credit>
+			<actor>Hae-In Lee</actor>
+			<role>Jang Eun-Bi</role>
+		</credit>
+		<credit>
+			<actor>Kim Jong-goo</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Lee Kan-Hee</actor>
+			<role>Kim Ae-Ryung</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="South Korea">April 17 2017</releasedate>
+		<releasedate country="Brazil">October 10 2017</releasedate>
+		<releasedate country="France">February 5 2019</releasedate>
+		<releasedate country="United Arab Emirates">September 3 2019</releasedate>
+		<releasedate country="Hong Kong">September 3 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Thailand">13+</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Cheol Woo Kang</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers/>
+	<editors/>
+</doc>

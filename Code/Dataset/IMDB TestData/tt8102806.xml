@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<doc id="tt8102806">
+	<docid>tt8102806</docid>
+	<title>The Night</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjU2NDY0ZTktYTM2Zi00NzhlLWIzZGUtMWE0N2MzNGI2YTkxXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_QL75_UX190_CR0,30,190,281_.jpg</image>
+	<year>II 2020</year>
+	<runningtimes>
+		<runningtime country="default">105</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An Iranian couple living in the US become trapped inside a hotel when insidious events force them to face the secrets that have come between them, in a night that never ends.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Shahab Hosseini</actor>
+			<role>Babak Naderi</role>
+		</credit>
+		<credit>
+			<actor>Niousha Noor</actor>
+			<role>Neda Naderi</role>
+		</credit>
+		<credit>
+			<actor>Leah Oganyan</actor>
+			<role>Shabnam Naderi</role>
+		</credit>
+		<credit>
+			<actor>George Maguire</actor>
+			<role>Hotel Receptionist</role>
+		</credit>
+		<credit>
+			<actor>Michael Graham</actor>
+			<role>Police Officer</role>
+		</credit>
+		<credit>
+			<actor>Armin Amiri</actor>
+			<role>Farhad</role>
+		</credit>
+		<credit>
+			<actor>Elester Latham</actor>
+			<role>Displaced Man</role>
+		</credit>
+		<credit>
+			<actor>Kathreen Khavari</actor>
+			<role>Elahe</role>
+		</credit>
+		<credit>
+			<actor>Gia Mora</actor>
+			<role>Sara</role>
+		</credit>
+		<credit>
+			<actor>Alain Ali Washnevsky</actor>
+			<role>Mohsen</role>
+		</credit>
+		<credit>
+			<actor>Lily V.K.</actor>
+			<role>Sofia</role>
+		</credit>
+		<credit>
+			<actor>Steph Martinez</actor>
+			<role>Sofia's Voice</role>
+		</credit>
+		<credit>
+			<actor>Amir Ali Hosseini</actor>
+			<role>5-Year-Old Boy</role>
+		</credit>
+		<credit>
+			<actor>Boshra Haghighi</actor>
+			<role>Woman in Black</role>
+		</credit>
+		<credit>
+			<actor>Cara Fuqua</actor>
+			<role>Woman in Black</role>
+		</credit>
+		<credit>
+			<actor>Sam Tarazandehpour</actor>
+			<role>Barbod</role>
+		</credit>
+		<credit>
+			<actor>Hana Rahimzadeh</actor>
+			<role>Mani</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 18 2020</releasedate>
+		<releasedate country="Iran">February 1 2020</releasedate>
+		<releasedate country="United States">March 8 2020</releasedate>
+		<releasedate country="Spain">October 8 2020</releasedate>
+		<releasedate country="United States">October 9 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>hotel</keyword>
+		<keyword>psychological</keyword>
+		<keyword>persian</keyword>
+		<keyword>shining</keyword>
+		<keyword>twin peaks</keyword>
+		<keyword>david lynch</keyword>
+		<keyword>kubrick</keyword>
+		<keyword>iran</keyword>
+	</keywords>
+	<directors>
+		<director> Kourosh Ahari</director>
+	</directors>
+	<composers>
+		<composer> Nima Fakhrara</composer>
+	</composers>
+	<producers>
+		<producer> Kourosh Ahari</producer>
+		<producer> Jeffrey Allard</producer>
+		<producer> Armin Amiri</producer>
+		<producer> Behnam Behbahani</producer>
+		<producer> Alex Bretow</producer>
+		<producer> Ryan Clarkson</producer>
+		<producer> Marcella Cortland</producer>
+		<producer> Jennifer Dehghan</producer>
+		<producer> Mohammad Dormanesh</producer>
+		<producer> Mohsen Dormanesh</producer>
+		<producer> Debra Fortier</producer>
+		<producer> Terry George</producer>
+		<producer> Chris Johns</producer>
+		<producer> P.K. Patel</producer>
+		<producer> George Rush</producer>
+		<producer> David Spisak</producer>
+		<producer> Cheryl Dillard Staurulakis</producer>
+		<producer> Leo Staurulakis</producer>
+	</producers>
+	<writers>
+		<writer> Kourosh Ahari</writer>
+		<writer> Milad Jarmooz</writer>
+	</writers>
+	<editors>
+		<editor> Kourosh Ahari</editor>
+	</editors>
+</doc>

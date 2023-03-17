@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<doc id="tt20205276">
+	<docid>tt20205276</docid>
+	<title>The Lion Skin</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjBjZWM3M2UtOWZkYS00ZmFjLTk4ZTItZmNhZjE3OGIxZmY1XkEyXkFqcGdeQXVyMTk0MTczMDI@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Naeem, who has endured 15 years in prison for his daughter's love, faces a major crisis after his release to see her.</plot>
+	<countries>
+		<country>Iran</country>
+	</countries>
+	<languages>
+		<language>Persian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Hadi Hejazifar</actor>
+			<role>Naeem</role>
+		</credit>
+		<credit>
+			<actor>Pantea Bahram</actor>
+			<role>Leila</role>
+		</credit>
+		<credit>
+			<actor>Shahab Hosseini</actor>
+			<role>Moheb</role>
+		</credit>
+		<credit>
+			<actor>Zhila Shahi</actor>
+			<role>Mojgan</role>
+		</credit>
+		<credit>
+			<actor>Mehrdad Sedighian</actor>
+			<role>Sadra</role>
+		</credit>
+		<credit>
+			<actor>Alireza Kamali</actor>
+			<role>Reza Parvaneh</role>
+		</credit>
+		<credit>
+			<actor>Pardis Ahmadieh</actor>
+			<role>Sahel</role>
+		</credit>
+		<credit>
+			<actor>Babak Karimi</actor>
+			<role>Behzad</role>
+		</credit>
+		<credit>
+			<actor>Hojjat Hassanpour Sargaroui</actor>
+			<role>Shahab</role>
+		</credit>
+		<credit>
+			<actor>Behzad Khalaj</actor>
+			<role>Rasoul</role>
+		</credit>
+		<credit>
+			<actor>Ali Osivand</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Mohammadreza Maleki</actor>
+			<role>Samad</role>
+		</credit>
+		<credit>
+			<actor>Hossein Damirchi</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Ramin Rastad</actor>
+			<role>Majid</role>
+		</credit>
+		<credit>
+			<actor>Kamran Tafti</actor>
+			<role>Nariman</role>
+		</credit>
+		<credit>
+			<actor>Anahita Afshar</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Alireza Ostadi</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Saeed Dashti</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Iran">September 1 2022</releasedate>
+		<releasedate country="Iran">September 22 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>prison</keyword>
+		<keyword>daughter</keyword>
+		<keyword>iran</keyword>
+		<keyword>police</keyword>
+	</keywords>
+	<directors>
+		<director> Jamshid Mahmoudi</director>
+	</directors>
+	<composers>
+		<composer> Bamdad Afshar</composer>
+	</composers>
+	<producers>
+		<producer> Navid Mahmoudi</producer>
+	</producers>
+	<writers>
+		<writer> Reza Baharvand</writer>
+		<writer> Jamshid Mahmoudi</writer>
+	</writers>
+	<editors>
+		<editor> Sara Ahani</editor>
+	</editors>
+</doc>

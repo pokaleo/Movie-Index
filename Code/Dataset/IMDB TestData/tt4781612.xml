@@ -1,0 +1,465 @@
+<?xml version="1.0" ?>
+<doc id="tt4781612">
+	<docid>tt4781612</docid>
+	<title>Imperium</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTk5MzY4MDkwOV5BMl5BanBnXkFtZTgwMzY4MzczOTE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2016</year>
+	<runningtimes>
+		<runningtime country="default">109</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A young FBI agent, eager to prove himself in the field, goes undercover as a white supremacist.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Daniel Radcliffe</actor>
+			<role>Nate Foster</role>
+		</credit>
+		<credit>
+			<actor>Toni Collette</actor>
+			<role>Angela Zamparo</role>
+		</credit>
+		<credit>
+			<actor>Tracy Letts</actor>
+			<role>Dallas Wolf</role>
+		</credit>
+		<credit>
+			<actor>Sam Trammell</actor>
+			<role>Gerry Conway</role>
+		</credit>
+		<credit>
+			<actor>Nestor Carbonell</actor>
+			<role>Tom Hernandez</role>
+		</credit>
+		<credit>
+			<actor>Chris Sullivan</actor>
+			<role>Andrew Blackwell</role>
+		</credit>
+		<credit>
+			<actor>Seth Numrich</actor>
+			<role>Roy</role>
+		</credit>
+		<credit>
+			<actor>Pawel Szajda</actor>
+			<role>Vince Sargent</role>
+		</credit>
+		<credit>
+			<actor>Devin Druid</actor>
+			<role>Johnny</role>
+		</credit>
+		<credit>
+			<actor>Burn Gorman</actor>
+			<role>Morgan</role>
+		</credit>
+		<credit>
+			<actor>Adam Meier</actor>
+			<role>Frank Hedges</role>
+		</credit>
+		<credit>
+			<actor>Roger Yawson</actor>
+			<role>Usman</role>
+		</credit>
+		<credit>
+			<actor>Linc Hand</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Ore</actor>
+			<role>Becky</role>
+		</credit>
+		<credit>
+			<actor>Jasson Finney</actor>
+			<role>Billy</role>
+		</credit>
+		<credit>
+			<actor>David Aranovich</actor>
+			<role>Ernest Walton</role>
+		</credit>
+		<credit>
+			<actor>Paul H Chapman</actor>
+			<role>Gary</role>
+		</credit>
+		<credit>
+			<actor>David B. Meadows</actor>
+			<role>Rick</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 19 2016</releasedate>
+		<releasedate country="United States">August 19 2016</releasedate>
+		<releasedate country="France">September 9 2016</releasedate>
+		<releasedate country="Philippines">September 14 2016</releasedate>
+		<releasedate country="Turkey">September 16 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">16+</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>white supremacist</keyword>
+		<keyword>undercover agent</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>cesium 137</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>one word title</keyword>
+		<keyword>written by director</keyword>
+		<keyword>fbi investigation</keyword>
+		<keyword>female fbi agent</keyword>
+		<keyword>headphones</keyword>
+		<keyword>classical music</keyword>
+		<keyword>listening to classical music</keyword>
+		<keyword>office</keyword>
+		<keyword>skinhead</keyword>
+		<keyword>neo nazi</keyword>
+		<keyword>radio broadcast</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>apartment</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>racism</keyword>
+		<keyword>racist</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>assumed identity</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>internet research</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>family home</keyword>
+		<keyword>garage</keyword>
+		<keyword>poison</keyword>
+		<keyword>hazmat suit</keyword>
+		<keyword>demonstration</keyword>
+		<keyword>ku klux klan</keyword>
+		<keyword>swastika</keyword>
+		<keyword>burning cross</keyword>
+		<keyword>treehouse</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>book</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>fbi raid</keyword>
+		<keyword>raid</keyword>
+		<keyword>compound</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>arrest</keyword>
+		<keyword>shaved head</keyword>
+		<keyword>nazi salute</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>diner</keyword>
+		<keyword>classroom</keyword>
+		<keyword>speech</keyword>
+		<keyword>secret identity</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>terrorism prevention</keyword>
+		<keyword>counter terrorism</keyword>
+		<keyword>domestic terrorism</keyword>
+		<keyword>bio terrorism</keyword>
+		<keyword>radioactivity</keyword>
+		<keyword>radioactive material</keyword>
+		<keyword>radio talk show host</keyword>
+		<keyword>radio talk show</keyword>
+		<keyword>infiltrator</keyword>
+		<keyword>right wing politics</keyword>
+		<keyword>right wing extremist</keyword>
+		<keyword>militia</keyword>
+		<keyword>geiger counter</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>riot</keyword>
+		<keyword>barrel</keyword>
+		<keyword>anti fascist</keyword>
+		<keyword>united states of america</keyword>
+		<keyword>irony</keyword>
+		<keyword>trust</keyword>
+		<keyword>male male embrace</keyword>
+		<keyword>triacetone triperoxide</keyword>
+		<keyword>explosive</keyword>
+		<keyword>pharmacist</keyword>
+		<keyword>radiation poisoning</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>fanatic</keyword>
+		<keyword>pride</keyword>
+		<keyword>champagne</keyword>
+		<keyword>chewing gun</keyword>
+		<keyword>fascism</keyword>
+		<keyword>class</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>shaving one's head</keyword>
+		<keyword>undercover operation</keyword>
+		<keyword>bomb</keyword>
+		<keyword>inspired by a true story</keyword>
+		<keyword>begins with quotation</keyword>
+		<keyword>reference to adolf hitler</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>checkpoint</keyword>
+		<keyword>underground parking garage</keyword>
+		<keyword>hands held up in the air</keyword>
+		<keyword>american flag</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>muslim</keyword>
+		<keyword>van</keyword>
+		<keyword>e mail</keyword>
+		<keyword>bar</keyword>
+		<keyword>bartender</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>reading a book</keyword>
+		<keyword>earphones</keyword>
+		<keyword>cubicle</keyword>
+		<keyword>computer</keyword>
+		<keyword>hut in the head with a toy football</keyword>
+		<keyword>virginia the state</keyword>
+		<keyword>reference to james cummings</keyword>
+		<keyword>reference to barack obama</keyword>
+		<keyword>f word</keyword>
+		<keyword>tapping someone's shoulder</keyword>
+		<keyword>apology</keyword>
+		<keyword>vacuum cleaner</keyword>
+		<keyword>reference to timothy mcveigh</keyword>
+		<keyword>name calling</keyword>
+		<keyword>black american</keyword>
+		<keyword>african american</keyword>
+		<keyword>truck bomb</keyword>
+		<keyword>federal building</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>race war</keyword>
+		<keyword>islamic</keyword>
+		<keyword>watching a video on a computer</keyword>
+		<keyword>reference to dale carnegie</keyword>
+		<keyword>iq</keyword>
+		<keyword>introvert</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>dirty bomb</keyword>
+		<keyword>montage</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>confederate flag</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>cutting out someone's tongue</keyword>
+		<keyword>reference to wade page</keyword>
+		<keyword>reference to larry ford</keyword>
+		<keyword>photograph</keyword>
+		<keyword>reference to liam krar</keyword>
+		<keyword>mirror</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>camera</keyword>
+		<keyword>photographer</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>id</keyword>
+		<keyword>dd 214 form</keyword>
+		<keyword>extremism</keyword>
+		<keyword>reference to terry nichols</keyword>
+		<keyword>loyalty</keyword>
+		<keyword>medical supply company</keyword>
+		<keyword>criminal informant</keyword>
+		<keyword>gang</keyword>
+		<keyword>security guard</keyword>
+		<keyword>pat down</keyword>
+		<keyword>policeman</keyword>
+		<keyword>cafe</keyword>
+		<keyword>beer</keyword>
+		<keyword>black leather jacket</keyword>
+		<keyword>reference to osama bin laden</keyword>
+		<keyword>paramilitary</keyword>
+		<keyword>sturmabtellung</keyword>
+		<keyword>revolution</keyword>
+		<keyword>boycott</keyword>
+		<keyword>anti semitism</keyword>
+		<keyword>band</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dancing</keyword>
+		<keyword>n word</keyword>
+		<keyword>beating</keyword>
+		<keyword>memory</keyword>
+		<keyword>bullying</keyword>
+		<keyword>sleeping on a sofa</keyword>
+		<keyword>hiding a computer</keyword>
+		<keyword>sieg heil</keyword>
+		<keyword>talk radio</keyword>
+		<keyword>spilling beer on oneself</keyword>
+		<keyword>rearview mirror</keyword>
+		<keyword>website</keyword>
+		<keyword>cupcake</keyword>
+		<keyword>anti fascist league</keyword>
+		<keyword>religion</keyword>
+		<keyword>rally</keyword>
+		<keyword>protest</keyword>
+		<keyword>jewish slur</keyword>
+		<keyword>jewish</keyword>
+		<keyword>aryan alliance</keyword>
+		<keyword>gay slur</keyword>
+		<keyword>christianity</keyword>
+		<keyword>backyard barbecue</keyword>
+		<keyword>boy</keyword>
+		<keyword>little girl</keyword>
+		<keyword>handshake</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>12 year old</keyword>
+		<keyword>reference to jesus christ</keyword>
+		<keyword>heritage</keyword>
+		<keyword>vodka</keyword>
+		<keyword>interracial couple</keyword>
+		<keyword>hate</keyword>
+		<keyword>hispanic slur</keyword>
+		<keyword>knife</keyword>
+		<keyword>breaking a shop window</keyword>
+		<keyword>burglar alarm</keyword>
+		<keyword>running</keyword>
+		<keyword>surveillance camera</keyword>
+		<keyword>white power</keyword>
+		<keyword>film within a film</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>head bandage</keyword>
+		<keyword>genocide</keyword>
+		<keyword>diversity</keyword>
+		<keyword>applause</keyword>
+		<keyword>march</keyword>
+		<keyword>vegetarian</keyword>
+		<keyword>reference to al sharpton</keyword>
+		<keyword>reference to jesse jackson</keyword>
+		<keyword>equality</keyword>
+		<keyword>barricade</keyword>
+		<keyword>megaphone</keyword>
+		<keyword>protest sign</keyword>
+		<keyword>bandana over mouth</keyword>
+		<keyword>fight</keyword>
+		<keyword>politics</keyword>
+		<keyword>head injury</keyword>
+		<keyword>honking a car horn</keyword>
+		<keyword>escape</keyword>
+		<keyword>trapped in a car</keyword>
+		<keyword>reference to johannes brahms</keyword>
+		<keyword>stuffed toy</keyword>
+		<keyword>reference to pyotr ilyich tchaikovsky</keyword>
+		<keyword>reference to leonard bernstein</keyword>
+		<keyword>reference to richard wagner</keyword>
+		<keyword>anger</keyword>
+		<keyword>capitalism</keyword>
+		<keyword>democracy</keyword>
+		<keyword>reference to david lane</keyword>
+		<keyword>zionist conspiracy</keyword>
+		<keyword>painting</keyword>
+		<keyword>reference to napoleon bonaparte</keyword>
+		<keyword>voice over conversation</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>rifle</keyword>
+		<keyword>firing range</keyword>
+		<keyword>cot</keyword>
+		<keyword>municipal water system</keyword>
+		<keyword>door knocker</keyword>
+		<keyword>old woman</keyword>
+		<keyword>radio studio</keyword>
+		<keyword>patriot</keyword>
+		<keyword>immigration</keyword>
+		<keyword>investor</keyword>
+		<keyword>bathroom</keyword>
+		<keyword>investigation</keyword>
+		<keyword>money</keyword>
+		<keyword>ar 15 rifle</keyword>
+		<keyword>waterfall</keyword>
+		<keyword>accusation of being an infiltrator</keyword>
+		<keyword>bank</keyword>
+		<keyword>tape recording</keyword>
+		<keyword>terror attack</keyword>
+		<keyword>year 1969</keyword>
+		<keyword>violence</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>prostate cancer</keyword>
+		<keyword>gun</keyword>
+		<keyword>record player</keyword>
+		<keyword>recording</keyword>
+		<keyword>idealist</keyword>
+		<keyword>1st amendment</keyword>
+		<keyword>washington monument washington d.c.</keyword>
+		<keyword>reference to eric robert rudolph</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>car</keyword>
+		<keyword>u.s. car</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford motor vehicle</keyword>
+		<keyword>ford car</keyword>
+		<keyword>ford f 150</keyword>
+		<keyword>cigarette</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Ragussis</director>
+	</directors>
+	<composers>
+		<composer> Will Bates</composer>
+	</composers>
+	<producers>
+		<producer> Ryan S. Black</producer>
+		<producer> Barry Brooker</producer>
+		<producer> Darius Campbell</producer>
+		<producer> Jeff Elliott</producer>
+		<producer> Eric Gold</producer>
+		<producer> Warren Goz</producer>
+		<producer> Ryan Guiterman</producer>
+		<producer> Dennis Lee</producer>
+		<producer> Andrew Mann</producer>
+		<producer> James Masciello</producer>
+		<producer> Chad Moore</producer>
+		<producer> Francisco Ordonez</producer>
+		<producer> Daniel Ragussis</producer>
+		<producer> Bobby Ranghelov</producer>
+		<producer> Lauren Selig</producer>
+		<producer> Simon Taufique</producer>
+		<producer> Ty Walker</producer>
+		<producer> Stan Wertlieb</producer>
+	</producers>
+	<writers>
+		<writer> Michael German</writer>
+		<writer> Joe Turner Lin</writer>
+		<writer> Daniel Ragussis</writer>
+	</writers>
+	<editors>
+		<editor> Sara Corrigan</editor>
+	</editors>
+</doc>

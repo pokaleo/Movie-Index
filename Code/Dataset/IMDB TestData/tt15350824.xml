@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<doc id="tt15350824">
+	<docid>tt15350824</docid>
+	<title>Munich Games</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODA5Y2Y3NzEtZGI4Zi00ZjhlLTk4NTMtZjBlNTAzNDQ5YjkzXkEyXkFqcGdeQXVyNjU4NjkyNjM@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">48</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>50 years after the Munich Massacre, Munich is hosting a soccer game between an Israeli and a German football club. When things start to fall apart, it seems history might be repeating all over again.</plot>
+	<countries>
+		<country>Israel</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Doval'e Glickman</actor>
+			<role>Jackie Igelski</role>
+		</credit>
+		<credit>
+			<actor>Igal Naor</actor>
+			<role>Rafi Paz</role>
+		</credit>
+		<credit>
+			<actor>Yousef 'Joe' Sweid</actor>
+			<role>Oren Simon</role>
+		</credit>
+		<credit>
+			<actor>Seyneb Saleh</actor>
+			<role>Maria Köhler</role>
+		</credit>
+		<credit>
+			<actor>Juliane Köhler</actor>
+			<role>Jutta Zängler</role>
+		</credit>
+		<credit>
+			<actor>Romi Aboulafia</actor>
+			<role>Noni</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Rudolph</actor>
+			<role>Michael Hahn</role>
+		</credit>
+		<credit>
+			<actor>David Zimmerschied</actor>
+			<role>Robbie Köhler</role>
+		</credit>
+		<credit>
+			<actor>Shenja Lacher</actor>
+			<role>Conrad Schmidt</role>
+		</credit>
+		<credit>
+			<actor>Roger Azar</actor>
+			<role>Monir Aziz</role>
+		</credit>
+		<credit>
+			<actor>Shadi Mar'i</actor>
+			<role>Abed Masalcha</role>
+		</credit>
+		<credit>
+			<actor>Omer Perelman Striks</actor>
+			<role>Mano Gur-Zeev</role>
+		</credit>
+		<credit>
+			<actor>Evgenia Dodina</actor>
+			<role>Ahuva Igelski</role>
+		</credit>
+		<credit>
+			<actor>Johnny Arbid</actor>
+			<role>Fathi Dawoud</role>
+		</credit>
+		<credit>
+			<actor>Anton Spieker</actor>
+			<role>Eugen Kresnik</role>
+		</credit>
+		<credit>
+			<actor>Lisa Hofer</actor>
+			<role>Laura</role>
+		</credit>
+		<credit>
+			<actor>Bernd Hölscher</actor>
+			<role>Jürgen</role>
+		</credit>
+		<credit>
+			<actor>Marko Copor</actor>
+			<role>Besim</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">September 4 2022</releasedate>
+		<releasedate country="Italy">October 5 2022</releasedate>
+		<releasedate country="Sweden">January 30 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>soccer</keyword>
+		<keyword>espionage</keyword>
+		<keyword>terror</keyword>
+		<keyword>hostage</keyword>
+		<keyword>attack</keyword>
+		<keyword>suspense</keyword>
+	</keywords>
+	<directors>
+		<director> Philipp Kadelbach</director>
+	</directors>
+	<composers>
+		<composer> Michael Kadelbach</composer>
+	</composers>
+	<producers>
+		<producer> Udo Happel</producer>
+		<producer> Amelie von Kienlin</producer>
+		<producer> Michal Aviram</producer>
+		<producer> Martin Behnke</producer>
+		<producer> Daniel Brühl</producer>
+		<producer> Malte Grunert</producer>
+		<producer> Julia Jaensch</producer>
+		<producer> Frank Jastfelder</producer>
+		<producer> Philipp Kadelbach</producer>
+		<producer> Meghan Lyvers</producer>
+	</producers>
+	<writers>
+		<writer> Michal Aviram</writer>
+		<writer> Martin Behnke</writer>
+	</writers>
+	<editors>
+		<editor> Bernd Schlegel</editor>
+		<editor> Patrick Wilfert</editor>
+	</editors>
+</doc>

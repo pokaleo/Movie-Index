@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<doc id="tt7161312">
+	<docid>tt7161312</docid>
+	<title>Informer</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTlkNWZhZGQtNjIxNC00OWU5LTg5NjEtY2EyMDY2NmQ2NGRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A young East London man is coerced by an officer to work undercover for him.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Paddy Considine</actor>
+			<role>Gabe Waters</role>
+		</credit>
+		<credit>
+			<actor>Nabhaan Rizwan</actor>
+			<role>Raza Shar</role>
+		</credit>
+		<credit>
+			<actor>Bel Powley</actor>
+			<role>Holly Morten</role>
+		</credit>
+		<credit>
+			<actor>Reiss Jeram</actor>
+			<role>Nasir Shar</role>
+		</credit>
+		<credit>
+			<actor>Fehinti Balogun</actor>
+			<role>Officer Cooper</role>
+		</credit>
+		<credit>
+			<actor>Arinzé Kene</actor>
+			<role>Sal Brahimi</role>
+		</credit>
+		<credit>
+			<actor>Paul Tylak</actor>
+			<role>Hanif Shar</role>
+		</credit>
+		<credit>
+			<actor>Robert Whitelock</actor>
+			<role>Officer Worrall</role>
+		</credit>
+		<credit>
+			<actor>Jessica Raine</actor>
+			<role>Emily Waters</role>
+		</credit>
+		<credit>
+			<actor>Sunetra Sarker</actor>
+			<role>Sadia Shar</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Rider</actor>
+			<role>Lady Justice Spencer</role>
+		</credit>
+		<credit>
+			<actor>Sharon D Clarke</actor>
+			<role>Rose Asante</role>
+		</credit>
+		<credit>
+			<actor>Roger Jean Nsengiyumva</actor>
+			<role>Dadir Hassan</role>
+		</credit>
+		<credit>
+			<actor>Martyn Mayger</actor>
+			<role>Anti Terrorist Officer</role>
+		</credit>
+		<credit>
+			<actor>Rachel Sophia-Anthony</actor>
+			<role>Nurse</role>
+		</credit>
+		<credit>
+			<actor>Susan Gillias</actor>
+			<role>CID</role>
+		</credit>
+		<credit>
+			<actor>Arsher Ali</actor>
+			<role>Imran Aziz</role>
+		</credit>
+		<credit>
+			<actor>Stanley Townsend</actor>
+			<role>Geoffrey Boyce</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">October 16 2018</releasedate>
+		<releasedate country="Poland">October 16 2018</releasedate>
+		<releasedate country="Canada">January 11 2019</releasedate>
+		<releasedate country="United States">January 11 2019</releasedate>
+		<releasedate country="Denmark">February 20 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+		<keyword>counter terrorism</keyword>
+		<keyword>police informant</keyword>
+		<keyword>london england</keyword>
+		<keyword>undercover</keyword>
+		<keyword>counter terrorism unit</keyword>
+		<keyword>east london</keyword>
+		<keyword>infiltration</keyword>
+		<keyword>british pakistani</keyword>
+		<keyword>one word title</keyword>
+	</keywords>
+	<directors>
+		<director> Jonny Campbell</director>
+	</directors>
+	<composers>
+		<composer> Ilan Eshkeri</composer>
+	</composers>
+	<producers>
+		<producer> Nicolas Brown</producer>
+		<producer> Elizabeth Kilgarriff</producer>
+		<producer> Sam Mendes</producer>
+		<producer> Julie Pastor</producer>
+		<producer> Louisa Rawlins</producer>
+		<producer> Julian Stevens</producer>
+	</producers>
+	<writers>
+		<writer> Rory Haines</writer>
+		<writer> Sohrab Noshirvani</writer>
+	</writers>
+	<editors>
+		<editor> Fiona Colbeck</editor>
+		<editor> Gareth C. Scales</editor>
+	</editors>
+</doc>

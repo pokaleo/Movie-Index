@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<doc id="tt3213684">
+	<docid>tt3213684</docid>
+	<title>1944: Forced to Fight</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODkxY2ZkYWYtM2Y4My00ZWJmLTk3ZmItOGYwNjFiN2MzY2FmXkEyXkFqcGdeQXVyNTkyMjQwNw@@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>History</genre>
+		<genre>War</genre>
+	</genres>
+	<plot>In 1944 Estonia, a fratricide war ensues when Estonians of the retreating German forces fight against Estonians conscripted into the advancing Soviet Red Army.</plot>
+	<countries>
+		<country>Estonia</country>
+	</countries>
+	<languages>
+		<language>Estonian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kaspar Velberg</actor>
+			<role>Karl Tammik</role>
+		</credit>
+		<credit>
+			<actor>Kristjan Üksküla</actor>
+			<role>Jüri Jõgi</role>
+		</credit>
+		<credit>
+			<actor>Maiken Pius</actor>
+			<role>Aino Tammik</role>
+		</credit>
+		<credit>
+			<actor>Gert Raudsep</actor>
+			<role>Ants 'Saareste'</role>
+		</credit>
+		<credit>
+			<actor>Hendrik Toompere Jr. Jr.</actor>
+			<role>Kristjan 'Põder'</role>
+		</credit>
+		<credit>
+			<actor>Karl-Andreas Kalmet</actor>
+			<role>Vladimir 'Kamenski'</role>
+		</credit>
+		<credit>
+			<actor>Henrik Kalmet</actor>
+			<role>Voldemar 'Piir'</role>
+		</credit>
+		<credit>
+			<actor>Pääru Oja</actor>
+			<role>Sanitar Elmar 'Säinas'</role>
+		</credit>
+		<credit>
+			<actor>Priit Strandberg</actor>
+			<role>Lembit 'Raadik'</role>
+		</credit>
+		<credit>
+			<actor>Priit Pius</actor>
+			<role>Vennad Käärid</role>
+		</credit>
+		<credit>
+			<actor>Märt Pius</actor>
+			<role>Vennad Käärid</role>
+		</credit>
+		<credit>
+			<actor>Kristo Viiding</actor>
+			<role>Leonhard 'Talu'</role>
+		</credit>
+		<credit>
+			<actor>Jaak Prints</actor>
+			<role>Autojuht Richard Pastak</role>
+		</credit>
+		<credit>
+			<actor>Magnús Mariuson</actor>
+			<role>'Taanlane Carl', Carl Madsen</role>
+		</credit>
+		<credit>
+			<actor>Mait Malmsten</actor>
+			<role>Omavalitsuse tegelane</role>
+		</credit>
+		<credit>
+			<actor>Tõnu Oja</actor>
+			<role>Omakaitse leitnant</role>
+		</credit>
+		<credit>
+			<actor>Sepo Seeman</actor>
+			<role>Taluperemees</role>
+		</credit>
+		<credit>
+			<actor>Anne Reemann</actor>
+			<role>Omakaitse naisvõitleja</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">February 8 2015</releasedate>
+		<releasedate country="Estonia">February 20 2015</releasedate>
+		<releasedate country="Latvia">May 4 2015</releasedate>
+		<releasedate country="Russia">May 21 2015</releasedate>
+		<releasedate country="Lithuania">May 22 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>year 1944</keyword>
+		<keyword>soviet red army</keyword>
+		<keyword>retreat</keyword>
+		<keyword>eastern front</keyword>
+		<keyword>waffen ss</keyword>
+		<keyword>german army</keyword>
+		<keyword>political officer</keyword>
+		<keyword>air strike</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>machine gunner</keyword>
+		<keyword>brother versus brother</keyword>
+		<keyword>1940s</keyword>
+		<keyword>estonian soviet socialist republic</keyword>
+		<keyword>soviet union</keyword>
+		<keyword>europe</keyword>
+		<keyword>timeframe 1940s</keyword>
+		<keyword>estonia</keyword>
+		<keyword>soldier</keyword>
+		<keyword>firearm</keyword>
+		<keyword>dead soldier</keyword>
+		<keyword>nazi soldier</keyword>
+		<keyword>military uniform</keyword>
+		<keyword>tallinn estonia</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>plane</keyword>
+		<keyword>air raid</keyword>
+		<keyword>doll</keyword>
+		<keyword>attack</keyword>
+		<keyword>enemy</keyword>
+		<keyword>shot</keyword>
+		<keyword>burial</keyword>
+		<keyword>grenade</keyword>
+		<keyword>tank</keyword>
+		<keyword>red army</keyword>
+		<keyword>nazi</keyword>
+		<keyword>world war two</keyword>
+		<keyword>sister</keyword>
+		<keyword>letter</keyword>
+		<keyword>death</keyword>
+	</keywords>
+	<directors>
+		<director> Elmo Nüganen</director>
+	</directors>
+	<composers>
+		<composer> Jaak Jürisson</composer>
+	</composers>
+	<producers>
+		<producer> Maria Avdjushko</producer>
+		<producer> Ilkka Matila</producer>
+		<producer> Kristjan Rahu</producer>
+		<producer> Kristian Taska</producer>
+	</producers>
+	<writers>
+		<writer> Leo Kunnas</writer>
+	</writers>
+	<editors>
+		<editor> Kimmo Taavila</editor>
+		<editor> Tambet Tasuja</editor>
+	</editors>
+</doc>

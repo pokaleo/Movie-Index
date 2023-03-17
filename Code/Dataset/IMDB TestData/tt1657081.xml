@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<doc id="tt1657081">
+	<docid>tt1657081</docid>
+	<title>Law &amp; Order: Los Angeles</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWE0ZGRkYmMtN2UzNy00MjU3LWJmMmQtZjNlZjIwOWM3OThjXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Los Angeles police detectives investigate crimes and district attorneys prosecute the offenders.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Corey Stoll</actor>
+			<role>Detective Tomas Jaruszalski</role>
+		</credit>
+		<credit>
+			<actor>Rachel Ticotin</actor>
+			<role>Lieutenant Arleen Gonzalez</role>
+		</credit>
+		<credit>
+			<actor>Alfred Molina</actor>
+			<role>Detective Ricardo Morales</role>
+		</credit>
+		<credit>
+			<actor>Terrence Howard</actor>
+			<role>Senior DDA Jonah Dekker</role>
+		</credit>
+		<credit>
+			<actor>Skeet Ulrich</actor>
+			<role>Detective Rex Winters</role>
+		</credit>
+		<credit>
+			<actor>Tamlyn Tomita</actor>
+			<role>Miwako Nishizawa</role>
+		</credit>
+		<credit>
+			<actor>Alana De La Garza</actor>
+			<role>Junior DDA Connie Rubirosa</role>
+		</credit>
+		<credit>
+			<actor>Peter Coyote</actor>
+			<role>DA Jerry Hardin</role>
+		</credit>
+		<credit>
+			<actor>Regina Hall</actor>
+			<role>Junior DDA Evelyn Price</role>
+		</credit>
+		<credit>
+			<actor>Megan Boone</actor>
+			<role>Junior DDA Lauren Stanton</role>
+		</credit>
+		<credit>
+			<actor>Teri Polo</actor>
+			<role>Casey Winters</role>
+		</credit>
+		<credit>
+			<actor>Jodi Long</actor>
+			<role>Judge Sonya Cruz</role>
+		</credit>
+		<credit>
+			<actor>Francesca P. Roberts</actor>
+			<role>Judge Martha Dreyer</role>
+		</credit>
+		<credit>
+			<actor>Tina Huang</actor>
+			<role>SID Technician Stacey Maris</role>
+		</credit>
+		<credit>
+			<actor>Elaine Kagan</actor>
+			<role>Judge Sonia Hirsh</role>
+		</credit>
+		<credit>
+			<actor>Mark Parra</actor>
+			<role>Dante</role>
+		</credit>
+		<credit>
+			<actor>Currie Graham</actor>
+			<role>Max Hearn</role>
+		</credit>
+		<credit>
+			<actor>Conor O'Farrell</actor>
+			<role>Lane Garfield</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">September 29 2010</releasedate>
+		<releasedate country="United States">September 29 2010</releasedate>
+		<releasedate country="Netherlands">January 17 2011</releasedate>
+		<releasedate country="Belgium">February 7 2011</releasedate>
+		<releasedate country="Finland">March 28 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>police</keyword>
+		<keyword>police procedural</keyword>
+		<keyword>legal</keyword>
+		<keyword>scene of the crime</keyword>
+		<keyword>california</keyword>
+		<keyword>los angeles california</keyword>
+		<keyword>investigation</keyword>
+		<keyword>latex gloves</keyword>
+	</keywords>
+	<directors>
+		<director> Alex Chapple</director>
+		<director> Vincent Misiano</director>
+		<director> Jean de Segonzac</director>
+		<director> Roger Young</director>
+		<director> Christopher Misiano</director>
+		<director> Ed Bianchi</director>
+		<director> Allen Coulter</director>
+		<director> Nick Gomez</director>
+		<director> Constantine Makris</director>
+		<director> Rene Balcer</director>
+		<director> Milan Cheylov</director>
+		<director> Tom DiCillo</director>
+		<director> Rod Holcomb</director>
+		<director> Christine Moore</director>
+		<director> Helen Shaver</director>
+	</directors>
+	<composers>
+		<composer> Atli Örvarsson</composer>
+	</composers>
+	<producers>
+		<producer> Rene Balcer</producer>
+		<producer> Jill Danton</producer>
+		<producer> Mark Dragin</producer>
+		<producer> Christopher Misiano</producer>
+		<producer> Dick Wolf</producer>
+		<producer> Peter Jankowski</producer>
+		<producer> Blake Masters</producer>
+		<producer> Tim Deluca</producer>
+		<producer> Arthur W. Forney</producer>
+		<producer> Julie Martin</producer>
+		<producer> Richard Sweren</producer>
+		<producer> Debra J. Fisher</producer>
+	</producers>
+	<writers>
+		<writer> Blake Masters</writer>
+		<writer> Blake Masters</writer>
+		<writer> Dick Wolf</writer>
+		<writer> Dick Wolf</writer>
+		<writer> Peter Blauner</writer>
+		<writer> Peter Blauner</writer>
+		<writer> Julie Martin</writer>
+		<writer> Richard Sweren</writer>
+		<writer> Michael S. Chernuchin</writer>
+		<writer> Debra J. Fisher</writer>
+		<writer> Rene Balcer</writer>
+		<writer> Judi McCreary</writer>
+		<writer> David Matthews</writer>
+	</writers>
+	<editors>
+		<editor> Michael Schweitzer</editor>
+		<editor> Leon Ortiz-Gil</editor>
+		<editor> Micky Blythe</editor>
+	</editors>
+</doc>

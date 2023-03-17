@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<doc id="tt23026906">
+	<docid>tt23026906</docid>
+	<title>The Parent Test</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTA1MTgwODAtYjM3NC00NGNlLThmMzctY2I5NmM2MzlkYTRiXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes/>
+	<genres>
+		<genre>Family</genre>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>Follows comedian Ali Wentworth along with parenting expert Dr. Adolph Brown, as they have conversations with parents about how we're raising our kids, while 12 families run through various situations.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Hashim Lafond</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Arlo Sarinas</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Ariana Grace Sarinas</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Sara Wynne</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Wentworth</actor>
+			<role>Self - Co-Host</role>
+		</credit>
+		<credit>
+			<actor>Adolph Brown</actor>
+			<role>Self - Co-Host</role>
+		</credit>
+		<credit>
+			<actor>Brylee Hsu</actor>
+			<role>Bully Girl</role>
+		</credit>
+		<credit>
+			<actor>Vincent Ticali</actor>
+			<role>Puppy Challenge Man</role>
+		</credit>
+		<credit>
+			<actor>Kor Wren</actor>
+			<role>Bullied Child</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">December 15 2022</releasedate>
+		<releasedate country="Canada">January 5 2023</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Brian Smith</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Wesley Dening</producer>
+		<producer> Brian Smith</producer>
+		<producer> Charles Wachter</producer>
+		<producer> Kate Felsted</producer>
+		<producer> Amy Bean</producer>
+		<producer> Vicky Bramley</producer>
+		<producer> Anita Brown</producer>
+		<producer> Briana Cosgrove</producer>
+		<producer> Chris Culvenor</producer>
+		<producer> Paul Franklin</producer>
+		<producer> Eden Gaha</producer>
+		<producer> Guillermo Gutiérrez</producer>
+		<producer> James Hills</producer>
+		<producer> Gabrielle Jones</producer>
+		<producer> Chris LeVan</producer>
+		<producer> Adam Mansfield</producer>
+		<producer> Mallory Morris</producer>
+		<producer> Cameron Randle</producer>
+		<producer> Chris Thorburn</producer>
+		<producer> David Tibballs</producer>
+		<producer> Jacqueline Topacio</producer>
+		<producer> James Olav Hill</producer>
+	</producers>
+	<writers/>
+	<editors/>
+</doc>

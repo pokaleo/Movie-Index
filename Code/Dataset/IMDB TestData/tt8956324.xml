@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<doc id="tt8956324">
+	<docid>tt8956324</docid>
+	<title>Warning</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmEzYjE0NGQtZTg1Ni00NDFmLWExZDYtNTZjNDdlMmE3NWFiXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>II 2021</year>
+	<runningtimes>
+		<runningtime country="default">86</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The meaning of life explored through multiple interconnected lives set in the near future.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Thomas Jane</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Tomasz Kot</actor>
+			<role>Brian</role>
+		</credit>
+		<credit>
+			<actor>Toni Garrn</actor>
+			<role>Olivia</role>
+		</credit>
+		<credit>
+			<actor>Rupert Everett</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Przemyslaw Wyszynski</actor>
+			<role>Robot Butler</role>
+		</credit>
+		<credit>
+			<actor>Alice Eve</actor>
+			<role>Claire</role>
+		</credit>
+		<credit>
+			<actor>James D'Arcy</actor>
+			<role>God</role>
+		</credit>
+		<credit>
+			<actor>Aleksandra Zagrodzka</actor>
+			<role>Emma</role>
+		</credit>
+		<credit>
+			<actor>Billy Howerdel</actor>
+			<role>Stu</role>
+		</credit>
+		<credit>
+			<actor>Kylie Bunbury</actor>
+			<role>Anna</role>
+		</credit>
+		<credit>
+			<actor>Patrick Schwarzenegger</actor>
+			<role>Ben</role>
+		</credit>
+		<credit>
+			<actor>Jakub Wypler</actor>
+			<role>Shadowfigure</role>
+		</credit>
+		<credit>
+			<actor>Annabelle Wallis</actor>
+			<role>Nina</role>
+		</credit>
+		<credit>
+			<actor>Alex Pettyfer</actor>
+			<role>Liam</role>
+		</credit>
+		<credit>
+			<actor>Annabel Mullion</actor>
+			<role>Dora</role>
+		</credit>
+		<credit>
+			<actor>Richard Pettyfer</actor>
+			<role>Ron</role>
+		</credit>
+		<credit>
+			<actor>Garance Marillier</actor>
+			<role>Magda</role>
+		</credit>
+		<credit>
+			<actor>Izabela Kuna</actor>
+			<role>Kamila</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Spain">October 13 2021</releasedate>
+		<releasedate country="Indonesia">October 22 2021</releasedate>
+		<releasedate country="Russia">October 22 2021</releasedate>
+		<releasedate country="United States">October 22 2021</releasedate>
+		<releasedate country="Philippines">October 26 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>life</keyword>
+		<keyword>vision of the future</keyword>
+		<keyword>end of the world</keyword>
+		<keyword>power outage</keyword>
+		<keyword>asteroid</keyword>
+		<keyword>pandemic</keyword>
+		<keyword>astronaut</keyword>
+		<keyword>space</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>dead</keyword>
+		<keyword>virtual</keyword>
+		<keyword>drone</keyword>
+		<keyword>overdose</keyword>
+		<keyword>illusion</keyword>
+		<keyword>mutation</keyword>
+		<keyword>emergency</keyword>
+		<keyword>last man standing</keyword>
+		<keyword>stars</keyword>
+		<keyword>thunder</keyword>
+		<keyword>galaxy</keyword>
+		<keyword>covid 28</keyword>
+		<keyword>coronavirus</keyword>
+		<keyword>doom and gloom</keyword>
+		<keyword>the god app</keyword>
+		<keyword>android</keyword>
+		<keyword>satellite</keyword>
+		<keyword>mayday the call for help</keyword>
+		<keyword>taser</keyword>
+		<keyword>adrift in space</keyword>
+		<keyword>co written by director</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Agata Alexander</director>
+	</directors>
+	<composers>
+		<composer> Gregory Tripi</composer>
+	</composers>
+	<producers>
+		<producer> Zachery Ty Bryan</producer>
+		<producer> Christopher S Burke</producer>
+		<producer> Natalia Domoratskaya</producer>
+		<producer> Stanislaw Dziedzic</producer>
+		<producer> Cybill Lui Eppich</producer>
+		<producer> Derrick Eppich</producer>
+		<producer> Aaron Galletta</producer>
+		<producer> James Hanzalik</producer>
+		<producer> Victoria Lineva</producer>
+		<producer> Scott Macleod</producer>
+		<producer> Stephen Mao</producer>
+		<producer> Tyler Martin</producer>
+		<producer> Nat McCormick</producer>
+		<producer> Cameron R. Moore</producer>
+		<producer> Brian O'Shea</producer>
+		<producer> Charles Stiefel</producer>
+		<producer> Daneen Stiefel</producer>
+		<producer> Bogna Szewczyk</producer>
+		<producer> Caddy Vanasirikul</producer>
+		<producer> Philip Waley</producer>
+	</producers>
+	<writers>
+		<writer> Agata Alexander</writer>
+		<writer> Rob Michaelson</writer>
+		<writer> Jason Kaye</writer>
+	</writers>
+	<editors>
+		<editor> Nikodem Chabior</editor>
+		<editor> Cam McLauchlin</editor>
+	</editors>
+</doc>

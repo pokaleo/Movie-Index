@@ -1,0 +1,255 @@
+<?xml version="1.0" ?>
+<doc id="tt4939064">
+	<docid>tt4939064</docid>
+	<title>Mars</title>
+	<image/>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>The first manned mission from Earth to Mars in 2033 attempts to colonize the red planet.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jihae</actor>
+			<role>Hana Seung</role>
+		</credit>
+		<credit>
+			<actor>Alberto Ammann</actor>
+			<role>Javier Delgado</role>
+		</credit>
+		<credit>
+			<actor>Sammi Rotibi</actor>
+			<role>Robert Foucault</role>
+		</credit>
+		<credit>
+			<actor>Clémentine Poidatz</actor>
+			<role>Amelie Durand</role>
+		</credit>
+		<credit>
+			<actor>Anamaria Marinca</actor>
+			<role>Marta Kamen</role>
+		</credit>
+		<credit>
+			<actor>Nick Wittman</actor>
+			<role>Oliver Lee</role>
+		</credit>
+		<credit>
+			<actor>Cosima Shaw</actor>
+			<role>Leslie Richardson</role>
+		</credit>
+		<credit>
+			<actor>Stephen Petranek</actor>
+			<role>Self - Author, How We'll Live On Mars</role>
+		</credit>
+		<credit>
+			<actor>Olivier Martinez</actor>
+			<role>Ed Grann</role>
+		</credit>
+		<credit>
+			<actor>Gunnar Cauthery</actor>
+			<role>Mike Glenn</role>
+		</credit>
+		<credit>
+			<actor>Roxy Sternberg</actor>
+			<role>Jen Carson</role>
+		</credit>
+		<credit>
+			<actor>Evan Hall</actor>
+			<role>Shep Marster</role>
+		</credit>
+		<credit>
+			<actor>Jeff Hephner</actor>
+			<role>Kurt Hurrelle</role>
+		</credit>
+		<credit>
+			<actor>Kata Sarbó</actor>
+			<role>Ava Macon</role>
+		</credit>
+		<credit>
+			<actor>Elon Musk</actor>
+			<role>Self - CEO and Lead Designer, SpaceX</role>
+		</credit>
+		<credit>
+			<actor>Neil deGrasse Tyson</actor>
+			<role>Self - Director, Hayden Planetarium</role>
+		</credit>
+		<credit>
+			<actor>Antoinette Fekete</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Akbar Kurtha</actor>
+			<role>Dr. Jay Johar</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">November 13 2016</releasedate>
+		<releasedate country="Brazil">November 13 2016</releasedate>
+		<releasedate country="Netherlands">November 13 2016</releasedate>
+		<releasedate country="Poland">November 13 2016</releasedate>
+		<releasedate country="Turkey">November 13 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">PG</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>year 2033</keyword>
+		<keyword>year 2016</keyword>
+		<keyword>mars the planet</keyword>
+		<keyword>expedition to mars</keyword>
+		<keyword>mission to mars</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>mars missions corporation</keyword>
+		<keyword>international mars science foundation</keyword>
+		<keyword>female film director as character</keyword>
+		<keyword>outer space</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>space opera sci fi</keyword>
+		<keyword>colony sci fi</keyword>
+		<keyword>docufiction</keyword>
+		<keyword>based on book</keyword>
+	</keywords>
+	<directors>
+		<director> Everardo Gout</director>
+		<director> Stephen Cragg</director>
+		<director> Ashley Way</director>
+	</directors>
+	<composers>
+		<composer> Warren Ellis</composer>
+		<composer> Brian Reitzell</composer>
+	</composers>
+	<producers>
+		<producer> Meredith Kaulfers</producer>
+		<producer> Ildiko Kemeny</producer>
+		<producer> David Minkowski</producer>
+		<producer> Justin Wilkes</producer>
+		<producer> Taimi Arvidson</producer>
+		<producer> Emelia Brown</producer>
+		<producer> Brian Grazer</producer>
+		<producer> Jennifer Helm</producer>
+		<producer> Jon Kamen</producer>
+		<producer> Tim Pastore</producer>
+		<producer> Stephen Petranek</producer>
+		<producer> Matt Renner</producer>
+		<producer> Michael Rosenberg</producer>
+		<producer> Kim Rudolph</producer>
+		<producer> Tommy Turtle</producer>
+		<producer> Ron Howard</producer>
+		<producer> Zakaria Alaoui</producer>
+		<producer> Elizabeth Garrett</producer>
+		<producer> Elizabeth Leiter</producer>
+		<producer> Meegan Neeb</producer>
+		<producer> Robert Palumbo</producer>
+		<producer> André Bormanis</producer>
+		<producer> Mickey Fisher</producer>
+		<producer> Everardo Gout</producer>
+		<producer> Karen Janszen</producer>
+		<producer> Rachel Libert</producer>
+		<producer> Ben Young Mason</producer>
+		<producer> Dave O'Connor</producer>
+		<producer> Peter Richardson</producer>
+		<producer> Amanda Rohlke</producer>
+		<producer> Meghan Schale</producer>
+		<producer> Holly Siegel</producer>
+		<producer> Jonathan Silberberg</producer>
+		<producer> Dave Sirulnick</producer>
+		<producer> Paul Solet</producer>
+		<producer> Bob Stein</producer>
+		<producer> Lindsay Washick</producer>
+		<producer> Howard Young</producer>
+		<producer> David Gould</producer>
+		<producer> Julie Hébert</producer>
+		<producer> Jen Isaacson</producer>
+		<producer> Dee Johnson</producer>
+		<producer> Paul Keables</producer>
+		<producer> Matthew Patnick</producer>
+		<producer> Austin Short</producer>
+		<producer> Patriciana Tenicela</producer>
+		<producer> James Uminowicz</producer>
+		<producer> Allison Koch</producer>
+		<producer> Emily Osborne</producer>
+		<producer> Derek Knowles</producer>
+		<producer> Tomek Gross</producer>
+		<producer> Elizabeth Wolff</producer>
+		<producer> Patricia D'Intino</producer>
+		<producer> Courtney Thompson Hutchens</producer>
+		<producer> Stephen S. Jaffe</producer>
+		<producer> Steve Jaffe</producer>
+		<producer> Lorenzo Mieli</producer>
+		<producer> Sarah Tautin</producer>
+	</producers>
+	<writers>
+		<writer> André Bormanis</writer>
+		<writer> André Bormanis</writer>
+		<writer> André Bormanis</writer>
+		<writer> Mickey Fisher</writer>
+		<writer> Mickey Fisher</writer>
+		<writer> Mickey Fisher</writer>
+		<writer> Karen Janszen</writer>
+		<writer> Karen Janszen</writer>
+		<writer> Karen Janszen</writer>
+		<writer> Ben Young Mason</writer>
+		<writer> Ben Young Mason</writer>
+		<writer> Ben Young Mason</writer>
+		<writer> Ben Young Mason</writer>
+		<writer> Jonathan Silberberg</writer>
+		<writer> Justin Wilkes</writer>
+		<writer> Stephen Petranek</writer>
+		<writer> Paul Solet</writer>
+		<writer> Paul Solet</writer>
+		<writer> Dee Johnson</writer>
+		<writer> David Gould</writer>
+		<writer> Julie Hébert</writer>
+		<writer> Paul Keables</writer>
+	</writers>
+	<editors>
+		<editor> Jim Helton</editor>
+		<editor> David Mehlman</editor>
+		<editor> Jonah Moran</editor>
+		<editor> Dave Marcus</editor>
+		<editor> Bill Pankow</editor>
+		<editor> Tim Porter</editor>
+		<editor> Matthew Prinzing</editor>
+		<editor> Joe Sawyer</editor>
+		<editor> Edward Bishop</editor>
+		<editor> M. Brennan</editor>
+		<editor> Brett Mason</editor>
+		<editor> Josh Pearson</editor>
+		<editor> Timothy Ziegler</editor>
+	</editors>
+</doc>

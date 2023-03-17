@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<doc id="tt9849004">
+	<docid>tt9849004</docid>
+	<title>Happily</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGMxMzBhNDQtODJhNy00NDBmLWI5NTYtMTJkMjUxYjE0OWZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">96</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A dark romantic comedy. Tom and Janet have been happily married for years. But a visit from a mysterious stranger leads to a dead body, a lot of questions, and a tense couples' trip with friends who may not actually be friends at all.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kerry Bishé</actor>
+			<role>Janet</role>
+		</credit>
+		<credit>
+			<actor>Joel McHale</actor>
+			<role>Tom</role>
+		</credit>
+		<credit>
+			<actor>Al Madrigal</actor>
+			<role>Arthur</role>
+		</credit>
+		<credit>
+			<actor>Natalie Zea</actor>
+			<role>Karen</role>
+		</credit>
+		<credit>
+			<actor>Paul Scheer</actor>
+			<role>Val</role>
+		</credit>
+		<credit>
+			<actor>Billie Wolff</actor>
+			<role>Waitress</role>
+		</credit>
+		<credit>
+			<actor>Stephen Root</actor>
+			<role>Goodman</role>
+		</credit>
+		<credit>
+			<actor>Natalie Morales</actor>
+			<role>Patricia</role>
+		</credit>
+		<credit>
+			<actor>Jon Daly</actor>
+			<role>Donald</role>
+		</credit>
+		<credit>
+			<actor>Kirby</actor>
+			<role>Maude</role>
+		</credit>
+		<credit>
+			<actor>Shannon Woodward</actor>
+			<role>Carla</role>
+		</credit>
+		<credit>
+			<actor>Charlyne Yi</actor>
+			<role>Gretel</role>
+		</credit>
+		<credit>
+			<actor>Breckin Meyer</actor>
+			<role>Richard</role>
+		</credit>
+		<credit>
+			<actor>Brea Grant</actor>
+			<role>Cashier</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">March 19 2021</releasedate>
+		<releasedate country="United States">March 19 2021</releasedate>
+		<releasedate country="United Kingdom">May 2 2021</releasedate>
+		<releasedate country="India">May 25 2021</releasedate>
+		<releasedate country="Spain">June 18 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>visit</keyword>
+	</keywords>
+	<directors>
+		<director> BenDavid Grabinski</director>
+	</directors>
+	<composers>
+		<composer> Joseph Trapanese</composer>
+	</composers>
+	<producers>
+		<producer> Spencer Berman</producer>
+		<producer> Jack Black</producer>
+		<producer> Chuckie Duff</producer>
+		<producer> BenDavid Grabinski</producer>
+		<producer> Dave Green</producer>
+		<producer> Ross Kohn</producer>
+		<producer> Nancy Leopardi</producer>
+		<producer> Grant McCord</producer>
+		<producer> Kyle Newman</producer>
+	</producers>
+	<writers>
+		<writer> BenDavid Grabinski</writer>
+	</writers>
+	<editors>
+		<editor> Spencer Houck</editor>
+	</editors>
+</doc>

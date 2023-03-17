@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<doc id="tt11173298">
+	<docid>tt11173298</docid>
+	<title>Tournament of Champions</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzc3MDZkYjMtYjg2My00YzYwLTgyY2YtNWQyZDNiNDY4OTljXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Game-Show</genre>
+	</genres>
+	<plot>16 chefs going head-to-head in a series of challenges using ingredients and special cooking tools and equipment while racing against the clock.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Guy Fieri</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Justin Warner</actor>
+			<role>Self - Presenter</role>
+		</credit>
+		<credit>
+			<actor>Simon Majumdar</actor>
+			<role>Self - Presenter</role>
+		</credit>
+		<credit>
+			<actor>Jet Tila</actor>
+			<role>Self - Contestant: West Coast B1</role>
+		</credit>
+		<credit>
+			<actor>Brooke Williamson</actor>
+			<role>Self - Contestant: West Coast A1</role>
+		</credit>
+		<credit>
+			<actor>Tiffani Faison</actor>
+			<role>Self - Contestant: East Coast A3</role>
+		</credit>
+		<credit>
+			<actor>Maneet Chauhan</actor>
+			<role>Self - Contestant: East Coast A1</role>
+		</credit>
+		<credit>
+			<actor>Hunter Fieri</actor>
+			<role>Self - Backstage Correspondent</role>
+		</credit>
+		<credit>
+			<actor>Nancy Silverton</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Antonia Lofaso</actor>
+			<role>Self - Contestant - West Coast 2</role>
+		</credit>
+		<credit>
+			<actor>Michael Voltaggio</actor>
+			<role>Self - Contestant: West Coast A2</role>
+		</credit>
+		<credit>
+			<actor>Amanda Freitag</actor>
+			<role>Self - Contestant - East Coast 4</role>
+		</credit>
+		<credit>
+			<actor>Marcus Samuelsson</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Darnell Ferguson</actor>
+			<role>Self - Contestant - East Coast 4</role>
+		</credit>
+		<credit>
+			<actor>Christian Petroni</actor>
+			<role>Self - Contestant - East Coast 3</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Falkner</actor>
+			<role>Self - Contestant: West Coast B5</role>
+		</credit>
+		<credit>
+			<actor>Tobias Dorzon</actor>
+			<role>Self - Contestant: East Coast B7</role>
+		</credit>
+		<credit>
+			<actor>Rocco DiSpirito</actor>
+			<role>Self - Judge</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">March 4 2020</releasedate>
+		<releasedate country="Canada">March 8 2020</releasedate>
+		<releasedate country="South Africa">October 28 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cooking</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Steve Hryniewicz</director>
+		<director> J. Rupert Thompson</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Hilary Kinzler</producer>
+		<producer> Guy Fieri</producer>
+		<producer> Brian Lando</producer>
+		<producer> Lindsay Luttrell</producer>
+		<producer> Francesco Giuseppe Pace</producer>
+		<producer> Megan Palmer</producer>
+		<producer> Sam Perotti</producer>
+		<producer> Cara Rifkin</producer>
+		<producer> Susan Smith</producer>
+		<producer> Bob Stone</producer>
+		<producer> Eric Koziatek</producer>
+		<producer> Matthew Bell</producer>
+		<producer> Bryan Johnson</producer>
+		<producer> David Lewis</producer>
+		<producer> Kate Feld</producer>
+		<producer> Johanna Stone</producer>
+		<producer> Timothy Ryan Cole</producer>
+		<producer> Dustin Drury</producer>
+		<producer> Breanna Jensen</producer>
+		<producer> Charles McGarrigle</producer>
+		<producer> Dean Ollins</producer>
+		<producer> Blanca Sanchez</producer>
+		<producer> Tyler Walton</producer>
+		<producer> Devon Williams</producer>
+		<producer> Nicole Erbes</producer>
+		<producer> John Gaeta</producer>
+		<producer> Jenile Brooks</producer>
+		<producer> Kayla Murray</producer>
+		<producer> Bradley Warden</producer>
+		<producer> Nick Fries</producer>
+		<producer> Krista Bean Fukunaga</producer>
+		<producer> Whit Hansen</producer>
+		<producer> Catherine Oyster</producer>
+		<producer> Karen Pagtama</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Michael Chaskes</editor>
+		<editor> Matthew Bell</editor>
+		<editor> Skip Robinson</editor>
+		<editor> Philip Casias</editor>
+		<editor> Juan Pablo Prieto</editor>
+		<editor> Asher Glaser</editor>
+		<editor> Matt Brown</editor>
+		<editor> Megan Carson</editor>
+		<editor> William L. Hawkins</editor>
+		<editor> J.J. Jackson</editor>
+		<editor> Ingmar Lara</editor>
+		<editor> A.J. Valenzuela</editor>
+		<editor> Jelena Stjepanovic</editor>
+	</editors>
+</doc>

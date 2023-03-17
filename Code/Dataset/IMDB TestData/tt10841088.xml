@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt10841088">
+	<docid>tt10841088</docid>
+	<title>Riverdance</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWQ0NTRlNjQtMzQzMy00NDZjLWJkZmMtZWRmMTZiZWE1OWZiXkEyXkFqcGdeQXVyNTU5NzUwNw@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>An Irish boy named Keegan and a Spanish girl named Moya journey into the mythical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Pierce Brosnan</actor>
+			<role>Grandpa</role>
+		</credit>
+		<credit>
+			<actor>Sam Hardy</actor>
+			<role>Keegan</role>
+		</credit>
+		<credit>
+			<actor>Hannah Herman</actor>
+			<role>Moya</role>
+		</credit>
+		<credit>
+			<actor>Lilly Singh</actor>
+			<role>Penny</role>
+		</credit>
+		<credit>
+			<actor>Jermaine Fowler</actor>
+			<role>Benny</role>
+		</credit>
+		<credit>
+			<actor>Pauline McLynn</actor>
+			<role>Grandma</role>
+		</credit>
+		<credit>
+			<actor>John Kavanagh</actor>
+			<role>The Gatekeeper</role>
+		</credit>
+		<credit>
+			<actor>Aisling Bea</actor>
+			<role>Margot</role>
+		</credit>
+		<credit>
+			<actor>Brendan Gleeson</actor>
+			<role>The Huntsman</role>
+		</credit>
+		<credit>
+			<actor>Danny McColgan</actor>
+			<role>Liam &amp; Bros</role>
+		</credit>
+		<credit>
+			<actor>John McColgan</actor>
+			<role>Priest</role>
+		</credit>
+		<credit>
+			<actor>Jessica Kardos</actor>
+			<role>Scratch talent</role>
+		</credit>
+		<credit>
+			<actor>Scott Barrow</actor>
+			<role>Townsfolk</role>
+		</credit>
+		<credit>
+			<actor>Stephen Delahunty</actor>
+			<role>Townsfolk</role>
+		</credit>
+		<credit>
+			<actor>Conor Drum</actor>
+			<role>Townsfolk</role>
+		</credit>
+		<credit>
+			<actor>Rory Kardos-Ivess</actor>
+			<role>Townsfolk</role>
+		</credit>
+		<credit>
+			<actor>Thomas Lappin</actor>
+			<role>Townsfolk</role>
+		</credit>
+		<credit>
+			<actor>Rian Sheridan</actor>
+			<role>Larson</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">2021</releasedate>
+		<releasedate country="New Zealand">2021</releasedate>
+		<releasedate country="United Kingdom">May 28 2021</releasedate>
+		<releasedate country="Italy">September 22 2021</releasedate>
+		<releasedate country="France">October 4 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">TV-G</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Mexico">TV-G</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United Arab Emirates">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>boy</keyword>
+		<keyword>firework</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>celtic mythology</keyword>
+		<keyword>dance</keyword>
+		<keyword>deer</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>grief</keyword>
+		<keyword>ireland</keyword>
+		<keyword>river</keyword>
+		<keyword>st. patrick's day</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>village</keyword>
+	</keywords>
+	<directors>
+		<director> Eamonn Butler</director>
+		<director> Dave Rosenbaum</director>
+	</directors>
+	<composers>
+		<composer> Bill Whelan</composer>
+	</composers>
+	<producers>
+		<producer> Phil Brown</producer>
+		<producer> Patricia Carroll</producer>
+		<producer> Moya Doherty</producer>
+		<producer> Ivan Epstein</producer>
+		<producer> Warren Franklin</producer>
+		<producer> John Gleeson</producer>
+		<producer> Kendra Haaland</producer>
+		<producer> Richard Hodsden</producer>
+		<producer> Antony Hunt</producer>
+		<producer> John Kambites</producer>
+		<producer> Joel MacDonald</producer>
+		<producer> John McColgan</producer>
+		<producer> Ollie McGovern</producer>
+		<producer> Adam Nagle</producer>
+		<producer> Peter Nagle</producer>
+		<producer> Duncan Rodger</producer>
+		<producer> Steve Hamilton Shaw</producer>
+		<producer> Emilie Talles</producer>
+	</producers>
+	<writers>
+		<writer> Dave Rosenbaum</writer>
+		<writer> Tyler Werrin</writer>
+	</writers>
+	<editors>
+		<editor> Kevin Pavlovic</editor>
+	</editors>
+</doc>

@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<doc id="tt2314952">
+	<docid>tt2314952</docid>
+	<title>Comedians in Cars Getting Coffee</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWExMDNjMGYtNDcwYy00ZmY4LTliY2UtYWNiNjY4NDY2MTBkXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">20</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+		<genre>Talk-Show</genre>
+	</genres>
+	<plot>Jerry Seinfeld is joined by friends for a cup of coffee and a drive in a classic car, sharing stories all along the way.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jerry Seinfeld</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Michael Richards</actor>
+			<role>Dick Corcoran</role>
+		</credit>
+		<credit>
+			<actor>Mario Joyner</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Fallon</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Ricky Gervais</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Barry Marder</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Alec Baldwin</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Bob Einstein</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Sebastian Maniscalco</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Brian Regan</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Louis C.K.</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Julia Louis-Dreyfus</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Don Rickles</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Seth Meyers</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>David Letterman</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Gad Elmaleh</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Sarah Jessica Parker</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Robert Klein</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">July 19 2012</releasedate>
+		<releasedate country="Australia">January 5 2018</releasedate>
+		<releasedate country="Germany">January 5 2018</releasedate>
+		<releasedate country="South Korea">January 5 2018</releasedate>
+		<releasedate country="Mexico">January 5 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>coffee</keyword>
+		<keyword>car</keyword>
+		<keyword>celebrity guest</keyword>
+		<keyword>beverage</keyword>
+		<keyword>driving</keyword>
+		<keyword>comedian</keyword>
+		<keyword>web series</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>eating with a fork</keyword>
+		<keyword>enjoying each other's company</keyword>
+		<keyword>friend</keyword>
+		<keyword>drinking coffee</keyword>
+		<keyword>drink</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>eating out</keyword>
+		<keyword>dining in</keyword>
+		<keyword>dining</keyword>
+		<keyword>sharing stories</keyword>
+		<keyword>sharing funny stories</keyword>
+		<keyword>making one another laugh</keyword>
+		<keyword>miming cigarette smoking</keyword>
+		<keyword>talking while food is in the mouth</keyword>
+		<keyword>condiment</keyword>
+		<keyword>talking about oneself</keyword>
+		<keyword>hindsight</keyword>
+		<keyword>friend supporting another friend</keyword>
+		<keyword>laughter</keyword>
+		<keyword>comedy talk show</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Larry David</director>
+		<director> Jerry Seinfeld</director>
+	</directors>
+	<composers>
+		<composer> Shawn K. Clement</composer>
+		<composer> Aaron Kaplan</composer>
+		<composer> Wade Marshall</composer>
+		<composer> David Starck</composer>
+	</composers>
+	<producers>
+		<producer> Denis Jensen</producer>
+		<producer> Tammy Johnston</producer>
+		<producer> Melissa Miller</producer>
+		<producer> Josh Ricks</producer>
+		<producer> Jerry Seinfeld</producer>
+		<producer> David Tuohy</producer>
+		<producer> Richard Sterling</producer>
+		<producer> Blake Webster</producer>
+		<producer> Bob Fisher</producer>
+	</producers>
+	<writers>
+		<writer> Jerry Seinfeld</writer>
+		<writer> Larry David</writer>
+	</writers>
+	<editors>
+		<editor> Peter Holmes</editor>
+		<editor> Yossi Kimberg</editor>
+		<editor> Paul Viskup</editor>
+		<editor> Paul Little</editor>
+		<editor> Kyle Gilman</editor>
+		<editor> Stavros Stavropoulos</editor>
+	</editors>
+</doc>

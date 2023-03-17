@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<doc id="tt5620076">
+	<docid>tt5620076</docid>
+	<title>Chance</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTc3MDYwNTg4NF5BMl5BanBnXkFtZTgwMTk0NDYzMDI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A forensic neuro-psychiatrist reluctantly enters a dangerous and violent world of mistaken identity, police corruption and mental illness.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Hugh Laurie</actor>
+			<role>Eldon Chance</role>
+		</credit>
+		<credit>
+			<actor>Ethan Suplee</actor>
+			<role>D</role>
+		</credit>
+		<credit>
+			<actor>Greta Lee</actor>
+			<role>Lucy</role>
+		</credit>
+		<credit>
+			<actor>Stefania LaVie Owen</actor>
+			<role>Nicole Chance</role>
+		</credit>
+		<credit>
+			<actor>Clarke Peters</actor>
+			<role>Carl</role>
+		</credit>
+		<credit>
+			<actor>Brian Goodman</actor>
+			<role>Detective Kevin Hynes</role>
+		</credit>
+		<credit>
+			<actor>Diane Farr</actor>
+			<role>Christina</role>
+		</credit>
+		<credit>
+			<actor>LisaGay Hamilton</actor>
+			<role>Suzanne Silver</role>
+		</credit>
+		<credit>
+			<actor>Paul Adelstein</actor>
+			<role>Raymond Blackstone</role>
+		</credit>
+		<credit>
+			<actor>Gretchen Mol</actor>
+			<role>Jaclyn Blackstone</role>
+		</credit>
+		<credit>
+			<actor>Paul Schneider</actor>
+			<role>Ryan Winter</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Rodriguez</actor>
+			<role>Dr. Kristen Clayton</role>
+		</credit>
+		<credit>
+			<actor>Ginger Gonzaga</actor>
+			<role>Lorena</role>
+		</credit>
+		<credit>
+			<actor>Tim Griffin</actor>
+			<role>ADA Frank Lambert</role>
+		</credit>
+		<credit>
+			<actor>Alyson Reed</actor>
+			<role>Lyndsay Hamilton</role>
+		</credit>
+		<credit>
+			<actor>Michael McGrady</actor>
+			<role>Sanford Pringle</role>
+		</credit>
+		<credit>
+			<actor>Sal Lopez</actor>
+			<role>Jean-Baptiste</role>
+		</credit>
+		<credit>
+			<actor>Michael Rupnow</actor>
+			<role>Neil</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">October 19 2016</releasedate>
+		<releasedate country="Turkey">October 19 2016</releasedate>
+		<releasedate country="United States">October 19 2016</releasedate>
+		<releasedate country="Poland">April 24 2017</releasedate>
+		<releasedate country="Germany">May 18 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>san francisco california</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>mistaken identity</keyword>
+		<keyword>unlikely friendship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>love interest</keyword>
+		<keyword>weapons expert</keyword>
+		<keyword>security expert</keyword>
+		<keyword>buddy</keyword>
+		<keyword>evil cop</keyword>
+		<keyword>professional killer</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>abuse</keyword>
+		<keyword>multiple identity disorder</keyword>
+		<keyword>psychiatric evaluation</keyword>
+		<keyword>trauma</keyword>
+		<keyword>divorce</keyword>
+		<keyword>stalking</keyword>
+		<keyword>mental health</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>multiple personality disorder</keyword>
+		<keyword>retaliation</keyword>
+		<keyword>domestic violence</keyword>
+		<keyword>neuropsychologist</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Attias</director>
+		<director> Michael Lehmann</director>
+		<director> Nelson McCormick</director>
+		<director> Jonas Pate</director>
+		<director> Andrew Bernstein</director>
+		<director> Roxann Dawson</director>
+		<director> Carl Franklin</director>
+		<director> Lenny Abrahamson</director>
+	</directors>
+	<composers>
+		<composer> Will Bates</composer>
+	</composers>
+	<producers>
+		<producer> Jonathan Talbert</producer>
+		<producer> Alyson Evans</producer>
+		<producer> Andrew Gettens</producer>
+		<producer> Steve Kornacki</producer>
+		<producer> Lauren MacKenzie</producer>
+		<producer> Michael Lehmann</producer>
+		<producer> Michael London</producer>
+		<producer> Kem Nunn</producer>
+		<producer> Victoria Morrow</producer>
+		<producer> Jane Bartelme</producer>
+		<producer> Alexandra Cunningham</producer>
+		<producer> Peter Elkoff</producer>
+		<producer> Jennifer Shaw</producer>
+		<producer> Peter Oberth</producer>
+		<producer> Lenny Abrahamson</producer>
+		<producer> Sara Gran</producer>
+		<producer> Brian Grazer</producer>
+		<producer> Hugh Laurie</producer>
+		<producer> Janice Williams</producer>
+	</producers>
+	<writers>
+		<writer> Alexandra Cunningham</writer>
+		<writer> Alexandra Cunningham</writer>
+		<writer> Alexandra Cunningham</writer>
+		<writer> Alexandra Cunningham</writer>
+		<writer> Kem Nunn</writer>
+		<writer> Kem Nunn</writer>
+		<writer> Kem Nunn</writer>
+		<writer> Kem Nunn</writer>
+		<writer> Peter Elkoff</writer>
+		<writer> Peter Elkoff</writer>
+		<writer> Uros B</writer>
+		<writer> Sara Gran</writer>
+		<writer> Victoria Morrow</writer>
+		<writer> U.L.J. Burrows</writer>
+		<writer> Alyson Evans</writer>
+		<writer> Steve Kornacki</writer>
+		<writer> Peter Begler</writer>
+		<writer> David Flebotte</writer>
+		<writer> Andrew Gettens</writer>
+		<writer> Lauren MacKenzie</writer>
+		<writer> Ryan Parrott</writer>
+	</writers>
+	<editors>
+		<editor> Louise Innes</editor>
+		<editor> Scott Vickrey</editor>
+		<editor> Dan Downer</editor>
+		<editor> Rita K. Sanders</editor>
+		<editor> Chris Figler</editor>
+		<editor> Nathan Nugent</editor>
+	</editors>
+</doc>

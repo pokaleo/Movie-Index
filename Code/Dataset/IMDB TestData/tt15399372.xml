@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<doc id="tt15399372">
+	<docid>tt15399372</docid>
+	<title>The Kings of the World</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjU4ZjQ2MjAtYWFjMi00ODllLWIyMWEtYTY0ZjU1ZjEyODM2XkEyXkFqcGdeQXVyMTA1MDAyNTA1._V1_QL75_UY281_CR141,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">103</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Follows five young men and about the marginalized, excluded humanity who seeks a place in the world.</plot>
+	<countries>
+		<country>Colombia</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Carlos Andrés Castañeda</actor>
+			<role>Rá</role>
+		</credit>
+		<credit>
+			<actor>Davison Florez</actor>
+			<role>Sere</role>
+		</credit>
+		<credit>
+			<actor>Brahian Acevedo</actor>
+			<role>Nano</role>
+		</credit>
+		<credit>
+			<actor>Cristian Campaña</actor>
+			<role>Winny</role>
+		</credit>
+		<credit>
+			<actor>Cristian David Duque</actor>
+			<role>Culebro</role>
+		</credit>
+		<credit>
+			<actor>Jacqueline Duque</actor>
+			<role>Graciela</role>
+		</credit>
+		<credit>
+			<actor>Luis Eduardo Benjumea</actor>
+			<role>Vayu</role>
+		</credit>
+		<credit>
+			<actor>Violeta Zabala</actor>
+			<role>La Negro</role>
+		</credit>
+		<credit>
+			<actor>Esteher Posada Arias</actor>
+			<role>Civil Servant (Registry)</role>
+		</credit>
+		<credit>
+			<actor>Maria Adela Villa</actor>
+			<role>Bordello Woman</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Spain">September 21 2022</releasedate>
+		<releasedate country="Switzerland">September 23 2022</releasedate>
+		<releasedate country="Colombia">October 6 2022</releasedate>
+		<releasedate country="United States">October 18 2022</releasedate>
+		<releasedate country="Poland">October 21 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>road</keyword>
+		<keyword>group</keyword>
+		<keyword>friendship</keyword>
+		<keyword>life</keyword>
+		<keyword>street</keyword>
+	</keywords>
+	<directors>
+		<director> Laura Mora Ortega</director>
+	</directors>
+	<composers>
+		<composer> Leonardo Heiblum</composer>
+		<composer> Alexis Ruiz</composer>
+	</composers>
+	<producers>
+		<producer> Cristina Gallego</producer>
+		<producer> Paz Lázaro</producer>
+		<producer> Katarzyna Ozga</producer>
+		<producer> Elisa Fernanda Pirir</producer>
+		<producer> Regina Solórzano</producer>
+		<producer> Nicolas Steil</producer>
+		<producer> Mirlanda Torres</producer>
+	</producers>
+	<writers>
+		<writer> Maria Camila Arias</writer>
+		<writer> Laura Mora Ortega</writer>
+	</writers>
+	<editors>
+		<editor> Sebastian Hernandez</editor>
+		<editor> Gustavo Vasco</editor>
+	</editors>
+</doc>

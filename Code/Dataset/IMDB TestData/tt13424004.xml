@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<doc id="tt13424004">
+	<docid>tt13424004</docid>
+	<title>Christian</title>
+	<image/>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Follows Christian, who lives in a desolate neighborhood on the outskirts of Rome, and apparently has the power of curing people with his hands.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>Italian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Edoardo Pesce</actor>
+			<role>Christian</role>
+		</credit>
+		<credit>
+			<actor>Claudio Santamaria</actor>
+			<role>Matteo</role>
+		</credit>
+		<credit>
+			<actor>Silvia D'Amico</actor>
+			<role>Rachele</role>
+		</credit>
+		<credit>
+			<actor>Giordano De Plano</actor>
+			<role>Lino</role>
+		</credit>
+		<credit>
+			<actor>Antonio Bannò</actor>
+			<role>Davide</role>
+		</credit>
+		<credit>
+			<actor>Francesco Colella</actor>
+			<role>Tomei</role>
+		</credit>
+		<credit>
+			<actor>Lina Sastri</actor>
+			<role>Italia</role>
+		</credit>
+		<credit>
+			<actor>Milena Mancini</actor>
+			<role>Anna</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Montesi</actor>
+			<role>Penna</role>
+		</credit>
+		<credit>
+			<actor>Selene Caramazza</actor>
+			<role>Benedetta</role>
+		</credit>
+		<credit>
+			<actor>Ivan Franek</actor>
+			<role>Padre Klaus</role>
+		</credit>
+		<credit>
+			<actor>Romana Maggiora Vergano</actor>
+			<role>Michela</role>
+		</credit>
+		<credit>
+			<actor>Giulio Beranek</actor>
+			<role>Biondo</role>
+		</credit>
+		<credit>
+			<actor>Francesco Giordano</actor>
+			<role>Stefanuccio</role>
+		</credit>
+		<credit>
+			<actor>Mauro Aversano</actor>
+			<role>Zingaro</role>
+		</credit>
+		<credit>
+			<actor>Andrea Bonella</actor>
+			<role>Sergio</role>
+		</credit>
+		<credit>
+			<actor>Giulietta Rebeggiani</actor>
+			<role>Maga bambina</role>
+		</credit>
+		<credit>
+			<actor>Andrea Onori</actor>
+			<role>Proprietario autosalone</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Italy">January 28 2022</releasedate>
+		<releasedate country="Australia">May 19 2022</releasedate>
+		<releasedate country="Portugal">June 23 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Italy">T</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Stefano Lodovichi</director>
+		<director> Roberto Cinardi</director>
+	</directors>
+	<composers>
+		<composer> Giorgio Giampà</composer>
+	</composers>
+	<producers>
+		<producer> Tommaso Arrighi</producer>
+		<producer> Nicolò Forte</producer>
+		<producer> Mattia Guerra</producer>
+		<producer> Nils Hartmann</producer>
+		<producer> Stefano Lodovichi</producer>
+		<producer> Esteban Lopez-Uribe</producer>
+		<producer> Stefano Massenzi</producer>
+		<producer> Andrea Occhipinti</producer>
+		<producer> Valentina Piersanti</producer>
+		<producer> Sonia Rovai</producer>
+		<producer> Serena Sostegni</producer>
+	</producers>
+	<writers>
+		<writer> Enrico Audenino</writer>
+		<writer> Enrico Audenino</writer>
+		<writer> Valerio Cilio</writer>
+		<writer> Valerio Cilio</writer>
+		<writer> Valerio Cilio</writer>
+		<writer> Roberto Cinardi</writer>
+		<writer> Renato Sannio</writer>
+		<writer> Patrizia Dellea</writer>
+	</writers>
+	<editors>
+		<editor> Roberto Di Tanna</editor>
+	</editors>
+</doc>

@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<doc id="tt16233390">
+	<docid>tt16233390</docid>
+	<title>Night Ride</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjM1ZDk5ZGYtNTkwYi00M2ZiLThkYTgtMzEwOWNjOTc0NTFiXkEyXkFqcGdeQXVyMjA0Nzk1NzU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">9</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A lonely driver takes a mysterious couple home, but when the female mysteriously dies in the backseat, the driver and boyfriend must figure out how to get out of their situation.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Sydney Beauchcene</actor>
+			<role>Jalizabeth</role>
+		</credit>
+		<credit>
+			<actor>Eliott Glasser</actor>
+			<role>Skippy</role>
+		</credit>
+		<credit>
+			<actor>Hunter Jarman</actor>
+			<role>Andrew</role>
+		</credit>
+		<credit>
+			<actor>Leeah Jones</actor>
+			<role>Caroline</role>
+		</credit>
+		<credit>
+			<actor>Michael Kruger</actor>
+			<role>Dez</role>
+		</credit>
+		<credit>
+			<actor>Jon Ripley</actor>
+			<role>Fisherman</role>
+		</credit>
+		<credit>
+			<actor>Luke Schuck</actor>
+			<role>Johnny</role>
+		</credit>
+		<credit>
+			<actor>Mackenzie Wynn</actor>
+			<role>Jewel</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 1 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>dark comedy</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Kruger</director>
+		<director> Casey Crocker</director>
+	</directors>
+	<composers>
+		<composer> Abraham Nurkiewicz</composer>
+	</composers>
+	<producers>
+		<producer> Casey Crocker</producer>
+		<producer> Anthony Gabriele</producer>
+		<producer> Hunter Jarman</producer>
+		<producer> Michael Kruger</producer>
+	</producers>
+	<writers>
+		<writer> Casey Crocker</writer>
+		<writer> Hunter Jarman</writer>
+		<writer> Michael Kruger</writer>
+	</writers>
+	<editors>
+		<editor> Casey Crocker</editor>
+		<editor> Anthony Gabriele</editor>
+	</editors>
+</doc>

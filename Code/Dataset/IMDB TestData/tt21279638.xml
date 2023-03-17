@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<doc id="tt21279638">
+	<docid>tt21279638</docid>
+	<title>Riptide</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGVmMWRhOTUtYjM1OS00YzNkLWI5NjktODRhMTZiYTIwNDYxXkEyXkFqcGdeQXVyMTM5NDQ2NjMw._V1_QL75_UY281_CR46,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Alison, whose life is plunged into despair when her new Australian husband vanishes after a morning surf. It quickly becomes obvious there is more to the story than meets the eye as she sets out to investigate his disappearance</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jo Joyner</actor>
+			<role>Alison Weston</role>
+		</credit>
+		<credit>
+			<actor>David Berry</actor>
+			<role>Dan Burrell</role>
+		</credit>
+		<credit>
+			<actor>Ciaran Griffiths</actor>
+			<role>Michael Lane</role>
+		</credit>
+		<credit>
+			<actor>Peter O'Brien</actor>
+			<role>Sean Weston</role>
+		</credit>
+		<credit>
+			<actor>Asher Yasbincek</actor>
+			<role>Hannah Lane</role>
+		</credit>
+		<credit>
+			<actor>Ben Turland</actor>
+			<role>Ethan Weston</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Fowler</actor>
+			<role>Rachel Weston</role>
+		</credit>
+		<credit>
+			<actor>Yazeed Daher</actor>
+			<role>Logan Wiiliams</role>
+		</credit>
+		<credit>
+			<actor>Sonya Suares</actor>
+			<role>Sergeant Bhomik</role>
+		</credit>
+		<credit>
+			<actor>Patrick Williams</actor>
+			<role>Philip Eldersly</role>
+		</credit>
+		<credit>
+			<actor>Emma Choy</actor>
+			<role>Naomi Burrell</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Samaddar</actor>
+			<role>Jesse Patel</role>
+		</credit>
+		<credit>
+			<actor>Toby Derrick</actor>
+			<role>Constable Harry Lang</role>
+		</credit>
+		<credit>
+			<actor>Pia Miranda</actor>
+			<role>Jenny Clark</role>
+		</credit>
+		<credit>
+			<actor>Alasdair Bliss</actor>
+			<role>Bryn</role>
+		</credit>
+		<credit>
+			<actor>Ashley Stocco</actor>
+			<role>Detective Abela</role>
+		</credit>
+		<credit>
+			<actor>Max Brown</actor>
+			<role>Finn Barker</role>
+		</credit>
+		<credit>
+			<actor>Adam McConvell</actor>
+			<role>Detective Da Silva</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">December 27 2022</releasedate>
+		<releasedate country="France">December 27 2022</releasedate>
+		<releasedate country="United Kingdom">December 27 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">G</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>investigate</keyword>
+		<keyword>psychological thriller</keyword>
+	</keywords>
+	<directors>
+		<director> Scott Major</director>
+	</directors>
+	<composers>
+		<composer> Thomas Rouch</composer>
+		<composer> Pascal Babare</composer>
+		<composer> Cornel Wilczek</composer>
+	</composers>
+	<producers>
+		<producer> Jason Herbison</producer>
+		<producer> Natalie Mandel</producer>
+	</producers>
+	<writers>
+		<writer> Jason Herbison</writer>
+		<writer> Jason Herbison</writer>
+		<writer> Anthony Ellis</writer>
+		<writer> Margaret Wilson</writer>
+	</writers>
+	<editors/>
+</doc>

@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<doc id="tt10964100">
+	<docid>tt10964100</docid>
+	<title>Petra</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGVmNWIxODItNTEwMS00YTNhLWFlNWUtNjdiMDdiYjY0NDMxXkEyXkFqcGdeQXVyNjM3NTM0NDg@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Solitary and tenacious inspector Petra Delicato solves crimes on the front line.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>Italian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Paola Cortellesi</actor>
+			<role>Petra Delicado</role>
+		</credit>
+		<credit>
+			<actor>Andrea Pennacchi</actor>
+			<role>Antonio Monte</role>
+		</credit>
+		<credit>
+			<actor>Simone Liberati</actor>
+			<role>Lorenzo</role>
+		</credit>
+		<credit>
+			<actor>Antonio Zavatteri</actor>
+			<role>Pessone</role>
+		</credit>
+		<credit>
+			<actor>Manuela Mandracchia</actor>
+			<role>Beatrice</role>
+		</credit>
+		<credit>
+			<actor>Matteo Sintucci</actor>
+			<role>Reva</role>
+		</credit>
+		<credit>
+			<actor>Sascha Krüger</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Georgios Tzitzikos</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Diego Ribon</actor>
+			<role>Nicola</role>
+		</credit>
+		<credit>
+			<actor>Riccardo Lombardo</actor>
+			<role>Corona</role>
+		</credit>
+		<credit>
+			<actor>Cristina Pasino</actor>
+			<role>Erminia</role>
+		</credit>
+		<credit>
+			<actor>Magdalena Höfner</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Nico Nothnagel</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Andrea Bruschi</actor>
+			<role>Ciro</role>
+		</credit>
+		<credit>
+			<actor>Alessia Giuliani</actor>
+			<role>Valentina</role>
+		</credit>
+		<credit>
+			<actor>Fabian Oscar Wien</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Judith Steinhäuser</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Johanna Thoring</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Italy">September 14 2020</releasedate>
+		<releasedate country="Germany">December 6 2020</releasedate>
+		<releasedate country="France">February 21 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">10</certificate>
+		<certificate country="Italy">VM12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>female homicide detective</keyword>
+		<keyword>police protagonist</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>cop show</keyword>
+		<keyword>italy</keyword>
+		<keyword>sex scene</keyword>
+		<keyword>female police officer</keyword>
+	</keywords>
+	<directors>
+		<director> Maria Sole Tognazzi</director>
+	</directors>
+	<composers>
+		<composer> Andrea Farri</composer>
+	</composers>
+	<producers>
+		<producer> Massimo Di Rocco</producer>
+		<producer> Marco Chimenz</producer>
+		<producer> Nicoletta Chinni</producer>
+		<producer> Arianna De Chiara</producer>
+		<producer> Francesca Longardi</producer>
+		<producer> Luigi Napoleone</producer>
+		<producer> Erica Negri</producer>
+		<producer> Giovanni Stabilini</producer>
+		<producer> Riccardo Tozzi</producer>
+		<producer> Nils Hartmann</producer>
+		<producer> Sonia Rovai</producer>
+		<producer> Giuseppe Pugliese</producer>
+		<producer> Michele Ottaggio</producer>
+	</producers>
+	<writers>
+		<writer> Furio Andreotti</writer>
+		<writer> Furio Andreotti</writer>
+		<writer> Enrico Audenino</writer>
+		<writer> Giulia Calenda</writer>
+		<writer> Giulia Calenda</writer>
+		<writer> Alicia Giménez Bartlett</writer>
+		<writer> Ilaria Macchia</writer>
+		<writer> Ilaria Macchia</writer>
+	</writers>
+	<editors>
+		<editor> Valentina Mariani</editor>
+	</editors>
+</doc>

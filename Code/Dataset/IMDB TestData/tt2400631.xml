@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<doc id="tt2400631">
+	<docid>tt2400631</docid>
+	<title>Crossbones</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTc3Mjc2MTYwM15BMl5BanBnXkFtZTgwNTU1NjY3MTE@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Set during the golden age of piracy in the 1700s and centering on legendary pirate Blackbeard.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>John Malkovich</actor>
+			<role>Edward 'Blackbeard' Teach</role>
+		</credit>
+		<credit>
+			<actor>Richard Coyle</actor>
+			<role>Tom Lowe</role>
+		</credit>
+		<credit>
+			<actor>Claire Foy</actor>
+			<role>Kate Balfour</role>
+		</credit>
+		<credit>
+			<actor>Yasmine Al Massri</actor>
+			<role>Selima El Sharad</role>
+		</credit>
+		<credit>
+			<actor>David Hoflin</actor>
+			<role>Charlie Rider</role>
+		</credit>
+		<credit>
+			<actor>Chris Perfetti</actor>
+			<role>Tim Fletch</role>
+		</credit>
+		<credit>
+			<actor>Tracy Ifeachor</actor>
+			<role>Nenna Ajanlekoko</role>
+		</credit>
+		<credit>
+			<actor>Peter Stebbings</actor>
+			<role>James Balfour</role>
+		</credit>
+		<credit>
+			<actor>Omar Cruz Soto</actor>
+			<role>Good Pirate</role>
+		</credit>
+		<credit>
+			<actor>Ali Akbar Sepahi</actor>
+			<role>Amir khan</role>
+		</credit>
+		<credit>
+			<actor>Julian Sands</actor>
+			<role>William Jagger</role>
+		</credit>
+		<credit>
+			<actor>Ezra Buzzington</actor>
+			<role>Eisengrim</role>
+		</credit>
+		<credit>
+			<actor>Henry Hereford</actor>
+			<role>The Wildman</role>
+		</credit>
+		<credit>
+			<actor>Natalie Hoflin</actor>
+			<role>Rose</role>
+		</credit>
+		<credit>
+			<actor>Lauren Shaw</actor>
+			<role>Antoinette</role>
+		</credit>
+		<credit>
+			<actor>Hani Al Naimi</actor>
+			<role>Callow</role>
+		</credit>
+		<credit>
+			<actor>Aimee Mullins</actor>
+			<role>Antoinette</role>
+		</credit>
+		<credit>
+			<actor>Marisé Álvarez</actor>
+			<role>Nelly</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Mexico">May 30 2014</releasedate>
+		<releasedate country="United States">May 30 2014</releasedate>
+		<releasedate country="Brazil">September 2 2014</releasedate>
+		<releasedate country="Netherlands">October 29 2014</releasedate>
+		<releasedate country="Sweden">November 14 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Poland">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>pirate</keyword>
+		<keyword>tropical island</keyword>
+		<keyword>tropical setting</keyword>
+		<keyword>1700s</keyword>
+		<keyword>1710s</keyword>
+		<keyword>18th century</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Attias</director>
+		<director> Ciaran Donnelly</director>
+		<director> Deran Sarafian</director>
+		<director> Terry McDonough</director>
+		<director> Steve Shill</director>
+		<director> David Slade</director>
+	</directors>
+	<composers>
+		<composer> Mateo Messina</composer>
+	</composers>
+	<producers>
+		<producer> Kevin Blank</producer>
+		<producer> Neil Cross</producer>
+		<producer> David DiGilio</producer>
+		<producer> Ciaran Donnelly</producer>
+		<producer> Tim Dragga</producer>
+		<producer> Todd M. Lachniet</producer>
+		<producer> Blake Masters</producer>
+		<producer> Lori Motyer</producer>
+		<producer> Michael Oates Palmer</producer>
+		<producer> Riyoko Tanaka</producer>
+		<producer> Ted Gold</producer>
+		<producer> Laurie MacDonald</producer>
+		<producer> Walter F. Parkes</producer>
+		<producer> Elizabeth Sarnoff</producer>
+		<producer> Josh Friedman</producer>
+		<producer> Angelita Esperanza</producer>
+		<producer> Rudd Simmons</producer>
+		<producer> Jane Bartelme</producer>
+		<producer> Neal Ahern Jr.</producer>
+	</producers>
+	<writers>
+		<writer> Neil Cross</writer>
+		<writer> Neil Cross</writer>
+		<writer> James V. Hart</writer>
+		<writer> James V. Hart</writer>
+		<writer> Amanda Welles</writer>
+		<writer> Amanda Welles</writer>
+		<writer> Colin Woodard</writer>
+		<writer> Michael Oates Palmer</writer>
+		<writer> Michael Oates Palmer</writer>
+		<writer> Michael Oates Palmer</writer>
+		<writer> Josh Friedman</writer>
+		<writer> Blake Masters</writer>
+		<writer> Elizabeth Sarnoff</writer>
+	</writers>
+	<editors>
+		<editor> Meg Reticker</editor>
+		<editor> Tim Streeto</editor>
+		<editor> Andy Keir</editor>
+		<editor> Art Jones</editor>
+	</editors>
+</doc>

@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<doc id="tt1714204">
+	<docid>tt1714204</docid>
+	<title>Perception</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTM1OGVkOGMtZGYwMC00MGVjLWIxODItYTkxZWE2ZGJiYWRkXkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Dr. Daniel Pierce is an eccentric neuropsychiatrist who uses his unique outlook to help the federal government solve complex criminal cases.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Eric McCormack</actor>
+			<role>Daniel Pierce</role>
+		</credit>
+		<credit>
+			<actor>Rachael Leigh Cook</actor>
+			<role>Kate Moretti</role>
+		</credit>
+		<credit>
+			<actor>Kelly Rowan</actor>
+			<role>Natalie Vincent</role>
+		</credit>
+		<credit>
+			<actor>Arjay Smith</actor>
+			<role>Max Lewicki</role>
+		</credit>
+		<credit>
+			<actor>LeVar Burton</actor>
+			<role>Paul Haley</role>
+		</credit>
+		<credit>
+			<actor>Scott Wolf</actor>
+			<role>Donnie Ryan</role>
+		</credit>
+		<credit>
+			<actor>Brad Rowe</actor>
+			<role>FBI Agent Dalton</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Scarfe</actor>
+			<role>Roger Probert</role>
+		</credit>
+		<credit>
+			<actor>DJ Qualls</actor>
+			<role>Agent Rudy Fleckner</role>
+		</credit>
+		<credit>
+			<actor>Dan Lauria</actor>
+			<role>Joe Moretti</role>
+		</credit>
+		<credit>
+			<actor>Shane Coffey</actor>
+			<role>D.J. Pierce</role>
+		</credit>
+		<credit>
+			<actor>Robert Curtis Brown</actor>
+			<role>Dr. Josiah Rosenthal</role>
+		</credit>
+		<credit>
+			<actor>Chris Gartin</actor>
+			<role>Father Pat</role>
+		</credit>
+		<credit>
+			<actor>David Paymer</actor>
+			<role>Rueben Bauer</role>
+		</credit>
+		<credit>
+			<actor>Peter Coyote</actor>
+			<role>James Alan Pierce</role>
+		</credit>
+		<credit>
+			<actor>Jamie Bamber</actor>
+			<role>Michael Hathaway</role>
+		</credit>
+		<credit>
+			<actor>Perrey Reeves</actor>
+			<role>Miranda Stiles</role>
+		</credit>
+		<credit>
+			<actor>Lisa Brenner</actor>
+			<role>Tasha Ogden</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">July 9 2012</releasedate>
+		<releasedate country="Poland">August 10 2012</releasedate>
+		<releasedate country="Argentina">August 20 2012</releasedate>
+		<releasedate country="Mexico">August 20 2012</releasedate>
+		<releasedate country="Hong Kong">September 11 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">12+</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>chicago illinois</keyword>
+		<keyword>college campus</keyword>
+		<keyword>college classroom</keyword>
+		<keyword>college professor</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>female fbi agent</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>interrogation room</keyword>
+		<keyword>invisible friend</keyword>
+		<keyword>psychiatrist</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>ex teacher student relationship</keyword>
+		<keyword>neuropsychiatrist</keyword>
+		<keyword>neuropsychiatry</keyword>
+		<keyword>schizophrenia</keyword>
+		<keyword>schizophrenic</keyword>
+		<keyword>teaching assistant</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+	</keywords>
+	<directors>
+		<director> Christopher Misiano</director>
+		<director> Kenneth Biller</director>
+		<director> Greg Beeman</director>
+		<director> Andrew Bernstein</director>
+		<director> Jeff Woolnough</director>
+		<director> Deran Sarafian</director>
+		<director> LeVar Burton</director>
+		<director> Alrick Riley</director>
+		<director> Tawnia McKiernan</director>
+		<director> Alan Poul</director>
+		<director> Eric McCormack</director>
+		<director> Elodie Keene</director>
+	</directors>
+	<composers>
+		<composer> Tree Adams</composer>
+	</composers>
+	<producers>
+		<producer> Mike Sussman</producer>
+		<producer> Amanda Green</producer>
+		<producer> Jason Ning</producer>
+		<producer> Kenneth Biller</producer>
+		<producer> Eric McCormack</producer>
+		<producer> Mark H. Ovitz</producer>
+		<producer> Jonathan Abrahams</producer>
+		<producer> Cleve Landsberg</producer>
+		<producer> Gerrit Furutani</producer>
+		<producer> Tim Scanlan</producer>
+		<producer> Sean Whitesell</producer>
+		<producer> Nicki Paluga</producer>
+		<producer> Nicole Carrasco</producer>
+		<producer> Stephen Tolkin</producer>
+		<producer> Blake McCormick</producer>
+		<producer> Alan Poul</producer>
+		<producer> David Roessell</producer>
+		<producer> Xavier Roy</producer>
+	</producers>
+	<writers>
+		<writer> Kenneth Biller</writer>
+		<writer> Kenneth Biller</writer>
+		<writer> Mike Sussman</writer>
+		<writer> Mike Sussman</writer>
+		<writer> Warren Hsu Leonard</writer>
+		<writer> Warren Hsu Leonard</writer>
+		<writer> Warren Hsu Leonard</writer>
+		<writer> Warren Hsu Leonard</writer>
+		<writer> Raf Green</writer>
+		<writer> Raf Green</writer>
+		<writer> Raf Green</writer>
+		<writer> Tawnya Bhattacharya</writer>
+		<writer> Tawnya Bhattacharya</writer>
+		<writer> Ali Laventhol</writer>
+		<writer> Ali Laventhol</writer>
+		<writer> Katie Gruel</writer>
+		<writer> Katie Gruel</writer>
+		<writer> Jerry Shandy</writer>
+		<writer> Jerry Shandy</writer>
+		<writer> Charley Dane</writer>
+		<writer> Charley Dane</writer>
+		<writer> Charley Dane</writer>
+		<writer> Jason Ning</writer>
+		<writer> Jason Ning</writer>
+		<writer> Jonathan Abrahams</writer>
+		<writer> Jonathan Abrahams</writer>
+		<writer> Amanda Green</writer>
+		<writer> Nicki Paluga</writer>
+		<writer> Stephen Tolkin</writer>
+		<writer> Sean Whitesell</writer>
+		<writer> David Eagleman</writer>
+		<writer> Uros B</writer>
+	</writers>
+	<editors>
+		<editor> Anthony Miller</editor>
+		<editor> Scott Lerner</editor>
+		<editor> Debby Germino</editor>
+		<editor> Andi Armaganian</editor>
+		<editor> Gib Jaffe</editor>
+		<editor> Regis Kimble</editor>
+		<editor> Tom McQuade</editor>
+		<editor> Christopher Nelson</editor>
+		<editor> Bart J. Barisano</editor>
+	</editors>
+</doc>

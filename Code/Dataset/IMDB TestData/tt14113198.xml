@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<doc id="tt14113198">
+	<docid>tt14113198</docid>
+	<title>The Crossword Mysteries</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZGQ2M2I1MTUtMTcxMy00MTQ4LTk0ZWUtYjllNDQ2MjJlOTU5XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Tess, a Sentinel crossword editor, helps Detective Logan solve murder mysteries.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lacey Chabert</actor>
+			<role>Tess Harper</role>
+		</credit>
+		<credit>
+			<actor>Brennan Elliott</actor>
+			<role>Logan O'Connor</role>
+		</credit>
+		<credit>
+			<actor>Barbara Niven</actor>
+			<role>Aunt Candace</role>
+		</credit>
+		<credit>
+			<actor>John Kapelos</actor>
+			<role>Chief O'Connor</role>
+		</credit>
+		<credit>
+			<actor>Genevieve Kang</actor>
+			<role>Josephine</role>
+		</credit>
+		<credit>
+			<actor>Will Shortz</actor>
+			<role>Police Officer</role>
+		</credit>
+		<credit>
+			<actor>Bobby Daniels</actor>
+			<role>Minister</role>
+		</credit>
+		<credit>
+			<actor>Romaine Waite</actor>
+			<role>Winston Sams</role>
+		</credit>
+		<credit>
+			<actor>Parveen Dosanjh</actor>
+			<role>Amrita</role>
+		</credit>
+		<credit>
+			<actor>Cardi Wong</actor>
+			<role>Frank Lam</role>
+		</credit>
+		<credit>
+			<actor>Aadila Dosani</actor>
+			<role>Sonia Robinson</role>
+		</credit>
+		<credit>
+			<actor>Jim Calarco</actor>
+			<role>Landlord</role>
+		</credit>
+		<credit>
+			<actor>Victor A. Young</actor>
+			<role>Pierre</role>
+		</credit>
+		<credit>
+			<actor>Matthew James Dowden</actor>
+			<role>Paul Redford</role>
+		</credit>
+		<credit>
+			<actor>Lara Jean Chorostecki</actor>
+			<role>Christina Blake</role>
+		</credit>
+		<credit>
+			<actor>Zach Smadu</actor>
+			<role>Harris</role>
+		</credit>
+		<credit>
+			<actor>Noam Jenkins</actor>
+			<role>Alistair</role>
+		</credit>
+		<credit>
+			<actor>Brandi Alexander</actor>
+			<role>Viv Banks</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">March 10 2019</releasedate>
+		<releasedate country="France">October 14 2019</releasedate>
+		<releasedate country="Poland">December 9 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Poland">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cozy mystery</keyword>
+	</keywords>
+	<directors>
+		<director> Don McCutcheon</director>
+		<director> Jonathan Wright</director>
+		<director> Peter Benson</director>
+		<director> David Winning</director>
+	</directors>
+	<composers>
+		<composer> Michael Richard Plowman</composer>
+		<composer> Sean William</composer>
+		<composer> Mikel Hurwitz</composer>
+		<composer> Andrew Judah</composer>
+	</composers>
+	<producers>
+		<producer> Brennan Elliott</producer>
+		<producer> David Anselmo</producer>
+		<producer> Vince Balzano</producer>
+		<producer> Lacey Chabert</producer>
+		<producer> Amy Krell</producer>
+		<producer> Brad Krevoy</producer>
+		<producer> Amanda Phillips</producer>
+		<producer> Gregg Rossen</producer>
+		<producer> Brian Sawyer</producer>
+		<producer> Will Shortz</producer>
+		<producer> Jimmy Townsend</producer>
+		<producer> Susie Belzberg</producer>
+		<producer> Eric Jarboe</producer>
+		<producer> Michael Shepard</producer>
+		<producer> Kaitlyn Greenough</producer>
+		<producer> James Moorhouse</producer>
+		<producer> W. Michael Beard</producer>
+		<producer> Julia Currie</producer>
+		<producer> Allan Fung</producer>
+		<producer> Byron A. Martin</producer>
+		<producer> Patrick Tobin</producer>
+		<producer> Don McCutcheon</producer>
+		<producer> Doran Chandler</producer>
+		<producer> Charles Cooper</producer>
+		<producer> Denielle Jackson</producer>
+		<producer> Sepideh Merchant</producer>
+		<producer> Bianca Versteeg</producer>
+		<producer> Effy Papadopoulos</producer>
+		<producer> Jonathan Wright</producer>
+		<producer> Peter Benson</producer>
+		<producer> Michele Futerman</producer>
+		<producer> Jamie Lake</producer>
+		<producer> Allen Lewis</producer>
+		<producer> David Winning</producer>
+	</producers>
+	<writers>
+		<writer> Pierluigi Cothran</writer>
+		<writer> Pierluigi Cothran</writer>
+		<writer> Cecily Rhett</writer>
+		<writer> Kathryn Rhett</writer>
+		<writer> Gregg Rossen</writer>
+		<writer> Gregg Rossen</writer>
+		<writer> Gregg Rossen</writer>
+		<writer> Gregg Rossen</writer>
+		<writer> Gregg Rossen</writer>
+		<writer> Steve Rossen</writer>
+		<writer> Brian Sawyer</writer>
+		<writer> Brian Sawyer</writer>
+		<writer> Brian Sawyer</writer>
+		<writer> Brian Sawyer</writer>
+		<writer> Brian Sawyer</writer>
+		<writer> Will Shortz</writer>
+		<writer> Will Shortz</writer>
+		<writer> Kraig Wenman</writer>
+	</writers>
+	<editors>
+		<editor> Gordon McClellan</editor>
+		<editor> Stephen Roque</editor>
+		<editor> Lara Mazur</editor>
+		<editor> Saeed Vahidi</editor>
+	</editors>
+</doc>

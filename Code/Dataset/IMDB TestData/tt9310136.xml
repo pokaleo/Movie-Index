@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<doc id="tt9310136">
+	<docid>tt9310136</docid>
+	<title>Interrogation</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzQxZDMwNDgtMTIwZi00MjI3LWI5YjQtMjFiOTllMTA0ZmZjXkEyXkFqcGdeQXVyMTI3MjgxNjg0._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">46</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A non-linear crime series that is centered around an interrogation of people who might be involved in a decades-old murder case.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Peter Sarsgaard</actor>
+			<role>Det. David Russell</role>
+		</credit>
+		<credit>
+			<actor>Kyle Gallner</actor>
+			<role>Eric Fisher</role>
+		</credit>
+		<credit>
+			<actor>Kodi Smit-McPhee</actor>
+			<role>Chris Keller</role>
+		</credit>
+		<credit>
+			<actor>David Strathairn</actor>
+			<role>Henry Fisher</role>
+		</credit>
+		<credit>
+			<actor>Joanna Going</actor>
+			<role>Mrs. Fisher</role>
+		</credit>
+		<credit>
+			<actor>Ellen Humphreys</actor>
+			<role>Sharon Russell</role>
+		</credit>
+		<credit>
+			<actor>Ebon Moss-Bachrach</actor>
+			<role>Trey Carano</role>
+		</credit>
+		<credit>
+			<actor>Frank Whaley</actor>
+			<role>Detective James Connor</role>
+		</credit>
+		<credit>
+			<actor>Andre Royo</actor>
+			<role>Charlie Shannon</role>
+		</credit>
+		<credit>
+			<actor>Autry Haydon-Wilson</actor>
+			<role>Young Amy Harlow</role>
+		</credit>
+		<credit>
+			<actor>Barbie Robertson</actor>
+			<role>Debbie Russell</role>
+		</credit>
+		<credit>
+			<actor>Vincent D'Onofrio</actor>
+			<role>Sgt. Ian Lynch</role>
+		</credit>
+		<credit>
+			<actor>Melinda McGraw</actor>
+			<role>Faith Turner</role>
+		</credit>
+		<credit>
+			<actor>Chad L. Coleman</actor>
+			<role>Mr. Franklin</role>
+		</credit>
+		<credit>
+			<actor>Jersey Johnston</actor>
+			<role>Debbie Russell</role>
+		</credit>
+		<credit>
+			<actor>Michael Harney</actor>
+			<role>Mr. Russell</role>
+		</credit>
+		<credit>
+			<actor>Vinessa Antoine</actor>
+			<role>Sandy</role>
+		</credit>
+		<credit>
+			<actor>Preston James Hillier</actor>
+			<role>Gary Davis</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">February 5 2020</releasedate>
+		<releasedate country="Brazil">February 6 2020</releasedate>
+		<releasedate country="Poland">February 6 2020</releasedate>
+		<releasedate country="United States">February 6 2020</releasedate>
+		<releasedate country="India">March 3 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>crime series</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>cold case</keyword>
+		<keyword>true crime</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Ernest R. Dickerson</director>
+		<director> Patrick Cady</director>
+	</directors>
+	<composers>
+		<composer> Paul Haslinger</composer>
+	</composers>
+	<producers>
+		<producer> Bill Balas</producer>
+		<producer> Henrik Bastin</producer>
+		<producer> Lauren Brady</producer>
+		<producer> Johanna Factor</producer>
+		<producer> Kathy Landsberg</producer>
+		<producer> Jeff MacVittie</producer>
+		<producer> Abbey Morris</producer>
+		<producer> Cassie Pappas</producer>
+		<producer> Melissa Aouate</producer>
+		<producer> Paul Hilborn</producer>
+		<producer> John Mankiewicz</producer>
+		<producer> Anders Weidemann</producer>
+		<producer> Barbara Curry</producer>
+		<producer> Tian Jun Gu</producer>
+	</producers>
+	<writers>
+		<writer> John Mankiewicz</writer>
+		<writer> John Mankiewicz</writer>
+		<writer> John Mankiewicz</writer>
+		<writer> John Mankiewicz</writer>
+		<writer> Anders Weidemann</writer>
+		<writer> Anders Weidemann</writer>
+		<writer> Barbara Curry</writer>
+		<writer> Bill Balas</writer>
+		<writer> Johanna Factor</writer>
+		<writer> Tian Jun Gu</writer>
+		<writer> Jerry Miller</writer>
+		<writer> Cassie Pappas</writer>
+	</writers>
+	<editors>
+		<editor> J. Kathleen Gibson</editor>
+		<editor> Mark Manos</editor>
+		<editor> Janet Weinberg</editor>
+	</editors>
+</doc>

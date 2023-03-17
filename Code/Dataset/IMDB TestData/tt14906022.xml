@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<doc id="tt14906022">
+	<docid>tt14906022</docid>
+	<title>Richard Hammond's Workshop</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDA2MGZkMjUtZGZjOS00MDVmLWJiZWUtNmJmNmEzNmI5ZmU4XkEyXkFqcGdeQXVyMTI3NDk1ODY0._V1_QL75_UY281_CR116,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>Richard Hammond starts a prestige classic car restoration and repair business near his hometown in Herefordshire.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Richard Hammond</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Anthony Greenhouse</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Neil Greenhouse</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Mindy Hammond</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">October 18 2021</releasedate>
+		<releasedate country="Germany">April 4 2022</releasedate>
+		<releasedate country="South Africa">June 23 2022</releasedate>
+		<releasedate country="United Kingdom">September 1 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Poland">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>business</keyword>
+		<keyword>car</keyword>
+	</keywords>
+	<directors>
+		<director> Marcus Sulley</director>
+		<director> Piers Leigh</director>
+		<director> Rob Searle</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Erika Dodd</producer>
+		<producer> Blair Krempel</producer>
+		<producer> Mark Wood</producer>
+		<producer> Victoria Noble</producer>
+		<producer> Adam Cooper</producer>
+		<producer> John Widdup</producer>
+		<producer> Oliver Wilson</producer>
+		<producer> Ollie Upton</producer>
+		<producer> Jodie Chillery</producer>
+		<producer> Jon Stephens</producer>
+		<producer> Sid Bennett</producer>
+		<producer> Ryan Gaffney</producer>
+		<producer> James Millar</producer>
+		<producer> Dan Viner</producer>
+		<producer> Piers Leigh</producer>
+		<producer> Tania McKeown</producer>
+		<producer> Vaidile Pukyte</producer>
+		<producer> Rob Searle</producer>
+		<producer> Rob Silver</producer>
+		<producer> Nigel Alred</producer>
+		<producer> Nigel Gainsborough</producer>
+		<producer> Julie Thomson</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Donny Boocock</editor>
+		<editor> Antony Oliphant</editor>
+		<editor> Mark Hammill</editor>
+		<editor> Richard Buss</editor>
+		<editor> Graeme Holmes</editor>
+		<editor> Owen Parker</editor>
+		<editor> Jonathan Kelly</editor>
+		<editor> Martin Lee</editor>
+	</editors>
+</doc>

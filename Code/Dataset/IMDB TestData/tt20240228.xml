@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<doc id="tt20240228">
+	<docid>tt20240228</docid>
+	<title>The Flying Sailor</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjk0MGVkODItYjAwMy00YjNmLTkyMGEtNjhhZjJiNmQyNzgzXkEyXkFqcGdeQXVyNjE4OTU2MzY@._V1_QL75_UY281_CR21,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">8</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Short</genre>
+	</genres>
+	<plot>A sailor is sent hurtling into the sky by the Halifax Explosion.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>None</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast/>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">June 13 2022</releasedate>
+		<releasedate country="Canada">September 8 2022</releasedate>
+		<releasedate country="United States">October 20 2022</releasedate>
+		<releasedate country="Canada">October 22 2022</releasedate>
+		<releasedate country="United States">November 5 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>sailor</keyword>
+		<keyword>1910s</keyword>
+		<keyword>halifax nova scotia canada</keyword>
+		<keyword>disaster</keyword>
+		<keyword>disaster survivor</keyword>
+		<keyword>ship collision</keyword>
+		<keyword>explosion</keyword>
+		<keyword>propelled by an explosion</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>halifax explosion</keyword>
+	</keywords>
+	<directors>
+		<director> Amanda Forbis</director>
+		<director> Wendy Tilby</director>
+	</directors>
+	<composers>
+		<composer> Luigi Allemano</composer>
+	</composers>
+	<producers>
+		<producer> David Christensen</producer>
+	</producers>
+	<writers>
+		<writer> Amanda Forbis</writer>
+		<writer> Wendy Tilby</writer>
+	</writers>
+	<editors/>
+</doc>

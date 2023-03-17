@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<doc id="tt21107826">
+	<docid>tt21107826</docid>
+	<title>Buy My House</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNGQwOTdkZGYtY2ZlOS00MmEyLWI0ZTMtNzI0OGYyNjU3YmEwXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>Homeowners from across the US come to sell their properties, on the spot, to one of four real-estate tycoons.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Nina Parker</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Danisha Danielle Wrighster</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Brandon Copeland</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Pamela Liebman</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Glenn Kelman</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Nina Parker</actor>
+			<role>Self - Host</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">September 2 2022</releasedate>
+		<releasedate country="Canada">September 2 2022</releasedate>
+		<releasedate country="India">September 2 2022</releasedate>
+		<releasedate country="Netherlands">September 2 2022</releasedate>
+		<releasedate country="Poland">September 2 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Canada">TV-G</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United States">TV-G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>business and occupation reality tv</keyword>
+	</keywords>
+	<directors>
+		<director> Carrie Havel</director>
+	</directors>
+	<composers>
+		<composer> Burnett Music Group</composer>
+	</composers>
+	<producers>
+		<producer> Diego Felipe</producer>
+		<producer> Colleen Galan</producer>
+		<producer> Derek Klein</producer>
+		<producer> Kevin Miller</producer>
+		<producer> Connor Schmitt</producer>
+		<producer> Cody Shelton</producer>
+		<producer> Caleb 'Ceejaee' Washington</producer>
+		<producer> Doug Weitzbuch</producer>
+		<producer> Tracey McAteer</producer>
+		<producer> Jenny Daly</producer>
+		<producer> Tom Forman</producer>
+		<producer> Dan Morando</producer>
+		<producer> Nina Parker</producer>
+		<producer> Matthew Pickel</producer>
+		<producer> Moira Ross</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Michael Burke</editor>
+		<editor> Simon Laight</editor>
+		<editor> Raiko Siems</editor>
+		<editor> Sommer Basinger</editor>
+		<editor> Patrick Fraser</editor>
+	</editors>
+</doc>

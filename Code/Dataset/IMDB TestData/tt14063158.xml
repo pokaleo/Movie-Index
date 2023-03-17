@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<doc id="tt14063158">
+	<docid>tt14063158</docid>
+	<title>Deborah</title>
+	<image/>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">88</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A group of old friends discovers a seemingly harmless device that allows them to rewind time, but not without consequences.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Sophia Bush</actor>
+			<role>Nora</role>
+		</credit>
+		<credit>
+			<actor>Deborah Ann Woll</actor>
+			<role>Ada</role>
+		</credit>
+		<credit>
+			<actor>Scott Michael Foster</actor>
+			<role>Chet</role>
+		</credit>
+		<credit>
+			<actor>Kevin Bigley</actor>
+			<role>Al</role>
+		</credit>
+		<credit>
+			<actor>Arjun Gupta</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Ciara Renée</actor>
+			<role>Gabby</role>
+		</credit>
+		<credit>
+			<actor>Michael Waller</actor>
+			<role>Jim</role>
+		</credit>
+		<credit>
+			<actor>Michelle Wong</actor>
+			<role>Deborah</role>
+		</credit>
+		<credit>
+			<actor>Lucas Gardner</actor>
+			<role>Blaine</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 1 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Noga Pnueli</director>
+	</directors>
+	<composers>
+		<composer> Stephen Millard</composer>
+	</composers>
+	<producers>
+		<producer> Greg Gilreath</producer>
+		<producer> Mark Glassgow</producer>
+		<producer> Megan Halpern</producer>
+		<producer> Adam Hendricks</producer>
+		<producer> Terry Huang</producer>
+		<producer> Zac Locke</producer>
+		<producer> Ted Reilly</producer>
+		<producer> Kelly Waller</producer>
+	</producers>
+	<writers>
+		<writer> Noga Pnueli</writer>
+	</writers>
+	<editors>
+		<editor> Janie Gaddy</editor>
+	</editors>
+</doc>

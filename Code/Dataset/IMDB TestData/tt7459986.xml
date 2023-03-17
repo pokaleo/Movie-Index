@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<doc id="tt7459986">
+	<docid>tt7459986</docid>
+	<title>The Widow</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2Y0N2FhYTktZWQyZC00ZDJhLTk5OTQtNTI1MmU2OTFkN2ZjXkEyXkFqcGdeQXVyNjI4OTg2Njg@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>I 2019</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A woman's search to uncover the mysterious disappearance of her husband leads her to the Congo, where she's forced to seek the truth about what happened to the man she loved.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>Lingala</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kate Beckinsale</actor>
+			<role>Georgia Wells</role>
+		</credit>
+		<credit>
+			<actor>Ólafur Darri Ólafsson</actor>
+			<role>Ariel Helgason</role>
+		</credit>
+		<credit>
+			<actor>Charles Dance</actor>
+			<role>Martin Benson</role>
+		</credit>
+		<credit>
+			<actor>Matthew Le Nevez</actor>
+			<role>Will Mason</role>
+		</credit>
+		<credit>
+			<actor>Bart Fouche</actor>
+			<role>Pieter Bello</role>
+		</credit>
+		<credit>
+			<actor>Shalom Nyandiko</actor>
+			<role>Adidja</role>
+		</credit>
+		<credit>
+			<actor>Alex Kingston</actor>
+			<role>Judith Gray</role>
+		</credit>
+		<credit>
+			<actor>Babs Olusanmokun</actor>
+			<role>General Azikiwe</role>
+		</credit>
+		<credit>
+			<actor>Matthew Gravelle</actor>
+			<role>Joshua Peake</role>
+		</credit>
+		<credit>
+			<actor>Louise Brealey</actor>
+			<role>Beatrix</role>
+		</credit>
+		<credit>
+			<actor>Luiana Bonfim</actor>
+			<role>Gaelle</role>
+		</credit>
+		<credit>
+			<actor>Réginal Kudiwu</actor>
+			<role>Djamba</role>
+		</credit>
+		<credit>
+			<actor>Yoli Fuller</actor>
+			<role>Sidney</role>
+		</credit>
+		<credit>
+			<actor>Balindile ka Ngcobo</actor>
+			<role>Gloria</role>
+		</credit>
+		<credit>
+			<actor>Lungile Radebe</actor>
+			<role>Sadiki</role>
+		</credit>
+		<credit>
+			<actor>Pamela Nomvete</actor>
+			<role>Dominique Mutombo</role>
+		</credit>
+		<credit>
+			<actor>Robinah Kironde</actor>
+			<role>Ivette</role>
+		</credit>
+		<credit>
+			<actor>Maya Barcot</actor>
+			<role>Stefania</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Japan">February 28 2019</releasedate>
+		<releasedate country="Australia">March 1 2019</releasedate>
+		<releasedate country="Canada">March 1 2019</releasedate>
+		<releasedate country="Germany">March 1 2019</releasedate>
+		<releasedate country="Spain">March 1 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Mexico">16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">16+</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">13+</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>witch</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>firearms</keyword>
+		<keyword>widow</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>disaster action</keyword>
+		<keyword>krimi</keyword>
+		<keyword>psychotronic series</keyword>
+	</keywords>
+	<directors>
+		<director> Olly Blackburn</director>
+		<director> Samuel Donovan</director>
+	</directors>
+	<composers>
+		<composer> Dominik Scherrer</composer>
+	</composers>
+	<producers>
+		<producer> Christopher Aird</producer>
+		<producer> Dianne Beatty</producer>
+		<producer> Kate Beckinsale</producer>
+		<producer> Samuel Donovan</producer>
+		<producer> Eliza Mellor</producer>
+		<producer> Emma Pike</producer>
+		<producer> Alison-Jane Roney</producer>
+		<producer> Rudi Van As</producer>
+		<producer> David Wicht</producer>
+		<producer> Harry Williams</producer>
+		<producer> Jack Williams</producer>
+		<producer> Rebecca Callas</producer>
+		<producer> Sandra de Boer</producer>
+	</producers>
+	<writers>
+		<writer> Harry Williams</writer>
+		<writer> Jack Williams</writer>
+	</writers>
+	<editors>
+		<editor> Kim Gaster</editor>
+		<editor> Daniel Greenway</editor>
+		<editor> Peggy Koretzky</editor>
+		<editor> David Thrasher</editor>
+	</editors>
+</doc>

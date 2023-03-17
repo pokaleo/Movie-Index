@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<doc id="tt12851130">
+	<docid>tt12851130</docid>
+	<title>Koputus</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTYzZjcxZTMtYTgyYy00MmU5LWEzNzktNWU2ZjVlOWVkOTdkXkEyXkFqcGdeQXVyOTU0Nzg3MDM@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">87</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Three adult siblings go examine their late parents' house in the middle of the forest.</plot>
+	<countries>
+		<country>Finland</country>
+	</countries>
+	<languages>
+		<language>Finnish</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Olga Temonen</actor>
+			<role>The Mother</role>
+		</credit>
+		<credit>
+			<actor>Inka Kallén</actor>
+			<role>Maria</role>
+		</credit>
+		<credit>
+			<actor>Saana Koivisto</actor>
+			<role>Matilda</role>
+		</credit>
+		<credit>
+			<actor>Pekka Strang</actor>
+			<role>Mikko</role>
+		</credit>
+		<credit>
+			<actor>Mikko Leppilampi</actor>
+			<role>Lawyer</role>
+		</credit>
+		<credit>
+			<actor>Linnea Skog</actor>
+			<role>Young Maria</role>
+		</credit>
+		<credit>
+			<actor>Niko Saarela</actor>
+			<role>The Father</role>
+		</credit>
+		<credit>
+			<actor>Kristian Stierncreutz</actor>
+			<role>Young Mikko</role>
+		</credit>
+		<credit>
+			<actor>Janina Berman</actor>
+			<role>Old lady</role>
+		</credit>
+		<credit>
+			<actor>Ergo Küppas</actor>
+			<role>police officer Eerikäinen</role>
+		</credit>
+		<credit>
+			<actor>Hilma Temonen</actor>
+			<role>Young Matilda</role>
+		</credit>
+		<credit>
+			<actor>Ville Pidätys</actor>
+			<role>Ferry Driver</role>
+		</credit>
+		<credit>
+			<actor>Taavi Oad</actor>
+			<role>Mechanic</role>
+		</credit>
+		<credit>
+			<actor>Sten Hiis</actor>
+			<role>Restaurant client</role>
+		</credit>
+		<credit>
+			<actor>Maria Tennof-Salman</actor>
+			<role>Female police officer</role>
+		</credit>
+		<credit>
+			<actor>Vootele Poll</actor>
+			<role>Forrest ranger</role>
+		</credit>
+		<credit>
+			<actor>Irina Tumanova</actor>
+			<role>Restaurant client</role>
+		</credit>
+		<credit>
+			<actor>Aliis Kampus</actor>
+			<role>Restaurant client</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Spain">October 9 2022</releasedate>
+		<releasedate country="Finland">February 22 2023</releasedate>
+		<releasedate country="Russia">March 9 2023</releasedate>
+		<releasedate country="United States">March 24 2023</releasedate>
+		<releasedate country="Russia">April 6 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Joonas Pajunen</director>
+		<director> Max Seeck</director>
+	</directors>
+	<composers>
+		<composer> Tuomas Kantelinen</composer>
+	</composers>
+	<producers>
+		<producer> Niko Derome</producer>
+		<producer> Olga Hartsuk</producer>
+		<producer> Jukka Helle</producer>
+		<producer> Andreas Kask</producer>
+		<producer> Joonas Pajunen</producer>
+		<producer> Esko Rips</producer>
+		<producer> Max Seeck</producer>
+		<producer> Markus Selin</producer>
+		<producer> Hanna Virolainen</producer>
+	</producers>
+	<writers>
+		<writer> Joonas Pajunen</writer>
+		<writer> Max Seeck</writer>
+	</writers>
+	<editors>
+		<editor> Joona Louhivuori</editor>
+	</editors>
+</doc>

@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<doc id="tt15407486">
+	<docid>tt15407486</docid>
+	<title>King of Stonks</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjZlMmQ1ZmItYThiOC00ZWZkLWJiYmItZThhZjAzZmEwNTI4XkEyXkFqcGdeQXVyOTY3MjIzNzM@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">280</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Series inspired by real events in the financial world, centers on narcissism, megalomania and double standards.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>German</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Larissa Sirah Herden</actor>
+			<role>Sheila Williams</role>
+		</credit>
+		<credit>
+			<actor>Andreas Döhler</actor>
+			<role>Tom Wielannd</role>
+		</credit>
+		<credit>
+			<actor>Thandi Sebe</actor>
+			<role>Ellen</role>
+		</credit>
+		<credit>
+			<actor>Wilson Gonzalez</actor>
+			<role>Till Hermann</role>
+		</credit>
+		<credit>
+			<actor>Matthias Brandt</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Thomas Schubert</actor>
+			<role>Felix Armand</role>
+		</credit>
+		<credit>
+			<actor>Altine Emini</actor>
+			<role>Sascha</role>
+		</credit>
+		<credit>
+			<actor>Rouven David Israel</actor>
+			<role>Ali</role>
+		</credit>
+		<credit>
+			<actor>Jan Eichberg</actor>
+			<role>Geomant</role>
+		</credit>
+		<credit>
+			<actor>Julian Marcel Sark</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Bibiana Beglau</actor>
+			<role>Ariane Cramer</role>
+		</credit>
+		<credit>
+			<actor>Thomas Perkins</actor>
+			<role>Clay Anderson</role>
+		</credit>
+		<credit>
+			<actor>Eva Löbau</actor>
+			<role>Desirée</role>
+		</credit>
+		<credit>
+			<actor>Nino Porzio</actor>
+			<role>Vito</role>
+		</credit>
+		<credit>
+			<actor>Joachim Król</actor>
+			<role>Arianes Dad</role>
+		</credit>
+		<credit>
+			<actor>Christian Tramitz</actor>
+			<role>Tony Patzak</role>
+		</credit>
+		<credit>
+			<actor>Lazar Simaifar</actor>
+			<role>Sammy</role>
+		</credit>
+		<credit>
+			<actor>David Vormweg</actor>
+			<role>Milo</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">July 6 2022</releasedate>
+		<releasedate country="Argentina">July 6 2022</releasedate>
+		<releasedate country="Australia">July 6 2022</releasedate>
+		<releasedate country="Brazil">July 6 2022</releasedate>
+		<releasedate country="Canada">July 6 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">18+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">18</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">Youth not allowed</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>crisis</keyword>
+		<keyword>cash</keyword>
+		<keyword>dramedy</keyword>
+		<keyword>boss</keyword>
+		<keyword>money</keyword>
+		<keyword>mafia</keyword>
+		<keyword>job</keyword>
+		<keyword>politics</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Jan Bonny</director>
+		<director> Isabell Suba</director>
+		<director> Facundo Scalerandi</director>
+	</directors>
+	<composers>
+		<composer> Ziggy Has Ardeur</composer>
+		<composer> Konstantin Gropper</composer>
+	</composers>
+	<producers>
+		<producer> Jan Bonny</producer>
+		<producer> Judith Fülle</producer>
+		<producer> Philipp Kässbohrer</producer>
+		<producer> Matthias Murmann</producer>
+	</producers>
+	<writers>
+		<writer> Jan Eichberg</writer>
+		<writer> Mats Frey</writer>
+		<writer> Beatrice Huber</writer>
+		<writer> Fabienne Hurst</writer>
+		<writer> Philipp Kässbohrer</writer>
+		<writer> Philipp Kässbohrer</writer>
+		<writer> Philipp Kässbohrer</writer>
+		<writer> Isaiah Michalski</writer>
+		<writer> Matthias Murmann</writer>
+		<writer> Matthias Murmann</writer>
+	</writers>
+	<editors>
+		<editor> Florian Böttger</editor>
+		<editor> Rainer Nigrelli</editor>
+		<editor> Christoph Otto</editor>
+		<editor> Yana Höhnerbach</editor>
+	</editors>
+</doc>

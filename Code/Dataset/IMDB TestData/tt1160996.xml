@@ -1,0 +1,485 @@
+<?xml version="1.0" ?>
+<doc id="tt1160996">
+	<docid>tt1160996</docid>
+	<title>The Colony</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGYzYjg5NTQtOGQzZC00N2YxLWIwM2UtNDc1ZTdkYjQzNWZhXkEyXkFqcGdeQXVyMTM0ODMzMDcz._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>I 2013</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Forced underground by the next ice age, a struggling outpost of survivors must fight to preserve humanity against a threat even more savage than nature.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kevin Zegers</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Laurence Fishburne</actor>
+			<role>Briggs</role>
+		</credit>
+		<credit>
+			<actor>Bill Paxton</actor>
+			<role>Mason</role>
+		</credit>
+		<credit>
+			<actor>Charlotte Sullivan</actor>
+			<role>Kai</role>
+		</credit>
+		<credit>
+			<actor>Dru Viergever</actor>
+			<role>Feral Leader</role>
+		</credit>
+		<credit>
+			<actor>Atticus Mitchell</actor>
+			<role>Graydon</role>
+		</credit>
+		<credit>
+			<actor>John Tench</actor>
+			<role>Viktor</role>
+		</credit>
+		<credit>
+			<actor>Lisa Berry</actor>
+			<role>Nara</role>
+		</credit>
+		<credit>
+			<actor>Lucius Hoyos</actor>
+			<role>Rowan</role>
+		</credit>
+		<credit>
+			<actor>Kimberly-Sue Murray</actor>
+			<role>Janelle</role>
+		</credit>
+		<credit>
+			<actor>Michael Mando</actor>
+			<role>Cooper</role>
+		</credit>
+		<credit>
+			<actor>Helen Taylor</actor>
+			<role>Amanda</role>
+		</credit>
+		<credit>
+			<actor>Romano Orzari</actor>
+			<role>Reynolds</role>
+		</credit>
+		<credit>
+			<actor>John Healy</actor>
+			<role>Dexter</role>
+		</credit>
+		<credit>
+			<actor>Kristin Shepherd</actor>
+			<role>Elena</role>
+		</credit>
+		<credit>
+			<actor>Sten Eirik</actor>
+			<role>Hal</role>
+		</credit>
+		<credit>
+			<actor>Julian Richings</actor>
+			<role>Leland</role>
+		</credit>
+		<credit>
+			<actor>Alex Paxton-Beesley</actor>
+			<role>Terrified Woman</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">April 26 2013</releasedate>
+		<releasedate country="Hungary">June 13 2013</releasedate>
+		<releasedate country="Oman">July 18 2013</releasedate>
+		<releasedate country="Philippines">September 4 2013</releasedate>
+		<releasedate country="Kuwait">September 12 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-18</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="Ukraine">18</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>voice over narration</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>head butt</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>blizzard</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>showdown</keyword>
+		<keyword>destroyed bridge</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>little boy</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>bunker</keyword>
+		<keyword>seed</keyword>
+		<keyword>pickpocket</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>suspense</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>dark future</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>climate change</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>control tower</keyword>
+		<keyword>sos</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>beard</keyword>
+		<keyword>kiss</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>loss of wife</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>loss of son</keyword>
+		<keyword>loss of mother</keyword>
+		<keyword>beating</keyword>
+		<keyword>frozen body</keyword>
+		<keyword>flashback</keyword>
+		<keyword>dream</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>mutant</keyword>
+		<keyword>creature</keyword>
+		<keyword>ski mask</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sadism</keyword>
+		<keyword>chase</keyword>
+		<keyword>battle</keyword>
+		<keyword>combat</keyword>
+		<keyword>satellite</keyword>
+		<keyword>mute</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>hostage</keyword>
+		<keyword>man kills a woman</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>gore</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>engineer</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>race against time</keyword>
+		<keyword>feral</keyword>
+		<keyword>villain not really dead cliche</keyword>
+		<keyword>sole black character dies cliche</keyword>
+		<keyword>chicken</keyword>
+		<keyword>screaming</keyword>
+		<keyword>water</keyword>
+		<keyword>water bottle</keyword>
+		<keyword>rationing</keyword>
+		<keyword>food</keyword>
+		<keyword>darwinism</keyword>
+		<keyword>mutiny</keyword>
+		<keyword>power outage</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>crowbar</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>influenza</keyword>
+		<keyword>machete</keyword>
+		<keyword>axe</keyword>
+		<keyword>pickaxe</keyword>
+		<keyword>spear</keyword>
+		<keyword>spear throwing</keyword>
+		<keyword>impalement</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>axe fight</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>axe in the chest</keyword>
+		<keyword>axe in the back</keyword>
+		<keyword>murdered with an axe</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>stabbed in the shoulder</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>orphan</keyword>
+		<keyword>severed head</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the ear</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>dark past</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>fire</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>warrior</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>courage</keyword>
+		<keyword>bravery</keyword>
+		<keyword>knocked out with a gun butt</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>tomato</keyword>
+		<keyword>farm</keyword>
+		<keyword>colonist</keyword>
+		<keyword>commune</keyword>
+		<keyword>porn magazine</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>zombie</keyword>
+		<keyword>power generator</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>handcuffed to a bed</keyword>
+		<keyword>key</keyword>
+		<keyword>hands tied</keyword>
+		<keyword>frostbite</keyword>
+		<keyword>boiler room</keyword>
+		<keyword>security guard</keyword>
+		<keyword>female security guard</keyword>
+		<keyword>hearing noises</keyword>
+		<keyword>leadership</keyword>
+		<keyword>canadian science fiction</keyword>
+		<keyword>written by director</keyword>
+		<keyword>bridge collapse</keyword>
+		<keyword>collapsing bridge</keyword>
+		<keyword>abandoned city</keyword>
+		<keyword>tower</keyword>
+		<keyword>collapsing building</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>search</keyword>
+		<keyword>search and rescue</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>chess</keyword>
+		<keyword>hunger</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>ambush</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>image entertainment</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>colony</keyword>
+		<keyword>ice</keyword>
+		<keyword>ice age</keyword>
+		<keyword>outpost</keyword>
+		<keyword>survivor</keyword>
+		<keyword>savage</keyword>
+		<keyword>epidemic</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>barricading door</keyword>
+		<keyword>breaking through a door</keyword>
+		<keyword>gas explosion</keyword>
+		<keyword>leader</keyword>
+		<keyword>gas tank</keyword>
+		<keyword>car wreck</keyword>
+		<keyword>downed helicopter</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>distress signal</keyword>
+		<keyword>transmission</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>ice planet</keyword>
+		<keyword>signal</keyword>
+		<keyword>security camera</keyword>
+		<keyword>monitor</keyword>
+		<keyword>meat cleaver</keyword>
+		<keyword>living underground</keyword>
+		<keyword>underground bunker</keyword>
+		<keyword>corpse with eyes open</keyword>
+		<keyword>frozen corpse</keyword>
+		<keyword>corpse</keyword>
+		<keyword>dead body</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>hit with a metal pipe</keyword>
+		<keyword>head cut in half</keyword>
+		<keyword>head bashed in</keyword>
+		<keyword>survival</keyword>
+		<keyword>weather machine</keyword>
+		<keyword>weather manipulation</keyword>
+		<keyword>environmental disaster</keyword>
+		<keyword>environmental issue</keyword>
+		<keyword>environmental</keyword>
+		<keyword>human prey</keyword>
+		<keyword>manhunt</keyword>
+		<keyword>beehive</keyword>
+		<keyword>exploding bridge</keyword>
+		<keyword>explosion</keyword>
+		<keyword>tension</keyword>
+		<keyword>mission</keyword>
+		<keyword>goggles</keyword>
+		<keyword>trenchcoat</keyword>
+		<keyword>bald man</keyword>
+		<keyword>sharpened teeth</keyword>
+		<keyword>dismembered body</keyword>
+		<keyword>dismemberment</keyword>
+		<keyword>cannibal cult</keyword>
+		<keyword>air vent</keyword>
+		<keyword>sickness</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>near future</keyword>
+		<keyword>future</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>magazine</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>coughing</keyword>
+		<keyword>rifle</keyword>
+		<keyword>revolver</keyword>
+		<keyword>pistol</keyword>
+		<keyword>climbing a ladder</keyword>
+		<keyword>ladder</keyword>
+		<keyword>blood spatter</keyword>
+		<keyword>blood stain</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>flare</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>two word title</keyword>
+		<keyword>death</keyword>
+		<keyword>bones</keyword>
+		<keyword>flesh</keyword>
+		<keyword>blood</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>gun</keyword>
+		<keyword>cloud</keyword>
+		<keyword>seeds</keyword>
+		<keyword>radio contact</keyword>
+		<keyword>cannibal</keyword>
+		<keyword>vent</keyword>
+		<keyword>suicide</keyword>
+		<keyword>explosive</keyword>
+		<keyword>dynamite</keyword>
+		<keyword>bridge</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>factory</keyword>
+		<keyword>darkness</keyword>
+		<keyword>butchery</keyword>
+		<keyword>butcher</keyword>
+		<keyword>human eater</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>quarantine</keyword>
+		<keyword>virus</keyword>
+		<keyword>contagious</keyword>
+		<keyword>infection</keyword>
+		<keyword>disease</keyword>
+		<keyword>genetic research</keyword>
+		<keyword>food processing</keyword>
+		<keyword>culture</keyword>
+		<keyword>shooting</keyword>
+		<keyword>execution</keyword>
+		<keyword>stranded</keyword>
+		<keyword>food scarcity</keyword>
+		<keyword>climate</keyword>
+		<keyword>weather</keyword>
+		<keyword>climate control</keyword>
+		<keyword>snow</keyword>
+		<keyword>winter</keyword>
+		<keyword>starvation</keyword>
+		<keyword>murder</keyword>
+		<keyword>power struggle</keyword>
+		<keyword>global warming</keyword>
+		<keyword>weather control</keyword>
+		<keyword>cannibalism</keyword>
+		<keyword>post apocalypse</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>death of son</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>intergenerational friendship</keyword>
+		<keyword>cold the temperature</keyword>
+	</keywords>
+	<directors>
+		<director> Jeff Renfroe</director>
+	</directors>
+	<composers>
+		<composer> Jeff Danna</composer>
+	</composers>
+	<producers>
+		<producer> Paul Barkin</producer>
+		<producer> Colin Brunton</producer>
+		<producer> Matthew Cervi</producer>
+		<producer> Pierre Even</producer>
+		<producer> Jeannette Garcia</producer>
+		<producer> Pierre Gill</producer>
+		<producer> Peter Graham</producer>
+		<producer> Cherilyn Hawrysh</producer>
+		<producer> Marie-Claude Poulin</producer>
+		<producer> Andrew M. Robinson</producer>
+		<producer> Marc Schaberg</producer>
+		<producer> Noah Segal</producer>
+		<producer> Mark Slone</producer>
+	</producers>
+	<writers>
+		<writer> Jeff Renfroe</writer>
+		<writer> Svet Rouskov</writer>
+		<writer> Patrick Tarr</writer>
+		<writer> Patrick Tarr</writer>
+		<writer> Pascal Trottier</writer>
+		<writer> Pascal Trottier</writer>
+	</writers>
+	<editors>
+		<editor> Aaron Marshall</editor>
+	</editors>
+</doc>

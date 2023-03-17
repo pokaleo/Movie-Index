@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<doc id="tt7920500">
+	<docid>tt7920500</docid>
+	<title>Skam France</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjNiNjllMTctNjQ1Yi00OTA3LWFiNTQtM2ViMGZjYTIzMmI3XkEyXkFqcGdeQXVyODUxOTY0NDg@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">20</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>Skam France follows five french girls as they go to high-school.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Axel Auriant</actor>
+			<role>Lucas</role>
+		</credit>
+		<credit>
+			<actor>Lula Cotton-Frapier</actor>
+			<role>Daphné Lecomte</role>
+		</credit>
+		<credit>
+			<actor>Assa Sylla</actor>
+			<role>Imane</role>
+		</credit>
+		<credit>
+			<actor>Philippine Stindel</actor>
+			<role>Emma</role>
+		</credit>
+		<credit>
+			<actor>Coline Preher</actor>
+			<role>Alexia</role>
+		</credit>
+		<credit>
+			<actor>Léo Daudin</actor>
+			<role>Yann</role>
+		</credit>
+		<credit>
+			<actor>Marilyn Lima</actor>
+			<role>Manon</role>
+		</credit>
+		<credit>
+			<actor>Michel Biel</actor>
+			<role>Charles Munier</role>
+		</credit>
+		<credit>
+			<actor>Théo Christine</actor>
+			<role>Alexandre Delano</role>
+		</credit>
+		<credit>
+			<actor>Zoé Marchal</actor>
+			<role>Ingrid Spielman</role>
+		</credit>
+		<credit>
+			<actor>Maxence Danet-Fauvel</actor>
+			<role>Eliott</role>
+		</credit>
+		<credit>
+			<actor>Flavie Delangle</actor>
+			<role>Lola Lecomte</role>
+		</credit>
+		<credit>
+			<actor>Ayumi Roux</actor>
+			<role>Maya</role>
+		</credit>
+		<credit>
+			<actor>Paul Scarfoglio</actor>
+			<role>Basile</role>
+		</credit>
+		<credit>
+			<actor>Robin Migné</actor>
+			<role>Arthur</role>
+		</credit>
+		<credit>
+			<actor>Lucie Fagedet</actor>
+			<role>Tiffany Prigent</role>
+		</credit>
+		<credit>
+			<actor>Louise Malek</actor>
+			<role>Jo Benezra</role>
+		</credit>
+		<credit>
+			<actor>Laïs Salameh</actor>
+			<role>Sofiane</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Poland">February 5 2018</releasedate>
+		<releasedate country="France">February 9 2018</releasedate>
+		<releasedate country="Belgium">February 11 2018</releasedate>
+		<releasedate country="South Korea">July 30 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>french</keyword>
+	</keywords>
+	<directors>
+		<director> David Hourrègue</director>
+		<director> Shirley Monsarrat</director>
+	</directors>
+	<composers>
+		<composer> RIOPY</composer>
+		<composer> Christian Wibe</composer>
+	</composers>
+	<producers>
+		<producer> Alban Etienne</producer>
+		<producer> Carole Della Valle</producer>
+	</producers>
+	<writers>
+		<writer> Frédéric Garcia</writer>
+		<writer> Clémence Lebatteux</writer>
+		<writer> Marine Josset</writer>
+		<writer> Marine Josset</writer>
+		<writer> Niels Rahou</writer>
+		<writer> Niels Rahou</writer>
+		<writer> Jean-Baptiste Vandroy</writer>
+		<writer> Cyril Tysz</writer>
+		<writer> Delphine Agut</writer>
+		<writer> Fanny Talmone</writer>
+		<writer> Fanny Talmone</writer>
+		<writer> Julien Capron</writer>
+		<writer> Karen Guillorel</writer>
+		<writer> Bruno Lugan</writer>
+		<writer> Mélusine Raynaud</writer>
+		<writer> Maud Konan</writer>
+		<writer> Paul Madillo</writer>
+		<writer> Julie Andem</writer>
+	</writers>
+	<editors>
+		<editor> Jérémy Pitard</editor>
+		<editor> Yannick Grassi</editor>
+		<editor> Adrien Pallatier</editor>
+		<editor> Charly Lemega</editor>
+		<editor> Flora Alfonsi</editor>
+		<editor> Tianès Montasser</editor>
+	</editors>
+</doc>

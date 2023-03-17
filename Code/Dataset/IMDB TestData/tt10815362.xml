@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<doc id="tt10815362">
+	<docid>tt10815362</docid>
+	<title>Graceful Family</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2MzZTM5MjEtOWY4ZC00ZDU4LWFhOGYtY2EzYWVhNjQwZjVjXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">80</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A drama about a rich heir and a good-hearted lawyer investigating the death of the mother of the former.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Soo-hyang Im</actor>
+			<role>Mo Seok-hee</role>
+		</credit>
+		<credit>
+			<actor>Lee Jang-woo</actor>
+			<role>Heo Yoon-do</role>
+		</credit>
+		<credit>
+			<actor>Chong-ok Bae</actor>
+			<role>Han Je-gook</role>
+		</credit>
+		<credit>
+			<actor>Woo-Sung Hyun</actor>
+			<role>Joo tae-hyung</role>
+		</credit>
+		<credit>
+			<actor>Suk Mun</actor>
+			<role>Kim Bok Soon</role>
+		</credit>
+		<credit>
+			<actor>Kyu-han Lee</actor>
+			<role>Mo Wan-soo</role>
+		</credit>
+		<credit>
+			<actor>Hee-kyung Moon</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Gong Hyun Joo</actor>
+			<role>Baek Soo-jin</role>
+		</credit>
+		<credit>
+			<actor>Kim Jin Woo</actor>
+			<role>Mo Wan-joon</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Indonesia">August 21 2019</releasedate>
+		<releasedate country="South Korea">August 21 2019</releasedate>
+		<releasedate country="Philippines">August 21 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Philippines">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>suspense</keyword>
+	</keywords>
+	<directors>
+		<director> Chul-soo Han</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Kwon Min-soo</writer>
+	</writers>
+	<editors/>
+</doc>

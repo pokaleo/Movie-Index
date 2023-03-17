@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<doc id="tt6461824">
+	<docid>tt6461824</docid>
+	<title>The Crossing</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjIxMjMxMTc1OF5BMl5BanBnXkFtZTgwNzg1Mjg1NDM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Refugees from a war-torn country 180 years in the future start showing up in the present to seek asylum in an American town.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Steve Zahn</actor>
+			<role>Jude Ellis</role>
+		</credit>
+		<credit>
+			<actor>Natalie Martinez</actor>
+			<role>Reece</role>
+		</credit>
+		<credit>
+			<actor>Tommy Bastow</actor>
+			<role>Marshall</role>
+		</credit>
+		<credit>
+			<actor>Rob Campbell</actor>
+			<role>Paul</role>
+		</credit>
+		<credit>
+			<actor>Rick Gomez</actor>
+			<role>Nestor Rosario</role>
+		</credit>
+		<credit>
+			<actor>Marcuis Harris</actor>
+			<role>Caleb</role>
+		</credit>
+		<credit>
+			<actor>Grant Harvey</actor>
+			<role>Roy Aronson</role>
+		</credit>
+		<credit>
+			<actor>Jay Karnes</actor>
+			<role>Craig Lindauer</role>
+		</credit>
+		<credit>
+			<actor>Simone Kessell</actor>
+			<role>Rebecca</role>
+		</credit>
+		<credit>
+			<actor>Kelley Missal</actor>
+			<role>Hannah</role>
+		</credit>
+		<credit>
+			<actor>Luc Roderique</actor>
+			<role>Bryce Foster</role>
+		</credit>
+		<credit>
+			<actor>Bailey Skodje</actor>
+			<role>Leah</role>
+		</credit>
+		<credit>
+			<actor>Georgina Haig</actor>
+			<role>Dr. Sophie Forbin</role>
+		</credit>
+		<credit>
+			<actor>Melinda McGraw</actor>
+			<role>Dr. Greta Pryor</role>
+		</credit>
+		<credit>
+			<actor>Luke Camilleri</actor>
+			<role>Thomas</role>
+		</credit>
+		<credit>
+			<actor>Christian Michael Cooper</actor>
+			<role>Oliver Ellis</role>
+		</credit>
+		<credit>
+			<actor>Sandrine Holt</actor>
+			<role>Emma Ren</role>
+		</credit>
+		<credit>
+			<actor>Josette Canilao</actor>
+			<role>Naomi</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">March 19 2018</releasedate>
+		<releasedate country="Canada">April 2 2018</releasedate>
+		<releasedate country="Turkey">April 2 2018</releasedate>
+		<releasedate country="United States">April 2 2018</releasedate>
+		<releasedate country="Spain">April 3 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Italy">VM16</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>post apocalypse</keyword>
+		<keyword>time travel sci fi</keyword>
+	</keywords>
+	<directors>
+		<director> David Von Ancken</director>
+		<director> Rob Bowman</director>
+		<director> David Boyd</director>
+		<director> Hanelle M. Culpepper</director>
+		<director> Ken Girotti</director>
+		<director> Jeffrey G. Hunt</director>
+		<director> P.J. Pesce</director>
+		<director> Alrick Riley</director>
+		<director> Tara Nicole Weyr</director>
+		<director> Alex Zakrzewski</director>
+	</directors>
+	<composers>
+		<composer> Robert Duncan</composer>
+	</composers>
+	<producers>
+		<producer> Todd Aronauer</producer>
+		<producer> Tina Grewal</producer>
+		<producer> Jason Reed</producer>
+		<producer> Jay Beattie</producer>
+		<producer> Dan Dworkin</producer>
+		<producer> Rebecca Sonnenshine</producer>
+		<producer> David Von Ancken</producer>
+		<producer> Evan Bleiweiss</producer>
+		<producer> Deirdre Mangan</producer>
+		<producer> Michael Narducci</producer>
+		<producer> Matt Olmstead</producer>
+		<producer> Uros B</producer>
+		<producer> Rob Bowman</producer>
+	</producers>
+	<writers>
+		<writer> Jay Beattie</writer>
+		<writer> Jay Beattie</writer>
+		<writer> Dan Dworkin</writer>
+		<writer> Dan Dworkin</writer>
+		<writer> Michael Narducci</writer>
+		<writer> Rebecca Sonnenshine</writer>
+		<writer> Evan Bleiweiss</writer>
+		<writer> Deirdre Mangan</writer>
+		<writer> Matt Olmstead</writer>
+		<writer> Sabir Pirzada</writer>
+		<writer> Vivian Tse</writer>
+	</writers>
+	<editors>
+		<editor> Greg Sirota</editor>
+		<editor> Juan Carlos Garza</editor>
+		<editor> Randy Jon Morgan</editor>
+		<editor> Monty DeGraff</editor>
+		<editor> Scott Vickrey</editor>
+	</editors>
+</doc>

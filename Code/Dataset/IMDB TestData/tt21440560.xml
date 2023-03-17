@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<doc id="tt21440560">
+	<docid>tt21440560</docid>
+	<title>Viking</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjQ4NjUzYzgtNmEwMy00MGM0LWE1NWQtYzUzNjMwNTY2MmY4XkEyXkFqcGdeQXVyMDMxMTgwOQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">104</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A behavioral research team observes and attempts to replicate the experiences of the first manned mission to Mars.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Steve Laplante</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Larissa Corriveau</actor>
+			<role>Steven</role>
+		</credit>
+		<credit>
+			<actor>Fabiola Nyrva Aladin</actor>
+			<role>Janet</role>
+		</credit>
+		<credit>
+			<actor>Hamza Haq</actor>
+			<role>Gary</role>
+		</credit>
+		<credit>
+			<actor>Denis Houle</actor>
+			<role>Liz</role>
+		</credit>
+		<credit>
+			<actor>Marie Brassard</actor>
+			<role>Christiane Comte</role>
+		</credit>
+		<credit>
+			<actor>Martin-David Peters</actor>
+			<role>Jean-Marc</role>
+		</credit>
+		<credit>
+			<actor>Marie-Laurence Moreau</actor>
+			<role>Isabelle</role>
+		</credit>
+		<credit>
+			<actor>Rémi-Pierre Paquin</actor>
+			<role>Éric</role>
+		</credit>
+		<credit>
+			<actor>John P. Alviz</actor>
+			<role>John 2</role>
+		</credit>
+		<credit>
+			<actor>Eric Davis</actor>
+			<role>The real John Shepard</role>
+		</credit>
+		<credit>
+			<actor>Mélanie Elliott</actor>
+			<role>La vraie LIZ</role>
+		</credit>
+		<credit>
+			<actor>Violaine Estérez</actor>
+			<role>Vraie Mme Fisher</role>
+		</credit>
+		<credit>
+			<actor>Christopher Heyerdahl</actor>
+			<role>Roy Walker</role>
+		</credit>
+		<credit>
+			<actor>Gary Layton</actor>
+			<role>Minivan Driver</role>
+		</credit>
+		<credit>
+			<actor>Frank Marrs</actor>
+			<role>Vrai Steven</role>
+		</credit>
+		<credit>
+			<actor>Adrianne Richards</actor>
+			<role>The Real Janet</role>
+		</credit>
+		<credit>
+			<actor>Spencer Streichert</actor>
+			<role>Cowboy #2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 12 2022</releasedate>
+		<releasedate country="Canada">September 25 2022</releasedate>
+		<releasedate country="Canada">September 30 2022</releasedate>
+		<releasedate country="Belgium">October 3 2022</releasedate>
+		<releasedate country="Germany">October 7 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Mexico">B</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Stéphane Lafleur</director>
+	</directors>
+	<composers>
+		<composer> Mathieu Charbonneau</composer>
+		<composer> Christophe Lamarche-Ledoux</composer>
+		<composer> Organ Mood</composer>
+	</composers>
+	<producers>
+		<producer> Luc Déry</producer>
+		<producer> Kim McCraw</producer>
+	</producers>
+	<writers>
+		<writer> Eric K. Boulianne</writer>
+		<writer> Stéphane Lafleur</writer>
+	</writers>
+	<editors>
+		<editor> Sophie Leblond</editor>
+	</editors>
+</doc>

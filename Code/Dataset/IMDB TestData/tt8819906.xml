@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<doc id="tt8819906">
+	<docid>tt8819906</docid>
+	<title>Love Island</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDU4NTQwNGUtYzU4ZC00NzFmLWEyZWYtODk1YWQyNDA2ZDEwXkEyXkFqcGdeQXVyNjg0NTcxMTg@._V1_QL75_UY281_CR17,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Matthew Hoffman</actor>
+			<role>Self - Narrator - VO Producer</role>
+		</credit>
+		<credit>
+			<actor>Iain Stirling</actor>
+			<role>Self - Narrator - VO Producer</role>
+		</credit>
+		<credit>
+			<actor>Zeta Morrison</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Timmy Pandolfi</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Sydney Paight</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Deborah Chubb</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Isaiah Campbell</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Jesse Bray</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Arielle Vandenberg</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Justine Ndiba</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Johnny Middlebrooks</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Cely Vazquez</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Moira Tumas</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Carrington Rodriguez</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Mackenzie Dipman</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Calvin Cobb</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Caleb Corprew</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Courtney Boerner</actor>
+			<role>Self - Contestant</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">July 9 2019</releasedate>
+		<releasedate country="United States">July 9 2019</releasedate>
+		<releasedate country="Germany">October 6 2019</releasedate>
+		<releasedate country="Philippines">November 30 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dating and romance reality tv</keyword>
+		<keyword>dating game show</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Ryan 'Reinhardt' Vermeulen</director>
+		<director> Marty Denholm</director>
+		<director> Peter Leeson</director>
+		<director> Paul Newton</director>
+	</directors>
+	<composers>
+		<composer> Amnemonic</composer>
+	</composers>
+	<producers>
+		<producer> Katey O'Regan</producer>
+		<producer> Chet Fenster</producer>
+		<producer> Richard Foster</producer>
+		<producer> David George</producer>
+		<producer> Adam Sher</producer>
+		<producer> Simon Thomas</producer>
+		<producer> Ben Thursby</producer>
+		<producer> Sam Bullard</producer>
+		<producer> Steven Raff</producer>
+		<producer> David Eilenberg</producer>
+		<producer> Katie Laird</producer>
+		<producer> Kelley Oorloff</producer>
+		<producer> Jessica Devlin</producer>
+		<producer> Matt Lovkis</producer>
+		<producer> Christopher DeJoseph</producer>
+		<producer> Bri Baxter</producer>
+		<producer> Sev DeMyers</producer>
+		<producer> Michael Dietz</producer>
+		<producer> Kristian Hansen</producer>
+		<producer> Taylor Kemp</producer>
+		<producer> Kevin Miller</producer>
+		<producer> Jacqueline Topacio</producer>
+		<producer> James Barker</producer>
+		<producer> Sophie Bush</producer>
+		<producer> Andy Cadman</producer>
+		<producer> Ann Conner</producer>
+		<producer> Richard Cowles</producer>
+		<producer> Michel Dietz</producer>
+		<producer> Mike Espinosa</producer>
+		<producer> Blake Garrett</producer>
+		<producer> Tom Gould</producer>
+		<producer> Mike Spencer</producer>
+		<producer> Krista Steinberger</producer>
+		<producer> Adam Cooper</producer>
+		<producer> Carmie Jean Ilasco</producer>
+		<producer> Hannah Kadletz</producer>
+		<producer> Sabra Potter</producer>
+		<producer> Tarryn Rossetti</producer>
+		<producer> Gene Patrick Smith</producer>
+		<producer> Ali Zubik</producer>
+		<producer> Amanda Dobkowitz</producer>
+		<producer> Louisa Grams</producer>
+		<producer> Caroline Abaecheta</producer>
+		<producer> Tori Burnett</producer>
+		<producer> Hillary Caviness</producer>
+		<producer> Maurice Dukes</producer>
+		<producer> Danny Koerber</producer>
+		<producer> Sara Mardam-Bey</producer>
+		<producer> Ben Monstrey</producer>
+		<producer> Alessandra Quest</producer>
+		<producer> Monique Berduo</producer>
+		<producer> Jennifer Falkoff</producer>
+		<producer> Marco Franzitta</producer>
+		<producer> Mandy Morris</producer>
+		<producer> Bryan Riches</producer>
+		<producer> Gayani Wanigaratne</producer>
+		<producer> Tara Webb</producer>
+		<producer> Harvey Wilson</producer>
+		<producer> Crisveth Ortega</producer>
+		<producer> Jorge Chediak</producer>
+		<producer> Mark Dashiell</producer>
+		<producer> Alex Rinks</producer>
+		<producer> Reis Armstrong</producer>
+		<producer> Scott Raigel</producer>
+		<producer> Summer Benson</producer>
+		<producer> Jasmine C. Leyva</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Laurens Van Charante</editor>
+		<editor> Chris Kirkpatrick</editor>
+		<editor> Greg Cornejo</editor>
+		<editor> Lise Kearney</editor>
+		<editor> Nida Ball</editor>
+		<editor> Knox Hughes</editor>
+		<editor> Steven T Hwang</editor>
+		<editor> Terran Schackor</editor>
+		<editor> David Coppola</editor>
+		<editor> Evan Gatica</editor>
+		<editor> Ri-Karlo Handy</editor>
+		<editor> Kevin Benson</editor>
+		<editor> Najib Tabri</editor>
+		<editor> Mark Arbitrario</editor>
+		<editor> Jason Groothuis</editor>
+		<editor> Shawn Gutierrez</editor>
+		<editor> Daniel R. James</editor>
+		<editor> James Ralph</editor>
+		<editor> Jonathan Dowler</editor>
+		<editor> Neal Acosta</editor>
+		<editor> Eduardo Martinez</editor>
+		<editor> David Friedman</editor>
+		<editor> Mike Verna</editor>
+		<editor> Will Simpson</editor>
+	</editors>
+</doc>

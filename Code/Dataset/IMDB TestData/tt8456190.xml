@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<doc id="tt8456190">
+	<docid>tt8456190</docid>
+	<title>Seal Team</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWQxMWI3ZmYtYjQzMC00M2MyLTliN2YtMzgyZTQ2OThhZWQ4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">101</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Fearless seal Quinn assembles a squad of misfit recruits to stand up to ruthless sharks with razor-sharp teeth and reclaim the open sea.</plot>
+	<countries>
+		<country>South Africa</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>J.K. Simmons</actor>
+			<role>Claggart</role>
+		</credit>
+		<credit>
+			<actor>Dolph Lundgren</actor>
+			<role>Dolph</role>
+		</credit>
+		<credit>
+			<actor>Sharlto Copley</actor>
+			<role>Switch</role>
+		</credit>
+		<credit>
+			<actor>Bumper Robinson</actor>
+			<role>HMMF Animal Handler</role>
+		</credit>
+		<credit>
+			<actor>Jessie T. Usher</actor>
+			<role>Quinn</role>
+		</credit>
+		<credit>
+			<actor>Julian Alexander Smith</actor>
+			<role>Benji</role>
+		</credit>
+		<credit>
+			<actor>Patrick Warburton</actor>
+			<role>Geraldo</role>
+		</credit>
+		<credit>
+			<actor>Rick Zieff</actor>
+			<role>Crunch</role>
+		</credit>
+		<credit>
+			<actor>Richard Steven Horvitz</actor>
+			<role>Snap</role>
+		</credit>
+		<credit>
+			<actor>Vivienne Rutherford</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Kristen Schaal</actor>
+			<role>Beth</role>
+		</credit>
+		<credit>
+			<actor>John Kani</actor>
+			<role>Brick</role>
+		</credit>
+		<credit>
+			<actor>Anjali Bhimani</actor>
+			<role>Crabby Stabby</role>
+		</credit>
+		<credit>
+			<actor>Matthew Rhys</actor>
+			<role>Grimes</role>
+		</credit>
+		<credit>
+			<actor>Jan Johns</actor>
+			<role>Mayday</role>
+		</credit>
+		<credit>
+			<actor>Kate Micucci</actor>
+			<role>Diving Dee</role>
+		</credit>
+		<credit>
+			<actor>Daran Norris</actor>
+			<role>Roger</role>
+		</credit>
+		<credit>
+			<actor>Seal</actor>
+			<role>Seal Seal</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Belgium">September 25 2021</releasedate>
+		<releasedate country="Belgium">September 25 2021</releasedate>
+		<releasedate country="Netherlands">October 13 2021</releasedate>
+		<releasedate country="Belgium">October 27 2021</releasedate>
+		<releasedate country="Czech Republic">October 28 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">TV-Y7</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Iceland">7</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">Unrated</certificate>
+		<certificate country="Mexico">TV-Y7</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Poland">0</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>shark</keyword>
+		<keyword>seal</keyword>
+		<keyword>dolphin</keyword>
+	</keywords>
+	<directors>
+		<director> Greig Cameron</director>
+		<director> Kane Croudace</director>
+	</directors>
+	<composers>
+		<composer> Elben Schutte</composer>
+		<composer> Andries Smit</composer>
+	</composers>
+	<producers>
+		<producer> Mike Buckland</producer>
+		<producer> Brian Cleveland</producer>
+		<producer> Jason Cleveland</producer>
+		<producer> Stuart Forrest</producer>
+		<producer> Aninka Jonck</producer>
+		<producer> Jean-Michel Koenig</producer>
+		<producer> Kaya Kuhn</producer>
+		<producer> Ned Lott</producer>
+		<producer> James Middleton</producer>
+		<producer> Maijang Mpherwane</producer>
+		<producer> Edward Noeltner</producer>
+		<producer> Tshifhiwa Radzilani</producer>
+		<producer> Anthony Silverston</producer>
+		<producer> Vanessa Ann Sinden</producer>
+		<producer> Nikki Wilton</producer>
+	</producers>
+	<writers>
+		<writer> Greig Cameron</writer>
+		<writer> Brian Cleveland</writer>
+		<writer> Jason Cleveland</writer>
+		<writer> Wayne Thornley</writer>
+		<writer> Paul Ian Johnson</writer>
+		<writer> Phil Lorin</writer>
+		<writer> Anthony Silverston</writer>
+	</writers>
+	<editors>
+		<editor> Patrick Ducruet</editor>
+		<editor> Luke MacKay</editor>
+	</editors>
+</doc>

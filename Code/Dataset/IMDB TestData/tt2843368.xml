@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<doc id="tt2843368">
+	<docid>tt2843368</docid>
+	<title>Mongeville</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjJkNmRhOGUtYmMzMy00MGNjLTk2MDYtYzQ3ODUzYTQ0YThjXkEyXkFqcGdeQXVyMzE2ODIxNA@@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Antoine Mongeville, a former investigating judge in Bordeaux, meets a Criminal Police detective who he will have to work with. Despite their tense relationship and their opposed characters, they will realize that they are not so different.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Francis Perrin</actor>
+			<role>Antoine Mongeville</role>
+		</credit>
+		<credit>
+			<actor>Pierre Aussedat</actor>
+			<role>Commissaire Briare</role>
+		</credit>
+		<credit>
+			<actor>Jean-Philippe Lachaud</actor>
+			<role>Stéphane</role>
+		</credit>
+		<credit>
+			<actor>Gaëlle Bona</actor>
+			<role>Valentine Duteil</role>
+		</credit>
+		<credit>
+			<actor>Christiane Bopp</actor>
+			<role>Pauline Duchêne</role>
+		</credit>
+		<credit>
+			<actor>Marc Depond</actor>
+			<role>Sylvestre</role>
+		</credit>
+		<credit>
+			<actor>Gauthier Baillot</actor>
+			<role>Commandant Julien Lemaire</role>
+		</credit>
+		<credit>
+			<actor>Marie Mouté</actor>
+			<role>Axelle Ferrano</role>
+		</credit>
+		<credit>
+			<actor>Jean-Pierre Bertrand</actor>
+			<role>Patron de la brasserie</role>
+		</credit>
+		<credit>
+			<actor>Philippe Duclos</actor>
+			<role>Marc Vaudreuil</role>
+		</credit>
+		<credit>
+			<actor>Léa Wiazemsky</actor>
+			<role>Laurence Mongeville</role>
+		</credit>
+		<credit>
+			<actor>Fabien Bassot</actor>
+			<role>Aymeric Platini</role>
+		</credit>
+		<credit>
+			<actor>Isabelle Petit-Jacques</actor>
+			<role>Mère d'Axelle</role>
+		</credit>
+		<credit>
+			<actor>Fred Nony</actor>
+			<role>Charles</role>
+		</credit>
+		<credit>
+			<actor>Gabrielle Forest</actor>
+			<role>Sophie Mongeville</role>
+		</credit>
+		<credit>
+			<actor>Margherita Oscuro</actor>
+			<role>Gérante centre commercial</role>
+		</credit>
+		<credit>
+			<actor>Sophie Vaslot</actor>
+			<role>Avocate Béatrice Lesparre</role>
+		</credit>
+		<credit>
+			<actor>Jean Mouriere</actor>
+			<role>Hadrien Lelay</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Andorra">April 13 2013</releasedate>
+		<releasedate country="France">April 13 2013</releasedate>
+		<releasedate country="Monaco">April 13 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">Tous publics</certificate>
+	</certificates>
+	<keywords>
+		<keyword>detective</keyword>
+		<keyword>examining magistrate</keyword>
+		<keyword>policewoman</keyword>
+	</keywords>
+	<directors>
+		<director> Bruno Garcia</director>
+		<director> Edwin Baily</director>
+		<director> Jacques Santamaria</director>
+		<director> Sylvie Ayme</director>
+		<director> Stéphane Malhuret</director>
+		<director> Marwen Abdallah</director>
+		<director> Bénédicte Delmas</director>
+		<director> Dominique Ladoge</director>
+		<director> Denis Malleval</director>
+		<director> Hervé Brami</director>
+		<director> René Manzor</director>
+		<director> Delphine Lemoine</director>
+	</directors>
+	<composers>
+		<composer> Philippe Kelly</composer>
+		<composer> Patrick Faure</composer>
+	</composers>
+	<producers>
+		<producer> Daniel Dubois</producer>
+		<producer> Vassili Clert</producer>
+		<producer> Alexandra Clert</producer>
+		<producer> Alain Clert</producer>
+		<producer> Marie Madec</producer>
+		<producer> Benjamin Dupont-Jubien</producer>
+		<producer> Mehdi Sabbar</producer>
+	</producers>
+	<writers>
+		<writer> Jacques Santamaria</writer>
+		<writer> Jacques Santamaria</writer>
+		<writer> Fabien Champion</writer>
+		<writer> Fabien Champion</writer>
+		<writer> Fabien Champion</writer>
+		<writer> Céline Guyot</writer>
+		<writer> Martin Guyot</writer>
+		<writer> Simon Jablonka</writer>
+		<writer> Baptiste Filleul</writer>
+		<writer> Anne Queinnec</writer>
+		<writer> Lola Gruber</writer>
+		<writer> Emmanuel Salinger</writer>
+		<writer> Jean Dell</writer>
+		<writer> Yann Le Gal</writer>
+		<writer> Cécile Maistre</writer>
+		<writer> Robin Barataud</writer>
+		<writer> Eric Kristy</writer>
+		<writer> Elsa Marpeau</writer>
+		<writer> Eric Rognard</writer>
+		<writer> Kristel Mudry</writer>
+		<writer> Sébastien Vitoux</writer>
+		<writer> Cécile Leclère</writer>
+		<writer> Sarah Malléon</writer>
+		<writer> Sébastien Paris</writer>
+		<writer> Eric Vérat</writer>
+		<writer> Marie-Sophie Ahmadi</writer>
+		<writer> Pierre Doublier</writer>
+		<writer> Armelle Robert</writer>
+		<writer> Hugues Derolez</writer>
+		<writer> Hugues Derolez</writer>
+	</writers>
+	<editors>
+		<editor> Johanna Turpeau</editor>
+		<editor> Hugues Orduna</editor>
+		<editor> Mickaël Lavignac</editor>
+		<editor> Bertrand Servant</editor>
+		<editor> Alain Caron</editor>
+		<editor> Sylvie Laugier</editor>
+	</editors>
+</doc>

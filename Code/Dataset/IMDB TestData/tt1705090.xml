@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<doc id="tt1705090">
+	<docid>tt1705090</docid>
+	<title>Teresa</title>
+	<image/>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>Teresa is a young woman dominated by her greed. Her parents have made great sacrifices to give her a good, decent life, but Teresa wants more, a lot more.</plot>
+	<countries>
+		<country>Mexico</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sebastián Rulli</actor>
+			<role>Arturo de la Barrera Azuela</role>
+		</credit>
+		<credit>
+			<actor>Aarón Díaz</actor>
+			<role>Mariano Sánchez Suárez</role>
+		</credit>
+		<credit>
+			<actor>Angelique Boyer</actor>
+			<role>Teresa Chávez Aguirre</role>
+		</credit>
+		<credit>
+			<actor>Cynthia Klitbo</actor>
+			<role>Juana</role>
+		</credit>
+		<credit>
+			<actor>Margarita Magaña</actor>
+			<role>Aida</role>
+		</credit>
+		<credit>
+			<actor>Ana Brenda Contreras</actor>
+			<role>Aurora Alcázar</role>
+		</credit>
+		<credit>
+			<actor>Manuel Landeta</actor>
+			<role>Rubén Cáceres Muro</role>
+		</credit>
+		<credit>
+			<actor>Fabiola Campomanes</actor>
+			<role>Esperanza Medina</role>
+		</credit>
+		<credit>
+			<actor>Silvia Mariscal</actor>
+			<role>Refugio Aguirre de Chávez</role>
+		</credit>
+		<credit>
+			<actor>Fernanda Castillo</actor>
+			<role>Luisa de la Barrera Azuela</role>
+		</credit>
+		<credit>
+			<actor>Alejandro Ávila</actor>
+			<role>Cutberto González</role>
+		</credit>
+		<credit>
+			<actor>Luis Fernando Peña</actor>
+			<role>Johnny</role>
+		</credit>
+		<credit>
+			<actor>Felicia Mercado</actor>
+			<role>Genoveva</role>
+		</credit>
+		<credit>
+			<actor>Óscar Bonfiglio</actor>
+			<role>Héctor Alcázar</role>
+		</credit>
+		<credit>
+			<actor>Juan Carlos Colombo</actor>
+			<role>Armando</role>
+		</credit>
+		<credit>
+			<actor>Daniel Arenas</actor>
+			<role>Fernando Moreno Guijarro</role>
+		</credit>
+		<credit>
+			<actor>Dobrina Cristeva</actor>
+			<role>Mayra de Cáceres</role>
+		</credit>
+		<credit>
+			<actor>Toño Mauri</actor>
+			<role>Hernan Ledesma</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Mexico">August 2 2010</releasedate>
+		<releasedate country="United States">March 30 2011</releasedate>
+		<releasedate country="Hungary">February 20 2012</releasedate>
+		<releasedate country="Brazil">October 5 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>greed</keyword>
+		<keyword>classism</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>soap opera</keyword>
+		<keyword>telenovela</keyword>
+	</keywords>
+	<directors>
+		<director> Alejandro Gamboa</director>
+		<director> Monica Miguel</director>
+	</directors>
+	<composers>
+		<composer> Carlos Páramo</composer>
+		<composer> Roberto Roffiel</composer>
+	</composers>
+	<producers>
+		<producer> José Alberto Castro</producer>
+		<producer> Ernesto Hernández</producer>
+		<producer> Fausto Sáinz</producer>
+	</producers>
+	<writers>
+		<writer> Julián Aguilar</writer>
+		<writer> Mimí Bechelani</writer>
+		<writer> Ximena Suárez</writer>
+	</writers>
+	<editors>
+		<editor> Héctor Flores</editor>
+		<editor> Juan Ordóñez</editor>
+	</editors>
+</doc>

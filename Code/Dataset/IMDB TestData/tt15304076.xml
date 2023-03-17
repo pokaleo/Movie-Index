@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<doc id="tt15304076">
+	<docid>tt15304076</docid>
+	<title>Fenris</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDRjMDNkMGMtYzA1Yy00MGQzLWI5OWYtNzI4OWJkNTc3NWRlXkEyXkFqcGdeQXVyMTEyMzM0MzYz._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">270</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>When a boy from a small town in Norway disappears, rumors arise that wolves are responsible, but a biologist discovers the bloody jacket in his father's house and he soon disappears too, sparking a wave of investigations.</plot>
+	<countries>
+		<country>Norway</country>
+	</countries>
+	<languages>
+		<language>Norwegian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jan Gunnar Røise</actor>
+			<role>Asbjørn Kolomoen</role>
+		</credit>
+		<credit>
+			<actor>Ida Elise Broch</actor>
+			<role>Emma Salomonsen</role>
+		</credit>
+		<credit>
+			<actor>Jonas Strand Gravli</actor>
+			<role>Jan Petter Kolomoen</role>
+		</credit>
+		<credit>
+			<actor>Julia Schacht</actor>
+			<role>Kathinka Belset</role>
+		</credit>
+		<credit>
+			<actor>Viljar Knutsen Bjaadal</actor>
+			<role>Leo Salomonsen</role>
+		</credit>
+		<credit>
+			<actor>Helena F. Ødven</actor>
+			<role>Elvira</role>
+		</credit>
+		<credit>
+			<actor>Ane Ulimoen Øverli</actor>
+			<role>Tuva</role>
+		</credit>
+		<credit>
+			<actor>Øystein Røger</actor>
+			<role>Jo Ås</role>
+		</credit>
+		<credit>
+			<actor>Cengiz Al</actor>
+			<role>Naim Karimi</role>
+		</credit>
+		<credit>
+			<actor>Ingjerd Egeberg</actor>
+			<role>Anne Kolomoen</role>
+		</credit>
+		<credit>
+			<actor>Ola Otnes</actor>
+			<role>Eilertsen</role>
+		</credit>
+		<credit>
+			<actor>Ole Jansen Ulfsby</actor>
+			<role>Stian Gutu</role>
+		</credit>
+		<credit>
+			<actor>Kristin Skogheim</actor>
+			<role>Ingrid Hvidsten</role>
+		</credit>
+		<credit>
+			<actor>Cato Skimten Storengen</actor>
+			<role>Harald Gutu</role>
+		</credit>
+		<credit>
+			<actor>Alfred Vatne</actor>
+			<role>Daniel Belset</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Borgli</actor>
+			<role>Etterforsker Rønnekleiv</role>
+		</credit>
+		<credit>
+			<actor>Per Schaanning</actor>
+			<role>Ørnulf Vaset</role>
+		</credit>
+		<credit>
+			<actor>Kikki Stormo</actor>
+			<role>Madeleine Erickstam</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Norway">September 16 2022</releasedate>
+		<releasedate country="France">September 25 2022</releasedate>
+		<releasedate country="Norway">September 25 2022</releasedate>
+		<releasedate country="Netherlands">October 1 2022</releasedate>
+		<releasedate country="Australia">January 19 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Sweden">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>biologist</keyword>
+	</keywords>
+	<directors>
+		<director> Simen Alsvik</director>
+	</directors>
+	<composers>
+		<composer> Uno Helmersson</composer>
+	</composers>
+	<producers>
+		<producer> Roy Anderson</producer>
+		<producer> Tanya Badendyck</producer>
+		<producer> Live Bonnevie</producer>
+		<producer> Sveinung Golimo</producer>
+		<producer> Sigurd Mikal Karoliussen</producer>
+		<producer> Camilla Rydbacken</producer>
+		<producer> Henrik Zein</producer>
+	</producers>
+	<writers>
+		<writer> Simen Alsvik</writer>
+		<writer> Magnus Monn-Iversen</writer>
+		<writer> Maren Skolem</writer>
+		<writer> Nikolaj Scherfig</writer>
+	</writers>
+	<editors>
+		<editor> Perry Eriksen</editor>
+		<editor> Jens Christian Fodstad</editor>
+		<editor> Martin Stoltz</editor>
+	</editors>
+</doc>

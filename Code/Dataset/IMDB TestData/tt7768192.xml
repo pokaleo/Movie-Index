@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<doc id="tt7768192">
+	<docid>tt7768192</docid>
+	<title>Dublin Murders</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDI0NGZkMGUtZWRjMy00ZDI0LWJhMmQtYjU3NDJhM2I3NGE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sarah Greene</actor>
+			<role>Cassie Maddox</role>
+		</credit>
+		<credit>
+			<actor>Killian Scott</actor>
+			<role>Rob Reilly</role>
+		</credit>
+		<credit>
+			<actor>Michael D'Arcy</actor>
+			<role>Adam Reilly</role>
+		</credit>
+		<credit>
+			<actor>Eugene O'Hare</actor>
+			<role>Detective Quigley</role>
+		</credit>
+		<credit>
+			<actor>Tom Vaughan-Lawlor</actor>
+			<role>Frank Mackey</role>
+		</credit>
+		<credit>
+			<actor>Moe Dunford</actor>
+			<role>Detective Sam O'Neill</role>
+		</credit>
+		<credit>
+			<actor>Ellie O'Halloran</actor>
+			<role>Jamie Rowan</role>
+		</credit>
+		<credit>
+			<actor>Niall Jordan</actor>
+			<role>Peter Savage</role>
+		</credit>
+		<credit>
+			<actor>Ian Kenny</actor>
+			<role>Garda Phelan</role>
+		</credit>
+		<credit>
+			<actor>Conleth Hill</actor>
+			<role>Superintendent O'Kelly</role>
+		</credit>
+		<credit>
+			<actor>Peter McDonald</actor>
+			<role>Jonathan Devlin</role>
+		</credit>
+		<credit>
+			<actor>Amy Macken</actor>
+			<role>Jessica Devlin</role>
+		</credit>
+		<credit>
+			<actor>Leah McNamara</actor>
+			<role>Rosalind Devlin</role>
+		</credit>
+		<credit>
+			<actor>Jonny Holden</actor>
+			<role>Damien Donnelly</role>
+		</credit>
+		<credit>
+			<actor>Kathy Monahan</actor>
+			<role>Margaret Devlin</role>
+		</credit>
+		<credit>
+			<actor>David Thomas</actor>
+			<role>Young Cathal</role>
+		</credit>
+		<credit>
+			<actor>Sam Keeley</actor>
+			<role>Daniel March</role>
+		</credit>
+		<credit>
+			<actor>Daniel Brickenden</actor>
+			<role>Young Jonathan</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">October 14 2019</releasedate>
+		<releasedate country="United Kingdom">October 14 2019</releasedate>
+		<releasedate country="Turkey">October 14 2019</releasedate>
+		<releasedate country="Ireland">October 16 2019</releasedate>
+		<releasedate country="South Africa">October 27 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">VM18</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>investigation</keyword>
+		<keyword>police detective</keyword>
+		<keyword>murder</keyword>
+		<keyword>police investigation</keyword>
+		<keyword>dublin ireland</keyword>
+		<keyword>ireland</keyword>
+	</keywords>
+	<directors>
+		<director> John Hayes</director>
+		<director> Saul Dibb</director>
+		<director> Rebecca Gatward</director>
+	</directors>
+	<composers>
+		<composer> Volker Bertelmann</composer>
+	</composers>
+	<producers>
+		<producer> Tommy Bulfin</producer>
+		<producer> Saul Dibb</producer>
+		<producer> Alan Gasmer</producer>
+		<producer> Ed Guiney</producer>
+		<producer> Kate Harwood</producer>
+		<producer> Peter Jaysen</producer>
+		<producer> Elizabeth Kilgarriff</producer>
+		<producer> Carmel Maloney</producer>
+		<producer> Katrina McBriarty</producer>
+		<producer> Sarah Phelps</producer>
+		<producer> Noemi Spanos</producer>
+	</producers>
+	<writers>
+		<writer> Tana French</writer>
+		<writer> Sarah Phelps</writer>
+		<writer> Sarah Phelps</writer>
+		<writer> Chandni Lakhani</writer>
+	</writers>
+	<editors>
+		<editor> Catherine Creed</editor>
+		<editor> Dan Farrell</editor>
+		<editor> Stephen O'Connell</editor>
+		<editor> John O'Connor</editor>
+		<editor> Joel Skinner</editor>
+	</editors>
+</doc>

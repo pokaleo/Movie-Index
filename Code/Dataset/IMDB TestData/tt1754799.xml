@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<doc id="tt1754799">
+	<docid>tt1754799</docid>
+	<title>The Suite Life Movie</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWNhNDYzMGMtZTBjNC00YWMwLWJjZGUtZTk2ZmUzN2VlOGQ3XkEyXkFqcGdeQXVyMTIwMjY0NjQz._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2011 TV Movie</year>
+	<runningtimes>
+		<runningtime country="default">79</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>A doctor approaches Zack and Cody and tells them that they would be ideal for the Gemini Project, a massive project studying the effects of twins.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Cole Sprouse</actor>
+			<role>Cody Martin</role>
+		</credit>
+		<credit>
+			<actor>Dylan Sprouse</actor>
+			<role>Zack Martin</role>
+		</credit>
+		<credit>
+			<actor>Brenda Song</actor>
+			<role>London Tipton</role>
+		</credit>
+		<credit>
+			<actor>Debby Ryan</actor>
+			<role>Bailey Pickett</role>
+		</credit>
+		<credit>
+			<actor>Matthew Nogues</actor>
+			<role>Woody Fink</role>
+		</credit>
+		<credit>
+			<actor>John Ducey</actor>
+			<role>Dr. Spaulding</role>
+		</credit>
+		<credit>
+			<actor>Matthew Glave</actor>
+			<role>Dr. Olsen</role>
+		</credit>
+		<credit>
+			<actor>Phill Lewis</actor>
+			<role>Mr. Moseby</role>
+		</credit>
+		<credit>
+			<actor>Katelyn Pacitto</actor>
+			<role>Nellie Smith</role>
+		</credit>
+		<credit>
+			<actor>Kara Pacitto</actor>
+			<role>Kellie Smith</role>
+		</credit>
+		<credit>
+			<actor>Steven French</actor>
+			<role>Ben</role>
+		</credit>
+		<credit>
+			<actor>John French</actor>
+			<role>Sven</role>
+		</credit>
+		<credit>
+			<actor>Norman Misura</actor>
+			<role>Fish Monger</role>
+		</credit>
+		<credit>
+			<actor>Russ Rossi</actor>
+			<role>Sea Captain</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Brazil">2011</releasedate>
+		<releasedate country="Canada">March 25 2011</releasedate>
+		<releasedate country="United States">March 25 2011</releasedate>
+		<releasedate country="Germany">July 9 2011</releasedate>
+		<releasedate country="Japan">September 18 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Spain">6+</certificate>
+		<certificate country="Sweden">6</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United States">TV-G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>twins</keyword>
+		<keyword>twin brother</keyword>
+		<keyword>real twins playing twins</keyword>
+		<keyword>cruise ship</keyword>
+		<keyword>rich girl</keyword>
+		<keyword>movie in title</keyword>
+	</keywords>
+	<directors>
+		<director> Sean McNamara</director>
+	</directors>
+	<composers>
+		<composer> John Van Tongeren</composer>
+	</composers>
+	<producers>
+		<producer> Irene Dreayer</producer>
+		<producer> Pamela Eells</producer>
+		<producer> Tracey Jeffrey</producer>
+		<producer> Jessica Rhoades</producer>
+		<producer> Cole Sprouse</producer>
+		<producer> Dylan Sprouse</producer>
+	</producers>
+	<writers>
+		<writer> Danny Kallis</writer>
+		<writer> Jim Geoghan</writer>
+		<writer> Michael Saltzman</writer>
+		<writer> Robert Horn</writer>
+	</writers>
+	<editors>
+		<editor> John Gilbert</editor>
+	</editors>
+</doc>

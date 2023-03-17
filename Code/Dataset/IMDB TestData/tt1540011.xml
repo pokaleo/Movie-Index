@@ -1,0 +1,287 @@
+<?xml version="1.0" ?>
+<doc id="tt1540011">
+	<docid>tt1540011</docid>
+	<title>Blair Witch</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI0NTEyMjA3NV5BMl5BanBnXkFtZTgwODk5OTU4OTE@._V1_QL75_UX190_CR0,6,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">89</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>After discovering a video showing what he believes to be his vanished sister Heather, James and a group of friends head to the forest believed to be inhabited by the Blair Witch.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>James Allen McCune</actor>
+			<role>James</role>
+		</credit>
+		<credit>
+			<actor>Callie Hernandez</actor>
+			<role>Lisa</role>
+		</credit>
+		<credit>
+			<actor>Corbin Reid</actor>
+			<role>Ashley</role>
+		</credit>
+		<credit>
+			<actor>Brandon Scott</actor>
+			<role>Peter</role>
+		</credit>
+		<credit>
+			<actor>Wes Robinson</actor>
+			<role>Lane</role>
+		</credit>
+		<credit>
+			<actor>Valorie Curry</actor>
+			<role>Talia</role>
+		</credit>
+		<credit>
+			<actor>Heather Donahue</actor>
+			<role>Heather Donahue</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 11 2016</releasedate>
+		<releasedate country="Philippines">September 14 2016</releasedate>
+		<releasedate country="Argentina">September 15 2016</releasedate>
+		<releasedate country="Australia">September 15 2016</releasedate>
+		<releasedate country="Brazil">September 15 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="Indonesia">D</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">14</certificate>
+		<certificate country="Taiwan">R-15</certificate>
+		<certificate country="Thailand">15</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>witch</keyword>
+		<keyword>forest</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>found footage</keyword>
+		<keyword>woods</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>camping</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>house in the woods</keyword>
+		<keyword>maryland</keyword>
+		<keyword>actor shares first name with character</keyword>
+		<keyword>sequel</keyword>
+		<keyword>blair witch</keyword>
+		<keyword>evil</keyword>
+		<keyword>legend</keyword>
+		<keyword>running</keyword>
+		<keyword>time loop</keyword>
+		<keyword>2010s</keyword>
+		<keyword>youtube</keyword>
+		<keyword>college student</keyword>
+		<keyword>reboot</keyword>
+		<keyword>crossing a river</keyword>
+		<keyword>river crossing</keyword>
+		<keyword>two word title</keyword>
+		<keyword>third part</keyword>
+		<keyword>sleep</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>no music during end credits</keyword>
+		<keyword>characters murdered one by one</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>overalls</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>part of trilogy</keyword>
+		<keyword>backwoods</keyword>
+		<keyword>found footage horror</keyword>
+		<keyword>witch horror</keyword>
+		<keyword>requel</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>tree</keyword>
+		<keyword>search</keyword>
+		<keyword>escape</keyword>
+		<keyword>screaming</keyword>
+		<keyword>abandoned house</keyword>
+		<keyword>lovecraftian</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>no ending</keyword>
+		<keyword>apology</keyword>
+		<keyword>barricade</keyword>
+		<keyword>time paradox</keyword>
+		<keyword>bootstrap paradox</keyword>
+		<keyword>videotape</keyword>
+		<keyword>ghost</keyword>
+		<keyword>creature</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>mysterious figure</keyword>
+		<keyword>basement</keyword>
+		<keyword>corpse</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>shaky cam</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>parasite</keyword>
+		<keyword>chase</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>banishment</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>lightning</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>tent</keyword>
+		<keyword>impalement</keyword>
+		<keyword>gore</keyword>
+		<keyword>pentagram</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>night vision</keyword>
+		<keyword>black and white scene</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>crawling</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>vomiting blood</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>drone</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>no cell phone signal</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>loss of girlfriend</keyword>
+		<keyword>death of girlfriend</keyword>
+		<keyword>loss of boyfriend</keyword>
+		<keyword>death of boyfriend</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>friendship</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>river</keyword>
+		<keyword>attic</keyword>
+		<keyword>cabin in the woods</keyword>
+		<keyword>dark forest</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>small town</keyword>
+		<keyword>film student</keyword>
+		<keyword>yelling</keyword>
+		<keyword>curse</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>centipede</keyword>
+		<keyword>broken leg</keyword>
+		<keyword>broken foot</keyword>
+		<keyword>leg injury</keyword>
+		<keyword>blood</keyword>
+		<keyword>double cross</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>hostage</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>rescue</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>violence</keyword>
+		<keyword>death</keyword>
+		<keyword>murder</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>fear</keyword>
+		<keyword>survival</keyword>
+		<keyword>suspense</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>old dark house</keyword>
+		<keyword>lost in the woods</keyword>
+		<keyword>running in the dark</keyword>
+		<keyword>mysterious noise</keyword>
+		<keyword>hearing noises</keyword>
+		<keyword>panic</keyword>
+		<keyword>symbol</keyword>
+		<keyword>campfire</keyword>
+		<keyword>walking on glass</keyword>
+		<keyword>missing person</keyword>
+		<keyword>watching a video</keyword>
+		<keyword>myth</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>minimal cast</keyword>
+		<keyword>f word</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Adam Wingard</director>
+	</directors>
+	<composers>
+		<composer> Adam Wingard</composer>
+	</composers>
+	<producers>
+		<producer> Simon Barrett</producer>
+		<producer> Jess Wu Calder</producer>
+		<producer> Keith Calder</producer>
+		<producer> Jason Constantine</producer>
+		<producer> Gregg Hale</producer>
+		<producer> Chris Harding</producer>
+		<producer> Jenny Hinkey</producer>
+		<producer> Eda Kowan</producer>
+		<producer> Roy Lee</producer>
+		<producer> Daniel Myrick</producer>
+		<producer> Steven Schneider</producer>
+		<producer> Eduardo Sánchez</producer>
+		<producer> Adam Wingard</producer>
+	</producers>
+	<writers>
+		<writer> Simon Barrett</writer>
+	</writers>
+	<editors>
+		<editor> Louis Cioffi</editor>
+	</editors>
+</doc>

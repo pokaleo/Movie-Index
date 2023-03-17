@@ -1,0 +1,325 @@
+<?xml version="1.0" ?>
+<doc id="tt8000908">
+	<docid>tt8000908</docid>
+	<title>Robert the Bruce</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2MyZjRiMzktZmIwMS00OTU3LTkxNDEtMjM2MjNkNWMxZDA5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">124</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Angus Macfadyen</actor>
+			<role>Robert the Bruce</role>
+		</credit>
+		<credit>
+			<actor>Diarmaid Murtagh</actor>
+			<role>James Douglas</role>
+		</credit>
+		<credit>
+			<actor>Jared Harris</actor>
+			<role>John Comyn</role>
+		</credit>
+		<credit>
+			<actor>Stephen Murphy</actor>
+			<role>Black Comyn</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Bateman</actor>
+			<role>Scot</role>
+		</credit>
+		<credit>
+			<actor>Anna Hutchison</actor>
+			<role>Morag</role>
+		</credit>
+		<credit>
+			<actor>Talitha Eliana Bateman</actor>
+			<role>Iver</role>
+		</credit>
+		<credit>
+			<actor>Brandon Lessard</actor>
+			<role>Carney</role>
+		</credit>
+		<credit>
+			<actor>Judah Nelson</actor>
+			<role>Hamish</role>
+		</credit>
+		<credit>
+			<actor>Patrick Fugit</actor>
+			<role>Will</role>
+		</credit>
+		<credit>
+			<actor>Nick Farnell</actor>
+			<role>Thomas</role>
+		</credit>
+		<credit>
+			<actor>Will Carlson</actor>
+			<role>Michael</role>
+		</credit>
+		<credit>
+			<actor>Michael Petry</actor>
+			<role>Friar</role>
+		</credit>
+		<credit>
+			<actor>Mhairi Calvey</actor>
+			<role>Elizabeth de Burgh</role>
+		</credit>
+		<credit>
+			<actor>Anthony J. Sharpe</actor>
+			<role>Jacobus Crier</role>
+		</credit>
+		<credit>
+			<actor>Chris Davis</actor>
+			<role>Hanging Man</role>
+		</credit>
+		<credit>
+			<actor>Zach McGowan</actor>
+			<role>Brandubh</role>
+		</credit>
+		<credit>
+			<actor>Seoras Wallace</actor>
+			<role>Donald</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">June 23 2019</releasedate>
+		<releasedate country="United Kingdom">June 28 2019</releasedate>
+		<releasedate country="Australia">December 11 2019</releasedate>
+		<releasedate country="United States">April 24 2020</releasedate>
+		<releasedate country="Canada">May 5 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>scotland</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>year 1306</keyword>
+		<keyword>snow</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>reference to william wallace</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>king</keyword>
+		<keyword>blacksmith</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>14th century</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>sword</keyword>
+		<keyword>visiting a grave</keyword>
+		<keyword>chanting someone's name</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>co written by cast member</keyword>
+		<keyword>begins with text</keyword>
+		<keyword>freedom</keyword>
+		<keyword>nobility</keyword>
+		<keyword>robert the bruce character</keyword>
+		<keyword>reference to king alexander iii of scotland</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>wound</keyword>
+		<keyword>england</keyword>
+		<keyword>independence</keyword>
+		<keyword>snowing</keyword>
+		<keyword>horse</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>crown</keyword>
+		<keyword>church</keyword>
+		<keyword>candle</keyword>
+		<keyword>clan</keyword>
+		<keyword>boy</keyword>
+		<keyword>girl</keyword>
+		<keyword>flashback</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>goblet</keyword>
+		<keyword>cross</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>fight</keyword>
+		<keyword>lantern</keyword>
+		<keyword>water bucket</keyword>
+		<keyword>prologue</keyword>
+		<keyword>campfire</keyword>
+		<keyword>reference to norway</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>reference to god</keyword>
+		<keyword>reward</keyword>
+		<keyword>visible breath</keyword>
+		<keyword>treason</keyword>
+		<keyword>pickaxe</keyword>
+		<keyword>murder of a boy</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>wooden sword</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>flower</keyword>
+		<keyword>kneeling</keyword>
+		<keyword>woods</keyword>
+		<keyword>praying</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>battle</keyword>
+		<keyword>blood</keyword>
+		<keyword>hanging</keyword>
+		<keyword>soldier</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>dead father</keyword>
+		<keyword>dead husband</keyword>
+		<keyword>aunt combs her niece's hair</keyword>
+		<keyword>shot in the chest with an arrow</keyword>
+		<keyword>wounded man</keyword>
+		<keyword>pursuit</keyword>
+		<keyword>chase</keyword>
+		<keyword>cave</keyword>
+		<keyword>murdered with a sword</keyword>
+		<keyword>village</keyword>
+		<keyword>inn</keyword>
+		<keyword>fiddle</keyword>
+		<keyword>deception</keyword>
+		<keyword>hiding</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>brother in law sister in law relationship</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>bowing</keyword>
+		<keyword>kiss</keyword>
+		<keyword>repairing a sword</keyword>
+		<keyword>female female embrace</keyword>
+		<keyword>hunting</keyword>
+		<keyword>dead deer</keyword>
+		<keyword>axe</keyword>
+		<keyword>aunt kisses her niece on her cheek</keyword>
+		<keyword>life</keyword>
+		<keyword>cauterizing a wound</keyword>
+		<keyword>man kicks a boy</keyword>
+		<keyword>singer</keyword>
+		<keyword>singing</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>head held underwater</keyword>
+		<keyword>violence</keyword>
+		<keyword>dream</keyword>
+		<keyword>target practice</keyword>
+		<keyword>nursing someone back to health</keyword>
+		<keyword>killing a deer</keyword>
+		<keyword>aunt nephew relationship</keyword>
+		<keyword>aunt niece relationship</keyword>
+		<keyword>archery</keyword>
+		<keyword>dead uncle</keyword>
+		<keyword>money</keyword>
+		<keyword>swordsmith</keyword>
+		<keyword>learning to shoot a bow and arrow</keyword>
+		<keyword>hunting trap</keyword>
+		<keyword>cold the temperature</keyword>
+		<keyword>apology</keyword>
+		<keyword>threat with a knife</keyword>
+		<keyword>revenge</keyword>
+		<keyword>man uses a walking stick</keyword>
+		<keyword>goat</keyword>
+		<keyword>limping man</keyword>
+		<keyword>mountain</keyword>
+		<keyword>bravery</keyword>
+		<keyword>gold coin</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>holding hands</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>practicing fighting</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>teenage romance</keyword>
+		<keyword>buried crown</keyword>
+		<keyword>lie</keyword>
+		<keyword>clapping</keyword>
+		<keyword>onstage</keyword>
+		<keyword>learning how to fight</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dancing</keyword>
+		<keyword>wooden ladder</keyword>
+		<keyword>sitting in a tree</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>watching someone</keyword>
+		<keyword>being watched</keyword>
+		<keyword>farm</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>forced kiss</keyword>
+		<keyword>man hits a woman</keyword>
+		<keyword>head butt</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>man punches a woman</keyword>
+		<keyword>boy soldier</keyword>
+		<keyword>girl soldier</keyword>
+		<keyword>woman hits a man with a log</keyword>
+		<keyword>woman murders a man</keyword>
+		<keyword>murder of sister</keyword>
+		<keyword>murder of niece</keyword>
+		<keyword>murder of cousin</keyword>
+		<keyword>boy archer</keyword>
+		<keyword>male male embrace</keyword>
+		<keyword>fort</keyword>
+		<keyword>saving a life</keyword>
+		<keyword>army</keyword>
+		<keyword>year 1303</keyword>
+		<keyword>year 1314</keyword>
+		<keyword>reference to the english army</keyword>
+		<keyword>scottish army</keyword>
+		<keyword>father's grave</keyword>
+		<keyword>husband's grave</keyword>
+		<keyword>deceased husband</keyword>
+		<keyword>death of son</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Richard Gray</director>
+	</directors>
+	<composers>
+		<composer> Mel Elias</composer>
+	</composers>
+	<producers>
+		<producer> Aaron Bailey</producer>
+		<producer> Kim Barnard</producer>
+		<producer> Carter Boehm</producer>
+		<producer> Sharon Cox</producer>
+		<producer> Andrew Curry</producer>
+		<producer> Nick Farnell</producer>
+		<producer> Mike Gillespie</producer>
+		<producer> Richard Gray</producer>
+		<producer> Anna Hutchison</producer>
+		<producer> Angus Macfadyen</producer>
+		<producer> Cameron Nugent</producer>
+		<producer> Ashlea Ritchie</producer>
+		<producer> David Taylor</producer>
+	</producers>
+	<writers>
+		<writer> Eric Belgau</writer>
+		<writer> Angus Macfadyen</writer>
+	</writers>
+	<editors>
+		<editor> Hayley Miro Browne</editor>
+	</editors>
+</doc>

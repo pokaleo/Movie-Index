@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<doc id="tt6717058">
+	<docid>tt6717058</docid>
+	<title>Grizzy and the Lemmings</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTkxYjI2MDMtNjdhMi00NTFkLTgxNTgtOWEzNmY2ODJlZDU3XkEyXkFqcGdeQXVyMTA1NTQ5Nzcz._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">7</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>Grizzy and the Lemmings are in a violent, protracted conflict over the possession and ownership of &quot;Yummy&quot; a chocolate-hazelnut spread that looks like Nutella. Many foibles ensue.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Pierre-Alain de Garrigues</actor>
+			<role>Grizzy</role>
+		</credit>
+		<credit>
+			<actor>Josselin Charier</actor>
+			<role>Lemmings</role>
+		</credit>
+		<credit>
+			<actor>Pierre Coffin</actor>
+			<role>Lemmings</role>
+		</credit>
+		<credit>
+			<actor>Ben Bocquelet</actor>
+			<role>Grizzy</role>
+		</credit>
+		<credit>
+			<actor>Damien Laquet</actor>
+			<role>Lemmings</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Philippines">October 3 2016</releasedate>
+		<releasedate country="United States">April 3 2017</releasedate>
+		<releasedate country="Singapore">May 1 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Canada">TV-G</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Malaysia">U</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Philippines">All</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+		<certificate country="United States">TV-Y</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cartoon</keyword>
+	</keywords>
+	<directors>
+		<director> Victor-Emmanuel Moulin</director>
+		<director> Cedric Lachenaud</director>
+		<director> Idriss Benseghir</director>
+		<director> Corentin Lecourt</director>
+		<director> Célestine Plays</director>
+		<director> Alexandre Wahl</director>
+		<director> Clément Girard</director>
+	</directors>
+	<composers>
+		<composer> Les Frères Sonor</composer>
+	</composers>
+	<producers>
+		<producer> Josselin Charier</producer>
+		<producer> Antoine Rodelet</producer>
+	</producers>
+	<writers>
+		<writer> Josselin Charier</writer>
+		<writer> Josselin Charier</writer>
+		<writer> Josselin Charier</writer>
+		<writer> Antoine Rodelet</writer>
+		<writer> Antoine Rodelet</writer>
+		<writer> Antoine Rodelet</writer>
+		<writer> Victor-Emmanuel Moulin</writer>
+		<writer> Victor-Emmanuel Moulin</writer>
+		<writer> Cedric Lachenaud</writer>
+		<writer> Célestine Plays</writer>
+		<writer> Idriss Benseghir</writer>
+		<writer> Corentin Lecourt</writer>
+		<writer> Alexandre Wahl</writer>
+		<writer> Alexandre So</writer>
+		<writer> Alexandre So</writer>
+	</writers>
+	<editors/>
+</doc>

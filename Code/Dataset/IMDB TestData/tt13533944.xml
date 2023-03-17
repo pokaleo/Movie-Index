@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc id="tt13533944">
+	<docid>tt13533944</docid>
+	<title>Mandrake</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWM0ZTU1NDAtY2JkMi00NDZiLTkwYTQtYjlkZTJiYmEyNDljXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">85</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A probation officer, Cathy Madden, is tasked with rehabilitating a notorious killer named 'Bloody' Mary Laidlaw back into society following a two-decade sentence.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Deirdre Mullins</actor>
+			<role>Cathy Madden</role>
+		</credit>
+		<credit>
+			<actor>Derbhle Crotty</actor>
+			<role>Mary Laidlaw</role>
+		</credit>
+		<credit>
+			<actor>Paul Kennedy</actor>
+			<role>Jason Reid</role>
+		</credit>
+		<credit>
+			<actor>Seamus O'Hara</actor>
+			<role>Thomas</role>
+		</credit>
+		<credit>
+			<actor>Nigel O'Neill</actor>
+			<role>Bill Rosewater</role>
+		</credit>
+		<credit>
+			<actor>Ian Beattie</actor>
+			<role>Massey</role>
+		</credit>
+		<credit>
+			<actor>Cailum Carragher</actor>
+			<role>Baggo</role>
+		</credit>
+		<credit>
+			<actor>Sara Dylan</actor>
+			<role>Amber</role>
+		</credit>
+		<credit>
+			<actor>Jonny Everett</actor>
+			<role>Shawn Duggan</role>
+		</credit>
+		<credit>
+			<actor>Roisin Gallagher</actor>
+			<role>Grace</role>
+		</credit>
+		<credit>
+			<actor>Peter Heenan</actor>
+			<role>Paul</role>
+		</credit>
+		<credit>
+			<actor>Jude Hill</actor>
+			<role>Luke</role>
+		</credit>
+		<credit>
+			<actor>Paul Mallon</actor>
+			<role>Nathan McGrath</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">January 27 2022</releasedate>
+		<releasedate country="United Kingdom">March 12 2022</releasedate>
+		<releasedate country="Finland">April 20 2022</releasedate>
+		<releasedate country="Australia">November 10 2022</releasedate>
+		<releasedate country="United States">November 10 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Poland">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>killer</keyword>
+		<keyword>title directed by female</keyword>
+	</keywords>
+	<directors>
+		<director> Lynne Davison</director>
+	</directors>
+	<composers>
+		<composer> Andrew Simon McAllister</composer>
+	</composers>
+	<producers>
+		<producer> Paul Kennedy</producer>
+		<producer> Marie-Thérése Mackle</producer>
+	</producers>
+	<writers>
+		<writer> Matt Harvey</writer>
+	</writers>
+	<editors>
+		<editor> Sean Keeley</editor>
+	</editors>
+</doc>

@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<doc id="tt11944132">
+	<docid>tt11944132</docid>
+	<title>Our wonderful years</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzdhZmRmOGMtZGEzNi00MDI0LTgwNzYtYjdmODMxNTEyZTljXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">270</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>The history of the Wolf family in post-war Germany in the 1940s and 1950s.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>German</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Elisa Schlott</actor>
+			<role>Ulla Wolf</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Loibl</actor>
+			<role>Gundel Wolf</role>
+		</credit>
+		<credit>
+			<actor>Anna Maria Mühe</actor>
+			<role>Margot Wolf</role>
+		</credit>
+		<credit>
+			<actor>Katja Riemann</actor>
+			<role>Christl Wolf</role>
+		</credit>
+		<credit>
+			<actor>Hans-Jochen Wagner</actor>
+			<role>Walter Böcker</role>
+		</credit>
+		<credit>
+			<actor>David Schütter</actor>
+			<role>Tommy Weidner</role>
+		</credit>
+		<credit>
+			<actor>Ludwig Trepte</actor>
+			<role>Jürgen Vielhaber</role>
+		</credit>
+		<credit>
+			<actor>Damian Hardung</actor>
+			<role>Winne</role>
+		</credit>
+		<credit>
+			<actor>Ella Lee</actor>
+			<role>Betty Vielhaber</role>
+		</credit>
+		<credit>
+			<actor>Omid Memar</actor>
+			<role>Bijan</role>
+		</credit>
+		<credit>
+			<actor>Valerio Morigi</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Merlin Sandmeyer</actor>
+			<role>Benno</role>
+		</credit>
+		<credit>
+			<actor>Nicole Johannhanwahr</actor>
+			<role>Frau Thiel</role>
+		</credit>
+		<credit>
+			<actor>Hanna Plaß</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Enno Kalisch</actor>
+			<role>Vorarbeiter Vollmer</role>
+		</credit>
+		<credit>
+			<actor>Rocío Luz</actor>
+			<role>Gabriela Illias</role>
+		</credit>
+		<credit>
+			<actor>Liliom Lewald</actor>
+			<role>Franz</role>
+		</credit>
+		<credit>
+			<actor>Patrick Joswig</actor>
+			<role>Manni Scholz</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">March 11 2020</releasedate>
+		<releasedate country="Germany">March 18 2020</releasedate>
+		<releasedate country="Sweden">July 7 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Norway">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>ard</keyword>
+		<keyword>german</keyword>
+		<keyword>germany</keyword>
+		<keyword>world war two</keyword>
+		<keyword>after war</keyword>
+		<keyword>brd</keyword>
+		<keyword>1940s</keyword>
+		<keyword>1950s</keyword>
+		<keyword>timeframe 1940s</keyword>
+		<keyword>timeframe 1950s</keyword>
+		<keyword>german historical setting</keyword>
+		<keyword>post world war two</keyword>
+		<keyword>post world war two germany</keyword>
+		<keyword>west germany</keyword>
+		<keyword>contemporary historical setting</keyword>
+		<keyword>social history</keyword>
+		<keyword>20th century</keyword>
+	</keywords>
+	<directors>
+		<director> Mira Thiel</director>
+		<director> Elmar Fischer</director>
+	</directors>
+	<composers>
+		<composer> Matthias Beine</composer>
+	</composers>
+	<producers>
+		<producer> Benjamin Benedict</producer>
+		<producer> Eike Adler</producer>
+		<producer> Marcus Welke</producer>
+		<producer> Barbara Buhl</producer>
+		<producer> Dirk Ehmen</producer>
+		<producer> Alena Jelinek</producer>
+		<producer> Nicola Nauen</producer>
+		<producer> Zbynek Pippal</producer>
+		<producer> Michal Pokorny</producer>
+		<producer> Christian Rohde</producer>
+		<producer> Christine Strobl</producer>
+		<producer> Caren Toennissen</producer>
+	</producers>
+	<writers>
+		<writer> Peter Prange</writer>
+		<writer> Peter Prange</writer>
+		<writer> Linda Brieda</writer>
+		<writer> Michael Gantenberg</writer>
+		<writer> Kirsten Loose</writer>
+		<writer> Tillmann Roth</writer>
+		<writer> Mira Thiel</writer>
+		<writer> Lena Kammermeier</writer>
+		<writer> Robert Krause</writer>
+		<writer> Florian Puchert</writer>
+	</writers>
+	<editors>
+		<editor> Andreas Althoff</editor>
+		<editor> Eva López Echegoyen</editor>
+	</editors>
+</doc>

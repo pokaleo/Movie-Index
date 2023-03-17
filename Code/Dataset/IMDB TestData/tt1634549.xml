@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<doc id="tt1634549">
+	<docid>tt1634549</docid>
+	<title>Millennium</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTQ0NDlhM2EtNjFkNi00YTk2LThlMmQtZWViM2EyNmYyNDM2XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">540</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>The adventures of journalist Mikael Blomkvist and hacker Lisbeth Salander.</plot>
+	<countries>
+		<country>Sweden</country>
+	</countries>
+	<languages>
+		<language>Swedish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Noomi Rapace</actor>
+			<role>Lisbeth Salander</role>
+		</credit>
+		<credit>
+			<actor>Michael Nyqvist</actor>
+			<role>Mikael Blomkvist</role>
+		</credit>
+		<credit>
+			<actor>Lena Endre</actor>
+			<role>Erika Berger</role>
+		</credit>
+		<credit>
+			<actor>Sofia Ledarp</actor>
+			<role>Malin Erikson</role>
+		</credit>
+		<credit>
+			<actor>Jacob Ericksson</actor>
+			<role>Christer Malm</role>
+		</credit>
+		<credit>
+			<actor>Peter Andersson</actor>
+			<role>Nils Bjurman</role>
+		</credit>
+		<credit>
+			<actor>Per Oscarsson</actor>
+			<role>Holger Palmgren</role>
+		</credit>
+		<credit>
+			<actor>Georgi Staykov</actor>
+			<role>Alexander Zalachenko</role>
+		</credit>
+		<credit>
+			<actor>Michalis Koutsogiannakis</actor>
+			<role>Dragan Armanskij</role>
+		</credit>
+		<credit>
+			<actor>Tomas Köhler</actor>
+			<role>Plague</role>
+		</credit>
+		<credit>
+			<actor>Annika Hallin</actor>
+			<role>Annika Giannini</role>
+		</credit>
+		<credit>
+			<actor>Micke Spreitz</actor>
+			<role>Ronald Niedermann</role>
+		</credit>
+		<credit>
+			<actor>Johan Kylén</actor>
+			<role>Jan Bublanski</role>
+		</credit>
+		<credit>
+			<actor>Magnus Krepper</actor>
+			<role>Hans Faste</role>
+		</credit>
+		<credit>
+			<actor>Tanja Lorentzon</actor>
+			<role>Sonja Modig</role>
+		</credit>
+		<credit>
+			<actor>Pelle Bolander</actor>
+			<role>Sonny Nieminen</role>
+		</credit>
+		<credit>
+			<actor>Yasmine Garbi</actor>
+			<role>Miriam Wu</role>
+		</credit>
+		<credit>
+			<actor>Niklas Hjulström</actor>
+			<role>Richard Ekström</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Sweden">March 20 2010</releasedate>
+		<releasedate country="Finland">December 5 2010</releasedate>
+		<releasedate country="Germany">January 23 2011</releasedate>
+		<releasedate country="Hungary">July 31 2013</releasedate>
+		<releasedate country="France">March 20 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>strong female</keyword>
+		<keyword>heroine</keyword>
+		<keyword>lisbeth salander character</keyword>
+		<keyword>mikael blomkvist character</keyword>
+		<keyword>erika berger character</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>sweden</keyword>
+		<keyword>criminality</keyword>
+		<keyword>eastern europe</keyword>
+		<keyword>scandinavia</keyword>
+		<keyword>eastern scandinavia</keyword>
+		<keyword>criminality in sweden</keyword>
+		<keyword>female hacker</keyword>
+		<keyword>edited from movie</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Alfredson</director>
+		<director> Niels Arden Oplev</director>
+	</directors>
+	<composers>
+		<composer> Jacob Groth</composer>
+	</composers>
+	<producers>
+		<producer> Søren Stærmose</producer>
+		<producer> Klaus Bassiner</producer>
+		<producer> Gunnar Carlsson</producer>
+		<producer> Anni Faurbye Fernandez</producer>
+		<producer> Wolfgang Feindt</producer>
+		<producer> Lone Korslund</producer>
+		<producer> Peter Nadermann</producer>
+		<producer> Ole Søndberg</producer>
+		<producer> Mikael Wallen</producer>
+	</producers>
+	<writers>
+		<writer> Nikolaj Arcel</writer>
+		<writer> Jonas Frykberg</writer>
+		<writer> Rasmus Heisterberg</writer>
+		<writer> Stieg Larsson</writer>
+		<writer> Stieg Larsson</writer>
+		<writer> Ulf Ryberg</writer>
+	</writers>
+	<editors>
+		<editor> Janus Billeskov Jansen</editor>
+		<editor> Håkan Karlsson</editor>
+		<editor> Leif Axel Kjeldsen</editor>
+		<editor> Mattias Morheden</editor>
+		<editor> Anne Østerud</editor>
+	</editors>
+</doc>

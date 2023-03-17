@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<doc id="tt21104890">
+	<docid>tt21104890</docid>
+	<title>Gudetama: An Eggcellent Adventure</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzVjM2E2OTktYzBiMy00NzJjLWFlNTQtYWMzMzYwNjM0Y2I2XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">10</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Short</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>A lethargic, empathetic road movie about finding one's parents - for everyone who just wants to laze about. Having resigned itself to the fact that it will just end up on someone's plate, Gudetama just wants to be lazy all the time.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>Japanese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Shunsuke Takeuchi</actor>
+			<role>Gudetama</role>
+		</credit>
+		<credit>
+			<actor>Seiran Fukushima</actor>
+			<role>Shakipiyo</role>
+		</credit>
+		<credit>
+			<actor>Akiyoshi Nakao</actor>
+			<role>Director Inoue</role>
+		</credit>
+		<credit>
+			<actor>Soshina</actor>
+			<role>Guretama</role>
+		</credit>
+		<credit>
+			<actor>Serena Motola</actor>
+			<role>Assistant Director Suzuki</role>
+		</credit>
+		<credit>
+			<actor>Shimofuri Myojo</actor>
+			<role>Tamago Sushi</role>
+		</credit>
+		<credit>
+			<actor>Roger Craig Smith</actor>
+			<role>Gudetama</role>
+		</credit>
+		<credit>
+			<actor>Colleen O'Shaughnessey</actor>
+			<role>Shikipiyo</role>
+		</credit>
+		<credit>
+			<actor>Kerstin Julia Dietrich</actor>
+			<role>Gudetamas Mum</role>
+		</credit>
+		<credit>
+			<actor>Seiya Ishikawa</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Sarutoki Minagawa</actor>
+			<role>Prime Minister</role>
+		</credit>
+		<credit>
+			<actor>Kaiji Tang</actor>
+			<role>Additional Cast</role>
+		</credit>
+		<credit>
+			<actor>Suzie Yeung</actor>
+			<role>Additional Cast</role>
+		</credit>
+		<credit>
+			<actor>Aleks Le</actor>
+			<role>Director Inoue</role>
+		</credit>
+		<credit>
+			<actor>Casey Mongillo</actor>
+			<role>Additional Cast</role>
+		</credit>
+		<credit>
+			<actor>Chris Hackney</actor>
+			<role>Additional Cast</role>
+		</credit>
+		<credit>
+			<actor>Christopher Swindle</actor>
+			<role>Guretama</role>
+		</credit>
+		<credit>
+			<actor>Cassandra Lee Morris</actor>
+			<role>Additional Cast</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">December 13 2022</releasedate>
+		<releasedate country="Argentina">December 13 2022</releasedate>
+		<releasedate country="Australia">December 13 2022</releasedate>
+		<releasedate country="Brazil">December 13 2022</releasedate>
+		<releasedate country="Canada">December 13 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="Egypt">7+</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">7+</certificate>
+		<certificate country="India">UA 7+</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Italy"> BA</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">TV-PG</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12PG</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Taiwan">7+</certificate>
+		<certificate country="Thailand">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United Arab Emirates">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>character name as title</keyword>
+		<keyword>character name as series title</keyword>
+		<keyword>life</keyword>
+		<keyword>egg</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>live action and animation</keyword>
+		<keyword>parent</keyword>
+	</keywords>
+	<directors>
+		<director> Motonori Sakakibara</director>
+	</directors>
+	<composers>
+		<composer> Kôji Endô</composer>
+	</composers>
+	<producers>
+		<producer> Taro Goto</producer>
+		<producer> Koji Harada</producer>
+		<producer> Tomoyuki Imai</producer>
+		<producer> Kôhei Obara</producer>
+		<producer> Miyuki Okumura</producer>
+		<producer> Tomoyuki Saitô</producer>
+		<producer> Misako Saka</producer>
+		<producer> Kazuhiro Toda</producer>
+		<producer> Shusaku Watanabe</producer>
+		<producer> Hitomi Zhang</producer>
+	</producers>
+	<writers>
+		<writer> Amy</writer>
+		<writer> Ardwight Chamberlain</writer>
+		<writer> Ryan Johnston</writer>
+		<writer> Yoichi Kato</writer>
+	</writers>
+	<editors/>
+</doc>

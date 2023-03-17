@@ -1,0 +1,497 @@
+<?xml version="1.0" ?>
+<doc id="tt10451914">
+	<docid>tt10451914</docid>
+	<title>Outside the Wire</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">114</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>In the near future, a drone pilot sent into a war zone finds himself paired with a top-secret android officer on a mission to stop a nuclear attack.</plot>
+	<countries>
+		<country>Hungary</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Anthony Mackie</actor>
+			<role>Leo</role>
+		</credit>
+		<credit>
+			<actor>Damson Idris</actor>
+			<role>Harp</role>
+		</credit>
+		<credit>
+			<actor>Enzo Cilenti</actor>
+			<role>Miller</role>
+		</credit>
+		<credit>
+			<actor>Emily Beecham</actor>
+			<role>Sofiya</role>
+		</credit>
+		<credit>
+			<actor>Michael Kelly</actor>
+			<role>Eckhart</role>
+		</credit>
+		<credit>
+			<actor>Kristina Tonteri-Young</actor>
+			<role>Bale</role>
+		</credit>
+		<credit>
+			<actor>Brady Dowad</actor>
+			<role>Bigfoot</role>
+		</credit>
+		<credit>
+			<actor>Henry Garrett</actor>
+			<role>Brydon</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Szucs</actor>
+			<role>Female Bank Worker</role>
+		</credit>
+		<credit>
+			<actor>Gábor Krausz</actor>
+			<role>Vasili</role>
+		</credit>
+		<credit>
+			<actor>Louis Boyer</actor>
+			<role>Marko</role>
+		</credit>
+		<credit>
+			<actor>Velibor Topic</actor>
+			<role>Oshlak</role>
+		</credit>
+		<credit>
+			<actor>Nick Wittman</actor>
+			<role>Headshot Insurgent</role>
+		</credit>
+		<credit>
+			<actor>Zsolt Szentiványi</actor>
+			<role>Man at Market</role>
+		</credit>
+		<credit>
+			<actor>Péter Darai</actor>
+			<role>Code Insurgent</role>
+		</credit>
+		<credit>
+			<actor>Dimiter Doichinov</actor>
+			<role>Krasny Assassin</role>
+		</credit>
+		<credit>
+			<actor>Reda Elazouar</actor>
+			<role>Harris</role>
+		</credit>
+		<credit>
+			<actor>Elliot Edusah</actor>
+			<role>Adams</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">January 15 2021</releasedate>
+		<releasedate country="Argentina">January 15 2021</releasedate>
+		<releasedate country="Australia">January 15 2021</releasedate>
+		<releasedate country="Brazil">January 15 2021</releasedate>
+		<releasedate country="Canada">January 15 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">R</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Mexico">R</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>pilot</keyword>
+		<keyword>android</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>robot</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>drone pilot</keyword>
+		<keyword>robot soldier</keyword>
+		<keyword>soldier</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>hostage situation</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>disobeying orders</keyword>
+		<keyword>three word title</keyword>
+		<keyword>suspense</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>2030s</keyword>
+		<keyword>year 2036</keyword>
+		<keyword>near future</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding truck</keyword>
+		<keyword>exploding tank</keyword>
+		<keyword>drone</keyword>
+		<keyword>captain</keyword>
+		<keyword>lieutenant</keyword>
+		<keyword>sergeant</keyword>
+		<keyword>colonel</keyword>
+		<keyword>marine</keyword>
+		<keyword>u.s. marine corps</keyword>
+		<keyword>air force base</keyword>
+		<keyword>utah</keyword>
+		<keyword>military base</keyword>
+		<keyword>united nations</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>armored car</keyword>
+		<keyword>tank</keyword>
+		<keyword>russian</keyword>
+		<keyword>killer robot</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>robot as menace</keyword>
+		<keyword>robot as pathos</keyword>
+		<keyword>artificial intelligence</keyword>
+		<keyword>nanotechnology</keyword>
+		<keyword>military</keyword>
+		<keyword>u.s. army</keyword>
+		<keyword>civil war</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>helmet</keyword>
+		<keyword>ukraine</keyword>
+		<keyword>russia</keyword>
+		<keyword>map</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>abandoned power station</keyword>
+		<keyword>nuclear power station</keyword>
+		<keyword>post cold war</keyword>
+		<keyword>nuclear missile</keyword>
+		<keyword>missile silo</keyword>
+		<keyword>missile</keyword>
+		<keyword>nuclear threat</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>pistol</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>50. caliber machine gun</keyword>
+		<keyword>nordenfelt gun</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>uzi</keyword>
+		<keyword>submachine gun</keyword>
+		<keyword>grenade</keyword>
+		<keyword>bomb</keyword>
+		<keyword>explosive</keyword>
+		<keyword>countdown</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>ambush</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>photograph</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>one against many</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>battle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>gun battle</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>innocent person killed</keyword>
+		<keyword>woman kills a man</keyword>
+		<keyword>super strength</keyword>
+		<keyword>super soldier</keyword>
+		<keyword>flashback</keyword>
+		<keyword>anti villain</keyword>
+		<keyword>impalement</keyword>
+		<keyword>militia</keyword>
+		<keyword>apartment</keyword>
+		<keyword>tent</keyword>
+		<keyword>army</keyword>
+		<keyword>henchman</keyword>
+		<keyword>henchwoman</keyword>
+		<keyword>man kills a woman</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>massacre</keyword>
+		<keyword>car fire</keyword>
+		<keyword>abandoned city</keyword>
+		<keyword>bank</keyword>
+		<keyword>knife</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>torture</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>orphanage</keyword>
+		<keyword>hypodermic needle</keyword>
+		<keyword>injection</keyword>
+		<keyword>recreational vehicle</keyword>
+		<keyword>bag over head</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>knocked out with a gun butt</keyword>
+		<keyword>pistol whipped</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>airplane</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>car theft</keyword>
+		<keyword>behind enemy lines</keyword>
+		<keyword>warehouse</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>british actor playing american character</keyword>
+		<keyword>split screen</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>presumed dead</keyword>
+		<keyword>machete</keyword>
+		<keyword>informant</keyword>
+		<keyword>resistance fighter</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>terrorist plot</keyword>
+		<keyword>terrorist group</keyword>
+		<keyword>politics</keyword>
+		<keyword>geopolitics</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>assassin</keyword>
+		<keyword>military intelligence</keyword>
+		<keyword>intelligence officer</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>race against time</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>survival</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>rooftop chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>street market</keyword>
+		<keyword>american flag</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>psychological warfare</keyword>
+		<keyword>truck</keyword>
+		<keyword>doctor</keyword>
+		<keyword>hospital</keyword>
+		<keyword>casualty of war</keyword>
+		<keyword>anti war</keyword>
+		<keyword>war refugee</keyword>
+		<keyword>refugee</keyword>
+		<keyword>evacuation</keyword>
+		<keyword>fear</keyword>
+		<keyword>mission</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>showdown</keyword>
+		<keyword>virtuality</keyword>
+		<keyword>danger</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>chain of command</keyword>
+		<keyword>top secret</keyword>
+		<keyword>robotics</keyword>
+		<keyword>high tech</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>future war</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>cyberpunk</keyword>
+		<keyword>self consciousness</keyword>
+		<keyword>war zone</keyword>
+		<keyword>military officer</keyword>
+		<keyword>macguffin</keyword>
+		<keyword>redemption</keyword>
+		<keyword>insurgent</keyword>
+		<keyword>resistance</keyword>
+		<keyword>freedom fighter</keyword>
+		<keyword>code</keyword>
+		<keyword>vaccine</keyword>
+		<keyword>englishwoman abroad</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>spy</keyword>
+		<keyword>bank robbery</keyword>
+		<keyword>bank vault</keyword>
+		<keyword>vault</keyword>
+		<keyword>machine</keyword>
+		<keyword>refugee camp</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>protest</keyword>
+		<keyword>card game</keyword>
+		<keyword>air strike</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>female soldier knocked unconscious</keyword>
+		<keyword>cyborg sci fi</keyword>
+		<keyword>timeframe 2030s</keyword>
+		<keyword>robot sci fi</keyword>
+		<keyword>combat aircraft</keyword>
+		<keyword>handheld weapon</keyword>
+		<keyword>gun</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>ranged weapon</keyword>
+		<keyword>firearm</keyword>
+		<keyword>aircraft pilot</keyword>
+		<keyword>weapon</keyword>
+		<keyword>handgun</keyword>
+		<keyword>male aircraft pilot</keyword>
+		<keyword>projectile weapon</keyword>
+		<keyword>suv</keyword>
+		<keyword>female aircraft pilot</keyword>
+		<keyword>american man</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>bipedal robot</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>african american</keyword>
+		<keyword>europe</keyword>
+		<keyword>sport utility vehicle</keyword>
+		<keyword>american man abroad</keyword>
+		<keyword>car</keyword>
+		<keyword>gunfire</keyword>
+		<keyword>american in europe</keyword>
+		<keyword>drone attack</keyword>
+		<keyword>male captain</keyword>
+		<keyword>exploding vehicle</keyword>
+		<keyword>military aircraft</keyword>
+		<keyword>male colonel</keyword>
+		<keyword>motor truck</keyword>
+		<keyword>military drone</keyword>
+		<keyword>toyota suv</keyword>
+		<keyword>american man in europe</keyword>
+		<keyword>toyota motor vehicle</keyword>
+		<keyword>human versus robot</keyword>
+		<keyword>black suv</keyword>
+		<keyword>night</keyword>
+		<keyword>human versus android</keyword>
+		<keyword>shot in the torso</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>male android</keyword>
+		<keyword>audio communication</keyword>
+		<keyword>aerial drone</keyword>
+		<keyword>african american man</keyword>
+		<keyword>propeller airplane</keyword>
+		<keyword>hypodermic injection</keyword>
+		<keyword>human versus machine</keyword>
+		<keyword>propeller aeroplane</keyword>
+		<keyword>child</keyword>
+		<keyword>21st century</keyword>
+		<keyword>propeller aircraft</keyword>
+		<keyword>male pilot</keyword>
+		<keyword>semi automatic pistol</keyword>
+		<keyword>male soldier</keyword>
+		<keyword>military vehicle</keyword>
+		<keyword>semi automatic weapon</keyword>
+		<keyword>male assassin</keyword>
+		<keyword>sidearm</keyword>
+		<keyword>human android team</keyword>
+		<keyword>subterfuge</keyword>
+		<keyword>drone aircraft</keyword>
+		<keyword>air to surface attack</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Mikael Håfström</director>
+	</directors>
+	<composers>
+		<composer> Lorne Balfe</composer>
+	</composers>
+	<producers>
+		<producer> Rory Aitken</producer>
+		<producer> Arash Amel</producer>
+		<producer> Charles M. Barsamian</producer>
+		<producer> Fred Berger</producer>
+		<producer> Tim Cole</producer>
+		<producer> Joel Collins</producer>
+		<producer> Joshua Horsfield</producer>
+		<producer> Brian Kavanaugh-Jones</producer>
+		<producer> Ildiko Kemeny</producer>
+		<producer> Felicián Keresztes</producer>
+		<producer> David U. Lee</producer>
+		<producer> Anthony Mackie</producer>
+		<producer> David Minkowski</producer>
+		<producer> Charlie Morrison</producer>
+		<producer> Gabrielle Nadig</producer>
+		<producer> Ben Pugh</producer>
+		<producer> Jason Spire</producer>
+		<producer> Steven Squillante</producer>
+		<producer> Erica Steinberg</producer>
+		<producer> Robert Walak</producer>
+		<producer> Sandra Yee Ling</producer>
+	</producers>
+	<writers>
+		<writer> Rob Yescombe</writer>
+		<writer> Rowan Athale</writer>
+		<writer> Rob Yescombe</writer>
+	</writers>
+	<editors>
+		<editor> Rickard Krantz</editor>
+	</editors>
+</doc>

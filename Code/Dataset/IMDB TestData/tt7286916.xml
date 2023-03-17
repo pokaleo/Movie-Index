@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<doc id="tt7286916">
+	<docid>tt7286916</docid>
+	<title>The Dawn Wall</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjE3NzU0NDctZTZjMi00OGE2LWFiOWMtNGZhMjQ1MmViNzZlXkEyXkFqcGdeQXVyNDI3MDA5MDQ@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Biography</genre>
+		<genre>Sport</genre>
+	</genres>
+	<plot>In an unbelievable story of perseverance, free climber Tommy Caldwell and climbing partner Kevin Jorgeson attempt to scale the impossible 3000ft Dawn Wall of El Capitan.</plot>
+	<countries>
+		<country>Austria</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>John Branch</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Tommy Caldwell</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Kevin Jorgeson</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Netherlands">November 18 2017</releasedate>
+		<releasedate country="United States">March 11 2018</releasedate>
+		<releasedate country="Poland">May 13 2018</releasedate>
+		<releasedate country="United Kingdom">July 17 2018</releasedate>
+		<releasedate country="Australia">August 6 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Austria">8</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>climbing</keyword>
+		<keyword>rock climbing</keyword>
+		<keyword>extreme sport</keyword>
+		<keyword>sports documentary</keyword>
+	</keywords>
+	<directors>
+		<director> Josh Lowell</director>
+		<director> Peter Mortimer</director>
+	</directors>
+	<composers>
+		<composer> Adam Crystal</composer>
+	</composers>
+	<producers>
+		<producer> Zachary Barr</producer>
+		<producer> Ali Batwin</producer>
+		<producer> Eliza Earle</producer>
+		<producer> Jürgen Kinateder</producer>
+		<producer> Josh Lowell</producer>
+		<producer> Philipp Manderla</producer>
+		<producer> Peter Mortimer</producer>
+		<producer> Mike Negri</producer>
+		<producer> Nick Rosen</producer>
+		<producer> Audrey Sherman</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Josh Lowell</editor>
+	</editors>
+</doc>

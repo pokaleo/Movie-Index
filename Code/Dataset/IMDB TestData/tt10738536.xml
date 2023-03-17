@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<doc id="tt10738536">
+	<docid>tt10738536</docid>
+	<title>Delicious</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmVjODI0OWMtMjNiNi00NWZhLThmMTAtOTM2YmM2MzhjNTI5XkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">112</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>France, 1789, just before the Revolution. With the help of a surprising young woman, a chef who has been sacked by his noble master finds the strength to free himself from his position as a servant and opens the first ever restaurant.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Grégory Gadebois</actor>
+			<role>Pierre Manceron</role>
+		</credit>
+		<credit>
+			<actor>Isabelle Carré</actor>
+			<role>Louise</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Lavernhe</actor>
+			<role>Le duc de Chamfort</role>
+		</credit>
+		<credit>
+			<actor>Guillaume de Tonquédec</actor>
+			<role>Hyacinthe - l'intendant</role>
+		</credit>
+		<credit>
+			<actor>Christian Bouillette</actor>
+			<role>Jacob</role>
+		</credit>
+		<credit>
+			<actor>Lorenzo Lefèbvre</actor>
+			<role>Benjamin Manceron</role>
+		</credit>
+		<credit>
+			<actor>Marie-Julie Baup</actor>
+			<role>La marquise de Saint-Genet</role>
+		</credit>
+		<credit>
+			<actor>Laurent Bateau</actor>
+			<role>Dumortier</role>
+		</credit>
+		<credit>
+			<actor>Manon Combes</actor>
+			<role>Francine</role>
+		</credit>
+		<credit>
+			<actor>Félix Fournier</actor>
+			<role>Le commis qui met de la cannelle</role>
+		</credit>
+		<credit>
+			<actor>Christophe Rossignon</actor>
+			<role>Le laquais aux chandelles</role>
+		</credit>
+		<credit>
+			<actor>François De Brauer</actor>
+			<role>Le marquis Frigoli</role>
+		</credit>
+		<credit>
+			<actor>Jérémy Lopez</actor>
+			<role>Le marquis de Fourvière</role>
+		</credit>
+		<credit>
+			<actor>Antoine Gouy</actor>
+			<role>Le marquis du Croisic</role>
+		</credit>
+		<credit>
+			<actor>Benjamin Lhommas</actor>
+			<role>Le marquis des Essais</role>
+		</credit>
+		<credit>
+			<actor>Chloé Astor</actor>
+			<role>La maîtresse du duc</role>
+		</credit>
+		<credit>
+			<actor>Louise Rossignon</actor>
+			<role>La première marquise</role>
+		</credit>
+		<credit>
+			<actor>Gilles Privat</actor>
+			<role>L'évêque</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">January 2021</releasedate>
+		<releasedate country="Australia">March 2021</releasedate>
+		<releasedate country="Australia">March 3 2021</releasedate>
+		<releasedate country="Israel">May 2021</releasedate>
+		<releasedate country="New Zealand">June 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Belgium">KT</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Denmark">7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Switzerland">8</certificate>
+	</certificates>
+	<keywords>
+		<keyword>poison</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>murder disguised as suicide</keyword>
+		<keyword>reference to the french revolution</keyword>
+		<keyword>french cuisine</keyword>
+		<keyword>cooking</keyword>
+		<keyword>chef</keyword>
+		<keyword>rain</keyword>
+		<keyword>revenge</keyword>
+		<keyword>french fries</keyword>
+		<keyword>title appears in writing</keyword>
+		<keyword>timeframe 18th century</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>plot twist</keyword>
+		<keyword>servant</keyword>
+		<keyword>one word title</keyword>
+		<keyword>18th century</keyword>
+		<keyword>duke</keyword>
+		<keyword>pipe smoking</keyword>
+		<keyword>thunderstorm</keyword>
+		<keyword>egg</keyword>
+		<keyword>drawing</keyword>
+		<keyword>snowing</keyword>
+		<keyword>snow</keyword>
+		<keyword>mushroom</keyword>
+		<keyword>horse</keyword>
+		<keyword>death</keyword>
+		<keyword>accidental death</keyword>
+		<keyword>candle</keyword>
+		<keyword>fire</keyword>
+	</keywords>
+	<directors>
+		<director> Éric Besnard</director>
+	</directors>
+	<composers>
+		<composer> Christophe Julien</composer>
+	</composers>
+	<producers>
+		<producer> Philip Boëffard</producer>
+		<producer> Pierre Guyard</producer>
+		<producer> Philippe Logie</producer>
+		<producer> Ève Machuel</producer>
+		<producer> Patrick Quinet</producer>
+		<producer> Christophe Rossignon</producer>
+	</producers>
+	<writers>
+		<writer> Éric Besnard</writer>
+		<writer> Nicolas Boukhrief</writer>
+	</writers>
+	<editors>
+		<editor> Lydia Decobert</editor>
+	</editors>
+</doc>

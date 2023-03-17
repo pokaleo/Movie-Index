@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<doc id="tt2006005">
+	<docid>tt2006005</docid>
+	<title>Trollied</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTc1NzMzOTkyMF5BMl5BanBnXkFtZTcwMjE0NzMwNw@@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">26</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Set in Valco, a fictional supermarket in Warrington in northwestern England, Trollied is a sitcom that puts a comic twist on one of our most familiar everyday surroundings.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Rita May</actor>
+			<role>Margaret</role>
+		</credit>
+		<credit>
+			<actor>Jason Watkins</actor>
+			<role>Gavin</role>
+		</credit>
+		<credit>
+			<actor>Faye McKeever</actor>
+			<role>Linda</role>
+		</credit>
+		<credit>
+			<actor>Carl Rice</actor>
+			<role>Colin</role>
+		</credit>
+		<credit>
+			<actor>Beverly Rudd</actor>
+			<role>Lisa</role>
+		</credit>
+		<credit>
+			<actor>Lorraine Cheshire</actor>
+			<role>Sue</role>
+		</credit>
+		<credit>
+			<actor>Chanel Cresswell</actor>
+			<role>Katie</role>
+		</credit>
+		<credit>
+			<actor>Dominic Coleman</actor>
+			<role>Neville</role>
+		</credit>
+		<credit>
+			<actor>Victor McGuire</actor>
+			<role>Ian</role>
+		</credit>
+		<credit>
+			<actor>Jane Horrocks</actor>
+			<role>Julie</role>
+		</credit>
+		<credit>
+			<actor>Joel Fry</actor>
+			<role>Leighton</role>
+		</credit>
+		<credit>
+			<actor>Mark Addy</actor>
+			<role>Andy</role>
+		</credit>
+		<credit>
+			<actor>Stephen Tompkinson</actor>
+			<role>Brian</role>
+		</credit>
+		<credit>
+			<actor>Nick Blood</actor>
+			<role>Kieran</role>
+		</credit>
+		<credit>
+			<actor>Jack Carroll</actor>
+			<role>Harry</role>
+		</credit>
+		<credit>
+			<actor>Sarah Parish</actor>
+			<role>Cheryl</role>
+		</credit>
+		<credit>
+			<actor>Samuel Anderson</actor>
+			<role>Daniel</role>
+		</credit>
+		<credit>
+			<actor>Jessie Cave</actor>
+			<role>Heather</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">August 4 2011</releasedate>
+		<releasedate country="Australia">September 27 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cheshire england</keyword>
+		<keyword>workplace comedy</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>supermarket</keyword>
+		<keyword>sitcom</keyword>
+	</keywords>
+	<directors>
+		<director> Jonathan Gershfield</director>
+		<director> Paul Harrison</director>
+		<director> Paul Walker</director>
+		<director> Paul Murphy</director>
+		<director> Keri Collins</director>
+		<director> Sarah O'Gorman</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Ash Atalla</producer>
+		<producer> Alexander Smith</producer>
+		<producer> Nick Goding</producer>
+		<producer> Jon Mountague</producer>
+		<producer> Anne Boyd</producer>
+		<producer> Mark Kinsella</producer>
+		<producer> Lucy Lumsden</producer>
+		<producer> Sue Howells</producer>
+		<producer> Rebecca Murrell</producer>
+		<producer> Vaughan Watkins</producer>
+		<producer> Rachel Salter</producer>
+		<producer> Tilusha Ghelani</producer>
+		<producer> Alan R. Cohen</producer>
+		<producer> Louise Mutter</producer>
+		<producer> Claudia Cuffy</producer>
+	</producers>
+	<writers>
+		<writer> Ash Atalla</writer>
+		<writer> Ash Atalla</writer>
+		<writer> Paul Doolan</writer>
+		<writer> Paul Doolan</writer>
+		<writer> Paul Doolan</writer>
+		<writer> Anne Marie O'Connor</writer>
+		<writer> Anne Marie O'Connor</writer>
+		<writer> Anne Marie O'Connor</writer>
+		<writer> Abigail Wilson</writer>
+		<writer> Abigail Wilson</writer>
+		<writer> Chris Hayward</writer>
+		<writer> Chris Hayward</writer>
+		<writer> Nat Saunders</writer>
+		<writer> Nat Saunders</writer>
+		<writer> Ben Edwards</writer>
+		<writer> Ben Edwards</writer>
+		<writer> Rachael New</writer>
+		<writer> Rachael New</writer>
+		<writer> Adrian Poynton</writer>
+		<writer> Adrian Poynton</writer>
+		<writer> Stuart Farrell</writer>
+		<writer> Stuart Farrell</writer>
+		<writer> Julie Rutterford</writer>
+		<writer> Julie Rutterford</writer>
+		<writer> Amy Shindler</writer>
+		<writer> Richard Preddy</writer>
+		<writer> Alexander Smith</writer>
+		<writer> Alexander Smith</writer>
+		<writer> Hannah George</writer>
+		<writer> Jon Hunter</writer>
+		<writer> Christine Robertson</writer>
+		<writer> Danny Robins</writer>
+	</writers>
+	<editors>
+		<editor> Tim Marchant</editor>
+		<editor> Nigel Cattle</editor>
+		<editor> Nick Ames</editor>
+		<editor> Steve Tempia</editor>
+		<editor> Mark Davies</editor>
+		<editor> Chris Blunden</editor>
+		<editor> Mark Hermida</editor>
+		<editor> Bridgette Williams</editor>
+		<editor> Mark Davis</editor>
+	</editors>
+</doc>

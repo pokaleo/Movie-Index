@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<doc id="tt10827252">
+	<docid>tt10827252</docid>
+	<title>The Drew Barrymore Show</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTFlZTIwYmUtNzU5MS00YjMxLWJmOWYtNjJhYjlmMTE2MzkwXkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Talk-Show</genre>
+	</genres>
+	<plot>Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor and optimism.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Drew Barrymore</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Ross Mathews</actor>
+			<role>Self - Drew's News Contributor</role>
+		</credit>
+		<credit>
+			<actor>Pilar Valdes</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Mikel Welch</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Zanna Roberts Rassi</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Eitan Bernath</actor>
+			<role>Self - Principal Culinary Contributor</role>
+		</credit>
+		<credit>
+			<actor>Danny Seo</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Damona Hoffman</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Jonah Larson</actor>
+			<role>Self - In The Loop</role>
+		</credit>
+		<credit>
+			<actor>Christopher Appleton</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Gayle King</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Kevin Frazier</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Luvvie Ajayi Jones</actor>
+			<role>Self - #ShareTheMicwithLuvvie</role>
+		</credit>
+		<credit>
+			<actor>Aliza Waksal Pressman</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Cameron Diaz</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Jill Kargman</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Tom Green</actor>
+			<role>Self - Guest</role>
+		</credit>
+		<credit>
+			<actor>Tiki Barber</actor>
+			<role>Self - Guest</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">September 14 2020</releasedate>
+		<releasedate country="Germany">January 8 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>celebrity talk show</keyword>
+		<keyword>lifestyle talk show</keyword>
+		<keyword>daytime talk show</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Adam Heydt</director>
+		<director> Scot Titelbaum</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Jason Kurtz</producer>
+		<producer> Drew Barrymore</producer>
+		<producer> Kayla Jardine</producer>
+		<producer> Marianne Schaberg</producer>
+		<producer> Samantha Sullivan</producer>
+		<producer> Stacy Credidio</producer>
+		<producer> Chris Miller</producer>
+		<producer> Jen Proctor</producer>
+		<producer> Jessica Yankelunas</producer>
+		<producer> Daniel Glantz</producer>
+		<producer> Bridgette Graham</producer>
+		<producer> Ana Breton</producer>
+		<producer> Jennifer Stryker</producer>
+		<producer> Jessica Crandall</producer>
+		<producer> Emma Byer</producer>
+		<producer> Sam Pasternack</producer>
+		<producer> Greg Contaldi</producer>
+		<producer> Alex Costa</producer>
+		<producer> Kathryn Hertz</producer>
+		<producer> Kathleen Koehler</producer>
+		<producer> Brandon Lankar</producer>
+		<producer> Jaime Mui</producer>
+		<producer> Harryanna Walker</producer>
+		<producer> Celeste Cornelison McLaughlin</producer>
+		<producer> Vittorio Florio</producer>
+		<producer> Suzie Munson</producer>
+		<producer> Ember Truesdell</producer>
+		<producer> Cristina Kinon</producer>
+		<producer> Lesley Martin-Nunnery</producer>
+		<producer> Chelsea White</producer>
+		<producer> Alex Clark</producer>
+		<producer> Marina King</producer>
+		<producer> Jenna Thibault</producer>
+		<producer> Kiara Walcott</producer>
+		<producer> Emily Tarpey</producer>
+		<producer> Rachael Burke</producer>
+		<producer> Catherine Driza</producer>
+		<producer> Hallie Tarpley</producer>
+		<producer> Rachel Wang</producer>
+		<producer> Liza Persky</producer>
+		<producer> Carisse Moy</producer>
+		<producer> Mitch Rissmiller</producer>
+		<producer> Jacob Greiff</producer>
+		<producer> Morgan Wiener</producer>
+		<producer> Stephanie Makowski</producer>
+		<producer> Alex Clark</producer>
+		<producer> Marina King</producer>
+		<producer> Wendy Perez</producer>
+		<producer> Tahir Russell</producer>
+		<producer> Trevor Vaughan</producer>
+		<producer> Nikki Todaro</producer>
+		<producer> Maggie Fischler</producer>
+		<producer> Catie Perry</producer>
+		<producer> Joe Robinson</producer>
+		<producer> Amy Virga</producer>
+		<producer> Mark Volf</producer>
+		<producer> Joe Mazzocchi</producer>
+		<producer> Nicole Sigrist</producer>
+		<producer> Natalie Heller</producer>
+		<producer> Felicia Daniels</producer>
+		<producer> Wendi Wan</producer>
+		<producer> Chris Molen</producer>
+		<producer> Korey Provencher</producer>
+		<producer> Omid Afshar</producer>
+		<producer> Shobhit Jain</producer>
+		<producer> Harrison Wilson</producer>
+		<producer> Brandi Powell</producer>
+		<producer> Sage McKay</producer>
+		<producer> Jonathan Aronoff</producer>
+		<producer> Sarah Beitch</producer>
+		<producer> Eric Cunningham</producer>
+		<producer> Micaela V. Rosario</producer>
+		<producer> Susan Rousseau</producer>
+		<producer> Christian Becker</producer>
+		<producer> Robert Willrich</producer>
+		<producer> Mark Johnson</producer>
+		<producer> Zach Schiffman</producer>
+		<producer> Felicia Miller-Stehr</producer>
+		<producer> Corin Nelson</producer>
+		<producer> Alison Sandler</producer>
+		<producer> Mark Johnson</producer>
+		<producer> Samantha Sullivan</producer>
+	</producers>
+	<writers>
+		<writer> Rachael Burke</writer>
+		<writer> Jordan Carlos</writer>
+		<writer> Liz Coe</writer>
+		<writer> Eric Cunningham</writer>
+		<writer> Eric Cunningham</writer>
+		<writer> Cristina Kinon</writer>
+		<writer> Cristina Kinon</writer>
+		<writer> Cristina Kinon</writer>
+		<writer> Cristina Kinon</writer>
+		<writer> Elizabeth Koe</writer>
+		<writer> Elizabeth Koe</writer>
+		<writer> Elizabeth Koe</writer>
+		<writer> Nedaa Sweiss</writer>
+		<writer> Chelsea White</writer>
+		<writer> Chelsea White</writer>
+		<writer> Chelsea White</writer>
+	</writers>
+	<editors>
+		<editor> Christopher Rossi</editor>
+		<editor> Aurora De Lucia</editor>
+		<editor> Cody Hall</editor>
+		<editor> Greg Boas</editor>
+		<editor> Rich Benkovic</editor>
+		<editor> Angela Degatano</editor>
+		<editor> Nadda Kanchanagon</editor>
+		<editor> Mick O'Malley</editor>
+		<editor> Sean Steyer</editor>
+		<editor> Daniel Darragh</editor>
+		<editor> Brian Kramer</editor>
+		<editor> Alan Bivona</editor>
+	</editors>
+</doc>

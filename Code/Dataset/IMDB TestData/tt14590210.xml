@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt14590210">
+	<docid>tt14590210</docid>
+	<title>Promised Land</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTQxNDYzNzgyOF5BMl5BanBnXkFtZTcwNTU0NTI1OA@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">43</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>An epic, generation-spanning drama about two Latino families vying for wealth and power in California's Sonoma Valley.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>John Ortiz</actor>
+			<role>Joe Sandoval</role>
+		</credit>
+		<credit>
+			<actor>Cecilia Suárez</actor>
+			<role>Lettie Sandoval</role>
+		</credit>
+		<credit>
+			<actor>Augusto Aguilera</actor>
+			<role>Mateo Flores</role>
+		</credit>
+		<credit>
+			<actor>Christina Ochoa</actor>
+			<role>Veronica Sandoval</role>
+		</credit>
+		<credit>
+			<actor>Mariel Molino</actor>
+			<role>Carmen Sandoval</role>
+		</credit>
+		<credit>
+			<actor>Tonatiuh</actor>
+			<role>Antonio Sandoval</role>
+		</credit>
+		<credit>
+			<actor>Andres Velez</actor>
+			<role>Carlos Rincón</role>
+		</credit>
+		<credit>
+			<actor>Katya Martín</actor>
+			<role>Juana Sánchez</role>
+		</credit>
+		<credit>
+			<actor>Rolando Chusan</actor>
+			<role>Billy Rincón</role>
+		</credit>
+		<credit>
+			<actor>Bellamy Young</actor>
+			<role>Margaret Honeycroft</role>
+		</credit>
+		<credit>
+			<actor>Miguel Angel Garcia</actor>
+			<role>Junior Sandoval</role>
+		</credit>
+		<credit>
+			<actor>Susan Ortiz</actor>
+			<role>Marta</role>
+		</credit>
+		<credit>
+			<actor>Ariana Guerra</actor>
+			<role>Rosa Sanchez</role>
+		</credit>
+		<credit>
+			<actor>Kerri Medders</actor>
+			<role>Young Margaret</role>
+		</credit>
+		<credit>
+			<actor>Yul Vazquez</actor>
+			<role>Father Ramos</role>
+		</credit>
+		<credit>
+			<actor>Tom Amandes</actor>
+			<role>O.M. Honeycroft</role>
+		</credit>
+		<credit>
+			<actor>Natalia del Riego</actor>
+			<role>Daniela Perez</role>
+		</credit>
+		<credit>
+			<actor>Andrew J. West</actor>
+			<role>Michael Paxton</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">January 24 2022</releasedate>
+		<releasedate country="United States">January 24 2022</releasedate>
+		<releasedate country="Australia">May 4 2022</releasedate>
+		<releasedate country="Italy">July 6 2022</releasedate>
+		<releasedate country="Netherlands">July 6 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">14</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>domestic drama</keyword>
+		<keyword>power</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>latino</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>sonoma valley california</keyword>
+		<keyword>california</keyword>
+	</keywords>
+	<directors>
+		<director> Edward Ornelas</director>
+		<director> Clara Aranovich</director>
+		<director> Chi Yoon Chung</director>
+		<director> Nick Copus</director>
+		<director> Michael Cuesta</director>
+		<director> Félix Enríquez Alcalá</director>
+		<director> Nick Gomez</director>
+		<director> Lily Mariye</director>
+		<director> Ryan Zaragoza</director>
+	</directors>
+	<composers>
+		<composer> Kevin Kiner</composer>
+		<composer> Gustavo Santaolalla</composer>
+	</composers>
+	<producers>
+		<producer> Michael Cuesta</producer>
+		<producer> Adam Kolbrenner</producer>
+		<producer> Matt Lopez</producer>
+		<producer> Maggie Malina</producer>
+		<producer> Kendrick Tan</producer>
+		<producer> Benjamin Wachtel</producer>
+		<producer> P. Todd Coe</producer>
+		<producer> Joe De Oliveira</producer>
+		<producer> Talia Gonzalez</producer>
+		<producer> Michael Jones-Morales</producer>
+		<producer> Edward Ornelas</producer>
+		<producer> Christopher Oscar Pena</producer>
+		<producer> Emilia Serrano</producer>
+		<producer> Mark Wilding</producer>
+		<producer> Jasmine Chanel Alston</producer>
+		<producer> Sarah Connors</producer>
+		<producer> John LaBrucherie</producer>
+	</producers>
+	<writers>
+		<writer> Matt Lopez</writer>
+		<writer> Matt Lopez</writer>
+		<writer> Tara Tomicevic</writer>
+		<writer> Tara Tomicevic</writer>
+		<writer> Jamie Conway</writer>
+		<writer> Talia Gonzalez</writer>
+		<writer> Michael Jones-Morales</writer>
+		<writer> Christopher Oscar Pena</writer>
+		<writer> Emilia Serrano</writer>
+		<writer> Mark Wilding</writer>
+	</writers>
+	<editors>
+		<editor> Justin Chinn</editor>
+		<editor> Luis Colina</editor>
+		<editor> Sandra Torres Granovsky</editor>
+		<editor> Jennifer Hatton</editor>
+		<editor> Joe Mitacek</editor>
+		<editor> Joe Mitacek</editor>
+		<editor> Kane Platt</editor>
+	</editors>
+</doc>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<doc id="tt14170016">
+	<docid>tt14170016</docid>
+	<title>One Ordinary Day</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWI5YWY5OTEtZDFjMC00YWU2LTkxYzMtN2JjMGQ0ODQ1NDliXkEyXkFqcGdeQXVyNzkxOTQzMzE@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A remake of the BBC drama &quot;Criminal Justice&quot; that delves into the criminal justice system through the story of two men surrounding a woman's murder.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kim Soo-hyun</actor>
+			<role>Kim Hyeon Soo</role>
+		</credit>
+		<credit>
+			<actor>Seung-Won Cha</actor>
+			<role>Shin Joong Han</role>
+		</credit>
+		<credit>
+			<actor>Kim Sungkyu</actor>
+			<role>Do Ji Tae</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="South Korea">2021</releasedate>
+		<releasedate country="South Korea">November 2021</releasedate>
+		<releasedate country="South Korea">November 26 2021</releasedate>
+		<releasedate country="Singapore">November 26 2021</releasedate>
+		<releasedate country="Indonesia">November 27 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Korea">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>justice</keyword>
+		<keyword>korean remake</keyword>
+		<keyword>south korean remake</keyword>
+	</keywords>
+	<directors>
+		<director> Myoungwoo Lee</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Love Lee</producer>
+		<producer> Myoungwoo Lee</producer>
+		<producer> Sejin Park</producer>
+	</producers>
+	<writers>
+		<writer> Peter Moffat</writer>
+		<writer> Kwon Soon-Gyu</writer>
+	</writers>
+	<editors/>
+</doc>

@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<doc id="tt18082758">
+	<docid>tt18082758</docid>
+	<title>The Takeover</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDE4ZTExZmMtYzA4NS00YzQwLTllMzgtNjQ0MDBjYTc3MzQxXkEyXkFqcGdeQXVyMTM0NTc2NDgw._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>I 2022</year>
+	<runningtimes>
+		<runningtime country="default">87</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Framed for murder after uncovering a privacy scandal, an ethical hacker must evade the police while trying to track down the criminals blackmailing her.</plot>
+	<countries>
+		<country>Netherlands</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Holly Mae Brood</actor>
+			<role>Mel Bandison</role>
+		</credit>
+		<credit>
+			<actor>Geza Weisz</actor>
+			<role>Thomas Deen</role>
+		</credit>
+		<credit>
+			<actor>Frank Lammers</actor>
+			<role>Buddy</role>
+		</credit>
+		<credit>
+			<actor>Susan Radder</actor>
+			<role>Rosa</role>
+		</credit>
+		<credit>
+			<actor>Walid Benmbarek</actor>
+			<role>Dries Daoudi</role>
+		</credit>
+		<credit>
+			<actor>Noortje Herlaar</actor>
+			<role>Linde Van Erp</role>
+		</credit>
+		<credit>
+			<actor>Geoffrey Breton</actor>
+			<role>Ethan</role>
+		</credit>
+		<credit>
+			<actor>Marco Eradus</actor>
+			<role>DSI</role>
+		</credit>
+		<credit>
+			<actor>Jeremiah Fleming</actor>
+			<role>Werknemer Rogers</role>
+		</credit>
+		<credit>
+			<actor>David Haack</actor>
+			<role>Thomas Deen</role>
+		</credit>
+		<credit>
+			<actor>Jenny Hsia</actor>
+			<role>Teamlid</role>
+		</credit>
+		<credit>
+			<actor>Kok-Hwa Lie</actor>
+			<role>Suk Mo Chen</role>
+		</credit>
+		<credit>
+			<actor>Lawrence Sheldon</actor>
+			<role>Rogers</role>
+		</credit>
+		<credit>
+			<actor>Anna Deborah van der Rhee</actor>
+			<role>Detective</role>
+		</credit>
+		<credit>
+			<actor>Rae Varela</actor>
+			<role>Mel Bandison</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Argentina">November 1 2022</releasedate>
+		<releasedate country="Australia">November 1 2022</releasedate>
+		<releasedate country="Belgium">November 1 2022</releasedate>
+		<releasedate country="Brazil">November 1 2022</releasedate>
+		<releasedate country="Canada">November 1 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">UA 16+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">TV-MA</certificate>
+		<certificate country="South Korea">Youth not allowed</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>criminal</keyword>
+		<keyword>hacker</keyword>
+		<keyword>scandal</keyword>
+		<keyword>police</keyword>
+		<keyword>fight</keyword>
+		<keyword>cyber thriller</keyword>
+	</keywords>
+	<directors>
+		<director> Annemarie van de Mond</director>
+	</directors>
+	<composers>
+		<composer> Merlijn Snitker</composer>
+	</composers>
+	<producers>
+		<producer> Femke Bennink</producer>
+		<producer> Annemieke van Vliet</producer>
+	</producers>
+	<writers>
+		<writer> Hans Erik Kraan</writer>
+		<writer> Tijs van Marle</writer>
+	</writers>
+	<editors>
+		<editor> Fatih Tura</editor>
+	</editors>
+</doc>

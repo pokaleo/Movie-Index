@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<doc id="tt6130902">
+	<docid>tt6130902</docid>
+	<title>Lore</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjA3ODQwNzM0OF5BMl5BanBnXkFtZTgwMjY5MTczMzI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">40</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Our collective nightmare mythologies are rooted in real-life horror stories.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Aaron Mahnke</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Paula Malcomson</actor>
+			<role>Mary Webster</role>
+		</credit>
+		<credit>
+			<actor>Josh Bowman</actor>
+			<role>Jack Parsons</role>
+		</credit>
+		<credit>
+			<actor>Maimie McCoy</actor>
+			<role>Elizabeth Bathory</role>
+		</credit>
+		<credit>
+			<actor>Steven Berkoff</actor>
+			<role>Dr. Kristoff Brehovy</role>
+		</credit>
+		<credit>
+			<actor>Emmett J Scanlan</actor>
+			<role>William Burke</role>
+		</credit>
+		<credit>
+			<actor>Jürgen Prochnow</actor>
+			<role>Andreas Gruber</role>
+		</credit>
+		<credit>
+			<actor>Robert Patrick</actor>
+			<role>Reverend Eliakim Phelps</role>
+		</credit>
+		<credit>
+			<actor>Adam Goldberg</actor>
+			<role>Peter Stubbe</role>
+		</credit>
+		<credit>
+			<actor>Holland Roden</actor>
+			<role>Bridget Cleary</role>
+		</credit>
+		<credit>
+			<actor>Kristin Bauer van Straten</actor>
+			<role>Minnie Otto</role>
+		</credit>
+		<credit>
+			<actor>Campbell Scott</actor>
+			<role>George Brown</role>
+		</credit>
+		<credit>
+			<actor>Colm Feore</actor>
+			<role>Dr. Walter Freeman</role>
+		</credit>
+		<credit>
+			<actor>Alicia Witt</actor>
+			<role>Marjorie Cameron</role>
+		</credit>
+		<credit>
+			<actor>Hebe Beardsall</actor>
+			<role>Verity Hollister</role>
+		</credit>
+		<credit>
+			<actor>Thomas Kretschmann</actor>
+			<role>Inspector Georg Reingruber</role>
+		</credit>
+		<credit>
+			<actor>Rosalind Eleazar</actor>
+			<role>Ava</role>
+		</credit>
+		<credit>
+			<actor>Numan Acar</actor>
+			<role>Dirvick Mirandesh</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Austria">2017</releasedate>
+		<releasedate country="Germany">2017</releasedate>
+		<releasedate country="United Kingdom">2017</releasedate>
+		<releasedate country="Japan">2017</releasedate>
+		<releasedate country="United States">2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>reenactment</keyword>
+		<keyword>horror host</keyword>
+		<keyword>male horror host</keyword>
+		<keyword>usa horror host</keyword>
+		<keyword>usa male horror host</keyword>
+		<keyword>based on podcast</keyword>
+		<keyword>folk horror</keyword>
+	</keywords>
+	<directors>
+		<director> Christoph Schrewe</director>
+		<director> Alice Troughton</director>
+		<director> Darnell Martin</director>
+		<director> Thomas J. Wright</director>
+		<director> Nick Copus</director>
+		<director> Michael E. Satrazemis</director>
+	</directors>
+	<composers>
+		<composer> Aaron Keane</composer>
+		<composer> Chad Lawson</composer>
+		<composer> Dino Meneghin</composer>
+	</composers>
+	<producers>
+		<producer> Jonathan Halperin</producer>
+		<producer> Brett-Patrick Jenkins</producer>
+		<producer> Mark Mannucci</producer>
+		<producer> Gale Anne Hurd</producer>
+		<producer> Phillip Kobylanski</producer>
+		<producer> Aaron Mahnke</producer>
+		<producer> Howard Owens</producer>
+		<producer> Ben Silverman</producer>
+		<producer> Isabel San Vargas</producer>
+		<producer> Hannah Meagher</producer>
+		<producer> Lindsay Webster</producer>
+		<producer> Howard Young</producer>
+		<producer> Alyssa Clark</producer>
+		<producer> Laura Borgaard Jespersen</producer>
+		<producer> William Klug</producer>
+		<producer> Jiri Kounicky</producer>
+		<producer> Ashley Miller</producer>
+		<producer> Chris Ness</producer>
+		<producer> Glen Morgan</producer>
+		<producer> Sean Crouch</producer>
+		<producer> Christopher Kronus</producer>
+		<producer> Scott Rosann</producer>
+		<producer> Radomir Docekal</producer>
+		<producer> Tomas Krejci</producer>
+		<producer> Beth Westrate</producer>
+	</producers>
+	<writers>
+		<writer> David Chiu</writer>
+		<writer> Alyssa Clark</writer>
+		<writer> David Coggeshall</writer>
+		<writer> Sean Crouch</writer>
+		<writer> Jeff Eckerle</writer>
+		<writer> Carlos Foglia</writer>
+		<writer> Carlos Foglia</writer>
+		<writer> Ashley Halloran</writer>
+		<writer> Ashley Halloran</writer>
+		<writer> Tyler Hisel</writer>
+		<writer> Aaron Mahnke</writer>
+		<writer> Ashley Miller</writer>
+		<writer> Jose Molina</writer>
+		<writer> Glen Morgan</writer>
+		<writer> Marilyn Osborn</writer>
+		<writer> Patrick Wall</writer>
+	</writers>
+	<editors>
+		<editor> Eleanor Infante</editor>
+		<editor> Christopher Kronus</editor>
+		<editor> James Coblentz</editor>
+		<editor> Devon Greene</editor>
+		<editor> Emily Hsuan</editor>
+		<editor> David Minor</editor>
+		<editor> Kim Powell</editor>
+		<editor> Scott Rosann</editor>
+	</editors>
+</doc>

@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<doc id="tt6235122">
+	<docid>tt6235122</docid>
+	<title>Sluga narodu</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTI5OTlhMjgtYzhlNS00Mzk5LWE2NTUtNjlmOGJjYWNjODQ0XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">28</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>After a Ukrainian high school teacher's tirade against government corruption goes viral on social media, he finds himself elected the country's new president.</plot>
+	<countries>
+		<country>Ukraine</country>
+	</countries>
+	<languages>
+		<language>Russian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Volodymyr Zelenskyy</actor>
+			<role>Vasiliy Petrovich Goloborodko, president of Ukraine</role>
+		</credit>
+		<credit>
+			<actor>Stanislav Boklan</actor>
+			<role>Yuri Ivanovich Chuiko, prime-minister of Ukraine</role>
+		</credit>
+		<credit>
+			<actor>Viktor Saraykin</actor>
+			<role>Petr Goloborodko, papa</role>
+		</credit>
+		<credit>
+			<actor>Elena Kravets</actor>
+			<role>Olga Mischenko</role>
+		</credit>
+		<credit>
+			<actor>Valentina Ishchenko</actor>
+			<role>Bella Rudolfivna</role>
+		</credit>
+		<credit>
+			<actor>Evgeniy Koshevoy</actor>
+			<role>Sergey Mukhin</role>
+		</credit>
+		<credit>
+			<actor>Nataliya Sumskaya</actor>
+			<role>Maria Goloborodko, Mama</role>
+		</credit>
+		<credit>
+			<actor>Ekaterina Kisten</actor>
+			<role>Svetlana Sakhno, sister</role>
+		</credit>
+		<credit>
+			<actor>Georgiy Povolotskiy</actor>
+			<role>Tolya</role>
+		</credit>
+		<credit>
+			<actor>Yuriy Krapov</actor>
+			<role>Mikhail Sanin</role>
+		</credit>
+		<credit>
+			<actor>Olha Zhukovtsova-Kyiashko</actor>
+			<role>Oksana Skovoroda</role>
+		</credit>
+		<credit>
+			<actor>Aleksandr Pikalov</actor>
+			<role>Ivan Skorik</role>
+		</credit>
+		<credit>
+			<actor>Anna Koshmal</actor>
+			<role>Natasha, plemyannitsa</role>
+		</credit>
+		<credit>
+			<actor>Miko Fatalov</actor>
+			<role>Mikael Aixotovitx Tassunian</role>
+		</credit>
+		<credit>
+			<actor>Galina Bezruk</actor>
+			<role>Anna Mihailovna</role>
+		</credit>
+		<credit>
+			<actor>Rinat Khabibulin</actor>
+			<role>Dima</role>
+		</credit>
+		<credit>
+			<actor>Aleksey Smolka</actor>
+			<role>Sergey Leonidovich Karasyuk</role>
+		</credit>
+		<credit>
+			<actor>Anastasiya Karpenko</actor>
+			<role>Yana Klymenko, journalist</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Ukraine">November 16 2015</releasedate>
+		<releasedate country="United Arab Emirates">November 17 2015</releasedate>
+		<releasedate country="Singapore">May 4 2017</releasedate>
+		<releasedate country="Germany">November 19 2021</releasedate>
+		<releasedate country="France">November 19 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>political satire</keyword>
+		<keyword>money</keyword>
+		<keyword>ukrainian politics</keyword>
+		<keyword>eastern europe</keyword>
+		<keyword>unlikely president</keyword>
+		<keyword>unlikely politician</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>president of ukraine</keyword>
+		<keyword>corrupt official</keyword>
+		<keyword>love triangle</keyword>
+		<keyword>love</keyword>
+		<keyword>politics</keyword>
+		<keyword>satire</keyword>
+		<keyword>mocking</keyword>
+		<keyword>imitating real life</keyword>
+		<keyword>power</keyword>
+		<keyword>greed</keyword>
+		<keyword>vengence</keyword>
+		<keyword>morality</keyword>
+		<keyword>philosophy</keyword>
+		<keyword>philosopher</keyword>
+		<keyword>history class</keyword>
+		<keyword>school</keyword>
+		<keyword>parliament</keyword>
+		<keyword>student</keyword>
+		<keyword>schoolteacher</keyword>
+		<keyword>teacher</keyword>
+		<keyword>ukrainian president</keyword>
+		<keyword>president</keyword>
+		<keyword>unlikely leader</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>political outsider</keyword>
+		<keyword>history teacher</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>satire comedy</keyword>
+		<keyword>ukraine</keyword>
+		<keyword>ukrainian man</keyword>
+		<keyword>ukrainian</keyword>
+		<keyword>europe</keyword>
+	</keywords>
+	<directors>
+		<director> Aleksey Kiryushchenko</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Sergey Kulybyshev</writer>
+	</writers>
+	<editors/>
+</doc>

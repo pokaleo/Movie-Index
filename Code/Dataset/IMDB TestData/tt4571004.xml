@@ -1,0 +1,499 @@
+<?xml version="1.0" ?>
+<doc id="tt4571004">
+	<docid>tt4571004</docid>
+	<title>Meurtres à...</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTQ3ZTMyYzMtOGExMi00MGJkLWI1ZWYtNDMxZjkxMTdiYWFmXkEyXkFqcGdeQXVyMTI2OTA2NTEw._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A collection of police murder investigations each time taking place in a different French city and region.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Vanessa Liautey</actor>
+			<role>Agnès Dorval</role>
+		</credit>
+		<credit>
+			<actor>Arnaud Binard</actor>
+			<role>Etienne Romagnat</role>
+		</credit>
+		<credit>
+			<actor>Joyce Bibring</actor>
+			<role>Léa Barnier</role>
+		</credit>
+		<credit>
+			<actor>Aladin Reibel</actor>
+			<role>Gilles Goadec</role>
+		</credit>
+		<credit>
+			<actor>France Zobda</actor>
+			<role>Joséphine</role>
+		</credit>
+		<credit>
+			<actor>Geoffroy Thiébaut</actor>
+			<role>Antoine Perrin</role>
+		</credit>
+		<credit>
+			<actor>Jean-Marc Michelangeli</actor>
+			<role>Le Légiste</role>
+		</credit>
+		<credit>
+			<actor>David Faure</actor>
+			<role>Eleveur</role>
+		</credit>
+		<credit>
+			<actor>Daniel Njo Lobé</actor>
+			<role>Charles Allibert</role>
+		</credit>
+		<credit>
+			<actor>Bruno Wolkowitch</actor>
+			<role>Julien Demarcy</role>
+		</credit>
+		<credit>
+			<actor>Pascal Lambert</actor>
+			<role>Barthélémy</role>
+		</credit>
+		<credit>
+			<actor>Pasquale D'Inca</actor>
+			<role>Gardien cathédrale 2</role>
+		</credit>
+		<credit>
+			<actor>Julien Sabatié-Ancora</actor>
+			<role>Le Médecin</role>
+		</credit>
+		<credit>
+			<actor>Samuel Mathieu</actor>
+			<role>Légiste</role>
+		</credit>
+		<credit>
+			<actor>Franck Beckmann</actor>
+			<role>Gardien fouille</role>
+		</credit>
+		<credit>
+			<actor>Stéphane Freiss</actor>
+			<role>Pascal Loubet</role>
+		</credit>
+		<credit>
+			<actor>Astrid Roos</actor>
+			<role>Candice Larcher</role>
+		</credit>
+		<credit>
+			<actor>Bruno Solo</actor>
+			<role>Vautier</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Belgium">April 19 2013</releasedate>
+		<releasedate country="Switzerland">April 19 2013</releasedate>
+		<releasedate country="Luxembourg">April 19 2013</releasedate>
+		<releasedate country="Andorra">April 23 2013</releasedate>
+		<releasedate country="France">April 23 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">10</certificate>
+		<certificate country="Norway">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>france</keyword>
+		<keyword>criminal investigation</keyword>
+	</keywords>
+	<directors>
+		<director> Delphine Lemoine</director>
+		<director> Lionel Bailliu</director>
+		<director> Éric Duret</director>
+		<director> Laurence Katrian</director>
+		<director> Thierry Binisti</director>
+		<director> Sylvie Ayme</director>
+		<director> Stéphane Kappes</director>
+		<director> Claude-Michel Rome</director>
+		<director> Marwen Abdallah</director>
+		<director> Emmanuel Rigaut</director>
+		<director> René Manzor</director>
+		<director> Adeline Darraux</director>
+		<director> Marc Barrat</director>
+		<director> Didier Albert</director>
+		<director> Christian Bonnet</director>
+		<director> Julien Despaux</director>
+		<director> Étienne Dhaene</director>
+		<director> Bruno Garcia</director>
+		<director> François Guérin</director>
+		<director> Jérôme Navarro</director>
+		<director> Thierry Peythieu</director>
+		<director> François Basset</director>
+		<director> Dominique Ladoge</director>
+		<director> Jules Maillard</director>
+		<director> Philippe Niang</director>
+		<director> Karim Ouaret</director>
+		<director> Jean-Marc Rudnicki</director>
+		<director> Jean-Marc Seban</director>
+		<director> Jean-Marc Thérin</director>
+		<director> Simon Astier</director>
+		<director> Franck Mancuso</director>
+		<director> Klaus Biedermann</director>
+		<director> Jérémy Minui</director>
+		<director> François Velle</director>
+		<director> Christophe Douchand</director>
+		<director> Laurent Dussaux</director>
+		<director> Stéphanie Murat</director>
+		<director> Elsa Bennett</director>
+		<director> Floriane Crépin</director>
+		<director> Hippolyte Dard</director>
+		<director> Olivier Barma</director>
+		<director> Marie-Hélène Copti</director>
+		<director> Vincent Trisolini</director>
+		<director> Stéphane Kopecky</director>
+		<director> Marion Lallier</director>
+	</directors>
+	<composers>
+		<composer> Frédéric Porte</composer>
+		<composer> Nicolas Jorelle</composer>
+		<composer> Christophe Monthieux</composer>
+		<composer> Krishoo Monthieux</composer>
+		<composer> Alexandre Lessertisseur</composer>
+		<composer> Franck Pilant</composer>
+		<composer> Maïdi Roth</composer>
+		<composer> Laurent Juillet</composer>
+		<composer> Sathy Ngouane</composer>
+		<composer> Axelle Renoir</composer>
+		<composer> Xavier Berthelot</composer>
+		<composer> Stéphane Moucha</composer>
+		<composer> François Liétout</composer>
+		<composer> François Staal</composer>
+		<composer> Jérôme Lemonnier</composer>
+		<composer> Gilles Facerias</composer>
+		<composer> Renaud Garcia-Fons</composer>
+		<composer> Tomás Gubitsch</composer>
+		<composer> Alexandre Jaffray</composer>
+		<composer> Jean-Pierre Taïeb</composer>
+		<composer> Florent Athenosy</composer>
+		<composer> Grégoire Hetzel</composer>
+		<composer> Pierre Bertrand</composer>
+		<composer> Alain Weiller</composer>
+		<composer> Olly Gorman</composer>
+		<composer> Erwann Kermorvant</composer>
+		<composer> Jean-Félix Lalanne</composer>
+		<composer> Laurent Sauvagnac</composer>
+		<composer> Stéphane Zidi</composer>
+		<composer> Anne-Olga De Pass</composer>
+		<composer> Christophe Lapinta</composer>
+		<composer> Samuel Narboni</composer>
+		<composer> Jean-Marie Sénia</composer>
+		<composer> Arno Alyvan</composer>
+		<composer> Marco Prince</composer>
+		<composer> Thierry Westermeyer</composer>
+		<composer> Emmanuel D'Orlando</composer>
+		<composer> Mathieu Lamboley</composer>
+		<composer> Emilien Levistre</composer>
+		<composer> Chris Canavaggio</composer>
+		<composer> Baptiste Charvet</composer>
+		<composer> Sean Henry</composer>
+		<composer> Philippe Miller</composer>
+		<composer> Vincent Stora</composer>
+	</composers>
+	<producers>
+		<producer> Anne Leduc</producer>
+		<producer> Christophe Louis</producer>
+		<producer> Arnauld de Battice</producer>
+		<producer> Caroline de Borchgrave</producer>
+		<producer> Iris Bucher</producer>
+		<producer> François Aramburu</producer>
+		<producer> Pascal Fontanille</producer>
+		<producer> Odile McDonald</producer>
+		<producer> Jean-Louis Monthieux</producer>
+		<producer> France Zobda</producer>
+		<producer> Roman Turlure</producer>
+		<producer> Toma De Matteis</producer>
+		<producer> Sidonie Cohen de Lara</producer>
+		<producer> Jacques Salles</producer>
+		<producer> Dominique Besnehard</producer>
+		<producer> Michel Feller</producer>
+		<producer> Marc Brégain</producer>
+		<producer> Jean-Marc Auclair</producer>
+		<producer> Stéphane Drouet</producer>
+		<producer> Jean-Pierre Dusséaux</producer>
+		<producer> Sydney Gallonde</producer>
+		<producer> Sophie Barrat</producer>
+		<producer> Richard Berkowitz</producer>
+		<producer> Thomas Bourguignon</producer>
+		<producer> Pierre-Antoine Capton</producer>
+		<producer> Stéphanie Carrère</producer>
+		<producer> Florence Dormoy</producer>
+		<producer> Nicolas Douay</producer>
+		<producer> Nathalie Juchet</producer>
+		<producer> Sébastien Leray</producer>
+		<producer> Mathilde Muffang</producer>
+		<producer> Bernard Paccalet</producer>
+		<producer> Marie-Hélène Pagès</producer>
+		<producer> Ivan Sadik</producer>
+		<producer> Christophe Toulemonde</producer>
+		<producer> Jerôme Vignac</producer>
+		<producer> Laurent Bacri</producer>
+		<producer> Charles Bernard</producer>
+		<producer> Guillaume Bernard</producer>
+		<producer> Monique Bernard-Beaumet</producer>
+		<producer> Bernard Bouix</producer>
+		<producer> Yann Chassard</producer>
+		<producer> Nicolas Coppermann</producer>
+		<producer> Serge de Poucques</producer>
+		<producer> Alban Etienne</producer>
+		<producer> Monica Galer</producer>
+		<producer> Jean-Benoît Gillig</producer>
+		<producer> Sylvain Goldberg</producer>
+		<producer> Serge Hugon</producer>
+		<producer> Eric Jollant</producer>
+		<producer> Régine Larcher</producer>
+		<producer> Aurélien Larger</producer>
+		<producer> Franck Lebreton</producer>
+		<producer> Alain Pancrazi</producer>
+		<producer> Philippe Schirrer</producer>
+		<producer> Harold Valentin</producer>
+		<producer> Elizabeth Arnac</producer>
+		<producer> Eddy Charbit</producer>
+		<producer> Clémentine Dabadie</producer>
+		<producer> Jean Labib</producer>
+		<producer> Marie Madec</producer>
+		<producer> Josselyn Bossennec</producer>
+		<producer> Pascale Breugnot</producer>
+		<producer> Franck-Nicolas Chelle</producer>
+		<producer> Bertrand Cohen</producer>
+		<producer> Sylvie Coquart</producer>
+		<producer> Christian Gerin</producer>
+		<producer> Chloé Grunwald</producer>
+		<producer> Antoine Le Carpentier</producer>
+		<producer> Stéphane Meunier</producer>
+		<producer> Thomas Viguier</producer>
+		<producer> Pascal Wyn</producer>
+		<producer> Dominique Ambiel</producer>
+		<producer> Francis Barrois</producer>
+		<producer> Hervé Boitelle</producer>
+		<producer> Grégory Cantien</producer>
+		<producer> Floriane Cortes</producer>
+		<producer> Gilles Daniel</producer>
+		<producer> Gaspard de Chavagnac</producer>
+		<producer> Jean-Charles Felli</producer>
+		<producer> Jean-Baptiste Jouy</producer>
+		<producer> David Kodsi</producer>
+		<producer> Gérard Lacroix</producer>
+		<producer> Muriel Paradis</producer>
+		<producer> Lissa Pillu</producer>
+		<producer> Sylvain Plantard</producer>
+		<producer> Gérard Pont</producer>
+		<producer> Jean-Michel Quilici</producer>
+		<producer> Julien Rouch</producer>
+		<producer> Pierre Sportolaro</producer>
+		<producer> Caroline Adrian</producer>
+		<producer> Garance Bonfanti-Vincent</producer>
+		<producer> Julie Lafore</producer>
+		<producer> Aurélie Meimon</producer>
+		<producer> Stéphane Moatti</producer>
+		<producer> Jean-Baptiste Neyrac</producer>
+		<producer> Patricia Boutinard Rouelle</producer>
+		<producer> Noor Sadar</producer>
+		<producer> Simone Harari Baulieu</producer>
+		<producer> Dominique Guerin</producer>
+		<producer> Stephan Kalb</producer>
+		<producer> Tatiana Maksimenko</producer>
+		<producer> Antoine Perset</producer>
+		<producer> Jean-François Pigné</producer>
+		<producer> Sabrina Agresti Roubache</producer>
+		<producer> Sébastien Charbit</producer>
+		<producer> Antonin Ehrenberg</producer>
+		<producer> Karine Evrard</producer>
+		<producer> Lola Gans</producer>
+		<producer> Benjamin Hess</producer>
+		<producer> Eve Muller</producer>
+		<producer> Nathalie Perus</producer>
+		<producer> Mathieu Vergne</producer>
+		<producer> Hubert Besson</producer>
+		<producer> Julie Perris</producer>
+		<producer> Félicie Roblin</producer>
+		<producer> Paul Rozenberg</producer>
+	</producers>
+	<writers>
+		<writer> Fabien Adda</writer>
+		<writer> Alain Agat</writer>
+		<writer> Sandro Agénor</writer>
+		<writer> Denis Alamercery</writer>
+		<writer> Claire Alexandrakis</writer>
+		<writer> Claire Alexandrakis</writer>
+		<writer> Jérôme Amory</writer>
+		<writer> Killian Arthur</writer>
+		<writer> Lionel Bailliu</writer>
+		<writer> Lionel Bailliu</writer>
+		<writer> Gaëlle Baron</writer>
+		<writer> Philippe Bernard</writer>
+		<writer> Apsita Berthelot-Cissé</writer>
+		<writer> Aude Blanchard</writer>
+		<writer> Aude Blanchard</writer>
+		<writer> Josselyn Bossennec</writer>
+		<writer> Lucile Brandi</writer>
+		<writer> Elsa Chabrol</writer>
+		<writer> Luc Chaumar</writer>
+		<writer> Jean-Marie Chavent</writer>
+		<writer> Jean Chavot</writer>
+		<writer> Delphine Chouraqui</writer>
+		<writer> Delphine Chouraqui</writer>
+		<writer> Delphine Chouraqui</writer>
+		<writer> David Crozier</writer>
+		<writer> Natascha Cucheval</writer>
+		<writer> Sabine Dabadie</writer>
+		<writer> Alexandra Deman</writer>
+		<writer> Killian Denis</writer>
+		<writer> Marie Deshaires</writer>
+		<writer> Raphaëlle Desplechin</writer>
+		<writer> Manon Dillys</writer>
+		<writer> Philippe Donzelot</writer>
+		<writer> Iris Ducorps</writer>
+		<writer> Iris Ducorps</writer>
+		<writer> Alexandra Echkenazi</writer>
+		<writer> Frédéric Faurt</writer>
+		<writer> Claire Feinstein</writer>
+		<writer> Marie Foulon</writer>
+		<writer> Laetitia Franceschini</writer>
+		<writer> Karine Giebel</writer>
+		<writer> Camille Guichard</writer>
+		<writer> Céline Guyot</writer>
+		<writer> Céline Guyot</writer>
+		<writer> Céline Guyot</writer>
+		<writer> Martin Guyot</writer>
+		<writer> Martin Guyot</writer>
+		<writer> Martin Guyot</writer>
+		<writer> François Guérin</writer>
+		<writer> Séverine Jacquet</writer>
+		<writer> Nicole Jamet</writer>
+		<writer> Stéphanie Joalland</writer>
+		<writer> Nicolas Jones-Gorlin</writer>
+		<writer> Alexandra Julhiet</writer>
+		<writer> Alexandra Julhiet</writer>
+		<writer> Anne-Charlotte Kassab</writer>
+		<writer> Estelle Koening</writer>
+		<writer> Stéphane Kopecky</writer>
+		<writer> Pierre Lacan</writer>
+		<writer> Olivier Laneurie</writer>
+		<writer> Marc-Antoine Laurent</writer>
+		<writer> Sébastien Le Délézir</writer>
+		<writer> Yann Le Gal</writer>
+		<writer> Marie-Anne Le Pezennec</writer>
+		<writer> Marie Lefebvre</writer>
+		<writer> Delphine Lemoine</writer>
+		<writer> Fabienne Lesieur</writer>
+		<writer> Cécile Lorne</writer>
+		<writer> Cécile Lorne</writer>
+		<writer> Frédéric J. Lozet</writer>
+		<writer> Anthony Maugendre</writer>
+		<writer> Laurent Mondy</writer>
+		<writer> Pierre Monjanel</writer>
+		<writer> Stéphanie Murat</writer>
+		<writer> Philippe Niang</writer>
+		<writer> Philippe Niang</writer>
+		<writer> Lionel Pasquier</writer>
+		<writer> Armelle Patron</writer>
+		<writer> Emmanuel Patron</writer>
+		<writer> Victor Pavy</writer>
+		<writer> Virginie Peignien</writer>
+		<writer> Virginie Peignien</writer>
+		<writer> Pascal Perbet</writer>
+		<writer> Pascal Perbet</writer>
+		<writer> Thomas Perrier</writer>
+		<writer> Frédéric Petitjean</writer>
+		<writer> Frédéric Petitjean</writer>
+		<writer> Marie-Cécile Piquet</writer>
+		<writer> Marie-Cécile Piquet</writer>
+		<writer> Isabelle Polin</writer>
+		<writer> Charles Poupot</writer>
+		<writer> Charles Poupot</writer>
+		<writer> Charles Poupot</writer>
+		<writer> Emmanuel Rigaut</writer>
+		<writer> Simon Rocheman</writer>
+		<writer> Eric Rognard</writer>
+		<writer> Claude-Michel Rome</writer>
+		<writer> Tigran Rosine</writer>
+		<writer> Sylvie Rouch</writer>
+		<writer> Sylvain Saada</writer>
+		<writer> Martin Sauvageot</writer>
+		<writer> Matthieu Savignac</writer>
+		<writer> Jean-Marc Seban</writer>
+		<writer> Jean-Marc Seban</writer>
+		<writer> Isabel Sebastian</writer>
+		<writer> Isabel Sebastian</writer>
+		<writer> Lionel Sigwald</writer>
+		<writer> Lionel Sigwald</writer>
+		<writer> Lionel Sigwald</writer>
+		<writer> Christiane Spiero</writer>
+		<writer> Nathalie Suhard</writer>
+		<writer> Jean-Marc Taba</writer>
+		<writer> Clément Theobald</writer>
+		<writer> Franck Thilliez</writer>
+		<writer> Sandra Tosello</writer>
+		<writer> Sandra Tosello</writer>
+		<writer> Catherine Touzet</writer>
+		<writer> Laurent Vachaud</writer>
+		<writer> François Velle</writer>
+		<writer> Elizabeth Verry</writer>
+		<writer> Jerôme Vignac</writer>
+		<writer> Didier Vinson</writer>
+		<writer> Laurent Vivier</writer>
+		<writer> Fabrice de Costil</writer>
+		<writer> Fabrice de Costil</writer>
+		<writer> Arnaud de Crémiers</writer>
+	</writers>
+	<editors>
+		<editor> Linda Naud</editor>
+		<editor> Violeta Fernandez</editor>
+		<editor> Quentin Boulay</editor>
+		<editor> Vincent Delorme</editor>
+		<editor> Thierry Rouden</editor>
+		<editor> Anthony Bellagamba</editor>
+		<editor> Bénédicte Gellé</editor>
+		<editor> Jérôme Bréau</editor>
+		<editor> Manuel De Sousa</editor>
+		<editor> Marion Dartigues</editor>
+		<editor> Emmanuel Douce</editor>
+		<editor> Stéphanie Gaurier</editor>
+		<editor> Alexandre Landreau</editor>
+		<editor> Marion Monestier</editor>
+		<editor> Jean-Daniel Fernandez Qundez</editor>
+		<editor> Emmanuelle Labbé</editor>
+		<editor> Stéphanie Mahet</editor>
+		<editor> Jacqueline Mariani</editor>
+		<editor> Vincent Zuffranieri</editor>
+		<editor> Jean-Paul Husson</editor>
+		<editor> Frédéric Massiot</editor>
+		<editor> Ludivine Saës</editor>
+		<editor> Stéphane Kazadi</editor>
+		<editor> Nathalie Langlade</editor>
+		<editor> Diane Logan</editor>
+		<editor> Catherine Schwartz</editor>
+		<editor> Bertrand Maillard</editor>
+		<editor> Anne Saïac</editor>
+		<editor> Renaud Ziegler</editor>
+		<editor> Sabine Emiliani</editor>
+		<editor> Joël Jacovella</editor>
+		<editor> Nicolas Pechitch</editor>
+		<editor> Sonia Sokolowski</editor>
+		<editor> Fabrice Dautcourt</editor>
+		<editor> Samuel Mortain</editor>
+		<editor> Romain Namura</editor>
+		<editor> Maguelone Pouget</editor>
+	</editors>
+</doc>

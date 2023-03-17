@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<doc id="tt13475676">
+	<docid>tt13475676</docid>
+	<title>Tom Swift</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWRlMWM1NTUtMTYxZC00NDM3LThhMjEtODdmMmM4MDJlMWYxXkEyXkFqcGdeQXVyODUzNDU3NTA@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Tom is a billionaire inventor who is thrust into a world of sci-fi conspiracy and unexplained phenomena after the shocking disappearance of his father.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Tian Richards</actor>
+			<role>Tom Swift</role>
+		</credit>
+		<credit>
+			<actor>Ashleigh Murray</actor>
+			<role>Zenzi Fullington</role>
+		</credit>
+		<credit>
+			<actor>Marquise Vilson</actor>
+			<role>Isaac Vega</role>
+		</credit>
+		<credit>
+			<actor>Albert Mwangi</actor>
+			<role>Rowan</role>
+		</credit>
+		<credit>
+			<actor>April Parker Jones</actor>
+			<role>Lorraine Swift</role>
+		</credit>
+		<credit>
+			<actor>LeVar Burton</actor>
+			<role>Barclay</role>
+		</credit>
+		<credit>
+			<actor>Kenneth Trujillo</actor>
+			<role>Signet Ring Man</role>
+		</credit>
+		<credit>
+			<actor>Ward Horton</actor>
+			<role>Congressman Nathan Eskol</role>
+		</credit>
+		<credit>
+			<actor>Donovin Miller</actor>
+			<role>Lino</role>
+		</credit>
+		<credit>
+			<actor>Brittany Ishibashi</actor>
+			<role>Claire Cormier</role>
+		</credit>
+		<credit>
+			<actor>Christopher B. Duncan</actor>
+			<role>Barton Swift</role>
+		</credit>
+		<credit>
+			<actor>Hayward Leach</actor>
+			<role>Justin Chase</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Cappuccino</actor>
+			<role>Susannah Robb</role>
+		</credit>
+		<credit>
+			<actor>Chris Renfro</actor>
+			<role>Quinn</role>
+		</credit>
+		<credit>
+			<actor>Jeff Sprauve</actor>
+			<role>Dr. Wilson</role>
+		</credit>
+		<credit>
+			<actor>Mayer Stern</actor>
+			<role>Agent One</role>
+		</credit>
+		<credit>
+			<actor>Jen Harper</actor>
+			<role>Reverend Jones</role>
+		</credit>
+		<credit>
+			<actor>Dom Kegel</actor>
+			<role>Agent Two</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">May 31 2022</releasedate>
+		<releasedate country="United States">May 31 2022</releasedate>
+		<releasedate country="Indonesia">June 14 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>billionaire</keyword>
+		<keyword>based on book series</keyword>
+		<keyword>black cast</keyword>
+		<keyword>inventor</keyword>
+		<keyword>gay male lead</keyword>
+		<keyword>african american</keyword>
+		<keyword>cgi</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>gay interest</keyword>
+		<keyword>conspiracy</keyword>
+	</keywords>
+	<directors>
+		<director> Michael A. Allowitz</director>
+		<director> Clara Aranovich</director>
+		<director> Andi Behring</director>
+		<director> Jeffrey W. Byrd</director>
+		<director> Anton Cropper</director>
+		<director> Ruben Garcia</director>
+		<director> Ruba Nadda</director>
+		<director> J. Miller Tobin</director>
+		<director> Rose Troche</director>
+		<director> Bille Woodruff</director>
+	</directors>
+	<composers>
+		<composer> Matthew Head</composer>
+	</composers>
+	<producers>
+		<producer> Jonathan C. Brody</producer>
+		<producer> Erika Harrison</producer>
+		<producer> Melinda Hsu Taylor</producer>
+		<producer> Teresa Huang</producer>
+		<producer> Cameron Johnson</producer>
+		<producer> Kristin Killey</producer>
+		<producer> Noga Landau</producer>
+		<producer> Brad Marques</producer>
+		<producer> Lis Rowinski</producer>
+		<producer> Stephanie Savage</producer>
+		<producer> Josh Schwartz</producer>
+		<producer> Anton Cropper</producer>
+	</producers>
+	<writers>
+		<writer> Sydney Baloue</writer>
+		<writer> Sydney Baloue</writer>
+		<writer> Eric Anthony Glover</writer>
+		<writer> Eric Anthony Glover</writer>
+		<writer> Fola Goke-Pariola</writer>
+		<writer> Fola Goke-Pariola</writer>
+		<writer> Melinda Hsu Taylor</writer>
+		<writer> Melinda Hsu Taylor</writer>
+		<writer> Melinda Hsu Taylor</writer>
+		<writer> Cameron Johnson</writer>
+		<writer> Cameron Johnson</writer>
+		<writer> Noga Landau</writer>
+		<writer> Noga Landau</writer>
+		<writer> Brittany Northcross</writer>
+		<writer> Brittany Northcross</writer>
+		<writer> Michael Poisson</writer>
+		<writer> Michael Poisson</writer>
+		<writer> Victor Appleton</writer>
+		<writer> Erika Harrison</writer>
+		<writer> Teresa Huang</writer>
+		<writer> Brad Marques</writer>
+		<writer> Elliott I. Feliciano</writer>
+		<writer> Kahlil Maskati</writer>
+	</writers>
+	<editors>
+		<editor> Meghan Robertson</editor>
+		<editor> Saleem Aziz</editor>
+		<editor> Hector Carrillo</editor>
+		<editor> Brian Hershall Merrick</editor>
+	</editors>
+</doc>

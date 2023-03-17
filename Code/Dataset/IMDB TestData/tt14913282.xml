@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc id="tt14913282">
+	<docid>tt14913282</docid>
+	<title>I Like Movies</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjY3MzI1NTktOTcwZi00NTY2LWE2MWYtMDkxNjBhYjk1NGY3XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">99</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Socially inept 17-year old cinephile, Lawrence Kweller, gets a job at a video store where he forms a complicated friendship with his older female manager.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Isaiah Lehtinen</actor>
+			<role>Lawrence Kweller</role>
+		</credit>
+		<credit>
+			<actor>Alex Ateah</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Dan Beirne</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Krista Bridges</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Sarah Camacho</actor>
+			<role>Juicy Couture Girl</role>
+		</credit>
+		<credit>
+			<actor>Eden Cupid</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Romina D'Ugo</actor>
+			<role>Alana</role>
+		</credit>
+		<credit>
+			<actor>Tavaree Daniel-Simms</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Rodrigo Fernandez-Stoll</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Andy McQueen</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Adrian Misaljevic</actor>
+			<role>Jake</role>
+		</credit>
+		<credit>
+			<actor>Gwynne Phillips</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Anand Rajaram</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Veronika Slowikowska</actor>
+			<role>Tabitha</role>
+		</credit>
+		<credit>
+			<actor>Percy Hynes White</actor>
+			<role>Matt Macarchuck</role>
+		</credit>
+		<credit>
+			<actor>Tanner Zipchen</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 9 2022</releasedate>
+		<releasedate country="Canada">September 24 2022</releasedate>
+		<releasedate country="Canada">September 24 2022</releasedate>
+		<releasedate country="Canada">October 18 2022</releasedate>
+		<releasedate country="Canada">October 19 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Taiwan">6+</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Chandler Levack</director>
+	</directors>
+	<composers>
+		<composer> Murray Lightburn</composer>
+	</composers>
+	<producers>
+		<producer> Evan Dubinsky</producer>
+		<producer> Lindsay Blair Goeldner</producer>
+		<producer> Victoria Lean</producer>
+		<producer> Chandler Levack</producer>
+		<producer> Simone Smith</producer>
+		<producer> Michael Solomon</producer>
+	</producers>
+	<writers>
+		<writer> Chandler Levack</writer>
+	</writers>
+	<editors>
+		<editor> Simone Smith</editor>
+	</editors>
+</doc>

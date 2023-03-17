@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc id="tt13188064">
+	<docid>tt13188064</docid>
+	<title>Let the Wrong One In</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZmZhMWJhNTQtODNhYy00NjM0LWIwNTMtMjkwYzY3ZGIwMDhjXkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A young supermarket worker discovers that his older brother is a vampire and must choose whether to help him or slay him.</plot>
+	<countries>
+		<country>Ireland</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Karl Rice</actor>
+			<role>Matt</role>
+		</credit>
+		<credit>
+			<actor>Eoin Duffy</actor>
+			<role>Deco</role>
+		</credit>
+		<credit>
+			<actor>Anthony Head</actor>
+			<role>Henry</role>
+		</credit>
+		<credit>
+			<actor>Hilda Fay</actor>
+			<role>Ma</role>
+		</credit>
+		<credit>
+			<actor>Lisa Haskins</actor>
+			<role>Natalie</role>
+		</credit>
+		<credit>
+			<actor>Louise Bourke</actor>
+			<role>Vampire Amanda</role>
+		</credit>
+		<credit>
+			<actor>Jordan Lennon</actor>
+			<role>Derek</role>
+		</credit>
+		<credit>
+			<actor>Louise McCann</actor>
+			<role>Vampire Eve</role>
+		</credit>
+		<credit>
+			<actor>Laura Murray</actor>
+			<role>Alison</role>
+		</credit>
+		<credit>
+			<actor>Mary Murray</actor>
+			<role>Sheila</role>
+		</credit>
+		<credit>
+			<actor>David Pearse</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Manuel Pombo</actor>
+			<role>Transylvanian bouncer</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 24 2021</releasedate>
+		<releasedate country="Spain">October 15 2021</releasedate>
+		<releasedate country="Germany">October 17 2021</releasedate>
+		<releasedate country="United States">October 21 2021</releasedate>
+		<releasedate country="Italy">November 1 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>young</keyword>
+	</keywords>
+	<directors>
+		<director> Conor McMahon</director>
+	</directors>
+	<composers>
+		<composer> Liam Bates</composer>
+	</composers>
+	<producers>
+		<producer> Giles Edwards</producer>
+		<producer> Trisha Flood</producer>
+		<producer> Julianne Forde</producer>
+		<producer> Nicola Goelzhaeuser</producer>
+		<producer> Michael Lavelle</producer>
+		<producer> Ivan McMahon</producer>
+		<producer> Dearbhla Regan</producer>
+		<producer> Ruth Treacy</producer>
+	</producers>
+	<writers>
+		<writer> Conor McMahon</writer>
+	</writers>
+	<editors>
+		<editor> Brian Philip Davis</editor>
+	</editors>
+</doc>

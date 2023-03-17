@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<doc id="tt11623854">
+	<docid>tt11623854</docid>
+	<title>Varayan</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjlkN2E4OWMtYjM0NS00NjUyLWI3NGUtYWNhNzA3ZTRhMjVmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR17,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">143</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Add a Plot</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Malayalam</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Siju Wilson</actor>
+			<role>Fr. Ebi</role>
+		</credit>
+		<credit>
+			<actor>Maniyanpilla Raju</actor>
+			<role>Isthaakki</role>
+		</credit>
+		<credit>
+			<actor>Jayashankar</actor>
+			<role>Mathaayi Kappiyar</role>
+		</credit>
+		<credit>
+			<actor>Vijayaraghavan</actor>
+			<role>Bishop</role>
+		</credit>
+		<credit>
+			<actor>Joy Mathew</actor>
+			<role>Fr. Carlos</role>
+		</credit>
+		<credit>
+			<actor>Jude Anthany Joseph</actor>
+			<role>Fr. Aju</role>
+		</credit>
+		<credit>
+			<actor>Leona Lishoy</actor>
+			<role>Daisy</role>
+		</credit>
+		<credit>
+			<actor>Bindu Panikkar</actor>
+			<role>ThresyaChedathi</role>
+		</credit>
+		<credit>
+			<actor>Davinchi Santhosh</actor>
+			<role>Keppa</role>
+		</credit>
+		<credit>
+			<actor>Ambika Mohan</actor>
+			<role>Wife of Isthaakki</role>
+		</credit>
+		<credit>
+			<actor>Baiju Ezhupunna</actor>
+			<role>Vareethu</role>
+		</credit>
+		<credit>
+			<actor>Hariprashanth</actor>
+			<role>SI Biju</role>
+		</credit>
+		<credit>
+			<actor>Adinad Sasi</actor>
+			<role>Koshi Police</role>
+		</credit>
+		<credit>
+			<actor>V. Suresh Thampanoor</actor>
+			<role>Shaappu Marti</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="India">May 20 2022</releasedate>
+		<releasedate country="United Arab Emirates">May 26 2022</releasedate>
+		<releasedate country="India">March 9 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="United Arab Emirates">PG-13</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Jijo Joseph</director>
+	</directors>
+	<composers>
+		<composer> Prakash Alex</composer>
+	</composers>
+	<producers>
+		<producer> Premachandran A.G.</producer>
+	</producers>
+	<writers>
+		<writer> Danny Capuchin</writer>
+	</writers>
+	<editors>
+		<editor> John Kutty</editor>
+	</editors>
+</doc>

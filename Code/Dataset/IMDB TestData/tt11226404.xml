@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<doc id="tt11226404">
+	<docid>tt11226404</docid>
+	<title>Daughter</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmM2NzA5ZWMtNWYzNC00MmIwLWI2MGQtMTI5YmY5NzllYjRhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>V 2022</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A young woman is inducted into a bizarre family as their new surrogate daughter.</plot>
+	<countries/>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Casper Van Dien</actor>
+			<role>Father</role>
+		</credit>
+		<credit>
+			<actor>Elyse Dinh</actor>
+			<role>Mother</role>
+		</credit>
+		<credit>
+			<actor>Vivien Ngô</actor>
+			<role>Sister</role>
+		</credit>
+		<credit>
+			<actor>Ian Alexander</actor>
+			<role>Brother</role>
+		</credit>
+		<credit>
+			<actor>Megan Le</actor>
+			<role>Daughter</role>
+		</credit>
+		<credit>
+			<actor>Edward Stasik</actor>
+			<role>Curator</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">August 26 2022</releasedate>
+		<releasedate country="Japan">January 13 2023</releasedate>
+		<releasedate country="United States">February 10 2023</releasedate>
+		<releasedate country="United States">May 9 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Corey Deshon</director>
+	</directors>
+	<composers>
+		<composer> David Strother</composer>
+	</composers>
+	<producers>
+		<producer> Matthew Bradley</producer>
+		<producer> Ron Bradley</producer>
+		<producer> Tracy Chitupatham</producer>
+		<producer> Luke Corby</producer>
+		<producer> Corey Deshon</producer>
+		<producer> Laurent Fumeron</producer>
+		<producer> Daniel Goroshko</producer>
+		<producer> Hieu Gray</producer>
+		<producer> Yair Haim</producer>
+		<producer> Nicholas Larrabure</producer>
+		<producer> Vivien Ngô</producer>
+		<producer> Rodolphe Sanzé</producer>
+		<producer> Jake Thomas</producer>
+		<producer> Sharunya Varriale</producer>
+		<producer> Jes Vu</producer>
+		<producer> Lacy Lew Nguyen Wright</producer>
+	</producers>
+	<writers>
+		<writer> Corey Deshon</writer>
+	</writers>
+	<editors>
+		<editor> Nicholas Larrabure</editor>
+	</editors>
+</doc>

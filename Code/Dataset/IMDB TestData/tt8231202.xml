@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<doc id="tt8231202">
+	<docid>tt8231202</docid>
+	<title>This Is the Year</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZGYyMTM1YmEtMjc5Yy00YzRkLThiZjEtMmRkNDhkYTM1ZjRkXkEyXkFqcGdeQXVyMTYzMDM1OTE@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>In a last ditch effort to win over the girl of his dreams, a nerdy high school senior and his best friends embark on a road trip to see their favorite band at the biggest music festival of the year.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Vanessa Marano</actor>
+			<role>Molly</role>
+		</credit>
+		<credit>
+			<actor>Jeff Garlin</actor>
+			<role>Mr. Elmer</role>
+		</credit>
+		<credit>
+			<actor>David Henrie</actor>
+			<role>Sebastian</role>
+		</credit>
+		<credit>
+			<actor>Gregg Sulkin</actor>
+			<role>Kale</role>
+		</credit>
+		<credit>
+			<actor>Bug Hall</actor>
+			<role>Donnie</role>
+		</credit>
+		<credit>
+			<actor>Alyssa Jirrels</actor>
+			<role>Zoey</role>
+		</credit>
+		<credit>
+			<actor>Kate Katzman</actor>
+			<role>Sophie</role>
+		</credit>
+		<credit>
+			<actor>Jake Short</actor>
+			<role>Mikey</role>
+		</credit>
+		<credit>
+			<actor>Lorenzo James Henrie</actor>
+			<role>Josh</role>
+		</credit>
+		<credit>
+			<actor>Gregg Christie</actor>
+			<role>Luca</role>
+		</credit>
+		<credit>
+			<actor>Chris Mullinax</actor>
+			<role>Officer Greg</role>
+		</credit>
+		<credit>
+			<actor>Josh Dunn</actor>
+			<role>Teen Nerd</role>
+		</credit>
+		<credit>
+			<actor>Bruce Cooper</actor>
+			<role>Concert Fan</role>
+		</credit>
+		<credit>
+			<actor>Savanna Renee</actor>
+			<role>Emo Senior Student</role>
+		</credit>
+		<credit>
+			<actor>Emily Towles</actor>
+			<role>Bohemian Girl</role>
+		</credit>
+		<credit>
+			<actor>Montserrat Espadalé</actor>
+			<role>Mrs. Shockley</role>
+		</credit>
+		<credit>
+			<actor>Boston Pierce</actor>
+			<role>Young Josh</role>
+		</credit>
+		<credit>
+			<actor>Josh Rhett Noble</actor>
+			<role>Homeless Jared</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 28 2020</releasedate>
+		<releasedate country="United States">September 24 2021</releasedate>
+		<releasedate country="Germany">May 7 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>school</keyword>
+	</keywords>
+	<directors>
+		<director> David Henrie</director>
+	</directors>
+	<composers>
+		<composer> Benjamin Zecker</composer>
+	</composers>
+	<producers>
+		<producer> Ray Bradley</producer>
+		<producer> Gregg Christie</producer>
+		<producer> Doug Coupe</producer>
+		<producer> Denis J. Gallagher</producer>
+		<producer> Joe Gawalis</producer>
+		<producer> David Gendron</producer>
+		<producer> Ron Goleman</producer>
+		<producer> Selena Gomez</producer>
+		<producer> Bug Hall</producer>
+		<producer> Patrick Heaphy</producer>
+		<producer> James Henrie</producer>
+		<producer> Stefan Jacobs</producer>
+		<producer> Scott Katzman</producer>
+		<producer> John Kingston</producer>
+		<producer> Nick Logan</producer>
+		<producer> Frankie Manes</producer>
+		<producer> Luca Matrundola</producer>
+		<producer> Katharine McKenny</producer>
+		<producer> Chris Mullinax</producer>
+		<producer> David E. Ornston</producer>
+		<producer> Pepe Portillo</producer>
+		<producer> Luca Riemma</producer>
+		<producer> Gerri Rothschild</producer>
+		<producer> Philip Sarnecki</producer>
+		<producer> Leo Severino</producer>
+		<producer> Gregg Sulkin</producer>
+		<producer> Jason Weinberg</producer>
+	</producers>
+	<writers>
+		<writer> Sienna Aquilini</writer>
+		<writer> Bug Hall</writer>
+		<writer> David Henrie</writer>
+		<writer> Pepe Portillo</writer>
+	</writers>
+	<editors>
+		<editor> Marcus Heleker</editor>
+		<editor> Pepe Portillo</editor>
+	</editors>
+</doc>

@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<doc id="tt12753120">
+	<docid>tt12753120</docid>
+	<title>North Sea</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDI0ZGMxNzctNDdhOS00MjUyLTk0MzUtMjkyYjAwNGM5Y2Q5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">104</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An oil platform dramatically goes down on the Norwegian coast, and researchers try to find out what happened when they realize this is just the start of something even more serious.</plot>
+	<countries>
+		<country>Norway</country>
+	</countries>
+	<languages>
+		<language>Norwegian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kristine Kujath Thorp</actor>
+			<role>Sofia</role>
+		</credit>
+		<credit>
+			<actor>Henrik Bjelland</actor>
+			<role>Stian</role>
+		</credit>
+		<credit>
+			<actor>Rolf Kristian Larsen</actor>
+			<role>Arthur</role>
+		</credit>
+		<credit>
+			<actor>Anders Baasmo</actor>
+			<role>Ronny</role>
+		</credit>
+		<credit>
+			<actor>Bjørn Floberg</actor>
+			<role>William Lie</role>
+		</credit>
+		<credit>
+			<actor>Anneke von der Lippe</actor>
+			<role>Gunn</role>
+		</credit>
+		<credit>
+			<actor>Christoffer Staib</actor>
+			<role>Steiner Skagemo</role>
+		</credit>
+		<credit>
+			<actor>Ane Skumsvoll</actor>
+			<role>Berit</role>
+		</credit>
+		<credit>
+			<actor>Cengiz Al</actor>
+			<role>Jasin</role>
+		</credit>
+		<credit>
+			<actor>Nils Elias Olsen</actor>
+			<role>Odin</role>
+		</credit>
+		<credit>
+			<actor>Daniel Frikstad</actor>
+			<role>Trapped man</role>
+		</credit>
+		<credit>
+			<actor>Camilla Gullbrekken</actor>
+			<role>Sykepleier</role>
+		</credit>
+		<credit>
+			<actor>Halfdan Hallseth</actor>
+			<role>Oil rig worker</role>
+		</credit>
+		<credit>
+			<actor>Renate Hellerud</actor>
+			<role>Renate</role>
+		</credit>
+		<credit>
+			<actor>Karina Knight</actor>
+			<role>Political Counselor</role>
+		</credit>
+		<credit>
+			<actor>Hibba Najeeb</actor>
+			<role>Security Guard</role>
+		</credit>
+		<credit>
+			<actor>Amy Black Ndiaye</actor>
+			<role>Secretary of State</role>
+		</credit>
+		<credit>
+			<actor>Mariann Rostøl</actor>
+			<role>Vibeke</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">October 18 2021</releasedate>
+		<releasedate country="Norway">October 29 2021</releasedate>
+		<releasedate country="Taiwan">December 10 2021</releasedate>
+		<releasedate country="Netherlands">February 24 2022</releasedate>
+		<releasedate country="Spain">February 25 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">UA 16+</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Taiwan">P</certificate>
+		<certificate country="United States">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>catastrophe</keyword>
+		<keyword>danger</keyword>
+		<keyword>disaster film</keyword>
+		<keyword>north sea</keyword>
+		<keyword>oil field</keyword>
+		<keyword>oil rig</keyword>
+		<keyword>offshore platform</keyword>
+		<keyword>environmental catastrophe</keyword>
+		<keyword>ocean</keyword>
+		<keyword>ocean floor</keyword>
+		<keyword>sea</keyword>
+		<keyword>submarine</keyword>
+		<keyword>rescue</keyword>
+		<keyword>cardinal direction in title</keyword>
+		<keyword>apocalyptic event</keyword>
+	</keywords>
+	<directors>
+		<director> John Andreas Andersen</director>
+	</directors>
+	<composers>
+		<composer> Johannes Ringen</composer>
+		<composer> Johan Söderqvist</composer>
+	</composers>
+	<producers>
+		<producer> Therese Bøhn</producer>
+		<producer> Gary Cranner</producer>
+		<producer> Bjørn Fjærestad</producer>
+		<producer> Catrin Gundersen</producer>
+		<producer> Thea Benedikte Kevin Karlsen</producer>
+		<producer> Jan Eirik Langoen</producer>
+		<producer> Olav Mellgren</producer>
+		<producer> Martin Sundland</producer>
+		<producer> Magnus Thomassen</producer>
+	</producers>
+	<writers>
+		<writer> Harald Rosenløw-Eeg</writer>
+		<writer> Lars Gudmestad</writer>
+	</writers>
+	<editors>
+		<editor> Kalle Doniselli Gulbrandsen</editor>
+		<editor> Christian Siebenherz</editor>
+	</editors>
+</doc>

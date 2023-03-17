@@ -1,0 +1,541 @@
+<?xml version="1.0" ?>
+<doc id="tt4094724">
+	<docid>tt4094724</docid>
+	<title>The Purge: Election Year</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI3MDI0MTA1N15BMl5BanBnXkFtZTgwOTk4NjU5ODE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Former Police Sergeant Barnes becomes head of security for Senator Charlie Roan, a Presidential candidate targeted for death on Purge night due to her vow to eliminate the Purge.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Frank Grillo</actor>
+			<role>Leo Barnes</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Mitchell</actor>
+			<role>Senator Charlie Roan</role>
+		</credit>
+		<credit>
+			<actor>Mykelti Williamson</actor>
+			<role>Joe Dixon</role>
+		</credit>
+		<credit>
+			<actor>J.J. Soria</actor>
+			<role>Marcos</role>
+		</credit>
+		<credit>
+			<actor>Betty Gabriel</actor>
+			<role>Laney Rucker</role>
+		</credit>
+		<credit>
+			<actor>Terry Serpico</actor>
+			<role>Earl Danzinger</role>
+		</credit>
+		<credit>
+			<actor>Edwin Hodge</actor>
+			<role>Dante Bishop</role>
+		</credit>
+		<credit>
+			<actor>Kyle Secor</actor>
+			<role>Minister Edwidge Owens</role>
+		</credit>
+		<credit>
+			<actor>Barry Nolan</actor>
+			<role>Reporter #1</role>
+		</credit>
+		<credit>
+			<actor>Liza Colón-Zayas</actor>
+			<role>Dawn</role>
+		</credit>
+		<credit>
+			<actor>Ethan Phillips</actor>
+			<role>Chief Couper</role>
+		</credit>
+		<credit>
+			<actor>Adam Cantor</actor>
+			<role>Tall Eric Busmalis</role>
+		</credit>
+		<credit>
+			<actor>Christopher James Baker</actor>
+			<role>Harmon James</role>
+		</credit>
+		<credit>
+			<actor>Jared Kemp</actor>
+			<role>Rondo</role>
+		</credit>
+		<credit>
+			<actor>Brittany Mirabile</actor>
+			<role>Schoolgirl #1 Freakbride</role>
+		</credit>
+		<credit>
+			<actor>Raymond J. Barry</actor>
+			<role>Leader Caleb Warrens</role>
+		</credit>
+		<credit>
+			<actor>Naeem Duren</actor>
+			<role>Rev w</role>
+		</credit>
+		<credit>
+			<actor>Naheem Garcia</actor>
+			<role>Angel Munoz</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Belgium">June 29 2016</releasedate>
+		<releasedate country="Cambodia">June 30 2016</releasedate>
+		<releasedate country="Slovenia">June 30 2016</releasedate>
+		<releasedate country="Canada">July 1 2016</releasedate>
+		<releasedate country="Estonia">July 1 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12 avec avertissement</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">18</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R15+</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Malaysia">18</certificate>
+		<certificate country="Mexico">B-15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-16</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-18</certificate>
+		<certificate country="Thailand">18</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+		<certificate country="Vietnam">(Banned)</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+		<keyword>showdown</keyword>
+		<keyword>church</keyword>
+		<keyword>female senator</keyword>
+		<keyword>female politician</keyword>
+		<keyword>politics</keyword>
+		<keyword>cathedral</keyword>
+		<keyword>minister</keyword>
+		<keyword>presidential election</keyword>
+		<keyword>reference to george washington</keyword>
+		<keyword>bound and gagged</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>female president</keyword>
+		<keyword>u.s. senator</keyword>
+		<keyword>political campaign</keyword>
+		<keyword>political party</keyword>
+		<keyword>presidential candidate</keyword>
+		<keyword>political election</keyword>
+		<keyword>political opponent</keyword>
+		<keyword>political race</keyword>
+		<keyword>corrupt politician</keyword>
+		<keyword>corrupt minister</keyword>
+		<keyword>abuse of power</keyword>
+		<keyword>u.s. presidential campaign</keyword>
+		<keyword>election</keyword>
+		<keyword>revenge</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>political corruption</keyword>
+		<keyword>social decay</keyword>
+		<keyword>tied feet</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>shootout</keyword>
+		<keyword>drone</keyword>
+		<keyword>tracking device</keyword>
+		<keyword>deli</keyword>
+		<keyword>survival</keyword>
+		<keyword>sequel</keyword>
+		<keyword>violence</keyword>
+		<keyword>tied to a chair</keyword>
+		<keyword>ritual sacrifice</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>shootout in a church</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>washington monument washington d.c.</keyword>
+		<keyword>male and female protagonists</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>four word title</keyword>
+		<keyword>political debate</keyword>
+		<keyword>political poll</keyword>
+		<keyword>political power</keyword>
+		<keyword>political candidate</keyword>
+		<keyword>political leader</keyword>
+		<keyword>political rival</keyword>
+		<keyword>political opposition</keyword>
+		<keyword>political division</keyword>
+		<keyword>political uprising</keyword>
+		<keyword>political execution</keyword>
+		<keyword>political upheaval</keyword>
+		<keyword>political strife</keyword>
+		<keyword>founding fathers</keyword>
+		<keyword>founding fathers of america</keyword>
+		<keyword>knife held to throat</keyword>
+		<keyword>self defense</keyword>
+		<keyword>self justice</keyword>
+		<keyword>gun</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>injured man</keyword>
+		<keyword>wounded man</keyword>
+		<keyword>murder spree</keyword>
+		<keyword>sadistic violence</keyword>
+		<keyword>absurd violence</keyword>
+		<keyword>violence in america</keyword>
+		<keyword>violent death</keyword>
+		<keyword>glamorized violence</keyword>
+		<keyword>senseless killing</keyword>
+		<keyword>turning the tables</keyword>
+		<keyword>escape hatch</keyword>
+		<keyword>masked intruder</keyword>
+		<keyword>florida</keyword>
+		<keyword>mayhem</keyword>
+		<keyword>new founding fathers of america</keyword>
+		<keyword>lawlessness</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>riot</keyword>
+		<keyword>wound</keyword>
+		<keyword>the purge</keyword>
+		<keyword>night</keyword>
+		<keyword>senator</keyword>
+		<keyword>mission</keyword>
+		<keyword>sniper</keyword>
+		<keyword>anarchy</keyword>
+		<keyword>ritual</keyword>
+		<keyword>russian</keyword>
+		<keyword>threat</keyword>
+		<keyword>tourist</keyword>
+		<keyword>death</keyword>
+		<keyword>overalls</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>detonator</keyword>
+		<keyword>manhunt</keyword>
+		<keyword>bullet time</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>friendship</keyword>
+		<keyword>rebel</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>map</keyword>
+		<keyword>shot through a window</keyword>
+		<keyword>hotwiring</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>beating</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>duct tape</keyword>
+		<keyword>one man army</keyword>
+		<keyword>protector</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>interracial friendship</keyword>
+		<keyword>texting</keyword>
+		<keyword>race relations</keyword>
+		<keyword>exploitation</keyword>
+		<keyword>wristwatch</keyword>
+		<keyword>self mutilation</keyword>
+		<keyword>bullet wound</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>panic</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>suspense</keyword>
+		<keyword>hatred</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>sadism</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>evil man</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>face mask</keyword>
+		<keyword>tragic past</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>whistling</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>juvenile delinquent</keyword>
+		<keyword>emergency broadcast system</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>barricade</keyword>
+		<keyword>security camera</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>parking garage</keyword>
+		<keyword>aid worker</keyword>
+		<keyword>class differences</keyword>
+		<keyword>urban setting</keyword>
+		<keyword>lincoln memorial</keyword>
+		<keyword>beer</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>action hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>massacre</keyword>
+		<keyword>drug addict</keyword>
+		<keyword>preacher</keyword>
+		<keyword>priest</keyword>
+		<keyword>ethnic slur</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>product placement</keyword>
+		<keyword>attempted robbery</keyword>
+		<keyword>ghetto</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>near future</keyword>
+		<keyword>happy ending</keyword>
+		<keyword>cynicism</keyword>
+		<keyword>hope</keyword>
+		<keyword>neo fascism</keyword>
+		<keyword>press conference</keyword>
+		<keyword>airport</keyword>
+		<keyword>flashback</keyword>
+		<keyword>deception</keyword>
+		<keyword>escape</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>hostage</keyword>
+		<keyword>prologue</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>brutality</keyword>
+		<keyword>ipod</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>death of family</keyword>
+		<keyword>photograph</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>assassination plot</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>butterfly knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>insanity</keyword>
+		<keyword>south african</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>garbage truck</keyword>
+		<keyword>truck</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>brainwashing</keyword>
+		<keyword>politician</keyword>
+		<keyword>political conspiracy</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>resistance fighter</keyword>
+		<keyword>resistance</keyword>
+		<keyword>secret tunnel</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>white supremacist</keyword>
+		<keyword>helmet</keyword>
+		<keyword>commando raid</keyword>
+		<keyword>commando unit</keyword>
+		<keyword>commando</keyword>
+		<keyword>special forces</keyword>
+		<keyword>mace</keyword>
+		<keyword>van</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>crushed to death</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>gatling gun</keyword>
+		<keyword>silencer</keyword>
+		<keyword>dual wield</keyword>
+		<keyword>rifle</keyword>
+		<keyword>revolver</keyword>
+		<keyword>street fight</keyword>
+		<keyword>axe</keyword>
+		<keyword>sword</keyword>
+		<keyword>machete</keyword>
+		<keyword>fire</keyword>
+		<keyword>montage</keyword>
+		<keyword>severed head</keyword>
+		<keyword>hanged body</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>person on fire</keyword>
+		<keyword>burning body</keyword>
+		<keyword>chase</keyword>
+		<keyword>street shootout</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>mexican standoff</keyword>
+		<keyword>combat</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fight</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>skinhead</keyword>
+		<keyword>race against time</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>chaos</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>shot in the throat</keyword>
+		<keyword>shot in the neck</keyword>
+		<keyword>gun fu</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>stabbed in the arm</keyword>
+		<keyword>stabbed in the neck</keyword>
+		<keyword>stabbed in the throat</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>pendulum</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>rescue</keyword>
+		<keyword>african american</keyword>
+		<keyword>on the run</keyword>
+		<keyword>american flag</keyword>
+		<keyword>hit in the groin</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>knife fight</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>returning character killed off</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>crushed by a car</keyword>
+		<keyword>car crash</keyword>
+		<keyword>tunnel</keyword>
+		<keyword>paramedic</keyword>
+		<keyword>writing in blood</keyword>
+		<keyword>ambush</keyword>
+		<keyword>gang member</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>hit by a van</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>chainsaw</keyword>
+		<keyword>gang</keyword>
+		<keyword>taser</keyword>
+		<keyword>neo nazi</keyword>
+		<keyword>mexican</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>guillotine</keyword>
+		<keyword>trap</keyword>
+		<keyword>corpse</keyword>
+		<keyword>arrow through the head</keyword>
+		<keyword>explosion</keyword>
+		<keyword>bomb</keyword>
+		<keyword>stabbed to death</keyword>
+		<keyword>stabbed in the face</keyword>
+		<keyword>stabbed in the back</keyword>
+		<keyword>stabbed in the chest</keyword>
+		<keyword>hanged man</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>knife</keyword>
+		<keyword>masked woman</keyword>
+		<keyword>masked man</keyword>
+		<keyword>costume</keyword>
+		<keyword>schoolgirl uniform</keyword>
+		<keyword>shoplifting</keyword>
+		<keyword>convenience store</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>gore</keyword>
+		<keyword>news report</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>militia</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>corruption</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>murder of a family</keyword>
+		<keyword>mass murder</keyword>
+		<keyword>written by director</keyword>
+		<keyword>third part</keyword>
+		<keyword>blood</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>aerial camera shot</keyword>
+	</keywords>
+	<directors>
+		<director> James DeMonaco</director>
+	</directors>
+	<composers>
+		<composer> Nathan Whitehead</composer>
+	</composers>
+	<producers>
+		<producer> Michael Bay</producer>
+		<producer> Jason Blum</producer>
+		<producer> Phillip Dawe</producer>
+		<producer> Luc Etienne</producer>
+		<producer> Andrew Form</producer>
+		<producer> Brad Fuller</producer>
+		<producer> Sébastien K. Lemercier</producer>
+		<producer> Couper Samuelson</producer>
+		<producer> Jeanette Volturno</producer>
+	</producers>
+	<writers>
+		<writer> James DeMonaco</writer>
+	</writers>
+	<editors>
+		<editor> Todd E. Miller</editor>
+	</editors>
+</doc>

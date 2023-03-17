@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc id="tt13610158">
+	<docid>tt13610158</docid>
+	<title>The Harbinger</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDJkNmY2YzQtYjVmNC00ODI0LThhM2ItYzc1MjI4NzM5MzYyXkEyXkFqcGdeQXVyMjIwMTIyNTA@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>II 2022</year>
+	<runningtimes>
+		<runningtime country="default">87</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Monique ventures out of quarantine to visit an old friend who's plagued by nightmares. She finds herself drawn into a hellish dreamscape where she must face her greatest fears - or risk never having existed at all.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Emily Davis</actor>
+			<role>Mavis</role>
+		</credit>
+		<credit>
+			<actor>Gabby Beans</actor>
+			<role>Monique</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Roth Haberle</actor>
+			<role>Crystal</role>
+		</credit>
+		<credit>
+			<actor>Raymond Anthony Thomas</actor>
+			<role>Ronald</role>
+		</credit>
+		<credit>
+			<actor>Laura Heisler</actor>
+			<role>Wendy</role>
+		</credit>
+		<credit>
+			<actor>Cody Braverman</actor>
+			<role>Edward</role>
+		</credit>
+		<credit>
+			<actor>Candyce Adkins</actor>
+			<role>Policewoman</role>
+		</credit>
+		<credit>
+			<actor>Anita Moreno</actor>
+			<role>Crying Girl 1</role>
+		</credit>
+		<credit>
+			<actor>Richard W. King</actor>
+			<role>Dead Man</role>
+		</credit>
+		<credit>
+			<actor>Jay Dunn</actor>
+			<role>Jason</role>
+		</credit>
+		<credit>
+			<actor>Myles Walker</actor>
+			<role>Lyle</role>
+		</credit>
+		<credit>
+			<actor>Joelle Woodson</actor>
+			<role>Crying Girl 2</role>
+		</credit>
+		<credit>
+			<actor>Mwape Sokoni</actor>
+			<role>Young Monique</role>
+		</credit>
+		<credit>
+			<actor>Qiana Watson</actor>
+			<role>Monique's Mom</role>
+		</credit>
+		<credit>
+			<actor>Rachel Braverman</actor>
+			<role>Edward's Mom</role>
+		</credit>
+		<credit>
+			<actor>Mal Mitton</actor>
+			<role>Preschooler 1</role>
+		</credit>
+		<credit>
+			<actor>Asa Mitton</actor>
+			<role>Preschooler 2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">July 20 2022</releasedate>
+		<releasedate country="United Kingdom">August 26 2022</releasedate>
+		<releasedate country="United Kingdom">October 9 2022</releasedate>
+		<releasedate country="Spain">October 14 2022</releasedate>
+		<releasedate country="United States">October 14 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Andy Mitton</director>
+	</directors>
+	<composers>
+		<composer> Andy Mitton</composer>
+	</composers>
+	<producers>
+		<producer> Alvaro Baquero Benedetti</producer>
+		<producer> Jay Dunn</producer>
+		<producer> Cassidy Freeman</producer>
+		<producer> Clark Freeman</producer>
+		<producer> Lee Freeman</producer>
+		<producer> Ellen King</producer>
+		<producer> Jack King</producer>
+		<producer> Richard W. King</producer>
+		<producer> Michael Klong</producer>
+		<producer> Andy Lazarus</producer>
+		<producer> Andy Mitton</producer>
+		<producer> Sarah Mulholland</producer>
+	</producers>
+	<writers>
+		<writer> Andy Mitton</writer>
+	</writers>
+	<editors>
+		<editor> Andy Mitton</editor>
+	</editors>
+</doc>

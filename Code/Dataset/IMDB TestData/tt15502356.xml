@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<doc id="tt15502356">
+	<docid>tt15502356</docid>
+	<title>Family Dinner</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzU2YjcwMzYtMmU1NC00NWM2LWJiN2QtOGYxZjJiYTE0OTcxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>I 2022</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>An overweight teenager spends the holidays at her aunt's farm in the hope of getting help to lose weight, but soon after her arrival, she begins to suspect that something is very wrong at this place.</plot>
+	<countries>
+		<country>Austria</country>
+	</countries>
+	<languages>
+		<language>German</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Pia Hierzegger</actor>
+			<role>Claudia</role>
+		</credit>
+		<credit>
+			<actor>Michael Pink</actor>
+			<role>Stefan</role>
+		</credit>
+		<credit>
+			<actor>Nina Katlein</actor>
+			<role>Simi</role>
+		</credit>
+		<credit>
+			<actor>Alexander Sladek</actor>
+			<role>Filipp</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">June 10 2022</releasedate>
+		<releasedate country="Australia">June 14 2022</releasedate>
+		<releasedate country="Switzerland">July 1 2022</releasedate>
+		<releasedate country="South Korea">July 8 2022</releasedate>
+		<releasedate country="Germany">September 7 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>psychological drama</keyword>
+		<keyword>psychological horror</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>teenager</keyword>
+	</keywords>
+	<directors>
+		<director> Peter Hengl</director>
+	</directors>
+	<composers>
+		<composer> Peter Kutin</composer>
+	</composers>
+	<producers>
+		<producer> Lola Basara</producer>
+		<producer> Alexander Glehr</producer>
+		<producer> Annick Mahnert</producer>
+		<producer> Johanna Scherz</producer>
+		<producer> Ant Timpson</producer>
+	</producers>
+	<writers>
+		<writer> Peter Hengl</writer>
+		<writer> Onur Özcan</writer>
+	</writers>
+	<editors>
+		<editor> Sebastian Schreiner</editor>
+	</editors>
+</doc>

@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<doc id="tt10339052">
+	<docid>tt10339052</docid>
+	<title>Best Sellers</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzU4ZWVmNjQtYThmMy00ZDc5LWJjNDEtY2IxOWZjYTdiMjZjXkEyXkFqcGdeQXVyMjExOTQ2MTk@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A cranky, retired author reluctantly embarks on a final book tour to help out a young publisher.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Michael Caine</actor>
+			<role>Harris Shaw</role>
+		</credit>
+		<credit>
+			<actor>Aubrey Plaza</actor>
+			<role>Lucy Stanbridge</role>
+		</credit>
+		<credit>
+			<actor>Scott Speedman</actor>
+			<role>Jack Sinclair</role>
+		</credit>
+		<credit>
+			<actor>Ellen Wong</actor>
+			<role>Rachel Spence</role>
+		</credit>
+		<credit>
+			<actor>Cary Elwes</actor>
+			<role>Halpern Nolan</role>
+		</credit>
+		<credit>
+			<actor>Luc Morissette</actor>
+			<role>Joseph Stanbridge</role>
+		</credit>
+		<credit>
+			<actor>Veronica Ferres</actor>
+			<role>Drew Davis</role>
+		</credit>
+		<credit>
+			<actor>Frank Schorpion</actor>
+			<role>Phil Rosen</role>
+		</credit>
+		<credit>
+			<actor>Florence Situ</actor>
+			<role>Dr. Chen</role>
+		</credit>
+		<credit>
+			<actor>Philip Le Maistre</actor>
+			<role>Verne Olson</role>
+		</credit>
+		<credit>
+			<actor>Linda Joyce Nourse</actor>
+			<role>Sister France</role>
+		</credit>
+		<credit>
+			<actor>Sebree Laurie</actor>
+			<role>Hipster - Lizard Lounge</role>
+		</credit>
+		<credit>
+			<actor>Briauna James</actor>
+			<role>Waitress</role>
+		</credit>
+		<credit>
+			<actor>Charli Birdgenaw</actor>
+			<role>Teen Reviewer</role>
+		</credit>
+		<credit>
+			<actor>Massimo Diem</actor>
+			<role>Tattooed Kid</role>
+		</credit>
+		<credit>
+			<actor>Sofia Timotheatos</actor>
+			<role>Tween Girl</role>
+		</credit>
+		<credit>
+			<actor>Thomas Niles</actor>
+			<role>Earnest Manager</role>
+		</credit>
+		<credit>
+			<actor>Brandon Lorimer</actor>
+			<role>Bro Stoner</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">August 7 2021</releasedate>
+		<releasedate country="Czech Republic">August 21 2021</releasedate>
+		<releasedate country="Greece">September 9 2021</releasedate>
+		<releasedate country="Turkey">September 10 2021</releasedate>
+		<releasedate country="Canada">September 17 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>book</keyword>
+		<keyword>literature</keyword>
+		<keyword>old age</keyword>
+	</keywords>
+	<directors>
+		<director> Lina Roessler</director>
+	</directors>
+	<composers>
+		<composer> Paul Leonard-Morgan</composer>
+	</composers>
+	<producers>
+		<producer> Hussain Amarshi</producer>
+		<producer> Sashi Arnold</producer>
+		<producer> Paul-E. Audet</producer>
+		<producer> Martin J. Barab</producer>
+		<producer> Kevin Bernhardt</producer>
+		<producer> Justine Chevarie-Cossette</producer>
+		<producer> Nicki Cortese</producer>
+		<producer> Mark Damon</producer>
+		<producer> Arielle Elwes</producer>
+		<producer> Cassian Elwes</producer>
+		<producer> Pierre Even</producer>
+		<producer> Jeannette Garcia</producer>
+		<producer> Wayne Marc Godfrey</producer>
+		<producer> Adam Goldworm</producer>
+		<producer> Ginette Guillard</producer>
+		<producer> Jere Hausfater</producer>
+		<producer> Petr Jákl</producer>
+		<producer> Joe Sisto</producer>
+		<producer> Jonathan Vanger</producer>
+		<producer> Tom Vanger</producer>
+	</producers>
+	<writers>
+		<writer> Anthony Grieco</writer>
+	</writers>
+	<editors>
+		<editor> Arthur Tarnowski</editor>
+	</editors>
+</doc>

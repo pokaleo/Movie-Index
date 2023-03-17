@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc id="tt15340998">
+	<docid>tt15340998</docid>
+	<title>Vedha</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODZiODIyOTctZjBjNC00YzYzLTlhOTUtZGFmN2U5ZTQ2N2RiXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_QL75_UX190_CR0,28,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">156</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Vedha and his daughter Kanaka are on a killing spree. They are being chased by a cop Rama, but they always manage to escape in the nick of time. Can Rama stop the killings?</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Kannada</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Shivarajkumar</actor>
+			<role>Vedha</role>
+		</credit>
+		<credit>
+			<actor>Veena Ponnappa</actor>
+			<role>Ramaa</role>
+		</credit>
+		<credit>
+			<actor>Ganavi Laxman</actor>
+			<role>Pushpa</role>
+		</credit>
+		<credit>
+			<actor>Vaibhav Gohil</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Umashree</actor>
+			<role>Shankri</role>
+		</credit>
+		<credit>
+			<actor>Aditi Sagar</actor>
+			<role>Kanaka</role>
+		</credit>
+		<credit>
+			<actor>Shwetha Chengappa</actor>
+			<role>Paari</role>
+		</credit>
+		<credit>
+			<actor>Kuri Prathap</actor>
+			<role>Bus Conductor</role>
+		</credit>
+		<credit>
+			<actor>Cheluvaraj</actor>
+			<role>Beera</role>
+		</credit>
+		<credit>
+			<actor>Bharath Sagar</actor>
+			<role>Rudra</role>
+		</credit>
+		<credit>
+			<actor>Raghu Shivamogga</actor>
+			<role>Daya</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="India">December 23 2022</releasedate>
+		<releasedate country="India">February 9 2023</releasedate>
+		<releasedate country="United Arab Emirates">February 10 2023</releasedate>
+		<releasedate country="India">February 10 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="India">UA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>revenge</keyword>
+	</keywords>
+	<directors>
+		<director> Harsha</director>
+	</directors>
+	<composers>
+		<composer> Arjun Janya</composer>
+	</composers>
+	<producers>
+		<producer> Geetha Shivarajkumar</producer>
+	</producers>
+	<writers>
+		<writer> Harsha</writer>
+	</writers>
+	<editors>
+		<editor> Deepu S. Kumar</editor>
+	</editors>
+</doc>

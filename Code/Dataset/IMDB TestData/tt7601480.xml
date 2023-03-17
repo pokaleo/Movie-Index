@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<doc id="tt7601480">
+	<docid>tt7601480</docid>
+	<title>Major Grom: Plague Doctor</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDY2Mzk1NjgtOGM2My00Yzc0LTljOWUtM2U2MWUzYTA4MzlmXkEyXkFqcGdeQXVyMjUwNjY5MzA@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">136</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>Supercop Grom fights crime in St. Petersburg - an uphill battle. A vigilante starts killing the powerful, who escaped justice.</plot>
+	<countries>
+		<country>Russia</country>
+	</countries>
+	<languages>
+		<language>Russian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Tikhon Zhiznevskiy</actor>
+			<role>Igor Grom</role>
+		</credit>
+		<credit>
+			<actor>Lyubov Aksyonova</actor>
+			<role>Yulia Pchelkina</role>
+		</credit>
+		<credit>
+			<actor>Sergei Goroshko</actor>
+			<role>Sergey Razumovskiy</role>
+		</credit>
+		<credit>
+			<actor>Aleksey Maklakov</actor>
+			<role>Fyodor Prokopenko</role>
+		</credit>
+		<credit>
+			<actor>Alexander Seteykin</actor>
+			<role>Dima Dubin</role>
+		</credit>
+		<credit>
+			<actor>Dmitriy Chebotarev</actor>
+			<role>Oleg Volkov</role>
+		</credit>
+		<credit>
+			<actor>Mikhail Evlanov</actor>
+			<role>Evgeniy Strelkov</role>
+		</credit>
+		<credit>
+			<actor>Oleg Chugunov</actor>
+			<role>Aleksey Makarov</role>
+		</credit>
+		<credit>
+			<actor>Vitaliy Khaev</actor>
+			<role>Albert Bekhtiev</role>
+		</credit>
+		<credit>
+			<actor>Kyivstoner</actor>
+			<role>Buster Ignat</role>
+		</credit>
+		<credit>
+			<actor>Yuliya Parshuta</actor>
+			<role>Anna Terebkina</role>
+		</credit>
+		<credit>
+			<actor>Anton Bogdanov</actor>
+			<role>Glavar</role>
+		</credit>
+		<credit>
+			<actor>Nikita Kologrivyy</actor>
+			<role>Psikh</role>
+		</credit>
+		<credit>
+			<actor>Oysel More Despaygne</actor>
+			<role>Gromila</role>
+		</credit>
+		<credit>
+			<actor>Daniil Steklov</actor>
+			<role>Konstantin Tsvetkov</role>
+		</credit>
+		<credit>
+			<actor>Aleksandra Veleskevich</actor>
+			<role>Kseniya Zaytseva</role>
+		</credit>
+		<credit>
+			<actor>Yakov Shamshin</actor>
+			<role>Lider Posledovateley</role>
+		</credit>
+		<credit>
+			<actor>Yuriy Nasonov</actor>
+			<role>Kirill Grechkin</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Russia">April 8 2021</releasedate>
+		<releasedate country="United Arab Emirates">May 5 2021</releasedate>
+		<releasedate country="Argentina">July 7 2021</releasedate>
+		<releasedate country="Australia">July 7 2021</releasedate>
+		<releasedate country="Brazil">July 7 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">13</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">13+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>plague doctor</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>superhero</keyword>
+		<keyword>superhero action</keyword>
+	</keywords>
+	<directors>
+		<director> Oleg Trofim</director>
+	</directors>
+	<composers>
+		<composer> Roman Selivyorstov</composer>
+	</composers>
+	<producers>
+		<producer> Vladimir Besedin</producer>
+		<producer> Evgeny Eronin</producer>
+		<producer> Olga Filipuk</producer>
+		<producer> Artyom Gabrelyanov</producer>
+		<producer> Michael Kitaev</producer>
+		<producer> Roman Kotkov</producer>
+		<producer> Elena Nelidova</producer>
+	</producers>
+	<writers>
+		<writer> Vladimir Besedin</writer>
+		<writer> Evgeny Eronin</writer>
+		<writer> Artyom Gabrelyanov</writer>
+		<writer> Aleksandr Kim</writer>
+		<writer> Roman Kotkov</writer>
+		<writer> Nikolay Titov</writer>
+		<writer> Oleg Trofim</writer>
+		<writer> Valentina Tronova</writer>
+	</writers>
+	<editors>
+		<editor> Yuriy Karikh</editor>
+	</editors>
+</doc>

@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc id="tt11518196">
+	<docid>tt11518196</docid>
+	<title>Battle Star Wars</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTI4ZjRmNjMtNzcyYy00YjgyLTlkNDItY2UzZTg3YjkzNTI1XkEyXkFqcGdeQXVyNDY2NzgwOTE@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">86</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>When the leader of the evil Coalition threatens to destroy a Rebel planet for its resources, his daughter will have no choice but to join the Rebel side and fight for what is right.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby SR</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Alyson Gorske</actor>
+			<role>Astera Malaster</role>
+		</credit>
+		<credit>
+			<actor>Aimee Stolte</actor>
+			<role>Ajax</role>
+		</credit>
+		<credit>
+			<actor>Justin Berti</actor>
+			<role>Lord Malaster</role>
+		</credit>
+		<credit>
+			<actor>Benedikt Sebastian</actor>
+			<role>Denz</role>
+		</credit>
+		<credit>
+			<actor>Luke Fattorusso</actor>
+			<role>Corbryn Raystar</role>
+		</credit>
+		<credit>
+			<actor>Canyon Prince</actor>
+			<role>Zelus</role>
+		</credit>
+		<credit>
+			<actor>Alissa Filoramo</actor>
+			<role>Helper</role>
+		</credit>
+		<credit>
+			<actor>Ross Forte</actor>
+			<role>Novak</role>
+		</credit>
+		<credit>
+			<actor>Mason Greer</actor>
+			<role>Trynn</role>
+		</credit>
+		<credit>
+			<actor>Jeremy M. Inman</actor>
+			<role>Twell</role>
+		</credit>
+		<credit>
+			<actor>Kate Watson</actor>
+			<role>EOS</role>
+		</credit>
+		<credit>
+			<actor>Pavel Bédi</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 28 2020</releasedate>
+		<releasedate country="United States">January 28 2020</releasedate>
+		<releasedate country="Germany">March 20 2020</releasedate>
+		<releasedate country="Netherlands">March 26 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mockbuster</keyword>
+		<keyword>cgi</keyword>
+		<keyword>distant future</keyword>
+		<keyword>outer space</keyword>
+	</keywords>
+	<directors>
+		<director> James Thomas</director>
+	</directors>
+	<composers>
+		<composer> Christopher Cano</composer>
+		<composer> Mikel Shane Prather</composer>
+		<composer> Chris Ridenhour</composer>
+	</composers>
+	<producers>
+		<producer> Paul Bales</producer>
+		<producer> David Courtice</producer>
+		<producer> Jarrett Furst</producer>
+		<producer> David Michael Latt</producer>
+		<producer> David Rimawi</producer>
+	</producers>
+	<writers>
+		<writer> Jeremy M. Inman</writer>
+	</writers>
+	<editors>
+		<editor> James Thomas</editor>
+	</editors>
+</doc>

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<doc id="tt6769208">
+	<docid>tt6769208</docid>
+	<title>Blue Planet II</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDZiNDllMTAtOTgxZi00NzNiLWFhNzUtOGUwZWZjZGNjZTMyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">364</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>David Attenborough</actor>
+			<role>Self - Narrator</role>
+		</credit>
+		<credit>
+			<actor>Peter Drost</actor>
+			<role>Narrator: The Netherlands</role>
+		</credit>
+		<credit>
+			<actor>Roger Munns</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Roger Horrocks</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">October 29 2017</releasedate>
+		<releasedate country="Belgium">January 2 2018</releasedate>
+		<releasedate country="United States">January 20 2018</releasedate>
+		<releasedate country="Germany">February 19 2018</releasedate>
+		<releasedate country="Sweden">March 4 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sequel</keyword>
+		<keyword>numbered sequel</keyword>
+		<keyword>nature</keyword>
+		<keyword>nature documentary</keyword>
+		<keyword>marine biology</keyword>
+		<keyword>oceanography</keyword>
+		<keyword>environmental</keyword>
+		<keyword>ocean</keyword>
+		<keyword>astronomical object in title</keyword>
+		<keyword>color in title</keyword>
+		<keyword>roman numeral in title</keyword>
+		<keyword>color in series title</keyword>
+		<keyword>earth</keyword>
+		<keyword>sea</keyword>
+		<keyword>water</keyword>
+		<keyword>wildlife documentary</keyword>
+		<keyword>environmental documentary</keyword>
+		<keyword>documentary series</keyword>
+		<keyword>tv mini series</keyword>
+	</keywords>
+	<directors/>
+	<composers>
+		<composer> David Fleming</composer>
+		<composer> Jacob Shea</composer>
+		<composer> Hans Zimmer</composer>
+	</composers>
+	<producers>
+		<producer> Yoland Bosiger</producer>
+		<producer> Mark Brownlow</producer>
+		<producer> James Honeyborne</producer>
+		<producer> Jennifer Hile</producer>
+		<producer> Sarah Conner</producer>
+		<producer> David A. Ebert</producer>
+		<producer> Rachel Scott</producer>
+		<producer> Joe Treddenick</producer>
+		<producer> Miles Barton</producer>
+		<producer> Orla Doherty</producer>
+		<producer> Joseph Fenton</producer>
+		<producer> Sophie Morgan</producer>
+		<producer> Will Ridgeon</producer>
+		<producer> John Ruthven</producer>
+		<producer> Zeenat Shah</producer>
+		<producer> Jonathan Smith</producer>
+		<producer> Katrina Steele</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Matt Meech</editor>
+		<editor> Nigel Buck</editor>
+	</editors>
+</doc>

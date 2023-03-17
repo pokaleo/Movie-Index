@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<doc id="tt9095260">
+	<docid>tt9095260</docid>
+	<title>Criminal Justice</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjM1YWQzNjktYTAyYy00ZjU2LWJlNjMtZDM3OTM2MjQwYjQxXkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Hindi</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Vikrant Massey</actor>
+			<role>Aditya Sharma</role>
+		</credit>
+		<credit>
+			<actor>Pankaj Tripathi</actor>
+			<role>Madhav Mishra</role>
+		</credit>
+		<credit>
+			<actor>Rucha Inamdar</actor>
+			<role>Avni Sharma Parashar</role>
+		</credit>
+		<credit>
+			<actor>Jagat Rawat</actor>
+			<role>Diwakar Sharma</role>
+		</credit>
+		<credit>
+			<actor>Gaurav Dwivedi</actor>
+			<role>Gautam Parashar</role>
+		</credit>
+		<credit>
+			<actor>Hansa Singh</actor>
+			<role>Sharda</role>
+		</credit>
+		<credit>
+			<actor>Anupriya Goenka</actor>
+			<role>Nikhat Hussain</role>
+		</credit>
+		<credit>
+			<actor>Jackie Shroff</actor>
+			<role>Mustafa</role>
+		</credit>
+		<credit>
+			<actor>Pankaj Saraswat</actor>
+			<role>Raghu Salian</role>
+		</credit>
+		<credit>
+			<actor>Annapurna Bhairi</actor>
+			<role>Sujata Sharma</role>
+		</credit>
+		<credit>
+			<actor>Sanjay Gurbaxani</actor>
+			<role>Rustom Barucha</role>
+		</credit>
+		<credit>
+			<actor>Dibyendu Bhattacharya</actor>
+			<role>Layak Talukdar</role>
+		</credit>
+		<credit>
+			<actor>Tushar Gaware</actor>
+			<role>Taklya</role>
+		</credit>
+		<credit>
+			<actor>Rajgopal Iyer</actor>
+			<role>Namdeo Jadhav</role>
+		</credit>
+		<credit>
+			<actor>Madhurima Roy</actor>
+			<role>Sanaya Rath</role>
+		</credit>
+		<credit>
+			<actor>Gayatri Gauri</actor>
+			<role>Ronjona</role>
+		</credit>
+		<credit>
+			<actor>Anup Choudhary</actor>
+			<role>Santosh Amre</role>
+		</credit>
+		<credit>
+			<actor>Vishwa Bhanu</actor>
+			<role>Tiwari</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="India">January 2 2019</releasedate>
+		<releasedate country="India">April 5 2019</releasedate>
+		<releasedate country="Singapore">April 5 2019</releasedate>
+		<releasedate country="Australia">January 7 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="India">15+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>blood</keyword>
+		<keyword>murder</keyword>
+	</keywords>
+	<directors>
+		<director> Tigmanshu Dhulia</director>
+		<director> Vishal Furia</director>
+	</directors>
+	<composers>
+		<composer> Akdas Hayat</composer>
+	</composers>
+	<producers>
+		<producer> Myleeta Aga</producer>
+		<producer> Rajesh Chadha</producer>
+		<producer> Ishaan Chandhok</producer>
+		<producer> Sameer Nair</producer>
+		<producer> Utsab Nath</producer>
+		<producer> Anurag Pandey</producer>
+		<producer> Deepak Segal</producer>
+		<producer> Injeti Siddharth</producer>
+		<producer> Manish Singh</producer>
+		<producer> Dixitaa Thakar</producer>
+		<producer> Adib Malik</producer>
+		<producer> Siddharth Khaitan</producer>
+		<producer> Soniya Kulkarni</producer>
+		<producer> Shoeb Hussain</producer>
+		<producer> Percy Karkaria</producer>
+		<producer> Anindya Shankar Ray</producer>
+		<producer> Abhinav Pratap Singh</producer>
+		<producer> Anish Subramanian</producer>
+	</producers>
+	<writers>
+		<writer> Shridhar Raghavan</writer>
+		<writer> Shridhar Raghavan</writer>
+		<writer> Thirumagal Ramalingam</writer>
+		<writer> Mrittika Sarin</writer>
+		<writer> Sandhya Daisy Sundaram</writer>
+		<writer> Sandhya Daisy Sundaram</writer>
+		<writer> Anurag Pandey</writer>
+		<writer> Anukriti Pandey</writer>
+		<writer> Peter Moffat</writer>
+		<writer> Raghuvir Shekhawat</writer>
+	</writers>
+	<editors>
+		<editor> Abhijit Deshpande</editor>
+		<editor> Sourabh Prabhudesai</editor>
+		<editor> Raju Nikalje</editor>
+		<editor> Robin Sharma</editor>
+	</editors>
+</doc>

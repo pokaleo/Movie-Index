@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+<doc id="tt1710177">
+	<docid>tt1710177</docid>
+	<title>The Octonauts</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzY2M2E0N2MtZWI1Ni00YWYyLWFhOWQtYmMxZWE4NTc2YjUwXkEyXkFqcGdeQXVyNDE5Nzg5NDY@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">11</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>An intrepid band of explorers roam the oceans in search of adventure and fun. Led by a valiant polar bear and a daredevil kitten, these eight talented critters are always ready to embark on an exciting new mission.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ross Breen</actor>
+			<role>Captain Barnacles</role>
+		</credit>
+		<credit>
+			<actor>Keith Wickham</actor>
+			<role>Shellington</role>
+		</credit>
+		<credit>
+			<actor>Simon Greenall</actor>
+			<role>Captain Barnacles</role>
+		</credit>
+		<credit>
+			<actor>Jo Wyatt</actor>
+			<role>Tweak</role>
+		</credit>
+		<credit>
+			<actor>Rob Rackstraw</actor>
+			<role>Kwazii</role>
+		</credit>
+		<credit>
+			<actor>Teresa Gallagher</actor>
+			<role>Dashi</role>
+		</credit>
+		<credit>
+			<actor>Paul Panting</actor>
+			<role>Peso</role>
+		</credit>
+		<credit>
+			<actor>Michael Murphy</actor>
+			<role>Vegimals</role>
+		</credit>
+		<credit>
+			<actor>Mary Murphy</actor>
+			<role>Dashi</role>
+		</credit>
+		<credit>
+			<actor>Shelley Longworth</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Wayne Grayson</actor>
+			<role>Peso - US Version</role>
+		</credit>
+		<credit>
+			<actor>Steve Blum</actor>
+			<role>Supporting Cast (US)</role>
+		</credit>
+		<credit>
+			<actor>William Vanderpuye</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Jaimie Kelton</actor>
+			<role>Tweak (US)</role>
+		</credit>
+		<credit>
+			<actor>Gary Littman</actor>
+			<role>Additional Voices (US)</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">October 2010</releasedate>
+		<releasedate country="United Kingdom">October 4 2010</releasedate>
+		<releasedate country="Finland">July 7 2011</releasedate>
+		<releasedate country="Poland">June 27 2016</releasedate>
+		<releasedate country="Philippines">January 31 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="South Korea">7</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-Y</certificate>
+		<certificate country="United States">TV-Y7-FV</certificate>
+	</certificates>
+	<keywords>
+		<keyword>animated series</keyword>
+		<keyword>polar bear</keyword>
+		<keyword>penguin</keyword>
+		<keyword>kitten</keyword>
+		<keyword>aquatic ecology</keyword>
+		<keyword>sea creature</keyword>
+		<keyword>base</keyword>
+		<keyword>two word title</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>animal character</keyword>
+		<keyword>mission</keyword>
+		<keyword>octopus</keyword>
+		<keyword>captain</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>animal</keyword>
+		<keyword>friend</keyword>
+		<keyword>little</keyword>
+		<keyword>cat</keyword>
+		<keyword>smart</keyword>
+		<keyword>sea otter</keyword>
+		<keyword>rabbit</keyword>
+		<keyword>education</keyword>
+		<keyword>sea</keyword>
+		<keyword>exploration</keyword>
+		<keyword>technology</keyword>
+		<keyword>anthropomorphism</keyword>
+		<keyword>sea adventure</keyword>
+		<keyword>animals family</keyword>
+		<keyword>cg animation</keyword>
+	</keywords>
+	<directors>
+		<director> Darragh O'Connell</director>
+		<director> Nicky Phelan</director>
+	</directors>
+	<composers>
+		<composer> Darren Hendley</composer>
+	</composers>
+	<producers>
+		<producer> Adam Idelson</producer>
+		<producer> Jackie Edwards</producer>
+		<producer> Michael Murphy</producer>
+		<producer> Vicki Wong</producer>
+		<producer> Julie Abecassis</producer>
+		<producer> Theresa Mayer</producer>
+		<producer> Andrew Peters</producer>
+		<producer> Cathal Gaffney</producer>
+		<producer> Gillian Higgins</producer>
+		<producer> Karen Ialacci</producer>
+		<producer> Kurt Mueller</producer>
+		<producer> Darragh O'Connell</producer>
+		<producer> Stephanie Simpson</producer>
+	</producers>
+	<writers>
+		<writer> Vicki Wong</writer>
+		<writer> Adam Idelson</writer>
+		<writer> Adam Idelson</writer>
+		<writer> Billy Aronson</writer>
+		<writer> Billy Aronson</writer>
+		<writer> Cydne Clark</writer>
+		<writer> Cydne Clark</writer>
+		<writer> Myles McLeod</writer>
+		<writer> Myles McLeod</writer>
+		<writer> Glen Berger</writer>
+		<writer> Glen Berger</writer>
+		<writer> Ian Carney</writer>
+		<writer> Ian Carney</writer>
+		<writer> Cusi Cram</writer>
+		<writer> Cusi Cram</writer>
+		<writer> Sarah Durkee</writer>
+		<writer> Sarah Durkee</writer>
+		<writer> Steve Granat</writer>
+		<writer> Steve Granat</writer>
+		<writer> Dave Ingham</writer>
+		<writer> Dave Ingham</writer>
+		<writer> Catherine Lieuwen</writer>
+		<writer> Catherine Lieuwen</writer>
+		<writer> Stephanie Simpson</writer>
+		<writer> Stephanie Simpson</writer>
+		<writer> Gabe Pulliam</writer>
+		<writer> Gabe Pulliam</writer>
+		<writer> Gabe Pulliam</writer>
+		<writer> Gabe Pulliam</writer>
+		<writer> Allan Neuwirth</writer>
+		<writer> Allan Neuwirth</writer>
+		<writer> Allan Neuwirth</writer>
+		<writer> Carin Greenberg</writer>
+		<writer> Carin Greenberg</writer>
+		<writer> Carin Greenberg</writer>
+		<writer> Rich Fogel</writer>
+		<writer> Steve Clark</writer>
+		<writer> Sam Dransfield</writer>
+		<writer> Jimmy Hibbert</writer>
+		<writer> Raye Lankford</writer>
+		<writer> Davey Moore</writer>
+		<writer> Adam Peltzman</writer>
+		<writer> Nicky Phelan</writer>
+		<writer> Danny Stack</writer>
+		<writer> Dean Stefan</writer>
+		<writer> Sascha Paladino</writer>
+		<writer> Sascha Paladino</writer>
+		<writer> Jonathan Greenberg</writer>
+		<writer> Jonathan Greenberg</writer>
+		<writer> Peter K. Hirsch</writer>
+		<writer> Peter K. Hirsch</writer>
+		<writer> Susan Kim</writer>
+		<writer> Susan Kim</writer>
+		<writer> Michael Murphy</writer>
+		<writer> Ken Pontac</writer>
+		<writer> Ken Pontac</writer>
+		<writer> Kevin Burke</writer>
+		<writer> Kevin Burke</writer>
+		<writer> Nicole Dubuc</writer>
+		<writer> Nicole Dubuc</writer>
+		<writer> Mark Huckerby</writer>
+		<writer> Sam Morrison</writer>
+		<writer> Nick Ostler</writer>
+		<writer> Chris Wyatt</writer>
+		<writer> Chris Wyatt</writer>
+		<writer> Len Uhley</writer>
+		<writer> Gordon Bressack</writer>
+		<writer> Kevin Hopps</writer>
+	</writers>
+	<editors>
+		<editor> Damien O'Connor</editor>
+		<editor> Dominic Lawrence</editor>
+		<editor> Alan Moran</editor>
+		<editor> Seamus O'Toole</editor>
+	</editors>
+</doc>

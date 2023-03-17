@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<doc id="tt4600404">
+	<docid>tt4600404</docid>
+	<title>Modus</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTA1MTBlZGUtMjZjNy00MDczLTlmZTEtMGRhNTY1NDYwNmFmXkEyXkFqcGdeQXVyMjg2NTc5Ng@@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>During a snowy Christmas season in Sweden, psychologist and profiler Inger Johanne Vik and her autistic daughter both get drawn into the investigation of a number of disturbing deaths.</plot>
+	<countries>
+		<country>Sweden</country>
+	</countries>
+	<languages>
+		<language>Swedish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Melinda Kinnaman</actor>
+			<role>Inger Johanne Vik</role>
+		</credit>
+		<credit>
+			<actor>Henrik Norlén</actor>
+			<role>Ingvar Nyman</role>
+		</credit>
+		<credit>
+			<actor>Esmeralda Struwe</actor>
+			<role>Stina Vik</role>
+		</credit>
+		<credit>
+			<actor>Simon J. Berger</actor>
+			<role>Isak Aronson</role>
+		</credit>
+		<credit>
+			<actor>Annika Hallin</actor>
+			<role>Hedvig Nyström</role>
+		</credit>
+		<credit>
+			<actor>Gerhard Hoberstorfer</actor>
+			<role>Bo Sundberg</role>
+		</credit>
+		<credit>
+			<actor>Lily Wahlsteen</actor>
+			<role>Linnea Vik</role>
+		</credit>
+		<credit>
+			<actor>Greg Wise</actor>
+			<role>Warren Schifford</role>
+		</credit>
+		<credit>
+			<actor>Marek Oravec</actor>
+			<role>Richard Forrester</role>
+		</credit>
+		<credit>
+			<actor>Samuel Fröler</actor>
+			<role>Torbjörn Skoglund</role>
+		</credit>
+		<credit>
+			<actor>Anja Lundqvist</actor>
+			<role>Jessica Östlund</role>
+		</credit>
+		<credit>
+			<actor>Kim Cattrall</actor>
+			<role>Helen Tyler</role>
+		</credit>
+		<credit>
+			<actor>Paprika Steen</actor>
+			<role>Alva Roos</role>
+		</credit>
+		<credit>
+			<actor>Johan Rabaeus</actor>
+			<role>Harald Bohman</role>
+		</credit>
+		<credit>
+			<actor>Magnus Roosmann</actor>
+			<role>Marcus Ståhl</role>
+		</credit>
+		<credit>
+			<actor>Peter Jöback</actor>
+			<role>Rolf Ljungberg</role>
+		</credit>
+		<credit>
+			<actor>Johan Widerberg</actor>
+			<role>Lukas Lindgren</role>
+		</credit>
+		<credit>
+			<actor>Billy Campbell</actor>
+			<role>Dale Tyler</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Sweden">September 23 2015</releasedate>
+		<releasedate country="France">January 3 2016</releasedate>
+		<releasedate country="Netherlands">March 2 2016</releasedate>
+		<releasedate country="Japan">September 19 2016</releasedate>
+		<releasedate country="Germany">November 20 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Italy"> BA</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>serial killer</keyword>
+		<keyword>stockholm sweden</keyword>
+		<keyword>snow</keyword>
+		<keyword>religious fanaticism</keyword>
+		<keyword>winter</keyword>
+		<keyword>criminality</keyword>
+		<keyword>eastern europe</keyword>
+		<keyword>sweden</keyword>
+		<keyword>scandinavia</keyword>
+		<keyword>eastern scandinavia</keyword>
+		<keyword>criminality in sweden</keyword>
+		<keyword>scandi noir crime</keyword>
+		<keyword>profiler</keyword>
+		<keyword>detective</keyword>
+		<keyword>murder</keyword>
+		<keyword>criminal psychologist</keyword>
+		<keyword>hate crime</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Lisa Siwe</director>
+		<director> Mani Maserrat-Agah</director>
+		<director> Håkan Lindhé</director>
+	</directors>
+	<composers>
+		<composer> Jacob Groth</composer>
+	</composers>
+	<producers>
+		<producer> Jonas Allen</producer>
+		<producer> Peter Bose</producer>
+		<producer> Thomas Disch</producer>
+		<producer> Wolfgang Feindt</producer>
+		<producer> Sandra Harms</producer>
+		<producer> Anne Holt</producer>
+		<producer> Peter Nadermann</producer>
+		<producer> Niclas Salomonsson</producer>
+		<producer> Josefine Tengblad</producer>
+		<producer> Maria Dahlin</producer>
+		<producer> Per Janérus</producer>
+		<producer> Åsa Sjöberg</producer>
+		<producer> Peter Bengtsson</producer>
+		<producer> Elin Kvist</producer>
+		<producer> Tobias Åström</producer>
+		<producer> Nathalie Drago</producer>
+	</producers>
+	<writers>
+		<writer> Mai Brostrøm</writer>
+		<writer> Mai Brostrøm</writer>
+		<writer> Anne Holt</writer>
+		<writer> Anne Holt</writer>
+		<writer> Peter Thorsboe</writer>
+		<writer> Peter Thorsboe</writer>
+	</writers>
+	<editors>
+		<editor> Roberth Nordh</editor>
+		<editor> Anders Nylander</editor>
+		<editor> Vickis Munck</editor>
+		<editor> Michal Leszczylowski</editor>
+		<editor> Marinella Angusti</editor>
+		<editor> Lars Gustafson</editor>
+		<editor> Håkan Karlsson</editor>
+		<editor> Håkan Wärn</editor>
+	</editors>
+</doc>

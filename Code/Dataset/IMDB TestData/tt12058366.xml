@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc id="tt12058366">
+	<docid>tt12058366</docid>
+	<title>YOLO: Crystal Fantasy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTFkNDMyNWMtZjY2ZS00ODhlLWFlMWUtMTA0ZTlhYjEwMWIxXkEyXkFqcGdeQXVyNDY0NjE3NTY@._V1_QL75_UX190_CR0,8,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes/>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>The adventures of two Australian &quot;party girls&quot;.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sarah Bishop</actor>
+			<role>Sarah</role>
+		</credit>
+		<credit>
+			<actor>Todor Manojlovic</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Michael Cusack</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Brendan Caulfield</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Michelle Brasier</actor>
+			<role>Miki</role>
+		</credit>
+		<credit>
+			<actor>Jarrad Wright</actor>
+			<role>Pink Wizard</role>
+		</credit>
+		<credit>
+			<actor>Naomi Higgins</actor>
+			<role>Maddison</role>
+		</credit>
+		<credit>
+			<actor>Greta Lee Jackson</actor>
+			<role>Donna</role>
+		</credit>
+		<credit>
+			<actor>Flying Lotus</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">March 31 2020</releasedate>
+		<releasedate country="Australia">August 9 2020</releasedate>
+		<releasedate country="Spain">August 9 2020</releasedate>
+		<releasedate country="Canada">August 10 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mature animation</keyword>
+		<keyword>for grown ups animation</keyword>
+	</keywords>
+	<directors>
+		<director> Greta Lee Jackson</director>
+		<director> Niki Yang</director>
+		<director> Michael Cusack</director>
+	</directors>
+	<composers>
+		<composer> Brendan Caulfield</composer>
+	</composers>
+	<producers>
+		<producer> Stipe Blazevic</producer>
+		<producer> Melanie Brunt</producer>
+		<producer> John Cawley</producer>
+		<producer> Keith Crofford</producer>
+		<producer> Ollie Green</producer>
+		<producer> Felipe Gutierrez</producer>
+		<producer> Walter Newman</producer>
+		<producer> Justin Wight</producer>
+		<producer> Mike Cowap</producer>
+		<producer> Michael Cusack</producer>
+		<producer> Emma Fitzsimons</producer>
+		<producer> Greta Lee Jackson</producer>
+	</producers>
+	<writers>
+		<writer> Shauna McGarry</writer>
+		<writer> Anca Vlasan</writer>
+		<writer> Anca Vlasan</writer>
+		<writer> Anca Vlasan</writer>
+		<writer> Michael Cusack</writer>
+		<writer> Michael Cusack</writer>
+		<writer> Michelle Brasier</writer>
+		<writer> Greta Lee Jackson</writer>
+		<writer> Lena Moon</writer>
+		<writer> Nina Oyama</writer>
+	</writers>
+	<editors>
+		<editor> Carlos Manrique Clavijo</editor>
+		<editor> Tim Cannan</editor>
+	</editors>
+</doc>

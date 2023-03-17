@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<doc id="tt14989818">
+	<docid>tt14989818</docid>
+	<title>Operación Marea Negra</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWU1MDdhOWYtNGNlYi00ODk2LTkxZDAtOWRkM2VlNmZlOTBiXkEyXkFqcGdeQXVyMTM5NTA5NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A true story of the first narco-submarine that was intercepted in Europe. Three men with more than 3 tons of cocaine survive a series of breakdowns, storms, and police chase. Its leader is Nando, a Spanish boxer who fights to survive.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Nerea Barros</actor>
+			<role>Gema</role>
+		</credit>
+		<credit>
+			<actor>Miquel Insua</actor>
+			<role>Valdés</role>
+		</credit>
+		<credit>
+			<actor>Leandro Firmino</actor>
+			<role>Walder</role>
+		</credit>
+		<credit>
+			<actor>Xosé Barato</actor>
+			<role>Ortiz</role>
+		</credit>
+		<credit>
+			<actor>Manuel Manquiña</actor>
+			<role>Antón</role>
+		</credit>
+		<credit>
+			<actor>Jorge López</actor>
+			<role>Nando</role>
+		</credit>
+		<credit>
+			<actor>Soraia Chaves</actor>
+			<role>Dani</role>
+		</credit>
+		<credit>
+			<actor>Bruno Gagliasso</actor>
+			<role>João</role>
+		</credit>
+		<credit>
+			<actor>Óscar Jaenada</actor>
+			<role>Muro</role>
+		</credit>
+		<credit>
+			<actor>Luis Zahera</actor>
+			<role>Cesáreo</role>
+		</credit>
+		<credit>
+			<actor>Esther Acebo</actor>
+			<role>Coira</role>
+		</credit>
+		<credit>
+			<actor>Patricia Vico</actor>
+			<role>Andrade</role>
+		</credit>
+		<credit>
+			<actor>Miguel de Lira</actor>
+			<role>Merino</role>
+		</credit>
+		<credit>
+			<actor>Pêpê Rapazote</actor>
+			<role>Boza</role>
+		</credit>
+		<credit>
+			<actor>Melania Cruz</actor>
+			<role>Sargento</role>
+		</credit>
+		<credit>
+			<actor>Atílio Oliveira</actor>
+			<role>Seguridad Valdés 1</role>
+		</credit>
+		<credit>
+			<actor>Gonçalo Gomes</actor>
+			<role>Seguridad Valdés 2</role>
+		</credit>
+		<credit>
+			<actor>Álex González</actor>
+			<role>Nando</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">February 24 2022</releasedate>
+		<releasedate country="Spain">February 25 2022</releasedate>
+		<releasedate country="Portugal">March 14 2022</releasedate>
+		<releasedate country="Poland">December 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Spain">18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>boxer</keyword>
+		<keyword>spain</keyword>
+		<keyword>portugal</keyword>
+		<keyword>spanish abroad</keyword>
+		<keyword>spaniard in portugal</keyword>
+		<keyword>spaniard in brazil</keyword>
+		<keyword>brazil</keyword>
+		<keyword>spaniard abroad</keyword>
+		<keyword>amazonas brazil</keyword>
+		<keyword>amazon rainforest</keyword>
+		<keyword>north brazil</keyword>
+		<keyword>colombian in brazil</keyword>
+		<keyword>portuguese in brazil</keyword>
+		<keyword>brazilian in spain</keyword>
+		<keyword>colombian in spain</keyword>
+		<keyword>brazilian abroad</keyword>
+		<keyword>colombian abroad</keyword>
+	</keywords>
+	<directors>
+		<director> Daniel Calparsoro</director>
+		<director> Luis Ismael</director>
+		<director> Igor Legarreta</director>
+		<director> Oskar Santos</director>
+		<director> João Maia</director>
+	</directors>
+	<composers>
+		<composer> Carlos Jean</composer>
+	</composers>
+	<producers>
+		<producer> Daniel Calparsoro</producer>
+		<producer> Julio Casal</producer>
+		<producer> Mamen Quintas</producer>
+		<producer> J.D. Duarte</producer>
+		<producer> Luis Ismael</producer>
+		<producer> Maria Pacheco</producer>
+		<producer> Pandora da Cunha Telles</producer>
+		<producer> Pablo Iraola</producer>
+	</producers>
+	<writers>
+		<writer> Patxi Amezcua</writer>
+		<writer> Patxi Amezcua</writer>
+		<writer> Natxo López</writer>
+		<writer> Natxo López</writer>
+		<writer> Natxo López</writer>
+		<writer> José Rodríguez</writer>
+	</writers>
+	<editors>
+		<editor> Mario Maroto</editor>
+		<editor> José Manuel Jiménez</editor>
+		<editor> Antonio Frutos</editor>
+	</editors>
+</doc>

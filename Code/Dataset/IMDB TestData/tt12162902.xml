@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt12162902">
+	<docid>tt12162902</docid>
+	<title>Disney Gallery: Star Wars: The Mandalorian</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjY0YWEzNTMtZjRlZi00MzQ1LThkMTAtMTk4OTE5MWVkYzFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">33</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>A behind the scenes look at the making of the Disney+ series &quot;The Mandalorian.&quot;</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jon Favreau</actor>
+			<role>Self - Executive Producer &amp; Creator</role>
+		</credit>
+		<credit>
+			<actor>Dave Filoni</actor>
+			<role>Self - Executive Producer &amp; Director</role>
+		</credit>
+		<credit>
+			<actor>Bryce Dallas Howard</actor>
+			<role>Self - Director</role>
+		</credit>
+		<credit>
+			<actor>Rick Famuyiwa</actor>
+			<role>Self - Director</role>
+		</credit>
+		<credit>
+			<actor>Carl Weathers</actor>
+			<role>Self - Greef Karga</role>
+		</credit>
+		<credit>
+			<actor>Deborah Chow</actor>
+			<role>Self - Director</role>
+		</credit>
+		<credit>
+			<actor>Taika Waititi</actor>
+			<role>Self - Director &amp; Voice of IG-11</role>
+		</credit>
+		<credit>
+			<actor>Richard Bluff</actor>
+			<role>Self - Visual Effects Supervisor</role>
+		</credit>
+		<credit>
+			<actor>John Knoll</actor>
+			<role>Self - ILM Visual Effects Supervisor</role>
+		</credit>
+		<credit>
+			<actor>Pedro Pascal</actor>
+			<role>Self - The Mandalorian</role>
+		</credit>
+		<credit>
+			<actor>Gina Carano</actor>
+			<role>Self - Cara Dune</role>
+		</credit>
+		<credit>
+			<actor>Hal T. Hickel</actor>
+			<role>Self - Animation Director</role>
+		</credit>
+		<credit>
+			<actor>Kathleen Kennedy</actor>
+			<role>Self - Executive Producer</role>
+		</credit>
+		<credit>
+			<actor>Barry Baz Idoine</actor>
+			<role>Self - Director of Photography</role>
+		</credit>
+		<credit>
+			<actor>George Lucas</actor>
+			<role>Self - Creator of Star Wars</role>
+		</credit>
+		<credit>
+			<actor>Giancarlo Esposito</actor>
+			<role>Self - Moff Gideon</role>
+		</credit>
+		<credit>
+			<actor>Kim Richards</actor>
+			<role>Self - First Assistant Director</role>
+		</credit>
+		<credit>
+			<actor>Josh Roth</actor>
+			<role>Self - Property Master</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">May 4 2020</releasedate>
+		<releasedate country="Spain">May 4 2020</releasedate>
+		<releasedate country="France">May 4 2020</releasedate>
+		<releasedate country="United States">May 4 2020</releasedate>
+		<releasedate country="Brazil">May 8 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Spain">TP</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>disney plus</keyword>
+		<keyword>making of</keyword>
+		<keyword>behind the scenes</keyword>
+		<keyword>entertainment documentary</keyword>
+		<keyword>reference to star wars</keyword>
+	</keywords>
+	<directors>
+		<director> Brad Baruh</director>
+	</directors>
+	<composers>
+		<composer> Michael Kramer</composer>
+	</composers>
+	<producers>
+		<producer> John Bartnicki</producer>
+		<producer> Brad Baruh</producer>
+		<producer> Carrie Beck</producer>
+		<producer> Jon Favreau</producer>
+		<producer> Dave Filoni</producer>
+		<producer> Karen Gilchrist</producer>
+		<producer> Kathleen Kennedy</producer>
+		<producer> Jacqui Lopez</producer>
+		<producer> Jason Hillhouse</producer>
+	</producers>
+	<writers>
+		<writer> Brandon Bestenheider</writer>
+		<writer> Brenton Covington</writer>
+		<writer> Meghan Leon</writer>
+		<writer> Meghan Leon</writer>
+	</writers>
+	<editors>
+		<editor> Meghan Leon</editor>
+		<editor> Brenton Covington</editor>
+		<editor> Bartley Powers</editor>
+	</editors>
+</doc>

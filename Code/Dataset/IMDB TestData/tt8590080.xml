@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<doc id="tt8590080">
+	<docid>tt8590080</docid>
+	<title>Parallèles</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTc0MmU0MjQtYzI3ZC00MDU4LWIyYzktMzIxMzU1YTJkNmU2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Fantasy</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Four teenage friends, on the French-Swiss border, whose lives are turned upside down by an experiment of the LHC, the world's biggest particle collider.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Thomas Chomel</actor>
+			<role>Samuel 'Sam' Deslandes</role>
+		</credit>
+		<credit>
+			<actor>Omar Mebrouk</actor>
+			<role>Bilal Belkabir (30 ans)</role>
+		</credit>
+		<credit>
+			<actor>Naidra Ayadi</actor>
+			<role>Sofia Belkabir</role>
+		</credit>
+		<credit>
+			<actor>Guillaume Labbé</actor>
+			<role>Lieutenant Retz</role>
+		</credit>
+		<credit>
+			<actor>Dimitri Storoge</actor>
+			<role>Hervé Berthaud</role>
+		</credit>
+		<credit>
+			<actor>Agnès Miguras</actor>
+			<role>Vanessa Berthaud</role>
+		</credit>
+		<credit>
+			<actor>Maxime Bergeron</actor>
+			<role>Victor Deslandes (13 ans)</role>
+		</credit>
+		<credit>
+			<actor>Victoria Eber</actor>
+			<role>Romane Berthaud (14 ans)</role>
+		</credit>
+		<credit>
+			<actor>Timoté Rigault</actor>
+			<role>Bilal Belkabir (15 ans)</role>
+		</credit>
+		<credit>
+			<actor>Anastasia Ait Zakhar</actor>
+			<role>Camille Berthaud (6 ans)</role>
+		</credit>
+		<credit>
+			<actor>Jules Houplain</actor>
+			<role>Victor Deslandes (17 ans)</role>
+		</credit>
+		<credit>
+			<actor>Jade Pedri</actor>
+			<role>Romane Berthaud (17 ans)</role>
+		</credit>
+		<credit>
+			<actor>Gil Alma</actor>
+			<role>Arnaud Deslandes</role>
+		</credit>
+		<credit>
+			<actor>Élise Diamant</actor>
+			<role>Alice Deslandes</role>
+		</credit>
+		<credit>
+			<actor>Austen Moret</actor>
+			<role>Bilal (30)</role>
+		</credit>
+		<credit>
+			<actor>Mia Castillo</actor>
+			<role>Camille</role>
+		</credit>
+		<credit>
+			<actor>Vincent Debost</actor>
+			<role>Alban Coche</role>
+		</credit>
+		<credit>
+			<actor>Romain Francisco</actor>
+			<role>Laurent - Adjoint de Retz</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">March 23 2022</releasedate>
+		<releasedate country="Australia">March 23 2022</releasedate>
+		<releasedate country="Brazil">March 23 2022</releasedate>
+		<releasedate country="Canada">March 23 2022</releasedate>
+		<releasedate country="Germany">March 23 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">12</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">TV-14</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">UA 7+</certificate>
+		<certificate country="Indonesia">PG</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>friend</keyword>
+		<keyword>exploration</keyword>
+		<keyword>parallel</keyword>
+		<keyword>disney</keyword>
+		<keyword>disney plus</keyword>
+		<keyword>childhood</keyword>
+		<keyword>teenager</keyword>
+		<keyword>future</keyword>
+		<keyword>village</keyword>
+		<keyword>multiverse</keyword>
+		<keyword>teen fantasy</keyword>
+	</keywords>
+	<directors>
+		<director> Jean-Baptiste Saurel</director>
+		<director> Benjamin Rocher</director>
+	</directors>
+	<composers>
+		<composer> François Liétout</composer>
+	</composers>
+	<producers>
+		<producer> Quoc Dang Tran</producer>
+		<producer> Eric Laroche</producer>
+		<producer> Raphaël Rocher</producer>
+		<producer> Richard Allieu</producer>
+	</producers>
+	<writers>
+		<writer> Quoc Dang Tran</writer>
+		<writer> Quoc Dang Tran</writer>
+		<writer> Anastasia Heinzl</writer>
+		<writer> Anastasia Heinzl</writer>
+	</writers>
+	<editors>
+		<editor> Olivier Galliano</editor>
+		<editor> Dorian Tabone</editor>
+	</editors>
+</doc>

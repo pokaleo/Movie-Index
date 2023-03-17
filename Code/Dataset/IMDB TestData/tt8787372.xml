@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<doc id="tt8787372">
+	<docid>tt8787372</docid>
+	<title>La caza. Monteperdido</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzU5OWJiZTMtZTM5Yy00NzQzLWIzZWUtNjY0MDUxODE2MmQ1XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">70</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The unsolved case of two girls who disappeared from the Pyrenee town of Monteperdido five years ago is reopened when one of them reappears.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Megan Montaner</actor>
+			<role>Sara Campos</role>
+		</credit>
+		<credit>
+			<actor>Alain Hernández</actor>
+			<role>Víctor Gamero</role>
+		</credit>
+		<credit>
+			<actor>Félix Gómez</actor>
+			<role>Ernesto Selva</role>
+		</credit>
+		<credit>
+			<actor>Beatriz Carvajal</actor>
+			<role>Caridad</role>
+		</credit>
+		<credit>
+			<actor>Francis Lorenzo</actor>
+			<role>Santiago Baín</role>
+		</credit>
+		<credit>
+			<actor>Bea Segura</actor>
+			<role>Raquel Mur</role>
+		</credit>
+		<credit>
+			<actor>Sara Rivero</actor>
+			<role>Cati Trias</role>
+		</credit>
+		<credit>
+			<actor>Pablo Derqui</actor>
+			<role>Álvaro Montrell</role>
+		</credit>
+		<credit>
+			<actor>Llum Barrera</actor>
+			<role>Madó Teresa</role>
+		</credit>
+		<credit>
+			<actor>Patxi Freytez</actor>
+			<role>Rafael Grau</role>
+		</credit>
+		<credit>
+			<actor>Òscar Molina</actor>
+			<role>Llorenç Company</role>
+		</credit>
+		<credit>
+			<actor>Jorge Bosch</actor>
+			<role>Joaquín Castán</role>
+		</credit>
+		<credit>
+			<actor>Victòria Pagès</actor>
+			<role>Inés Mestre</role>
+		</credit>
+		<credit>
+			<actor>Mar Sodupe</actor>
+			<role>Montse Grau</role>
+		</credit>
+		<credit>
+			<actor>Nadia Al Saaidi</actor>
+			<role>Samiah Chrérif</role>
+		</credit>
+		<credit>
+			<actor>David Solans</actor>
+			<role>Quim Castán</role>
+		</credit>
+		<credit>
+			<actor>Ernest Villegas</actor>
+			<role>Gerard Torres</role>
+		</credit>
+		<credit>
+			<actor>Carla Díaz</actor>
+			<role>Ana Montrell</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">March 25 2019</releasedate>
+		<releasedate country="Spain">March 25 2019</releasedate>
+		<releasedate country="Italy">November 10 2019</releasedate>
+		<releasedate country="France">March 8 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">10</certificate>
+		<certificate country="Italy"> BA</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>town</keyword>
+	</keywords>
+	<directors>
+		<director> Salvador García Ruiz</director>
+		<director> Alvaro Ron</director>
+		<director> Rafa Montesinos</director>
+		<director> David Ulloa</director>
+	</directors>
+	<composers>
+		<composer> Juanjo Javierre</composer>
+	</composers>
+	<producers>
+		<producer> Reyes Baltanás</producer>
+		<producer> Mar Díaz</producer>
+		<producer> José Manuel Lorenzo</producer>
+		<producer> Agustín Martínez</producer>
+		<producer> Pablo Alejos</producer>
+		<producer> Nacho Bolonio</producer>
+	</producers>
+	<writers>
+		<writer> Agustín Martínez</writer>
+		<writer> Agustín Martínez</writer>
+		<writer> Agustín Martínez</writer>
+		<writer> Luis Moya</writer>
+		<writer> Luis Moya</writer>
+		<writer> Miguel Sáez Carral</writer>
+		<writer> Jorge Díaz</writer>
+		<writer> Santos Mercero</writer>
+	</writers>
+	<editors>
+		<editor> Stefano Montanaro</editor>
+		<editor> Manu Huelva</editor>
+		<editor> Cristina García Aller</editor>
+		<editor> Antonio Gómez-Escalonilla</editor>
+		<editor> Miguel Doblado</editor>
+		<editor> David Nieves</editor>
+	</editors>
+</doc>

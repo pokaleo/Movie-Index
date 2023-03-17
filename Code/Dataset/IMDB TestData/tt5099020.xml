@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<doc id="tt5099020">
+	<docid>tt5099020</docid>
+	<title>Easy Living</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWNjZDI3ZmYtMmFiMy00MjljLTgwYTQtNDAzN2M4MmY2MmE4XkEyXkFqcGdeQXVyNDk4MDA1MTQ@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A corrupt businessman and family man attempts to navigate his way through increasing domestic, legal, and financial problems.</plot>
+	<countries>
+		<country>Hungary</country>
+	</countries>
+	<languages>
+		<language>Hungarian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Szabolcs Thuróczy</actor>
+			<role>Attila</role>
+		</credit>
+		<credit>
+			<actor>Eszter Ónodi</actor>
+			<role>Janka</role>
+		</credit>
+		<credit>
+			<actor>Renátó Olasz</actor>
+			<role>Márk</role>
+		</credit>
+		<credit>
+			<actor>Laura Döbrösi</actor>
+			<role>Mira</role>
+		</credit>
+		<credit>
+			<actor>Zsolt Anger</actor>
+			<role>Hollós</role>
+		</credit>
+		<credit>
+			<actor>Lídia Danis</actor>
+			<role>Lt. Erika Jakab</role>
+		</credit>
+		<credit>
+			<actor>Zsolt Végh</actor>
+			<role>Feri Gáll</role>
+		</credit>
+		<credit>
+			<actor>Zoltán Rajkai</actor>
+			<role>Géza Zebegényi</role>
+		</credit>
+		<credit>
+			<actor>Mária Erdélyi</actor>
+			<role>Aunt Éva</role>
+		</credit>
+		<credit>
+			<actor>Tamás Lengyel</actor>
+			<role>Tibor</role>
+		</credit>
+		<credit>
+			<actor>Franciska Farkas</actor>
+			<role>Oszi</role>
+		</credit>
+		<credit>
+			<actor>Zoltán Seress</actor>
+			<role>Kálmán Csér</role>
+		</credit>
+		<credit>
+			<actor>Zsolt Fekete-Lovas</actor>
+			<role>Mátyás Pisti</role>
+		</credit>
+		<credit>
+			<actor>Attila Ifj. Vidnyánszky</actor>
+			<role>Young Attila</role>
+		</credit>
+		<credit>
+			<actor>Andrea Fullajtár</actor>
+			<role>Zsuzsa Boros</role>
+		</credit>
+		<credit>
+			<actor>Éva Vándor</actor>
+			<role>Klári</role>
+		</credit>
+		<credit>
+			<actor>Artur Szõcs</actor>
+			<role>Nándor Tomcsa</role>
+		</credit>
+		<credit>
+			<actor>Tamás K. Kovács</actor>
+			<role>Young Hollós</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">November 8 2015</releasedate>
+		<releasedate country="Hungary">November 8 2015</releasedate>
+		<releasedate country="Poland">November 8 2015</releasedate>
+		<releasedate country="United States">August 1 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Hungary">18</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>businessman</keyword>
+	</keywords>
+	<directors>
+		<director> Zsombor Dyga</director>
+		<director> Áron Mátyássy</director>
+	</directors>
+	<composers>
+		<composer> Krisztián Pádár</composer>
+		<composer> Levente Szabó</composer>
+		<composer> The Uptown Felaz</composer>
+		<composer> Gábor Katona</composer>
+	</composers>
+	<producers>
+		<producer> Judit Fodor</producer>
+		<producer> Gábor Krigler</producer>
+		<producer> Steve Matthews</producer>
+		<producer> Judit Stalter</producer>
+		<producer> Anna Závorszky</producer>
+		<producer> Antony Root</producer>
+		<producer> Wayne Henry</producer>
+		<producer> Linda Jensen</producer>
+		<producer> Johnathan Young</producer>
+		<producer> Gábor Rajna</producer>
+		<producer> Gábor Sipos</producer>
+	</producers>
+	<writers>
+		<writer> Eszter Angyalosy</writer>
+		<writer> István Tasnádi</writer>
+		<writer> István Tasnádi</writer>
+		<writer> Virág Zomborácz</writer>
+		<writer> Virág Zomborácz</writer>
+		<writer> Roope Lehtinen</writer>
+		<writer> Roope Lehtinen</writer>
+		<writer> Mikko Pöllä</writer>
+		<writer> Mikko Pöllä</writer>
+		<writer> Péter Vancsik</writer>
+		<writer> Balázs Lengyel</writer>
+		<writer> Balázs Lengyel</writer>
+		<writer> Oliver Vanice</writer>
+		<writer> Gábor Krigler</writer>
+		<writer> Gábor Krigler</writer>
+		<writer> Gábor Krigler</writer>
+		<writer> Márton Bárány</writer>
+		<writer> Balázs Lovas</writer>
+	</writers>
+	<editors>
+		<editor> Béla Barsi</editor>
+		<editor> Wanda Kiss</editor>
+		<editor> Márton Gothár</editor>
+		<editor> Judit Czakó</editor>
+		<editor> Júlia Hack</editor>
+		<editor> Áron Mezei</editor>
+		<editor> Zoltán Kovács</editor>
+	</editors>
+</doc>

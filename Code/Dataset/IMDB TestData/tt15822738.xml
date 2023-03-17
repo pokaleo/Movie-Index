@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<doc id="tt15822738">
+	<docid>tt15822738</docid>
+	<title>The Most Dangerous Game</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2UyNTMxNjUtZTliNi00YTI2LWI5MjgtYzExNzczOTc4YjIzXkEyXkFqcGdeQXVyNjc1Njk4Nw@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A father and son are shipwrecked on a remote island where they are caught up in a trophy hunt held by its mysterious owner, a merciless man who uses the land as an elite hunting preserve for stalking the most dangerous game of all: human.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Chris 'C.T.' Tamburello</actor>
+			<role>Sanger Rainsford</role>
+		</credit>
+		<credit>
+			<actor>Casper Van Dien</actor>
+			<role>Baron Von Wolf</role>
+		</credit>
+		<credit>
+			<actor>Judd Nelson</actor>
+			<role>Marcus Rainsford</role>
+		</credit>
+		<credit>
+			<actor>Randy Charach</actor>
+			<role>Rex Alan</role>
+		</credit>
+		<credit>
+			<actor>Tom Berenger</actor>
+			<role>Benjamin Colt</role>
+		</credit>
+		<credit>
+			<actor>Bruce Dern</actor>
+			<role>Whitney Tyler</role>
+		</credit>
+		<credit>
+			<actor>Elissa Dowling</actor>
+			<role>Mary</role>
+		</credit>
+		<credit>
+			<actor>Edward Finlay</actor>
+			<role>Quin</role>
+		</credit>
+		<credit>
+			<actor>Kevin Porter</actor>
+			<role>Ivan</role>
+		</credit>
+		<credit>
+			<actor>David Nett</actor>
+			<role>Captain</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">August 5 2022</releasedate>
+		<releasedate country="United States">August 5 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>island</keyword>
+	</keywords>
+	<directors>
+		<director> Justin Lee</director>
+	</directors>
+	<composers>
+		<composer> Jared Forman</composer>
+	</composers>
+	<producers>
+		<producer> Randy Charach</producer>
+		<producer> Michelle Ng Mini</producer>
+		<producer> Ed Morrone</producer>
+		<producer> Bill Sondheim</producer>
+	</producers>
+	<writers>
+		<writer> Richard Connell</writer>
+		<writer> Justin Lee</writer>
+	</writers>
+	<editors/>
+</doc>

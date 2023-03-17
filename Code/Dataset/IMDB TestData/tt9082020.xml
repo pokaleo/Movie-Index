@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<doc id="tt9082020">
+	<docid>tt9082020</docid>
+	<title>Cold Blood Legacy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTBmYzNmYjItNWU5OS00ZmZlLWFkMmItZWQ5NTlmMWYzMjA5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">91</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A hit-man lives isolated in a cabin at the edge of a lake. One day, an injured woman arrives in front of his house. To save her, he could well risk his own life.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jean Reno</actor>
+			<role>Henry</role>
+		</credit>
+		<credit>
+			<actor>Sarah Lind</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Joe Anderson</actor>
+			<role>Kappa</role>
+		</credit>
+		<credit>
+			<actor>David Gyasi</actor>
+			<role>Malcolm</role>
+		</credit>
+		<credit>
+			<actor>Ihor Ciszkewycz</actor>
+			<role>Davies</role>
+		</credit>
+		<credit>
+			<actor>François Guétary</actor>
+			<role>Brigleur</role>
+		</credit>
+		<credit>
+			<actor>Samantha Bond</actor>
+			<role>The Lady</role>
+		</credit>
+		<credit>
+			<actor>Jean-Luc Olivier</actor>
+			<role>Mr Kessler</role>
+		</credit>
+		<credit>
+			<actor>Larysa Rusnak</actor>
+			<role>Katy (Davies Wife)</role>
+		</credit>
+		<credit>
+			<actor>Maxime Mege</actor>
+			<role>Bob</role>
+		</credit>
+		<credit>
+			<actor>Harmony Gomila</actor>
+			<role>The Singer</role>
+		</credit>
+		<credit>
+			<actor>Kateryna Bursikova</actor>
+			<role>The Waitress (Fast Food)</role>
+		</credit>
+		<credit>
+			<actor>Rob Feldman</actor>
+			<role>The Inn Owner</role>
+		</credit>
+		<credit>
+			<actor>Frédéric Petitjean</actor>
+			<role>The Rental Man</role>
+		</credit>
+		<credit>
+			<actor>Narvin Fernandez</actor>
+			<role>The Coach</role>
+		</credit>
+		<credit>
+			<actor>Anna Butkevich</actor>
+			<role>The Nurse</role>
+		</credit>
+		<credit>
+			<actor>Evgeniy Gubrenko</actor>
+			<role>The Driver</role>
+		</credit>
+		<credit>
+			<actor>Hanna Harnyk</actor>
+			<role>The Cleaning Lady</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 15 2019</releasedate>
+		<releasedate country="United States">July 5 2019</releasedate>
+		<releasedate country="Canada">August 6 2019</releasedate>
+		<releasedate country="Singapore">September 3 2019</releasedate>
+		<releasedate country="Netherlands">September 25 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">Unrated</certificate>
+		<certificate country="Mexico">16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="Ukraine">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>washington state</keyword>
+		<keyword>hitman</keyword>
+		<keyword>snow scooter</keyword>
+	</keywords>
+	<directors>
+		<director> Frédéric Petitjean</director>
+	</directors>
+	<composers>
+		<composer> Xavier Berthelot</composer>
+	</composers>
+	<producers>
+		<producer> Olias Barco</producer>
+		<producer> Corinne Benichou</producer>
+		<producer> Karin Dietrich</producer>
+		<producer> Ralph S. Dietrich</producer>
+		<producer> Oleg German</producer>
+		<producer> Stephan Giger</producer>
+		<producer> Roger Kaufmann</producer>
+		<producer> Eric Mathis</producer>
+		<producer> Florence Moos</producer>
+		<producer> Jean-Luc Olivier</producer>
+		<producer> Gary Phillips</producer>
+		<producer> Laurent Tolleron</producer>
+		<producer> Mark Vennis</producer>
+	</producers>
+	<writers>
+		<writer> Frédéric Petitjean</writer>
+	</writers>
+	<editors>
+		<editor> Viktor Onysko</editor>
+		<editor> Antoine Vareille</editor>
+	</editors>
+</doc>

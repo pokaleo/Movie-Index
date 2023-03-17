@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc id="tt5056958">
+	<docid>tt5056958</docid>
+	<title>Mosaic</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTYwNDY3ODQyNl5BMl5BanBnXkFtZTgwMjEzMjE1NDM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">285</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A whodunit based on the murder of popular children's book author and illustrator Olivia Lake.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jennifer Ferrin</actor>
+			<role>Petra Neill</role>
+		</credit>
+		<credit>
+			<actor>Frederick Weller</actor>
+			<role>Eric Neill</role>
+		</credit>
+		<credit>
+			<actor>Paul Reubens</actor>
+			<role>JC Schiffer</role>
+		</credit>
+		<credit>
+			<actor>Sharon Stone</actor>
+			<role>Olivia Lake</role>
+		</credit>
+		<credit>
+			<actor>Garrett Hedlund</actor>
+			<role>Joel Hurley</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Bobb</actor>
+			<role>Frank Scott</role>
+		</credit>
+		<credit>
+			<actor>Maya Kazan</actor>
+			<role>Laura Hurley</role>
+		</credit>
+		<credit>
+			<actor>Beau Bridges</actor>
+			<role>Alan Pape</role>
+		</credit>
+		<credit>
+			<actor>Devin Ratray</actor>
+			<role>Nate Henry</role>
+		</credit>
+		<credit>
+			<actor>Michael Cerveris</actor>
+			<role>Tom Davis</role>
+		</credit>
+		<credit>
+			<actor>James Ransone</actor>
+			<role>Michael O'Connor</role>
+		</credit>
+		<credit>
+			<actor>Zandy Hartig</actor>
+			<role>Melissa Henry</role>
+		</credit>
+		<credit>
+			<actor>Jacob Vargas</actor>
+			<role>Horacio</role>
+		</credit>
+		<credit>
+			<actor>Don Hudson</actor>
+			<role>News Reporter</role>
+		</credit>
+		<credit>
+			<actor>Loudon Wainwright III</actor>
+			<role>Dennis Klein</role>
+		</credit>
+		<credit>
+			<actor>Jenny Kay Provance</actor>
+			<role>Reporter</role>
+		</credit>
+		<credit>
+			<actor>Dan Pope</actor>
+			<role>Reporter</role>
+		</credit>
+		<credit>
+			<actor>Talese Hunt</actor>
+			<role>Reporter</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">January 22 2018</releasedate>
+		<releasedate country="Spain">January 23 2018</releasedate>
+		<releasedate country="Sweden">January 23 2018</releasedate>
+		<releasedate country="Poland">January 31 2018</releasedate>
+		<releasedate country="Netherlands">March 8 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">UA 16+</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+	</keywords>
+	<directors>
+		<director> Steven Soderbergh</director>
+	</directors>
+	<composers>
+		<composer> David Holmes</composer>
+	</composers>
+	<producers>
+		<producer> Michael Polaire</producer>
+		<producer> Casey Silver</producer>
+		<producer> Steven Soderbergh</producer>
+		<producer> Travis Babcock</producer>
+	</producers>
+	<writers>
+		<writer> Ed Solomon</writer>
+	</writers>
+	<editors>
+		<editor> Steven Soderbergh</editor>
+	</editors>
+</doc>

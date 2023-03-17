@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt13075730">
+	<docid>tt13075730</docid>
+	<title>One Way</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWE4NjdkODUtNzc0Yy00NmZkLTk4OTItYWY4MTE0ODk5MTkzXkEyXkFqcGdeQXVyMTM0ODMzMDcz._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>I 2022</year>
+	<runningtimes>
+		<runningtime country="default">95</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Freddy, a petty criminal, is on the run with a bag full of cash and coke. He's way over his head and hurt bad. With a bullet in his guts he's running out of time.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Storm Reid</actor>
+			<role>Rachel</role>
+		</credit>
+		<credit>
+			<actor>Travis Fimmel</actor>
+			<role>Will</role>
+		</credit>
+		<credit>
+			<actor>Kevin Bacon</actor>
+			<role>Fred Sullivan Sr.</role>
+		</credit>
+		<credit>
+			<actor>Drea de Matteo</actor>
+			<role>Vic</role>
+		</credit>
+		<credit>
+			<actor>Colson Baker</actor>
+			<role>Freddy Sullivan</role>
+		</credit>
+		<credit>
+			<actor>Rhys Coiro</actor>
+			<role>Coco</role>
+		</credit>
+		<credit>
+			<actor>Meagan Holder</actor>
+			<role>Christine</role>
+		</credit>
+		<credit>
+			<actor>Luis Da Silva Jr.</actor>
+			<role>JJ</role>
+		</credit>
+		<credit>
+			<actor>Thomas Francis Murphy</actor>
+			<role>Patrick (bus driver)</role>
+		</credit>
+		<credit>
+			<actor>K.D. O'Hair</actor>
+			<role>Helen</role>
+		</credit>
+		<credit>
+			<actor>Casie Baker</actor>
+			<role>Lily</role>
+		</credit>
+		<credit>
+			<actor>Scotty Bohnen</actor>
+			<role>Caleb</role>
+		</credit>
+		<credit>
+			<actor>Danny Bohnen</actor>
+			<role>Oleg</role>
+		</credit>
+		<credit>
+			<actor>Jaylen Hobdy</actor>
+			<role>Hoodlum #1</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 2 2022</releasedate>
+		<releasedate country="United States">September 2 2022</releasedate>
+		<releasedate country="United Arab Emirates">November 3 2022</releasedate>
+		<releasedate country="Egypt">November 3 2022</releasedate>
+		<releasedate country="Kuwait">November 3 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Egypt">18TC</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>criminal</keyword>
+		<keyword>f word</keyword>
+		<keyword>profanity</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>bus</keyword>
+	</keywords>
+	<directors>
+		<director> Andrew Baird</director>
+	</directors>
+	<composers>
+		<composer> Raffertie</composer>
+	</composers>
+	<producers>
+		<producer> Cary Anderson</producer>
+		<producer> Andrew Baird</producer>
+		<producer> Peter Bevan</producer>
+		<producer> Kc Brandenstein</producer>
+		<producer> Martin Brennan</producer>
+		<producer> Allen Cheney</producer>
+		<producer> Luis Da Silva Jr.</producer>
+		<producer> James Di Giacomo</producer>
+		<producer> Stephen Fingleton</producer>
+		<producer> Arianne Fraser</producer>
+		<producer> Bill Grantham</producer>
+		<producer> Paul W. Hazen</producer>
+		<producer> Michael B. Jackson</producer>
+		<producer> Nathan Klingher</producer>
+		<producer> Molly M. Mayeux</producer>
+		<producer> Clodagh Z. McCarthy</producer>
+		<producer> Rob Moran</producer>
+		<producer> Tim Palmer</producer>
+		<producer> Delphine Perrier</producer>
+		<producer> Jib Polhemus</producer>
+		<producer> Chandler Rierson</producer>
+		<producer> Emily Hunter Salveson</producer>
+		<producer> Ryan Donnell Smith</producer>
+		<producer> Joe Suarez</producer>
+		<producer> Ryan Winterstern</producer>
+	</producers>
+	<writers>
+		<writer> Ben Conway</writer>
+	</writers>
+	<editors>
+		<editor> John Walters</editor>
+	</editors>
+</doc>

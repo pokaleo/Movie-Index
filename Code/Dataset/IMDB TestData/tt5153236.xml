@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<doc id="tt5153236">
+	<docid>tt5153236</docid>
+	<title>Hampstead</title>
+	<image>https://m.media-amazon.com/images/M/MV5BN2JkOWY2ZmEtMTI0OS00ODI5LWFlNzctMGMwYWQ3Yzc1YjM2XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>An American widow finds unexpected love with a man living wild on Hampstead Heath when they take on the developers who want to destroy his home.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Brendan Gleeson</actor>
+			<role>Donald Horner</role>
+		</credit>
+		<credit>
+			<actor>James Norton</actor>
+			<role>Philip</role>
+		</credit>
+		<credit>
+			<actor>Diane Keaton</actor>
+			<role>Emily Walters</role>
+		</credit>
+		<credit>
+			<actor>Lesley Manville</actor>
+			<role>Fiona</role>
+		</credit>
+		<credit>
+			<actor>Adeel Akhtar</actor>
+			<role>Wiggin</role>
+		</credit>
+		<credit>
+			<actor>Hugh Skinner</actor>
+			<role>Erik</role>
+		</credit>
+		<credit>
+			<actor>Simon Callow</actor>
+			<role>Judge</role>
+		</credit>
+		<credit>
+			<actor>Phil Davis</actor>
+			<role>Sid Fife</role>
+		</credit>
+		<credit>
+			<actor>Jason Watkins</actor>
+			<role>James Smythe</role>
+		</credit>
+		<credit>
+			<actor>Alistair Petrie</actor>
+			<role>Steve Crowley</role>
+		</credit>
+		<credit>
+			<actor>Will Smith</actor>
+			<role>Leon Rowlands</role>
+		</credit>
+		<credit>
+			<actor>Alex Gaumond</actor>
+			<role>Mark Kasdan</role>
+		</credit>
+		<credit>
+			<actor>Deborah Findlay</actor>
+			<role>Mary Neal</role>
+		</credit>
+		<credit>
+			<actor>Rosalind Ayres</actor>
+			<role>Susan</role>
+		</credit>
+		<credit>
+			<actor>Brian Protheroe</actor>
+			<role>Rory</role>
+		</credit>
+		<credit>
+			<actor>Andrew Steele</actor>
+			<role>Reporter No.1</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth Conboy</actor>
+			<role>Posh lady</role>
+		</credit>
+		<credit>
+			<actor>Stavros Demetraki</actor>
+			<role>David</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">June 23 2017</releasedate>
+		<releasedate country="Ireland">June 23 2017</releasedate>
+		<releasedate country="Greece">July 6 2017</releasedate>
+		<releasedate country="Turkey">July 21 2017</releasedate>
+		<releasedate country="Israel">July 27 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Finland">S</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12</certificate>
+		<certificate country="South Africa">7-9</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United States">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>widow</keyword>
+		<keyword>court case</keyword>
+		<keyword>property developer</keyword>
+		<keyword>park</keyword>
+		<keyword>hermit</keyword>
+		<keyword>shack</keyword>
+		<keyword>london england</keyword>
+		<keyword>accountant</keyword>
+		<keyword>activist</keyword>
+		<keyword>eviction order</keyword>
+		<keyword>dinner invitation</keyword>
+		<keyword>attic</keyword>
+		<keyword>irishman</keyword>
+		<keyword>middle age romance</keyword>
+		<keyword>feelgood factor</keyword>
+		<keyword>betrayal by a friend</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>squatters' rights</keyword>
+		<keyword>snob</keyword>
+		<keyword>luxury apartment</keyword>
+	</keywords>
+	<directors>
+		<director> Joel Hopkins</director>
+	</directors>
+	<composers>
+		<composer> Stephen Warbeck</composer>
+	</composers>
+	<producers>
+		<producer> Robert Bernstein</producer>
+		<producer> Leon Clarance</producer>
+		<producer> David Glasser</producer>
+		<producer> Kate Glover</producer>
+		<producer> Mark Gooder</producer>
+		<producer> Ian Hutchinson</producer>
+		<producer> Genevieve Lemal</producer>
+		<producer> Jo Monk</producer>
+		<producer> Philip Moross</producer>
+		<producer> Douglas Rae</producer>
+		<producer> Paul Ritchie</producer>
+		<producer> Nicola Stean</producer>
+		<producer> Alison Thompson</producer>
+		<producer> Laure Vaysse</producer>
+		<producer> Alain-Gilles Viellevoye</producer>
+		<producer> Bob Weinstein</producer>
+		<producer> Harvey Weinstein</producer>
+		<producer> Mark Woolley</producer>
+	</producers>
+	<writers>
+		<writer> Robert Festinger</writer>
+	</writers>
+	<editors>
+		<editor> Robin Sales</editor>
+	</editors>
+</doc>

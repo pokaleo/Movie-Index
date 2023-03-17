@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<doc id="tt11487036">
+	<docid>tt11487036</docid>
+	<title>The Pilgrim</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWQ2OGIyZTgtZmY5MC00NzY3LTg5NDYtMjdkZjgxZmFhZTMzXkEyXkFqcGdeQXVyOTA3ODI3NDA@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">94</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Will, an American architect living in London, is thrust into an odyssey through the American West upon learning of his estranged mother's death.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jeff Worden</actor>
+			<role>Will</role>
+		</credit>
+		<credit>
+			<actor>Rachel Colwell</actor>
+			<role>Alva</role>
+		</credit>
+		<credit>
+			<actor>Julie Oliver-Touchstone</actor>
+			<role>Kay</role>
+		</credit>
+		<credit>
+			<actor>Rebekah Stein</actor>
+			<role>Jeannie</role>
+		</credit>
+		<credit>
+			<actor>Lou Llobell</actor>
+			<role>Claire</role>
+		</credit>
+		<credit>
+			<actor>Emerald Clark</actor>
+			<role>Ruth</role>
+		</credit>
+		<credit>
+			<actor>Jaime Carrillo</actor>
+			<role>Terry</role>
+		</credit>
+		<credit>
+			<actor>Eric Kole</actor>
+			<role>Derek</role>
+		</credit>
+		<credit>
+			<actor>Nathaniel Horne</actor>
+			<role>Aaron</role>
+		</credit>
+		<credit>
+			<actor>Edward Andrews</actor>
+			<role>Eddie</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">2021</releasedate>
+		<releasedate country="United States">March 14 2023</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>journey</keyword>
+	</keywords>
+	<directors>
+		<director> Joshua Benson</director>
+	</directors>
+	<composers>
+		<composer> Joshua Benson</composer>
+		<composer> Jamie Rinaldi</composer>
+	</composers>
+	<producers>
+		<producer> Kristy Baltezore</producer>
+		<producer> Joshua Benson</producer>
+		<producer> Jeff Worden</producer>
+	</producers>
+	<writers>
+		<writer> Joshua Benson</writer>
+		<writer> George Kellock</writer>
+	</writers>
+	<editors>
+		<editor> Gabriel Serrano Denis</editor>
+	</editors>
+</doc>

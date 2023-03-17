@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc id="tt11895484">
+	<docid>tt11895484</docid>
+	<title>Boundless</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzkxYWRhODctN2RkMi00ZGQzLWFhNDMtNzdlNTVlN2MzOWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">40</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Juan Sebastián Elcano and Ferdinand Magellan's epic voyage around the world after they set sail from Spain 500 years ago.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Álvaro Morte</actor>
+			<role>Elcano</role>
+		</credit>
+		<credit>
+			<actor>Rodrigo Santoro</actor>
+			<role>Magallanes</role>
+		</credit>
+		<credit>
+			<actor>Niccolò Senni</actor>
+			<role>Pigafetta</role>
+		</credit>
+		<credit>
+			<actor>Paulo Pinto</actor>
+			<role>Ministro Portugués</role>
+		</credit>
+		<credit>
+			<actor>Bárbara Goenaga</actor>
+			<role>Beatriz</role>
+		</credit>
+		<credit>
+			<actor>Carlos Cuevas</actor>
+			<role>Martino (El veneciano)</role>
+		</credit>
+		<credit>
+			<actor>Pedro Bachura</actor>
+			<role>Omar (El maderiense)</role>
+		</credit>
+		<credit>
+			<actor>Paco Inestrosa</actor>
+			<role>Clemencio (El comerciante)</role>
+		</credit>
+		<credit>
+			<actor>Diego Garrido</actor>
+			<role>Nicolo</role>
+		</credit>
+		<credit>
+			<actor>Ettore Colombo</actor>
+			<role>Bandido Italiano</role>
+		</credit>
+		<credit>
+			<actor>Gonçalo Diniz</actor>
+			<role>Duarte Barbosa</role>
+		</credit>
+		<credit>
+			<actor>Javier Ruiz de Alegría</actor>
+			<role>Oficial de la Corte</role>
+		</credit>
+		<credit>
+			<actor>Carlos Scholz</actor>
+			<role>Rey Carlos V</role>
+		</credit>
+		<credit>
+			<actor>Manuel Morón</actor>
+			<role>Cardenal Fonseca</role>
+		</credit>
+		<credit>
+			<actor>Ramón Marco</actor>
+			<role>Cartógrafo Español</role>
+		</credit>
+		<credit>
+			<actor>Dídac Calpe</actor>
+			<role>Juan (Grumete)</role>
+		</credit>
+		<credit>
+			<actor>Sergio Peris-Mencheta</actor>
+			<role>Capitán Juan de Cartagena</role>
+		</credit>
+		<credit>
+			<actor>Adrián Lastra</actor>
+			<role>Capitán Mendoza</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">June 10 2022</releasedate>
+		<releasedate country="Brazil">June 10 2022</releasedate>
+		<releasedate country="Germany">June 10 2022</releasedate>
+		<releasedate country="Ecuador">June 10 2022</releasedate>
+		<releasedate country="Spain">June 10 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>epic</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>sailor</keyword>
+		<keyword>brazilian actor playing portuguese character</keyword>
+	</keywords>
+	<directors>
+		<director> Simon West</director>
+	</directors>
+	<composers>
+		<composer> Federico Jusid</composer>
+	</composers>
+	<producers>
+		<producer> René Besson</producer>
+		<producer> Mikhail Finogenov</producer>
+		<producer> Robert Franke</producer>
+		<producer> Heather Greenwood</producer>
+		<producer> Fernando Larrondo</producer>
+		<producer> Robert Leader</producer>
+		<producer> Albert Martinez Martin</producer>
+		<producer> Miguel Menéndez de Zubillaga</producer>
+		<producer> Rafael Minasbekyan</producer>
+		<producer> Rafael Elias Munoz</producer>
+		<producer> Menelaos Pampoukidis</producer>
+		<producer> Leo Pearlman</producer>
+		<producer> Jib Polhemus</producer>
+		<producer> Dasha Sherman</producer>
+		<producer> Chris Solimine</producer>
+		<producer> Vadim Vereshchagin</producer>
+		<producer> Guillermo Pastor Cock</producer>
+		<producer> Patrick Fischer</producer>
+		<producer> Richard Kondal</producer>
+		<producer> Mihail Menkadjiev</producer>
+	</producers>
+	<writers>
+		<writer> Patxi Amezcua</writer>
+		<writer> Miguel Menéndez de Zubillaga</writer>
+		<writer> Chris Solimine</writer>
+	</writers>
+	<editors>
+		<editor> Andrew MacRitchie</editor>
+	</editors>
+</doc>

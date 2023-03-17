@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<doc id="tt8015444">
+	<docid>tt8015444</docid>
+	<title>Last and First Men</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDZkYWQ1OGItOTRhMi00MzIyLTk4Y2UtNzE1M2JhNmZjMmZjXkEyXkFqcGdeQXVyMjU5NTg5NzQ@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">70</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Fantasy</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Two billion years ahead of us, a future race of humans finds itself on the verge of extinction. Almost all that is left in the world are lone and surreal monuments, beaming their message into the wilderness.</plot>
+	<countries>
+		<country>Iceland</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Black and White</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Tilda Swinton</actor>
+			<role>Narrator</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">February 25 2020</releasedate>
+		<releasedate country="Lithuania">March 19 2020</releasedate>
+		<releasedate country="South Korea">July 12 2020</releasedate>
+		<releasedate country="Spain">July 28 2020</releasedate>
+		<releasedate country="Australia">August 6 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Spain">TP</certificate>
+	</certificates>
+	<keywords>
+		<keyword>humankind</keyword>
+		<keyword>future</keyword>
+		<keyword>past</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>progress</keyword>
+		<keyword>civilization</keyword>
+		<keyword>distinction</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Jóhann Jóhannsson</director>
+	</directors>
+	<composers>
+		<composer> Yair Elazar Glotman</composer>
+		<composer> Jóhann Jóhannsson</composer>
+	</composers>
+	<producers>
+		<producer> Armin Hadzic</producer>
+		<producer> Thoranna Sigurdardottir</producer>
+		<producer> Thor Sigurjonsson</producer>
+	</producers>
+	<writers>
+		<writer> Olaf Stapledon</writer>
+		<writer> Jóhann Jóhannsson</writer>
+		<writer> José Enrique Macián</writer>
+	</writers>
+	<editors>
+		<editor> Mark Bukdahl</editor>
+	</editors>
+</doc>

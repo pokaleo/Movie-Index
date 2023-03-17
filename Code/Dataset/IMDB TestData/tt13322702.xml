@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt13322702">
+	<docid>tt13322702</docid>
+	<title>Son Yaz</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTc2MjgzNGUtMjlmNi00MjhjLWJmMjQtN2Y1NDQyMDcxNDI0XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UY281_CR33,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Idealist Public Prosecutor Selim receives an offer he cannot refuse from organized crime leader Selcuk Taskin, whom he sent to prison. Selcuk will testify in the prosecutor's case, but in return, he asks the prosecutor to protect his son.</plot>
+	<countries>
+		<country>Turkey</country>
+	</countries>
+	<languages>
+		<language>Turkish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Alperen Duymaz</actor>
+			<role>Akgün Gökalp Taskin</role>
+		</credit>
+		<credit>
+			<actor>Ali Atay</actor>
+			<role>Selim Kara</role>
+		</credit>
+		<credit>
+			<actor>Hafsanur Sancaktutan</actor>
+			<role>Yagmur Kara</role>
+		</credit>
+		<credit>
+			<actor>Arif Piskin</actor>
+			<role>Selcuk Taskin</role>
+		</credit>
+		<credit>
+			<actor>Sezer Koç</actor>
+			<role>Emel Yaman</role>
+		</credit>
+		<credit>
+			<actor>Halil Babür</actor>
+			<role>Soner Sancaktar</role>
+		</credit>
+		<credit>
+			<actor>Yasemin Yazici</actor>
+			<role>Naz Yaman</role>
+		</credit>
+		<credit>
+			<actor>Ata Nedim Arman</actor>
+			<role>Altay Kara</role>
+		</credit>
+		<credit>
+			<actor>Cengiz Okuyucu</actor>
+			<role>Ahmet Tunali</role>
+		</credit>
+		<credit>
+			<actor>Yunus Narin</actor>
+			<role>Eray Duraner</role>
+		</credit>
+		<credit>
+			<actor>Funda Eryigit</actor>
+			<role>Canan Kara</role>
+		</credit>
+		<credit>
+			<actor>Sebnem Dönmez</actor>
+			<role>Serap Gök</role>
+		</credit>
+		<credit>
+			<actor>Sinan Tuzcu</actor>
+			<role>Metin Yaman</role>
+		</credit>
+		<credit>
+			<actor>Erdem Sanli</actor>
+			<role>Kaan Gök</role>
+		</credit>
+		<credit>
+			<actor>Can Sarp Ikiler</actor>
+			<role>Arda Ates</role>
+		</credit>
+		<credit>
+			<actor>Emre Karayel</actor>
+			<role>Fatih Doganay</role>
+		</credit>
+		<credit>
+			<actor>Dilay Konuk</actor>
+			<role>Barmaid</role>
+		</credit>
+		<credit>
+			<actor>Mehmet Tas</actor>
+			<role>Bartender and waiter.</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">January 1 2021</releasedate>
+		<releasedate country="Philippines">January 1 2021</releasedate>
+		<releasedate country="Turkey">January 1 2021</releasedate>
+		<releasedate country="Egypt">January 2 2021</releasedate>
+		<releasedate country="Indonesia">January 2 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="India">Not Rated</certificate>
+		<certificate country="Indonesia">Not Rated</certificate>
+		<certificate country="Israel">Not Rated</certificate>
+		<certificate country="South Africa">Not Rated</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Arab Emirates">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>prison</keyword>
+		<keyword>criminal</keyword>
+	</keywords>
+	<directors>
+		<director> Semih Bagci</director>
+		<director> Burak Arliel</director>
+	</directors>
+	<composers>
+		<composer> Tuna Hizmetli</composer>
+	</composers>
+	<producers>
+		<producer> Saner Ayar</producer>
+		<producer> Berrin Dagçinar</producer>
+		<producer> Fatih Canoglu</producer>
+		<producer> Harun Özübelli</producer>
+	</producers>
+	<writers>
+		<writer> Cenk Bogatur</writer>
+		<writer> Cenk Bogatur</writer>
+		<writer> Deniz Dargi</writer>
+		<writer> Deniz Dargi</writer>
+		<writer> Cem Görgeç</writer>
+		<writer> Cem Görgeç</writer>
+		<writer> Kübra Sülün</writer>
+	</writers>
+	<editors>
+		<editor> Bülent Tasar</editor>
+		<editor> Karanfil Dag</editor>
+		<editor> Duygu Dari</editor>
+		<editor> Taylan Özerakman</editor>
+		<editor> Dogus Onur Karasu</editor>
+	</editors>
+</doc>

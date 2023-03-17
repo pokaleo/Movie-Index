@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<doc id="tt8169446">
+	<docid>tt8169446</docid>
+	<title>Wine Country</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjIzNzU3MmUtZGY1OS00MWRjLTlkYzItNjgzYjljNmJiNGZjXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">103</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>During a vacation to Napa Valley, a group of long time friends reunite and revisit past choices in this hilarious and heartfelt comedy from director Amy Poehler.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Amy Poehler</actor>
+			<role>Abby</role>
+		</credit>
+		<credit>
+			<actor>Rachel Dratch</actor>
+			<role>Rebecca</role>
+		</credit>
+		<credit>
+			<actor>Ana Gasteyer</actor>
+			<role>Catherine</role>
+		</credit>
+		<credit>
+			<actor>Maya Rudolph</actor>
+			<role>Naomi</role>
+		</credit>
+		<credit>
+			<actor>Paula Pell</actor>
+			<role>Val</role>
+		</credit>
+		<credit>
+			<actor>Emily Spivey</actor>
+			<role>Jenny</role>
+		</credit>
+		<credit>
+			<actor>Jay Larson</actor>
+			<role>Brian</role>
+		</credit>
+		<credit>
+			<actor>Tina Fey</actor>
+			<role>Tammy</role>
+		</credit>
+		<credit>
+			<actor>Maya Erskine</actor>
+			<role>Jade</role>
+		</credit>
+		<credit>
+			<actor>Rachel Hamilton</actor>
+			<role>Bartender</role>
+		</credit>
+		<credit>
+			<actor>Brené Brown</actor>
+			<role>Brene Brown</role>
+		</credit>
+		<credit>
+			<actor>Jon Glaser</actor>
+			<role>Ted Talk</role>
+		</credit>
+		<credit>
+			<actor>Jason Schwartzman</actor>
+			<role>Devon</role>
+		</credit>
+		<credit>
+			<actor>Cherry Jones</actor>
+			<role>Lady Sunshine</role>
+		</credit>
+		<credit>
+			<actor>Craig Cackowski</actor>
+			<role>Mason (Sommelier)</role>
+		</credit>
+		<credit>
+			<actor>Liz Cackowski</actor>
+			<role>Lisa (Sommelier)</role>
+		</credit>
+		<credit>
+			<actor>David Schwartz</actor>
+			<role>Jazz Band Leader</role>
+		</credit>
+		<credit>
+			<actor>Jeff Babko</actor>
+			<role>Jazz Band Leader #2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">May 8 2019</releasedate>
+		<releasedate country="Argentina">May 10 2019</releasedate>
+		<releasedate country="Australia">May 10 2019</releasedate>
+		<releasedate country="Brazil">May 10 2019</releasedate>
+		<releasedate country="Canada">May 10 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Mexico">R</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>reference to fran drescher</keyword>
+		<keyword>reference to billy bob thornton</keyword>
+		<keyword>group of friends</keyword>
+		<keyword>f rated</keyword>
+		<keyword>overalls</keyword>
+		<keyword>reference to kesha</keyword>
+		<keyword>reference to cher</keyword>
+		<keyword>reference to childish gambino</keyword>
+		<keyword>friendship</keyword>
+		<keyword>best friendship</keyword>
+		<keyword>wine</keyword>
+		<keyword>reference to quentin tarantino</keyword>
+		<keyword>reference to xanadu</keyword>
+		<keyword>reference to flashdance</keyword>
+		<keyword>reference to lauryn hill</keyword>
+		<keyword>reference to prince</keyword>
+		<keyword>triple f rated</keyword>
+		<keyword>reference to a zodiac sign</keyword>
+		<keyword>reference to leo the astrological sign</keyword>
+		<keyword>zodiac sign</keyword>
+		<keyword>tarot card</keyword>
+		<keyword>reference to pubic hair</keyword>
+		<keyword>title written by female</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>car</keyword>
+		<keyword>u.s. car</keyword>
+		<keyword>dodge motor vehicle</keyword>
+		<keyword>dodge grand caravan</keyword>
+		<keyword>bus</keyword>
+		<keyword>ford</keyword>
+		<keyword>ford motor vehicle</keyword>
+		<keyword>female filmmaker</keyword>
+	</keywords>
+	<directors>
+		<director> Amy Poehler</director>
+	</directors>
+	<composers>
+		<composer> Lisa Coleman</composer>
+		<composer> Wendy Melvoin</composer>
+	</composers>
+	<producers>
+		<producer> Liz Cackowski</producer>
+		<producer> David Hyman</producer>
+		<producer> Amy Poehler</producer>
+		<producer> Morgan Sackett</producer>
+		<producer> Emily Spivey</producer>
+	</producers>
+	<writers>
+		<writer> Liz Cackowski</writer>
+		<writer> Emily Spivey</writer>
+	</writers>
+	<editors>
+		<editor> Julie Monroe</editor>
+	</editors>
+</doc>

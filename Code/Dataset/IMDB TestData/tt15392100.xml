@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<doc id="tt15392100">
+	<docid>tt15392100</docid>
+	<title>The Billion Dollar Code</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZmQxNGE3NzItOTE4YS00ODFjLWJlNDQtMzZmOTU5MTdmMjJiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">267</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>In 1990s Berlin, an artist and a hacker invented a new way to see the world. Years later, they reunite to sue Google for patent infringement on it.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>German</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Leonard Scheicher</actor>
+			<role>Carsten Schlüter young</role>
+		</credit>
+		<credit>
+			<actor>Marius Ahrendt</actor>
+			<role>Juri Müller young</role>
+		</credit>
+		<credit>
+			<actor>Mark Waschke</actor>
+			<role>Carsten Schlüter</role>
+		</credit>
+		<credit>
+			<actor>Misel Maticevic</actor>
+			<role>Juri Müller</role>
+		</credit>
+		<credit>
+			<actor>Lavinia Wilson</actor>
+			<role>Lea Hauswirth</role>
+		</credit>
+		<credit>
+			<actor>Seumas F. Sargent</actor>
+			<role>Eric Spears</role>
+		</credit>
+		<credit>
+			<actor>Lukas Loughran</actor>
+			<role>Brian Anderson</role>
+		</credit>
+		<credit>
+			<actor>Johanna Polley</actor>
+			<role>Christine young</role>
+		</credit>
+		<credit>
+			<actor>Thomas Douglas</actor>
+			<role>Ralph</role>
+		</credit>
+		<credit>
+			<actor>Clayton Nemrow</actor>
+			<role>Warren Stewart</role>
+		</credit>
+		<credit>
+			<actor>Dan Cade</actor>
+			<role>Matt Boyd</role>
+		</credit>
+		<credit>
+			<actor>Michelle Glick</actor>
+			<role>Janet Martinez</role>
+		</credit>
+		<credit>
+			<actor>Sabrina Amali</actor>
+			<role>Julia Blaschke young</role>
+		</credit>
+		<credit>
+			<actor>Elias Krischke</actor>
+			<role>CCC Alex young</role>
+		</credit>
+		<credit>
+			<actor>Marcel Heuperman</actor>
+			<role>Bernd young</role>
+		</credit>
+		<credit>
+			<actor>Rauand Taleb</actor>
+			<role>Schmölders young</role>
+		</credit>
+		<credit>
+			<actor>Tulián Aczél</actor>
+			<role>DOS</role>
+		</credit>
+		<credit>
+			<actor>Neda Rahmanian</actor>
+			<role>Julia Blaschke</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Switzerland">October 1 2021</releasedate>
+		<releasedate country="Argentina">October 7 2021</releasedate>
+		<releasedate country="Australia">October 7 2021</releasedate>
+		<releasedate country="Brazil">October 7 2021</releasedate>
+		<releasedate country="Canada">October 7 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16+</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on true story</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>1990s</keyword>
+		<keyword>computer</keyword>
+		<keyword>foundation</keyword>
+		<keyword>money</keyword>
+		<keyword>justice</keyword>
+		<keyword>google earth</keyword>
+		<keyword>legal</keyword>
+		<keyword>legal thriller</keyword>
+		<keyword>code</keyword>
+		<keyword>reunification</keyword>
+		<keyword>investor</keyword>
+		<keyword>hacker</keyword>
+		<keyword>docudrama drama</keyword>
+		<keyword>true crime</keyword>
+	</keywords>
+	<directors>
+		<director> Robert Thalheim</director>
+	</directors>
+	<composers>
+		<composer> Uwe Bossenz</composer>
+		<composer> Anton Feist</composer>
+	</composers>
+	<producers>
+		<producer> Andreas Banz</producer>
+		<producer> Stephan Barth</producer>
+		<producer> Viktória Petrányi</producer>
+		<producer> Szandra Barbara Pozsár</producer>
+		<producer> Annie Schilling</producer>
+		<producer> Robert Thalheim</producer>
+		<producer> Oliver Ziegenbalg</producer>
+	</producers>
+	<writers>
+		<writer> Oliver Ziegenbalg</writer>
+	</writers>
+	<editors>
+		<editor> Stefan Kobe</editor>
+		<editor> Anja Siemens</editor>
+	</editors>
+</doc>

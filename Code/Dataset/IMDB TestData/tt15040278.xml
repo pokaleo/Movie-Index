@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<doc id="tt15040278">
+	<docid>tt15040278</docid>
+	<title>Mammals</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzgyM2MwNjktNzEyMy00OGZiLTg3MmQtNjM3NWQ2MTU5MmRhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The story of a Michelin-starred chef whose world implodes when he discovers shocking secrets about his pregnant wife.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>James Corden</actor>
+			<role>Jamie Buckingham</role>
+		</credit>
+		<credit>
+			<actor>Melia Kreiling</actor>
+			<role>Amandine Buckingham</role>
+		</credit>
+		<credit>
+			<actor>Colin Morgan</actor>
+			<role>Jeff Wilson</role>
+		</credit>
+		<credit>
+			<actor>Sally Hawkins</actor>
+			<role>Lue</role>
+		</credit>
+		<credit>
+			<actor>Naoko Mori</actor>
+			<role>Siobhan</role>
+		</credit>
+		<credit>
+			<actor>Rasmus Hardiker</actor>
+			<role>Briggsy</role>
+		</credit>
+		<credit>
+			<actor>Isla Gie</actor>
+			<role>Greta</role>
+		</credit>
+		<credit>
+			<actor>Nina Toussaint-White</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Henry Lloyd-Hughes</actor>
+			<role>Jack Elliot</role>
+		</credit>
+		<credit>
+			<actor>Karl Johnson</actor>
+			<role>Mr. Lewis</role>
+		</credit>
+		<credit>
+			<actor>Mido Hamada</actor>
+			<role>Pierre</role>
+		</credit>
+		<credit>
+			<actor>Gary Pillai</actor>
+			<role>Dr. Chowdury</role>
+		</credit>
+		<credit>
+			<actor>Cécile Fisera</actor>
+			<role>Coco Chanel</role>
+		</credit>
+		<credit>
+			<actor>Samuel Anderson</actor>
+			<role>Dan</role>
+		</credit>
+		<credit>
+			<actor>Jacqueline King</actor>
+			<role>Trish Buckingham</role>
+		</credit>
+		<credit>
+			<actor>Paul Cawley</actor>
+			<role>Tim Buckingham</role>
+		</credit>
+		<credit>
+			<actor>Caroline Loncq</actor>
+			<role>Beatrice</role>
+		</credit>
+		<credit>
+			<actor>Melissa Phillips</actor>
+			<role>Chef Kerry</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">October 7 2022</releasedate>
+		<releasedate country="Spain">October 28 2022</releasedate>
+		<releasedate country="United Arab Emirates">November 11 2022</releasedate>
+		<releasedate country="Argentina">November 11 2022</releasedate>
+		<releasedate country="Australia">November 11 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">16+</certificate>
+		<certificate country="Ecuador">16</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">13</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">16+</certificate>
+		<certificate country="Mexico">16</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16+</certificate>
+		<certificate country="South Korea">16+</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>secret</keyword>
+		<keyword>psychological drama</keyword>
+	</keywords>
+	<directors>
+		<director> Stephanie Laing</director>
+	</directors>
+	<composers>
+		<composer> Graham Coxon</composer>
+	</composers>
+	<producers>
+		<producer> Jez Butterworth</producer>
+		<producer> Dee Collier</producer>
+		<producer> James Corden</producer>
+		<producer> Stephanie Laing</producer>
+		<producer> Georgina Lowe</producer>
+		<producer> James Richardson</producer>
+		<producer> Diane Shorthouse</producer>
+		<producer> Joel Stokes</producer>
+	</producers>
+	<writers>
+		<writer> Jez Butterworth</writer>
+		<writer> James Richardson</writer>
+	</writers>
+	<editors>
+		<editor> Brenna Rangott</editor>
+		<editor> Joe Klotz</editor>
+		<editor> Anthony Boys</editor>
+	</editors>
+</doc>

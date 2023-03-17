@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc id="tt15000314">
+	<docid>tt15000314</docid>
+	<title>White Snake 2: Green Snake</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZWRlZTA2MDktNzllOC00MDgzLWEyYmItY2RmYzE0YzFmNTIwXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">131</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>Animated adaptation of the classic Chinese folktale. Sequel to the 2019 film 'White Snake'.</plot>
+	<countries>
+		<country>China</country>
+	</countries>
+	<languages>
+		<language>Chinese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Xiaoxi Tang</actor>
+			<role>Xiao Qing</role>
+		</credit>
+		<credit>
+			<actor>Zhang Fuzheng</actor>
+			<role>Masked Man</role>
+		</credit>
+		<credit>
+			<actor>Islam Abdelbadia</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Zhongyang Baomu</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Feodor Chin</actor>
+			<role>Fahai</role>
+		</credit>
+		<credit>
+			<actor>Grace Lynn Kung</actor>
+			<role>Sun</role>
+		</credit>
+		<credit>
+			<actor>Angel Lin</actor>
+			<role>Third Lieutenant</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Wong</actor>
+			<role>Spider Demon</role>
+		</credit>
+		<credit>
+			<actor>Tianxiang Yang</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Zhe Zhang</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="China">July 20 2021</releasedate>
+		<releasedate country="China">July 23 2021</releasedate>
+		<releasedate country="Indonesia">July 23 2021</releasedate>
+		<releasedate country="India">September 20 2021</releasedate>
+		<releasedate country="Germany">September 25 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">16+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">13</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Italy">BA</certificate>
+		<certificate country="Mexico">18</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">13+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Spain">10</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Arab Emirates">13+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+	</keywords>
+	<directors>
+		<director> Amp Wong</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Damao</writer>
+	</writers>
+	<editors/>
+</doc>

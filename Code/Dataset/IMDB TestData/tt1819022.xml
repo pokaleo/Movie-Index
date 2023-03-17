@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<doc id="tt1819022">
+	<docid>tt1819022</docid>
+	<title>Mrs. Brown's Boys</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjU3NzQ5MWEtNGUxYS00MGNlLWJlOWUtYWI2YjAxNmIyNjU5XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">26</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A comedy centered on a loud-mouthed Irish matriarch whose favorite pastime is meddling in the lives of her six children.</plot>
+	<countries>
+		<country>Ireland</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Brendan O'Carroll</actor>
+			<role>Agnes Brown</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Gibney</actor>
+			<role>Cathy Brown</role>
+		</credit>
+		<credit>
+			<actor>Eilish O'Carroll</actor>
+			<role>Winnie McGoogan</role>
+		</credit>
+		<credit>
+			<actor>Paddy Houlihan</actor>
+			<role>Dermot Brown</role>
+		</credit>
+		<credit>
+			<actor>Dermot O'Neill</actor>
+			<role>Grandad Brown</role>
+		</credit>
+		<credit>
+			<actor>Danny O'Carroll</actor>
+			<role>Buster Brady</role>
+		</credit>
+		<credit>
+			<actor>Amanda Woods</actor>
+			<role>Betty Brown</role>
+		</credit>
+		<credit>
+			<actor>Pat Shields</actor>
+			<role>Mark Brown</role>
+		</credit>
+		<credit>
+			<actor>Fiona O'Carroll</actor>
+			<role>Maria Brown</role>
+		</credit>
+		<credit>
+			<actor>Fiona Gibney</actor>
+			<role>Sharon McGoogan</role>
+		</credit>
+		<credit>
+			<actor>Conor Moloney</actor>
+			<role>Father Damien</role>
+		</credit>
+		<credit>
+			<actor>Rory Cowan</actor>
+			<role>Rory Brown</role>
+		</credit>
+		<credit>
+			<actor>Gary Hollywood</actor>
+			<role>Dino Doyle</role>
+		</credit>
+		<credit>
+			<actor>Emily Regan</actor>
+			<role>Barbara</role>
+		</credit>
+		<credit>
+			<actor>Derek Reddin</actor>
+			<role>Dr. Flynn</role>
+		</credit>
+		<credit>
+			<actor>Martin Delany</actor>
+			<role>Trevor Brown</role>
+		</credit>
+		<credit>
+			<actor>Jamie O'Carroll</actor>
+			<role>Bono Brown</role>
+		</credit>
+		<credit>
+			<actor>Susie Blake</actor>
+			<role>Hillary Nicholson</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Ireland">January 1 2011</releasedate>
+		<releasedate country="United States">February 19 2011</releasedate>
+		<releasedate country="United Kingdom">February 21 2011</releasedate>
+		<releasedate country="Australia">June 27 2012</releasedate>
+		<releasedate country="Sweden">April 14 2014</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Singapore">NC-16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>irish</keyword>
+		<keyword>matriarch</keyword>
+		<keyword>old woman</keyword>
+		<keyword>crude humor</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>breaking the fourth wall</keyword>
+		<keyword>man in drag</keyword>
+		<keyword>gay</keyword>
+		<keyword>ireland</keyword>
+		<keyword>dublin ireland</keyword>
+		<keyword>working class</keyword>
+		<keyword>dysfunctional family</keyword>
+		<keyword>religion</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>apostrophe in title</keyword>
+		<keyword>abbreviation in title</keyword>
+		<keyword>period in title</keyword>
+		<keyword>punctuation in title</keyword>
+	</keywords>
+	<directors>
+		<director> Ben Kellett</director>
+		<director> Nick Wood</director>
+	</directors>
+	<composers>
+		<composer> Michael Eisenstein</composer>
+		<composer> Andy O'Callaghan</composer>
+	</composers>
+	<producers>
+		<producer> Stephen McCrum</producer>
+		<producer> James Kay</producer>
+		<producer> Justin Healy</producer>
+		<producer> Martin Delany</producer>
+		<producer> Mark Freeland</producer>
+		<producer> Ewan Angus</producer>
+		<producer> Ben Kellett</producer>
+		<producer> Fiona Gibney</producer>
+		<producer> Steven Canny</producer>
+		<producer> Brendan O'Carroll</producer>
+		<producer> Eddie Doyle</producer>
+		<producer> Tracy McParland</producer>
+		<producer> Chris Sussman</producer>
+		<producer> Sam Michell</producer>
+		<producer> Rachel-Anne Clarke</producer>
+		<producer> Dean Donnelly</producer>
+		<producer> Gillian Doohan</producer>
+		<producer> Gregor Sharp</producer>
+		<producer> Justin Healy</producer>
+		<producer> Jennifer Gibney</producer>
+	</producers>
+	<writers>
+		<writer> Paul Mayhew-Archer</writer>
+		<writer> Brendan O'Carroll</writer>
+		<writer> Brendan O'Carroll</writer>
+	</writers>
+	<editors>
+		<editor> Mark Lawrence</editor>
+	</editors>
+</doc>

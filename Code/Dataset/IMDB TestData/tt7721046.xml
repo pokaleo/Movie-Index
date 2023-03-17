@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<doc id="tt7721046">
+	<docid>tt7721046</docid>
+	<title>Los Espookys</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2ZiMTA2YjUtMWJiZC00MjU5LTg0ZDktODFkMDA4OTY4YTg2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">26</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A group of friends turns their love for horror into a peculiar business, providing horror to those who need it in a dreamy Latin American country where the strange and eerie are just part of daily life.</plot>
+	<countries>
+		<country>Mexico</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Cassandra Ciangherotti</actor>
+			<role>Úrsula</role>
+		</credit>
+		<credit>
+			<actor>Ana Fabrega</actor>
+			<role>Tati</role>
+		</credit>
+		<credit>
+			<actor>Julio Torres</actor>
+			<role>Andrés</role>
+		</credit>
+		<credit>
+			<actor>Bernardo Velasco</actor>
+			<role>Renaldo</role>
+		</credit>
+		<credit>
+			<actor>Fred Armisen</actor>
+			<role>Tico</role>
+		</credit>
+		<credit>
+			<actor>José Pablo Minor</actor>
+			<role>Juan Carlos</role>
+		</credit>
+		<credit>
+			<actor>River L. Ramirez</actor>
+			<role>Sonia</role>
+		</credit>
+		<credit>
+			<actor>Spike Einbinder</actor>
+			<role>Water Shadow</role>
+		</credit>
+		<credit>
+			<actor>Giannina Fruttero</actor>
+			<role>Beatriz</role>
+		</credit>
+		<credit>
+			<actor>Greta Titelman</actor>
+			<role>Ambassador Melanie Gibbons</role>
+		</credit>
+		<credit>
+			<actor>Martine Gutierrez</actor>
+			<role>Karina Salgado</role>
+		</credit>
+		<credit>
+			<actor>Eudora Peterson</actor>
+			<role>Krissy</role>
+		</credit>
+		<credit>
+			<actor>Sam Taggart</actor>
+			<role>JJ</role>
+		</credit>
+		<credit>
+			<actor>Adela Calderón</actor>
+			<role>Mama</role>
+		</credit>
+		<credit>
+			<actor>Carmen Gloria Bresky</actor>
+			<role>Mayor Teresa Lobos</role>
+		</credit>
+		<credit>
+			<actor>Alejandro Goic</actor>
+			<role>Mr. Valdez</role>
+		</credit>
+		<credit>
+			<actor>Annie Murath</actor>
+			<role>Mrs. Valdez</role>
+		</credit>
+		<credit>
+			<actor>Rocío Hormazabal</actor>
+			<role>Gregoria's Assistant</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Mexico">December 31 2018</releasedate>
+		<releasedate country="Mexico">June 2019</releasedate>
+		<releasedate country="Argentina">June 14 2019</releasedate>
+		<releasedate country="Canada">June 14 2019</releasedate>
+		<releasedate country="United States">June 14 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>love</keyword>
+		<keyword>quirky comedy</keyword>
+	</keywords>
+	<directors>
+		<director> Fernando Frias</director>
+		<director> Sebastián Silva</director>
+		<director> Ana Fabrega</director>
+	</directors>
+	<composers>
+		<composer> Emilio Acevedo</composer>
+		<composer> Gus Reyes</composer>
+		<composer> Andrés Sánchez</composer>
+	</composers>
+	<producers>
+		<producer> Gunther Kaempfe</producer>
+		<producer> Nate Young</producer>
+		<producer> Alice Mathias</producer>
+		<producer> Eduardo Castro</producer>
+		<producer> Ana Fabrega</producer>
+		<producer> Jonathan Ferrantelli</producer>
+		<producer> Julio Torres</producer>
+		<producer> Mapi Koscina</producer>
+		<producer> Sharon Lopez</producer>
+		<producer> Cristián Martinez</producer>
+		<producer> Maria Altamirano</producer>
+		<producer> Andrew Singer</producer>
+		<producer> Mara Vargas Jackson</producer>
+		<producer> Fred Armisen</producer>
+		<producer> Colette Burson</producer>
+		<producer> Lorne Michaels</producer>
+	</producers>
+	<writers>
+		<writer> Fred Armisen</writer>
+		<writer> Fred Armisen</writer>
+		<writer> Ana Fabrega</writer>
+		<writer> Ana Fabrega</writer>
+		<writer> Julio Torres</writer>
+		<writer> Julio Torres</writer>
+		<writer> Bernardo Britto</writer>
+	</writers>
+	<editors>
+		<editor> Arturo Sosa</editor>
+		<editor> Jesus Huidobro</editor>
+	</editors>
+</doc>

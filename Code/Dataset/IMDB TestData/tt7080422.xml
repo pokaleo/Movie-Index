@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<doc id="tt7080422">
+	<docid>tt7080422</docid>
+	<title>Dragon Rider</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDgwZGM3MmMtYmMwNC00NjViLWJkZWItNjZjOTIxN2QzN2Q0XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">91</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A young silver dragon teams up with a mountain spirit and an orphaned boy on a journey through the Himalayas in search for the Rim of Heaven.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Nonso Anozie</actor>
+			<role>Mighty Djinn</role>
+		</credit>
+		<credit>
+			<actor>Patrick Stewart</actor>
+			<role>Nettlebrand</role>
+		</credit>
+		<credit>
+			<actor>Felicity Jones</actor>
+			<role>Sorrell</role>
+		</credit>
+		<credit>
+			<actor>Freddie Highmore</actor>
+			<role>Ben</role>
+		</credit>
+		<credit>
+			<actor>Thomas Brodie-Sangster</actor>
+			<role>Firedrake</role>
+		</credit>
+		<credit>
+			<actor>Sanjeev Bhaskar</actor>
+			<role>Mad Doc</role>
+		</credit>
+		<credit>
+			<actor>Meera Syal</actor>
+			<role>Subisha Gulab</role>
+		</credit>
+		<credit>
+			<actor>Alex Norton</actor>
+			<role>Gravelbeard</role>
+		</credit>
+		<credit>
+			<actor>Peter Marinker</actor>
+			<role>Slatebeard</role>
+		</credit>
+		<credit>
+			<actor>Stephen Hogan</actor>
+			<role>Spinecrackle</role>
+		</credit>
+		<credit>
+			<actor>Eric Meyers</actor>
+			<role>Sulphurbreath</role>
+		</credit>
+		<credit>
+			<actor>Glenn Wrage</actor>
+			<role>Bottleneck</role>
+		</credit>
+		<credit>
+			<actor>William Vanderpuye</actor>
+			<role>Stonebeard</role>
+		</credit>
+		<credit>
+			<actor>Alison Dowling</actor>
+			<role>Sorrel's Mom</role>
+		</credit>
+		<credit>
+			<actor>Ewan Bailey</actor>
+			<role>Sorrel's Dad</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Hibbert</actor>
+			<role>Twigleg</role>
+		</credit>
+		<credit>
+			<actor>Glen McCready</actor>
+			<role>Granitface</role>
+		</credit>
+		<credit>
+			<actor>David Brooks</actor>
+			<role>Professor Greenbloom</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Thailand">October 13 2020</releasedate>
+		<releasedate country="Switzerland">October 15 2020</releasedate>
+		<releasedate country="Germany">October 15 2020</releasedate>
+		<releasedate country="Iceland">October 23 2020</releasedate>
+		<releasedate country="Lithuania">October 23 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">TV-Y7</certificate>
+		<certificate country="Egypt">E</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">TV-Y7</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Poland">0</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Saudi Arabia">PG</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Turkey">6+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+		<certificate country="United Arab Emirates">G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>creatures</keyword>
+		<keyword>dragon</keyword>
+		<keyword>friendship</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>talking dragon</keyword>
+		<keyword>brownie the creature</keyword>
+		<keyword>dragon rider</keyword>
+		<keyword>desert</keyword>
+		<keyword>raven</keyword>
+		<keyword>basilisk</keyword>
+		<keyword>mountain</keyword>
+		<keyword>homunculus</keyword>
+		<keyword>little person</keyword>
+		<keyword>fire</keyword>
+		<keyword>reference to skype</keyword>
+		<keyword>two word title</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Tomer Eshed</director>
+	</directors>
+	<composers>
+		<composer> Stefan Maria Schneider</composer>
+	</composers>
+	<producers>
+		<producer> Ives Agemans</producer>
+		<producer> Oliver Berben</producer>
+		<producer> Ciara Breslin</producer>
+		<producer> Martin Moszkowicz</producer>
+		<producer> Christoph Müller</producer>
+		<producer> Sven Pannicke</producer>
+		<producer> Dennis Rettkowski</producer>
+		<producer> Marina Schiller</producer>
+		<producer> Ulrich Schwarz</producer>
+		<producer> Bernhard Thür</producer>
+	</producers>
+	<writers>
+		<writer> Cornelia Funke</writer>
+		<writer> Johnny Smith</writer>
+	</writers>
+	<editors>
+		<editor> Jens Prausnitz</editor>
+	</editors>
+</doc>

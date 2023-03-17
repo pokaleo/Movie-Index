@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc id="tt4016250">
+	<docid>tt4016250</docid>
+	<title>The Audition</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjZlOTAzNTYtMTA5YS00NjU0LThiZTEtYTBjYmZkMGE1NDRlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>III 2015</year>
+	<runningtimes>
+		<runningtime country="default">16</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Robert De Niro and Leonardo DiCaprio must compete for the lead role in Martin Scorsese's next film.</plot>
+	<countries>
+		<country>Macao</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Robert De Niro</actor>
+			<role>Robert De Niro</role>
+		</credit>
+		<credit>
+			<actor>Leonardo DiCaprio</actor>
+			<role>Leonardo DiCaprio</role>
+		</credit>
+		<credit>
+			<actor>Brad Pitt</actor>
+			<role>Brad Pitt</role>
+		</credit>
+		<credit>
+			<actor>Martin Scorsese</actor>
+			<role>Martin Scorsese</role>
+		</credit>
+		<credit>
+			<actor>Rodrigo Prieto</actor>
+			<role>Rodrigo Prieto</role>
+		</credit>
+		<credit>
+			<actor>K.K. Moggie</actor>
+			<role>Dealer</role>
+		</credit>
+		<credit>
+			<actor>Ron Nakahara</actor>
+			<role>Maitre D'</role>
+		</credit>
+		<credit>
+			<actor>Lyman Chen</actor>
+			<role>Waiter</role>
+		</credit>
+		<credit>
+			<actor>Robert 'Toshi' Kar Yuen Chan</actor>
+			<role>Good Looking Guy #1</role>
+		</credit>
+		<credit>
+			<actor>Johnny M. Wu</actor>
+			<role>Good Looking Guy #2</role>
+		</credit>
+		<credit>
+			<actor>Eric Elizaga</actor>
+			<role>Good Looking Guy #3</role>
+		</credit>
+		<credit>
+			<actor>Shuya Chang</actor>
+			<role>Gorgeous Woman #1</role>
+		</credit>
+		<credit>
+			<actor>Michelle Guo</actor>
+			<role>Gorgeous Woman #2</role>
+		</credit>
+		<credit>
+			<actor>Jarah Mariano</actor>
+			<role>Gorgeous Woman #3</role>
+		</credit>
+		<credit>
+			<actor>Shawna Christensen</actor>
+			<role>Gorgeous Woman #4</role>
+		</credit>
+		<credit>
+			<actor>Jamie Choi</actor>
+			<role>Gorgeous Woman #5</role>
+		</credit>
+		<credit>
+			<actor>Marko Caka</actor>
+			<role>Casino Patron</role>
+		</credit>
+		<credit>
+			<actor>Fannie Chan</actor>
+			<role>Casino Patron</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Macao">September 27 2015</releasedate>
+		<releasedate country="South Korea">October 3 2015</releasedate>
+		<releasedate country="China">October 27 2015</releasedate>
+		<releasedate country="Japan">June 9 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>casino</keyword>
+		<keyword>two word title</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>gambling</keyword>
+		<keyword>actors</keyword>
+		<keyword>audition</keyword>
+	</keywords>
+	<directors>
+		<director> Martin Scorsese</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Marjie Abrahams</producer>
+		<producer> Jules Daly</producer>
+		<producer> Lawrence Ho</producer>
+		<producer> James Packer</producer>
+		<producer> Josh Porter</producer>
+		<producer> Brett Ratner</producer>
+		<producer> Emma Tillinger Koskoff</producer>
+	</producers>
+	<writers>
+		<writer> Terence Winter</writer>
+	</writers>
+	<editors>
+		<editor> Kevin Tent</editor>
+	</editors>
+</doc>

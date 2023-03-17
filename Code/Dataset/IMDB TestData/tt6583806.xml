@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<doc id="tt6583806">
+	<docid>tt6583806</docid>
+	<title>This Country</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjE1MzJiMjctODk1ZC00ZjllLTk3OWQtZTljYzgwZWNhYzA1XkEyXkFqcGdeQXVyMTYzMTg2MQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">21</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Comedy exploring the lives of young people in modern rural Britain, focusing on cousins Kerry and Kurtan's lives in the Cotswolds.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Daisy May Cooper</actor>
+			<role>Kerry Mucklowe</role>
+		</credit>
+		<credit>
+			<actor>Charlie Cooper</actor>
+			<role>Lee 'Kurtan' Mucklowe</role>
+		</credit>
+		<credit>
+			<actor>Paul Chahidi</actor>
+			<role>Reverend Francis Seaton</role>
+		</credit>
+		<credit>
+			<actor>Trevor Cooper</actor>
+			<role>Len Clifton</role>
+		</credit>
+		<credit>
+			<actor>Michael Sleggs</actor>
+			<role>Michael 'Slugs' Slugett</role>
+		</credit>
+		<credit>
+			<actor>Paul Cooper</actor>
+			<role>Martin Mucklowe</role>
+		</credit>
+		<credit>
+			<actor>Ashley McGuire</actor>
+			<role>Mandy Harris</role>
+		</credit>
+		<credit>
+			<actor>David Hargreaves</actor>
+			<role>Arthur Andrews</role>
+		</credit>
+		<credit>
+			<actor>Celeste Dring</actor>
+			<role>Kayleigh Hudson</role>
+		</credit>
+		<credit>
+			<actor>Eliza Hunt</actor>
+			<role>June Winwood</role>
+		</credit>
+		<credit>
+			<actor>Badger Skelton</actor>
+			<role>Levi Johnson</role>
+		</credit>
+		<credit>
+			<actor>Colin Wakeman</actor>
+			<role>Colin Cresswell</role>
+		</credit>
+		<credit>
+			<actor>Abra Thompson</actor>
+			<role>Sophie Huxley</role>
+		</credit>
+		<credit>
+			<actor>Phil James</actor>
+			<role>Ian King</role>
+		</credit>
+		<credit>
+			<actor>Liam Steward-George</actor>
+			<role>PC George Webber</role>
+		</credit>
+		<credit>
+			<actor>Jimmy Walker</actor>
+			<role>Dan Greaves</role>
+		</credit>
+		<credit>
+			<actor>Preston Nyman</actor>
+			<role>'Weak' Nathan Kay</role>
+		</credit>
+		<credit>
+			<actor>Holly Atkins</actor>
+			<role>Sandra Prounty</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">February 12 2017</releasedate>
+		<releasedate country="Australia">October 21 2018</releasedate>
+		<releasedate country="Canada">May 2 2019</releasedate>
+		<releasedate country="Spain">March 23 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>mockumentary</keyword>
+		<keyword>british humour</keyword>
+		<keyword>rural setting</keyword>
+		<keyword>sitcom</keyword>
+		<keyword>cotswolds</keyword>
+		<keyword>football shirt</keyword>
+		<keyword>cousin</keyword>
+		<keyword>village</keyword>
+		<keyword>british slang</keyword>
+		<keyword>two word title</keyword>
+		<keyword>sitcom comedy</keyword>
+	</keywords>
+	<directors>
+		<director> Tom George</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Simon Mayhew-Archer</producer>
+		<producer> Stephen McCrum</producer>
+		<producer> Inez Gordon</producer>
+		<producer> Maria Cooper</producer>
+		<producer> Chris Sussman</producer>
+		<producer> Francis Gilson</producer>
+		<producer> Tom George</producer>
+	</producers>
+	<writers>
+		<writer> Charlie Cooper</writer>
+		<writer> Daisy May Cooper</writer>
+		<writer> Tom George</writer>
+		<writer> Simon Mayhew-Archer</writer>
+	</writers>
+	<editors>
+		<editor> Craig Harbour</editor>
+	</editors>
+</doc>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<doc id="tt16148654">
+	<docid>tt16148654</docid>
+	<title>Captain</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A team of soldiers, led by a brave army captain, takes up a dangerous mission to go into a restricted forest area and uncover the mystery behind the unexplainable deaths of previous teams that had visited the site.</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Tamil</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Arya</actor>
+			<role>Vetriselvan</role>
+		</credit>
+		<credit>
+			<actor>Aishwarya Lekshmi</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Kavya Shetty</actor>
+			<role>Rekha</role>
+		</credit>
+		<credit>
+			<actor>Simran</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Harish Uthaman</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">September 8 2022</releasedate>
+		<releasedate country="France">September 8 2022</releasedate>
+		<releasedate country="India">September 8 2022</releasedate>
+		<releasedate country="Singapore">September 8 2022</releasedate>
+		<releasedate country="United States">September 8 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+	</certificates>
+	<keywords>
+		<keyword>military</keyword>
+		<keyword>officer</keyword>
+		<keyword>fight</keyword>
+	</keywords>
+	<directors>
+		<director> Shakti Soundar Rajan</director>
+	</directors>
+	<composers>
+		<composer> D. Imman</composer>
+	</composers>
+	<producers>
+		<producer> K. Madhan</producer>
+	</producers>
+	<writers>
+		<writer> Shakti Soundar Rajan</writer>
+	</writers>
+	<editors>
+		<editor> Pradeep E. Ragav</editor>
+	</editors>
+</doc>

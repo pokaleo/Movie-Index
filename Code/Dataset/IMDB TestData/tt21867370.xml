@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<doc id="tt21867370">
+	<docid>tt21867370</docid>
+	<title>Confidential Assignment 2: International</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTEwY2NkNjYtOTRhNy00ZTQxLTg4ODMtMzcwNzRlYjgwNjA4XkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">129</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The film depicts an unpredictable global cooperative investigation by South Korean, North Korean, and American detectives who have come together for their own purposes.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Hyun Bin</actor>
+			<role>Im Chul Ryung</role>
+		</credit>
+		<credit>
+			<actor>Im Yoon-ah</actor>
+			<role>Park Min Young</role>
+		</credit>
+		<credit>
+			<actor>Hae-Jin Yoo</actor>
+			<role>Kang Jin Tae</role>
+		</credit>
+		<credit>
+			<actor>Daniel Henney</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Jin Seon-kyu</actor>
+			<role>Jang Myeong Jun</role>
+		</credit>
+		<credit>
+			<actor>Park Hoon</actor>
+			<role>Park Sang Wi</role>
+		</credit>
+		<credit>
+			<actor>Lee Je-Yeon</actor>
+			<role>Jong Goo</role>
+		</credit>
+		<credit>
+			<actor>Min-ji Lee</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>John D. Michaels</actor>
+			<role>FBI Director</role>
+		</credit>
+		<credit>
+			<actor>Min-Ha Park</actor>
+			<role>Kang Yeon Ah</role>
+		</credit>
+		<credit>
+			<actor>Dong-won Seo</actor>
+			<role>Lee Hyeong Sa</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">September 7 2022</releasedate>
+		<releasedate country="Taiwan">September 8 2022</releasedate>
+		<releasedate country="Singapore">September 15 2022</releasedate>
+		<releasedate country="Indonesia">September 30 2022</releasedate>
+		<releasedate country="Philippines">October 12 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Taiwan">12+</certificate>
+		<certificate country="Thailand">15+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Seok-hoon Lee</director>
+	</directors>
+	<composers>
+		<composer> Sang-Jun Hwang</composer>
+	</composers>
+	<producers>
+		<producer> Jun-ho Choi</producer>
+		<producer> Young-min Gil</producer>
+		<producer> Ah-Reum Hong</producer>
+		<producer> Seoung-Hwan Ju</producer>
+		<producer> Seon-Young Lee</producer>
+		<producer> Je-Gyun Yoon</producer>
+	</producers>
+	<writers>
+		<writer> Seok-hoon Lee</writer>
+		<writer> Im Seong-soon</writer>
+		<writer> Im Seong-soon</writer>
+		<writer> Je-Gyun Yoon</writer>
+	</writers>
+	<editors/>
+</doc>

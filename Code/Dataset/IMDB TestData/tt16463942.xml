@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<doc id="tt16463942">
+	<docid>tt16463942</docid>
+	<title>Die Discounter</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzI4ZjBjMTYtNDA0ZS00NjAzLWIzZjctNzA1ZDlmYjJkZDg1XkEyXkFqcGdeQXVyNjc1NjkyMjE@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">17</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A group of young supermarket employees faces the daily challenges of the store. Led by store manager Thorsten, the employees try to master all the disasters and dramas.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>German</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Ludger Bökelmann</actor>
+			<role>Peter</role>
+		</credit>
+		<credit>
+			<actor>Marc Hosemann</actor>
+			<role>Thorsten</role>
+		</credit>
+		<credit>
+			<actor>Bruno Alexander</actor>
+			<role>Titus</role>
+		</credit>
+		<credit>
+			<actor>Merlin Sandmeyer</actor>
+			<role>Jonas</role>
+		</credit>
+		<credit>
+			<actor>Marie Bloching</actor>
+			<role>Lia</role>
+		</credit>
+		<credit>
+			<actor>David Ali Rashed</actor>
+			<role>450er</role>
+		</credit>
+		<credit>
+			<actor>Nura Habib Omer</actor>
+			<role>Flora</role>
+		</credit>
+		<credit>
+			<actor>Klara Lange</actor>
+			<role>Pina</role>
+		</credit>
+		<credit>
+			<actor>Doris Kunstmann</actor>
+			<role>Frau Jensen</role>
+		</credit>
+		<credit>
+			<actor>Wolfgang Michael</actor>
+			<role>Wilhelm</role>
+		</credit>
+		<credit>
+			<actor>Alexander Merbeth</actor>
+			<role>Claude</role>
+		</credit>
+		<credit>
+			<actor>Catrin Striebeck</actor>
+			<role>Sabine Kolinski</role>
+		</credit>
+		<credit>
+			<actor>Oskar Belton</actor>
+			<role>Pelle</role>
+		</credit>
+		<credit>
+			<actor>Emil Belton</actor>
+			<role>Henry</role>
+		</credit>
+		<credit>
+			<actor>Lisa Hagmeister</actor>
+			<role>Susanne</role>
+		</credit>
+		<credit>
+			<actor>Samirah Breuer</actor>
+			<role>Kimi</role>
+		</credit>
+		<credit>
+			<actor>Lo Rivera</actor>
+			<role>Beyza</role>
+		</credit>
+		<credit>
+			<actor>Adam Bousdoukos</actor>
+			<role>Georgios</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">December 17 2021</releasedate>
+		<releasedate country="Germany">December 17 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>supermarket</keyword>
+	</keywords>
+	<directors>
+		<director> Bruno Alexander</director>
+		<director> Emil Belton</director>
+		<director> Oskar Belton</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Carsten Kelber</producer>
+		<producer> Christian Ulmen</producer>
+	</producers>
+	<writers>
+		<writer> Bruno Alexander</writer>
+		<writer> Emil Belton</writer>
+		<writer> Oskar Belton</writer>
+		<writer> Paul de Vrijer</writer>
+	</writers>
+	<editors>
+		<editor> Bruno Alexander</editor>
+		<editor> Emil Belton</editor>
+		<editor> Oskar Belton</editor>
+		<editor> Marty Schenk</editor>
+		<editor> Hendrik Gutmann</editor>
+		<editor> Christoph Strothjohann</editor>
+	</editors>
+</doc>

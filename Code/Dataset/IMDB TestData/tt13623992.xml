@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<doc id="tt13623992">
+	<docid>tt13623992</docid>
+	<title>Welcome to Earth</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjNkZmNkYjYtMTU3OS00MWJkLThmZDAtZTY4NWYxM2ZkYTY1XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">44</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>Will Smith travels to the extreme ends of the earth from active volcanoes to deep ocean adventures.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Will Smith</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Diva Amon</actor>
+			<role>Self - Explorer &amp; Marine Biologist</role>
+		</credit>
+		<credit>
+			<actor>Cory Richards</actor>
+			<role>Self - Explorer &amp; Photographer</role>
+		</credit>
+		<credit>
+			<actor>Dwayne Fields</actor>
+			<role>Self - Explorer &amp; Polar Expeditionist</role>
+		</credit>
+		<credit>
+			<actor>Erik Weihenmayer</actor>
+			<role>Self - Explorer &amp; Mountaineer</role>
+		</credit>
+		<credit>
+			<actor>George Steinmetz</actor>
+			<role>Self - Explorer &amp; Photographer</role>
+		</credit>
+		<credit>
+			<actor>Albert Yu-Min Lin</actor>
+			<role>Self - Explorer &amp; Engineer</role>
+		</credit>
+		<credit>
+			<actor>Aldo Kane</actor>
+			<role>Self - Rope Specialist</role>
+		</credit>
+		<credit>
+			<actor>Jill Kelly</actor>
+			<role>Self - Diver</role>
+		</credit>
+		<credit>
+			<actor>Alexander Gerst</actor>
+			<role>Self - Astronaut</role>
+		</credit>
+		<credit>
+			<actor>Jheison Huerta</actor>
+			<role>Self - Photographer</role>
+		</credit>
+		<credit>
+			<actor>Cristina Mittermeier</actor>
+			<role>Self - Explorer &amp; Conservation Photographer</role>
+		</credit>
+		<credit>
+			<actor>Melissa Márquez</actor>
+			<role>Self - Marine Biologist</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Johnson</actor>
+			<role>Self - Volcanologist</role>
+		</credit>
+		<credit>
+			<actor>Michael André</actor>
+			<role>Self - Bioacoustic Scientist</role>
+		</credit>
+		<credit>
+			<actor>Katharine Robertson</actor>
+			<role>Self - Queensland Parks &amp; Wildlife Service</role>
+		</credit>
+		<credit>
+			<actor>Johnson Chippendale</actor>
+			<role>Self - Wuthathi Elder</role>
+		</credit>
+		<credit>
+			<actor>Falen Passi</actor>
+			<role>Self - Mariam Nation Elder</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Indonesia">August 12 2021</releasedate>
+		<releasedate country="Argentina">December 8 2021</releasedate>
+		<releasedate country="Australia">December 8 2021</releasedate>
+		<releasedate country="Brazil">December 8 2021</releasedate>
+		<releasedate country="Canada">December 8 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">14</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="India">UA 7+</certificate>
+		<certificate country="Indonesia">PG</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>extreme</keyword>
+		<keyword>volcano</keyword>
+		<keyword>ocean</keyword>
+		<keyword>national geographic</keyword>
+		<keyword>disney plus</keyword>
+		<keyword>exploration</keyword>
+		<keyword>trip</keyword>
+		<keyword>climb</keyword>
+		<keyword>journey</keyword>
+		<keyword>under the sea</keyword>
+	</keywords>
+	<directors>
+		<director> Nat Sharman</director>
+		<director> Darren Aronofsky</director>
+		<director> Joanna Barwick</director>
+		<director> Rod Blackhurst</director>
+		<director> Fleur Bone</director>
+		<director> Alice Jones</director>
+		<director> Luke Wiles</director>
+	</directors>
+	<composers>
+		<composer> Daniel Pemberton</composer>
+	</composers>
+	<producers>
+		<producer> Ronan Browne</producer>
+		<producer> Robin O'Sullivan</producer>
+		<producer> Matt Renner</producer>
+		<producer> John Salcido</producer>
+		<producer> Richard Evans</producer>
+		<producer> Jennifer Anafi-Acquah</producer>
+		<producer> Darren Aronofsky</producer>
+		<producer> Jane Root</producer>
+		<producer> Graham Booth</producer>
+		<producer> Fiona Caldwell</producer>
+		<producer> Terence Carter</producer>
+		<producer> Dudley Cruse</producer>
+		<producer> Ari Handel</producer>
+		<producer> Gary Johnstone</producer>
+		<producer> Struan Kane</producer>
+		<producer> Chris Kugelman</producer>
+		<producer> James Lassiter</producer>
+		<producer> Peter Lovering</producer>
+		<producer> Havana Marking</producer>
+		<producer> Miguel Melendez</producer>
+		<producer> Teresa Nunn</producer>
+		<producer> Matthew Sanger</producer>
+		<producer> Nat Sharman</producer>
+		<producer> Will Smith</producer>
+		<producer> Eva Spielvogel</producer>
+		<producer> Ian Syder</producer>
+		<producer> Jon Trapasso</producer>
+		<producer> Patricia Ward</producer>
+		<producer> Eric Watson</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Felix Black</editor>
+		<editor> Kel McKeown</editor>
+		<editor> Robin Hill</editor>
+		<editor> Ben Lavington Martin</editor>
+		<editor> Joseph Tims</editor>
+		<editor> Rick Aplin</editor>
+		<editor> Sam Billinge</editor>
+		<editor> Ross Bradley</editor>
+		<editor> Graeme Dawson</editor>
+		<editor> Dominic Lester</editor>
+		<editor> Jacob Thomson</editor>
+	</editors>
+</doc>

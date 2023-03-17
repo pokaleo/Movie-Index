@@ -1,0 +1,354 @@
+<?xml version="1.0" ?>
+<doc id="tt6015706">
+	<docid>tt6015706</docid>
+	<title>China Salesman</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWU1NThhZGEtNmVjOC00YzJlLTk2OWQtN2Y3OTU4OWJkOTgyXkEyXkFqcGdeQXVyMjI4MjA3NDY@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">110</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A Chinese IT company representative attempts to spoil a conspiracy to start a civil war in an African country orchestrated by an European businessman who is aided by a tough African warrior.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>Chinese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dongxue Li</actor>
+			<role>Yan Jian</role>
+		</credit>
+		<credit>
+			<actor>Mike Tyson</actor>
+			<role>Kabbah</role>
+		</credit>
+		<credit>
+			<actor>Janicke Askevold</actor>
+			<role>Susanna</role>
+		</credit>
+		<credit>
+			<actor>Li Ai</actor>
+			<role>Ruan Ling</role>
+		</credit>
+		<credit>
+			<actor>Clovis Fouin</actor>
+			<role>Michael</role>
+		</credit>
+		<credit>
+			<actor>Eriq Ebouaney</actor>
+			<role>Sheik Asaid</role>
+		</credit>
+		<credit>
+			<actor>Steven Seagal</actor>
+			<role>Lauder</role>
+		</credit>
+		<credit>
+			<actor>Zijian Wang</actor>
+			<role>Zheng Ming</role>
+		</credit>
+		<credit>
+			<actor>Xuan Miao</actor>
+			<role>Zhao Yang</role>
+		</credit>
+		<credit>
+			<actor>Joaquim Tivoukou</actor>
+			<role>Isam</role>
+		</credit>
+		<credit>
+			<actor>Henri Bruno</actor>
+			<role>Omar</role>
+		</credit>
+		<credit>
+			<actor>Alexandre Boumbou</actor>
+			<role>President</role>
+		</credit>
+		<credit>
+			<actor>Sidiki Bakaba</actor>
+			<role>Southern General</role>
+		</credit>
+		<credit>
+			<actor>Bryan Byrne</actor>
+			<role>Lauder Henchman</role>
+		</credit>
+		<credit>
+			<actor>Sheri Cheng</actor>
+			<role>DH Female Representative</role>
+		</credit>
+		<credit>
+			<actor>Anthony Gavard</actor>
+			<role>ONU Officer</role>
+		</credit>
+		<credit>
+			<actor>Sholom Gelt</actor>
+			<role>Mr. Alexander</role>
+		</credit>
+		<credit>
+			<actor>Marc Philip Goodman</actor>
+			<role>Philip</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="China">June 16 2017</releasedate>
+		<releasedate country="United Arab Emirates">February 22 2018</releasedate>
+		<releasedate country="Kuwait">February 22 2018</releasedate>
+		<releasedate country="United Kingdom">May 14 2018</releasedate>
+		<releasedate country="United States">June 15 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>battle</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>combat</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>civil war</keyword>
+		<keyword>chase</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>fight</keyword>
+		<keyword>brawl</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>beating</keyword>
+		<keyword>breaking a bottle over someone's head</keyword>
+		<keyword>bar</keyword>
+		<keyword>bar fight</keyword>
+		<keyword>urine</keyword>
+		<keyword>doctor</keyword>
+		<keyword>tent</keyword>
+		<keyword>hospital</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>arrest</keyword>
+		<keyword>geopolitics</keyword>
+		<keyword>soldier</keyword>
+		<keyword>army</keyword>
+		<keyword>military</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>captain</keyword>
+		<keyword>general</keyword>
+		<keyword>car chase</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>slow motion action scene</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>horse</keyword>
+		<keyword>goat</keyword>
+		<keyword>camel</keyword>
+		<keyword>desert</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>bilingualism</keyword>
+		<keyword>arms dealer</keyword>
+		<keyword>money</keyword>
+		<keyword>beard</keyword>
+		<keyword>goatee</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>photograph</keyword>
+		<keyword>telescope</keyword>
+		<keyword>palace</keyword>
+		<keyword>president</keyword>
+		<keyword>telephone</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>no cell phone signal</keyword>
+		<keyword>race against time</keyword>
+		<keyword>map</keyword>
+		<keyword>tower</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>telecommunications</keyword>
+		<keyword>communications</keyword>
+		<keyword>high tech</keyword>
+		<keyword>chinese</keyword>
+		<keyword>frenchman</keyword>
+		<keyword>frenchwoman</keyword>
+		<keyword>englishman</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>suit and tie</keyword>
+		<keyword>engineer</keyword>
+		<keyword>technician</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>racism</keyword>
+		<keyword>businessman</keyword>
+		<keyword>evil businessman</keyword>
+		<keyword>corporation</keyword>
+		<keyword>corporate rivalry</keyword>
+		<keyword>rival</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>boardroom</keyword>
+		<keyword>low budget film</keyword>
+		<keyword>b movie</keyword>
+		<keyword>2010s</keyword>
+		<keyword>two word title</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>tribe</keyword>
+		<keyword>flashback</keyword>
+		<keyword>armored car</keyword>
+		<keyword>tank</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>strapped to a bomb</keyword>
+		<keyword>bomb</keyword>
+		<keyword>camcorder</keyword>
+		<keyword>competition</keyword>
+		<keyword>wiretapping</keyword>
+		<keyword>hotel</keyword>
+		<keyword>hotel room</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>binoculars</keyword>
+		<keyword>murder</keyword>
+		<keyword>on the run</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>disguise</keyword>
+		<keyword>shower</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>news report</keyword>
+		<keyword>flash drive</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>ship</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>assassin</keyword>
+		<keyword>technology</keyword>
+		<keyword>swat team</keyword>
+		<keyword>press conference</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>revenge</keyword>
+		<keyword>poetic justice</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>riot</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>united nations</keyword>
+		<keyword>crooked businessman</keyword>
+		<keyword>tattoo on face</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>panic</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>pistol</keyword>
+		<keyword>ak 47</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>rifle</keyword>
+		<keyword>anti aircraft gun</keyword>
+		<keyword>sniper</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>bazooka</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>cheering</keyword>
+		<keyword>peace agreement</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>africa</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>redemption</keyword>
+		<keyword>destruction</keyword>
+		<keyword>warrior</keyword>
+		<keyword>suicide</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>ambush</keyword>
+		<keyword>little boy</keyword>
+		<keyword>knocked out with a gun butt</keyword>
+		<keyword>corpse</keyword>
+		<keyword>massacre</keyword>
+		<keyword>chaos</keyword>
+		<keyword>shot in the forehead</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>knife</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>shot in the face</keyword>
+		<keyword>shot in the throat</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the back</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>truck</keyword>
+		<keyword>sheik</keyword>
+		<keyword>henchman</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>salesman</keyword>
+		<keyword>computer cracker</keyword>
+		<keyword>power outage</keyword>
+		<keyword>corporate conspiracy</keyword>
+		<keyword>corporate crime</keyword>
+		<keyword>corporate corruption</keyword>
+		<keyword>corporate espionage</keyword>
+		<keyword>espionage</keyword>
+		<keyword>spy</keyword>
+		<keyword>hand grenade</keyword>
+		<keyword>written by director</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>fingerprint</keyword>
+		<keyword>time bomb</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Tan Bing</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Scott Atkins</producer>
+		<producer> Scotty Atkins</producer>
+		<producer> Tan Bing</producer>
+		<producer> Li Dean</producer>
+		<producer> Sholom Gelt</producer>
+		<producer> Marcy Levitas Hamilton</producer>
+		<producer> Strathford Hamilton</producer>
+		<producer> Peikang La</producer>
+		<producer> Yin Shugui</producer>
+		<producer> Jiang Shujun</producer>
+		<producer> Ma Xueteng</producer>
+		<producer> Li Ye</producer>
+		<producer> Liu Zhong</producer>
+	</producers>
+	<writers>
+		<writer> Tan Bing</writer>
+		<writer> Sholom Gelt</writer>
+	</writers>
+	<editors>
+		<editor> Hai Huang</editor>
+		<editor> Yifan Zhang</editor>
+	</editors>
+</doc>

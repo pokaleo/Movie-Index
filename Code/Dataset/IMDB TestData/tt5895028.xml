@@ -1,0 +1,646 @@
+<?xml version="1.0" ?>
+<doc id="tt5895028">
+	<docid>tt5895028</docid>
+	<title>13th</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Crime</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>D-Cinema 48kHz 5.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Melina Abdullah</actor>
+			<role>Self - Chair, Pan-African Studies, California State University, Los Angeles</role>
+		</credit>
+		<credit>
+			<actor>Michelle Alexander</actor>
+			<role>Self - Educator and Author, The New Jim Crow: Mass Incarceration in the Age of Colorblindness</role>
+		</credit>
+		<credit>
+			<actor>Cory Booker</actor>
+			<role>Self - U.S. Senator (D) New Jersey</role>
+		</credit>
+		<credit>
+			<actor>Dolores Canales</actor>
+			<role>Self - Formerly Incarcerated Activist</role>
+		</credit>
+		<credit>
+			<actor>Gina Clayton</actor>
+			<role>Self - Attorney and Founder, Essie Justice Group</role>
+		</credit>
+		<credit>
+			<actor>Jelani Cobb</actor>
+			<role>Self - Professor of African-American Studies, University of Connecticut</role>
+		</credit>
+		<credit>
+			<actor>Malkia Cyril</actor>
+			<role>Self - Executive Director of the Center for Media Justice</role>
+		</credit>
+		<credit>
+			<actor>Angela Davis</actor>
+			<role>Self - Professor Emerita, UC Santa Cruz</role>
+		</credit>
+		<credit>
+			<actor>Craig DeRoche</actor>
+			<role>Self - Formerly Incarcerated Activist</role>
+		</credit>
+		<credit>
+			<actor>David Dinkins</actor>
+			<role>Self - 106th Mayor of New York City (D)</role>
+		</credit>
+		<credit>
+			<actor>Baz Dreisinger</actor>
+			<role>Self - Educator and Author, Incarceration Nations</role>
+		</credit>
+		<credit>
+			<actor>Kevin Gannon</actor>
+			<role>Self - Professor of History, Grandview University</role>
+		</credit>
+		<credit>
+			<actor>Henry Louis Gates Jr.</actor>
+			<role>Self - Professor of History, Harvard University</role>
+		</credit>
+		<credit>
+			<actor>Marie Gottschalk</actor>
+			<role>Self - Professor of Political Science, University of Pennsylvania</role>
+		</credit>
+		<credit>
+			<actor>Newt Gingrich</actor>
+			<role>Self - 50th Speaker of the House of Representatives, 2012 Republican Presidential Candidate</role>
+		</credit>
+		<credit>
+			<actor>Lisa Graves</actor>
+			<role>Self - Executive Director, Center for Media and Democracy</role>
+		</credit>
+		<credit>
+			<actor>Cory Greene</actor>
+			<role>Self - Formerly Incarcerated Activist</role>
+		</credit>
+		<credit>
+			<actor>John Hagan</actor>
+			<role>Self - Professor of Sociology and Law, Northwestern University</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 30 2016</releasedate>
+		<releasedate country="United Kingdom">October 6 2016</releasedate>
+		<releasedate country="Brazil">October 7 2016</releasedate>
+		<releasedate country="Germany">October 7 2016</releasedate>
+		<releasedate country="France">October 7 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>prison</keyword>
+		<keyword>greed</keyword>
+		<keyword>discrimination</keyword>
+		<keyword>american politics</keyword>
+		<keyword>archive footage</keyword>
+		<keyword>american history</keyword>
+		<keyword>reference to bill clinton</keyword>
+		<keyword>reference to j. edgar hoover</keyword>
+		<keyword>protest march</keyword>
+		<keyword>u.s. constitution</keyword>
+		<keyword>justice system</keyword>
+		<keyword>civil disobedience</keyword>
+		<keyword>anti drug campaign</keyword>
+		<keyword>police</keyword>
+		<keyword>racial discrimination</keyword>
+		<keyword>racial issues</keyword>
+		<keyword>american justice</keyword>
+		<keyword>civil rights</keyword>
+		<keyword>slavery</keyword>
+		<keyword>repression</keyword>
+		<keyword>jailhouse violence</keyword>
+		<keyword>prison industry</keyword>
+		<keyword>incarceration</keyword>
+		<keyword>prison violence</keyword>
+		<keyword>intimidation</keyword>
+		<keyword>historical revisionism</keyword>
+		<keyword>atrocity</keyword>
+		<keyword>bloodshed</keyword>
+		<keyword>cell block</keyword>
+		<keyword>indignity</keyword>
+		<keyword>humiliation</keyword>
+		<keyword>jailhouse</keyword>
+		<keyword>penitentiary</keyword>
+		<keyword>lynching</keyword>
+		<keyword>political corruption</keyword>
+		<keyword>hard labor</keyword>
+		<keyword>defamation</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>criminalization</keyword>
+		<keyword>african american girl</keyword>
+		<keyword>protester</keyword>
+		<keyword>abuse</keyword>
+		<keyword>mistreatment</keyword>
+		<keyword>ku klux klan</keyword>
+		<keyword>mass media</keyword>
+		<keyword>sexual violence</keyword>
+		<keyword>injustice</keyword>
+		<keyword>jail</keyword>
+		<keyword>african american man</keyword>
+		<keyword>blood</keyword>
+		<keyword>crack cocaine</keyword>
+		<keyword>human rights</keyword>
+		<keyword>race</keyword>
+		<keyword>cocaine</keyword>
+		<keyword>crack</keyword>
+		<keyword>drugs</keyword>
+		<keyword>suicide</keyword>
+		<keyword>black lives matter</keyword>
+		<keyword>prison guard uniform</keyword>
+		<keyword>judicial system</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>jail guard</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>sentenced to prison</keyword>
+		<keyword>prison cell</keyword>
+		<keyword>outrage</keyword>
+		<keyword>penal servitude</keyword>
+		<keyword>hostility</keyword>
+		<keyword>degradation</keyword>
+		<keyword>jail sentence</keyword>
+		<keyword>prison guard</keyword>
+		<keyword>prison sentence</keyword>
+		<keyword>corrupt power</keyword>
+		<keyword>legal system</keyword>
+		<keyword>corruption</keyword>
+		<keyword>crowd</keyword>
+		<keyword>infamy</keyword>
+		<keyword>african american boy</keyword>
+		<keyword>protest</keyword>
+		<keyword>convict</keyword>
+		<keyword>intolerance</keyword>
+		<keyword>justice</keyword>
+		<keyword>african american woman</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>murder</keyword>
+		<keyword>police corruption</keyword>
+		<keyword>american flag</keyword>
+		<keyword>u.s. government</keyword>
+		<keyword>mass incarceration</keyword>
+		<keyword>reference to woodrow wilson</keyword>
+		<keyword>great migration</keyword>
+		<keyword>kkk</keyword>
+		<keyword>segregation</keyword>
+		<keyword>institutional racism</keyword>
+		<keyword>propaganda</keyword>
+		<keyword>desegregation</keyword>
+		<keyword>racial integration</keyword>
+		<keyword>fire hose used on a person</keyword>
+		<keyword>mischaracterization</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>war on crime</keyword>
+		<keyword>population control</keyword>
+		<keyword>war on drugs</keyword>
+		<keyword>reconstruction</keyword>
+		<keyword>southern strategy</keyword>
+		<keyword>convervative backlash</keyword>
+		<keyword>reference to ronald reagan</keyword>
+		<keyword>reference to richard nixon</keyword>
+		<keyword>moral panic</keyword>
+		<keyword>media bias</keyword>
+		<keyword>mandatory sentencing</keyword>
+		<keyword>disparate sentencing</keyword>
+		<keyword>fear mongering</keyword>
+		<keyword>political exploitation</keyword>
+		<keyword>reference to lee atwater</keyword>
+		<keyword>implicit bias</keyword>
+		<keyword>reference to george h.w. bush</keyword>
+		<keyword>reference to michael dukakis</keyword>
+		<keyword>three strikes</keyword>
+		<keyword>uprising</keyword>
+		<keyword>prison overcrowding</keyword>
+		<keyword>prosecutor</keyword>
+		<keyword>prosecutorial power</keyword>
+		<keyword>death penalty</keyword>
+		<keyword>crime bill</keyword>
+		<keyword>conflict of interest</keyword>
+		<keyword>perverse incentive</keyword>
+		<keyword>police militarization</keyword>
+		<keyword>public execution</keyword>
+		<keyword>racial strife</keyword>
+		<keyword>reference to fred hampton</keyword>
+		<keyword>assassination</keyword>
+		<keyword>reference to assata shakur</keyword>
+		<keyword>exile</keyword>
+		<keyword>reference to angela davis</keyword>
+		<keyword>frame up</keyword>
+		<keyword>reference to trayvon martin</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>racist murder</keyword>
+		<keyword>reference to michael brown</keyword>
+		<keyword>american legislative exchange council</keyword>
+		<keyword>prison industrial complex</keyword>
+		<keyword>business interest</keyword>
+		<keyword>profit motive</keyword>
+		<keyword>koch industries</keyword>
+		<keyword>corrections corporation of america</keyword>
+		<keyword>penal industry</keyword>
+		<keyword>prison privatization</keyword>
+		<keyword>solitary confinement</keyword>
+		<keyword>sensory deprivation</keyword>
+		<keyword>violent repression</keyword>
+		<keyword>chattel slavery</keyword>
+		<keyword>convict leasing</keyword>
+		<keyword>new jim crow</keyword>
+		<keyword>african american interest</keyword>
+		<keyword>presumption of guilt</keyword>
+		<keyword>ferguson missouri</keyword>
+		<keyword>civil unrest</keyword>
+		<keyword>humanization</keyword>
+		<keyword>reference to oscar grant</keyword>
+		<keyword>reference to eric garner</keyword>
+		<keyword>reference to jason harrison</keyword>
+		<keyword>reference to eric courtney harris</keyword>
+		<keyword>reference to philando castile</keyword>
+		<keyword>hate crime</keyword>
+		<keyword>strife</keyword>
+		<keyword>killed by police</keyword>
+		<keyword>movement for black lives</keyword>
+		<keyword>r rated</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>girl wears eyeglasses</keyword>
+		<keyword>exploitation</keyword>
+		<keyword>pretext</keyword>
+		<keyword>criminal justice</keyword>
+		<keyword>penal system</keyword>
+		<keyword>13th amendment</keyword>
+		<keyword>due process</keyword>
+		<keyword>rule of law</keyword>
+		<keyword>jim crow laws</keyword>
+		<keyword>american south</keyword>
+		<keyword>loophole</keyword>
+		<keyword>economic exploitation</keyword>
+		<keyword>divide and rule</keyword>
+		<keyword>propaganda campaign</keyword>
+		<keyword>prejudice</keyword>
+		<keyword>american civil war</keyword>
+		<keyword>post american civil war</keyword>
+		<keyword>national myth</keyword>
+		<keyword>race relations</keyword>
+		<keyword>life imitates art</keyword>
+		<keyword>massacre</keyword>
+		<keyword>mob</keyword>
+		<keyword>dixiecrat</keyword>
+		<keyword>mutilation</keyword>
+		<keyword>hanged</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>racist police</keyword>
+		<keyword>subjugation</keyword>
+		<keyword>relegation</keyword>
+		<keyword>civil rights era</keyword>
+		<keyword>arrest</keyword>
+		<keyword>civil rights legislation</keyword>
+		<keyword>civil rights act</keyword>
+		<keyword>race baiting</keyword>
+		<keyword>law enforcement</keyword>
+		<keyword>backlash</keyword>
+		<keyword>drug war</keyword>
+		<keyword>reference to john ehrlichman</keyword>
+		<keyword>political oppression</keyword>
+		<keyword>suppression</keyword>
+		<keyword>political repression</keyword>
+		<keyword>nixon administration</keyword>
+		<keyword>reagan administration</keyword>
+		<keyword>reagan era</keyword>
+		<keyword>just say no campaign</keyword>
+		<keyword>reference to nancy reagan</keyword>
+		<keyword>neoliberalism</keyword>
+		<keyword>inner city</keyword>
+		<keyword>policing</keyword>
+		<keyword>racial language</keyword>
+		<keyword>disparity</keyword>
+		<keyword>fairness</keyword>
+		<keyword>reference to cops</keyword>
+		<keyword>fearmongering</keyword>
+		<keyword>reference to the central park five</keyword>
+		<keyword>presumption of innocence</keyword>
+		<keyword>social conditioning</keyword>
+		<keyword>racist campaign</keyword>
+		<keyword>bush campaign</keyword>
+		<keyword>nixon campaign</keyword>
+		<keyword>divisiveness</keyword>
+		<keyword>political utility</keyword>
+		<keyword>clinton administration</keyword>
+		<keyword>new democrats</keyword>
+		<keyword>reference to al gore</keyword>
+		<keyword>clinton campaign</keyword>
+		<keyword>third strike</keyword>
+		<keyword>parole</keyword>
+		<keyword>public policy</keyword>
+		<keyword>reference to hillary clinton</keyword>
+		<keyword>reference to black panthers</keyword>
+		<keyword>reference to martin luther king</keyword>
+		<keyword>reference to malcolm x</keyword>
+		<keyword>government repression</keyword>
+		<keyword>government oppression</keyword>
+		<keyword>violent oppression</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>racist</keyword>
+		<keyword>stand your ground law</keyword>
+		<keyword>model legislation</keyword>
+		<keyword>lobbying</keyword>
+		<keyword>political strategy</keyword>
+		<keyword>political rally</keyword>
+		<keyword>political protest</keyword>
+		<keyword>civil rights protest</keyword>
+		<keyword>corporate lobbying</keyword>
+		<keyword>gun lobby</keyword>
+		<keyword>privatization</keyword>
+		<keyword>life imprisonment</keyword>
+		<keyword>political reform</keyword>
+		<keyword>probation</keyword>
+		<keyword>mass surveillance</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>corrections</keyword>
+		<keyword>ankle monitor</keyword>
+		<keyword>profiteering</keyword>
+		<keyword>business model</keyword>
+		<keyword>cutting corners</keyword>
+		<keyword>prison labor</keyword>
+		<keyword>prison lobby</keyword>
+		<keyword>reference to kalief browder</keyword>
+		<keyword>unfairness</keyword>
+		<keyword>plea bargain</keyword>
+		<keyword>right to trial by jury</keyword>
+		<keyword>coercion</keyword>
+		<keyword>beaten by prison guard</keyword>
+		<keyword>beaten by police</keyword>
+		<keyword>conviction</keyword>
+		<keyword>cruel and unusual punishment</keyword>
+		<keyword>reform</keyword>
+		<keyword>disenfranchisement</keyword>
+		<keyword>felon</keyword>
+		<keyword>reference to barack obama</keyword>
+		<keyword>pretrial diversion</keyword>
+		<keyword>inducement</keyword>
+		<keyword>death threat</keyword>
+		<keyword>mob violence</keyword>
+		<keyword>reference to donald trump</keyword>
+		<keyword>trump administration</keyword>
+		<keyword>donald trump presidential campaign</keyword>
+		<keyword>statistics</keyword>
+		<keyword>crime statistics</keyword>
+		<keyword>demographic statistics</keyword>
+		<keyword>involuntary servitude</keyword>
+		<keyword>social control</keyword>
+		<keyword>revenue predation</keyword>
+		<keyword>stop and frisk</keyword>
+		<keyword>riot</keyword>
+		<keyword>year 1967</keyword>
+		<keyword>reference to laquan mcdonald</keyword>
+		<keyword>year 2014</keyword>
+		<keyword>police accountability</keyword>
+		<keyword>harlem riots</keyword>
+		<keyword>newark riots</keyword>
+		<keyword>reference to rodney king</keyword>
+		<keyword>reference to ferguson riot</keyword>
+		<keyword>year 1965</keyword>
+		<keyword>rebellion</keyword>
+		<keyword>criminal justice reform</keyword>
+		<keyword>radicalization</keyword>
+		<keyword>white supremacist</keyword>
+		<keyword>police dog</keyword>
+		<keyword>sousveillance</keyword>
+		<keyword>murder caught on tape</keyword>
+		<keyword>bystander video</keyword>
+		<keyword>police harassment</keyword>
+		<keyword>reference to tamir rice</keyword>
+		<keyword>reference to freddie gray</keyword>
+		<keyword>excessive force</keyword>
+		<keyword>use of force</keyword>
+		<keyword>racial control</keyword>
+		<keyword>population pacification</keyword>
+		<keyword>political movement</keyword>
+		<keyword>social movement</keyword>
+		<keyword>right to life</keyword>
+		<keyword>mass protest</keyword>
+		<keyword>rehumanization</keyword>
+		<keyword>tolerance</keyword>
+		<keyword>freedom struggle</keyword>
+		<keyword>freedom</keyword>
+		<keyword>liberty</keyword>
+		<keyword>rap song</keyword>
+		<keyword>civil rights documentary</keyword>
+		<keyword>intersectionality</keyword>
+		<keyword>forced labor</keyword>
+		<keyword>democratic party</keyword>
+		<keyword>republican party</keyword>
+		<keyword>trope</keyword>
+		<keyword>prison contractor</keyword>
+		<keyword>government contractor</keyword>
+		<keyword>economic incentive</keyword>
+		<keyword>demonization</keyword>
+		<keyword>shot by police</keyword>
+		<keyword>reference to samuel dubose</keyword>
+		<keyword>reference to jesus christ</keyword>
+		<keyword>sex crime</keyword>
+		<keyword>fbi federal bureau of investigation</keyword>
+		<keyword>george h.w. bush administration</keyword>
+		<keyword>american culture</keyword>
+		<keyword>timeframe 1970s</keyword>
+		<keyword>timeframe 1980s</keyword>
+		<keyword>timeframe 1990s</keyword>
+		<keyword>timeframe 19th century</keyword>
+		<keyword>politics documentary</keyword>
+		<keyword>man killed</keyword>
+		<keyword>social documentary</keyword>
+		<keyword>african american</keyword>
+		<keyword>swat team</keyword>
+		<keyword>mcdonald's restaurant</keyword>
+		<keyword>suicide by hanging</keyword>
+		<keyword>2000s</keyword>
+		<keyword>2010s</keyword>
+		<keyword>drug</keyword>
+		<keyword>civil rights movement</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>f rated</keyword>
+		<keyword>black panther party</keyword>
+		<keyword>unjust incarceration</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>pistol</keyword>
+		<keyword>evil</keyword>
+		<keyword>political crime</keyword>
+		<keyword>law</keyword>
+		<keyword>corrupt policeman</keyword>
+		<keyword>fbi director</keyword>
+		<keyword>fbi chief</keyword>
+		<keyword>fbi agent</keyword>
+		<keyword>latina woman</keyword>
+		<keyword>latin man</keyword>
+		<keyword>latina</keyword>
+		<keyword>latino</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>risk</keyword>
+		<keyword>false information</keyword>
+		<keyword>racial tension</keyword>
+		<keyword>racial segregation</keyword>
+		<keyword>racial prejudice</keyword>
+		<keyword>cold blooded murder</keyword>
+		<keyword>u.s. congress</keyword>
+		<keyword>civil rights activist</keyword>
+		<keyword>civil rights violation</keyword>
+		<keyword>human rights violation</keyword>
+		<keyword>human rights abuse</keyword>
+		<keyword>economy politics</keyword>
+		<keyword>u.s. economy</keyword>
+		<keyword>media manipulation</keyword>
+		<keyword>slave</keyword>
+		<keyword>police brutality</keyword>
+		<keyword>ruthlessness</keyword>
+		<keyword>impunity</keyword>
+		<keyword>psychological torture</keyword>
+		<keyword>psychological torment</keyword>
+		<keyword>physical torment</keyword>
+		<keyword>physical torture</keyword>
+		<keyword>torture</keyword>
+		<keyword>torment</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>hanged to death</keyword>
+		<keyword>hanging</keyword>
+		<keyword>hanged man</keyword>
+		<keyword>legislation</keyword>
+		<keyword>danger</keyword>
+		<keyword>inhumanity</keyword>
+		<keyword>dehumanization</keyword>
+		<keyword>revolver</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>congresswoman</keyword>
+		<keyword>congressman</keyword>
+		<keyword>politician</keyword>
+		<keyword>menace</keyword>
+		<keyword>threat</keyword>
+		<keyword>hatred</keyword>
+		<keyword>punishment</keyword>
+		<keyword>corrupt politician</keyword>
+		<keyword>law and order</keyword>
+		<keyword>courtroom</keyword>
+		<keyword>trial</keyword>
+		<keyword>interview</keyword>
+		<keyword>moral corruption</keyword>
+		<keyword>police car</keyword>
+		<keyword>police officer</keyword>
+		<keyword>police abuse</keyword>
+		<keyword>audience</keyword>
+		<keyword>weapon</keyword>
+		<keyword>rifle</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>gun</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>political violence</keyword>
+		<keyword>abuse of power</keyword>
+		<keyword>shooting</keyword>
+		<keyword>beating</keyword>
+		<keyword>manipulation</keyword>
+		<keyword>money</keyword>
+		<keyword>criminality</keyword>
+		<keyword>criminal</keyword>
+		<keyword>latin american</keyword>
+		<keyword>racism</keyword>
+		<keyword>racial violence</keyword>
+		<keyword>rape</keyword>
+		<keyword>dead woman</keyword>
+		<keyword>dead man</keyword>
+		<keyword>dead girl</keyword>
+		<keyword>dead boy</keyword>
+		<keyword>corpse</keyword>
+		<keyword>black girl</keyword>
+		<keyword>black boy</keyword>
+		<keyword>black woman</keyword>
+		<keyword>black man</keyword>
+		<keyword>homicide</keyword>
+		<keyword>killing</keyword>
+		<keyword>brutality</keyword>
+		<keyword>cruelty</keyword>
+		<keyword>sadism</keyword>
+		<keyword>politics</keyword>
+		<keyword>agitprop</keyword>
+		<keyword>president</keyword>
+		<keyword>cross burning</keyword>
+		<keyword>domestic terrorism</keyword>
+		<keyword>refugee</keyword>
+		<keyword>systemic racism</keyword>
+		<keyword>reference to emmett till</keyword>
+		<keyword>internalized racism</keyword>
+		<keyword>jim crow</keyword>
+		<keyword>dog whistle as metaphor</keyword>
+		<keyword>mandatory minimums</keyword>
+		<keyword>overcriminalization</keyword>
+		<keyword>wedge issue</keyword>
+		<keyword>wrongful conviction</keyword>
+		<keyword>reference to willie horton</keyword>
+		<keyword>oppression</keyword>
+		<keyword>assassinated by police</keyword>
+		<keyword>gun manufacturer</keyword>
+		<keyword>private prison</keyword>
+		<keyword>price gouging</keyword>
+		<keyword>white supremacy</keyword>
+		<keyword>quote</keyword>
+		<keyword>quotation</keyword>
+		<keyword>transformation</keyword>
+		<keyword>nixon era</keyword>
+		<keyword>internet</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>male nudity</keyword>
+	</keywords>
+	<directors>
+		<director> Ava DuVernay</director>
+	</directors>
+	<composers>
+		<composer> Jason Moran</composer>
+	</composers>
+	<producers>
+		<producer> Spencer Averick</producer>
+		<producer> Howard Barish</producer>
+		<producer> Mercedes Yolanda Cooper</producer>
+		<producer> Ben Cotner</producer>
+		<producer> Adam Del Deo</producer>
+		<producer> Ava DuVernay</producer>
+		<producer> Tilane Jones</producer>
+		<producer> Michael Nell</producer>
+		<producer> Lisa Nishimura</producer>
+		<producer> Jason Sterman</producer>
+		<producer> Tessa Treadway</producer>
+		<producer> Angus Wall</producer>
+	</producers>
+	<writers>
+		<writer> Spencer Averick</writer>
+		<writer> Ava DuVernay</writer>
+	</writers>
+	<editors>
+		<editor> Spencer Averick</editor>
+	</editors>
+</doc>

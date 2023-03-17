@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc id="tt13315664">
+	<docid>tt13315664</docid>
+	<title>Troppo</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTU1YjY2MjEtZjQwMi00NWM0LWFiMmYtZWViZThkMmEwM2RjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Disgraced ex-cop, Ted Conkaffey, is falsely accused of a disturbing crime. He escapes to the wilds of Far North Queensland and becomes entangled with an eccentric private investigator.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Thomas Jane</actor>
+			<role>Ted Conkaffey</role>
+		</credit>
+		<credit>
+			<actor>Nicole Chamoun</actor>
+			<role>Amanda</role>
+		</credit>
+		<credit>
+			<actor>David Lyons</actor>
+			<role>Damford</role>
+		</credit>
+		<credit>
+			<actor>Sun Park</actor>
+			<role>Yoon Sun</role>
+		</credit>
+		<credit>
+			<actor>Ling Cooper Tang</actor>
+			<role>Hench</role>
+		</credit>
+		<credit>
+			<actor>Wendy P. Mocke</actor>
+			<role>Maali</role>
+		</credit>
+		<credit>
+			<actor>Yerin Ha</actor>
+			<role>Ah Rah</role>
+		</credit>
+		<credit>
+			<actor>Kate Beahan</actor>
+			<role>Olivia</role>
+		</credit>
+		<credit>
+			<actor>Thomas Weatherall</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Chenoa Deemal</actor>
+			<role>Budd</role>
+		</credit>
+		<credit>
+			<actor>Lucas Linehan</actor>
+			<role>Milbee</role>
+		</credit>
+		<credit>
+			<actor>Angela Punch McGregor</actor>
+			<role>Dr. Val</role>
+		</credit>
+		<credit>
+			<actor>Damien Garvey</actor>
+			<role>Roy</role>
+		</credit>
+		<credit>
+			<actor>Peta Wilson</actor>
+			<role>Eve</role>
+		</credit>
+		<credit>
+			<actor>Miranda Frangou</actor>
+			<role>Georgie</role>
+		</credit>
+		<credit>
+			<actor>Chris Alosio</actor>
+			<role>Jayjay</role>
+		</credit>
+		<credit>
+			<actor>Sara West</actor>
+			<role>Brooke</role>
+		</credit>
+		<credit>
+			<actor>Cramer Cain</actor>
+			<role>Wayne</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">February 27 2022</releasedate>
+		<releasedate country="United States">May 20 2022</releasedate>
+		<releasedate country="Germany">October 21 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>false accusation</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Grant Brown</director>
+		<director> Ben Howling</director>
+		<director> Catherine Millar</director>
+		<director> Jocelyn Moorhouse</director>
+		<director> Yolanda Ramke</director>
+	</directors>
+	<composers>
+		<composer> David McCormack</composer>
+		<composer> Antony Partos</composer>
+		<composer> Matteo Zingales</composer>
+	</composers>
+	<producers>
+		<producer> Jane Allen</producer>
+		<producer> Matt Bankston</producer>
+		<producer> Mikael Borglund</producer>
+		<producer> Jack Christian</producer>
+		<producer> Pam Collis</producer>
+		<producer> Lourdes Diaz</producer>
+		<producer> Lisa Duff</producer>
+		<producer> Stuart Ford</producer>
+		<producer> Andrew Gregory</producer>
+		<producer> Thomas Jane</producer>
+		<producer> Colin Marshall</producer>
+		<producer> D.J. McPherson</producer>
+		<producer> David Ogilvy</producer>
+		<producer> Simonne Overend</producer>
+		<producer> Courtney Lauren Penn</producer>
+		<producer> Greg Quail</producer>
+		<producer> Yolanda Ramke</producer>
+		<producer> Sally Riley</producer>
+		<producer> Karl Zwicky</producer>
+	</producers>
+	<writers>
+		<writer> Candice Fox</writer>
+		<writer> Yolanda Ramke</writer>
+		<writer> Yolanda Ramke</writer>
+		<writer> Jane Allen</writer>
+		<writer> Andrew Lee</writer>
+		<writer> Blake Ayshford</writer>
+		<writer> Kodie Bedford</writer>
+		<writer> Penelope Chai</writer>
+		<writer> Craig Irvin</writer>
+	</writers>
+	<editors>
+		<editor> James Manché</editor>
+		<editor> Katrina Barker</editor>
+		<editor> Stafford Wales</editor>
+	</editors>
+</doc>

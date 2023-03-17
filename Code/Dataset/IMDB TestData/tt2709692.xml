@@ -1,0 +1,432 @@
+<?xml version="1.0" ?>
+<doc id="tt2709692">
+	<docid>tt2709692</docid>
+	<title>The Grinch</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI5NDY5NzM2MV5BMl5BanBnXkFtZTgwMjQyODA3NTM@._V1_QL75_UX190_CR0,10,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">85</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Comedy</genre>
+		<genre>Family</genre>
+	</genres>
+	<plot>A grumpy Grinch plots to ruin Christmas for the village of Whoville.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Auro 11.1</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Benedict Cumberbatch</actor>
+			<role>The Grinch</role>
+		</credit>
+		<credit>
+			<actor>Cameron Seely</actor>
+			<role>Cindy-Lou Who</role>
+		</credit>
+		<credit>
+			<actor>Rashida Jones</actor>
+			<role>Donna Who</role>
+		</credit>
+		<credit>
+			<actor>Pharrell Williams</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Tristan O'Hare</actor>
+			<role>Groopert</role>
+		</credit>
+		<credit>
+			<actor>Kenan Thompson</actor>
+			<role>Mr. Bricklebaum</role>
+		</credit>
+		<credit>
+			<actor>Sam Lavagnino</actor>
+			<role>Ozzy</role>
+		</credit>
+		<credit>
+			<actor>Ramone Hamilton</actor>
+			<role>Axl</role>
+		</credit>
+		<credit>
+			<actor>Angela Lansbury</actor>
+			<role>Mayor McGerkle</role>
+		</credit>
+		<credit>
+			<actor>Scarlett Estevez</actor>
+			<role>Izzy</role>
+		</credit>
+		<credit>
+			<actor>Michael Beattie</actor>
+			<role>Store Clerk</role>
+		</credit>
+		<credit>
+			<actor>Lori Alan</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Carlos Alazraqui</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Doug Burch</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Cathy Cavadini</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Tucker Chandler</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Townsend Coleman</actor>
+			<role>Additional Voices</role>
+		</credit>
+		<credit>
+			<actor>Meilee Condron</actor>
+			<role>Additional Voices</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 3 2018</releasedate>
+		<releasedate country="United States">November 3 2018</releasedate>
+		<releasedate country="Egypt">November 7 2018</releasedate>
+		<releasedate country="United Arab Emirates">November 8 2018</releasedate>
+		<releasedate country="Brazil">November 8 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Colombia">7</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Ecuador">TP</certificate>
+		<certificate country="Egypt">G</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Luxembourg">A</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Maldives">PG</certificate>
+		<certificate country="Malta">U</certificate>
+		<certificate country="Mexico">AA</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">G</certificate>
+		<certificate country="Nigeria">G</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="South Korea">7</certificate>
+		<certificate country="Spain">A/i</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="Switzerland">0</certificate>
+		<certificate country="Switzerland">7</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Thailand">G</certificate>
+		<certificate country="Turkey">G</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dr. seuss' how the grinch stole christmas</keyword>
+		<keyword>christmas</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>christmas movie</keyword>
+		<keyword>remake</keyword>
+		<keyword>dog</keyword>
+		<keyword>based on children's book</keyword>
+		<keyword>thief</keyword>
+		<keyword>the grinch character</keyword>
+		<keyword>apology</keyword>
+		<keyword>regret</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>chino</keyword>
+		<keyword>hermit</keyword>
+		<keyword>mission</keyword>
+		<keyword>the color green</keyword>
+		<keyword>two word title</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>monster</keyword>
+		<keyword>little girl</keyword>
+		<keyword>village</keyword>
+		<keyword>flashback</keyword>
+		<keyword>snow</keyword>
+		<keyword>christmas eve</keyword>
+		<keyword>santa claus suit</keyword>
+		<keyword>piano</keyword>
+		<keyword>sleigh</keyword>
+		<keyword>cake</keyword>
+		<keyword>spaghetti</keyword>
+		<keyword>orphanage</keyword>
+		<keyword>cave</keyword>
+		<keyword>christmas tree</keyword>
+		<keyword>invention</keyword>
+		<keyword>single mother</keyword>
+		<keyword>materialism</keyword>
+		<keyword>creature</keyword>
+		<keyword>christmas in danger</keyword>
+		<keyword>celebration</keyword>
+		<keyword>heart</keyword>
+		<keyword>night</keyword>
+		<keyword>villain turns good</keyword>
+		<keyword>christmas caroling</keyword>
+		<keyword>wreath</keyword>
+		<keyword>sledding</keyword>
+		<keyword>bowling ball</keyword>
+		<keyword>waffle</keyword>
+		<keyword>lgbt plus</keyword>
+		<keyword>grinch</keyword>
+		<keyword>whoville</keyword>
+		<keyword>fictional town</keyword>
+		<keyword>december</keyword>
+		<keyword>winter</keyword>
+		<keyword>green fur</keyword>
+		<keyword>cave dweller</keyword>
+		<keyword>green hair</keyword>
+		<keyword>green eyes</keyword>
+		<keyword>christmas song</keyword>
+		<keyword>binge eating</keyword>
+		<keyword>pet dog</keyword>
+		<keyword>reference to jesus christ</keyword>
+		<keyword>panic attack</keyword>
+		<keyword>working woman</keyword>
+		<keyword>working mother</keyword>
+		<keyword>letter to santa claus</keyword>
+		<keyword>reference to the north pole</keyword>
+		<keyword>hair dye</keyword>
+		<keyword>dyed hair</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>organ</keyword>
+		<keyword>drums</keyword>
+		<keyword>playing drums</keyword>
+		<keyword>giant tree</keyword>
+		<keyword>catapult</keyword>
+		<keyword>feeling alone in a crowd</keyword>
+		<keyword>orphan</keyword>
+		<keyword>orphan boy</keyword>
+		<keyword>mating call</keyword>
+		<keyword>goat</keyword>
+		<keyword>reindeer</keyword>
+		<keyword>caribou</keyword>
+		<keyword>lasso</keyword>
+		<keyword>crashing into a tree</keyword>
+		<keyword>setting trap  for santa claus</keyword>
+		<keyword>setting a trap</keyword>
+		<keyword>reference to santa claus</keyword>
+		<keyword>asking a friend for help</keyword>
+		<keyword>guard dog</keyword>
+		<keyword>chased by a guard dog</keyword>
+		<keyword>feeling left out</keyword>
+		<keyword>puppy eyes</keyword>
+		<keyword>dog sleeping in bed</keyword>
+		<keyword>casing</keyword>
+		<keyword>sausage</keyword>
+		<keyword>dog steals food</keyword>
+		<keyword>santa claus costume</keyword>
+		<keyword>slipping on ice</keyword>
+		<keyword>closed for christmas</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>maternal love</keyword>
+		<keyword>full moon</keyword>
+		<keyword>sleigh dog</keyword>
+		<keyword>chimney</keyword>
+		<keyword>entering through a chimney</keyword>
+		<keyword>entering through chimney</keyword>
+		<keyword>burglar</keyword>
+		<keyword>burglary</keyword>
+		<keyword>exiting through chimney</keyword>
+		<keyword>cat</keyword>
+		<keyword>pet cat</keyword>
+		<keyword>sleepwalker</keyword>
+		<keyword>mistaken for santa claus</keyword>
+		<keyword>cookies for santa</keyword>
+		<keyword>lying to a child</keyword>
+		<keyword>fake beard</keyword>
+		<keyword>mountain</keyword>
+		<keyword>mount crumpit</keyword>
+		<keyword>pulled to safety</keyword>
+		<keyword>character wants to be alone</keyword>
+		<keyword>chew toy</keyword>
+		<keyword>dog licks someone's face</keyword>
+		<keyword>invitation to dinner</keyword>
+		<keyword>coffee</keyword>
+		<keyword>girl wears red</keyword>
+		<keyword>man wears a tie</keyword>
+		<keyword>treehouse</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>directorial debut</keyword>
+		<keyword>title written by male</keyword>
+		<keyword>title directed by man</keyword>
+		<keyword>title directed by male</keyword>
+		<keyword>trauma</keyword>
+		<keyword>furry</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>shrekcore</keyword>
+		<keyword>cat attack</keyword>
+		<keyword>grumpiness</keyword>
+		<keyword>dr seuss</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>rhyming</keyword>
+		<keyword>narrator</keyword>
+		<keyword>holiday season</keyword>
+		<keyword>christmas season</keyword>
+		<keyword>christmas decorations</keyword>
+		<keyword>recluse</keyword>
+		<keyword>armchair</keyword>
+		<keyword>radio</keyword>
+		<keyword>clock radio</keyword>
+		<keyword>mother</keyword>
+		<keyword>inner tube</keyword>
+		<keyword>hockey stick</keyword>
+		<keyword>bus</keyword>
+		<keyword>bus driver</keyword>
+		<keyword>working the night shift</keyword>
+		<keyword>out of food</keyword>
+		<keyword>shopping</keyword>
+		<keyword>grocery store</keyword>
+		<keyword>twins</keyword>
+		<keyword>pipe organ</keyword>
+		<keyword>playing chess</keyword>
+		<keyword>christmas tree lighting</keyword>
+		<keyword>christmas tree ornament</keyword>
+		<keyword>giant christmas tree</keyword>
+		<keyword>childhood memory</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>snowman</keyword>
+		<keyword>christmas carolers</keyword>
+		<keyword>caroling</keyword>
+		<keyword>christmas party</keyword>
+		<keyword>best friend</keyword>
+		<keyword>jar of pickles</keyword>
+		<keyword>dumbwaiter</keyword>
+		<keyword>chalkboard</keyword>
+		<keyword>coffee maker</keyword>
+		<keyword>reconnaissance</keyword>
+		<keyword>video monitor</keyword>
+		<keyword>propeller</keyword>
+		<keyword>headset</keyword>
+		<keyword>canned food</keyword>
+		<keyword>sausage link</keyword>
+		<keyword>whipped cream</keyword>
+		<keyword>plan</keyword>
+		<keyword>planning</keyword>
+		<keyword>cookie</keyword>
+		<keyword>mailman</keyword>
+		<keyword>snowball</keyword>
+		<keyword>snowcone</keyword>
+		<keyword>sewing machine</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>overworked</keyword>
+		<keyword>gadget</keyword>
+		<keyword>gizmo</keyword>
+		<keyword>throwing star</keyword>
+		<keyword>trap</keyword>
+		<keyword>impersonation</keyword>
+		<keyword>change of heart</keyword>
+		<keyword>drum kit</keyword>
+		<keyword>grouch</keyword>
+		<keyword>emotional eating</keyword>
+		<keyword>exercising</keyword>
+		<keyword>christmas morning</keyword>
+		<keyword>mountaintop</keyword>
+		<keyword>antler</keyword>
+		<keyword>telescope</keyword>
+		<keyword>view through telescope</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>confession</keyword>
+		<keyword>invite to dinner</keyword>
+		<keyword>dog toy</keyword>
+		<keyword>squeaky toy</keyword>
+		<keyword>christmas dinner</keyword>
+		<keyword>necktie</keyword>
+		<keyword>doorbell</keyword>
+		<keyword>neighbor</keyword>
+		<keyword>suction cup arrow</keyword>
+		<keyword>toast</keyword>
+		<keyword>toaster</keyword>
+		<keyword>reference to old spice</keyword>
+		<keyword>red wagon</keyword>
+		<keyword>clogged drain</keyword>
+		<keyword>owner dog relationship</keyword>
+		<keyword>pet owner relationship</keyword>
+		<keyword>dressed as santa claus</keyword>
+		<keyword>pretending to be santa claus</keyword>
+		<keyword>impostor</keyword>
+		<keyword>false beard</keyword>
+		<keyword>disguised as santa claus</keyword>
+		<keyword>horn the musical instrument</keyword>
+		<keyword>hugging</keyword>
+		<keyword>reference to a christmas story</keyword>
+		<keyword>reference to rudolph the red nosed reindeer</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>children</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>assumed identity</keyword>
+	</keywords>
+	<directors>
+		<director> Yarrow Cheney</director>
+		<director> Scott Mosier</director>
+	</directors>
+	<composers>
+		<composer> Danny Elfman</composer>
+	</composers>
+	<producers>
+		<producer> Audrey Geisel</producer>
+		<producer> Janet Healy</producer>
+		<producer> Christopher Meledandri</producer>
+		<producer> Latifa Ouaou</producer>
+		<producer> Chris Renaud</producer>
+		<producer> Robert Taylor</producer>
+	</producers>
+	<writers>
+		<writer> Michael LeSieur</writer>
+		<writer> Tommy Swerdlow</writer>
+		<writer> Dr. Seuss</writer>
+	</writers>
+	<editors>
+		<editor> Chris Cartagena</editor>
+	</editors>
+</doc>

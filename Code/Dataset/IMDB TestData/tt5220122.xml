@@ -1,0 +1,458 @@
+<?xml version="1.0" ?>
+<doc id="tt5220122">
+	<docid>tt5220122</docid>
+	<title>Hotel Transylvania 3</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Count Dracula and company participate in a cruise for sea-loving monsters, unaware that their boat is being commandeered by the monster-hating Van Helsing family.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Adam Sandler</actor>
+			<role>Dracula</role>
+		</credit>
+		<credit>
+			<actor>Andy Samberg</actor>
+			<role>Johnny</role>
+		</credit>
+		<credit>
+			<actor>Selena Gomez</actor>
+			<role>Mavis</role>
+		</credit>
+		<credit>
+			<actor>Kevin James</actor>
+			<role>Frankenstein</role>
+		</credit>
+		<credit>
+			<actor>Fran Drescher</actor>
+			<role>Eunice</role>
+		</credit>
+		<credit>
+			<actor>Steve Buscemi</actor>
+			<role>Wayne</role>
+		</credit>
+		<credit>
+			<actor>Molly Shannon</actor>
+			<role>Wanda</role>
+		</credit>
+		<credit>
+			<actor>David Spade</actor>
+			<role>Griffin</role>
+		</credit>
+		<credit>
+			<actor>Keegan-Michael Key</actor>
+			<role>Murray</role>
+		</credit>
+		<credit>
+			<actor>Jim Gaffigan</actor>
+			<role>Van Helsing</role>
+		</credit>
+		<credit>
+			<actor>Kathryn Hahn</actor>
+			<role>Ericka</role>
+		</credit>
+		<credit>
+			<actor>Asher Blinkoff</actor>
+			<role>Dennis</role>
+		</credit>
+		<credit>
+			<actor>Chris Parnell</actor>
+			<role>Stan</role>
+		</credit>
+		<credit>
+			<actor>Joe Jonas</actor>
+			<role>The Kraken</role>
+		</credit>
+		<credit>
+			<actor>Chrissy Teigen</actor>
+			<role>Crystal</role>
+		</credit>
+		<credit>
+			<actor>Mel Brooks</actor>
+			<role>Vlad</role>
+		</credit>
+		<credit>
+			<actor>Aaron LaPlante</actor>
+			<role>Gremlins</role>
+		</credit>
+		<credit>
+			<actor>Michelle Murdocca</actor>
+			<role>Phone Voice</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">June 13 2018</releasedate>
+		<releasedate country="New Zealand">June 14 2018</releasedate>
+		<releasedate country="Australia">June 28 2018</releasedate>
+		<releasedate country="United Arab Emirates">July 12 2018</releasedate>
+		<releasedate country="Argentina">July 12 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Austria">6</certificate>
+		<certificate country="Belgium">KT/EA</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Hong Kong">I</certificate>
+		<certificate country="Hungary">6</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">SU</certificate>
+		<certificate country="Ireland">G</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">V</certificate>
+		<certificate country="Luxembourg">A</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Mexico">AA</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Nigeria">G</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Philippines">G</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">7</certificate>
+		<certificate country="Switzerland">6</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="Turkey">7A</certificate>
+		<certificate country="United Kingdom">U</certificate>
+		<certificate country="United States">PG</certificate>
+		<certificate country="Ukraine">ZA</certificate>
+		<certificate country="United Arab Emirates">PG</certificate>
+		<certificate country="Vietnam">P</certificate>
+	</certificates>
+	<keywords>
+		<keyword>witch</keyword>
+		<keyword>train</keyword>
+		<keyword>pet</keyword>
+		<keyword>dragon</keyword>
+		<keyword>dog</keyword>
+		<keyword>boat</keyword>
+		<keyword>castle</keyword>
+		<keyword>monster</keyword>
+		<keyword>vampire</keyword>
+		<keyword>hotel</keyword>
+		<keyword>werewolf</keyword>
+		<keyword>sequel</keyword>
+		<keyword>third part</keyword>
+		<keyword>cruise ship</keyword>
+		<keyword>dracula character</keyword>
+		<keyword>dracula's daughter</keyword>
+		<keyword>volleyball</keyword>
+		<keyword>pool</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>vampire girl</keyword>
+		<keyword>vampire bat</keyword>
+		<keyword>mummy character</keyword>
+		<keyword>volleyball ball</keyword>
+		<keyword>the invisible man character</keyword>
+		<keyword>female vampire</keyword>
+		<keyword>rms titanic</keyword>
+		<keyword>hotel transylvania</keyword>
+		<keyword>horror for children</keyword>
+		<keyword>wisecrack humor</keyword>
+		<keyword>van helsing</keyword>
+		<keyword>dancing on a boat</keyword>
+		<keyword>vampire hunter</keyword>
+		<keyword>kraken</keyword>
+		<keyword>black cat</keyword>
+		<keyword>gremlin</keyword>
+		<keyword>cat lady</keyword>
+		<keyword>airplane</keyword>
+		<keyword>disc jockey</keyword>
+		<keyword>year 1897</keyword>
+		<keyword>year 2018</keyword>
+		<keyword>sony</keyword>
+		<keyword>sony xperia</keyword>
+		<keyword>piano</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>hypnotism</keyword>
+		<keyword>wedding reception</keyword>
+		<keyword>reference to cleopatra</keyword>
+		<keyword>reference to nefertiti</keyword>
+		<keyword>bermuda triangle</keyword>
+		<keyword>fireworks</keyword>
+		<keyword>atlantis</keyword>
+		<keyword>acrobat</keyword>
+		<keyword>scuba diving</keyword>
+		<keyword>skeleton</keyword>
+		<keyword>chupacabra</keyword>
+		<keyword>garlic</keyword>
+		<keyword>date night</keyword>
+		<keyword>howling at the moon</keyword>
+		<keyword>casino</keyword>
+		<keyword>bride of frankenstein character</keyword>
+		<keyword>macarena</keyword>
+		<keyword>yeti</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>laptop computer</keyword>
+		<keyword>man in love with female vampire</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>frankenstein's monster</keyword>
+		<keyword>human</keyword>
+		<keyword>singing</keyword>
+		<keyword>sandcastle</keyword>
+		<keyword>ship captain</keyword>
+		<keyword>pug dog</keyword>
+		<keyword>puppy</keyword>
+		<keyword>underwater scene</keyword>
+		<keyword>crossover</keyword>
+		<keyword>male protagonist</keyword>
+		<keyword>columbia tristar</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>numbered sequel</keyword>
+		<keyword>colon in title</keyword>
+		<keyword>headphones</keyword>
+		<keyword>hotel transylvania place</keyword>
+		<keyword>dance</keyword>
+		<keyword>snake</keyword>
+		<keyword>microphone</keyword>
+		<keyword>sony mobile</keyword>
+		<keyword>dance party ending</keyword>
+		<keyword>wolfman</keyword>
+		<keyword>slimehouse</keyword>
+		<keyword>shrekcore</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>car</keyword>
+		<keyword>aircraft</keyword>
+		<keyword>propeller aeroplane</keyword>
+		<keyword>vehicle</keyword>
+		<keyword>male vampire</keyword>
+		<keyword>passenger compartment</keyword>
+		<keyword>nighttime</keyword>
+		<keyword>waterborne ship</keyword>
+		<keyword>dhampir</keyword>
+		<keyword>female captain</keyword>
+		<keyword>aircraft cabin</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>human vampire hybrid</keyword>
+		<keyword>female ship captain</keyword>
+		<keyword>propeller aircraft</keyword>
+		<keyword>single seat submersible</keyword>
+		<keyword>book</keyword>
+		<keyword>hybrid</keyword>
+		<keyword>sea captain</keyword>
+		<keyword>family vacation</keyword>
+		<keyword>submersible</keyword>
+		<keyword>married couple</keyword>
+		<keyword>child</keyword>
+		<keyword>female sea captain</keyword>
+		<keyword>flare gun</keyword>
+		<keyword>boy</keyword>
+		<keyword>human vampire married couple</keyword>
+		<keyword>sea vessel</keyword>
+		<keyword>hardcover book</keyword>
+		<keyword>talking monster</keyword>
+		<keyword>smartphone</keyword>
+		<keyword>male dhampir</keyword>
+		<keyword>digit in title</keyword>
+		<keyword>humanoid monster</keyword>
+		<keyword>propeller airliner</keyword>
+		<keyword>mobile telephone</keyword>
+		<keyword>male human vampire hybrid</keyword>
+		<keyword>undead</keyword>
+		<keyword>night</keyword>
+		<keyword>airliner</keyword>
+		<keyword>grandfather</keyword>
+		<keyword>human vampire relationship</keyword>
+		<keyword>animal</keyword>
+		<keyword>fish</keyword>
+		<keyword>shark</keyword>
+		<keyword>carnivore</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>beach</keyword>
+		<keyword>marine fish</keyword>
+		<keyword>tentacled monster</keyword>
+		<keyword>underwater volcano</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>man scuba diving</keyword>
+		<keyword>island</keyword>
+		<keyword>sea monster</keyword>
+		<keyword>predatory fish</keyword>
+		<keyword>dolphin</keyword>
+		<keyword>weapons fire</keyword>
+		<keyword>singing monster</keyword>
+		<keyword>predator</keyword>
+		<keyword>manta ray</keyword>
+		<keyword>carnivorous fish</keyword>
+		<keyword>guacamole</keyword>
+		<keyword>elevator</keyword>
+		<keyword>jet</keyword>
+		<keyword>human husband vampire wife</keyword>
+		<keyword>vampire human relationship</keyword>
+		<keyword>sony smartphone</keyword>
+		<keyword>weapon</keyword>
+		<keyword>human vampire</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>monster movie</keyword>
+		<keyword>eyeglasses</keyword>
+		<keyword>glasses</keyword>
+		<keyword>wolf</keyword>
+		<keyword>camera</keyword>
+		<keyword>mouse</keyword>
+		<keyword>full moon</keyword>
+		<keyword>moon</keyword>
+		<keyword>plane</keyword>
+		<keyword>bat</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>woman with short hair</keyword>
+		<keyword>pug</keyword>
+		<keyword>pajamas</keyword>
+		<keyword>water</keyword>
+		<keyword>ocean</keyword>
+		<keyword>wave</keyword>
+		<keyword>volcano</keyword>
+		<keyword>ring</keyword>
+		<keyword>pillow</keyword>
+		<keyword>bed</keyword>
+		<keyword>swimsuit</keyword>
+		<keyword>vacation gone wrong</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>part of tetralogy</keyword>
+		<keyword>reference to the love boat</keyword>
+		<keyword>reference to the wiggles wiggle bay</keyword>
+		<keyword>cape</keyword>
+		<keyword>vampire cape</keyword>
+		<keyword>vampire horror</keyword>
+		<keyword>bedsheet</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>poker</keyword>
+		<keyword>hypnosis</keyword>
+		<keyword>hat</keyword>
+		<keyword>flying</keyword>
+		<keyword>playing card</keyword>
+		<keyword>blob</keyword>
+		<keyword>ship</keyword>
+		<keyword>voyage</keyword>
+		<keyword>part of series</keyword>
+		<keyword>vacation</keyword>
+		<keyword>wand</keyword>
+		<keyword>dive mask</keyword>
+		<keyword>chair</keyword>
+		<keyword>fire</keyword>
+		<keyword>rat</keyword>
+		<keyword>wedding</keyword>
+		<keyword>roar</keyword>
+		<keyword>cake</keyword>
+		<keyword>snorkel</keyword>
+		<keyword>acoustic guitar</keyword>
+		<keyword>table</keyword>
+		<keyword>castanets</keyword>
+		<keyword>double bass</keyword>
+		<keyword>broom</keyword>
+		<keyword>cap</keyword>
+		<keyword>baseball cap</keyword>
+		<keyword>candle</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>bottle</keyword>
+		<keyword>trumpet</keyword>
+		<keyword>witch hat</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>hotel staff</keyword>
+		<keyword>hotel staff cap</keyword>
+		<keyword>hotel staff uniform</keyword>
+		<keyword>zombie</keyword>
+		<keyword>goggles</keyword>
+		<keyword>mariachi</keyword>
+		<keyword>commercial air travel</keyword>
+		<keyword>rain</keyword>
+		<keyword>swimfin</keyword>
+		<keyword>hugging</keyword>
+		<keyword>arrow</keyword>
+		<keyword>reference to an unicorn</keyword>
+		<keyword>dinner</keyword>
+		<keyword>sand</keyword>
+		<keyword>necklace</keyword>
+		<keyword>violin</keyword>
+		<keyword>3d</keyword>
+		<keyword>3 dimensional</keyword>
+		<keyword>flower</keyword>
+		<keyword>rose</keyword>
+		<keyword>crown</keyword>
+		<keyword>applause</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>insect</keyword>
+		<keyword>towel</keyword>
+		<keyword>1890s</keyword>
+		<keyword>axe</keyword>
+		<keyword>five word title</keyword>
+		<keyword>chicken</keyword>
+		<keyword>snow</keyword>
+		<keyword>apple</keyword>
+		<keyword>wedding crown</keyword>
+		<keyword>cat</keyword>
+		<keyword>mattress</keyword>
+		<keyword>volcanic eruption</keyword>
+		<keyword>lava</keyword>
+		<keyword>spotlight</keyword>
+		<keyword>love at first sight</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>plush toy</keyword>
+		<keyword>balloon</keyword>
+		<keyword>phonograph record</keyword>
+		<keyword>phonograph</keyword>
+		<keyword>clock</keyword>
+		<keyword>watch</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>mummy</keyword>
+		<keyword>invisible man</keyword>
+		<keyword>dracula</keyword>
+		<keyword>transylvania</keyword>
+		<keyword>number in title</keyword>
+	</keywords>
+	<directors>
+		<director> Genndy Tartakovsky</director>
+	</directors>
+	<composers>
+		<composer> Mark Mothersbaugh</composer>
+		<composer> Tiësto</composer>
+	</composers>
+	<producers>
+		<producer> Michelle Murdocca</producer>
+		<producer> Carey Smith</producer>
+		<producer> Mandy Tankenson</producer>
+		<producer> Genevieve West</producer>
+	</producers>
+	<writers>
+		<writer> Genndy Tartakovsky</writer>
+		<writer> Michael McCullers</writer>
+	</writers>
+	<editors>
+		<editor> Joyce Arrastia</editor>
+	</editors>
+</doc>

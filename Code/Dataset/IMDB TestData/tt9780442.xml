@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<doc id="tt9780442">
+	<docid>tt9780442</docid>
+	<title>RuPaul's Drag Race UK</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODFkNTg5ZWMtYmM1OS00NGRkLWIyYmMtYjEzMjFiMDNlOWEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>UK version of RuPaul's hit reality competition show where RuPaul searches for the country's next drag superstar.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>RuPaul</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Michelle Visage</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Alan Carr</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Graham Norton</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Kevin Max Grogan</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Lawrence Chaney</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Baga Chipz</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>James Lee Williams</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Luke Fenn</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Tommy Hibbitts</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Elliot Glen</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Tayce Szura-Radix</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>George Boyle</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Nick Collier</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Lewis Sanders</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Christopher Adamson</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Michael Atkins</actor>
+			<role>Self - Contestant</role>
+		</credit>
+		<credit>
+			<actor>Jonbers Blonde</actor>
+			<role>Self - Contestant</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">September 3 2019</releasedate>
+		<releasedate country="United Kingdom">October 3 2019</releasedate>
+		<releasedate country="Netherlands">October 3 2019</releasedate>
+		<releasedate country="Turkey">October 3 2019</releasedate>
+		<releasedate country="Brazil">December 15 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>drag queen</keyword>
+		<keyword>lip sync battle</keyword>
+		<keyword>beauty game show</keyword>
+		<keyword>campy</keyword>
+		<keyword>competition reality tv</keyword>
+		<keyword>talent game show</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Tony Grech-Smith</director>
+	</directors>
+	<composers>
+		<composer> Leland</composer>
+		<composer> Lior Rosner</composer>
+		<composer> Freddy Scott</composer>
+		<composer> Jack Wilson</composer>
+		<composer> David Benjamin Steinberg</composer>
+	</composers>
+	<producers>
+		<producer> Bruce McCoy</producer>
+		<producer> Fenton Bailey</producer>
+		<producer> RuPaul</producer>
+		<producer> Michelle Visage</producer>
+		<producer> Tom Campbell</producer>
+		<producer> Randy Barbato</producer>
+		<producer> Matt Green</producer>
+		<producer> Adam Lonergan</producer>
+		<producer> Thairin Smothers</producer>
+		<producer> Chris Weller</producer>
+		<producer> Darren Brown</producer>
+		<producer> Ruby Kuraishe</producer>
+		<producer> Erin McPartland</producer>
+		<producer> Sally Miles</producer>
+		<producer> Claire Boyd</producer>
+		<producer> Fleur Cousens</producer>
+		<producer> Wendy Devyea</producer>
+		<producer> David Gordon</producer>
+		<producer> Jonathan Booth</producer>
+		<producer> Lucie Eaton</producer>
+		<producer> Olivia Brooke</producer>
+		<producer> Gemma Moulton</producer>
+		<producer> Steven Corfe</producer>
+		<producer> Alexis Kobel</producer>
+		<producer> Vanessa Clark</producer>
+		<producer> Jack Cullen</producer>
+		<producer> Johnni Javier</producer>
+		<producer> Chris Hall</producer>
+		<producer> Jonathan Knapp</producer>
+		<producer> Rachel Owoo</producer>
+		<producer> Adam Ferrari</producer>
+		<producer> Adele Mills</producer>
+		<producer> Elaine O'Brien</producer>
+		<producer> Cara Bruce</producer>
+		<producer> Tim Thomson</producer>
+	</producers>
+	<writers>
+		<writer> Christian Manley</writer>
+		<writer> Niki Xenophontos</writer>
+	</writers>
+	<editors>
+		<editor> Josh Bridgman</editor>
+		<editor> Peter Hein-Hansen</editor>
+		<editor> Ashlinn Gleeson</editor>
+		<editor> Liz Elston</editor>
+		<editor> Amy Hadfield</editor>
+		<editor> Elizabeth Elson</editor>
+		<editor> Pablo Noé</editor>
+		<editor> Matt Robinson</editor>
+		<editor> Alex Archer</editor>
+		<editor> Owen Philip</editor>
+	</editors>
+</doc>

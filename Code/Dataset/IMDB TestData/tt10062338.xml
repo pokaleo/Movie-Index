@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<doc id="tt10062338">
+	<docid>tt10062338</docid>
+	<title>Earwig</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDM1ODdiYWYtMGY0ZS00NTczLTg4NzQtYzExZjExNGIzZjBiXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">114</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A 50-year-old caretaker is employed to look after 10-year-old girl. His most important task is to maintain her dentures that are made of ice and must be changed several times a day.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Paul Hilton</actor>
+			<role>Albert Scellinc</role>
+		</credit>
+		<credit>
+			<actor>Romane Hemelaers</actor>
+			<role>Mia</role>
+		</credit>
+		<credit>
+			<actor>Romola Garai</actor>
+			<role>Céleste</role>
+		</credit>
+		<credit>
+			<actor>Alex Lawther</actor>
+			<role>Laurence</role>
+		</credit>
+		<credit>
+			<actor>Peter Van den Begin</actor>
+			<role>The stranger</role>
+		</credit>
+		<credit>
+			<actor>Anastasia Robin</actor>
+			<role>Marie Scellinc</role>
+		</credit>
+		<credit>
+			<actor>Michael Pas</actor>
+			<role>The doctor</role>
+		</credit>
+		<credit>
+			<actor>Isabelle de Hertogh</actor>
+			<role>The concierge</role>
+		</credit>
+		<credit>
+			<actor>Marie Bos</actor>
+			<role>The receptionist</role>
+		</credit>
+		<credit>
+			<actor>Martin Verset</actor>
+			<role>Albert (Child)</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 10 2021</releasedate>
+		<releasedate country="Spain">September 18 2021</releasedate>
+		<releasedate country="United States">October 7 2021</releasedate>
+		<releasedate country="Canada">October 12 2021</releasedate>
+		<releasedate country="United Kingdom">October 15 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Turkey">YETİŞKİN</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>one word title</keyword>
+		<keyword>title directed by female</keyword>
+		<keyword>dentist</keyword>
+		<keyword>refrigerator</keyword>
+		<keyword>cat</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>little girl</keyword>
+		<keyword>false teeth</keyword>
+		<keyword>f rated</keyword>
+		<keyword>teeth</keyword>
+		<keyword>barefoot girl</keyword>
+	</keywords>
+	<directors>
+		<director> Lucile Hadzihalilovic</director>
+	</directors>
+	<composers>
+		<composer> Nicolas Becker</composer>
+		<composer> Warren Ellis</composer>
+		<composer> Augustin Viard</composer>
+	</composers>
+	<producers>
+		<producer> Anne-Laure Declerck</producer>
+		<producer> Jean des Forêts</producer>
+		<producer> Thibault Gillis</producer>
+		<producer> Christophe Hollebeke</producer>
+		<producer> Amélie Jacquis</producer>
+		<producer> Jean-Yves Roubin</producer>
+		<producer> Andrew Starke</producer>
+		<producer> Cassandre Warnauts</producer>
+	</producers>
+	<writers>
+		<writer> Brian Catling</writer>
+		<writer> Geoff Cox</writer>
+		<writer> Lucile Hadzihalilovic</writer>
+	</writers>
+	<editors>
+		<editor> Adam Finch</editor>
+	</editors>
+</doc>

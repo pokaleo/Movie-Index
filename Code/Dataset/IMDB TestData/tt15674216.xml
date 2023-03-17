@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<doc id="tt15674216">
+	<docid>tt15674216</docid>
+	<title>Animal</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzRkZmNlNDAtNDgxZS00NWZhLTk1NDUtZTkyYmQ5MjAxNjI2XkEyXkFqcGdeQXVyNzI4MDQ4MDM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>This immersive series follows the world's most magnificent creatures, capturing never before seen moments from the heartwarming to the outrageous.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Pedro Pascal</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Bryan Cranston</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Rashida Jones</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Rebel Wilson</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>David Harbour</actor>
+			<role>Self - Narrator</role>
+		</credit>
+		<credit>
+			<actor>Andy Serkis</actor>
+			<role>Self - Narrator</role>
+		</credit>
+		<credit>
+			<actor>Anthony Mackie</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Uzo Aduba</actor>
+			<role>Self - Narrator</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">November 10 2021</releasedate>
+		<releasedate country="Argentina">November 10 2021</releasedate>
+		<releasedate country="Brazil">November 10 2021</releasedate>
+		<releasedate country="Canada">November 10 2021</releasedate>
+		<releasedate country="Germany">November 10 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">12</certificate>
+		<certificate country="Mexico">TV-PG</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">7</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>2020s</keyword>
+		<keyword>wildlife documentary</keyword>
+		<keyword>animal</keyword>
+		<keyword>big cat</keyword>
+		<keyword>dog</keyword>
+		<keyword>marsupial</keyword>
+		<keyword>australia</keyword>
+		<keyword>africa</keyword>
+		<keyword>asia</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>documentary series</keyword>
+		<keyword>animal documentary</keyword>
+		<keyword>nature documentary</keyword>
+	</keywords>
+	<directors>
+		<director> Bill Markham</director>
+		<director> Anuschka Schofield</director>
+		<director> Adrian Seymour</director>
+	</directors>
+	<composers>
+		<composer> Jasha Klebe</composer>
+	</composers>
+	<producers>
+		<producer> Bill Markham</producer>
+		<producer> Frances Casey</producer>
+		<producer> Martha Holmes</producer>
+		<producer> Tom Hugh-Jones</producer>
+		<producer> Anuschka Schofield</producer>
+		<producer> Alex Minton</producer>
+		<producer> Dani Godwin</producer>
+		<producer> Emily Vaughan Williams</producer>
+		<producer> Adrian Seymour</producer>
+		<producer> Rob Morgan</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Chrissa Geering</editor>
+		<editor> Paul Kiff</editor>
+		<editor> Jack Roberts</editor>
+		<editor> Rupert Troskie</editor>
+		<editor> Stephanie Watkins</editor>
+		<editor> Tom Wright</editor>
+	</editors>
+</doc>

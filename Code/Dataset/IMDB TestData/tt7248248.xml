@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<doc id="tt7248248">
+	<docid>tt7248248</docid>
+	<title>Lucky Day</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzkxYzAzYjUtMjU1Ni00YTZkLTliMmUtZmE1ODA4NThmOTNkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>I 2019</year>
+	<runningtimes>
+		<runningtime country="default">99</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>Red, a safe cracker who has just been released from prison, is trying to hold his family together as his past catches up with him in the form of Luc, a psychopathic contract killer who's seeking revenge for the death of his brother.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Luke Bracey</actor>
+			<role>Red</role>
+		</credit>
+		<credit>
+			<actor>Nina Dobrev</actor>
+			<role>Chloe</role>
+		</credit>
+		<credit>
+			<actor>Crispin Glover</actor>
+			<role>Luc</role>
+		</credit>
+		<credit>
+			<actor>Ella Ryan Quinn</actor>
+			<role>Beatrice</role>
+		</credit>
+		<credit>
+			<actor>Clé Bennett</actor>
+			<role>Leroy</role>
+		</credit>
+		<credit>
+			<actor>Clifton Collins Jr.</actor>
+			<role>DPO Ernesto Sanchez</role>
+		</credit>
+		<credit>
+			<actor>David Hewlett</actor>
+			<role>Derrek Blarney</role>
+		</credit>
+		<credit>
+			<actor>Nadia Farès</actor>
+			<role>Lolita</role>
+		</credit>
+		<credit>
+			<actor>Tomer Sisley</actor>
+			<role>Jean-Jacques</role>
+		</credit>
+		<credit>
+			<actor>Mark Dacascos</actor>
+			<role>Louis</role>
+		</credit>
+		<credit>
+			<actor>Roberto Campanella</actor>
+			<role>Pierre</role>
+		</credit>
+		<credit>
+			<actor>Gabrielle Graham</actor>
+			<role>Sabine</role>
+		</credit>
+		<credit>
+			<actor>Josie Ho</actor>
+			<role>Mrs. Kok</role>
+		</credit>
+		<credit>
+			<actor>Darrin Baker</actor>
+			<role>Officer Lundquist</role>
+		</credit>
+		<credit>
+			<actor>Scott Faulconbridge</actor>
+			<role>Officer McClane</role>
+		</credit>
+		<credit>
+			<actor>Wole Daramola</actor>
+			<role>Mozambique</role>
+		</credit>
+		<credit>
+			<actor>Sayla de Goede</actor>
+			<role>AirHadida Flight Attendant</role>
+		</credit>
+		<credit>
+			<actor>Yana Gold</actor>
+			<role>AirHadida Flight Attendant</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">September 18 2019</releasedate>
+		<releasedate country="United States">October 11 2019</releasedate>
+		<releasedate country="United States">October 11 2019</releasedate>
+		<releasedate country="Switzerland">November 6 2019</releasedate>
+		<releasedate country="Brazil">November 28 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">18A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>death</keyword>
+		<keyword>f word</keyword>
+		<keyword>subtitled scene</keyword>
+	</keywords>
+	<directors>
+		<director> Roger Avary</director>
+	</directors>
+	<composers>
+		<composer> tomandandy</composer>
+	</composers>
+	<producers>
+		<producer> Gala Avary</producer>
+		<producer> Don Carmody</producer>
+		<producer> Samuel Hadida</producer>
+		<producer> Victor Hadida</producer>
+		<producer> Sylvie Landra</producer>
+		<producer> Marek Posival</producer>
+	</producers>
+	<writers>
+		<writer> Roger Avary</writer>
+	</writers>
+	<editors>
+		<editor> Sylvie Landra</editor>
+	</editors>
+</doc>

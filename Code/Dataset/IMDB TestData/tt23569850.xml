@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<doc id="tt23569850">
+	<docid>tt23569850</docid>
+	<title>The Confession</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjFlODdkNTAtMmU4MC00NDgzLWJjN2MtZTVjYjk0ZjBkZjgxXkEyXkFqcGdeQXVyODE4NzU4OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Docuseries examining the mysterious disappearance of British housewife Patricia Hall from her small Yorkshire town.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Hollie Wade</actor>
+			<role>Liz</role>
+		</credit>
+		<credit>
+			<actor>Lucy Mizen</actor>
+			<role>Patricia Hall</role>
+		</credit>
+		<credit>
+			<actor>Noah Burd</actor>
+			<role>Jim Bancroft</role>
+		</credit>
+		<credit>
+			<actor>Matt Salmon</actor>
+			<role>Keith Hall</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Anscombe</actor>
+			<role>Steven Fletcher</role>
+		</credit>
+		<credit>
+			<actor>Duncan MacLeod</actor>
+			<role>Andy Kennedy</role>
+		</credit>
+		<credit>
+			<actor>Chris Orton</actor>
+			<role>Rodney Lester</role>
+		</credit>
+		<credit>
+			<actor>Ade Dimberline</actor>
+			<role>ACDC</role>
+		</credit>
+		<credit>
+			<actor>Jamie Leonard</actor>
+			<role>Martin Bethel</role>
+		</credit>
+		<credit>
+			<actor>Martin Carroll</actor>
+			<role>Defence Barrister</role>
+		</credit>
+		<credit>
+			<actor>Robert Pickavance</actor>
+			<role>Judge</role>
+		</credit>
+		<credit>
+			<actor>Chloe Scott</actor>
+			<role>Sheron Boyle</role>
+		</credit>
+		<credit>
+			<actor>Amy Bennett</actor>
+			<role>Court Clerk</role>
+		</credit>
+		<credit>
+			<actor>Jim Bancroft</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Simon Ashland</actor>
+			<role>Jury Foreman</role>
+		</credit>
+		<credit>
+			<actor>Sheron Boyle</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Aimee Williamson</actor>
+			<role>Harrison's Deputy</role>
+		</credit>
+		<credit>
+			<actor>Robert Duckworth</actor>
+			<role>Bethel's Deputy</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">November 24 2022</releasedate>
+		<releasedate country="United Kingdom">November 25 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="United Kingdom">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tv mini series</keyword>
+		<keyword>mysterious</keyword>
+	</keywords>
+	<directors>
+		<director> Sam Hobkinson</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> James Joseph McDonald</producer>
+		<producer> Tibo Travers</producer>
+		<producer> Nathaniel Lippiett</producer>
+		<producer> Vivienne Perry</producer>
+		<producer> Ian Rumsey</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Matteo Bini</editor>
+	</editors>
+</doc>

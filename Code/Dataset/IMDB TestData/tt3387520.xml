@@ -1,0 +1,587 @@
+<?xml version="1.0" ?>
+<doc id="tt3387520">
+	<docid>tt3387520</docid>
+	<title>Scary Stories to Tell in the Dark</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmI1MGE0ODMtYWRlZC00ZDUxLWIyNGItYjgyNzhhMTRlOTI2XkEyXkFqcGdeQXVyOTQ5MTIwMjM@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>On Halloween 1968, Stella and her two friends meet a mysterious drifter, Ramón, and uncover a sinister notebook of stories.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Zoe Margaret Colletti</actor>
+			<role>Stella Nicholls</role>
+		</credit>
+		<credit>
+			<actor>Michael Garza</actor>
+			<role>Ramon Morales</role>
+		</credit>
+		<credit>
+			<actor>Gabriel Rush</actor>
+			<role>Auggie Hilderbrandt</role>
+		</credit>
+		<credit>
+			<actor>Austin Abrams</actor>
+			<role>Tommy Milner</role>
+		</credit>
+		<credit>
+			<actor>Dean Norris</actor>
+			<role>Roy Nicholls</role>
+		</credit>
+		<credit>
+			<actor>Gil Bellows</actor>
+			<role>Chief Turner</role>
+		</credit>
+		<credit>
+			<actor>Austin Zajur</actor>
+			<role>Chuck Steinberg</role>
+		</credit>
+		<credit>
+			<actor>Natalie Ganzhorn</actor>
+			<role>Ruth Steinberg</role>
+		</credit>
+		<credit>
+			<actor>Lorraine Toussaint</actor>
+			<role>Lou Lou</role>
+		</credit>
+		<credit>
+			<actor>Kathleen Pollard</actor>
+			<role>Sarah Bellows</role>
+		</credit>
+		<credit>
+			<actor>Deborah Pollitt</actor>
+			<role>Mrs. Steinberg</role>
+		</credit>
+		<credit>
+			<actor>Victoria Fodor</actor>
+			<role>Mrs. Milner</role>
+		</credit>
+		<credit>
+			<actor>Marie Ward</actor>
+			<role>Mrs. Hilderbrandt</role>
+		</credit>
+		<credit>
+			<actor>Mark Steger</actor>
+			<role>Harold the Scarecrow</role>
+		</credit>
+		<credit>
+			<actor>Javier Botet</actor>
+			<role>Big Toe Corpse</role>
+		</credit>
+		<credit>
+			<actor>Troy James</actor>
+			<role>Jangly Man</role>
+		</credit>
+		<credit>
+			<actor>Kyle Labine</actor>
+			<role>Deputy Hobbs</role>
+		</credit>
+		<credit>
+			<actor>David Tompa</actor>
+			<role>Doctor</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Indonesia">August 7 2019</releasedate>
+		<releasedate country="Philippines">August 7 2019</releasedate>
+		<releasedate country="Taiwan">August 7 2019</releasedate>
+		<releasedate country="United Arab Emirates">August 8 2019</releasedate>
+		<releasedate country="Brazil">August 8 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Belgium">KNT/ENA</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Czechia">12</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">12</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-15</certificate>
+		<certificate country="Hong Kong">IIB</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Lithuania">N-13</certificate>
+		<certificate country="Luxembourg">16</certificate>
+		<certificate country="Malaysia">P13</certificate>
+		<certificate country="Malta">15</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">15</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Puerto Rico">PG-13</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Taiwan">R-12</certificate>
+		<certificate country="Thailand">13</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">PG-13</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="Vietnam">C18</certificate>
+	</certificates>
+	<keywords>
+		<keyword>scarecrow</keyword>
+		<keyword>haunted book</keyword>
+		<keyword>haunted house</keyword>
+		<keyword>monster</keyword>
+		<keyword>hospital</keyword>
+		<keyword>bully</keyword>
+		<keyword>writer</keyword>
+		<keyword>halloween</keyword>
+		<keyword>teenager</keyword>
+		<keyword>book</keyword>
+		<keyword>haunted place</keyword>
+		<keyword>ghost</keyword>
+		<keyword>zombie</keyword>
+		<keyword>interracial love</keyword>
+		<keyword>racism</keyword>
+		<keyword>spider</keyword>
+		<keyword>albinism</keyword>
+		<keyword>friendship</keyword>
+		<keyword>night in jail</keyword>
+		<keyword>halloween costume</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>hidden room</keyword>
+		<keyword>small town</keyword>
+		<keyword>albino</keyword>
+		<keyword>writing in blood</keyword>
+		<keyword>locked in a room</keyword>
+		<keyword>year 1968</keyword>
+		<keyword>based on book</keyword>
+		<keyword>fear</keyword>
+		<keyword>reference to richard nixon</keyword>
+		<keyword>tv dinner</keyword>
+		<keyword>drive in theater</keyword>
+		<keyword>stew</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>pimple</keyword>
+		<keyword>hair in curlers</keyword>
+		<keyword>spider costume</keyword>
+		<keyword>witch costume</keyword>
+		<keyword>flaming bag of poo</keyword>
+		<keyword>pierrot costume</keyword>
+		<keyword>baseball bat used as a weapon</keyword>
+		<keyword>stabbed with a pitchfork</keyword>
+		<keyword>turned into a scarecrow</keyword>
+		<keyword>letterman jacket</keyword>
+		<keyword>monster under the bed</keyword>
+		<keyword>dragged under bed</keyword>
+		<keyword>burning a book</keyword>
+		<keyword>decapitated head</keyword>
+		<keyword>halloween prank</keyword>
+		<keyword>racial slur</keyword>
+		<keyword>red room</keyword>
+		<keyword>car vandalized</keyword>
+		<keyword>police harassment</keyword>
+		<keyword>draft</keyword>
+		<keyword>draft dodger</keyword>
+		<keyword>boil on the face</keyword>
+		<keyword>doberman</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>cobwebs</keyword>
+		<keyword>loss of brother</keyword>
+		<keyword>sweaty face</keyword>
+		<keyword>watching a movie</keyword>
+		<keyword>abandoned by mother</keyword>
+		<keyword>abandoned by wife</keyword>
+		<keyword>pad lock</keyword>
+		<keyword>naked lady pen</keyword>
+		<keyword>chained door</keyword>
+		<keyword>switchblade knife</keyword>
+		<keyword>blind woman</keyword>
+		<keyword>pitchfork</keyword>
+		<keyword>pitchfork as weapon</keyword>
+		<keyword>virgin</keyword>
+		<keyword>wax cylinder</keyword>
+		<keyword>homeless teen</keyword>
+		<keyword>glasses</keyword>
+		<keyword>broken glasses</keyword>
+		<keyword>bus</keyword>
+		<keyword>bat</keyword>
+		<keyword>secret room</keyword>
+		<keyword>1968 u.s. presidential election</keyword>
+		<keyword>reference to spider man</keyword>
+		<keyword>reference to the vietnam war</keyword>
+		<keyword>mexican teenager</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>child abuse</keyword>
+		<keyword>reference to commedia dell'arte</keyword>
+		<keyword>reference to bye bye birdie the stage musical</keyword>
+		<keyword>mexican</keyword>
+		<keyword>murder</keyword>
+		<keyword>high school</keyword>
+		<keyword>women's bathroom</keyword>
+		<keyword>living decapitated head</keyword>
+		<keyword>old dark house</keyword>
+		<keyword>teen horror</keyword>
+		<keyword>poisoned water</keyword>
+		<keyword>mercury</keyword>
+		<keyword>election day</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>teenage protagonist</keyword>
+		<keyword>seven word title</keyword>
+		<keyword>anthology</keyword>
+		<keyword>african american maid</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>police officer</keyword>
+		<keyword>reference to spiro agnew</keyword>
+		<keyword>clown costume</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>bottle breaking</keyword>
+		<keyword>stabbed from behind</keyword>
+		<keyword>electroshock</keyword>
+		<keyword>riding a bicycle</keyword>
+		<keyword>poisoned food</keyword>
+		<keyword>search for a missing person</keyword>
+		<keyword>lie</keyword>
+		<keyword>fictional city</keyword>
+		<keyword>trick or treating as teenager</keyword>
+		<keyword>living in a car</keyword>
+		<keyword>title same as book</keyword>
+		<keyword>jump scare</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>throwing something at someone</keyword>
+		<keyword>bullying</keyword>
+		<keyword>costume</keyword>
+		<keyword>smelling clothes</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>pennsylvania</keyword>
+		<keyword>throwing an egg</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>throwing an egg at someone</keyword>
+		<keyword>cinephile</keyword>
+		<keyword>horror movie fan</keyword>
+		<keyword>transmitter</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>group of friends</keyword>
+		<keyword>police car</keyword>
+		<keyword>policeman</keyword>
+		<keyword>throwing excrement at someone</keyword>
+		<keyword>breaking a bottle</keyword>
+		<keyword>broken bottle</keyword>
+		<keyword>car accident</keyword>
+		<keyword>field</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>lack of privacy</keyword>
+		<keyword>traffic accident</keyword>
+		<keyword>forest</keyword>
+		<keyword>friend</keyword>
+		<keyword>mask</keyword>
+		<keyword>woods</keyword>
+		<keyword>running through the woods</keyword>
+		<keyword>climbing over a fence</keyword>
+		<keyword>smelling someone's clothes</keyword>
+		<keyword>hiding behind a car</keyword>
+		<keyword>chase</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>hiding in a car</keyword>
+		<keyword>film within a film</keyword>
+		<keyword>man on fire</keyword>
+		<keyword>racist remark</keyword>
+		<keyword>break in</keyword>
+		<keyword>breaking in</keyword>
+		<keyword>mansion</keyword>
+		<keyword>locked door</keyword>
+		<keyword>lock</keyword>
+		<keyword>reference to bela lugosi</keyword>
+		<keyword>hidden door</keyword>
+		<keyword>secret door</keyword>
+		<keyword>switchblade</keyword>
+		<keyword>knife</keyword>
+		<keyword>hidden passage</keyword>
+		<keyword>secret passageway</keyword>
+		<keyword>magazine</keyword>
+		<keyword>wannabe writer</keyword>
+		<keyword>hiding in a closet</keyword>
+		<keyword>prankster</keyword>
+		<keyword>prank</keyword>
+		<keyword>dog</keyword>
+		<keyword>downpour</keyword>
+		<keyword>old woman</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>mysterious event</keyword>
+		<keyword>lighter</keyword>
+		<keyword>broken mirror</keyword>
+		<keyword>cracked mirror</keyword>
+		<keyword>music box</keyword>
+		<keyword>basement</keyword>
+		<keyword>telling someone to shut up</keyword>
+		<keyword>camera shot of feet</keyword>
+		<keyword>locked in</keyword>
+		<keyword>trapped</keyword>
+		<keyword>reading a book</keyword>
+		<keyword>scream</keyword>
+		<keyword>crying for help</keyword>
+		<keyword>vandalism</keyword>
+		<keyword>vandal</keyword>
+		<keyword>broken car window</keyword>
+		<keyword>manuscript</keyword>
+		<keyword>heavy rain</keyword>
+		<keyword>invitation</keyword>
+		<keyword>sleepover</keyword>
+		<keyword>sleeping in front of the television</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>drunken man</keyword>
+		<keyword>drunken teenager</keyword>
+		<keyword>drunken driving</keyword>
+		<keyword>chicken</keyword>
+		<keyword>farm</keyword>
+		<keyword>farmer</keyword>
+		<keyword>egg</keyword>
+		<keyword>delivery</keyword>
+		<keyword>rural setting</keyword>
+		<keyword>talking to a scarecrow</keyword>
+		<keyword>scarecrow comes to life</keyword>
+		<keyword>being followed</keyword>
+		<keyword>following someone</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>suspicious policeman</keyword>
+		<keyword>stabbed</keyword>
+		<keyword>stabbing</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>transformation</keyword>
+		<keyword>gas station</keyword>
+		<keyword>racist man</keyword>
+		<keyword>racist</keyword>
+		<keyword>reading aloud</keyword>
+		<keyword>racist policeman</keyword>
+		<keyword>life imitates art</keyword>
+		<keyword>missing person</keyword>
+		<keyword>missing man</keyword>
+		<keyword>f rated</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>stolen book</keyword>
+		<keyword>visit</keyword>
+		<keyword>camera shot of mouth</keyword>
+		<keyword>disembodied toe</keyword>
+		<keyword>disembodied eye</keyword>
+		<keyword>gag reflex</keyword>
+		<keyword>sitting on the floor</keyword>
+		<keyword>home alone</keyword>
+		<keyword>undead</keyword>
+		<keyword>camera shot of bare feet</keyword>
+		<keyword>hiding under a bed</keyword>
+		<keyword>camera shot from under a bed</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>dragging someone</keyword>
+		<keyword>redhead</keyword>
+		<keyword>disbelief</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>newspaper article</keyword>
+		<keyword>reading a newspaper</keyword>
+		<keyword>investigation</keyword>
+		<keyword>private investigation</keyword>
+		<keyword>spider bite</keyword>
+		<keyword>high school musical</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>school play</keyword>
+		<keyword>elevator</keyword>
+		<keyword>camera shot of an eye</keyword>
+		<keyword>close up of an eye</keyword>
+		<keyword>camera shot of eyes</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>orderly</keyword>
+		<keyword>throwing water on someone</keyword>
+		<keyword>wet clothes</keyword>
+		<keyword>arachnophobia</keyword>
+		<keyword>arachnophobiac</keyword>
+		<keyword>fear of spiders</keyword>
+		<keyword>stretcher</keyword>
+		<keyword>ambulance</keyword>
+		<keyword>hospital orderly</keyword>
+		<keyword>blind character</keyword>
+		<keyword>mysterious death</keyword>
+		<keyword>file</keyword>
+		<keyword>reference to vietnam war</keyword>
+		<keyword>nurse</keyword>
+		<keyword>asylum</keyword>
+		<keyword>research</keyword>
+		<keyword>doctor</keyword>
+		<keyword>receptionist</keyword>
+		<keyword>reception</keyword>
+		<keyword>hospital reception</keyword>
+		<keyword>insane asylum</keyword>
+		<keyword>psychiatric hospital</keyword>
+		<keyword>audio recording</keyword>
+		<keyword>pen</keyword>
+		<keyword>lost pen</keyword>
+		<keyword>storm</keyword>
+		<keyword>rainstorm</keyword>
+		<keyword>psychiatric patient</keyword>
+		<keyword>crying man</keyword>
+		<keyword>sitting on table</keyword>
+		<keyword>police station</keyword>
+		<keyword>cursed book</keyword>
+		<keyword>xenophobia</keyword>
+		<keyword>xenophobic policeman</keyword>
+		<keyword>xenophobic remark</keyword>
+		<keyword>cell</keyword>
+		<keyword>talking to a dog</keyword>
+		<keyword>talking to an animal</keyword>
+		<keyword>disembodied head</keyword>
+		<keyword>shooting</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>disembodied arm</keyword>
+		<keyword>disembodied leg</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>breaking someone's neck</keyword>
+		<keyword>blood</keyword>
+		<keyword>bloody face</keyword>
+		<keyword>dead body</keyword>
+		<keyword>escape from jail</keyword>
+		<keyword>following a car</keyword>
+		<keyword>following someone's car</keyword>
+		<keyword>breaking a car window</keyword>
+		<keyword>breaking a window</keyword>
+		<keyword>broken window</keyword>
+		<keyword>car crash</keyword>
+		<keyword>hit by a car</keyword>
+		<keyword>hit by a truck</keyword>
+		<keyword>police car crash</keyword>
+		<keyword>time travel</keyword>
+		<keyword>backward time travel</keyword>
+		<keyword>mirror does not reflect reality</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>painting</keyword>
+		<keyword>overhearing a conversation</keyword>
+		<keyword>lost glasses</keyword>
+		<keyword>hiding under a table</keyword>
+		<keyword>stepping on someone's glasses</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>seeing dead people</keyword>
+		<keyword>breaking someone's glasses</keyword>
+		<keyword>carrying someone</keyword>
+		<keyword>killing spree</keyword>
+		<keyword>animated credits</keyword>
+		<keyword>ghost story</keyword>
+		<keyword>female ghost</keyword>
+		<keyword>trauma</keyword>
+		<keyword>traumatized villain</keyword>
+		<keyword>interracial romance</keyword>
+		<keyword>survival</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>photograph</keyword>
+		<keyword>aspiring writer</keyword>
+		<keyword>animated end credits</keyword>
+		<keyword>moving</keyword>
+		<keyword>moving out</keyword>
+		<keyword>letter</keyword>
+		<keyword>reading a letter</keyword>
+		<keyword>facial scar</keyword>
+		<keyword>scarred face</keyword>
+		<keyword>killed one by one</keyword>
+		<keyword>listening to a radio</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>man reads a book</keyword>
+		<keyword>man wears a leather jacket</keyword>
+		<keyword>woman reads a book</keyword>
+		<keyword>woman wears a veil</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>mirror</keyword>
+		<keyword>girl wears eyeglasses</keyword>
+		<keyword>folklore</keyword>
+		<keyword>time traveler</keyword>
+		<keyword>female time traveler</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>spider man costume</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>teenage girl as protagonist</keyword>
+		<keyword>camera shot from inside a refrigerator</keyword>
+		<keyword>name calling</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>timeframe 1960s</keyword>
+		<keyword>town with a dark secret</keyword>
+		<keyword>holiday horror</keyword>
+		<keyword>animated scene</keyword>
+		<keyword>trick or treating</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>patronizing</keyword>
+		<keyword>crying</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>masturbation reference</keyword>
+		<keyword>domineering mother</keyword>
+		<keyword>absent mother</keyword>
+		<keyword>traumatized woman</keyword>
+	</keywords>
+	<directors>
+		<director> André Øvredal</director>
+	</directors>
+	<composers>
+		<composer> Marco Beltrami</composer>
+		<composer> Anna Drubich</composer>
+	</composers>
+	<producers>
+		<producer> Jason F. Brown</producer>
+		<producer> Zhitang Chen</producer>
+		<producer> Jacky Cheung</producer>
+		<producer> J. Miles Dale</producer>
+		<producer> Sean Daniel</producer>
+		<producer> Guillermo del Toro</producer>
+		<producer> Alex Ginno</producer>
+		<producer> Roberto Grande</producer>
+		<producer> Elizabeth Grave</producer>
+		<producer> Joshua Long</producer>
+		<producer> Peter Luo</producer>
+	</producers>
+	<writers>
+		<writer> Dan Hageman</writer>
+		<writer> Kevin Hageman</writer>
+		<writer> Guillermo del Toro</writer>
+		<writer> Patrick Melton</writer>
+		<writer> Marcus Dunstan</writer>
+		<writer> Alvin Schwartz</writer>
+	</writers>
+	<editors>
+		<editor> Patrick Larsgaard</editor>
+	</editors>
+</doc>

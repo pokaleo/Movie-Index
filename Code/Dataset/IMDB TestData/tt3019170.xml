@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc id="tt3019170">
+	<docid>tt3019170</docid>
+	<title>Mountain Monsters</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNGNmMzhiY2EtZTA0NS00NjlhLWFhNmQtNzc1NzgwMzQ3MDA5XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">43</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>Mountain Monsters is a show with professional hillbilly hunters that search for mysterious creatures that people have claimed to have seen in West Virginia.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jacob Lowe</actor>
+			<role>Buck</role>
+		</credit>
+		<credit>
+			<actor>Huckleberry Joe Lott</actor>
+			<role>Huckleberry</role>
+		</credit>
+		<credit>
+			<actor>Willy McQuillian</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Jeff Headlee</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>William Neff</actor>
+			<role>Wild Bill</role>
+		</credit>
+		<credit>
+			<actor>Trapper John Tice</actor>
+			<role>Trapper</role>
+		</credit>
+		<credit>
+			<actor>Chad Nolin</actor>
+			<role>Nolan the cattle rancher</role>
+		</credit>
+		<credit>
+			<actor>Colt Straub</actor>
+			<role>Self - Executive Producer</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">June 22 2013</releasedate>
+		<releasedate country="United States">June 22 2013</releasedate>
+		<releasedate country="Germany">October 3 2014</releasedate>
+		<releasedate country="Poland">March 20 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>psychotronic series</keyword>
+		<keyword>supernatural reality tv</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors/>
+	<composers>
+		<composer> David Vanacore</composer>
+		<composer> Robert Allen Elliott</composer>
+	</composers>
+	<producers>
+		<producer> Ken Charles</producer>
+		<producer> Royal Malloy</producer>
+		<producer> Colt Straub</producer>
+		<producer> Duke Straub</producer>
+		<producer> Russell Geyser</producer>
+		<producer> Jay Bluemke</producer>
+		<producer> Carlos Castellanos</producer>
+		<producer> Sierra Cowan</producer>
+		<producer> Aaron Rattner</producer>
+		<producer> Scott Pearlman</producer>
+		<producer> Derrick Brown</producer>
+		<producer> Cristian Mendez</producer>
+		<producer> Gary Reid</producer>
+		<producer> Russell Toub</producer>
+		<producer> Fay Yu</producer>
+		<producer> Jeffrey Collins</producer>
+		<producer> Dave Wadsworth</producer>
+		<producer> Brian Phenix</producer>
+	</producers>
+	<writers>
+		<writer> Ken Charles</writer>
+		<writer> Royal Malloy</writer>
+		<writer> Colt Straub</writer>
+		<writer> Duke Straub</writer>
+		<writer> Russell Geyser</writer>
+	</writers>
+	<editors>
+		<editor> Jon Alloway</editor>
+		<editor> Jack Farrell</editor>
+		<editor> Alpesh Patel</editor>
+		<editor> Phillip Lefesi</editor>
+		<editor> Richard Parker</editor>
+		<editor> Gary Reid</editor>
+		<editor> Greg Robbins</editor>
+		<editor> Andy Wardlaw</editor>
+		<editor> Paul Marengo</editor>
+	</editors>
+</doc>

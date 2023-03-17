@@ -1,0 +1,514 @@
+<?xml version="1.0" ?>
+<doc id="tt5259822">
+	<docid>tt5259822</docid>
+	<title>Tesla</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzg0MjQ0ODUtYTgyNC00Y2Y5LWE5NDctODY3ZTFkYmZkNGFiXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>I 2020</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Biography</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A freewheeling take on visionary inventor Nikola Tesla, his interactions with Thomas Edison and J.P. Morgan's daughter Anne, and his breakthroughs in transmitting electrical power and light.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ethan Hawke</actor>
+			<role>Nikola Tesla</role>
+		</credit>
+		<credit>
+			<actor>Eve Hewson</actor>
+			<role>Anne Morgan</role>
+		</credit>
+		<credit>
+			<actor>Eli A. Smith</actor>
+			<role>Roller Skating Fiddler</role>
+		</credit>
+		<credit>
+			<actor>Josh Hamilton</actor>
+			<role>Robert Underwood Johnson</role>
+		</credit>
+		<credit>
+			<actor>Lucy Walters</actor>
+			<role>Katherine Johnson</role>
+		</credit>
+		<credit>
+			<actor>Luna Jokic</actor>
+			<role>Macak</role>
+		</credit>
+		<credit>
+			<actor>Kyle MacLachlan</actor>
+			<role>Thomas Edison</role>
+		</credit>
+		<credit>
+			<actor>Dan Bittner</actor>
+			<role>Fred Ott</role>
+		</credit>
+		<credit>
+			<actor>David Kallaway</actor>
+			<role>John Kruesi</role>
+		</credit>
+		<credit>
+			<actor>Karl Geary</actor>
+			<role>Francis Upton</role>
+		</credit>
+		<credit>
+			<actor>Ebon Moss-Bachrach</actor>
+			<role>Anital Szigeti</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Wuehrmann</actor>
+			<role>Ed the Organist</role>
+		</credit>
+		<credit>
+			<actor>Haley Elise Pehrson</actor>
+			<role>Tesla's Mother</role>
+		</credit>
+		<credit>
+			<actor>Tony Hutaj</actor>
+			<role>Bill Edison</role>
+		</credit>
+		<credit>
+			<actor>Corban Elwick-Schermitz</actor>
+			<role>Tom Edison Jr.</role>
+		</credit>
+		<credit>
+			<actor>Emory Gleeson</actor>
+			<role>Dot Edison</role>
+		</credit>
+		<credit>
+			<actor>Hannah Gross</actor>
+			<role>Mina Edison</role>
+		</credit>
+		<credit>
+			<actor>Michael Mastro</actor>
+			<role>Charles Peck</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 27 2020</releasedate>
+		<releasedate country="Spain">August 1 2020</releasedate>
+		<releasedate country="Germany">August 20 2020</releasedate>
+		<releasedate country="Estonia">August 21 2020</releasedate>
+		<releasedate country="France">August 21 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>inventor</keyword>
+		<keyword>cat</keyword>
+		<keyword>friendship</keyword>
+		<keyword>rivalry</keyword>
+		<keyword>poverty</keyword>
+		<keyword>trust</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>hotel</keyword>
+		<keyword>singing</keyword>
+		<keyword>nikola tesla character</keyword>
+		<keyword>thomas alva edison character</keyword>
+		<keyword>electricity</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>year 1884</keyword>
+		<keyword>new york city</keyword>
+		<keyword>boy</keyword>
+		<keyword>roller skating</keyword>
+		<keyword>black cat</keyword>
+		<keyword>lightning</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>flashback</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>year 1875</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>lantern</keyword>
+		<keyword>5 year old</keyword>
+		<keyword>5 year old boy</keyword>
+		<keyword>george westinghouse character</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>brother sister relationship</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>friend</keyword>
+		<keyword>swimming</keyword>
+		<keyword>candle</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>female narrator</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>7 year old</keyword>
+		<keyword>7 year old boy</keyword>
+		<keyword>12 year old</keyword>
+		<keyword>12 year old boy</keyword>
+		<keyword>death of brother</keyword>
+		<keyword>brother kisses his dead brother on the lips</keyword>
+		<keyword>apparition</keyword>
+		<keyword>writing a letter</keyword>
+		<keyword>sleeplessness</keyword>
+		<keyword>money</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>proverb</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>ice cream cone</keyword>
+		<keyword>alternating current</keyword>
+		<keyword>smashing an ice cream cone on someone's face</keyword>
+		<keyword>smashing an ice cream cone on someone's chest</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>computer</keyword>
+		<keyword>photograph</keyword>
+		<keyword>looking at a photograph on a comoputer</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>year 1856</keyword>
+		<keyword>drawing</keyword>
+		<keyword>likas milian croartia</keyword>
+		<keyword>village</keyword>
+		<keyword>rural setting</keyword>
+		<keyword>serbian american</keyword>
+		<keyword>electrical engineer</keyword>
+		<keyword>mechanical engineer</keyword>
+		<keyword>illiterate mother</keyword>
+		<keyword>precocious boy</keyword>
+		<keyword>mathematics</keyword>
+		<keyword>engineering</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>motor</keyword>
+		<keyword>talking to the camera</keyword>
+		<keyword>looking at the camera</keyword>
+		<keyword>15 year old</keyword>
+		<keyword>16 year old</keyword>
+		<keyword>25 year old</keyword>
+		<keyword>25 year old woman</keyword>
+		<keyword>girl</keyword>
+		<keyword>widower</keyword>
+		<keyword>quitting a job</keyword>
+		<keyword>nikola tesla electric light company</keyword>
+		<keyword>ditch digging</keyword>
+		<keyword>electrical generator</keyword>
+		<keyword>alfred s. brown character</keyword>
+		<keyword>charles f. peck character</keyword>
+		<keyword>dynamo the electrical generator</keyword>
+		<keyword>magnet</keyword>
+		<keyword>electrician</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>year 1885</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>headphones</keyword>
+		<keyword>second wife</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>telling a joke</keyword>
+		<keyword>morse code</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>can of shoe polish</keyword>
+		<keyword>prototype</keyword>
+		<keyword>snowing</keyword>
+		<keyword>flask</keyword>
+		<keyword>church bells</keyword>
+		<keyword>professor</keyword>
+		<keyword>patent</keyword>
+		<keyword>u.s. patent office</keyword>
+		<keyword>business partner</keyword>
+		<keyword>assistant</keyword>
+		<keyword>uncle niece relationship</keyword>
+		<keyword>sandwich</keyword>
+		<keyword>death of cousin</keyword>
+		<keyword>snow</keyword>
+		<keyword>man embraces a man from behind</keyword>
+		<keyword>fortune</keyword>
+		<keyword>reference to the american civil war</keyword>
+		<keyword>21 year old</keyword>
+		<keyword>21 year old man</keyword>
+		<keyword>businessman</keyword>
+		<keyword>train</keyword>
+		<keyword>pittsburgh pennsylvania</keyword>
+		<keyword>year 1888</keyword>
+		<keyword>bar</keyword>
+		<keyword>dog</keyword>
+		<keyword>killing a dog</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>electric shock</keyword>
+		<keyword>william kemmler character</keyword>
+		<keyword>murder</keyword>
+		<keyword>lemonade</keyword>
+		<keyword>dog in shackles</keyword>
+		<keyword>attorney general</keyword>
+		<keyword>death</keyword>
+		<keyword>capital punishment</keyword>
+		<keyword>law</keyword>
+		<keyword>direct current</keyword>
+		<keyword>mummification</keyword>
+		<keyword>applause</keyword>
+		<keyword>audience</keyword>
+		<keyword>old woman</keyword>
+		<keyword>reference to abraham lincoln</keyword>
+		<keyword>memory</keyword>
+		<keyword>17 year old</keyword>
+		<keyword>economics</keyword>
+		<keyword>altruism</keyword>
+		<keyword>man kisses a woman's hand</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>wealth</keyword>
+		<keyword>painting</keyword>
+		<keyword>year 1861</keyword>
+		<keyword>24 year old</keyword>
+		<keyword>24 year old man</keyword>
+		<keyword>banking business</keyword>
+		<keyword>finance</keyword>
+		<keyword>madison avenue manhattan new york city</keyword>
+		<keyword>induction motor</keyword>
+		<keyword>edison general electric company</keyword>
+		<keyword>funding</keyword>
+		<keyword>compass</keyword>
+		<keyword>reference to sir william thompson</keyword>
+		<keyword>reference to lord calvin</keyword>
+		<keyword>journal</keyword>
+		<keyword>crying man</keyword>
+		<keyword>luck</keyword>
+		<keyword>bowing</keyword>
+		<keyword>electric chair</keyword>
+		<keyword>blindfold</keyword>
+		<keyword>blindfolded man</keyword>
+		<keyword>newspaper</keyword>
+		<keyword>man reads a newspaper</keyword>
+		<keyword>woman hides behind a sofa</keyword>
+		<keyword>george herbert quotation</keyword>
+		<keyword>poem</keyword>
+		<keyword>reading a newspaper aloud</keyword>
+		<keyword>murder of wife</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>newspaper article</keyword>
+		<keyword>fiddler</keyword>
+		<keyword>fiddler on roller skates</keyword>
+		<keyword>year 1892</keyword>
+		<keyword>chicago illinois</keyword>
+		<keyword>easter sunday</keyword>
+		<keyword>machine</keyword>
+		<keyword>falling to the ground</keyword>
+		<keyword>pearls</keyword>
+		<keyword>year 1893</keyword>
+		<keyword>1893 chicago world's fair</keyword>
+		<keyword>maid</keyword>
+		<keyword>skin disease</keyword>
+		<keyword>disfigured nose</keyword>
+		<keyword>hungarian</keyword>
+		<keyword>pie</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>lamp</keyword>
+		<keyword>u.s. citizen</keyword>
+		<keyword>pr public relations</keyword>
+		<keyword>cigar smoking</keyword>
+		<keyword>fake scene</keyword>
+		<keyword>fake apology</keyword>
+		<keyword>fake reconciliation</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>incongruity</keyword>
+		<keyword>dislike of shaking hands</keyword>
+		<keyword>westinghouse electric company</keyword>
+		<keyword>business merger</keyword>
+		<keyword>contract</keyword>
+		<keyword>electronic polyphase system</keyword>
+		<keyword>banker</keyword>
+		<keyword>tearing up a contract</keyword>
+		<keyword>man wears gloves</keyword>
+		<keyword>vacuum cleaner</keyword>
+		<keyword>actress</keyword>
+		<keyword>year 1881</keyword>
+		<keyword>menlo park new jersey</keyword>
+		<keyword>train station</keyword>
+		<keyword>jean racine quotation</keyword>
+		<keyword>recording</keyword>
+		<keyword>recording machine</keyword>
+		<keyword>mirror</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>french</keyword>
+		<keyword>foreign language spoken</keyword>
+		<keyword>flash camera</keyword>
+		<keyword>camera</keyword>
+		<keyword>hand kissing</keyword>
+		<keyword>workshop</keyword>
+		<keyword>champagne</keyword>
+		<keyword>hydroelectric power plant</keyword>
+		<keyword>turbine engine</keyword>
+		<keyword>niagara falls</keyword>
+		<keyword>transformer</keyword>
+		<keyword>wireless energy</keyword>
+		<keyword>electromagnetic pulse</keyword>
+		<keyword>high frequency wave</keyword>
+		<keyword>woman kisses a cat</keyword>
+		<keyword>financial investor</keyword>
+		<keyword>chastity</keyword>
+		<keyword>marriage</keyword>
+		<keyword>paradox</keyword>
+		<keyword>colorado</keyword>
+		<keyword>painted backdrop</keyword>
+		<keyword>fear</keyword>
+		<keyword>horse</keyword>
+		<keyword>love</keyword>
+		<keyword>idealism</keyword>
+		<keyword>capitalism</keyword>
+		<keyword>true or false question</keyword>
+		<keyword>genius</keyword>
+		<keyword>blessing</keyword>
+		<keyword>curse</keyword>
+		<keyword>year 1899</keyword>
+		<keyword>colorado springs colorado</keyword>
+		<keyword>keep out sign</keyword>
+		<keyword>experiment</keyword>
+		<keyword>thunder</keyword>
+		<keyword>magnifying transmitter</keyword>
+		<keyword>synchronizing electricity</keyword>
+		<keyword>tesla coil</keyword>
+		<keyword>bell</keyword>
+		<keyword>secrecy</keyword>
+		<keyword>wiping dishes with a cloth napkin</keyword>
+		<keyword>wine</keyword>
+		<keyword>waiter</keyword>
+		<keyword>storm</keyword>
+		<keyword>pocket watch</keyword>
+		<keyword>genersator on fire</keyword>
+		<keyword>electron</keyword>
+		<keyword>generator</keyword>
+		<keyword>theater</keyword>
+		<keyword>dying</keyword>
+		<keyword>immortality</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>man puts water on his face</keyword>
+		<keyword>dancer</keyword>
+		<keyword>oscillator</keyword>
+		<keyword>receiving terminal</keyword>
+		<keyword>transmitting messages elecronically</keyword>
+		<keyword>bank check</keyword>
+		<keyword>iron ore extraction</keyword>
+		<keyword>dancing</keyword>
+		<keyword>typewriter</keyword>
+		<keyword>year 1901</keyword>
+		<keyword>wardenclyffe long island new york</keyword>
+		<keyword>date on screen</keyword>
+		<keyword>location in text on screen</keyword>
+		<keyword>reference to guglielmo marconi</keyword>
+		<keyword>tower</keyword>
+		<keyword>tea</keyword>
+		<keyword>debt</keyword>
+		<keyword>communications system</keyword>
+		<keyword>reference to johannes vermeer</keyword>
+		<keyword>patent monopoly</keyword>
+		<keyword>tennis</keyword>
+		<keyword>tennis court</keyword>
+		<keyword>throwing a tennis racket</keyword>
+		<keyword>man wears a bowler hat</keyword>
+		<keyword>photographing thought</keyword>
+		<keyword>brain impulse</keyword>
+		<keyword>destiny</keyword>
+		<keyword>microscopic particle</keyword>
+		<keyword>speed of light</keyword>
+		<keyword>chain link fence</keyword>
+		<keyword>microphone</keyword>
+		<keyword>singer</keyword>
+		<keyword>song</keyword>
+		<keyword>striking a match</keyword>
+		<keyword>montage</keyword>
+		<keyword>stringing beads</keyword>
+		<keyword>elisabeth marbury character</keyword>
+		<keyword>year 1943</keyword>
+		<keyword>87 year old</keyword>
+		<keyword>87 year old man</keyword>
+		<keyword>destitution</keyword>
+		<keyword>promise</keyword>
+		<keyword>dream</keyword>
+		<keyword>chair</keyword>
+		<keyword>written by director</keyword>
+		<keyword>produced by director</keyword>
+		<keyword>title edited by female</keyword>
+		<keyword>sarah bernhardt quotation</keyword>
+		<keyword>anachronism</keyword>
+		<keyword>j.p. morgan character</keyword>
+		<keyword>writer director producer</keyword>
+		<keyword>sarah bernhardt character</keyword>
+		<keyword>1893 columbian exposition</keyword>
+		<keyword>light bulb</keyword>
+		<keyword>future</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>flower</keyword>
+		<keyword>15 year old girl</keyword>
+		<keyword>16 year old boy</keyword>
+		<keyword>16 year old girl</keyword>
+		<keyword>17 year old boy</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Almereyda</director>
+	</directors>
+	<composers>
+		<composer> John Paesano</composer>
+	</composers>
+	<producers>
+		<producer> Michael Almereyda</producer>
+		<producer> Mayra Faour Auad</producer>
+		<producer> Lee Broda</producer>
+		<producer> Christa Campbell</producer>
+		<producer> Renée Frigo</producer>
+		<producer> Margie Geddes</producer>
+		<producer> Javier Gonzalez</producer>
+		<producer> Jeffrey Greenstein</producer>
+		<producer> Lati Grobman</producer>
+		<producer> Jeff Gum</producer>
+		<producer> Avi Lerner</producer>
+		<producer> Elijah Long</producer>
+		<producer> Per Melita</producer>
+		<producer> Mario Peixoto</producer>
+		<producer> Lonnie Ramati</producer>
+		<producer> Jeff Rice</producer>
+		<producer> Isen Robbins</producer>
+		<producer> Trevor Short</producer>
+		<producer> Uri Singer</producer>
+		<producer> Robert Van Norden</producer>
+		<producer> Doron Weber</producer>
+		<producer> Jonathan Yunger</producer>
+	</producers>
+	<writers>
+		<writer> Michael Almereyda</writer>
+	</writers>
+	<editors>
+		<editor> Kathryn J. Schubert</editor>
+	</editors>
+</doc>

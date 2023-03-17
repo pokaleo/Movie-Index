@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<doc id="tt13070602">
+	<docid>tt13070602</docid>
+	<title>A Castle for Christmas</title>
+	<image>https://m.media-amazon.com/images/M/MV5BN2MwOTJhMTMtZGI3My00ZjgzLTk1MjQtNDYyYmQ2NTg5ZDYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">98</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle - and faces off with the grumpy duke who owns it.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Brooke Shields</actor>
+			<role>Sophie</role>
+		</credit>
+		<credit>
+			<actor>Cary Elwes</actor>
+			<role>Myles</role>
+		</credit>
+		<credit>
+			<actor>Lee Ross</actor>
+			<role>Thomas</role>
+		</credit>
+		<credit>
+			<actor>Andi Osho</actor>
+			<role>Maisie</role>
+		</credit>
+		<credit>
+			<actor>Tina Gray</actor>
+			<role>Helen</role>
+		</credit>
+		<credit>
+			<actor>Eilidh Loan</actor>
+			<role>Rhona</role>
+		</credit>
+		<credit>
+			<actor>Stephen Oswald</actor>
+			<role>Angus</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Grasse</actor>
+			<role>Lexi</role>
+		</credit>
+		<credit>
+			<actor>Desiree Burch</actor>
+			<role>Claire</role>
+		</credit>
+		<credit>
+			<actor>Antony Strachan</actor>
+			<role>Eamon</role>
+		</credit>
+		<credit>
+			<actor>Drew Barrymore</actor>
+			<role>Drew Barrymore</role>
+		</credit>
+		<credit>
+			<actor>John Stahl</actor>
+			<role>Solicitor</role>
+		</credit>
+		<credit>
+			<actor>Tim Barrow</actor>
+			<role>Barkeep</role>
+		</credit>
+		<credit>
+			<actor>Mark Fleischmann</actor>
+			<role>Frank De Luca</role>
+		</credit>
+		<credit>
+			<actor>Suanne Braun</actor>
+			<role>Mrs. Donatelli</role>
+		</credit>
+		<credit>
+			<actor>Barley</actor>
+			<role>Hamish</role>
+		</credit>
+		<credit>
+			<actor>Martin Farrell</actor>
+			<role>Angry mob</role>
+		</credit>
+		<credit>
+			<actor>Joe McKay</actor>
+			<role>Rhona's Boyfriend</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">2021</releasedate>
+		<releasedate country="United Arab Emirates">November 26 2021</releasedate>
+		<releasedate country="Argentina">November 26 2021</releasedate>
+		<releasedate country="Australia">November 26 2021</releasedate>
+		<releasedate country="Brazil">November 26 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">TV-G</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Israel">7+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">7+</certificate>
+		<certificate country="Mexico">TV-G</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">0+</certificate>
+		<certificate country="Spain">0+</certificate>
+		<certificate country="Sweden">All</certificate>
+		<certificate country="Sweden">All</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United Arab Emirates">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>christmas</keyword>
+		<keyword>holiday</keyword>
+		<keyword>castle</keyword>
+		<keyword>gift</keyword>
+		<keyword>travel</keyword>
+		<keyword>work</keyword>
+		<keyword>owner</keyword>
+		<keyword>scotland</keyword>
+		<keyword>love</keyword>
+		<keyword>holiday romance</keyword>
+	</keywords>
+	<directors>
+		<director> Mary Lambert</director>
+	</directors>
+	<composers>
+		<composer> Jeff Rona</composer>
+	</composers>
+	<producers>
+		<producer> Steve Berman</producer>
+		<producer> Chris Bongirne</producer>
+		<producer> Ally Carter</producer>
+		<producer> Neal H. Dobrofsky</producer>
+		<producer> Tippi Dobrofsky</producer>
+		<producer> Daniel Glantz</producer>
+		<producer> Eric Jarboe</producer>
+		<producer> Brad Krevoy</producer>
+		<producer> Jason Kurtz</producer>
+		<producer> Steven R. McGlothen</producer>
+		<producer> Chris Miller</producer>
+		<producer> Amanda Phillips</producer>
+		<producer> Jake Relic</producer>
+		<producer> Andrew Riach</producer>
+		<producer> Marianne Schaberg</producer>
+		<producer> Brooke Shields</producer>
+		<producer> Katrina Stagner</producer>
+	</producers>
+	<writers>
+		<writer> Ally Carter</writer>
+		<writer> Kim Beyer-Johnson</writer>
+	</writers>
+	<editors>
+		<editor> Suzy Elmiger</editor>
+	</editors>
+</doc>

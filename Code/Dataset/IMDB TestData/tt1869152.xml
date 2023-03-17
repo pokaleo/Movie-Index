@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<doc id="tt1869152">
+	<docid>tt1869152</docid>
+	<title>Titanic</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,1,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">190</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>The world's largest ship, the R.M.S. Titanic, meets with disaster when she strikes an iceberg on her maiden voyage.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Peter McDonald</actor>
+			<role>Jim Maloney</role>
+		</credit>
+		<credit>
+			<actor>Steven Waddington</actor>
+			<role>Second Officer Lightoller</role>
+		</credit>
+		<credit>
+			<actor>Glen Blackhall</actor>
+			<role>Paolo Sandrini</role>
+		</credit>
+		<credit>
+			<actor>Ruth Bradley</actor>
+			<role>Mary Maloney</role>
+		</credit>
+		<credit>
+			<actor>Georgia McCutcheon</actor>
+			<role>Theresa Maloney</role>
+		</credit>
+		<credit>
+			<actor>Antonio Magro</actor>
+			<role>Mario Sandrini</role>
+		</credit>
+		<credit>
+			<actor>Perdita Weeks</actor>
+			<role>Lady Georgiana Grex</role>
+		</credit>
+		<credit>
+			<actor>Stephen Campbell Moore</actor>
+			<role>Thomas Andrews</role>
+		</credit>
+		<credit>
+			<actor>Jenna Coleman</actor>
+			<role>Annie Desmond</role>
+		</credit>
+		<credit>
+			<actor>Linus Roache</actor>
+			<role>Hugh, Earl of Manton</role>
+		</credit>
+		<credit>
+			<actor>Geraldine Somerville</actor>
+			<role>Louisa, Countess of Manton</role>
+		</credit>
+		<credit>
+			<actor>Miles Richardson</actor>
+			<role>John Jacob Astor</role>
+		</credit>
+		<credit>
+			<actor>Noah Reid</actor>
+			<role>Harry Widener</role>
+		</credit>
+		<credit>
+			<actor>Diana Kent</actor>
+			<role>Eleanor Widener</role>
+		</credit>
+		<credit>
+			<actor>Angéla Eke</actor>
+			<role>Madeleine Astor</role>
+		</credit>
+		<credit>
+			<actor>Péter Kõszegi</actor>
+			<role>George Widener</role>
+		</credit>
+		<credit>
+			<actor>Toby Jones</actor>
+			<role>John Batley</role>
+		</credit>
+		<credit>
+			<actor>Maria Doyle Kennedy</actor>
+			<role>Muriel Batley</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">2012</releasedate>
+		<releasedate country="Canada">2012</releasedate>
+		<releasedate country="United Kingdom">2012</releasedate>
+		<releasedate country="Ireland">2012</releasedate>
+		<releasedate country="United States">2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="Greece">K-12</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>passenger liner</keyword>
+		<keyword>transatlantic</keyword>
+		<keyword>north atlantic</keyword>
+		<keyword>wetness</keyword>
+		<keyword>cold water</keyword>
+		<keyword>icy</keyword>
+		<keyword>wet cloth</keyword>
+		<keyword>mass death</keyword>
+		<keyword>disaster at sea</keyword>
+		<keyword>british seaman</keyword>
+		<keyword>sealift</keyword>
+		<keyword>edwardian era</keyword>
+		<keyword>nautical</keyword>
+		<keyword>british history</keyword>
+		<keyword>british historical setting</keyword>
+		<keyword>20th century</keyword>
+		<keyword>ship evacuation</keyword>
+		<keyword>life jacket</keyword>
+		<keyword>ship</keyword>
+		<keyword>titanic</keyword>
+		<keyword>disaster</keyword>
+		<keyword>lifeboat</keyword>
+		<keyword>passenger</keyword>
+		<keyword>iceberg</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>tragedy</keyword>
+		<keyword>one word title</keyword>
+		<keyword>historical event</keyword>
+		<keyword>high society</keyword>
+		<keyword>year 1912</keyword>
+		<keyword>1910s</keyword>
+		<keyword>sea captain</keyword>
+		<keyword>england</keyword>
+		<keyword>titanic survivor</keyword>
+		<keyword>shipwreck</keyword>
+		<keyword>epic</keyword>
+		<keyword>first class</keyword>
+		<keyword>ship captain</keyword>
+		<keyword>sinking ship</keyword>
+		<keyword>ocean liner</keyword>
+		<keyword>title spoken by character</keyword>
+	</keywords>
+	<directors>
+		<director> Jon Jones</director>
+	</directors>
+	<composers>
+		<composer> Jonathan Goldsmith</composer>
+	</composers>
+	<producers>
+		<producer> Klaus Bassiner</producer>
+		<producer> Sue Calverley</producer>
+		<producer> David Collins</producer>
+		<producer> Howard Ellis</producer>
+		<producer> Tara Ellis</producer>
+		<producer> Stephen Finney</producer>
+		<producer> Andrea Glinski</producer>
+		<producer> Adam Goodman</producer>
+		<producer> Jennifer Kawaja</producer>
+		<producer> Alex Laustroer</producer>
+		<producer> Julia Sereny</producer>
+		<producer> Nigel Stafford-Clark</producer>
+		<producer> Chris Thompson</producer>
+		<producer> Simon Vaughan</producer>
+		<producer> Kate Bartlett</producer>
+	</producers>
+	<writers>
+		<writer> Julian Fellowes</writer>
+	</writers>
+	<editors>
+		<editor> Susan Shipton</editor>
+	</editors>
+</doc>

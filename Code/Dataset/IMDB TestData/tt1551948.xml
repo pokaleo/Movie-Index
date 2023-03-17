@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<doc id="tt1551948">
+	<docid>tt1551948</docid>
+	<title>Dance Academy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTNkY2M2YmQtNzA1OS00OTM4LTkzNDAtOThhNDc4NzU1ZmQ2XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">24</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Family</genre>
+		<genre>Music</genre>
+	</genres>
+	<plot>Fifteen-year-old Tara Webster's dream of dancing comes true when she gets into a top dance academy. She soon realizes dancing is only half the battle.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Xenia Goodwin</actor>
+			<role>Tara Webster</role>
+		</credit>
+		<credit>
+			<actor>Alicia Banit</actor>
+			<role>Kat Karamakov</role>
+		</credit>
+		<credit>
+			<actor>Dena Kaplan</actor>
+			<role>Abigail Armstrong</role>
+		</credit>
+		<credit>
+			<actor>Jordan Rodrigues</actor>
+			<role>Christian Reed</role>
+		</credit>
+		<credit>
+			<actor>Tara Morice</actor>
+			<role>Miss Raine</role>
+		</credit>
+		<credit>
+			<actor>Thom Green</actor>
+			<role>Sammy Lieberman</role>
+		</credit>
+		<credit>
+			<actor>Tim Pocock</actor>
+			<role>Ethan Karamakov</role>
+		</credit>
+		<credit>
+			<actor>Isabel Durant</actor>
+			<role>Grace Whitney</role>
+		</credit>
+		<credit>
+			<actor>Thomas Lacey</actor>
+			<role>Ben Tickle</role>
+		</credit>
+		<credit>
+			<actor>Kip Gamblin</actor>
+			<role>Zach</role>
+		</credit>
+		<credit>
+			<actor>Keiynan Lonsdale</actor>
+			<role>Ollie</role>
+		</credit>
+		<credit>
+			<actor>Matt Cranleigh</actor>
+			<role>Sean</role>
+		</credit>
+		<credit>
+			<actor>Brooke Harman</actor>
+			<role>Saskia</role>
+		</credit>
+		<credit>
+			<actor>Josef Brown</actor>
+			<role>Patrick</role>
+		</credit>
+		<credit>
+			<actor>Robert Alexander</actor>
+			<role>Mr Kennedy</role>
+		</credit>
+		<credit>
+			<actor>Lauren Elton</actor>
+			<role>Lulu</role>
+		</credit>
+		<credit>
+			<actor>Anne Looby</actor>
+			<role>Dr Wicks</role>
+		</credit>
+		<credit>
+			<actor>Shayni Notelovitz</actor>
+			<role>Bonnie</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">2010</releasedate>
+		<releasedate country="Australia">May 31 2010</releasedate>
+		<releasedate country="Germany">June 27 2010</releasedate>
+		<releasedate country="Germany">September 26 2010</releasedate>
+		<releasedate country="Netherlands">June 17 2011</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">G</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Mexico">TV-PG</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dance</keyword>
+		<keyword>friendship</keyword>
+		<keyword>teacher</keyword>
+		<keyword>school</keyword>
+		<keyword>ambition</keyword>
+	</keywords>
+	<directors>
+		<director> Ian Watson</director>
+		<director> Ian Gilmour</director>
+		<director> Daniel Nettheim</director>
+		<director> Cherie Nowlan</director>
+		<director> Jeffrey Walker</director>
+		<director> Catriona McKenzie</director>
+		<director> Lynn-Maree Danzey</director>
+		<director> Michael James Rowland</director>
+		<director> Ben Chessell</director>
+	</directors>
+	<composers>
+		<composer> Sebastian Oswald</composer>
+		<composer> Bryony Marks</composer>
+		<composer> Leo Agthe</composer>
+	</composers>
+	<producers>
+		<producer> Stewart Dean</producer>
+		<producer> Bernadette O'Mahony</producer>
+		<producer> Joanna Werner</producer>
+		<producer> Renata Ogayar</producer>
+		<producer> Ally Henville</producer>
+		<producer> Jessica Leslie</producer>
+	</producers>
+	<writers>
+		<writer> Samantha Strauss</writer>
+		<writer> Samantha Strauss</writer>
+		<writer> Samantha Strauss</writer>
+		<writer> Samantha Strauss</writer>
+		<writer> Joanna Werner</writer>
+		<writer> Liz Doran</writer>
+		<writer> Greg Waters</writer>
+		<writer> David Hannam</writer>
+		<writer> Kirsty Fisher</writer>
+		<writer> Josh Mapleston</writer>
+		<writer> Courtney Wise</writer>
+		<writer> Courtney Wise</writer>
+		<writer> Sarah Lambert</writer>
+		<writer> Alicia Walsh</writer>
+		<writer> Sam Carroll</writer>
+		<writer> Melina Marchetta</writer>
+		<writer> Emily Ballou</writer>
+		<writer> Keith Thompson</writer>
+		<writer> Ellie Beaumont</writer>
+		<writer> Max Dann</writer>
+		<writer> Matt Ford</writer>
+		<writer> Michael Miller</writer>
+		<writer> David Ogilvy</writer>
+		<writer> Deborah Parsons</writer>
+		<writer> Shanti Gudgeon</writer>
+		<writer> Roger Monk</writer>
+		<writer> Holly Phillips</writer>
+	</writers>
+	<editors>
+		<editor> Mark Perry</editor>
+		<editor> Geoff Lamb</editor>
+		<editor> Katrina Barker</editor>
+		<editor> James Manché</editor>
+		<editor> Simon Martin</editor>
+		<editor> Henry Dangar</editor>
+		<editor> Rodrigo Balart</editor>
+	</editors>
+</doc>

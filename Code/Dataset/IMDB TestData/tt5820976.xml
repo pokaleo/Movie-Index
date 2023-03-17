@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt5820976">
+	<docid>tt5820976</docid>
+	<title>El marginal</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTcxMjZiZWUtZGI2Ny00NTMzLWFkNzMtOTk1Y2FlZjMzZTQ2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY281_CR20,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Pastor, an undercover cop sets on a mission to rescue the kidnapped daughter of a judge by infiltrating the prison where she's suspected to be at. Once inside he will have to learn to live by the prison's and the inmates' rules.</plot>
+	<countries>
+		<country>Argentina</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Nicolás Furtado</actor>
+			<role>Diosito</role>
+		</credit>
+		<credit>
+			<actor>Martina Gusmán</actor>
+			<role>Emma</role>
+		</credit>
+		<credit>
+			<actor>Claudio Rissi</actor>
+			<role>Borges</role>
+		</credit>
+		<credit>
+			<actor>Gerardo Romano</actor>
+			<role>Antín</role>
+		</credit>
+		<credit>
+			<actor>Juan Minujín</actor>
+			<role>Pastor</role>
+		</credit>
+		<credit>
+			<actor>Abel Ayala</actor>
+			<role>César</role>
+		</credit>
+		<credit>
+			<actor>Carlos Portaluppi</actor>
+			<role>Morcilla</role>
+		</credit>
+		<credit>
+			<actor>Brian Buley</actor>
+			<role>Pedro</role>
+		</credit>
+		<credit>
+			<actor>Daniel Pacheco</actor>
+			<role>James</role>
+		</credit>
+		<credit>
+			<actor>Maite Lanata</actor>
+			<role>Luna</role>
+		</credit>
+		<credit>
+			<actor>Mariano Argento</actor>
+			<role>Lunati</role>
+		</credit>
+		<credit>
+			<actor>Jorge Lorenzo</actor>
+			<role>Capece</role>
+		</credit>
+		<credit>
+			<actor>Emanuel García</actor>
+			<role>Arnol</role>
+		</credit>
+		<credit>
+			<actor>Sergio Sanchez</actor>
+			<role>Flaco Borges</role>
+		</credit>
+		<credit>
+			<actor>Guido Botto Fiora</actor>
+			<role>Fiorella</role>
+		</credit>
+		<credit>
+			<actor>Adriana Salonia</actor>
+			<role>Lucrecia</role>
+		</credit>
+		<credit>
+			<actor>Ignacio Sureda</actor>
+			<role>Pantera</role>
+		</credit>
+		<credit>
+			<actor>Aylin Prandi</actor>
+			<role>Sofía</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">April 18 2016</releasedate>
+		<releasedate country="Argentina">June 2 2016</releasedate>
+		<releasedate country="Brazil">June 2 2016</releasedate>
+		<releasedate country="South Korea">June 2 2016</releasedate>
+		<releasedate country="Poland">June 2 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>prison</keyword>
+		<keyword>criminal</keyword>
+		<keyword>prisoner</keyword>
+		<keyword>police</keyword>
+		<keyword>daughter</keyword>
+		<keyword>police officer</keyword>
+		<keyword>guard</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>suspense mystery</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>suspense</keyword>
+		<keyword>violence</keyword>
+	</keywords>
+	<directors>
+		<director> Alejandro Ciancio</director>
+		<director> Javier Pérez</director>
+		<director> Luis Ortega</director>
+		<director> Israel Adrián Caetano</director>
+		<director> Juan Minujín</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Leandro Culell</producer>
+		<producer> Gonzalo Armendares</producer>
+		<producer> Pablo Culell</producer>
+		<producer> Gustavo Errico</producer>
+		<producer> Pablo Flores</producer>
+		<producer> Sebastián Ortega</producer>
+		<producer> Thomas Kenny</producer>
+		<producer> Juan Minujín</producer>
+		<producer> Rodrigo Paz</producer>
+	</producers>
+	<writers>
+		<writer> Israel Adrián Caetano</writer>
+		<writer> Israel Adrián Caetano</writer>
+		<writer> Israel Adrián Caetano</writer>
+		<writer> Sebastián Ortega</writer>
+		<writer> Sebastián Ortega</writer>
+		<writer> Gabriel Macias</writer>
+		<writer> Andrés Pascaner</writer>
+		<writer> Nicolás Marina</writer>
+		<writer> Nazareno Obregón Nieva</writer>
+		<writer> Silvina Olschansky</writer>
+		<writer> Guillermo Salmerón</writer>
+		<writer> Natalia Torres</writer>
+		<writer> Natalia Torres</writer>
+	</writers>
+	<editors>
+		<editor> Mariana Quiroga</editor>
+		<editor> Guille Gatti</editor>
+		<editor> Pablo Bologna</editor>
+		<editor> Bruno Weinstein</editor>
+		<editor> Laura Palotini</editor>
+		<editor> Juan Pablo Docampo</editor>
+	</editors>
+</doc>

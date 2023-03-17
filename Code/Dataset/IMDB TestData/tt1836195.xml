@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<doc id="tt1836195">
+	<docid>tt1836195</docid>
+	<title>The River</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX190_CR0,6,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">44</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The crew of a research vessel are on a quest to find a missing TV explorer in the Amazon.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Bruce Greenwood</actor>
+			<role>Dr. Emmet Cole</role>
+		</credit>
+		<credit>
+			<actor>Joe Anderson</actor>
+			<role>Lincoln Cole</role>
+		</credit>
+		<credit>
+			<actor>Leslie Hope</actor>
+			<role>Tess Cole</role>
+		</credit>
+		<credit>
+			<actor>Eloise Mumford</actor>
+			<role>Lena Landry</role>
+		</credit>
+		<credit>
+			<actor>Paul Blackthorne</actor>
+			<role>Clark Quietly</role>
+		</credit>
+		<credit>
+			<actor>Thomas Kretschmann</actor>
+			<role>Captain Kurt Brynildson</role>
+		</credit>
+		<credit>
+			<actor>Daniel Zacapa</actor>
+			<role>Emilio Valenzuela</role>
+		</credit>
+		<credit>
+			<actor>Shaun Parkes</actor>
+			<role>Andreus Jude 'A.J.' Poulain</role>
+		</credit>
+		<credit>
+			<actor>Paulina Gaitan</actor>
+			<role>Jahel Valenzuela</role>
+		</credit>
+		<credit>
+			<actor>Scott Michael Foster</actor>
+			<role>Jonas Beckett</role>
+		</credit>
+		<credit>
+			<actor>Katie Featherston</actor>
+			<role>Rosetta 'Rabbit' Fischer</role>
+		</credit>
+		<credit>
+			<actor>Lee Tergesen</actor>
+			<role>Russ Landry</role>
+		</credit>
+		<credit>
+			<actor>Corben Turner</actor>
+			<role>Lincoln at 8 Years</role>
+		</credit>
+		<credit>
+			<actor>Jeff Galfer</actor>
+			<role>Sammy Kirsch</role>
+		</credit>
+		<credit>
+			<actor>Taylor Mras</actor>
+			<role>Young Lena</role>
+		</credit>
+		<credit>
+			<actor>Jose Pablo Cantillo</actor>
+			<role>Manny Centeno</role>
+		</credit>
+		<credit>
+			<actor>Michael Titterton</actor>
+			<role>Statesman</role>
+		</credit>
+		<credit>
+			<actor>Don McManus</actor>
+			<role>Patrick</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">February 7 2012</releasedate>
+		<releasedate country="Norway">February 7 2012</releasedate>
+		<releasedate country="Puerto Rico">February 7 2012</releasedate>
+		<releasedate country="United States">February 7 2012</releasedate>
+		<releasedate country="Netherlands">February 9 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>found footage</keyword>
+		<keyword>mockumentary</keyword>
+		<keyword>found footage horror</keyword>
+		<keyword>search</keyword>
+		<keyword>amazon river</keyword>
+	</keywords>
+	<directors>
+		<director> Jaume Collet-Serra</director>
+		<director> Rob Bailey</director>
+		<director> Kenneth Fink</director>
+		<director> Gary Fleder</director>
+		<director> Michael Katleman</director>
+		<director> Michelle MacLaren</director>
+		<director> Dean White</director>
+	</directors>
+	<composers>
+		<composer> Graeme Revell</composer>
+	</composers>
+	<producers>
+		<producer> Jason Blum</producer>
+		<producer> Ryan DeGard</producer>
+		<producer> Zack Estrin</producer>
+		<producer> Justin Falvey</producer>
+		<producer> Darryl Frank</producer>
+		<producer> Michael Green</producer>
+		<producer> Oren Peli</producer>
+		<producer> Steven Schneider</producer>
+		<producer> Robert D. Simon</producer>
+		<producer> Steven Spielberg</producer>
+		<producer> Wendy Battles</producer>
+		<producer> Aron Eli Coleite</producer>
+		<producer> Glen Morgan</producer>
+		<producer> Hilton Smith</producer>
+		<producer> Samantha Thomas</producer>
+		<producer> Jaume Collet-Serra</producer>
+	</producers>
+	<writers>
+		<writer> Oren Peli</writer>
+		<writer> Oren Peli</writer>
+		<writer> Michael R. Perry</writer>
+		<writer> Michael R. Perry</writer>
+		<writer> Michael R. Perry</writer>
+		<writer> Michael Green</writer>
+		<writer> Michael Green</writer>
+		<writer> Aron Eli Coleite</writer>
+		<writer> Aron Eli Coleite</writer>
+		<writer> Zack Estrin</writer>
+		<writer> Zack Estrin</writer>
+		<writer> Wendy Battles</writer>
+		<writer> Soo Hugh</writer>
+		<writer> Glen Morgan</writer>
+	</writers>
+	<editors>
+		<editor> Alan Cody</editor>
+		<editor> Tom McQuade</editor>
+		<editor> Michael Stern</editor>
+		<editor> Timothy Alverson</editor>
+	</editors>
+</doc>

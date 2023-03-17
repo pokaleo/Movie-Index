@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<doc id="tt15450042">
+	<docid>tt15450042</docid>
+	<title>The Daily Bugle</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDcyYTcxZGEtMWM2YS00ZmQyLWJjYzItOWFmNmJkNjRkNzM3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">1</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>News</genre>
+	</genres>
+	<plot>Online news series covering the dangerous Spider-Man.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Angourie Rice</actor>
+			<role>Betty Brant</role>
+		</credit>
+		<credit>
+			<actor>J.K. Simmons</actor>
+			<role>J. Jonah Jameson</role>
+		</credit>
+		<credit>
+			<actor>Tony Revolori</actor>
+			<role>Flash Thompson</role>
+		</credit>
+		<credit>
+			<actor>Tom Holland</actor>
+			<role>Peter Parker</role>
+		</credit>
+		<credit>
+			<actor>Jacob Batalon</actor>
+			<role>Ned Leeds</role>
+		</credit>
+		<credit>
+			<actor>Hannibal Buress</actor>
+			<role>Coach Wilson</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">October 2019</releasedate>
+		<releasedate country="United States">October 29 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tie in</keyword>
+		<keyword>conspiracy theories</keyword>
+		<keyword>marvel cinematic universe</keyword>
+		<keyword>web series</keyword>
+		<keyword>tiktok</keyword>
+	</keywords>
+	<directors/>
+	<composers/>
+	<producers/>
+	<writers/>
+	<editors/>
+</doc>

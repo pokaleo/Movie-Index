@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt14278524">
+	<docid>tt14278524</docid>
+	<title>Santo</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2Y4MzBjNjAtNzFmNi00NjA1LWEwYjQtMjlmMGEwM2I3YTliXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>Santo is a drug dealer whose face has never been revealed. Two policemen who go after him, Millán and Cardona, radically opposed, will have to learn to collaborate to solve the case and keep their lives safe.</plot>
+	<countries>
+		<country>Spain</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Raúl Arévalo</actor>
+			<role>Millán</role>
+		</credit>
+		<credit>
+			<actor>Bruno Gagliasso</actor>
+			<role>Cardona</role>
+		</credit>
+		<credit>
+			<actor>Victoria Guerra</actor>
+			<role>Bárbara</role>
+		</credit>
+		<credit>
+			<actor>Greta Fernández</actor>
+			<role>Susi</role>
+		</credit>
+		<credit>
+			<actor>María Vázquez</actor>
+			<role>Arantxa</role>
+		</credit>
+		<credit>
+			<actor>Judith Fernández</actor>
+			<role>Lucía</role>
+		</credit>
+		<credit>
+			<actor>Samuel López</actor>
+			<role>Oficial Mata</role>
+		</credit>
+		<credit>
+			<actor>Adrián Ríos</actor>
+			<role>Cristobal Nilo</role>
+		</credit>
+		<credit>
+			<actor>Núria Prims</actor>
+			<role>Elena Fauró</role>
+		</credit>
+		<credit>
+			<actor>Iñaki Mur</actor>
+			<role>Guillermo Alonso</role>
+		</credit>
+		<credit>
+			<actor>Guillermo Barrientos</actor>
+			<role>Fer</role>
+		</credit>
+		<credit>
+			<actor>Susan Spano</actor>
+			<role>Maria</role>
+		</credit>
+		<credit>
+			<actor>Maarten Dannenberg</actor>
+			<role>Olin Hansen</role>
+		</credit>
+		<credit>
+			<actor>Denis Gómez</actor>
+			<role>Ramallo</role>
+		</credit>
+		<credit>
+			<actor>Daniel Horvath</actor>
+			<role>Ivar Becken</role>
+		</credit>
+		<credit>
+			<actor>Martin Aslan</actor>
+			<role>Axel Rohde</role>
+		</credit>
+		<credit>
+			<actor>Iria del Río</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Carmela Lloret</actor>
+			<role>Terapeuta</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">September 16 2022</releasedate>
+		<releasedate country="Argentina">September 16 2022</releasedate>
+		<releasedate country="Australia">September 16 2022</releasedate>
+		<releasedate country="Brazil">September 16 2022</releasedate>
+		<releasedate country="Canada">September 16 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Egypt">18+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">15</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">Youth not allowed</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>drug dealer</keyword>
+		<keyword>policeman</keyword>
+		<keyword>spain</keyword>
+		<keyword>brazil</keyword>
+		<keyword>salvador</keyword>
+		<keyword>northeast brazil</keyword>
+		<keyword>one word title</keyword>
+		<keyword>police</keyword>
+		<keyword>criminal</keyword>
+		<keyword>crew</keyword>
+		<keyword>psychological drama</keyword>
+		<keyword>madrid</keyword>
+		<keyword>brazilian abroad</keyword>
+		<keyword>brazilian in spain</keyword>
+	</keywords>
+	<directors>
+		<director> Vicente Amorim</director>
+	</directors>
+	<composers>
+		<composer> Rogério da Costa Jr.</composer>
+		<composer> Pedro Guedes</composer>
+		<composer> Fabiano Krieger</composer>
+		<composer> Lucas Marcier</composer>
+	</composers>
+	<producers>
+		<producer> Miguel Angel Faura</producer>
+		<producer> Adrián Guerra</producer>
+		<producer> Carlos López</producer>
+		<producer> Núria Valls</producer>
+		<producer> Óscar Vigiola</producer>
+		<producer> Antonio Irivan de Souza</producer>
+		<producer> Carla Rainho</producer>
+	</producers>
+	<writers>
+		<writer> Carlos López</writer>
+		<writer> Miguel Ángel Fernández</writer>
+		<writer> Gustavo Lipsztein</writer>
+	</writers>
+	<editors>
+		<editor> Lu Rodríguez</editor>
+		<editor> Miguel Burgos</editor>
+		<editor> Danilo Lemos</editor>
+		<editor> Miguel Doblado</editor>
+	</editors>
+</doc>

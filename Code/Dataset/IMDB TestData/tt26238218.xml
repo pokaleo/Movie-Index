@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<doc id="tt26238218">
+	<docid>tt26238218</docid>
+	<title>Karate Sheep</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODA1MzRhMzktZjA4Ny00OGRlLTkyZDctYWU3NmViNmI1MWZiXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_QL75_UY281_CR104,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">7</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>It follows Trico, a sheep who causes mayhem in his flock by sharing new ideas, with a lurking wolf waiting to pounce.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast/>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">January 2023</releasedate>
+		<releasedate country="Brazil">March 2 2023</releasedate>
+		<releasedate country="Canada">March 2 2023</releasedate>
+		<releasedate country="Spain">March 2 2023</releasedate>
+		<releasedate country="France">March 2 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Italy"> BA</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="United States">TV-G</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cgi animation</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>karate</keyword>
+		<keyword>sheep</keyword>
+		<keyword>wolf</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>slapstick</keyword>
+		<keyword>animal</keyword>
+		<keyword>cg animation</keyword>
+	</keywords>
+	<directors>
+		<director> Cédric Dietsch</director>
+		<director> Renaud Martin</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Hugo Gittard</writer>
+	</writers>
+	<editors/>
+</doc>

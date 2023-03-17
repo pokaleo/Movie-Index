@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<doc id="tt12805686">
+	<docid>tt12805686</docid>
+	<title>The Consultant</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzEyMDBmNmItZmI5My00ZDVjLTliNWEtZDc1NzMyYWY1MzNlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A psychiatrist relives all of his past fears with the arrival of three new patients.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>John-Christian Bateman</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Rebecca Calienda</actor>
+			<role>Sharon</role>
+		</credit>
+		<credit>
+			<actor>Katie Dalton</actor>
+			<role>Kate</role>
+		</credit>
+		<credit>
+			<actor>Gareth Lawrence</actor>
+			<role>Mike</role>
+		</credit>
+		<credit>
+			<actor>Alex Reece</actor>
+			<role>John</role>
+		</credit>
+		<credit>
+			<actor>David Stock</actor>
+			<role>John</role>
+		</credit>
+		<credit>
+			<actor>Sindri Swan</actor>
+			<role>Delivery guy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 26 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Ignacio Maiso</director>
+	</directors>
+	<composers>
+		<composer> Ben Cook</composer>
+	</composers>
+	<producers>
+		<producer> Agustin Maiso</producer>
+		<producer> Ignacio Maiso</producer>
+		<producer> Danny Mounsey</producer>
+		<producer> David Stock</producer>
+	</producers>
+	<writers>
+		<writer> Ignacio Maiso</writer>
+	</writers>
+	<editors>
+		<editor> Chiraag Patel</editor>
+	</editors>
+</doc>

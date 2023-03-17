@@ -1,0 +1,462 @@
+<?xml version="1.0" ?>
+<doc id="tt6842770">
+	<docid>tt6842770</docid>
+	<title>Wild Mountain Thyme</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzhhOTdiYzAtMDJiYS00NDA0LWJmN2EtODljMDJmNDMxZDk3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A pair of star-crossed lovers in Ireland get caught up in their family's land dispute.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Emily Blunt</actor>
+			<role>Rosemary</role>
+		</credit>
+		<credit>
+			<actor>Jamie Dornan</actor>
+			<role>Anthony</role>
+		</credit>
+		<credit>
+			<actor>Jon Hamm</actor>
+			<role>Adam</role>
+		</credit>
+		<credit>
+			<actor>Christopher Walken</actor>
+			<role>Tony Reilly</role>
+		</credit>
+		<credit>
+			<actor>Dearbhla Molloy</actor>
+			<role>Aoife Muldoon</role>
+		</credit>
+		<credit>
+			<actor>Don Wycherley</actor>
+			<role>Chris Muldoon</role>
+		</credit>
+		<credit>
+			<actor>Clare Barrett</actor>
+			<role>Mary Reilly</role>
+		</credit>
+		<credit>
+			<actor>Darragh O'Kane</actor>
+			<role>Young Anthony</role>
+		</credit>
+		<credit>
+			<actor>Abigail Coburn</actor>
+			<role>Young Rosemary</role>
+		</credit>
+		<credit>
+			<actor>Anna Weekes</actor>
+			<role>Fiona</role>
+		</credit>
+		<credit>
+			<actor>Barry McGovern</actor>
+			<role>Cleary</role>
+		</credit>
+		<credit>
+			<actor>Lydia McGuinness</actor>
+			<role>Eleanor</role>
+		</credit>
+		<credit>
+			<actor>Tony Reidy</actor>
+			<role>Pub Band</role>
+		</credit>
+		<credit>
+			<actor>Des Cafferty</actor>
+			<role>Pub Band</role>
+		</credit>
+		<credit>
+			<actor>Dan Delany</actor>
+			<role>Pub Band</role>
+		</credit>
+		<credit>
+			<actor>Michael McCormack</actor>
+			<role>Owen the Townsman</role>
+		</credit>
+		<credit>
+			<actor>Jon Tenney</actor>
+			<role>Pub MC</role>
+		</credit>
+		<credit>
+			<actor>Tommy O'Neill</actor>
+			<role>Uncle Frank</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Brazil">December 11 2020</releasedate>
+		<releasedate country="Italy">December 11 2020</releasedate>
+		<releasedate country="United States">December 11 2020</releasedate>
+		<releasedate country="Canada">December 22 2020</releasedate>
+		<releasedate country="Taiwan">December 24 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">PG-13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Mexico">A</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Taiwan">0+</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>screenplay adapted by author</keyword>
+		<keyword>ireland</keyword>
+		<keyword>adaptation directed by original author</keyword>
+		<keyword>land dispute</keyword>
+		<keyword>neighbor neighbor relationship</keyword>
+		<keyword>love</keyword>
+		<keyword>farmer</keyword>
+		<keyword>farm</keyword>
+		<keyword>rural setting</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>curse</keyword>
+		<keyword>family curse</keyword>
+		<keyword>american abroad</keyword>
+		<keyword>american in ireland</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>star crossed lovers</keyword>
+		<keyword>family farm</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>narrated by character</keyword>
+		<keyword>narrated by a dead character</keyword>
+		<keyword>once upon a time</keyword>
+		<keyword>dog</keyword>
+		<keyword>cattle</keyword>
+		<keyword>sheep</keyword>
+		<keyword>horse</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>rifle</keyword>
+		<keyword>crow</keyword>
+		<keyword>killing a crow</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>singer</keyword>
+		<keyword>singing</keyword>
+		<keyword>song</keyword>
+		<keyword>storytelling</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>boy</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>looking out a window</keyword>
+		<keyword>asking a question to the stars</keyword>
+		<keyword>boy wears pajamas</keyword>
+		<keyword>girl</keyword>
+		<keyword>girl with pigtails</keyword>
+		<keyword>dinosaur figurine</keyword>
+		<keyword>bell</keyword>
+		<keyword>running boy</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>smelling a flower</keyword>
+		<keyword>girl sits in a tree</keyword>
+		<keyword>boy girl relationship</keyword>
+		<keyword>gunshot</keyword>
+		<keyword>recording</keyword>
+		<keyword>record player</keyword>
+		<keyword>girl imitates a swan</keyword>
+		<keyword>dancer</keyword>
+		<keyword>dancing</keyword>
+		<keyword>horseback riding</keyword>
+		<keyword>running girl</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>aerial camera shot</keyword>
+		<keyword>prologue</keyword>
+		<keyword>thunder</keyword>
+		<keyword>lightning</keyword>
+		<keyword>rain</keyword>
+		<keyword>gate</keyword>
+		<keyword>widow</keyword>
+		<keyword>shame</keyword>
+		<keyword>dog barks</keyword>
+		<keyword>dead mother</keyword>
+		<keyword>dead wife</keyword>
+		<keyword>pipe smoking</keyword>
+		<keyword>cold the temperature</keyword>
+		<keyword>laughter</keyword>
+		<keyword>woman uses a cane</keyword>
+		<keyword>stout the drink</keyword>
+		<keyword>sense of taste</keyword>
+		<keyword>dead husband</keyword>
+		<keyword>dead father</keyword>
+		<keyword>half and half door</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>inheritance</keyword>
+		<keyword>insanity</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>widower</keyword>
+		<keyword>white swan</keyword>
+		<keyword>fishing</keyword>
+		<keyword>ham the meat</keyword>
+		<keyword>magazine</keyword>
+		<keyword>woman smokes a pipe</keyword>
+		<keyword>barn</keyword>
+		<keyword>bull</keyword>
+		<keyword>daughter smokes her father's pipe</keyword>
+		<keyword>coughing</keyword>
+		<keyword>lantern</keyword>
+		<keyword>love triangle</keyword>
+		<keyword>ring</keyword>
+		<keyword>fireplace</keyword>
+		<keyword>bachelor</keyword>
+		<keyword>crying woman</keyword>
+		<keyword>apology</keyword>
+		<keyword>death</keyword>
+		<keyword>drinking from a glass</keyword>
+		<keyword>nickname</keyword>
+		<keyword>horse halter</keyword>
+		<keyword>marriage proposal</keyword>
+		<keyword>10 year old</keyword>
+		<keyword>10 year old girl</keyword>
+		<keyword>reflection in water</keyword>
+		<keyword>boat</keyword>
+		<keyword>man falls into water</keyword>
+		<keyword>restlessness</keyword>
+		<keyword>mailman</keyword>
+		<keyword>stew</keyword>
+		<keyword>church</keyword>
+		<keyword>saving a bee</keyword>
+		<keyword>releasing a bee into nature</keyword>
+		<keyword>food</keyword>
+		<keyword>eating</keyword>
+		<keyword>letter</keyword>
+		<keyword>breaking a window</keyword>
+		<keyword>practicing a marriage proposal</keyword>
+		<keyword>donkey</keyword>
+		<keyword>kneeling to propose marriage</keyword>
+		<keyword>selling a farm</keyword>
+		<keyword>pride</keyword>
+		<keyword>promise</keyword>
+		<keyword>trespassing</keyword>
+		<keyword>74 year old</keyword>
+		<keyword>74 year old man</keyword>
+		<keyword>lost ring</keyword>
+		<keyword>bee</keyword>
+		<keyword>old man wears eyeglasses</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>looking in a window</keyword>
+		<keyword>talking through a window</keyword>
+		<keyword>bar</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>orange blossom the drink</keyword>
+		<keyword>folk music</keyword>
+		<keyword>fiddle</keyword>
+		<keyword>fiddler</keyword>
+		<keyword>flute</keyword>
+		<keyword>flute player</keyword>
+		<keyword>guitar</keyword>
+		<keyword>guitar player</keyword>
+		<keyword>microphone</keyword>
+		<keyword>talent show</keyword>
+		<keyword>master of ceremonies</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>memory</keyword>
+		<keyword>title sung by character</keyword>
+		<keyword>crying old man</keyword>
+		<keyword>old man</keyword>
+		<keyword>old woman</keyword>
+		<keyword>applause</keyword>
+		<keyword>crying old woman</keyword>
+		<keyword>crawling on the ground</keyword>
+		<keyword>climbing over a wall</keyword>
+		<keyword>sitting on a wall</keyword>
+		<keyword>lighting a cigarette</keyword>
+		<keyword>secret</keyword>
+		<keyword>whispering</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>woman falls off a wall</keyword>
+		<keyword>woman wears a plaid hoodie</keyword>
+		<keyword>brass ring</keyword>
+		<keyword>airplane</keyword>
+		<keyword>75 year old</keyword>
+		<keyword>75 year old man</keyword>
+		<keyword>75th birthday</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>rental car</keyword>
+		<keyword>birthday party</keyword>
+		<keyword>happy birthday</keyword>
+		<keyword>umbrella</keyword>
+		<keyword>rolls royce</keyword>
+		<keyword>bench</keyword>
+		<keyword>white raincoat</keyword>
+		<keyword>raincoat as gift</keyword>
+		<keyword>man falls to the ground</keyword>
+		<keyword>metal detector</keyword>
+		<keyword>money manager</keyword>
+		<keyword>slapstick comedy</keyword>
+		<keyword>waiting</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>picnic</keyword>
+		<keyword>ill mother</keyword>
+		<keyword>cow</keyword>
+		<keyword>charolais cow</keyword>
+		<keyword>mushroom</keyword>
+		<keyword>feeding cattle</keyword>
+		<keyword>threat to murder someone</keyword>
+		<keyword>stretcher</keyword>
+		<keyword>hospital</keyword>
+		<keyword>grave</keyword>
+		<keyword>gold ring</keyword>
+		<keyword>heather</keyword>
+		<keyword>moon</keyword>
+		<keyword>oxygen tube</keyword>
+		<keyword>oxygen tank</keyword>
+		<keyword>sense of smell</keyword>
+		<keyword>star the celestial object</keyword>
+		<keyword>lighting a pipe</keyword>
+		<keyword>son lights a pipe for his father</keyword>
+		<keyword>denial of love</keyword>
+		<keyword>ballet</keyword>
+		<keyword>new york city</keyword>
+		<keyword>swan lake the ballet</keyword>
+		<keyword>asking for forgiveness</keyword>
+		<keyword>faith</keyword>
+		<keyword>forgiveness</keyword>
+		<keyword>father son embrace</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>man wears overalls</keyword>
+		<keyword>dream</keyword>
+		<keyword>climbing over a fence</keyword>
+		<keyword>man climbs over a fence</keyword>
+		<keyword>pickup truck</keyword>
+		<keyword>flashback</keyword>
+		<keyword>samuel j. friedman theatre manhattan new york city</keyword>
+		<keyword>dance</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>woman wrapped in a blanket</keyword>
+		<keyword>ballet dancer</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>candle</keyword>
+		<keyword>girl next door</keyword>
+		<keyword>boy next door</keyword>
+		<keyword>banker</keyword>
+		<keyword>bigger dreams</keyword>
+		<keyword>new york city skyline</keyword>
+		<keyword>kiss</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>telephone</keyword>
+		<keyword>white telephone</keyword>
+		<keyword>shyness</keyword>
+		<keyword>irish farmer the magazine</keyword>
+		<keyword>ipad</keyword>
+		<keyword>window shutters</keyword>
+		<keyword>whinnying horse</keyword>
+		<keyword>red door</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>towel</keyword>
+		<keyword>handkerchief</keyword>
+		<keyword>guinness</keyword>
+		<keyword>irish</keyword>
+		<keyword>giving a toast</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>depression</keyword>
+		<keyword>wanting to die</keyword>
+		<keyword>anxiety attack</keyword>
+		<keyword>hope</keyword>
+		<keyword>sandwich</keyword>
+		<keyword>snoring man</keyword>
+		<keyword>sleeping on an airplane</keyword>
+		<keyword>pub</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>detoxification</keyword>
+		<keyword>quitting smoking</keyword>
+		<keyword>refrence to smelling like soap</keyword>
+		<keyword>belief</keyword>
+		<keyword>power outage</keyword>
+		<keyword>honey bee</keyword>
+		<keyword>flower</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>car hits a tree</keyword>
+		<keyword>car accident</keyword>
+		<keyword>fear of love</keyword>
+		<keyword>man carries a woman in his arms</keyword>
+		<keyword>man wears sunglasses</keyword>
+		<keyword>hearing a voice</keyword>
+		<keyword>sheepdog</keyword>
+		<keyword>montage</keyword>
+		<keyword>flashback montage</keyword>
+		<keyword>thyme</keyword>
+		<keyword>written by director</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>mountain</keyword>
+		<keyword>nature</keyword>
+		<keyword>grass</keyword>
+		<keyword>forest</keyword>
+		<keyword>river</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>deceased father</keyword>
+		<keyword>deceased mother</keyword>
+		<keyword>deceased husband</keyword>
+		<keyword>deceased wife</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>death of father</keyword>
+		<keyword>based on play</keyword>
+	</keywords>
+	<directors>
+		<director> John Patrick Shanley</director>
+	</directors>
+	<composers>
+		<composer> Amelia Warner</composer>
+	</composers>
+	<producers>
+		<producer> John Brady</producer>
+		<producer> Anthony Bregman</producer>
+		<producer> Allen Church</producer>
+		<producer> Craig Dworkin</producer>
+		<producer> William Gallo II</producer>
+		<producer> Bradley Gallo</producer>
+		<producer> Leland Greenberg</producer>
+		<producer> Michael A. Helfant</producer>
+		<producer> Zygi Kamasa</producer>
+		<producer> Harry Klein</producer>
+		<producer> Andrew Kramer</producer>
+		<producer> Jonathan Loughran</producer>
+		<producer> Stephen Mallaghan</producer>
+		<producer> Danny Mandel</producer>
+		<producer> Colin Marshall</producer>
+		<producer> Martina Niland</producer>
+		<producer> Andrew C. Robinson</producer>
+		<producer> Craig Snider</producer>
+		<producer> Karen L. Thorson</producer>
+		<producer> Jared Underwood</producer>
+		<producer> Leslie Urdang</producer>
+		<producer> Alex Witchel</producer>
+	</producers>
+	<writers>
+		<writer> John Patrick Shanley</writer>
+		<writer> John Patrick Shanley</writer>
+	</writers>
+	<editors>
+		<editor> Ian Blume</editor>
+	</editors>
+</doc>

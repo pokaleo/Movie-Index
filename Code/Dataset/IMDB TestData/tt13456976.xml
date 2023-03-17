@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<doc id="tt13456976">
+	<docid>tt13456976</docid>
+	<title>Old Man</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjI3NDhlNjUtYzdlNi00MDc1LTg0NjktODE5NmViM2VjZGM0XkEyXkFqcGdeQXVyNzc2NTk0MjQ@._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>When a lost hiker stumbles upon an erratic old man living in the woods, he could never have imagined the nightmare that awaits.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos/>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Stephen Lang</actor>
+			<role>Old Man</role>
+		</credit>
+		<credit>
+			<actor>Marc Senter</actor>
+			<role>Joe</role>
+		</credit>
+		<credit>
+			<actor>Patch Darragh</actor>
+			<role>Bible Salesman</role>
+		</credit>
+		<credit>
+			<actor>Liana Wright-Mark</actor>
+			<role>Genie</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 14 2022</releasedate>
+		<releasedate country="United States">October 14 2022</releasedate>
+		<releasedate country="Egypt">November 4 2022</releasedate>
+		<releasedate country="Singapore">November 4 2022</releasedate>
+		<releasedate country="Russia">November 10 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Russia">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>old man</keyword>
+	</keywords>
+	<directors>
+		<director> Lucky McKee</director>
+	</directors>
+	<composers>
+		<composer> Joe Kraemer</composer>
+	</composers>
+	<producers>
+		<producer> Cameron Burns</producer>
+		<producer> Bobby Campbell</producer>
+		<producer> Giles Daoust</producer>
+		<producer> Sean E. DeMott</producer>
+		<producer> Lois Drabkin</producer>
+		<producer> Catherine Dumonceaux</producer>
+		<producer> Alex Euting</producer>
+		<producer> Amber Geneva</producer>
+		<producer> David Guglielmo</producer>
+		<producer> Paul Holbrook</producer>
+		<producer> Aaron B. Koontz</producer>
+		<producer> Steven Landers</producer>
+		<producer> Marc Senter</producer>
+		<producer> Ashleigh Snead</producer>
+		<producer> Peggy Spiegel</producer>
+		<producer> Jay Veach</producer>
+		<producer> Joel Veach</producer>
+		<producer> Md Young</producer>
+	</producers>
+	<writers>
+		<writer> Joel Veach</writer>
+	</writers>
+	<editors>
+		<editor> Zach Passero</editor>
+	</editors>
+</doc>

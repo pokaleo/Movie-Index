@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<doc id="tt7605396">
+	<docid>tt7605396</docid>
+	<title>De Twaalf</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzAzMWJmNDEtYzc0MS00NDVkLTg4ZmItMmMzNDkyNjlmZmE2XkEyXkFqcGdeQXVyMTMxODk0MTI@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">50</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Twelve ordinary people are called for jury duty for a murder case as traumatizing as it is controversial in which a woman stands trial for killing her own blood.</plot>
+	<countries>
+		<country>Belgium</country>
+	</countries>
+	<languages/>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Luc De Ruelle</actor>
+			<role>Bode</role>
+		</credit>
+		<credit>
+			<actor>Maaike Neuville</actor>
+			<role>Delphine Spijkers</role>
+		</credit>
+		<credit>
+			<actor>Tom Vermeir</actor>
+			<role>Joeri Cornille</role>
+		</credit>
+		<credit>
+			<actor>Peter Gorissen</actor>
+			<role>Arnold Briers</role>
+		</credit>
+		<credit>
+			<actor>Zouzou Ben Chikha</actor>
+			<role>Carl Destoop</role>
+		</credit>
+		<credit>
+			<actor>Piet De Praitere</actor>
+			<role>Noël Marinus</role>
+		</credit>
+		<credit>
+			<actor>Maaike Cafmeyer</actor>
+			<role>Frie Palmers</role>
+		</credit>
+		<credit>
+			<actor>Josse De Pauw</actor>
+			<role>Ari Spaak</role>
+		</credit>
+		<credit>
+			<actor>Sofie Decleir</actor>
+			<role>Inge Van Severen</role>
+		</credit>
+		<credit>
+			<actor>Mieke De Groote</actor>
+			<role>Voorzitter van de rechtbank</role>
+		</credit>
+		<credit>
+			<actor>Isabelle van Hecke</actor>
+			<role>Procureur des Konings Hedwig</role>
+		</credit>
+		<credit>
+			<actor>Aimé Claeys</actor>
+			<role>Jonge Stefaan</role>
+		</credit>
+		<credit>
+			<actor>Lynn Van Royen</actor>
+			<role>Brechtje Vindevogel</role>
+		</credit>
+		<credit>
+			<actor>Brittany Cox</actor>
+			<role>Delphine</role>
+		</credit>
+		<credit>
+			<actor>Derek Stephen Prince</actor>
+			<role>Carl Destoop</role>
+		</credit>
+		<credit>
+			<actor>Anne-Mieke Ruyten</actor>
+			<role>Vera</role>
+		</credit>
+		<credit>
+			<actor>Veerle Malschaert</actor>
+			<role>Yannick</role>
+		</credit>
+		<credit>
+			<actor>Lino Van Reeth</actor>
+			<role>Kurt</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">April 8 2019</releasedate>
+		<releasedate country="Czech Republic">September 27 2019</releasedate>
+		<releasedate country="Belgium">November 3 2019</releasedate>
+		<releasedate country="Australia">November 12 2019</releasedate>
+		<releasedate country="Poland">December 5 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+	</keywords>
+	<directors>
+		<director> Wouter Bouvijn</director>
+	</directors>
+	<composers>
+		<composer> David Martijn</composer>
+		<composer> Jeroen Swinnen</composer>
+	</composers>
+	<producers>
+		<producer> Peter Bouckaert</producer>
+		<producer> Sanne Nuyens</producer>
+		<producer> Bert Van Dael</producer>
+		<producer> Gunter Schmid</producer>
+		<producer> Goele Vandersmissen</producer>
+	</producers>
+	<writers>
+		<writer> Sanne Nuyens</writer>
+		<writer> Sanne Nuyens</writer>
+		<writer> Bert Van Dael</writer>
+		<writer> Bert Van Dael</writer>
+	</writers>
+	<editors>
+		<editor> Bert Jacobs</editor>
+		<editor> Pieter Smet</editor>
+	</editors>
+</doc>

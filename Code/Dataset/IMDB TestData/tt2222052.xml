@@ -1,0 +1,384 @@
+<?xml version="1.0" ?>
+<doc id="tt2222052">
+	<docid>tt2222052</docid>
+	<title>My New York Year</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZWQ1OWFkNjItZjZmZS00NzJhLTljMDAtNWU3MjI5ZjFhZWU5XkEyXkFqcGdeQXVyMTc4MjQ2OTE@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">101</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A college grad takes a clerical job working for the literary agent of the renowned, reclusive writer J.D. Salinger.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Margaret Qualley</actor>
+			<role>Joanna</role>
+		</credit>
+		<credit>
+			<actor>Sigourney Weaver</actor>
+			<role>Margaret</role>
+		</credit>
+		<credit>
+			<actor>Douglas Booth</actor>
+			<role>Don</role>
+		</credit>
+		<credit>
+			<actor>Seána Kerslake</actor>
+			<role>Jenny</role>
+		</credit>
+		<credit>
+			<actor>Brían F. O'Byrne</actor>
+			<role>Hugh</role>
+		</credit>
+		<credit>
+			<actor>Colm Feore</actor>
+			<role>Daniel</role>
+		</credit>
+		<credit>
+			<actor>Théodore Pellerin</actor>
+			<role>Boy from Winston-Salem</role>
+		</credit>
+		<credit>
+			<actor>Yanic Truesdale</actor>
+			<role>Max</role>
+		</credit>
+		<credit>
+			<actor>Hamza Haq</actor>
+			<role>Karl</role>
+		</credit>
+		<credit>
+			<actor>Leni Parker</actor>
+			<role>Pam</role>
+		</credit>
+		<credit>
+			<actor>Ellen David</actor>
+			<role>Placement Agent</role>
+		</credit>
+		<credit>
+			<actor>Romane Denis</actor>
+			<role>Girl Who Wants an A</role>
+		</credit>
+		<credit>
+			<actor>Tim Post</actor>
+			<role>J.D. Salinger</role>
+		</credit>
+		<credit>
+			<actor>Gavin Drea</actor>
+			<role>Mark</role>
+		</credit>
+		<credit>
+			<actor>Matt Holland</actor>
+			<role>Clifford Bradbury</role>
+		</credit>
+		<credit>
+			<actor>Xiao Sun</actor>
+			<role>Lisa</role>
+		</credit>
+		<credit>
+			<actor>Andy Bradshaw</actor>
+			<role>Veteran</role>
+		</credit>
+		<credit>
+			<actor>Christine Lan</actor>
+			<role>Vietnamese Girl</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">February 20 2020</releasedate>
+		<releasedate country="Netherlands">September 11 2020</releasedate>
+		<releasedate country="Belgium">October 16 2020</releasedate>
+		<releasedate country="Australia">January 1 2021</releasedate>
+		<releasedate country="United Arab Emirates">January 7 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Belgium">KT</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Denmark">A</certificate>
+		<certificate country="Finland">S</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">AL</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="Turkey">13+15A</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>writer</keyword>
+		<keyword>literary agent</keyword>
+		<keyword>new york city</keyword>
+		<keyword>fan mail</keyword>
+		<keyword>year 1995</keyword>
+		<keyword>publishing</keyword>
+		<keyword>literary agency</keyword>
+		<keyword>assistant</keyword>
+		<keyword>coming of age</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>best friend</keyword>
+		<keyword>fantasy sequence</keyword>
+		<keyword>based on book</keyword>
+		<keyword>j.d. salinger character</keyword>
+		<keyword>brooklyn new york city</keyword>
+		<keyword>manhattan new york city</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>talking to the camera</keyword>
+		<keyword>memory</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>street life</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>flashback</keyword>
+		<keyword>flash forward</keyword>
+		<keyword>prologue</keyword>
+		<keyword>sleep</keyword>
+		<keyword>roommate roommate relationship</keyword>
+		<keyword>ironing</keyword>
+		<keyword>man wears boxer shorts</keyword>
+		<keyword>irony</keyword>
+		<keyword>job interview</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>reference to dashiell hammett</keyword>
+		<keyword>reference to alison lurie</keyword>
+		<keyword>reference to donald westlake</keyword>
+		<keyword>reference to gustave flaubert</keyword>
+		<keyword>man reads a magazine</keyword>
+		<keyword>college graduate</keyword>
+		<keyword>reference to agatha christie</keyword>
+		<keyword>reference to f. scott fitzgerald</keyword>
+		<keyword>reference to dylan thomas</keyword>
+		<keyword>woman wears eyeglasses</keyword>
+		<keyword>voice over narration</keyword>
+		<keyword>narrated by character</keyword>
+		<keyword>narrated by protagonist</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>bechdel test passed</keyword>
+		<keyword>congratulations</keyword>
+		<keyword>year 1996</keyword>
+		<keyword>cafe</keyword>
+		<keyword>year 1927</keyword>
+		<keyword>mustached man</keyword>
+		<keyword>man with a beard</keyword>
+		<keyword>man with long hair</keyword>
+		<keyword>manuscript</keyword>
+		<keyword>reference to norman mailer</keyword>
+		<keyword>avenue a manhattan new york city</keyword>
+		<keyword>reading a poem aloud</keyword>
+		<keyword>poetry reading</keyword>
+		<keyword>voice over letter</keyword>
+		<keyword>xerox machine</keyword>
+		<keyword>literary agent assistant</keyword>
+		<keyword>handshake</keyword>
+		<keyword>year 1963</keyword>
+		<keyword>reference to mark david chapman</keyword>
+		<keyword>the new yorker the magazine</keyword>
+		<keyword>flashback within a flashback</keyword>
+		<keyword>reference to john lennon</keyword>
+		<keyword>swimming pool</keyword>
+		<keyword>reading a letter aloud</keyword>
+		<keyword>seventy something</keyword>
+		<keyword>kiss</keyword>
+		<keyword>interrupted sex</keyword>
+		<keyword>woman reads a newspaper</keyword>
+		<keyword>computer</keyword>
+		<keyword>publishing house</keyword>
+		<keyword>earphones</keyword>
+		<keyword>secretary</keyword>
+		<keyword>running woman</keyword>
+		<keyword>year 1988</keyword>
+		<keyword>year 1965</keyword>
+		<keyword>recluse</keyword>
+		<keyword>framed photograph</keyword>
+		<keyword>subway station</keyword>
+		<keyword>aspiring female writer</keyword>
+		<keyword>paper shredder</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>form letter</keyword>
+		<keyword>contract</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>algonquin hotel new york city</keyword>
+		<keyword>martini</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>reference to ernest hemingway</keyword>
+		<keyword>reference to langston hughes</keyword>
+		<keyword>rachel cusk character</keyword>
+		<keyword>apology</keyword>
+		<keyword>novelist</keyword>
+		<keyword>overhead camera shot</keyword>
+		<keyword>depression</keyword>
+		<keyword>eating</keyword>
+		<keyword>teenage boy</keyword>
+		<keyword>foreign language spoken</keyword>
+		<keyword>dairy queen worker</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>friend</keyword>
+		<keyword>friendship</keyword>
+		<keyword>doorman</keyword>
+		<keyword>poetry</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>georgetown university</keyword>
+		<keyword>judy blume character</keyword>
+		<keyword>male nudity</keyword>
+		<keyword>naked man types on a computer</keyword>
+		<keyword>female friendship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>teenage girl with a pierced nose</keyword>
+		<keyword>praying hands gesture</keyword>
+		<keyword>reference to kurt vonnegut</keyword>
+		<keyword>promise</keyword>
+		<keyword>nickname</keyword>
+		<keyword>wine</keyword>
+		<keyword>man wears shorts</keyword>
+		<keyword>writing</keyword>
+		<keyword>train</keyword>
+		<keyword>editing a manuscript</keyword>
+		<keyword>intentional typo</keyword>
+		<keyword>clarinetist</keyword>
+		<keyword>anger</keyword>
+		<keyword>deciding not to read a letter</keyword>
+		<keyword>missing someone</keyword>
+		<keyword>listening to music</keyword>
+		<keyword>chrysler building manhattan new york city</keyword>
+		<keyword>suicide by shooting oneself</keyword>
+		<keyword>bipolar man</keyword>
+		<keyword>suicide of lover</keyword>
+		<keyword>sanctuary</keyword>
+		<keyword>rooftop party</keyword>
+		<keyword>party</keyword>
+		<keyword>giving a toast</keyword>
+		<keyword>imitating vomiting</keyword>
+		<keyword>love</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>quitting a job</keyword>
+		<keyword>grandmother grandson relationship</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>packing a suitcase</keyword>
+		<keyword>saying goodbye</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>female female hug</keyword>
+		<keyword>woman reads a book</keyword>
+		<keyword>repeated scene</keyword>
+		<keyword>man carries a woman in his arms</keyword>
+		<keyword>man lifts a woman into the air</keyword>
+		<keyword>hotel</keyword>
+		<keyword>man kisses a woman's shoulder</keyword>
+		<keyword>apartment</keyword>
+		<keyword>montage</keyword>
+		<keyword>dictaphone</keyword>
+		<keyword>high school sweetheart</keyword>
+		<keyword>bookstore clerk</keyword>
+		<keyword>girlfriend breaks up with boyfriend</keyword>
+		<keyword>school cafeteria</keyword>
+		<keyword>implied sex</keyword>
+		<keyword>rehearsal</keyword>
+		<keyword>ex boyfriend ex girlfriend reunion</keyword>
+		<keyword>dance sequence</keyword>
+		<keyword>luddite</keyword>
+		<keyword>hard of hearing</keyword>
+		<keyword>poetry anthology</keyword>
+		<keyword>bouquet of flowers</keyword>
+		<keyword>lovers living together</keyword>
+		<keyword>dancing</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>elevator</keyword>
+		<keyword>flowers</keyword>
+		<keyword>breakup</keyword>
+		<keyword>letter</keyword>
+		<keyword>lover</keyword>
+		<keyword>french</keyword>
+		<keyword>bookstore</keyword>
+		<keyword>beer</keyword>
+		<keyword>drink</keyword>
+		<keyword>drinking</keyword>
+		<keyword>sex</keyword>
+		<keyword>pay phone</keyword>
+		<keyword>e mail</keyword>
+		<keyword>cafeteria</keyword>
+		<keyword>concert hall</keyword>
+		<keyword>fiance fiancee relationship</keyword>
+		<keyword>female writer</keyword>
+		<keyword>sink</keyword>
+		<keyword>bathtub</keyword>
+		<keyword>nudity</keyword>
+		<keyword>deafness</keyword>
+		<keyword>jewish</keyword>
+		<keyword>deaf man</keyword>
+		<keyword>love triangle</keyword>
+		<keyword>cat's cradle</keyword>
+		<keyword>food</keyword>
+		<keyword>dictation</keyword>
+		<keyword>bench</keyword>
+		<keyword>typo</keyword>
+		<keyword>chandelier</keyword>
+		<keyword>pianist</keyword>
+		<keyword>suicide</keyword>
+		<keyword>fisherman</keyword>
+		<keyword>receptionist</keyword>
+		<keyword>peacock</keyword>
+		<keyword>feminism</keyword>
+		<keyword>aspiring poet</keyword>
+		<keyword>reference to holden caulfield</keyword>
+		<keyword>1990s</keyword>
+		<keyword>reference to franny and zooey</keyword>
+		<keyword>blog</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Philippe Falardeau</director>
+	</directors>
+	<composers>
+		<composer> Martin Léon</composer>
+	</composers>
+	<producers>
+		<producer> Naima Abed</producer>
+		<producer> Hussain Amarshi</producer>
+		<producer> Ruth Coady</producer>
+		<producer> Luc Déry</producer>
+		<producer> Philippe Falardeau</producer>
+		<producer> Emilie Georges</producer>
+		<producer> Celine Haddad</producer>
+		<producer> Élaine Hébert</producer>
+		<producer> Jess Magee</producer>
+		<producer> Kim McCraw</producer>
+		<producer> Susan Mullen</producer>
+		<producer> Claude Paiement</producer>
+		<producer> Joanna Smith Rakoff</producer>
+		<producer> Mary Jane Skalski</producer>
+	</producers>
+	<writers>
+		<writer> Philippe Falardeau</writer>
+		<writer> Joanna Smith Rakoff</writer>
+		<writer> Catherine Kidd</writer>
+	</writers>
+	<editors>
+		<editor> Mary Finlay</editor>
+	</editors>
+</doc>

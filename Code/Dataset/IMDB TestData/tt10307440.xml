@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<doc id="tt10307440">
+	<docid>tt10307440</docid>
+	<title>The Decline</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDYxNjk5YTYtZWMzNy00YWQzLTk1NTUtODRhOGNhYWY4MGE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">83</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A fatal accident at a remote survivalist training camp sends participants into a panic - and sets the stage for a chilling showdown.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Guillaume Laurin</actor>
+			<role>Antoine</role>
+		</credit>
+		<credit>
+			<actor>Marie-Evelyne Lessard</actor>
+			<role>Rachel</role>
+		</credit>
+		<credit>
+			<actor>Réal Bossé</actor>
+			<role>Alain</role>
+		</credit>
+		<credit>
+			<actor>Marc Beaupré</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Marilyn Castonguay</actor>
+			<role>Anna</role>
+		</credit>
+		<credit>
+			<actor>Guillaume Cyr</actor>
+			<role>Sebastien</role>
+		</credit>
+		<credit>
+			<actor>Marc-André Grondin</actor>
+			<role>François</role>
+		</credit>
+		<credit>
+			<actor>Isabelle Giroux</actor>
+			<role>Hélène</role>
+		</credit>
+		<credit>
+			<actor>Émilie Pelletier Grenier</actor>
+			<role>Animatrice radio</role>
+		</credit>
+		<credit>
+			<actor>Juliette Maxyme Proulx</actor>
+			<role>Daphnée</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">February 27 2020</releasedate>
+		<releasedate country="United Arab Emirates">March 27 2020</releasedate>
+		<releasedate country="Argentina">March 27 2020</releasedate>
+		<releasedate country="Australia">March 27 2020</releasedate>
+		<releasedate country="Brazil">March 27 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>food supplies</keyword>
+		<keyword>canada</keyword>
+		<keyword>survivalism</keyword>
+	</keywords>
+	<directors>
+		<director> Patrice Laliberté</director>
+	</directors>
+	<composers>
+		<composer> Jason Sharp</composer>
+	</composers>
+	<producers>
+		<producer> Julie Groleau</producer>
+	</producers>
+	<writers>
+		<writer> Charles Dionne</writer>
+		<writer> Nicolas Krief</writer>
+		<writer> Patrice Laliberté</writer>
+	</writers>
+	<editors>
+		<editor> Arthur Tarnowski</editor>
+	</editors>
+</doc>

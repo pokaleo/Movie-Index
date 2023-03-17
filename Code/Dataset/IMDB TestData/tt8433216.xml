@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<doc id="tt8433216">
+	<docid>tt8433216</docid>
+	<title>Super Dragon Ball Heroes</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGM0YmJlNGItOTVlNi00NjViLWFiMDAtNzE3MDk0YThjOTVhXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_QL75_UY281_CR9,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">10</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>The Z-Fighters set out to rescue Trunks from a prison planet.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>Japanese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Ryô Horikawa</actor>
+			<role>Vegeta</role>
+		</credit>
+		<credit>
+			<actor>Takeshi Kusao</actor>
+			<role>Trunks</role>
+		</credit>
+		<credit>
+			<actor>Masako Nozawa</actor>
+			<role>Son Goku</role>
+		</credit>
+		<credit>
+			<actor>Ryûsei Nakao</actor>
+			<role>Coola</role>
+		</credit>
+		<credit>
+			<actor>Eiko Yamada</actor>
+			<role>Mai</role>
+		</credit>
+		<credit>
+			<actor>Rikiya Koyama</actor>
+			<role>Kanba</role>
+		</credit>
+		<credit>
+			<actor>Kappei Yamaguchi</actor>
+			<role>Fu</role>
+		</credit>
+		<credit>
+			<actor>Masakazu Morita</actor>
+			<role>Uisu</role>
+		</credit>
+		<credit>
+			<actor>Shin'ichirô Miki</actor>
+			<role>Zamasu</role>
+		</credit>
+		<credit>
+			<actor>Minami Tsuda</actor>
+			<role>Kamin</role>
+		</credit>
+		<credit>
+			<actor>Yûta Kasuya</actor>
+			<role>Oren</role>
+		</credit>
+		<credit>
+			<actor>Takehito Koyasu</actor>
+			<role>Hearts</role>
+		</credit>
+		<credit>
+			<actor>Kazuhiro Yamaji</actor>
+			<role>Hit</role>
+		</credit>
+		<credit>
+			<actor>Daisuke Kishio</actor>
+			<role>Kyabe</role>
+		</credit>
+		<credit>
+			<actor>Yukana</actor>
+			<role>Kale</role>
+		</credit>
+		<credit>
+			<actor>Yuka Komatsu</actor>
+			<role>Caulifla</role>
+		</credit>
+		<credit>
+			<actor>Masaya Takatsuka</actor>
+			<role>Grand Minister</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">July 1 2018</releasedate>
+		<releasedate country="Brazil">July 1 2018</releasedate>
+		<releasedate country="Canada">July 1 2018</releasedate>
+		<releasedate country="France">July 1 2018</releasedate>
+		<releasedate country="Japan">July 1 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Thailand">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>attack</keyword>
+		<keyword>fight</keyword>
+		<keyword>violence</keyword>
+		<keyword>battle</keyword>
+		<keyword>special attack</keyword>
+		<keyword>transformation</keyword>
+		<keyword>anime animation</keyword>
+	</keywords>
+	<directors>
+		<director> Takao Kiriyama</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Atsuhiro Tomioka</writer>
+		<writer> Atsuhiro Tomioka</writer>
+		<writer> Akira Toriyama</writer>
+	</writers>
+	<editors/>
+</doc>

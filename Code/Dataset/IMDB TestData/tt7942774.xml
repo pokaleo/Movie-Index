@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<doc id="tt7942774">
+	<docid>tt7942774</docid>
+	<title>The Fix</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzhiYzI2MGItODFiMi00ZTliLTg2YzUtNTgwNTgyN2Q1YTZjXkEyXkFqcGdeQXVyMzgyOTg0ODM@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>An L.A. prosecutor moves to Washington after losing a high-profile double murder case, but when the killer strikes again, she returns to seek justice under her own terms.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Robin Tunney</actor>
+			<role>Maya Travis</role>
+		</credit>
+		<credit>
+			<actor>Adam Rayner</actor>
+			<role>Matthew Collier</role>
+		</credit>
+		<credit>
+			<actor>Merrin Dungey</actor>
+			<role>CJ Emerson</role>
+		</credit>
+		<credit>
+			<actor>Breckin Meyer</actor>
+			<role>Alan Wiest</role>
+		</credit>
+		<credit>
+			<actor>Marc Blucas</actor>
+			<role>River 'Riv' Allgood</role>
+		</credit>
+		<credit>
+			<actor>Mouzam Makkar</actor>
+			<role>Loni Kampoor</role>
+		</credit>
+		<credit>
+			<actor>Alex Saxon</actor>
+			<role>Gabriel Johnson</role>
+		</credit>
+		<credit>
+			<actor>Scott Cohen</actor>
+			<role>Ezra Wolf</role>
+		</credit>
+		<credit>
+			<actor>Adewale Akinnuoye-Agbaje</actor>
+			<role>Severen 'Sevvy' Johnson</role>
+		</credit>
+		<credit>
+			<actor>Taylor Kalupa</actor>
+			<role>Jessica Meyer</role>
+		</credit>
+		<credit>
+			<actor>Robin Givens</actor>
+			<role>Julianne Johnson</role>
+		</credit>
+		<credit>
+			<actor>Robbie Jones</actor>
+			<role>Detective Vincent North</role>
+		</credit>
+		<credit>
+			<actor>Kj Smith</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Robert Wisdom</actor>
+			<role>Buck Neal</role>
+		</credit>
+		<credit>
+			<actor>Chasten Harmon</actor>
+			<role>Star Johnson</role>
+		</credit>
+		<credit>
+			<actor>Daniella Alonso</actor>
+			<role>Effy Collier</role>
+		</credit>
+		<credit>
+			<actor>Erik Palladino</actor>
+			<role>Leo Foster</role>
+		</credit>
+		<credit>
+			<actor>Mitchell Edwards</actor>
+			<role>Severen Johnson Jr.</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">March 18 2019</releasedate>
+		<releasedate country="Canada">March 18 2019</releasedate>
+		<releasedate country="Turkey">March 18 2019</releasedate>
+		<releasedate country="United States">March 18 2019</releasedate>
+		<releasedate country="South Africa">April 22 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Katleman</director>
+		<director> Stacey K. Black</director>
+		<director> Larysa Kondracki</director>
+		<director> Edward Ornelas</director>
+		<director> Steve Robin</director>
+		<director> Wendey Stanzler</director>
+		<director> Silver Tree</director>
+		<director> Randy Zisk</director>
+	</directors>
+	<composers>
+		<composer> Gregory Tripi</composer>
+	</composers>
+	<producers>
+		<producer> Stephen Bowman</producer>
+		<producer> Marcia Clark</producer>
+		<producer> Elizabeth Craft</producer>
+		<producer> Sarah Fain</producer>
+		<producer> David Hoberman</producer>
+		<producer> Todd Lieberman</producer>
+		<producer> Laurie Zaks</producer>
+		<producer> Mark Grossan</producer>
+		<producer> Denise Hahn</producer>
+		<producer> Michael Katleman</producer>
+		<producer> Catherine LePard</producer>
+		<producer> Corey Miller</producer>
+		<producer> Jerome Schwartz</producer>
+		<producer> T.J. Brady</producer>
+		<producer> Rasheed Newson</producer>
+		<producer> Wendy Mericle</producer>
+		<producer> Mary Kane</producer>
+		<producer> Patrick McKee</producer>
+		<producer> Meredith Meade</producer>
+	</producers>
+	<writers>
+		<writer> Marcia Clark</writer>
+		<writer> Marcia Clark</writer>
+		<writer> Marcia Clark</writer>
+		<writer> Marcia Clark</writer>
+		<writer> Elizabeth Craft</writer>
+		<writer> Elizabeth Craft</writer>
+		<writer> Elizabeth Craft</writer>
+		<writer> Elizabeth Craft</writer>
+		<writer> Sarah Fain</writer>
+		<writer> Sarah Fain</writer>
+		<writer> Sarah Fain</writer>
+		<writer> Sarah Fain</writer>
+		<writer> Denise Hahn</writer>
+		<writer> Catherine LePard</writer>
+		<writer> Wendy Mericle</writer>
+		<writer> Corey Miller</writer>
+		<writer> Jerome Schwartz</writer>
+		<writer> Ola Shokunbi</writer>
+		<writer> Brook Sitgraves Turner</writer>
+	</writers>
+	<editors>
+		<editor> Brad Katz</editor>
+		<editor> Kurt Courtland</editor>
+		<editor> Jan Northrop</editor>
+		<editor> Julia Franklin</editor>
+		<editor> Roy C. Poole</editor>
+	</editors>
+</doc>

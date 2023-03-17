@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<doc id="tt9058654">
+	<docid>tt9058654</docid>
+	<title>Dinner in America</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmY3YWNmNjQtMjY4MS00ZTcxLTlkN2ItNmI3YTMyMDk1MmRlXkEyXkFqcGdeQXVyMTI1ODEzMzgy._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Music</genre>
+	</genres>
+	<plot>An on-the-lam punk rocker and a young woman obsessed with his band unexpectedly fall in love and go on an epic journey together through America's decaying Midwestern suburbs.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kyle Gallner</actor>
+			<role>Simon</role>
+		</credit>
+		<credit>
+			<actor>Yancey Fuqua</actor>
+			<role>Male Nurse</role>
+		</credit>
+		<credit>
+			<actor>Jennifer Kincer</actor>
+			<role>Female Nurse</role>
+		</credit>
+		<credit>
+			<actor>Hannah Marks</actor>
+			<role>Beth</role>
+		</credit>
+		<credit>
+			<actor>Ricky Wayne</actor>
+			<role>Dr. Joy</role>
+		</credit>
+		<credit>
+			<actor>Lea Thompson</actor>
+			<role>Betty</role>
+		</credit>
+		<credit>
+			<actor>Nick Chinlund</actor>
+			<role>Bill</role>
+		</credit>
+		<credit>
+			<actor>Sean Rogers</actor>
+			<role>Bobby</role>
+		</credit>
+		<credit>
+			<actor>Emily Skeggs</actor>
+			<role>Patty</role>
+		</credit>
+		<credit>
+			<actor>Nico Greetham</actor>
+			<role>Derrick</role>
+		</credit>
+		<credit>
+			<actor>Lukas Jacob</actor>
+			<role>Brandon</role>
+		</credit>
+		<credit>
+			<actor>Sidi Henderson</actor>
+			<role>Mr. Hanley</role>
+		</credit>
+		<credit>
+			<actor>Robert Skrok</actor>
+			<role>Man in Alley</role>
+		</credit>
+		<credit>
+			<actor>Lena Drake</actor>
+			<role>Gina</role>
+		</credit>
+		<credit>
+			<actor>Shelby Alayne Antel</actor>
+			<role>Nikki</role>
+		</credit>
+		<credit>
+			<actor>Mary Lynn Rajskub</actor>
+			<role>Connie</role>
+		</credit>
+		<credit>
+			<actor>Pat Healy</actor>
+			<role>Norm</role>
+		</credit>
+		<credit>
+			<actor>Griffin Gluck</actor>
+			<role>Kevin</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 24 2020</releasedate>
+		<releasedate country="United States">April 28 2020</releasedate>
+		<releasedate country="United States">June 18 2020</releasedate>
+		<releasedate country="Canada">June 22 2020</releasedate>
+		<releasedate country="Switzerland">July 9 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Japan">PG-12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>love</keyword>
+	</keywords>
+	<directors>
+		<director> Adam Rehmeier</director>
+	</directors>
+	<composers>
+		<composer> John Swihart</composer>
+	</composers>
+	<producers>
+		<producer> Bull Blumenthal</producer>
+		<producer> Stephen Braun</producer>
+		<producer> Brett Brewer</producer>
+		<producer> Scott Carmel</producer>
+		<producer> John Covert</producer>
+		<producer> Michael Dunaway</producer>
+		<producer> Eric B. Fleischman</producer>
+		<producer> Jorge Garcia Castro</producer>
+		<producer> Lauren Hantz</producer>
+		<producer> Karl Herrmann</producer>
+		<producer> David Hunter</producer>
+		<producer> Robert Kravis</producer>
+		<producer> Brandon Lichtenstein</producer>
+		<producer> Hannah Marks</producer>
+		<producer> Duncan Montgomery</producer>
+		<producer> Lucy Moroukian</producer>
+		<producer> Sean King O'Grady</producer>
+		<producer> Ross Putman</producer>
+		<producer> Haroon Saleem</producer>
+		<producer> Kerem Sanga</producer>
+		<producer> Michael Segal</producer>
+		<producer> Jack Selby</producer>
+		<producer> Sam Slater</producer>
+		<producer> Bill Stertz</producer>
+		<producer> Ben Stiller</producer>
+		<producer> Greta Villigran</producer>
+		<producer> Marcus Villigran</producer>
+		<producer> Katherine Waddell</producer>
+		<producer> Nicholas Weinstock</producer>
+		<producer> Monte Zajicek</producer>
+	</producers>
+	<writers>
+		<writer> Adam Rehmeier</writer>
+	</writers>
+	<editors>
+		<editor> Adam Rehmeier</editor>
+	</editors>
+</doc>

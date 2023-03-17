@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<doc id="tt10784044">
+	<docid>tt10784044</docid>
+	<title>BD Scream 5</title>
+	<image>https://m.media-amazon.com/images/M/MV5BN2ViNDM1ZTYtMTE3Yy00OTQ0LWJhMTktZDhjYWMwYWE4ZmRjXkEyXkFqcGdeQXVyNTA3MTU4MA@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">32</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Add a Plot</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Levi Balla</actor>
+			<role>Lee Flick</role>
+		</credit>
+		<credit>
+			<actor>David Beal</actor>
+			<role>Jamie Cross</role>
+		</credit>
+		<credit>
+			<actor>Patrick Bradbury</actor>
+			<role>Wayne Barran</role>
+		</credit>
+		<credit>
+			<actor>Jordan Mcintosh</actor>
+			<role>Craig Newman</role>
+		</credit>
+		<credit>
+			<actor>Alex Murphy</actor>
+			<role>Brian Flick</role>
+		</credit>
+		<credit>
+			<actor>Shahzaib Yaqoob</actor>
+			<role>Kevin Johnson</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">November 17 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Shahzaib Yaqoob</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Shahzaib Yaqoob</producer>
+	</producers>
+	<writers>
+		<writer> Shahzaib Yaqoob</writer>
+	</writers>
+	<editors>
+		<editor> Shahzaib Yaqoob</editor>
+	</editors>
+</doc>

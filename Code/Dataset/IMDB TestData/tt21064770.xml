@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<doc id="tt21064770">
+	<docid>tt21064770</docid>
+	<title>Rick and Morty: C-132</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDkxMTRmNDAtMzdlNy00N2M5LThmYWItYWY0NWFlMWU4MTBiXkEyXkFqcGdeQXVyMzAzMTU0NA@@._V1_QL75_UY281_CR19,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">1</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Live action Rick and Morty</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Christopher Lloyd</actor>
+			<role>Rick Sanchez</role>
+		</credit>
+		<credit>
+			<actor>Jaeden Martell</actor>
+			<role>Morty Smith</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">September 3 2021</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Paul B. Cummings</director>
+	</directors>
+	<composers>
+		<composer> Marc Orrell</composer>
+	</composers>
+	<producers>
+		<producer> Matthew Marenyi</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Paul B. Cummings</editor>
+	</editors>
+</doc>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<doc id="tt5773402">
+	<docid>tt5773402</docid>
+	<title>Dominion</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Dominion uses drones, hidden and handheld cameras to expose the dark underbelly of modern animal agriculture, questioning the morality and validity of humankind's dominion over the animal kingdom.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Joaquin Phoenix</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Rooney Mara</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Sia</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Sadie Sink</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Katherine von Drachenberg</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Chris Delforce</actor>
+			<role>Narrator</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Australia">March 29 2018</releasedate>
+		<releasedate country="Brazil">June 10 2018</releasedate>
+		<releasedate country="United Kingdom">June 16 2018</releasedate>
+		<releasedate country="United States">June 30 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>farm</keyword>
+		<keyword>ethics</keyword>
+		<keyword>philosophy</keyword>
+		<keyword>animal</keyword>
+		<keyword>pig</keyword>
+		<keyword>cow</keyword>
+		<keyword>chicken</keyword>
+		<keyword>fish</keyword>
+		<keyword>clothes</keyword>
+		<keyword>medicine</keyword>
+		<keyword>animal abuse</keyword>
+		<keyword>capitalism</keyword>
+		<keyword>animal cruelty</keyword>
+		<keyword>vegetarianism</keyword>
+		<keyword>veganism</keyword>
+		<keyword>environmentalism</keyword>
+	</keywords>
+	<directors>
+		<director> Chris Delforce</director>
+	</directors>
+	<composers>
+		<composer> Asher Pope</composer>
+	</composers>
+	<producers>
+		<producer> Gary Ash</producer>
+		<producer> Chris Delforce</producer>
+		<producer> David Hearne</producer>
+		<producer> Lissy Jayne</producer>
+		<producer> Sharyn Jones</producer>
+		<producer> Dale Kerr</producer>
+		<producer> Richard Lascelles</producer>
+		<producer> Kristin Leigh</producer>
+		<producer> Rosie Linich</producer>
+		<producer> Karin Lister</producer>
+		<producer> Matthew Lynch</producer>
+		<producer> Fiona Mcrostie</producer>
+		<producer> Shaun Monson</producer>
+		<producer> Mark Nestor</producer>
+		<producer> Leah Paschali</producer>
+		<producer> Tamasin Ramsay</producer>
+		<producer> Joshua Rogan</producer>
+		<producer> Sharon Stuart</producer>
+		<producer> Linzi Wilkinson</producer>
+	</producers>
+	<writers>
+		<writer> Chris Delforce</writer>
+	</writers>
+	<editors>
+		<editor> Chris Delforce</editor>
+	</editors>
+</doc>

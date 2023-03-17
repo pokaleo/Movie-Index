@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<doc id="tt11284280">
+	<docid>tt11284280</docid>
+	<title>Cadaver</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWU0MzQwNjMtZGRiMC00M2UzLWE1YmItMWU3M2E0NmNkMDQ2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">86</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>In the starving aftermath of a nuclear disaster, a family of three attends a charitable event at a hotel, which takes a dark turn when people start to disappear.</plot>
+	<countries>
+		<country>Norway</country>
+	</countries>
+	<languages>
+		<language>Norwegian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Thorbjørn Harr</actor>
+			<role>Mathias</role>
+		</credit>
+		<credit>
+			<actor>Jonatan Rodriguez</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Thomas Gullestad</actor>
+			<role>Jacob</role>
+		</credit>
+		<credit>
+			<actor>Maria Grazia Di Meo</actor>
+			<role>Kathrine</role>
+		</credit>
+		<credit>
+			<actor>Kingsford Siayor</actor>
+			<role>Lars</role>
+		</credit>
+		<credit>
+			<actor>Gitte Witt</actor>
+			<role>Leonora</role>
+		</credit>
+		<credit>
+			<actor>Helge Jordal</actor>
+			<role>Ticketer</role>
+		</credit>
+		<credit>
+			<actor>Trine Wiggen</actor>
+			<role>Rakel</role>
+		</credit>
+		<credit>
+			<actor>Gjermund Gjesme</actor>
+			<role>Jens</role>
+		</credit>
+		<credit>
+			<actor>Tuva Olivia Remman</actor>
+			<role>Alice</role>
+		</credit>
+		<credit>
+			<actor>Hege Åsvang</actor>
+			<role>Kvinnen i gangen</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">October 20 2020</releasedate>
+		<releasedate country="United Arab Emirates">October 22 2020</releasedate>
+		<releasedate country="Argentina">October 22 2020</releasedate>
+		<releasedate country="Australia">October 22 2020</releasedate>
+		<releasedate country="Brazil">October 22 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Chile">16+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Japan">R18+</certificate>
+		<certificate country="Mexico">TV-MA</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>corpse</keyword>
+		<keyword>fight</keyword>
+		<keyword>girl</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>post apocalypse</keyword>
+		<keyword>theater</keyword>
+	</keywords>
+	<directors>
+		<director> Jarand Herdal</director>
+	</directors>
+	<composers>
+		<composer> Jonathan Sigsworth</composer>
+	</composers>
+	<producers>
+		<producer> Pavel Bercík</producer>
+		<producer> Espen Horn</producer>
+		<producer> Jenny Victoria Jærn</producer>
+		<producer> Jan Kallista</producer>
+		<producer> Tim King</producer>
+		<producer> Kim Magnusson</producer>
+		<producer> Veronica Natvig</producer>
+		<producer> Jan Rehorka</producer>
+		<producer> Espen Sandberg</producer>
+		<producer> Kristian Strand Sinkerud</producer>
+		<producer> Harald Zwart</producer>
+		<producer> Veslemoey Ruud Zwart</producer>
+	</producers>
+	<writers>
+		<writer> Jarand Herdal</writer>
+	</writers>
+	<editors>
+		<editor> Jens Peder Hertzberg</editor>
+	</editors>
+</doc>

@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc id="tt14757872">
+	<docid>tt14757872</docid>
+	<title>Midnight</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWVmZWQ5ZmItZjc2OC00MTFhLWI4OTEtNWY3MDg0OWY3YTJjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">103</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Wi Ha-joon</actor>
+			<role>Do Shik</role>
+		</credit>
+		<credit>
+			<actor>Park Hoon</actor>
+			<role>Jong Tak So Jung's older brother</role>
+		</credit>
+		<credit>
+			<actor>Ki-joo Jin</actor>
+			<role>Kyung Mi</role>
+		</credit>
+		<credit>
+			<actor>Kim Hye-yoon</actor>
+			<role>So Jung</role>
+		</credit>
+		<credit>
+			<actor>Eun-Woo Bae</actor>
+			<role>Police</role>
+		</credit>
+		<credit>
+			<actor>Min-woo Choi</actor>
+			<role>Office worker</role>
+		</credit>
+		<credit>
+			<actor>Oh Ji-Young</actor>
+			<role>Jin Sang Nyeo [Call Center]</role>
+		</credit>
+		<credit>
+			<actor>Won-Chang Jung</actor>
+			<role>Police 3</role>
+		</credit>
+		<credit>
+			<actor>Hae-yeon Kil</actor>
+			<role>Kyung Mi's mother</role>
+		</credit>
+		<credit>
+			<actor>Im Sung Mi</actor>
+			<role>Industrial complex woman</role>
+		</credit>
+		<credit>
+			<actor>Noh Su Min</actor>
+			<role>Couple man</role>
+		</credit>
+		<credit>
+			<actor>Na Eun Saem</actor>
+			<role>Couple woman</role>
+		</credit>
+		<credit>
+			<actor>Lee Sang-hee</actor>
+			<role>Drunk</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">June 30 2021</releasedate>
+		<releasedate country="Singapore">August 1 2021</releasedate>
+		<releasedate country="United States">August 7 2021</releasedate>
+		<releasedate country="Canada">August 22 2021</releasedate>
+		<releasedate country="Philippines">September 18 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">UA 13+</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Thailand">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>serial killer</keyword>
+		<keyword>deaf</keyword>
+		<keyword>disability</keyword>
+		<keyword>chase</keyword>
+	</keywords>
+	<directors>
+		<director> Oh-Seung Kwon</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Hyun-woo Kim</producer>
+	</producers>
+	<writers>
+		<writer> Oh-Seung Kwon</writer>
+	</writers>
+	<editors>
+		<editor> Gang-hee Lee</editor>
+	</editors>
+</doc>

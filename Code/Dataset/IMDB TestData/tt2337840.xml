@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt2337840">
+	<docid>tt2337840</docid>
+	<title>Bad Education</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTI2YzE2NzktZmE2OS00YjU2LTk4M2YtMjEzOTYzNTAzZTFjXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2012</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Comedy series about a teacher who is a bigger kid than the kids he teaches.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Layton Williams</actor>
+			<role>Stephen Carmichael</role>
+		</credit>
+		<credit>
+			<actor>Mathew Horne</actor>
+			<role>Shaquille Fraser</role>
+		</credit>
+		<credit>
+			<actor>Charlie Wernham</actor>
+			<role>Mitchell Harper</role>
+		</credit>
+		<credit>
+			<actor>Jack Binstead</actor>
+			<role>Leslie 'Rem Dogg' Remmington</role>
+		</credit>
+		<credit>
+			<actor>Ethan Lawrence</actor>
+			<role>Joe Poulter</role>
+		</credit>
+		<credit>
+			<actor>Nikki Runeckles</actor>
+			<role>Chantelle Parsons</role>
+		</credit>
+		<credit>
+			<actor>Sarah Solemani</actor>
+			<role>Rosie Gulliver</role>
+		</credit>
+		<credit>
+			<actor>Jack Whitehall</actor>
+			<role>Alfie Wickers</role>
+		</credit>
+		<credit>
+			<actor>Kae Alexander</actor>
+			<role>Jing Hua</role>
+		</credit>
+		<credit>
+			<actor>Jack Bence</actor>
+			<role>Frank Grayson</role>
+		</credit>
+		<credit>
+			<actor>Michelle Gomez</actor>
+			<role>Pickwell</role>
+		</credit>
+		<credit>
+			<actor>Harry Enfield</actor>
+			<role>Martin Wickers</role>
+		</credit>
+		<credit>
+			<actor>Weruche Opia</actor>
+			<role>Cleopatra 'Cleo' Ofoedo</role>
+		</credit>
+		<credit>
+			<actor>Leila Hoffman</actor>
+			<role>Olive Mollison</role>
+		</credit>
+		<credit>
+			<actor>Asha Hassan</actor>
+			<role>Usma</role>
+		</credit>
+		<credit>
+			<actor>Laura Marcus</actor>
+			<role>Jinx</role>
+		</credit>
+		<credit>
+			<actor>Anthony J. Abraham</actor>
+			<role>Inchez</role>
+		</credit>
+		<credit>
+			<actor>Francesca Amewudah-Rivers</actor>
+			<role>Blessing</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">August 14 2012</releasedate>
+		<releasedate country="United Kingdom">August 14 2012</releasedate>
+		<releasedate country="Hungary">August 27 2013</releasedate>
+		<releasedate country="Australia">January 2 2014</releasedate>
+		<releasedate country="Canada">December 15 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>teacher as protagonist</keyword>
+		<keyword>teacher</keyword>
+	</keywords>
+	<directors>
+		<director> Elliot Hegarty</director>
+		<director> Freddy Syborn</director>
+		<director> Ben Gosling Fuller</director>
+		<director> Al Campbell</director>
+	</directors>
+	<composers>
+		<composer> Felix Hagan</composer>
+	</composers>
+	<producers>
+		<producer> Pippa Brown</producer>
+		<producer> Paula Munro</producer>
+		<producer> Philippa Catt</producer>
+		<producer> Ben Cavey</producer>
+		<producer> Jack Whitehall</producer>
+		<producer> Chris Sussman</producer>
+		<producer> Freddy Syborn</producer>
+		<producer> Cat Fox</producer>
+		<producer> Arnold Widdowson</producer>
+		<producer> Rachel Alabaster</producer>
+		<producer> Sophie Clarke-Jervoise</producer>
+		<producer> Richard Ackerman</producer>
+		<producer> Saima Ferdows</producer>
+		<producer> Ingrid Litman</producer>
+		<producer> Tanya Qureshi</producer>
+	</producers>
+	<writers>
+		<writer> Ciaran Bartlett</writer>
+		<writer> Nathan Bryon</writer>
+		<writer> Ben Cavey</writer>
+		<writer> Felix Hagan</writer>
+		<writer> Priya Hall</writer>
+		<writer> Leila Navabi</writer>
+		<writer> Shaun Pye</writer>
+		<writer> Dan Swimer</writer>
+		<writer> Dan Swimer</writer>
+		<writer> Freddy Syborn</writer>
+		<writer> Freddy Syborn</writer>
+		<writer> Freddy Syborn</writer>
+		<writer> Freddy Syborn</writer>
+		<writer> Rhys Taylor</writer>
+		<writer> Jack Whitehall</writer>
+		<writer> Jack Whitehall</writer>
+		<writer> Jack Whitehall</writer>
+		<writer> Layton Williams</writer>
+		<writer> Layton Williams</writer>
+	</writers>
+	<editors>
+		<editor> Peter Oliver</editor>
+		<editor> Christopher C.F. Chow</editor>
+		<editor> Ben Blaine</editor>
+		<editor> Chris Blaine</editor>
+		<editor> Mike Holliday</editor>
+		<editor> Jason Boxall</editor>
+		<editor> Amy Swan</editor>
+	</editors>
+</doc>

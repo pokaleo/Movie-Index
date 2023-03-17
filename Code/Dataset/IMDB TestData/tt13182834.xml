@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<doc id="tt13182834">
+	<docid>tt13182834</docid>
+	<title>Confession</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzc3MDc4ZjEtNDNmZi00M2Q5LTllZDktNzEzZDRmYTk4OTQ3XkEyXkFqcGdeQXVyMDM1MzY1Mg@@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">105</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A story about a man who has been pointed out as the culprit of a locked-room murder and his lawyer approaching the truth.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>So Ji-seob</actor>
+			<role>Yoo Min-ho</role>
+		</credit>
+		<credit>
+			<actor>Yunjin Kim</actor>
+			<role>Yang Shin-ae</role>
+		</credit>
+		<credit>
+			<actor>Jin-Ah Im</actor>
+			<role>Kim Se-hee</role>
+		</credit>
+		<credit>
+			<actor>Kwang-il Choi</actor>
+			<role>Han Young-seok</role>
+		</credit>
+		<credit>
+			<actor>Sun-Hee Hwang</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">March 20 2022</releasedate>
+		<releasedate country="Italy">April 30 2022</releasedate>
+		<releasedate country="France">October 26 2022</releasedate>
+		<releasedate country="South Korea">October 26 2022</releasedate>
+		<releasedate country="Spain">October 28 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Indonesia">17+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Taiwan">6+</certificate>
+		<certificate country="Thailand">u 15+</certificate>
+		<certificate country="Vietnam">C16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>locked room mystery</keyword>
+		<keyword>korean remake</keyword>
+		<keyword>south korean remake</keyword>
+		<keyword>remake of spanish film</keyword>
+		<keyword>whodunnit mystery</keyword>
+	</keywords>
+	<directors>
+		<director> Jong-seok Yoon</director>
+	</directors>
+	<composers>
+		<composer> Mowg</composer>
+	</composers>
+	<producers/>
+	<writers/>
+	<editors/>
+</doc>

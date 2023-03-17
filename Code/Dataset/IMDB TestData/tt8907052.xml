@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<doc id="tt8907052">
+	<docid>tt8907052</docid>
+	<title>Wuthering Heights</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDBkOTZiMTYtZDVhMS00MDU3LWE1MzYtODQ3ODM3MDBiYzZlXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">150</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Emily Bronte's classic tale of undying love and tormented passion.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Bryan Ferriter</actor>
+			<role>Heathcliff</role>
+		</credit>
+		<credit>
+			<actor>Ryan Pfeiffer</actor>
+			<role>Hindley Earnshaw</role>
+		</credit>
+		<credit>
+			<actor>Jet Jandreau</actor>
+			<role>Cathy Earnshaw</role>
+		</credit>
+		<credit>
+			<actor>Mary Riitano</actor>
+			<role>Nelly Dean</role>
+		</credit>
+		<credit>
+			<actor>Nathan Mills</actor>
+			<role>Edgar Linton</role>
+		</credit>
+		<credit>
+			<actor>Bella DeLong</actor>
+			<role>Catherine Linton</role>
+		</credit>
+		<credit>
+			<actor>Troy Guthrie</actor>
+			<role>Hareton Earnshaw</role>
+		</credit>
+		<credit>
+			<actor>Brock Forrette</actor>
+			<role>Lockwood</role>
+		</credit>
+		<credit>
+			<actor>Chris Korrow</actor>
+			<role>Joseph</role>
+		</credit>
+		<credit>
+			<actor>Kim DeLong</actor>
+			<role>Earnshaw</role>
+		</credit>
+		<credit>
+			<actor>Nina Belforte</actor>
+			<role>Isabella Linton</role>
+		</credit>
+		<credit>
+			<actor>Declan Rous</actor>
+			<role>Young Edgar Linton</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 1 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>love</keyword>
+	</keywords>
+	<directors>
+		<director> Bryan Ferriter</director>
+	</directors>
+	<composers>
+		<composer> Michael Klubertanz</composer>
+	</composers>
+	<producers>
+		<producer> Bryan Ferriter</producer>
+		<producer> Quincey Kuiava</producer>
+		<producer> Ryan Pfeiffer</producer>
+		<producer> Mary Riitano</producer>
+		<producer> J. Owen Rogers</producer>
+	</producers>
+	<writers>
+		<writer> Jordyn Auvil</writer>
+		<writer> Emily Brontë</writer>
+	</writers>
+	<editors>
+		<editor> Bryan Ferriter</editor>
+	</editors>
+</doc>

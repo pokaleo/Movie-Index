@@ -1,0 +1,306 @@
+<?xml version="1.0" ?>
+<doc id="tt4305162">
+	<docid>tt4305162</docid>
+	<title>Expedition Unknown</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTdiMTJhMzMtOGE3ZS00MjkyLTkyOGMtYTgzZDRjM2ZkZDM0XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Mystery</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>An archeologist travels around the world looking for unknown and missing artifacts from throughout time.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Josh Gates</actor>
+			<role>Self - Host</role>
+		</credit>
+		<credit>
+			<actor>Evan B. Stone</actor>
+			<role>Self - Director of Photography</role>
+		</credit>
+		<credit>
+			<actor>Brian C. Weed</actor>
+			<role>Self - Director of Photography</role>
+		</credit>
+		<credit>
+			<actor>Jessica Chobot</actor>
+			<role>Self - Expedition X Investigator</role>
+		</credit>
+		<credit>
+			<actor>Phil Torres</actor>
+			<role>Self - Expedition X Investigator</role>
+		</credit>
+		<credit>
+			<actor>Oren Gutfeld</actor>
+			<role>Self - Hebrew University of Jerusalem</role>
+		</credit>
+		<credit>
+			<actor>Mostafa Waziri</actor>
+			<role>Self - Secretary General, Supreme Council of Antiquities</role>
+		</credit>
+		<credit>
+			<actor>Robert Leonard</actor>
+			<role>Self - Terra Exploration Group</role>
+		</credit>
+		<credit>
+			<actor>Richard Hansen</actor>
+			<role>Self - Director, El Mirador Basin Project</role>
+		</credit>
+		<credit>
+			<actor>Valerie Van Heest</actor>
+			<role>Self - Author &amp; Investigator</role>
+		</credit>
+		<credit>
+			<actor>Nathaniel Pearson</actor>
+			<role>Self - Geneticist</role>
+		</credit>
+		<credit>
+			<actor>Thomas Quinn</actor>
+			<role>Self - Story Producer</role>
+		</credit>
+		<credit>
+			<actor>Andrew Abrams</actor>
+			<role>Self - Treasure Hunter</role>
+		</credit>
+		<credit>
+			<actor>Bob Leonard</actor>
+			<role>Self - Terra Exploration Group</role>
+		</credit>
+		<credit>
+			<actor>Dave Phillips</actor>
+			<role>Self - ROV Pilot</role>
+		</credit>
+		<credit>
+			<actor>Aidan Dodson</actor>
+			<role>Self - Egyptologist</role>
+		</credit>
+		<credit>
+			<actor>Bradley Williamson</actor>
+			<role>Self - Treasure Hunter</role>
+		</credit>
+		<credit>
+			<actor>Richard Bates</actor>
+			<role>Self - Geophysicist</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">January 8 2015</releasedate>
+		<releasedate country="Germany">September 10 2015</releasedate>
+		<releasedate country="Brazil">September 6 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Norway">A</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>travel reality tv</keyword>
+		<keyword>archaeologist</keyword>
+	</keywords>
+	<directors>
+		<director> Brea Tisdale Brumels</director>
+		<director> Douglas Segal</director>
+		<director> Steve Beim</director>
+		<director> Lee Farber</director>
+	</directors>
+	<composers>
+		<composer> Larry Hopkins</composer>
+		<composer> Andrew Pearce</composer>
+		<composer> Ozzy Doniz</composer>
+	</composers>
+	<producers>
+		<producer> Casey Brumels</producer>
+		<producer> Josh Gates</producer>
+		<producer> Brad Kuhlman</producer>
+		<producer> Chris Horangic</producer>
+		<producer> Brea Tisdale Brumels</producer>
+		<producer> Joe James</producer>
+		<producer> Matthew Meltzer</producer>
+		<producer> Aaron Schoonhoven</producer>
+		<producer> Michael Gara</producer>
+		<producer> Daniel A. Schwartz</producer>
+		<producer> Shawn Michaels</producer>
+		<producer> Tracy Johnson</producer>
+		<producer> Greg Bardsley</producer>
+		<producer> Jennifer Sheeran</producer>
+		<producer> Olivia Ghersen</producer>
+		<producer> Amanda Marks</producer>
+		<producer> Emilie Dumay</producer>
+		<producer> Roger Roddy</producer>
+		<producer> Thomas Quinn</producer>
+		<producer> Cassie D'Agostino</producer>
+		<producer> Alex Velasco</producer>
+		<producer> Kelsey Carter</producer>
+		<producer> Cameron Doyle</producer>
+		<producer> Emily Krakowski</producer>
+		<producer> Waydell Walker</producer>
+		<producer> Beata Ziel</producer>
+		<producer> Jim Eckels</producer>
+		<producer> Luke Wanagel</producer>
+		<producer> Debbie Appel</producer>
+		<producer> Robert Vanover</producer>
+		<producer> James Lockard</producer>
+		<producer> Griffin Kenemer</producer>
+		<producer> Morgan Williams</producer>
+		<producer> Jack Palermo</producer>
+		<producer> Brette Ragland</producer>
+		<producer> Billy Johnson</producer>
+		<producer> Alex Byrnes</producer>
+		<producer> Melissa Pawneshing</producer>
+		<producer> Natalie Hewson</producer>
+		<producer> Matt Hill</producer>
+		<producer> Emmanuel E. Martinez</producer>
+		<producer> Coll Metcalf</producer>
+		<producer> Bill Howard</producer>
+		<producer> Kathleen Magee</producer>
+		<producer> David Story</producer>
+		<producer> Brett O'Bourke</producer>
+		<producer> Shannon Green</producer>
+		<producer> Anais Gude</producer>
+		<producer> John Fitzpatrick III</producer>
+		<producer> Denise Poon</producer>
+		<producer> Hannah Brown</producer>
+		<producer> Taylor Van Byssum</producer>
+		<producer> Robin Acutt</producer>
+		<producer> Sean Giffin</producer>
+		<producer> Mitch Marcus</producer>
+		<producer> Ryan Biegel</producer>
+		<producer> Lisa Lumar</producer>
+		<producer> Nicole Vinnola</producer>
+		<producer> Jack Walworth</producer>
+		<producer> Olivia Curtis</producer>
+		<producer> Dave Duce</producer>
+		<producer> Brandon Fibbs</producer>
+		<producer> Brooke Ballard</producer>
+		<producer> Allison Moulton</producer>
+		<producer> John Morning</producer>
+		<producer> Magdy Rashidy</producer>
+		<producer> India Whatley</producer>
+		<producer> Nicole Gormley</producer>
+		<producer> Beth Meberg</producer>
+		<producer> Brittany Graham</producer>
+		<producer> Steve Hoffmann</producer>
+		<producer> Oliver Krüger</producer>
+		<producer> Amber Seyler</producer>
+		<producer> B. Rain Bennett</producer>
+		<producer> Giselle Parets</producer>
+		<producer> Michael Eassa</producer>
+		<producer> Cameron Reed</producer>
+		<producer> Annelise Baer</producer>
+		<producer> Rene Blanco</producer>
+		<producer> Claudia Tovar</producer>
+		<producer> Lauren Taylor</producer>
+		<producer> Shorouk El Attar</producer>
+		<producer> Lowell Goodman</producer>
+		<producer> Denise Irwin</producer>
+		<producer> Geraldine Geraghty</producer>
+		<producer> Sean Mantooth</producer>
+		<producer> Constantin Traian Preda</producer>
+		<producer> Kate Simerly</producer>
+		<producer> Robert Kirbyson</producer>
+		<producer> Ashley Adelman</producer>
+		<producer> Karol Escobar</producer>
+		<producer> Andrew Wollman</producer>
+		<producer> Andrew Lipson</producer>
+		<producer> Todor Nikolov</producer>
+		<producer> Sharon Schaveet</producer>
+		<producer> Douglas Segal</producer>
+		<producer> Andy Singer</producer>
+		<producer> Stanislav Solovkin</producer>
+		<producer> Krasi Vankov</producer>
+		<producer> Liz Wagner</producer>
+		<producer> Caylie Dunnam</producer>
+		<producer> Mark Marinaccio</producer>
+		<producer> Secil Avunya</producer>
+		<producer> Julian Bungate</producer>
+		<producer> Bruno Canale</producer>
+		<producer> Tuba Guvelioglu</producer>
+		<producer> Carolina Pacheco</producer>
+		<producer> Rich Alindogan</producer>
+		<producer> Candice Allgood</producer>
+		<producer> David M. Barsky</producer>
+		<producer> Harriet Ells</producer>
+		<producer> Hassan Elzawy</producer>
+		<producer> Heeth Grantham</producer>
+		<producer> Phillip Heeth Grantham</producer>
+		<producer> Leslie Greif</producer>
+		<producer> Jason Hollander</producer>
+		<producer> Peter Isacksen</producer>
+		<producer> Paul Koehorst</producer>
+		<producer> Neil Laird</producer>
+		<producer> Derek Owen</producer>
+		<producer> Suzanne Rauscher</producer>
+		<producer> Tony Sam</producer>
+		<producer> Joseph Schneier</producer>
+		<producer> Jason Sklaver</producer>
+		<producer> Howard B. Swartz</producer>
+		<producer> Sandy Varo Jarrell</producer>
+		<producer> Lars von Lennep</producer>
+		<producer> Hugh Daly</producer>
+		<producer> Catie Bellinger</producer>
+		<producer> Heidi Burkey</producer>
+		<producer> Brian Coughlin</producer>
+		<producer> Chris Saucedo</producer>
+	</producers>
+	<writers>
+		<writer> Thomas Quinn</writer>
+		<writer> Thomas Quinn</writer>
+		<writer> Douglas Segal</writer>
+	</writers>
+	<editors>
+		<editor> Marc Femenella</editor>
+		<editor> Alberto Mendez</editor>
+		<editor> Bryan M. Horne</editor>
+		<editor> Dustin Peterson</editor>
+		<editor> Robert Claridge</editor>
+		<editor> Jesse Wright</editor>
+		<editor> Brian Sandidge</editor>
+		<editor> Alpesh Patel</editor>
+		<editor> William Kiss</editor>
+		<editor> Jeffrey Williams</editor>
+		<editor> Harris Cohen</editor>
+		<editor> Jonathan Fischer</editor>
+		<editor> Nik Jamgocyan</editor>
+		<editor> Brian Miano</editor>
+		<editor> Richie Carvill</editor>
+		<editor> Vince Bruzzese</editor>
+		<editor> Shawn Chou</editor>
+		<editor> Folmer Wiesinger</editor>
+		<editor> Paolo Cascardo</editor>
+		<editor> Nick Gibbs</editor>
+		<editor> Christian Hunt</editor>
+		<editor> Angus Spottiswoode</editor>
+		<editor> Tony Pellegrino</editor>
+		<editor> Steven Santos</editor>
+		<editor> Chris Collins</editor>
+		<editor> Lindsay Ljungkull</editor>
+		<editor> Zachary Isenberg</editor>
+		<editor> Brian Avenet-Bradley</editor>
+		<editor> Bill Marin</editor>
+		<editor> Vadia Potenza</editor>
+		<editor> Ron Romberger</editor>
+		<editor> Lou LaProcido</editor>
+		<editor> Rod Chew</editor>
+		<editor> Nathan Novero</editor>
+		<editor> Scott Simmons</editor>
+		<editor> Jeff Tober</editor>
+		<editor> Greg Myers</editor>
+		<editor> Michael Armes</editor>
+		<editor> Nicholas Caramonta</editor>
+		<editor> Ben Simoff</editor>
+	</editors>
+</doc>

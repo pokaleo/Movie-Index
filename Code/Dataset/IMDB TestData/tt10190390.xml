@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<doc id="tt10190390">
+	<docid>tt10190390</docid>
+	<title>Whelm</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjk2NDQ1ZjMtMWJmOC00ZjgyLTgyNDktNDBmM2ZlZDhmZTJkXkEyXkFqcGdeQXVyMjI2MjQzNjE@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">114</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Set during the Great Depression, two Midwest brothers get tangled in a rivalry between a legendary bank robber and an eccentric young criminal.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Francesca Anderson</actor>
+			<role>Edie</role>
+		</credit>
+		<credit>
+			<actor>Delil Baran</actor>
+			<role>Alexander Aleksy</role>
+		</credit>
+		<credit>
+			<actor>Ronan Colfer</actor>
+			<role>August</role>
+		</credit>
+		<credit>
+			<actor>Jacob Eaton</actor>
+			<role>Alden Brooks</role>
+		</credit>
+		<credit>
+			<actor>Dylan Grunn</actor>
+			<role>Reed</role>
+		</credit>
+		<credit>
+			<actor>Mark Hoover</actor>
+			<role>Jonas</role>
+		</credit>
+		<credit>
+			<actor>Jeff Lawson</actor>
+			<role>Gang member</role>
+		</credit>
+		<credit>
+			<actor>Natalie Lawson</actor>
+			<role>Dancer</role>
+		</credit>
+		<credit>
+			<actor>Al Schumacher</actor>
+			<role>Gang member</role>
+		</credit>
+		<credit>
+			<actor>Grant Schumacher</actor>
+			<role>Jimmy</role>
+		</credit>
+		<credit>
+			<actor>Brandie Thomas</actor>
+			<role>Dancer</role>
+		</credit>
+		<credit>
+			<actor>Josh Unger</actor>
+			<role>Gang member</role>
+		</credit>
+		<credit>
+			<actor>Lindy Unger</actor>
+			<role>Mackley</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 13 2019</releasedate>
+		<releasedate country="United States">September 11 2020</releasedate>
+		<releasedate country="United States">August 3 2021</releasedate>
+		<releasedate country="United States">August 13 2021</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>rivalry</keyword>
+	</keywords>
+	<directors>
+		<director> Skyler Lawson</director>
+	</directors>
+	<composers>
+		<composer> Chris Dudley</composer>
+	</composers>
+	<producers>
+		<producer> Edward Herrera</producer>
+		<producer> Noelle Hubbell</producer>
+		<producer> Skyler Lawson</producer>
+		<producer> Charles Nordeen</producer>
+		<producer> John Rizzo</producer>
+	</producers>
+	<writers>
+		<writer> Skyler Lawson</writer>
+	</writers>
+	<editors>
+		<editor> Skyler Lawson</editor>
+	</editors>
+</doc>

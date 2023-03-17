@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<doc id="tt15040500">
+	<docid>tt15040500</docid>
+	<title>Jane</title>
+	<image/>
+	<year>I 2022</year>
+	<runningtimes>
+		<runningtime country="default">83</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Olivia is a young woman who gets deferred from her dream college and experiences frightening panic attacks. In an attempt to regain some sense of control, she embarks on a social media-fueled rampage against those that stand in her way.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Madelaine Petsch</actor>
+			<role>Olivia</role>
+		</credit>
+		<credit>
+			<actor>Melissa Leo</actor>
+			<role>Principal Rhodes</role>
+		</credit>
+		<credit>
+			<actor>Chloe Bailey</actor>
+			<role>Izzy</role>
+		</credit>
+		<credit>
+			<actor>Kerri Medders</actor>
+			<role>Josa</role>
+		</credit>
+		<credit>
+			<actor>Nina Bloomgarden</actor>
+			<role>Camille</role>
+		</credit>
+		<credit>
+			<actor>Cecile Cubiló</actor>
+			<role>Officer Gutiérrez</role>
+		</credit>
+		<credit>
+			<actor>Ian Owens</actor>
+			<role>Mr. Richardson</role>
+		</credit>
+		<credit>
+			<actor>Jordyn Aurora Aquino</actor>
+			<role>Mykel</role>
+		</credit>
+		<credit>
+			<actor>Grayson Berry</actor>
+			<role>Officer Phillips</role>
+		</credit>
+		<credit>
+			<actor>Amie MacKenzie</actor>
+			<role>Eleanor Brooks</role>
+		</credit>
+		<credit>
+			<actor>Calhoun Koenig</actor>
+			<role>Freshman Student</role>
+		</credit>
+		<credit>
+			<actor>Amber Lynn Ashley</actor>
+			<role>Diana</role>
+		</credit>
+		<credit>
+			<actor>Morse Bicknell</actor>
+			<role>Steve Brooks</role>
+		</credit>
+		<credit>
+			<actor>Chloe Yu</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Ramona DuBarry</actor>
+			<role>Mrs. Billings</role>
+		</credit>
+		<credit>
+			<actor>Nick Phillips</actor>
+			<role>Mr. Bern</role>
+		</credit>
+		<credit>
+			<actor>Larkin Bell</actor>
+			<role>Debbie</role>
+		</credit>
+		<credit>
+			<actor>Victoria Foyt</actor>
+			<role>Mrs. West</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 26 2022</releasedate>
+		<releasedate country="Philippines">September 7 2022</releasedate>
+		<releasedate country="Australia">December 1 2022</releasedate>
+		<releasedate country="France">January 27 2023</releasedate>
+		<releasedate country="Russia">February 2 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>feminism</keyword>
+	</keywords>
+	<directors>
+		<director> Sabrina Jaglom</director>
+	</directors>
+	<composers>
+		<composer> Anna Drubich</composer>
+	</composers>
+	<producers>
+		<producer> Daniel Cummings</producer>
+		<producer> Amber LeRae Earls</producer>
+		<producer> Deborah Liebling</producer>
+		<producer> Mckenna Marshall</producer>
+		<producer> Benjamin O'Keefe</producer>
+		<producer> Madelaine Petsch</producer>
+		<producer> Nick Phillips</producer>
+		<producer> Mykel Salazar</producer>
+		<producer> Jonathan Sheldon</producer>
+		<producer> Adam Wescott</producer>
+	</producers>
+	<writers>
+		<writer> Sabrina Jaglom</writer>
+		<writer> Rishi Rajani</writer>
+	</writers>
+	<editors>
+		<editor> Shelby Hall</editor>
+	</editors>
+</doc>

@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<doc id="tt3501112">
+	<docid>tt3501112</docid>
+	<title>Security</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZmI4OGE0MTktOTQ3ZC00ZDlhLTg1OGMtMjRiMTMwNzgzZDIyXkEyXkFqcGdeQXVyNjc4Nzk3NzU@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>I 2017</year>
+	<runningtimes>
+		<runningtime country="default">88</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A security guard protects an eleven year-old girl who is being targeted by a gang for participating as a trial witness.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Antonio Banderas</actor>
+			<role>Eduardo 'Eddie' Deacon</role>
+		</credit>
+		<credit>
+			<actor>Ben Kingsley</actor>
+			<role>Charlie</role>
+		</credit>
+		<credit>
+			<actor>Liam McIntyre</actor>
+			<role>Vance</role>
+		</credit>
+		<credit>
+			<actor>Cung Le</actor>
+			<role>Dead Eyes</role>
+		</credit>
+		<credit>
+			<actor>Katherine de la Rocha</actor>
+			<role>Jamie</role>
+		</credit>
+		<credit>
+			<actor>Chad Lindberg</actor>
+			<role>Mason</role>
+		</credit>
+		<credit>
+			<actor>Jiro Wang</actor>
+			<role>Johnny Wei</role>
+		</credit>
+		<credit>
+			<actor>Gabriella Wright</actor>
+			<role>Ruby</role>
+		</credit>
+		<credit>
+			<actor>Shari Watson</actor>
+			<role>Administrator</role>
+		</credit>
+		<credit>
+			<actor>John Strong</actor>
+			<role>Lead Official</role>
+		</credit>
+		<credit>
+			<actor>Andrew De La Rocha</actor>
+			<role>Uncle Will</role>
+		</credit>
+		<credit>
+			<actor>Mark Basnight</actor>
+			<role>SUV Agent #1</role>
+		</credit>
+		<credit>
+			<actor>Atanas Srebrev</actor>
+			<role>SUV Agent #2</role>
+		</credit>
+		<credit>
+			<actor>Steven Baduske</actor>
+			<role>SUV Agent #3</role>
+		</credit>
+		<credit>
+			<actor>Ivailo Dimitrov</actor>
+			<role>Patrol car cop</role>
+		</credit>
+		<credit>
+			<actor>Anurag Biswas</actor>
+			<role>Agent Rodriguez</role>
+		</credit>
+		<credit>
+			<actor>David McKay</actor>
+			<role>Uniform #1</role>
+		</credit>
+		<credit>
+			<actor>Mark Rhino Smith</actor>
+			<role>Hood Shooter#1</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Japan">March 4 2017</releasedate>
+		<releasedate country="Australia">July 2 2017</releasedate>
+		<releasedate country="United Kingdom">July 3 2017</releasedate>
+		<releasedate country="Cyprus">August 3 2017</releasedate>
+		<releasedate country="Greece">August 3 2017</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">R</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Ecuador">15</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Greece">K-16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">Not Rated</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Taiwan">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="Ukraine">16</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>security guard</keyword>
+		<keyword>shopping center</keyword>
+		<keyword>mall</keyword>
+		<keyword>witness</keyword>
+		<keyword>arrow</keyword>
+		<keyword>sniper</keyword>
+		<keyword>woman fights a woman</keyword>
+		<keyword>molotov cocktail</keyword>
+		<keyword>taser</keyword>
+		<keyword>seeking a job</keyword>
+		<keyword>walkie talkie</keyword>
+		<keyword>forklift</keyword>
+		<keyword>bed</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>execution</keyword>
+		<keyword>explosion</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>motel</keyword>
+		<keyword>u.s. marshal</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>fight</keyword>
+		<keyword>pinky swear</keyword>
+		<keyword>hangover</keyword>
+		<keyword>bomb</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>can am spyder</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>mercenary</keyword>
+	</keywords>
+	<directors>
+		<director> Alain Desrochers</director>
+	</directors>
+	<composers>
+		<composer> FM Le Sieur</composer>
+	</composers>
+	<producers>
+		<producer> Vincent Cheng</producer>
+		<producer> Jeffrey Greenstein</producer>
+		<producer> David Harris</producer>
+		<producer> Avi Lerner</producer>
+		<producer> Gisella Marengo</producer>
+		<producer> Steven Paul</producer>
+		<producer> Lonnie Ramati</producer>
+		<producer> Jian-Xiang Shi</producer>
+		<producer> Les Weldon</producer>
+		<producer> Jonathan Yunger</producer>
+	</producers>
+	<writers>
+		<writer> Tony Mosher</writer>
+		<writer> John Sullivan</writer>
+	</writers>
+	<editors>
+		<editor> Éric Drouin</editor>
+		<editor> Paul Harb</editor>
+	</editors>
+</doc>

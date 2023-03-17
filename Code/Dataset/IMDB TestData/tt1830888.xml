@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<doc id="tt1830888">
+	<docid>tt1830888</docid>
+	<title>The Exes</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjIyMDExOTM3Ml5BMl5BanBnXkFtZTcwNDE5Mjc2Nw@@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A group of divorced friends try to get back to the single life.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Donald Faison</actor>
+			<role>Phil Chase</role>
+		</credit>
+		<credit>
+			<actor>Wayne Knight</actor>
+			<role>Haskell Lutz</role>
+		</credit>
+		<credit>
+			<actor>David Alan Basche</actor>
+			<role>Stuart Gardner</role>
+		</credit>
+		<credit>
+			<actor>Kelly Stables</actor>
+			<role>Eden</role>
+		</credit>
+		<credit>
+			<actor>Kristen Johnston</actor>
+			<role>Holly Franklin</role>
+		</credit>
+		<credit>
+			<actor>Leah Remini</actor>
+			<role>Nicki</role>
+		</credit>
+		<credit>
+			<actor>Diedrich Bader</actor>
+			<role>Paul</role>
+		</credit>
+		<credit>
+			<actor>Judith Light</actor>
+			<role>Marjorie</role>
+		</credit>
+		<credit>
+			<actor>Lisa Ann Walter</actor>
+			<role>Margo</role>
+		</credit>
+		<credit>
+			<actor>Frances Turner</actor>
+			<role>Zoey Banks</role>
+		</credit>
+		<credit>
+			<actor>Missi Pyle</actor>
+			<role>Sabrina</role>
+		</credit>
+		<credit>
+			<actor>Jordan Jones</actor>
+			<role>Bar Patron</role>
+		</credit>
+		<credit>
+			<actor>Todd Stashwick</actor>
+			<role>Grant</role>
+		</credit>
+		<credit>
+			<actor>James Morrison</actor>
+			<role>Jonathan Hubner</role>
+		</credit>
+		<credit>
+			<actor>Matt Letscher</actor>
+			<role>Charles Hayward</role>
+		</credit>
+		<credit>
+			<actor>Kevin Daniels</actor>
+			<role>Bouncer</role>
+		</credit>
+		<credit>
+			<actor>Janet Varney</actor>
+			<role>Lorna</role>
+		</credit>
+		<credit>
+			<actor>Brandon Routh</actor>
+			<role>Steve</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">November 30 2011</releasedate>
+		<releasedate country="Netherlands">July 16 2012</releasedate>
+		<releasedate country="Turkey">September 10 2012</releasedate>
+		<releasedate country="Germany">September 16 2012</releasedate>
+		<releasedate country="Sweden">March 4 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>friend</keyword>
+	</keywords>
+	<directors>
+		<director> Andy Cadiff</director>
+		<director> Terry Hughes</director>
+		<director> Jeff Melman</director>
+		<director> Shelley Jensen</director>
+		<director> Andrew D. Weyman</director>
+		<director> Rob Schiller</director>
+	</directors>
+	<composers>
+		<composer> Gabriel Mann</composer>
+		<composer> Mark Hadley</composer>
+		<composer> Emerson Swinford</composer>
+		<composer> Ron Wasserman</composer>
+	</composers>
+	<producers>
+		<producer> Franco Bario</producer>
+		<producer> Matthew Conner</producer>
+		<producer> Keith Cox</producer>
+		<producer> Michael Hanel</producer>
+		<producer> Larry W. Jones</producer>
+		<producer> Mark Reisman</producer>
+		<producer> Mindy Schultheis</producer>
+		<producer> Frank M. Garritano</producer>
+		<producer> Howard Gewirtz</producer>
+		<producer> Kip Kroeger</producer>
+		<producer> Gary Murphy</producer>
+		<producer> Ian Gurvitz</producer>
+		<producer> Maria A. Brown</producer>
+		<producer> Steve Joe</producer>
+		<producer> Margee Magee</producer>
+		<producer> Angeli Millan</producer>
+		<producer> Sheridan Thayer</producer>
+		<producer> Joey Gutierrez</producer>
+		<producer> Andy Cadiff</producer>
+		<producer> Yvette Lee Bowser</producer>
+		<producer> Boyce Bugliari</producer>
+		<producer> Jamie McLaughlin</producer>
+		<producer> Pat Bullard</producer>
+		<producer> Sue Tenney</producer>
+		<producer> Michael Borkow</producer>
+		<producer> Michael Glouberman</producer>
+		<producer> J.B. Cook</producer>
+		<producer> Cindy Caponera</producer>
+		<producer> Lisa Iannone</producer>
+		<producer> Ben Raymond</producer>
+		<producer> Brian Way</producer>
+	</producers>
+	<writers>
+		<writer> Mark Reisman</writer>
+		<writer> Mark Reisman</writer>
+		<writer> Mark Reisman</writer>
+		<writer> Howard Gewirtz</writer>
+		<writer> Gary Murphy</writer>
+		<writer> Ian Gurvitz</writer>
+		<writer> Maria A. Brown</writer>
+		<writer> Steve Joe</writer>
+		<writer> Yvette Lee Bowser</writer>
+		<writer> Boyce Bugliari</writer>
+		<writer> Jamie McLaughlin</writer>
+		<writer> Sue Tenney</writer>
+		<writer> Margee Magee</writer>
+		<writer> Angeli Millan</writer>
+		<writer> Joey Gutierrez</writer>
+		<writer> Michael Glouberman</writer>
+	</writers>
+	<editors>
+		<editor> Peter D. Beyt</editor>
+		<editor> Levi Ogner</editor>
+	</editors>
+</doc>

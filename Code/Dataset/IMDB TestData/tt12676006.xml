@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<doc id="tt12676006">
+	<docid>tt12676006</docid>
+	<title>Borrego</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2Y4MjA4MDYtYzBhNC00NDdlLWFkYjQtOGYwYmYxOGE3NmQzXkEyXkFqcGdeQXVyMjg4OTIzMDM@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">102</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Borrego follows a young botanist who relocates to a small desert town to study an invasive plant species. She must fight for her survival when she's kidnapped by an inexperienced drug mule after his ultralight plane crashes in the desert.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Lucy Hale</actor>
+			<role>Elly</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Gonzalez</actor>
+			<role>Deputy Jose Gomez</role>
+		</credit>
+		<credit>
+			<actor>Jim Meskimen</actor>
+			<role>Jim</role>
+		</credit>
+		<credit>
+			<actor>Olivia Trujillo</actor>
+			<role>Alex Gomez</role>
+		</credit>
+		<credit>
+			<actor>Leynar Gomez</actor>
+			<role>Tomas</role>
+		</credit>
+		<credit>
+			<actor>Jorge A. Jimenez</actor>
+			<role>Guillermo</role>
+		</credit>
+		<credit>
+			<actor>Jaime Aymerich</actor>
+			<role>Juan Manuel</role>
+		</credit>
+		<credit>
+			<actor>Cari Kabinoff</actor>
+			<role>Mary</role>
+		</credit>
+		<credit>
+			<actor>Brendan McNamee</actor>
+			<role>Trent (Biker #2)</role>
+		</credit>
+		<credit>
+			<actor>Nancy Cartwright</actor>
+			<role>Deserie</role>
+		</credit>
+		<credit>
+			<actor>Edward J. Bentley</actor>
+			<role>Brody (Biker #1)</role>
+		</credit>
+		<credit>
+			<actor>Maria Claudia Aguilar Zarate</actor>
+			<role>Fernanda</role>
+		</credit>
+		<credit>
+			<actor>Enrique Rosales Montoya</actor>
+			<role>Ambrosio</role>
+		</credit>
+		<credit>
+			<actor>David Portilla Portilla</actor>
+			<role>Miguel</role>
+		</credit>
+		<credit>
+			<actor>Claudia Guadalupe Rosales Aguilar</actor>
+			<role>Gabriela</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">January 14 2022</releasedate>
+		<releasedate country="France">January 16 2022</releasedate>
+		<releasedate country="Singapore">April 1 2022</releasedate>
+		<releasedate country="Canada">May 14 2022</releasedate>
+		<releasedate country="Netherlands">August 19 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">R</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>desert</keyword>
+	</keywords>
+	<directors>
+		<director> Jesse Harris</director>
+	</directors>
+	<composers>
+		<composer> The Newton Brothers</composer>
+	</composers>
+	<producers>
+		<producer> Lorenzo Benedick</producer>
+		<producer> Fernando Bofill</producer>
+		<producer> Gabriel Carratu</producer>
+		<producer> Nancy Cartwright</producer>
+		<producer> Sevier Crespo</producer>
+		<producer> Monica Gil-Rodriguez</producer>
+		<producer> Mickey Gooch</producer>
+		<producer> Lucy Hale</producer>
+		<producer> Jesse Harris</producer>
+		<producer> Greg Lauritano</producer>
+		<producer> Garrett Patten</producer>
+		<producer> Nacho Piñar</producer>
+		<producer> Damiano Tucci</producer>
+		<producer> Tiziano Tucci</producer>
+	</producers>
+	<writers>
+		<writer> Jesse Harris</writer>
+	</writers>
+	<editors>
+		<editor> Luis Carballar</editor>
+	</editors>
+</doc>

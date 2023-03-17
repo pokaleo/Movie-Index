@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<doc id="tt4460878">
+	<docid>tt4460878</docid>
+	<title>Wolf Creek</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTIzMjYwNTU4N15BMl5BanBnXkFtZTcwMjk0OTgzMQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>An anthology series which centers on different characters being targeted by crazed serial killer Mick Taylor in the Australian outback.</plot>
+	<countries>
+		<country>Australia</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>John Jarratt</actor>
+			<role>Mick Taylor</role>
+		</credit>
+		<credit>
+			<actor>Lucy Fry</actor>
+			<role>Eve Thorogood</role>
+		</credit>
+		<credit>
+			<actor>Dustin Clare</actor>
+			<role>Sullivan Hill</role>
+		</credit>
+		<credit>
+			<actor>Tess Haubrich</actor>
+			<role>Rebecca</role>
+		</credit>
+		<credit>
+			<actor>Matt Day</actor>
+			<role>Brian</role>
+		</credit>
+		<credit>
+			<actor>Felicity Price</actor>
+			<role>Nina Webber</role>
+		</credit>
+		<credit>
+			<actor>Laura Wheelwright</actor>
+			<role>Kelly Yeoman</role>
+		</credit>
+		<credit>
+			<actor>Julian Pulvermacher</actor>
+			<role>Oskar</role>
+		</credit>
+		<credit>
+			<actor>Andy McPhee</actor>
+			<role>Beard</role>
+		</credit>
+		<credit>
+			<actor>Jessica Tovey</actor>
+			<role>Kirsty</role>
+		</credit>
+		<credit>
+			<actor>Damian de Montemas</actor>
+			<role>Inspector Darwin</role>
+		</credit>
+		<credit>
+			<actor>Eddie Baroo</actor>
+			<role>Ginger</role>
+		</credit>
+		<credit>
+			<actor>Jason Chong</actor>
+			<role>Steve Cham</role>
+		</credit>
+		<credit>
+			<actor>Elsa Cocquerel</actor>
+			<role>Michelle Scott</role>
+		</credit>
+		<credit>
+			<actor>Fletcher Humphrys</actor>
+			<role>Jesus (Ben Mitchell)</role>
+		</credit>
+		<credit>
+			<actor>Jake Ryan</actor>
+			<role>Johnny</role>
+		</credit>
+		<credit>
+			<actor>Greg Fleet</actor>
+			<role>Gundog</role>
+		</credit>
+		<credit>
+			<actor>Cameron McKinnon</actor>
+			<role>Darwin Constable</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">May 12 2016</releasedate>
+		<releasedate country="Brazil">May 12 2016</releasedate>
+		<releasedate country="United Kingdom">August 30 2016</releasedate>
+		<releasedate country="United States">October 12 2016</releasedate>
+		<releasedate country="Canada">October 14 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>serial killer</keyword>
+		<keyword>blood</keyword>
+		<keyword>torture</keyword>
+		<keyword>slasher</keyword>
+		<keyword>based on true story</keyword>
+		<keyword>fear</keyword>
+		<keyword>serial murder</keyword>
+		<keyword>name calling</keyword>
+		<keyword>nickname</keyword>
+		<keyword>hillbilly</keyword>
+		<keyword>hillbilly horror</keyword>
+		<keyword>oceania</keyword>
+		<keyword>outback</keyword>
+		<keyword>murder</keyword>
+		<keyword>survival</keyword>
+		<keyword>darkness</keyword>
+		<keyword>night</keyword>
+	</keywords>
+	<directors>
+		<director> Tony Tilse</director>
+		<director> Greg McLean</director>
+		<director> Geoff Bennett</director>
+		<director> Kieran Darcy-Smith</director>
+	</directors>
+	<composers>
+		<composer> Burkhard von Dallwitz</composer>
+		<composer> Michael Yezerski</composer>
+	</composers>
+	<producers>
+		<producer> Nick Forward</producer>
+		<producer> Rob Gibson</producer>
+		<producer> Elisa Argenzio</producer>
+		<producer> Jacqueline King</producer>
+		<producer> Kerrie Mainwaring</producer>
+		<producer> Lisa Scott</producer>
+		<producer> Peter Gawler</producer>
+		<producer> Greg Haddrick</producer>
+		<producer> Greg McLean</producer>
+		<producer> Anna Molyneaux</producer>
+		<producer> Felicity Packard</producer>
+		<producer> Jo Rooney</producer>
+		<producer> Andy Ryan</producer>
+		<producer> Philly de Lacey</producer>
+		<producer> Riccardo Pellizzeri</producer>
+	</producers>
+	<writers>
+		<writer> Peter Gawler</writer>
+		<writer> Peter Gawler</writer>
+		<writer> Greg McLean</writer>
+		<writer> Greg McLean</writer>
+		<writer> Felicity Packard</writer>
+		<writer> Felicity Packard</writer>
+		<writer> Mark Dapin</writer>
+		<writer> Shanti Gudgeon</writer>
+		<writer> Greg Haddrick</writer>
+		<writer> Nick Parsons</writer>
+	</writers>
+	<editors>
+		<editor> Stephen Evans</editor>
+		<editor> Sean Lahiff</editor>
+		<editor> Dave Redman</editor>
+	</editors>
+</doc>

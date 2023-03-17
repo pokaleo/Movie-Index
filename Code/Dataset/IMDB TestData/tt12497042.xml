@@ -1,0 +1,486 @@
+<?xml version="1.0" ?>
+<doc id="tt12497042">
+	<docid>tt12497042</docid>
+	<title>Resident Evil Village</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZGY4YjJlY2ItZGQyYy00ZjAzLTg0MGEtY2EyYmVhOTc2MGMzXkEyXkFqcGdeQXVyMTI1Mzg0ODA5._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021 Video Game</year>
+	<runningtimes/>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Ethan Winters' world suddenly comes crashing down when Chris Redfield's appearance sets off a chain of events that ultimately leads him to a mysterious village.</plot>
+	<countries>
+		<country>Japan</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Todd Soley</actor>
+			<role>Ethan Winters</role>
+		</credit>
+		<credit>
+			<actor>Katie O'Hagan</actor>
+			<role>Mia Winters</role>
+		</credit>
+		<credit>
+			<actor>Jeff Schine</actor>
+			<role>Chris Redfield</role>
+		</credit>
+		<credit>
+			<actor>Michelle Lukes</actor>
+			<role>Mother Miranda</role>
+		</credit>
+		<credit>
+			<actor>Neil Newbon</actor>
+			<role>Karl Heisenberg</role>
+		</credit>
+		<credit>
+			<actor>Jesse Pimentel</actor>
+			<role>Salvatore Moreau</role>
+		</credit>
+		<credit>
+			<actor>Paula Rhodes</actor>
+			<role>Angie</role>
+		</credit>
+		<credit>
+			<actor>Andi Norris</actor>
+			<role>Donna Beneviento</role>
+		</credit>
+		<credit>
+			<actor>Maggie Robertson</actor>
+			<role>Alcina Dimitrescu</role>
+		</credit>
+		<credit>
+			<actor>Nicole Tompkins</actor>
+			<role>Daniela Dimitrescu</role>
+		</credit>
+		<credit>
+			<actor>Jeanette Maus</actor>
+			<role>Cassandra Dimitrescu</role>
+		</credit>
+		<credit>
+			<actor>Bekka Prewitt</actor>
+			<role>Bela Dimitrescu</role>
+		</credit>
+		<credit>
+			<actor>Aaron LaPlante</actor>
+			<role>The Duke</role>
+		</credit>
+		<credit>
+			<actor>Carol Stanzione</actor>
+			<role>The Hag</role>
+		</credit>
+		<credit>
+			<actor>Robert Fleet</actor>
+			<role>Leonardo</role>
+		</credit>
+		<credit>
+			<actor>Sara Coates</actor>
+			<role>Luiza</role>
+		</credit>
+		<credit>
+			<actor>Dove Meir</actor>
+			<role>Anton</role>
+		</credit>
+		<credit>
+			<actor>Conner Marx</actor>
+			<role>Sebastian</role>
+		</credit>
+	</cast>
+	<type>other</type>
+	<releasedates>
+		<releasedate country="Germany">May 7 2021</releasedate>
+		<releasedate country="United Kingdom">May 7 2021</releasedate>
+		<releasedate country="United States">May 7 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">R18+</certificate>
+		<certificate country="Brazil">18</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Japan">D</certificate>
+		<certificate country="Japan">Z</certificate>
+		<certificate country="New Zealand">R18</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">M</certificate>
+		<certificate country="United States">M</certificate>
+	</certificates>
+	<keywords>
+		<keyword>resident evil</keyword>
+		<keyword>multiplatform</keyword>
+		<keyword>single player</keyword>
+		<keyword>sequel</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>conspiracy</keyword>
+		<keyword>undead</keyword>
+		<keyword>castle</keyword>
+		<keyword>eastern europe</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>haunted house</keyword>
+		<keyword>special forces</keyword>
+		<keyword>sluice</keyword>
+		<keyword>run and gun</keyword>
+		<keyword>first person shooter</keyword>
+		<keyword>giant woman</keyword>
+		<keyword>warhammer</keyword>
+		<keyword>obese man</keyword>
+		<keyword>village under attack</keyword>
+		<keyword>missing wife</keyword>
+		<keyword>wife killed</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>bittersweet ending</keyword>
+		<keyword>baby daughter</keyword>
+		<keyword>father saving daughter's life</keyword>
+		<keyword>daughter misses her father</keyword>
+		<keyword>epilogue</keyword>
+		<keyword>evil woman</keyword>
+		<keyword>hag</keyword>
+		<keyword>female vampire</keyword>
+		<keyword>werewolf</keyword>
+		<keyword>werewolf pack</keyword>
+		<keyword>one man army</keyword>
+		<keyword>self realization</keyword>
+		<keyword>flashback</keyword>
+		<keyword>refusing a deal</keyword>
+		<keyword>telekinesis</keyword>
+		<keyword>mad scientist</keyword>
+		<keyword>mutant</keyword>
+		<keyword>female mutant</keyword>
+		<keyword>flying monster</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>father turning into a monster</keyword>
+		<keyword>petrification</keyword>
+		<keyword>huge explosion</keyword>
+		<keyword>planting a bomb on someone</keyword>
+		<keyword>protagonist killed</keyword>
+		<keyword>witch</keyword>
+		<keyword>villainesses</keyword>
+		<keyword>villainess</keyword>
+		<keyword>female villains</keyword>
+		<keyword>vamp</keyword>
+		<keyword>gun</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>sniper rifle</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>mutant baby</keyword>
+		<keyword>evil doll</keyword>
+		<keyword>fingers bitten off</keyword>
+		<keyword>heart ripped out</keyword>
+		<keyword>tree monster</keyword>
+		<keyword>drinking blood</keyword>
+		<keyword>doll collection</keyword>
+		<keyword>puzzle solving</keyword>
+		<keyword>stabbed in the head</keyword>
+		<keyword>doll house</keyword>
+		<keyword>lake monster</keyword>
+		<keyword>body parts</keyword>
+		<keyword>hand severed</keyword>
+		<keyword>reattached hand</keyword>
+		<keyword>rescue mission</keyword>
+		<keyword>mysterious merchant</keyword>
+		<keyword>chop shop</keyword>
+		<keyword>milf</keyword>
+		<keyword>captured</keyword>
+		<keyword>faked death</keyword>
+		<keyword>combat vehicle</keyword>
+		<keyword>running away</keyword>
+		<keyword>traveling merchant</keyword>
+		<keyword>posh villainess</keyword>
+		<keyword>posh villain</keyword>
+		<keyword>sequel baiting</keyword>
+		<keyword>zombie soldier</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>laser pointer</keyword>
+		<keyword>pagan cult</keyword>
+		<keyword>baby</keyword>
+		<keyword>baby girl</keyword>
+		<keyword>misunderstanding</keyword>
+		<keyword>female shapeshifter</keyword>
+		<keyword>special unit</keyword>
+		<keyword>commando</keyword>
+		<keyword>ruse</keyword>
+		<keyword>tragic hero</keyword>
+		<keyword>visiting a cemetery</keyword>
+		<keyword>father's grave</keyword>
+		<keyword>mechanical monster</keyword>
+		<keyword>female mannequin</keyword>
+		<keyword>invisible woman</keyword>
+		<keyword>bodyguard</keyword>
+		<keyword>dark fairytale</keyword>
+		<keyword>teenage girl</keyword>
+		<keyword>bus ride</keyword>
+		<keyword>backstory</keyword>
+		<keyword>documents</keyword>
+		<keyword>boss battle</keyword>
+		<keyword>mutating</keyword>
+		<keyword>mutation</keyword>
+		<keyword>supernatural mold</keyword>
+		<keyword>gore</keyword>
+		<keyword>knife as weapon</keyword>
+		<keyword>camp</keyword>
+		<keyword>gothic</keyword>
+		<keyword>haunting</keyword>
+		<keyword>curse</keyword>
+		<keyword>occult</keyword>
+		<keyword>ghost</keyword>
+		<keyword>demonic possession</keyword>
+		<keyword>goth</keyword>
+		<keyword>afterlife</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>blood</keyword>
+		<keyword>satanic cult</keyword>
+		<keyword>evil girl</keyword>
+		<keyword>ghost child</keyword>
+		<keyword>hearing noises</keyword>
+		<keyword>demonic spirit</keyword>
+		<keyword>killer robot</keyword>
+		<keyword>mansion</keyword>
+		<keyword>secret passageway</keyword>
+		<keyword>satanism</keyword>
+		<keyword>knife</keyword>
+		<keyword>wine cellar</keyword>
+		<keyword>killer doll</keyword>
+		<keyword>murderess</keyword>
+		<keyword>female psychopath</keyword>
+		<keyword>aristocracy</keyword>
+		<keyword>wine</keyword>
+		<keyword>nightmare</keyword>
+		<keyword>zombie</keyword>
+		<keyword>spirit</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>dream sequence</keyword>
+		<keyword>evil laughter</keyword>
+		<keyword>spiritualism</keyword>
+		<keyword>murder</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>mysterious man</keyword>
+		<keyword>apparition</keyword>
+		<keyword>ghost girl</keyword>
+		<keyword>revenge</keyword>
+		<keyword>gothic horror</keyword>
+		<keyword>altar</keyword>
+		<keyword>sickle</keyword>
+		<keyword>mausoleum</keyword>
+		<keyword>candle</keyword>
+		<keyword>incantation</keyword>
+		<keyword>reanimated corpse</keyword>
+		<keyword>necromancy</keyword>
+		<keyword>slasher</keyword>
+		<keyword>mysterious woman</keyword>
+		<keyword>witchcraft</keyword>
+		<keyword>diabolical possession</keyword>
+		<keyword>satanic</keyword>
+		<keyword>death of daughter</keyword>
+		<keyword>lurking in shadows</keyword>
+		<keyword>haunted mansion</keyword>
+		<keyword>chapel</keyword>
+		<keyword>massacre</keyword>
+		<keyword>genocide</keyword>
+		<keyword>cult leader</keyword>
+		<keyword>supernatural horror</keyword>
+		<keyword>abuse of power</keyword>
+		<keyword>evil spirit</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>cemetery</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>evil man</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>mad doctor</keyword>
+		<keyword>female serial killer</keyword>
+		<keyword>good versus evil</keyword>
+		<keyword>terrorism</keyword>
+		<keyword>supernatural murder</keyword>
+		<keyword>bloodshed</keyword>
+		<keyword>female killer</keyword>
+		<keyword>sinister</keyword>
+		<keyword>menace</keyword>
+		<keyword>paranoid schizophrenia</keyword>
+		<keyword>hysteria</keyword>
+		<keyword>prayer</keyword>
+		<keyword>black magic</keyword>
+		<keyword>google stadia</keyword>
+		<keyword>microsoft windows</keyword>
+		<keyword>playstation 4</keyword>
+		<keyword>playstation 5</keyword>
+		<keyword>xbox one</keyword>
+		<keyword>xbox series x</keyword>
+		<keyword>mass murder</keyword>
+		<keyword>demonic voice</keyword>
+		<keyword>annihilation</keyword>
+		<keyword>tyrant</keyword>
+		<keyword>evil witch</keyword>
+		<keyword>chainsaw</keyword>
+		<keyword>dead woman on floor</keyword>
+		<keyword>hooded figure</keyword>
+		<keyword>woman shot</keyword>
+		<keyword>dragon</keyword>
+		<keyword>cursed object</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>pseudoscience</keyword>
+		<keyword>dark secret</keyword>
+		<keyword>stiletto</keyword>
+		<keyword>gargoyle</keyword>
+		<keyword>evil dead</keyword>
+		<keyword>wrath</keyword>
+		<keyword>rage</keyword>
+		<keyword>death of protagonist</keyword>
+		<keyword>dark fantasy</keyword>
+		<keyword>suspense</keyword>
+		<keyword>ritual</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>virus</keyword>
+		<keyword>evil</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>possession</keyword>
+		<keyword>evil power</keyword>
+		<keyword>satanic ritual</keyword>
+		<keyword>symbolism</keyword>
+		<keyword>stalking</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>suicide</keyword>
+		<keyword>storybook</keyword>
+		<keyword>sniper</keyword>
+		<keyword>mystery woman</keyword>
+		<keyword>possessed man</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>megalomaniac</keyword>
+		<keyword>haunted castle</keyword>
+		<keyword>hearing voices</keyword>
+		<keyword>slasher horror</keyword>
+		<keyword>female psycho</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>satanist</keyword>
+		<keyword>coffin</keyword>
+		<keyword>satanic laughter</keyword>
+		<keyword>evil ghost</keyword>
+		<keyword>female monster</keyword>
+		<keyword>abandoned church</keyword>
+		<keyword>defenestration</keyword>
+		<keyword>murder plot</keyword>
+		<keyword>femme fatale</keyword>
+		<keyword>levitation</keyword>
+		<keyword>pushed out a window</keyword>
+		<keyword>mad woman</keyword>
+		<keyword>hypnotism</keyword>
+		<keyword>folk horror</keyword>
+		<keyword>sacrifice</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>black mass</keyword>
+		<keyword>coven</keyword>
+		<keyword>omen</keyword>
+		<keyword>action hero</keyword>
+		<keyword>human versus undead</keyword>
+		<keyword>evil sorceress</keyword>
+		<keyword>final battle</keyword>
+		<keyword>limbo</keyword>
+		<keyword>evil cult</keyword>
+		<keyword>propeller</keyword>
+		<keyword>human versus zombie</keyword>
+		<keyword>bad dream</keyword>
+		<keyword>laboratory</keyword>
+		<keyword>ambush</keyword>
+		<keyword>derelict mansion</keyword>
+		<keyword>duel to the death</keyword>
+		<keyword>wine glass</keyword>
+		<keyword>elevator</keyword>
+		<keyword>demonic</keyword>
+		<keyword>parasite</keyword>
+		<keyword>infection</keyword>
+		<keyword>killing a monster</keyword>
+		<keyword>village</keyword>
+		<keyword>mass murderer</keyword>
+		<keyword>psychopathic killer</keyword>
+		<keyword>well</keyword>
+		<keyword>hero taunting the villain</keyword>
+		<keyword>double cross</keyword>
+		<keyword>knife throwing</keyword>
+		<keyword>kidnapping a baby</keyword>
+		<keyword>ghost of wife</keyword>
+		<keyword>demon</keyword>
+		<keyword>killer toy</keyword>
+		<keyword>woman in black</keyword>
+		<keyword>black dress</keyword>
+		<keyword>dead woman with eyes open</keyword>
+		<keyword>life and death battle</keyword>
+		<keyword>playstation vr2</keyword>
+		<keyword>first person view</keyword>
+		<keyword>third person view</keyword>
+		<keyword>mature animation</keyword>
+		<keyword>witch horror</keyword>
+		<keyword>ethan winters character</keyword>
+		<keyword>manor</keyword>
+		<keyword>angry woman</keyword>
+		<keyword>ghoul</keyword>
+		<keyword>blitzkrieg</keyword>
+		<keyword>evil werewolf</keyword>
+		<keyword>old dark house</keyword>
+		<keyword>psychic ability</keyword>
+		<keyword>evil child</keyword>
+		<keyword>abandoned factory</keyword>
+		<keyword>female impostor</keyword>
+		<keyword>human experimentation</keyword>
+		<keyword>secret laboratory</keyword>
+		<keyword>secret room</keyword>
+		<keyword>evil doctor</keyword>
+		<keyword>patient file</keyword>
+		<keyword>medical experiment</keyword>
+		<keyword>cooking</keyword>
+		<keyword>scarecrow</keyword>
+		<keyword>innocents killed</keyword>
+		<keyword>corpses</keyword>
+		<keyword>serving tea</keyword>
+		<keyword>hospitality</keyword>
+		<keyword>giallo esque</keyword>
+		<keyword>house on fire</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>creepy child</keyword>
+		<keyword>human monster</keyword>
+		<keyword>creepy mansion</keyword>
+		<keyword>solving a mystery</keyword>
+		<keyword>creepy woman</keyword>
+		<keyword>old woman</keyword>
+		<keyword>creepy house</keyword>
+		<keyword>radio</keyword>
+		<keyword>human experiment</keyword>
+		<keyword>creepy castle</keyword>
+		<keyword>nintendo switch cloud version</keyword>
+		<keyword>horse and carriage</keyword>
+		<keyword>for grown ups animation</keyword>
+		<keyword>plot twist</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Morimasa Sato</director>
+		<director> America Young</director>
+	</directors>
+	<composers>
+		<composer> Azusa Kato</composer>
+		<composer> Nao Sato</composer>
+		<composer> Kota Suzuki</composer>
+		<composer> Shusaku Uchiyama</composer>
+	</composers>
+	<producers>
+		<producer> Madison Jordan Burnett</producer>
+		<producer> Peter Fabiano</producer>
+		<producer> Tsuyoshi Kanda</producer>
+		<producer> Masachika Kawata</producer>
+		<producer> Jun Takeuchi</producer>
+	</producers>
+	<writers>
+		<writer> Antony Johnston</writer>
+		<writer> Tobuto Dezaki</writer>
+		<writer> Kijun Toshikawa</writer>
+		<writer> Wataru Hama</writer>
+	</writers>
+	<editors/>
+</doc>

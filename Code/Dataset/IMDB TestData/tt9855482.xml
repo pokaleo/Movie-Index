@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt9855482">
+	<docid>tt9855482</docid>
+	<title>The Gulf</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYmVhM2ZhODctZWE2Ny00Y2VlLWFiMGQtMGI1OWYwM2IwMDQ4XkEyXkFqcGdeQXVyMjI0NzI0Nzk@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+	</genres>
+	<plot>A detective's personal and professional life start to unravel when she is involved in a fatal car accident and begins to lose her memory.</plot>
+	<countries>
+		<country>New Zealand</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kate Elliott</actor>
+			<role>D.S.S Jess Savage</role>
+		</credit>
+		<credit>
+			<actor>Ido Drent</actor>
+			<role>D.S. Justin Harding</role>
+		</credit>
+		<credit>
+			<actor>Timmie Cameron</actor>
+			<role>Ruby Savage</role>
+		</credit>
+		<credit>
+			<actor>Dahnu Graham</actor>
+			<role>A.J. Jackson</role>
+		</credit>
+		<credit>
+			<actor>Alison Bruce</actor>
+			<role>Sen. Sgt. Denise Abernethy</role>
+		</credit>
+		<credit>
+			<actor>Ross Brannigan</actor>
+			<role>Sen. P.C Paul (Pup) Phillips</role>
+		</credit>
+		<credit>
+			<actor>Mark Mitchinson</actor>
+			<role>D.I. Ivan Petrie</role>
+		</credit>
+		<credit>
+			<actor>Bede Skinner</actor>
+			<role>Alex Parsons</role>
+		</credit>
+		<credit>
+			<actor>Vinnie Bennett</actor>
+			<role>Sgt. Taiaroa Gray</role>
+		</credit>
+		<credit>
+			<actor>Simon Prast</actor>
+			<role>Adam Harding</role>
+		</credit>
+		<credit>
+			<actor>Jeffrey Thomas</actor>
+			<role>Doug Bennington</role>
+		</credit>
+		<credit>
+			<actor>Pana Hema Taylor</actor>
+			<role>P.C. Rory Kerr</role>
+		</credit>
+		<credit>
+			<actor>Madeleine Adams</actor>
+			<role>Rawinia Wells</role>
+		</credit>
+		<credit>
+			<actor>Demos Murphy</actor>
+			<role>Felix Bruce</role>
+		</credit>
+		<credit>
+			<actor>Hera Dunleavy</actor>
+			<role>Dr. Miriam Adams</role>
+		</credit>
+		<credit>
+			<actor>Sara Wiseman</actor>
+			<role>Valerie Wells</role>
+		</credit>
+		<credit>
+			<actor>Sinead Fitzgerald</actor>
+			<role>Sarah Scully</role>
+		</credit>
+		<credit>
+			<actor>Mirabai Pease</actor>
+			<role>Hazel Peters</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">2019</releasedate>
+		<releasedate country="New Zealand">2019</releasedate>
+		<releasedate country="New Zealand">August 26 2019</releasedate>
+		<releasedate country="Germany">September 13 2019</releasedate>
+		<releasedate country="Canada">September 30 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Netherlands">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>car</keyword>
+	</keywords>
+	<directors>
+		<director> Charlie Haskell</director>
+		<director> Robert Sarkies</director>
+		<director> Gaysorn Thavat</director>
+		<director> Caroline Bell Booth</director>
+		<director> Helena Brooks</director>
+	</directors>
+	<composers>
+		<composer> Moniker</composer>
+		<composer> Lukasz Pawel Buda</composer>
+		<composer> Samuel Scott</composer>
+		<composer> Conrad Wedde</composer>
+	</composers>
+	<producers>
+		<producer> Paula Boock</producer>
+		<producer> Philly de Lacey</producer>
+		<producer> Christian Friedrichs</producer>
+		<producer> Donna Malane</producer>
+		<producer> Alastair McKay</producer>
+		<producer> Katrin Goetter</producer>
+		<producer> Sharron Jackson</producer>
+		<producer> Henning Kamm</producer>
+		<producer> Bridget Bourke</producer>
+		<producer> Marcus Kreuz</producer>
+		<producer> Andrew Szusterman</producer>
+		<producer> Sue Woodfield</producer>
+	</producers>
+	<writers>
+		<writer> Paula Boock</writer>
+		<writer> Donna Malane</writer>
+		<writer> Jack Keele Wedde</writer>
+	</writers>
+	<editors>
+		<editor> Eric De Beus</editor>
+		<editor> Gretchen Peterson</editor>
+		<editor> Jochen FitzHerbert</editor>
+		<editor> Cushla Dillon</editor>
+	</editors>
+</doc>

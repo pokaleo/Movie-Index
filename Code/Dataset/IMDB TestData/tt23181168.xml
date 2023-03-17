@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<doc id="tt23181168">
+	<docid>tt23181168</docid>
+	<title>Our Universe</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWVhMWIwMmYtNzIzMC00Y2NmLTlmZmQtMzUzMDZjYWMyYTU3XkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Morgan Freeman</actor>
+			<role>Self - Narrator</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">November 22 2022</releasedate>
+		<releasedate country="Argentina">November 22 2022</releasedate>
+		<releasedate country="Australia">November 22 2022</releasedate>
+		<releasedate country="Brazil">November 22 2022</releasedate>
+		<releasedate country="Canada">November 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="Egypt">7+</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Hong Kong">7+</certificate>
+		<certificate country="India">UA 7+</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Israel">7+</certificate>
+		<certificate country="Italy">BA</certificate>
+		<certificate country="Mexico">TV-PG</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">TV-PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Taiwan">7+</certificate>
+		<certificate country="Thailand">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United Arab Emirates">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>nature documentary</keyword>
+		<keyword>exploration</keyword>
+		<keyword>animal</keyword>
+		<keyword>wild</keyword>
+		<keyword>epic</keyword>
+	</keywords>
+	<directors>
+		<director> Naomi Austin</director>
+		<director> Stephen Cooter</director>
+		<director> Alice Jones</director>
+	</directors>
+	<composers>
+		<composer> Jessica Jones</composer>
+		<composer> Anne Nikitin</composer>
+	</composers>
+	<producers>
+		<producer> Michael Davis</producer>
+		<producer> Hugh Wilson</producer>
+		<producer> Andrew Cohen</producer>
+	</producers>
+	<writers>
+		<writer> David Fowler</writer>
+	</writers>
+	<editors>
+		<editor> Ben Lavington Martin</editor>
+		<editor> Sam Billinge</editor>
+		<editor> Graeme Dawson</editor>
+		<editor> Darren Jonusas</editor>
+	</editors>
+</doc>

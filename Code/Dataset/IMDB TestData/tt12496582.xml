@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<doc id="tt12496582">
+	<docid>tt12496582</docid>
+	<title>Devil's Island</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTNjMTU2MzEtY2JkNy00ODhjLWIwMGItOWEwNDcwZTNmNzFkXkEyXkFqcGdeQXVyNjQ1MTEyNTE@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">71</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A young woman inherits a small island in New York and discovers it has a dangerous history.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Elaine Alexander</actor>
+			<role>Samantha</role>
+		</credit>
+		<credit>
+			<actor>Kristjan Sokoli</actor>
+			<role>Michael</role>
+		</credit>
+		<credit>
+			<actor>Danielle Jean Schaefer</actor>
+			<role>Carol</role>
+		</credit>
+		<credit>
+			<actor>Pete Berwick</actor>
+			<role>Mort</role>
+		</credit>
+		<credit>
+			<actor>Cliff Yates</actor>
+			<role>Sheriff Thompson</role>
+		</credit>
+		<credit>
+			<actor>Alba Yates</actor>
+			<role>Mrs. Hunter</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">March 15 2021</releasedate>
+		<releasedate country="United States">June 9 2021</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Sean King</director>
+		<director> Taylor King</director>
+	</directors>
+	<composers>
+		<composer> Matt Jantzen</composer>
+	</composers>
+	<producers>
+		<producer> Sean King</producer>
+		<producer> Sharon Lee King</producer>
+		<producer> Taylor King</producer>
+		<producer> Danielle Jean Schaefer</producer>
+		<producer> Alba Yates</producer>
+		<producer> Cliff Yates</producer>
+	</producers>
+	<writers>
+		<writer> Sean King</writer>
+		<writer> Taylor King</writer>
+	</writers>
+	<editors/>
+</doc>

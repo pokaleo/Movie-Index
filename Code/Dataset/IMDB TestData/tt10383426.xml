@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<doc id="tt10383426">
+	<docid>tt10383426</docid>
+	<title>The Last of Us</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">4</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>20 years after the Outbreak, Joel decides to leave Ellie in the care of his brother, Tommy. Based off of a scene from the hit 2013 video game developed by Naughty Dog and Sony Computer Entertainment.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jenna Katheryn</actor>
+			<role>Ellie</role>
+		</credit>
+		<credit>
+			<actor>Duncan Sage</actor>
+			<role>Joel</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">January 1 2020</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>the last of us</keyword>
+		<keyword>fan film</keyword>
+		<keyword>based on video game</keyword>
+	</keywords>
+	<directors>
+		<director> Phil Piasecki</director>
+	</directors>
+	<composers>
+		<composer> Juan Luqui</composer>
+		<composer> Gustavo Santaolalla</composer>
+	</composers>
+	<producers>
+		<producer> Phil Piasecki</producer>
+		<producer> Jacqueline Dominique Yap</producer>
+		<producer> Sean Young</producer>
+	</producers>
+	<writers>
+		<writer> Neil Druckmann</writer>
+	</writers>
+	<editors>
+		<editor> Phil Piasecki</editor>
+	</editors>
+</doc>

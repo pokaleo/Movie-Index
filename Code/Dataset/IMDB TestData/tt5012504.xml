@@ -1,0 +1,506 @@
+<?xml version="1.0" ?>
+<doc id="tt5012504">
+	<docid>tt5012504</docid>
+	<title>Injustice</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzA3ZmI1NzMtMTcxMi00ODg4LWFhMGItMTE2ZjIxODUzZTFiXkEyXkFqcGdeQXVyMTA1NzAwODMz._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">78</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>On an alternate Earth, the Joker tricks Superman into killing Lois Lane, which causes a rampage in the hero. Superman decides to take control of Earth; Batman and his allies will have to attempt to stop him.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Justin Hartley</actor>
+			<role>Superman</role>
+		</credit>
+		<credit>
+			<actor>Anson Mount</actor>
+			<role>Batman</role>
+		</credit>
+		<credit>
+			<actor>Laura Bailey</actor>
+			<role>Lois Lane</role>
+		</credit>
+		<credit>
+			<actor>Zach Callison</actor>
+			<role>Damian</role>
+		</credit>
+		<credit>
+			<actor>Brian T. Delaney</actor>
+			<role>Green Lantern</role>
+		</credit>
+		<credit>
+			<actor>Brandon Micheal Hall</actor>
+			<role>Cyborg</role>
+		</credit>
+		<credit>
+			<actor>Andrew Morgado</actor>
+			<role>Mirror Master Soldier</role>
+		</credit>
+		<credit>
+			<actor>Edwin Hodge</actor>
+			<role>Mr. Terrific</role>
+		</credit>
+		<credit>
+			<actor>Oliver Hudson</actor>
+			<role>Plastic Man</role>
+		</credit>
+		<credit>
+			<actor>Gillian Jacobs</actor>
+			<role>Harley Quinn</role>
+		</credit>
+		<credit>
+			<actor>Yuri Lowenthal</actor>
+			<role>Mirror Master</role>
+		</credit>
+		<credit>
+			<actor>Derek Phillips</actor>
+			<role>Nightwing</role>
+		</credit>
+		<credit>
+			<actor>Kevin Pollak</actor>
+			<role>Joker</role>
+		</credit>
+		<credit>
+			<actor>Anika Noni Rose</actor>
+			<role>Catwoman</role>
+		</credit>
+		<credit>
+			<actor>Reid Scott</actor>
+			<role>Green Arrow</role>
+		</credit>
+		<credit>
+			<actor>Faran Tahir</actor>
+			<role>Ra's al Ghul</role>
+		</credit>
+		<credit>
+			<actor>Fred Tatasciore</actor>
+			<role>Captain Atom</role>
+		</credit>
+		<credit>
+			<actor>Janet Varney</actor>
+			<role>Wonder Woman</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">October 19 2021</releasedate>
+		<releasedate country="Indonesia">October 19 2021</releasedate>
+		<releasedate country="India">October 19 2021</releasedate>
+		<releasedate country="Philippines">October 19 2021</releasedate>
+		<releasedate country="Poland">October 19 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on video game</keyword>
+		<keyword>based on comic book</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>dc comics</keyword>
+		<keyword>superhero</keyword>
+		<keyword>villain</keyword>
+		<keyword>batman character</keyword>
+		<keyword>superman character</keyword>
+		<keyword>wonder woman character</keyword>
+		<keyword>aquaman character</keyword>
+		<keyword>green arrow character</keyword>
+		<keyword>green lantern character</keyword>
+		<keyword>joker character</keyword>
+		<keyword>weapon</keyword>
+		<keyword>justice</keyword>
+		<keyword>criminal</keyword>
+		<keyword>counterpart</keyword>
+		<keyword>hero</keyword>
+		<keyword>gotham city</keyword>
+		<keyword>universe</keyword>
+		<keyword>fight</keyword>
+		<keyword>power</keyword>
+		<keyword>teleport</keyword>
+		<keyword>the flash character</keyword>
+		<keyword>2d animation</keyword>
+		<keyword>plastic man character</keyword>
+		<keyword>catwoman character</keyword>
+		<keyword>shazam the wizard character</keyword>
+		<keyword>nightwing character</keyword>
+		<keyword>cyborg character</keyword>
+		<keyword>mr. terrific character</keyword>
+		<keyword>harley quinn character</keyword>
+		<keyword>mission</keyword>
+		<keyword>control</keyword>
+		<keyword>masked hero</keyword>
+		<keyword>sword</keyword>
+		<keyword>ring</keyword>
+		<keyword>superpower</keyword>
+		<keyword>city</keyword>
+		<keyword>adult animation</keyword>
+		<keyword>blood</keyword>
+		<keyword>violence</keyword>
+		<keyword>supervillain</keyword>
+		<keyword>captain</keyword>
+		<keyword>shared universe</keyword>
+		<keyword>exploration</keyword>
+		<keyword>technology</keyword>
+		<keyword>planet</keyword>
+		<keyword>defend</keyword>
+		<keyword>fight for peace</keyword>
+		<keyword>death of loved one</keyword>
+		<keyword>revenge motive</keyword>
+		<keyword>death of unborn baby</keyword>
+		<keyword>based on graphic novel</keyword>
+		<keyword>one word title</keyword>
+		<keyword>president of the united states</keyword>
+		<keyword>friends become enemies</keyword>
+		<keyword>nuclear explosion</keyword>
+		<keyword>ra's al ghul character</keyword>
+		<keyword>wilhelm scream</keyword>
+		<keyword>superhero fantasy</keyword>
+		<keyword>secret service agent</keyword>
+		<keyword>arkham asylum</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>justice league</keyword>
+		<keyword>u.s. secret service</keyword>
+		<keyword>damian wayne character</keyword>
+		<keyword>general</keyword>
+		<keyword>president</keyword>
+		<keyword>dictator</keyword>
+		<keyword>tyrant</keyword>
+		<keyword>the atom character</keyword>
+		<keyword>jonathan kent character</keyword>
+		<keyword>jimmy olsen character</keyword>
+		<keyword>hal jordan character</keyword>
+		<keyword>washington d.c.</keyword>
+		<keyword>superheroine</keyword>
+		<keyword>action hero</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>warrior</keyword>
+		<keyword>action heroine</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>female warrior</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>surrealism</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>no opening credits</keyword>
+		<keyword>no title at beginning</keyword>
+		<keyword>title at the end</keyword>
+		<keyword>explosion</keyword>
+		<keyword>exploding head</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>exploding car</keyword>
+		<keyword>exploding tank</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>pentagon</keyword>
+		<keyword>nuclear bomb</keyword>
+		<keyword>tyranny</keyword>
+		<keyword>heat vision</keyword>
+		<keyword>abuse of power</keyword>
+		<keyword>map</keyword>
+		<keyword>hologram</keyword>
+		<keyword>orb</keyword>
+		<keyword>teleportation</keyword>
+		<keyword>portal</keyword>
+		<keyword>supernatural power</keyword>
+		<keyword>speedster metahuman</keyword>
+		<keyword>metahuman</keyword>
+		<keyword>mallet</keyword>
+		<keyword>hit with a mallet</keyword>
+		<keyword>x ray vision</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>stabbed in the leg</keyword>
+		<keyword>palace</keyword>
+		<keyword>super villain</keyword>
+		<keyword>evil</keyword>
+		<keyword>evil man</keyword>
+		<keyword>evil laughter</keyword>
+		<keyword>sadist</keyword>
+		<keyword>sadism</keyword>
+		<keyword>psychopath</keyword>
+		<keyword>shipping container</keyword>
+		<keyword>prologue</keyword>
+		<keyword>scarecrow character</keyword>
+		<keyword>kryptonite</keyword>
+		<keyword>toxin</keyword>
+		<keyword>fortress of solitude</keyword>
+		<keyword>smallville</keyword>
+		<keyword>mirror master</keyword>
+		<keyword>bar</keyword>
+		<keyword>shapeshifter</keyword>
+		<keyword>shapeshifting</keyword>
+		<keyword>superhuman strength</keyword>
+		<keyword>super strength</keyword>
+		<keyword>super speed</keyword>
+		<keyword>superhuman speed</keyword>
+		<keyword>inventor</keyword>
+		<keyword>flying</keyword>
+		<keyword>flying superhero</keyword>
+		<keyword>superhero fight</keyword>
+		<keyword>extraterrestrial</keyword>
+		<keyword>alien superhero</keyword>
+		<keyword>space station</keyword>
+		<keyword>captain marvel a.k.a. shazam character</keyword>
+		<keyword>glowing eyes</keyword>
+		<keyword>shield</keyword>
+		<keyword>lasso of truth</keyword>
+		<keyword>batplane</keyword>
+		<keyword>batarang</keyword>
+		<keyword>batcave</keyword>
+		<keyword>flood</keyword>
+		<keyword>archer</keyword>
+		<keyword>archery</keyword>
+		<keyword>bow and arrow</keyword>
+		<keyword>knocked unconscious</keyword>
+		<keyword>gas attack</keyword>
+		<keyword>corpse</keyword>
+		<keyword>cube</keyword>
+		<keyword>loss of friend</keyword>
+		<keyword>cornfield</keyword>
+		<keyword>loss of loved one</keyword>
+		<keyword>anger</keyword>
+		<keyword>hatred</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>revenge</keyword>
+		<keyword>apartment</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>drone</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security camera</keyword>
+		<keyword>police car</keyword>
+		<keyword>android</keyword>
+		<keyword>robot</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>revolver</keyword>
+		<keyword>rocket launcher</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>grappling hook</keyword>
+		<keyword>secret hideout</keyword>
+		<keyword>bat computer</keyword>
+		<keyword>elevator</keyword>
+		<keyword>destruction</keyword>
+		<keyword>secret mission</keyword>
+		<keyword>laser cannon</keyword>
+		<keyword>army</keyword>
+		<keyword>prison</keyword>
+		<keyword>escape from prison</keyword>
+		<keyword>world peace</keyword>
+		<keyword>peace</keyword>
+		<keyword>montage</keyword>
+		<keyword>united nations</keyword>
+		<keyword>news report</keyword>
+		<keyword>media coverage</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>escape from jail</keyword>
+		<keyword>journalist</keyword>
+		<keyword>reporter</keyword>
+		<keyword>female journalist</keyword>
+		<keyword>female reporter</keyword>
+		<keyword>human monster</keyword>
+		<keyword>police state</keyword>
+		<keyword>hole in chest</keyword>
+		<keyword>hand through chest</keyword>
+		<keyword>shot in the eye</keyword>
+		<keyword>shot with an arrow</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>accidental killing</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>grandfather grandson relationship</keyword>
+		<keyword>loss of father</keyword>
+		<keyword>grenade</keyword>
+		<keyword>super hearing</keyword>
+		<keyword>dead man's switch</keyword>
+		<keyword>fire</keyword>
+		<keyword>arson</keyword>
+		<keyword>fighting in the air</keyword>
+		<keyword>head butt</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>battlefield</keyword>
+		<keyword>brawl</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>stylized violence</keyword>
+		<keyword>gunfight</keyword>
+		<keyword>shootout</keyword>
+		<keyword>battle</keyword>
+		<keyword>combat</keyword>
+		<keyword>sports car</keyword>
+		<keyword>car accident</keyword>
+		<keyword>motorcycle</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>profanity</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>kidnapping</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>double cross</keyword>
+		<keyword>ambush</keyword>
+		<keyword>torso cut in half</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>gore</keyword>
+		<keyword>fear</keyword>
+		<keyword>danger</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>fade to black</keyword>
+		<keyword>chase</keyword>
+		<keyword>exploding train</keyword>
+		<keyword>hit by a train</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>crime fighter</keyword>
+		<keyword>vigilante</keyword>
+		<keyword>vigilantism</keyword>
+		<keyword>power struggle</keyword>
+		<keyword>fighting the system</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>death threat</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>two way mirror</keyword>
+		<keyword>severed hand</keyword>
+		<keyword>raised middle finger</keyword>
+		<keyword>obscene finger gesture</keyword>
+		<keyword>woman in jeopardy</keyword>
+		<keyword>damsel in distress</keyword>
+		<keyword>earth viewed from space</keyword>
+		<keyword>submarine</keyword>
+		<keyword>u boat</keyword>
+		<keyword>shockwave</keyword>
+		<keyword>innocent person killed</keyword>
+		<keyword>american flag</keyword>
+		<keyword>face paint</keyword>
+		<keyword>farm</keyword>
+		<keyword>farmhouse</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>beard</keyword>
+		<keyword>cape</keyword>
+		<keyword>masked vigilante</keyword>
+		<keyword>training</keyword>
+		<keyword>stick fight</keyword>
+		<keyword>martial artist</keyword>
+		<keyword>ghost</keyword>
+		<keyword>god</keyword>
+		<keyword>afterlife</keyword>
+		<keyword>masked man</keyword>
+		<keyword>costumed hero</keyword>
+		<keyword>knife</keyword>
+		<keyword>costume</keyword>
+		<keyword>laser</keyword>
+		<keyword>epic battle</keyword>
+		<keyword>showdown</keyword>
+		<keyword>final showdown</keyword>
+		<keyword>final battle</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>fighter jet</keyword>
+		<keyword>tank</keyword>
+		<keyword>soldier</keyword>
+		<keyword>death trap</keyword>
+		<keyword>booby trap</keyword>
+		<keyword>subterranean</keyword>
+		<keyword>marianas trench</keyword>
+		<keyword>rescue attempt</keyword>
+		<keyword>race against time</keyword>
+		<keyword>photograph</keyword>
+		<keyword>criminal mastermind</keyword>
+		<keyword>insanity</keyword>
+		<keyword>mass surveillance</keyword>
+		<keyword>victor zsasz character</keyword>
+		<keyword>deadshot character</keyword>
+		<keyword>domino mask</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>cannon</keyword>
+		<keyword>bane character</keyword>
+		<keyword>dock</keyword>
+		<keyword>force field</keyword>
+		<keyword>lois lane character</keyword>
+		<keyword>magical ring</keyword>
+		<keyword>metropolis the city</keyword>
+		<keyword>robin character</keyword>
+		<keyword>power ring</keyword>
+		<keyword>train</keyword>
+		<keyword>the white house washington d.c.</keyword>
+		<keyword>opening action scene</keyword>
+		<keyword>one against many</keyword>
+		<keyword>two against one</keyword>
+		<keyword>malfunction</keyword>
+		<keyword>gas mask</keyword>
+		<keyword>escalation</keyword>
+		<keyword>s.t.a.r. labs</keyword>
+		<keyword>mature animation</keyword>
+		<keyword>solomon grundy character</keyword>
+		<keyword>killer croc character</keyword>
+		<keyword>murder of a police officer</keyword>
+		<keyword>murder of a pregnant woman</keyword>
+		<keyword>for grown ups animation</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>superhero sci fi</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>death of father</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> Matt Peters</director>
+	</directors>
+	<composers>
+		<composer> Robert J. Kral</composer>
+	</composers>
+	<producers>
+		<producer> Kip Brown</producer>
+		<producer> James Krieg</producer>
+		<producer> Rick Morales</producer>
+		<producer> Alyessa Ornelas</producer>
+		<producer> Sam Register</producer>
+		<producer> Michael E. Uslan</producer>
+	</producers>
+	<writers>
+		<writer> Ernie Altbacker</writer>
+		<writer> Tom Taylor</writer>
+	</writers>
+	<editors>
+		<editor> Craig Paulsen</editor>
+	</editors>
+</doc>

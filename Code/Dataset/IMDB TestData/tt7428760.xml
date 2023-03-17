@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<doc id="tt7428760">
+	<docid>tt7428760</docid>
+	<title>Four Lives</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjg4NjMxMmQtZjY4Mi00ZjYzLTljZWQtZTVkZTRhYWJmN2VkXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">175</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A look at the aftermath of four murders carried out by Stephen Port between 2014 and 2015.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sheridan Smith</actor>
+			<role>Sarah Sak</role>
+		</credit>
+		<credit>
+			<actor>Leanne Best</actor>
+			<role>Kate</role>
+		</credit>
+		<credit>
+			<actor>Stephen Merchant</actor>
+			<role>Stephen Port</role>
+		</credit>
+		<credit>
+			<actor>Memet Ali Alabora</actor>
+			<role>Sami Sak</role>
+		</credit>
+		<credit>
+			<actor>Samuel Barnett</actor>
+			<role>Ryan Edwards</role>
+		</credit>
+		<credit>
+			<actor>Michael Jibson</actor>
+			<role>DC Paul Slaymaker</role>
+		</credit>
+		<credit>
+			<actor>Shaun Thomas</actor>
+			<role>Paul</role>
+		</credit>
+		<credit>
+			<actor>Giselle Cullinane</actor>
+			<role>Barbara Denham</role>
+		</credit>
+		<credit>
+			<actor>Rufus Jones</actor>
+			<role>John Pape</role>
+		</credit>
+		<credit>
+			<actor>Kris Hitchen</actor>
+			<role>Tom</role>
+		</credit>
+		<credit>
+			<actor>Isabella Laughland</actor>
+			<role>China</role>
+		</credit>
+		<credit>
+			<actor>Alexa Davies</actor>
+			<role>Kiera</role>
+		</credit>
+		<credit>
+			<actor>Ben Cartwright</actor>
+			<role>DS Martin O'Donnell</role>
+		</credit>
+		<credit>
+			<actor>Robert Emms</actor>
+			<role>Ricky</role>
+		</credit>
+		<credit>
+			<actor>Kate Layden</actor>
+			<role>Sandra</role>
+		</credit>
+		<credit>
+			<actor>Tim Preston</actor>
+			<role>Anthony Walgate</role>
+		</credit>
+		<credit>
+			<actor>Paddy Rowan</actor>
+			<role>Jack Taylor</role>
+		</credit>
+		<credit>
+			<actor>Holly Aird</actor>
+			<role>Jeanette Taylor</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">January 3 2022</releasedate>
+		<releasedate country="Australia">April 14 2022</releasedate>
+		<releasedate country="United States">June 6 2022</releasedate>
+		<releasedate country="Finland">March 12 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+		<keyword>tv mini series</keyword>
+	</keywords>
+	<directors>
+		<director> David Blair</director>
+	</directors>
+	<composers>
+		<composer> Adrian Johnston</composer>
+	</composers>
+	<producers>
+		<producer> Serena Cullen</producer>
+		<producer> Carolyn Parry-Jones</producer>
+		<producer> Ken Horn</producer>
+		<producer> Jeff Pope</producer>
+	</producers>
+	<writers>
+		<writer> Neil McKay</writer>
+		<writer> Jeff Pope</writer>
+	</writers>
+	<editors>
+		<editor> Melanie Viner-Cuneo</editor>
+	</editors>
+</doc>

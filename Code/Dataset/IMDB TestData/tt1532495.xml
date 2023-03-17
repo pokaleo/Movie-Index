@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<doc id="tt1532495">
+	<docid>tt1532495</docid>
+	<title>American Rust</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmM0YjYwZjMtMGJkOS00NWY3LWJjNjktYWYwZTU2NzAwNWZiXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A compelling family drama that explores the tattered American dream through the eyes of complicated and compromised Chief of Police Del Harris in a Rust Belt town in southwest Pennsylvania.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Rob Yang</actor>
+			<role>Steve Park</role>
+		</credit>
+		<credit>
+			<actor>Jeff Daniels</actor>
+			<role>Del Harris</role>
+		</credit>
+		<credit>
+			<actor>Maura Tierney</actor>
+			<role>Grace Poe</role>
+		</credit>
+		<credit>
+			<actor>David Alvarez</actor>
+			<role>Isaac English</role>
+		</credit>
+		<credit>
+			<actor>Mark Pellegrino</actor>
+			<role>Virgil Poe</role>
+		</credit>
+		<credit>
+			<actor>Bill Camp</actor>
+			<role>Henry English</role>
+		</credit>
+		<credit>
+			<actor>Julia Mayorga</actor>
+			<role>Lee English</role>
+		</credit>
+		<credit>
+			<actor>Alex Neustaedter</actor>
+			<role>Billy Poe</role>
+		</credit>
+		<credit>
+			<actor>William Apps</actor>
+			<role>Bobby Jesus</role>
+		</credit>
+		<credit>
+			<actor>Emily Davis</actor>
+			<role>Sue Herlitz</role>
+		</credit>
+		<credit>
+			<actor>Dallas Roberts</actor>
+			<role>Jackson Berg</role>
+		</credit>
+		<credit>
+			<actor>Namir Smallwood</actor>
+			<role>Frank Deluca</role>
+		</credit>
+		<credit>
+			<actor>Zenzi Williams</actor>
+			<role>Bethany</role>
+		</credit>
+		<credit>
+			<actor>Jim True-Frost</actor>
+			<role>Pete Novick</role>
+		</credit>
+		<credit>
+			<actor>Frankie Palombi</actor>
+			<role>Fracking Boss</role>
+		</credit>
+		<credit>
+			<actor>Jon Collin Barclay</actor>
+			<role>Aaron</role>
+		</credit>
+		<credit>
+			<actor>Gordon Clapp</actor>
+			<role>Gelsey</role>
+		</credit>
+		<credit>
+			<actor>Caitlin Houlahan</actor>
+			<role>Christy</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">September 5 2021</releasedate>
+		<releasedate country="Australia">September 12 2021</releasedate>
+		<releasedate country="Canada">September 12 2021</releasedate>
+		<releasedate country="Indonesia">September 12 2021</releasedate>
+		<releasedate country="South Korea">September 12 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>gay character</keyword>
+		<keyword>rust belt</keyword>
+		<keyword>war veteran</keyword>
+		<keyword>police chief</keyword>
+		<keyword>small town</keyword>
+		<keyword>prescription drug addiction</keyword>
+		<keyword>mexican american</keyword>
+		<keyword>pennsylvania</keyword>
+		<keyword>showtime</keyword>
+		<keyword>murder</keyword>
+		<keyword>hobo</keyword>
+		<keyword>union</keyword>
+		<keyword>police procedural crime</keyword>
+		<keyword>cop drama</keyword>
+		<keyword>timeframe 2020s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>working class</keyword>
+		<keyword>two word title</keyword>
+		<keyword>friend</keyword>
+		<keyword>criminal investigation</keyword>
+		<keyword>based on book</keyword>
+	</keywords>
+	<directors>
+		<director> John Dahl</director>
+		<director> Jim McKay</director>
+		<director> Darnell Martin</director>
+		<director> Craig Zisk</director>
+		<director> Radium Cheung</director>
+		<director> Melissa Hickey</director>
+		<director> Michael Lehmann</director>
+	</directors>
+	<composers>
+		<composer> Marty Beller</composer>
+	</composers>
+	<producers>
+		<producer> Jeff Daniels</producer>
+		<producer> Michael De Luca</producer>
+		<producer> Dan Futterman</producer>
+		<producer> Samara Levenstein</producer>
+		<producer> Paul J. Martino</producer>
+		<producer> Katie O'Connell</producer>
+		<producer> Adam Rapp</producer>
+		<producer> Céline C. Robinson</producer>
+		<producer> Álvaro Rodríguez</producer>
+		<producer> Jonathan Shoemaker</producer>
+		<producer> Jaquen Castellanos</producer>
+		<producer> Elisa Ellis</producer>
+		<producer> Jessica Brickman</producer>
+		<producer> Ted Malawer</producer>
+		<producer> Brian McGreevy</producer>
+		<producer> Lee Shipman</producer>
+	</producers>
+	<writers>
+		<writer> Dan Futterman</writer>
+		<writer> Dan Futterman</writer>
+		<writer> Philipp Meyer</writer>
+		<writer> Jaquen Castellanos</writer>
+		<writer> Adam Rapp</writer>
+		<writer> Céline C. Robinson</writer>
+		<writer> Álvaro Rodríguez</writer>
+		<writer> Charly Evon Simpson</writer>
+		<writer> Brian McGreevy</writer>
+		<writer> Lee Shipman</writer>
+	</writers>
+	<editors>
+		<editor> Agnes Grandits</editor>
+		<editor> Meg Reticker</editor>
+		<editor> Daniel A. Valverde</editor>
+		<editor> Tamar Bihari</editor>
+		<editor> Karen Sim</editor>
+	</editors>
+</doc>

@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<doc id="tt12058584">
+	<docid>tt12058584</docid>
+	<title>The Royal Game</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzU2OWI5ZDUtODc5Yy00MmUwLTkzNTktY2E3NjgyMTI3YWFiXkEyXkFqcGdeQXVyMTg5MTM2MDk@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">110</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+		<genre>War</genre>
+	</genres>
+	<plot>To withstand the psychological torture of the Gestapo, a lawyer imprisoned by the Nazis finds refuge in the world of chess.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>German</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Oliver Masucci</actor>
+			<role>Dr. Josef Bartok</role>
+		</credit>
+		<credit>
+			<actor>Dieter Bernhardt</actor>
+			<role>Fahrer</role>
+		</credit>
+		<credit>
+			<actor>Elias Gabele</actor>
+			<role>Passkontrolleur am Hafen</role>
+		</credit>
+		<credit>
+			<actor>Birgit Minichmayr</actor>
+			<role>Anna Bartok</role>
+		</credit>
+		<credit>
+			<actor>Rafael Stachowiak</actor>
+			<role>Schiffskellner Harry</role>
+		</credit>
+		<credit>
+			<actor>Isa Hochgerner</actor>
+			<role>Köchin</role>
+		</credit>
+		<credit>
+			<actor>Maresi Riegner</actor>
+			<role>Dienstmädchen Klara</role>
+		</credit>
+		<credit>
+			<actor>Anton Rattinger</actor>
+			<role>Fahrer Max</role>
+		</credit>
+		<credit>
+			<actor>Aron Eichhorn</actor>
+			<role>Demonstrant</role>
+		</credit>
+		<credit>
+			<actor>Johannes Zeiler</actor>
+			<role>Dr. Fink</role>
+		</credit>
+		<credit>
+			<actor>Markus Schleinzer</actor>
+			<role>Dr. Auer</role>
+		</credit>
+		<credit>
+			<actor>Clemens Berndorff</actor>
+			<role>Dr. Swoboda</role>
+		</credit>
+		<credit>
+			<actor>Gerhard Flödl</actor>
+			<role>Kellner Palais Auersperg</role>
+		</credit>
+		<credit>
+			<actor>Lukas Miko</actor>
+			<role>Gustav Sailer</role>
+		</credit>
+		<credit>
+			<actor>Andreas Lust</actor>
+			<role>Johann Prantl</role>
+		</credit>
+		<credit>
+			<actor>Heiko Köchel</actor>
+			<role>Gestapomänner</role>
+		</credit>
+		<credit>
+			<actor>Kari Rakkola</actor>
+			<role>Gestapomänner</role>
+		</credit>
+		<credit>
+			<actor>Christian Dungl</actor>
+			<role>Gestapomänner</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Israel">August 29 2021</releasedate>
+		<releasedate country="Russia">September 8 2021</releasedate>
+		<releasedate country="Germany">September 23 2021</releasedate>
+		<releasedate country="Denmark">October 14 2021</releasedate>
+		<releasedate country="Russia">October 14 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Austria">14</certificate>
+		<certificate country="Denmark">11</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Switzerland">12</certificate>
+		<certificate country="Turkey">13+</certificate>
+		<certificate country="Ukraine">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on novella</keyword>
+		<keyword>nazi annexation of austria</keyword>
+		<keyword>nervous breakdown</keyword>
+		<keyword>locked in a hotel room</keyword>
+		<keyword>chess</keyword>
+		<keyword>psychiatric ward</keyword>
+		<keyword>vienna austria</keyword>
+		<keyword>year 1938</keyword>
+		<keyword>german in austria</keyword>
+		<keyword>gestapo officer</keyword>
+		<keyword>enhanced interrogation</keyword>
+		<keyword>interrogator</keyword>
+		<keyword>chess game</keyword>
+		<keyword>redheaded woman</keyword>
+		<keyword>interrogation</keyword>
+		<keyword>world chess champion</keyword>
+	</keywords>
+	<directors>
+		<director> Philipp Stölzl</director>
+	</directors>
+	<composers>
+		<composer> Ingo Frenzel</composer>
+	</composers>
+	<producers>
+		<producer> Kalle Friz</producer>
+		<producer> Carlos Gerstenhauer</producer>
+		<producer> Claudia Grässel</producer>
+		<producer> Isabel Hund</producer>
+		<producer> Danny Krausz</producer>
+		<producer> Florian Krügel</producer>
+		<producer> Sebastian Lückel</producer>
+		<producer> Sandrine Mattes</producer>
+		<producer> Jakob Neuhäusser</producer>
+		<producer> Tobias Schultze</producer>
+		<producer> Tobias Walker</producer>
+		<producer> Philipp Worm</producer>
+	</producers>
+	<writers>
+		<writer> Eldar Grigorian</writer>
+		<writer> Stefan Zweig</writer>
+	</writers>
+	<editors>
+		<editor> Sven Budelmann</editor>
+	</editors>
+</doc>

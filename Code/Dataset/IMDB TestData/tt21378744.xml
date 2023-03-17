@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<doc id="tt21378744">
+	<docid>tt21378744</docid>
+	<title>Jang-e jahani sevom</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWU3NzgwZWEtZGMxMi00MWExLWE2NDctYmEzMmRlNmQwZDVkXkEyXkFqcGdeQXVyMTAxODQ2NDU1._V1_QL75_UX190_CR0,3,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">117</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>After being cast in a movie, a day laborer has to secretly shelter his lover on the set or else risk losing her and all that movie stardom has promised him.</plot>
+	<countries>
+		<country>Iran</country>
+	</countries>
+	<languages>
+		<language>Persian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Mohsen Tanabandeh</actor>
+			<role>Shakib</role>
+		</credit>
+		<credit>
+			<actor>Mahsa Hejazi</actor>
+			<role>Ladan</role>
+		</credit>
+		<credit>
+			<actor>Neda Jebraeili</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Navid Nosrati</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Hossein Norouzi</actor>
+			<role>Farshid</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">September 6 2022</releasedate>
+		<releasedate country="Germany">October 4 2022</releasedate>
+		<releasedate country="Japan">October 26 2022</releasedate>
+		<releasedate country="Greece">November 6 2022</releasedate>
+		<releasedate country="Taiwan">November 6 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Taiwan">12+</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Houman Seyyedi</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Houman Seyyedi</producer>
+	</producers>
+	<writers>
+		<writer> Houman Seyyedi</writer>
+		<writer> Arian Vazirdaftari</writer>
+		<writer> Azad Jafarian</writer>
+	</writers>
+	<editors>
+		<editor> Houman Seyyedi</editor>
+	</editors>
+</doc>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<doc id="tt15007172">
+	<docid>tt15007172</docid>
+	<title>Those Who Read the Hearts of Evil</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDk0MWVjOGYtZjViNS00MTE5LWFmMmUtNzc4NDNlNDRmM2UwXkEyXkFqcGdeQXVyNTA2Mjk2MTk@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">70</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A crime thriller drama based on a web novel of the same name that contains the field experience of Kwon Il Yong, Korea's No. 1 profiler.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Nam-gil Kim</actor>
+			<role>Song Ha-Young</role>
+		</credit>
+		<credit>
+			<actor>Jin Seon-kyu</actor>
+			<role>Gook Young-Soo</role>
+		</credit>
+		<credit>
+			<actor>Ryeoun</actor>
+			<role>Jung Woo-Joo</role>
+		</credit>
+		<credit>
+			<actor>Kim So-jin</actor>
+			<role>Yoon Tae-Goo</role>
+		</credit>
+		<credit>
+			<actor>Gong Sung-Ha</actor>
+			<role>Choi Gi Ja</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Indonesia">January 14 2022</releasedate>
+		<releasedate country="India">January 14 2022</releasedate>
+		<releasedate country="South Korea">January 14 2022</releasedate>
+		<releasedate country="Thailand">January 14 2022</releasedate>
+		<releasedate country="Singapore">January 15 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Korea">19</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Turkey">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>korean</keyword>
+		<keyword>kdrama</keyword>
+		<keyword>criminal profiler</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Park Bo-Ram</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Kwon Il-Yong</writer>
+		<writer> Go Na-Moo</writer>
+		<writer> Seol Yi-na</writer>
+	</writers>
+	<editors/>
+</doc>

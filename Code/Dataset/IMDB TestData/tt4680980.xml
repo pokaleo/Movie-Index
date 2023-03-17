@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<doc id="tt4680980">
+	<docid>tt4680980</docid>
+	<title>Trauma</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZmIzN2ZkNDEtNjJmNS00ZDNmLWE3YTctN2UwZTdjYzIyZDkzXkEyXkFqcGdeQXVyMTI0NTEyNzU@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2016</year>
+	<runningtimes>
+		<runningtime country="default">92</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>After discovering old fractures in her skull, a photographer recovering from amnesia becomes increasingly haunted by a sinister childhood secret.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Dermot Mulroney</actor>
+			<role>Patrick</role>
+		</credit>
+		<credit>
+			<actor>Abbie Cornish</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Justin Long</actor>
+			<role>Liam</role>
+		</credit>
+		<credit>
+			<actor>Diego Klattenhoff</actor>
+			<role>Alan</role>
+		</credit>
+		<credit>
+			<actor>Lola Flanery</actor>
+			<role>Alice Rutter</role>
+		</credit>
+		<credit>
+			<actor>Peyton Kennedy</actor>
+			<role>Young Jane</role>
+		</credit>
+		<credit>
+			<actor>Liisa Repo-Martell</actor>
+			<role>Jennifer</role>
+		</credit>
+		<credit>
+			<actor>Stuart Hughes</actor>
+			<role>Dr. Michaels</role>
+		</credit>
+		<credit>
+			<actor>Sarah Abbott</actor>
+			<role>Susie</role>
+		</credit>
+		<credit>
+			<actor>Hardee T. Lineham</actor>
+			<role>Officer #1</role>
+		</credit>
+		<credit>
+			<actor>Mackenzie Muldoon</actor>
+			<role>Jody</role>
+		</credit>
+		<credit>
+			<actor>Katie Odegaard</actor>
+			<role>Charlotte</role>
+		</credit>
+		<credit>
+			<actor>David MacNiven</actor>
+			<role>Newspaper Reporter</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">April 18 2016</releasedate>
+		<releasedate country="China">June 14 2016</releasedate>
+		<releasedate country="Canada">September 19 2016</releasedate>
+		<releasedate country="Canada">September 30 2016</releasedate>
+		<releasedate country="Canada">October 2 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>psychotronic film</keyword>
+	</keywords>
+	<directors>
+		<director> Ed Gass-Donnelly</director>
+	</directors>
+	<composers>
+		<composer> Sarah Neufeld</composer>
+		<composer> Colin Stetson</composer>
+	</composers>
+	<producers>
+		<producer> Emily Alden</producer>
+		<producer> Tex Antonucci</producer>
+		<producer> Monika Bacardi</producer>
+		<producer> Aaron Barnett</producer>
+		<producer> Jason Garrett</producer>
+		<producer> Ed Gass-Donnelly</producer>
+		<producer> Andrea Iervolino</producer>
+		<producer> Alexandra Klim</producer>
+		<producer> Jennifer Levine</producer>
+		<producer> Silvio Muraglia</producer>
+		<producer> David Rogers</producer>
+		<producer> David Valleau</producer>
+	</producers>
+	<writers>
+		<writer> Colin Frizzell</writer>
+		<writer> Ed Gass-Donnelly</writer>
+	</writers>
+	<editors>
+		<editor> Dev Singh</editor>
+	</editors>
+</doc>

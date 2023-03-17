@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<doc id="tt1578887">
+	<docid>tt1578887</docid>
+	<title>Luck</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzhlNTAyY2YtNWUyYi00YmE3LWE2OTctZDI2MmJkNmZiMmY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2011</year>
+	<runningtimes>
+		<runningtime country="default">52</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sport</genre>
+	</genres>
+	<plot>A television series centered around characters who are tied to the same horse-racing track.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Dustin Hoffman</actor>
+			<role>Chester Bernstein</role>
+		</credit>
+		<credit>
+			<actor>Dennis Farina</actor>
+			<role>Gus Demitriou</role>
+		</credit>
+		<credit>
+			<actor>John Ortiz</actor>
+			<role>Turo Escalante</role>
+		</credit>
+		<credit>
+			<actor>Richard Kind</actor>
+			<role>Joey Rathburn</role>
+		</credit>
+		<credit>
+			<actor>Jill Hennessy</actor>
+			<role>Jo</role>
+		</credit>
+		<credit>
+			<actor>Nick Nolte</actor>
+			<role>Walter Smith</role>
+		</credit>
+		<credit>
+			<actor>Kevin Dunn</actor>
+			<role>Marcus</role>
+		</credit>
+		<credit>
+			<actor>Ian Hart</actor>
+			<role>Lonnie</role>
+		</credit>
+		<credit>
+			<actor>Ritchie Coster</actor>
+			<role>Renzo</role>
+		</credit>
+		<credit>
+			<actor>Jason Gedrick</actor>
+			<role>Jerry</role>
+		</credit>
+		<credit>
+			<actor>Kerry Condon</actor>
+			<role>Rosie</role>
+		</credit>
+		<credit>
+			<actor>Gary Stevens</actor>
+			<role>Ronnie Jenkins</role>
+		</credit>
+		<credit>
+			<actor>Tom Payne</actor>
+			<role>Leon Micheaux</role>
+		</credit>
+		<credit>
+			<actor>Miguel Delgado</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Joan Allen</actor>
+			<role>Claire Lachay</role>
+		</credit>
+		<credit>
+			<actor>Alan Rosenberg</actor>
+			<role>Nick DeRossi</role>
+		</credit>
+		<credit>
+			<actor>Michael Gambon</actor>
+			<role>Michael</role>
+		</credit>
+		<credit>
+			<actor>Ted Levine</actor>
+			<role>Isadore Cohen</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">December 11 2011</releasedate>
+		<releasedate country="United States">January 29 2012</releasedate>
+		<releasedate country="Hungary">January 30 2012</releasedate>
+		<releasedate country="United Kingdom">February 2012</releasedate>
+		<releasedate country="Hungary">February 6 2012</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>horse racing</keyword>
+		<keyword>horse trainer</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>gambling</keyword>
+		<keyword>racetrack</keyword>
+	</keywords>
+	<directors>
+		<director> Allen Coulter</director>
+		<director> Brian Kirk</director>
+		<director> Mimi Leder</director>
+		<director> Michael Mann</director>
+		<director> Henry Bronchtein</director>
+		<director> Terry George</director>
+		<director> Phillip Noyce</director>
+	</directors>
+	<composers>
+		<composer> Gary Lionelli</composer>
+		<composer> Jeff Beal</composer>
+		<composer> Dickon Hinchliffe</composer>
+		<composer> James Jandrisch</composer>
+	</composers>
+	<producers>
+		<producer> Henry Bronchtein</producer>
+		<producer> Dustin Hoffman</producer>
+		<producer> Michael Mann</producer>
+		<producer> David Milch</producer>
+		<producer> Eric Roth</producer>
+		<producer> Carolyn Strauss</producer>
+		<producer> Julie Herrin</producer>
+		<producer> Kathleen M. Shea</producer>
+		<producer> Ra'uf Glasgow</producer>
+		<producer> Lori Slomka</producer>
+		<producer> Todd London</producer>
+	</producers>
+	<writers>
+		<writer> David Milch</writer>
+		<writer> David Milch</writer>
+		<writer> John R. Perrotta</writer>
+		<writer> John R. Perrotta</writer>
+		<writer> Jay Hovdey</writer>
+		<writer> Ron Peters</writer>
+		<writer> Bill Barich</writer>
+		<writer> Amanda Ferguson</writer>
+		<writer> Bryan Law</writer>
+		<writer> Eric Roth</writer>
+		<writer> Robin Shushan</writer>
+		<writer> Scott Willson</writer>
+	</writers>
+	<editors>
+		<editor> Michelle Tesoro</editor>
+		<editor> Leo Trombetta</editor>
+		<editor> Tod Feuerman</editor>
+		<editor> Michael Brown</editor>
+		<editor> Hank Corwin</editor>
+		<editor> Kelley Dixon</editor>
+	</editors>
+</doc>

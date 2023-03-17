@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<doc id="tt8190688">
+	<docid>tt8190688</docid>
+	<title>Valley of Tears</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDY4ODBhZTAtMjBiYi00OTY3LTkzNTctNWU0MDlmYjAzZjI5XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>War</genre>
+	</genres>
+	<plot>On October 6th 1973, the Middle East was shaken by the biggest war it had ever seen. A war that should have been the last one, and that forever changed the region.</plot>
+	<countries>
+		<country>Israel</country>
+	</countries>
+	<languages>
+		<language>Hebrew</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Avraham Aviv Alush</actor>
+			<role>Yoav Mazuz</role>
+		</credit>
+		<credit>
+			<actor>Lior Ashkenazi</actor>
+			<role>Meni Ben-Dror</role>
+		</credit>
+		<credit>
+			<actor>Shahar Tavoch</actor>
+			<role>Avinoam Shapira</role>
+		</credit>
+		<credit>
+			<actor>Imri Biton</actor>
+			<role>Jacky Alush</role>
+		</credit>
+		<credit>
+			<actor>Lee Biran</actor>
+			<role>Yoni Ben-Dror</role>
+		</credit>
+		<credit>
+			<actor>Ofer Hayoun</actor>
+			<role>Marco</role>
+		</credit>
+		<credit>
+			<actor>Joy Rieger</actor>
+			<role>Dafna</role>
+		</credit>
+		<credit>
+			<actor>Maor Schwitzer</actor>
+			<role>Malachi</role>
+		</credit>
+		<credit>
+			<actor>Omer Perelman Striks</actor>
+			<role>Nimrod Caspi</role>
+		</credit>
+		<credit>
+			<actor>Dylan Ramsey</actor>
+			<role>Actor (Malachi)</role>
+		</credit>
+		<credit>
+			<actor>Eldad Ben Tora</actor>
+			<role>Pitzi Rozenhouse</role>
+		</credit>
+		<credit>
+			<actor>Tom Avni</actor>
+			<role>Tamir</role>
+		</credit>
+		<credit>
+			<actor>Ofir Martin</actor>
+			<role>Sulami</role>
+		</credit>
+		<credit>
+			<actor>Matt Fowler</actor>
+			<role>Multiple</role>
+		</credit>
+		<credit>
+			<actor>Randolph Thompson</actor>
+			<role>Multiple</role>
+		</credit>
+		<credit>
+			<actor>Ohad Knoller</actor>
+			<role>Colonel Meir Almogi</role>
+		</credit>
+		<credit>
+			<actor>Lidor Edri</actor>
+			<role>Riki</role>
+		</credit>
+		<credit>
+			<actor>Ami Smolartchik</actor>
+			<role>Bentsy</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="France">March 2020</releasedate>
+		<releasedate country="Israel">October 19 2020</releasedate>
+		<releasedate country="Brazil">November 12 2020</releasedate>
+		<releasedate country="Canada">November 12 2020</releasedate>
+		<releasedate country="Spain">November 12 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>yom kippur war</keyword>
+		<keyword>israeli syrian border</keyword>
+		<keyword>israeli society</keyword>
+		<keyword>year 1973</keyword>
+		<keyword>syrian army</keyword>
+		<keyword>shell shock</keyword>
+		<keyword>idf israel defense forces</keyword>
+		<keyword>timeframe 1970s</keyword>
+	</keywords>
+	<directors>
+		<director> Yaron Zilberman</director>
+		<director> Kate Jopson</director>
+	</directors>
+	<composers>
+		<composer> Ophir Leibovitch</composer>
+	</composers>
+	<producers>
+		<producer> Thomas Alfandari</producer>
+		<producer> Amit Cohen</producer>
+		<producer> Matan Gaida</producer>
+		<producer> Noa Gavish</producer>
+		<producer> Ron Leshem</producer>
+		<producer> Maya Amsellem</producer>
+		<producer> David Betzer</producer>
+		<producer> Moshe Edery</producer>
+		<producer> Sharon Harel-Cohen</producer>
+	</producers>
+	<writers>
+		<writer> Daniel Amsel</writer>
+		<writer> Amit Cohen</writer>
+		<writer> Ron Leshem</writer>
+		<writer> Gal Zaid</writer>
+		<writer> Yaron Zilberman</writer>
+		<writer> Amir Gutfreund</writer>
+		<writer> Izhar Harlev</writer>
+		<writer> Yael Hedaya</writer>
+	</writers>
+	<editors>
+		<editor> Itamar Goldwasser</editor>
+		<editor> Yuval Shar</editor>
+		<editor> Dov Steuer</editor>
+		<editor> Yonatan Weinstein</editor>
+	</editors>
+</doc>

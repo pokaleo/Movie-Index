@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<doc id="tt5622304">
+	<docid>tt5622304</docid>
+	<title>Bake Off: The Professionals</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzRjMDBhODktZjQ1MS00ZjRmLWFiNDEtN2U2MWY3YTk1NjJiXkEyXkFqcGdeQXVyMTMwMTc2Mzg4._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Game-Show</genre>
+		<genre>Reality-TV</genre>
+	</genres>
+	<plot>A search for the crème de la crème of British pastry. Teams consisting of three professional pastry chefs compete for the title.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Benoît Blin</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Cherish Finden</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Liam Charles</actor>
+			<role>Self - Presenter</role>
+		</credit>
+		<credit>
+			<actor>Tom Allen</actor>
+			<role>Self - Presenter</role>
+		</credit>
+		<credit>
+			<actor>Stacey Solomon</actor>
+			<role>Self - Presenter</role>
+		</credit>
+		<credit>
+			<actor>Angus Deayton</actor>
+			<role>Self - Presenter</role>
+		</credit>
+		<credit>
+			<actor>Tom Kerridge</actor>
+			<role>Self - Presenter</role>
+		</credit>
+		<credit>
+			<actor>Claire Clark</actor>
+			<role>Self - Judge</role>
+		</credit>
+		<credit>
+			<actor>Samantha Rain</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Mark Tilling</actor>
+			<role>Self - Team Captain</role>
+		</credit>
+		<credit>
+			<actor>Helen Vass</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Sam Widnall</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">March 29 2016</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>chef</keyword>
+		<keyword>pastry chef</keyword>
+		<keyword>food</keyword>
+		<keyword>six word title</keyword>
+		<keyword>contest</keyword>
+		<keyword>bake off</keyword>
+		<keyword>baking competition</keyword>
+		<keyword>baking</keyword>
+		<keyword>spin off</keyword>
+		<keyword>non fiction</keyword>
+	</keywords>
+	<directors>
+		<director> Jeanette Goulbourn</director>
+		<director> Gurdip Mahal</director>
+	</directors>
+	<composers>
+		<composer> Tom Howe</composer>
+	</composers>
+	<producers>
+		<producer> Kate Baller</producer>
+		<producer> Anna Beattie</producer>
+		<producer> Richard Bowron</producer>
+		<producer> Tara Jang</producer>
+		<producer> Richard McKerrow</producer>
+		<producer> Beth Bayes</producer>
+		<producer> Lauren Birch</producer>
+		<producer> Niall Conroy</producer>
+		<producer> Ed Goacher</producer>
+		<producer> Fraser Goodwin</producer>
+		<producer> Archie Montgomery</producer>
+		<producer> Gina Ross</producer>
+		<producer> Harry Wade</producer>
+		<producer> Stephanie Whiting</producer>
+		<producer> Nicholas Berry</producer>
+		<producer> Matt Grosch</producer>
+		<producer> Jonny Scrafton</producer>
+		<producer> Abbi Shouler</producer>
+		<producer> Kieran Smith</producer>
+		<producer> Jack Stoneman</producer>
+		<producer> Lucy Terrell</producer>
+		<producer> Lucy Welch</producer>
+	</producers>
+	<writers/>
+	<editors>
+		<editor> Helen Keen</editor>
+	</editors>
+</doc>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<doc id="tt19784004">
+	<docid>tt19784004</docid>
+	<title>Tapana</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTdhZTg5MDktZjY2MC00NThjLWFlNmQtODNmYTA3M2YwMDcwXkEyXkFqcGdeQXVyMTEwOTUyOTg5._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">96</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Romance</genre>
+	</genres>
+	<plot>Add a Plot</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Telugu</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Dharan Naidu</actor>
+			<role>Chambu Nadam</role>
+		</credit>
+		<credit>
+			<actor>Kavya Kirthi</actor>
+			<role>Lalitha</role>
+		</credit>
+		<credit>
+			<actor>Priya Gowda</actor>
+			<role>Kavitha</role>
+		</credit>
+		<credit>
+			<actor>Ravi Babu</actor>
+			<role>Ravi</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="India">April 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="India">A</certificate>
+	</certificates>
+	<keywords>
+		<keyword>suffering</keyword>
+		<keyword>illness</keyword>
+	</keywords>
+	<directors>
+		<director> K. Venkatesh</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Ch.Ramesh</producer>
+	</producers>
+	<writers>
+		<writer> K. Venkatesh</writer>
+	</writers>
+	<editors>
+		<editor> K. Rangaswami</editor>
+	</editors>
+</doc>

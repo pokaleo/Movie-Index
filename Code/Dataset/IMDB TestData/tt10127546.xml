@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<doc id="tt10127546">
+	<docid>tt10127546</docid>
+	<title>National Theatre Live: The Lehman Trilogy</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjBmMGI1ZDYtNzg2Yy00ZDBmLWEwYjUtYWI2Y2YzMTY0OGE2XkEyXkFqcGdeQXVyNTY3OTE3Mzg@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">223</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The story of Lehman Brothers, from their beginnings as cotton brokers before the Civil War to the company's involvement in the financial crisis of 2008.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Simon Russell Beale</actor>
+			<role>Henry Lehman</role>
+		</credit>
+		<credit>
+			<actor>Adam Godley</actor>
+			<role>Mayer Lehman</role>
+		</credit>
+		<credit>
+			<actor>Ben Miles</actor>
+			<role>Emanual Lehman</role>
+		</credit>
+		<credit>
+			<actor>Gary Bland</actor>
+			<role>Lehman Brothers Office Worker</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">July 25 2019</releasedate>
+		<releasedate country="United Kingdom">July 25 2019</releasedate>
+		<releasedate country="Ireland">July 25 2019</releasedate>
+		<releasedate country="United States">July 25 2019</releasedate>
+		<releasedate country="Australia">August 31 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="New Zealand">M</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Taiwan">GP</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+	</certificates>
+	<keywords>
+		<keyword>crisis</keyword>
+		<keyword>timeframe 2000s</keyword>
+		<keyword>actor recreates his stage role</keyword>
+		<keyword>based on a stage play</keyword>
+	</keywords>
+	<directors>
+		<director> Sam Mendes</director>
+		<director> Matthew Amos</director>
+	</directors>
+	<composers>
+		<composer> Nick Powell</composer>
+	</composers>
+	<producers/>
+	<writers>
+		<writer> Stefano Massini</writer>
+		<writer> Ben Power</writer>
+	</writers>
+	<editors/>
+</doc>

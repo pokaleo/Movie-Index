@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<doc id="tt11656892">
+	<docid>tt11656892</docid>
+	<title>Des</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTBhNWEwYjctZTQxMS00YWVmLThmODEtNjg1OWMzNjY1Njg2XkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">143</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>History</genre>
+	</genres>
+	<plot>In 1983, Scottish serial killer Dennis Nilsen was arrested after the discovery of human remains which had blocked a drain near his London home.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>David Tennant</actor>
+			<role>Dennis Nilsen</role>
+		</credit>
+		<credit>
+			<actor>Daniel Mays</actor>
+			<role>DCI Peter Jay</role>
+		</credit>
+		<credit>
+			<actor>Jason Watkins</actor>
+			<role>Brian Masters</role>
+		</credit>
+		<credit>
+			<actor>Ron Cook</actor>
+			<role>DSU Geoff Chambers</role>
+		</credit>
+		<credit>
+			<actor>Barry Ward</actor>
+			<role>DI Steve McCusker</role>
+		</credit>
+		<credit>
+			<actor>Faye McKeever</actor>
+			<role>Linda Jay</role>
+		</credit>
+		<credit>
+			<actor>Ben Bailey Smith</actor>
+			<role>DC Brian Lodge</role>
+		</credit>
+		<credit>
+			<actor>Bronagh Waugh</actor>
+			<role>Charlotte Proctor</role>
+		</credit>
+		<credit>
+			<actor>Chanel Cresswell</actor>
+			<role>Lesley Mead</role>
+		</credit>
+		<credit>
+			<actor>Jay Simpson</actor>
+			<role>DS Chris Healey</role>
+		</credit>
+		<credit>
+			<actor>Alex Bhat</actor>
+			<role>DS Jones</role>
+		</credit>
+		<credit>
+			<actor>Joel Morris</actor>
+			<role>Tim Wells</role>
+		</credit>
+		<credit>
+			<actor>Andy Jaye</actor>
+			<role>News Correspondent</role>
+		</credit>
+		<credit>
+			<actor>Neil Edmond</actor>
+			<role>Clerk of the Court</role>
+		</credit>
+		<credit>
+			<actor>Laurie Kynaston</actor>
+			<role>Carl Stottor</role>
+		</credit>
+		<credit>
+			<actor>Silas Carson</actor>
+			<role>Russell Cavendish</role>
+		</credit>
+		<credit>
+			<actor>Jamie Parker</actor>
+			<role>Allan Green QC</role>
+		</credit>
+		<credit>
+			<actor>Pip Torrens</actor>
+			<role>Ivan Lawrence QC</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">September 14 2020</releasedate>
+		<releasedate country="United Kingdom">September 14 2020</releasedate>
+		<releasedate country="Australia">September 15 2020</releasedate>
+		<releasedate country="United States">October 15 2020</releasedate>
+		<releasedate country="Germany">October 29 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">9</certificate>
+		<certificate country="Poland">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Not Rated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>serial killer</keyword>
+		<keyword>1980s</keyword>
+		<keyword>london england</keyword>
+		<keyword>police</keyword>
+		<keyword>writer</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>true crime</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>year 1983</keyword>
+		<keyword>biographer</keyword>
+		<keyword>homosexual</keyword>
+		<keyword>london metropolitan police</keyword>
+		<keyword>nickname in title</keyword>
+		<keyword>one word title</keyword>
+		<keyword>timeframe 1980s</keyword>
+		<keyword>serial killer crime</keyword>
+		<keyword>based on book</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Lewis Arnold</director>
+	</directors>
+	<composers>
+		<composer> Sarah Warne</composer>
+	</composers>
+	<producers>
+		<producer> Lewis Arnold</producer>
+		<producer> Victoria Goodall</producer>
+		<producer> Willow Grylls</producer>
+		<producer> David Meanti</producer>
+		<producer> Luke Neal</producer>
+		<producer> Charles Pattinson</producer>
+		<producer> Elaine Pyke</producer>
+		<producer> David Tennant</producer>
+		<producer> Kim Varvell</producer>
+	</producers>
+	<writers>
+		<writer> Lewis Arnold</writer>
+		<writer> Kelly Jones</writer>
+		<writer> Brian Masters</writer>
+		<writer> Luke Neal</writer>
+		<writer> Luke Neal</writer>
+	</writers>
+	<editors>
+		<editor> Sacha Szwarc</editor>
+	</editors>
+</doc>

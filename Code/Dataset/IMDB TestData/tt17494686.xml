@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<doc id="tt17494686">
+	<docid>tt17494686</docid>
+	<title>Decibel</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDg5NTE0OGMtNDBlMC00YTRlLTgzOGEtY2MxZDVhNzdjZTM5XkEyXkFqcGdeQXVyNjgyMTI1MDE@._V1_QL75_UX190_CR0,11,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">110</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>The story unfolds when a bomb that responds to sound is discovered at the center of the city.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Rae-won Kim</actor>
+			<role>Commander Kang Do-Young</role>
+		</credit>
+		<credit>
+			<actor>Cha Eun-Woo</actor>
+			<role>Staff Sergeant Jeong Tae-Ryoung</role>
+		</credit>
+		<credit>
+			<actor>Dal-hwan Jo</actor>
+			<role>Sergeant Noh</role>
+		</credit>
+		<credit>
+			<actor>Lee Jong-Suk</actor>
+			<role>Captain Jeong Tae-Seong</role>
+		</credit>
+		<credit>
+			<actor>Sang-Hoon Jung</actor>
+			<role>Reporter Oh Dae-Oh</role>
+		</credit>
+		<credit>
+			<actor>Lee Min-ki</actor>
+			<role>Captain Hwang</role>
+		</credit>
+		<credit>
+			<actor>Byeong-eun Park</actor>
+			<role>Agent Cha Young-Han</role>
+		</credit>
+		<credit>
+			<actor>Lee Sang-hee</actor>
+			<role>First Sergeant Jang Yu-Jeong</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">November 12 2022</releasedate>
+		<releasedate country="South Korea">November 16 2022</releasedate>
+		<releasedate country="Egypt">November 22 2022</releasedate>
+		<releasedate country="Taiwan">November 25 2022</releasedate>
+		<releasedate country="Indonesia">November 30 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Indonesia">13+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Taiwan">6+</certificate>
+		<certificate country="Thailand">u 15+</certificate>
+		<certificate country="Turkey">10+</certificate>
+		<certificate country="Vietnam">C13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>terrorism</keyword>
+		<keyword>ptsd</keyword>
+		<keyword>commander</keyword>
+		<keyword>navy</keyword>
+	</keywords>
+	<directors>
+		<director> In-ho Hwang</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Mark W. Shaw</producer>
+	</producers>
+	<writers>
+		<writer> In-ho Hwang</writer>
+		<writer> Jin-hoon Lee</writer>
+	</writers>
+	<editors/>
+</doc>

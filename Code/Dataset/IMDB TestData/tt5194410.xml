@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<doc id="tt5194410">
+	<docid>tt5194410</docid>
+	<title>Springfloden</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYjRmNmI4NWQtZjExMC00NGU5LWE3NTYtN2U3NDc5NTA4M2Y3XkEyXkFqcGdeQXVyMTMwOTMzNzU@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">44</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A student at the Police Academy is tasked to study a cold case: the murder of a pregnant woman on a Swedish beach 25 years ago.</plot>
+	<countries>
+		<country>Sweden</country>
+	</countries>
+	<languages>
+		<language>Swedish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Julia Ragnarsson</actor>
+			<role>Olivia Rönning</role>
+		</credit>
+		<credit>
+			<actor>Kjell Bergqvist</actor>
+			<role>Tom Stilton</role>
+		</credit>
+		<credit>
+			<actor>Cecilia Nilsson</actor>
+			<role>Mette Olsäter</role>
+		</credit>
+		<credit>
+			<actor>Dar Salim</actor>
+			<role>Abbas El Fassi</role>
+		</credit>
+		<credit>
+			<actor>Michaela Thorsén</actor>
+			<role>Lisa</role>
+		</credit>
+		<credit>
+			<actor>Arvin Kananian</actor>
+			<role>Bosse</role>
+		</credit>
+		<credit>
+			<actor>Michael Segerström</actor>
+			<role>Mårten Olsäter</role>
+		</credit>
+		<credit>
+			<actor>Kjell Wilhelmsen</actor>
+			<role>Forss</role>
+		</credit>
+		<credit>
+			<actor>Johan Widerberg</actor>
+			<role>Minken</role>
+		</credit>
+		<credit>
+			<actor>Görel Crona</actor>
+			<role>Jackie Berglund</role>
+		</credit>
+		<credit>
+			<actor>Saga Samuelsson</actor>
+			<role>Sandra Sahlman</role>
+		</credit>
+		<credit>
+			<actor>Nemanja Stojanovic</actor>
+			<role>Alex Popovic</role>
+		</credit>
+		<credit>
+			<actor>Mårten Klingberg</actor>
+			<role>Jean Borell</role>
+		</credit>
+		<credit>
+			<actor>Malena Engström</actor>
+			<role>Ovette</role>
+		</credit>
+		<credit>
+			<actor>Iggy Malmborg</actor>
+			<role>Lennie</role>
+		</credit>
+		<credit>
+			<actor>Leonard Samuelsson Heinemann</actor>
+			<role>Acke</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Rapaport</actor>
+			<role>Charlotte Pram</role>
+		</credit>
+		<credit>
+			<actor>Helena Bergström</actor>
+			<role>Linn Magnusson</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Sweden">February 2 2016</releasedate>
+		<releasedate country="France">March 6 2016</releasedate>
+		<releasedate country="Poland">March 6 2016</releasedate>
+		<releasedate country="Sweden">March 6 2016</releasedate>
+		<releasedate country="Netherlands">June 15 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>murder</keyword>
+		<keyword>cold case</keyword>
+		<keyword>ex cop</keyword>
+		<keyword>police cadet</keyword>
+		<keyword>based on novel</keyword>
+		<keyword>murder of a pregnant woman</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>gothenburg sweden</keyword>
+		<keyword>stockholm sweden</keyword>
+		<keyword>female protagonist</keyword>
+		<keyword>scandi noir crime</keyword>
+		<keyword>gay friend</keyword>
+		<keyword>unidentified body</keyword>
+		<keyword>homelessness</keyword>
+	</keywords>
+	<directors>
+		<director> Niklas Ohlson</director>
+		<director> Pontus Klänge</director>
+		<director> Mattias Ohlsson</director>
+	</directors>
+	<composers>
+		<composer> Johan Söderqvist</composer>
+		<composer> Fredrik Möller</composer>
+	</composers>
+	<producers>
+		<producer> Peter Bengtsson</producer>
+		<producer> Lars Blomgren</producer>
+		<producer> Thomas Disch</producer>
+		<producer> Wolfgang Feindt</producer>
+		<producer> Peter Nadermann</producer>
+		<producer> Francy Suntinger</producer>
+		<producer> Alexander Vandeputte</producer>
+		<producer> Martin Cronström</producer>
+		<producer> Jan Declercq</producer>
+		<producer> Christian Wikander</producer>
+		<producer> Mattias Arehn</producer>
+		<producer> Antonin Dedet</producer>
+		<producer> Rafaele Ravinet-Virbel</producer>
+		<producer> Anna Croneman</producer>
+		<producer> Jan De Clercq</producer>
+		<producer> Tomas Eskilsson</producer>
+		<producer> Anneli Oscarsson</producer>
+		<producer> Frank Seyberth</producer>
+		<producer> Anna-Klara Carlsten</producer>
+	</producers>
+	<writers>
+		<writer> Camilla Ahlgren</writer>
+		<writer> Cilla Börjlind</writer>
+		<writer> Cilla Börjlind</writer>
+		<writer> Cilla Börjlind</writer>
+		<writer> Rolf Börjlind</writer>
+		<writer> Rolf Börjlind</writer>
+		<writer> Rolf Börjlind</writer>
+	</writers>
+	<editors>
+		<editor> Rickard Krantz</editor>
+		<editor> Emil Stenberg</editor>
+		<editor> Linda Jildmalm</editor>
+		<editor> Malin Lindström</editor>
+	</editors>
+</doc>

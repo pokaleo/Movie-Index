@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<doc id="tt3463606">
+	<docid>tt3463606</docid>
+	<title>Welcome to Sweden</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTY1NzIyNjM1MF5BMl5BanBnXkFtZTgwNjY2NDUxMjE@._V1_QL75_UY281_CR12,0,190,281_.jpg</image>
+	<year>2014</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>New York City accountant Bruce moves to Sweden in Northern Europe, after falling in love with a Swedish woman.</plot>
+	<countries>
+		<country>Sweden</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Greg Poehler</actor>
+			<role>Bruce</role>
+		</credit>
+		<credit>
+			<actor>Josephine Bornebusch</actor>
+			<role>Emma</role>
+		</credit>
+		<credit>
+			<actor>Lena Olin</actor>
+			<role>Viveka</role>
+		</credit>
+		<credit>
+			<actor>Christopher Wagelin</actor>
+			<role>Gustaf Wiik</role>
+		</credit>
+		<credit>
+			<actor>Claes Månsson</actor>
+			<role>Birger Wiik</role>
+		</credit>
+		<credit>
+			<actor>Amy Poehler</actor>
+			<role>Amy Poehler</role>
+		</credit>
+		<credit>
+			<actor>Per Svensson</actor>
+			<role>Bengt</role>
+		</credit>
+		<credit>
+			<actor>Illeana Douglas</actor>
+			<role>Nancy</role>
+		</credit>
+		<credit>
+			<actor>Aubrey Plaza</actor>
+			<role>Aubrey Plaza</role>
+		</credit>
+		<credit>
+			<actor>Basim Sabah Albasim</actor>
+			<role>Hassan</role>
+		</credit>
+		<credit>
+			<actor>Magnus Mark</actor>
+			<role>Olof</role>
+		</credit>
+		<credit>
+			<actor>Neve Campbell</actor>
+			<role>Diane</role>
+		</credit>
+		<credit>
+			<actor>Patrick Duffy</actor>
+			<role>Wayne</role>
+		</credit>
+		<credit>
+			<actor>Jennie Silfverhjelm</actor>
+			<role>Sofia</role>
+		</credit>
+		<credit>
+			<actor>Henrik Johansson</actor>
+			<role>Karl</role>
+		</credit>
+		<credit>
+			<actor>Marques Ray</actor>
+			<role>Pepe</role>
+		</credit>
+		<credit>
+			<actor>Madeleine Martin</actor>
+			<role>Girl in Café</role>
+		</credit>
+		<credit>
+			<actor>Gustav Roth</actor>
+			<role>Marcus</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Sweden">March 21 2014</releasedate>
+		<releasedate country="United States">July 10 2014</releasedate>
+		<releasedate country="Finland">November 3 2014</releasedate>
+		<releasedate country="Germany">January 15 2015</releasedate>
+		<releasedate country="Australia">July 5 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">6</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sweden</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>language barrier</keyword>
+		<keyword>culture shock</keyword>
+		<keyword>expatriate</keyword>
+		<keyword>racial stereotype</keyword>
+		<keyword>ethnic stereotype</keyword>
+		<keyword>american</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>awkwardness</keyword>
+		<keyword>sitcom</keyword>
+	</keywords>
+	<directors>
+		<director> Carl Åstrand</director>
+		<director> Ulf Kvensler</director>
+		<director> Staffan Lindberg</director>
+		<director> Lisa James Larsson</director>
+	</directors>
+	<composers>
+		<composer> Andreas Grill</composer>
+		<composer> Nick Malmeström</composer>
+		<composer> Adam Nordén</composer>
+	</composers>
+	<producers>
+		<producer> Josephine Bornebusch</producer>
+		<producer> Amy Poehler</producer>
+		<producer> Greg Poehler</producer>
+		<producer> Carrie Stein</producer>
+		<producer> Fredrik Arefalk</producer>
+		<producer> Benjamin Thuresson</producer>
+		<producer> Johanna Bergenstråhle</producer>
+		<producer> Lisa Dahlberg</producer>
+		<producer> Jessica Ericstam</producer>
+		<producer> Anna Knochenhauer</producer>
+		<producer> Iréne Lindblad</producer>
+		<producer> Pontus Edgren</producer>
+		<producer> Felix Herngren</producer>
+		<producer> Eleonor Sager</producer>
+		<producer> Michele Armour</producer>
+		<producer> Michael J. Cargill</producer>
+	</producers>
+	<writers>
+		<writer> Greg Poehler</writer>
+		<writer> Greg Poehler</writer>
+		<writer> Greg Poehler</writer>
+		<writer> Greg Poehler</writer>
+		<writer> Peter Arrhenius</writer>
+		<writer> Peter Arrhenius</writer>
+		<writer> Peter Arrhenius</writer>
+		<writer> Josephine Bornebusch</writer>
+		<writer> Josephine Bornebusch</writer>
+		<writer> Niclas Carlsson</writer>
+		<writer> Niclas Carlsson</writer>
+		<writer> Jesper Harrie</writer>
+		<writer> Martin Soneby</writer>
+		<writer> Ulf Kvensler</writer>
+		<writer> Ulf Kvensler</writer>
+		<writer> Ulf Kvensler</writer>
+		<writer> Bente Danielsson</writer>
+		<writer> Bente Danielsson</writer>
+		<writer> David Sundin</writer>
+		<writer> David Sundin</writer>
+	</writers>
+	<editors>
+		<editor> Henrik Källberg</editor>
+		<editor> Theo Lindberg</editor>
+		<editor> Fredrik Nordenson</editor>
+		<editor> Mattias Morheden</editor>
+		<editor> Emil Nikkhah</editor>
+		<editor> David Nordén</editor>
+		<editor> Joakim Tessert-Ekström</editor>
+	</editors>
+</doc>

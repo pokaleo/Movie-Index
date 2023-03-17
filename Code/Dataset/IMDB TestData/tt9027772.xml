@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<doc id="tt9027772">
+	<docid>tt9027772</docid>
+	<title>The Birch</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTYwZWM2NDYtMDU0ZS00ZjE0LWI2ZDktMTM5NWRmMzdlZDU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">15</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A teenager seeks out the help of a monster who lives in the woods. Based on the short film 'The Birch'.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Mono</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Xaria Dotson</actor>
+			<role>Evie Grayson</role>
+		</credit>
+		<credit>
+			<actor>Brady Romberg</actor>
+			<role>The Birch</role>
+		</credit>
+		<credit>
+			<actor>Dempsey Bryk</actor>
+			<role>Thurston Polk</role>
+		</credit>
+		<credit>
+			<actor>Quincy Dunn-Baker</actor>
+			<role>Sheriff Baker</role>
+		</credit>
+		<credit>
+			<actor>Jordyn DiNatale</actor>
+			<role>Rory</role>
+		</credit>
+		<credit>
+			<actor>Midori Francis</actor>
+			<role>Lanie Bouchard</role>
+		</credit>
+		<credit>
+			<actor>Sheaden Gabriel</actor>
+			<role>Darren</role>
+		</credit>
+		<credit>
+			<actor>Samuel-Taylor</actor>
+			<role>Razi</role>
+		</credit>
+		<credit>
+			<actor>Nikko Austen Smith</actor>
+			<role>Jihan Stephenson</role>
+		</credit>
+		<credit>
+			<actor>Michael Cram</actor>
+			<role>Sebastian Polk</role>
+		</credit>
+		<credit>
+			<actor>Haskiri Velazquez</actor>
+			<role>Charlotte</role>
+		</credit>
+		<credit>
+			<actor>Amanda Brooks</actor>
+			<role>Julia Campbell</role>
+		</credit>
+		<credit>
+			<actor>Brad Beyer</actor>
+			<role>Buddy</role>
+		</credit>
+		<credit>
+			<actor>Tucker Lipp</actor>
+			<role>Gavin</role>
+		</credit>
+		<credit>
+			<actor>Marguerite Moreau</actor>
+			<role>Rachel Bouchard</role>
+		</credit>
+		<credit>
+			<actor>Jy Prishkulnik</actor>
+			<role>Kelly Bernstein</role>
+		</credit>
+		<credit>
+			<actor>October Moore</actor>
+			<role>Dr. Sampson</role>
+		</credit>
+		<credit>
+			<actor>Nick Cassidy</actor>
+			<role>Thad</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">October 11 2019</releasedate>
+		<releasedate country="France">October 11 2019</releasedate>
+		<releasedate country="Indonesia">October 11 2019</releasedate>
+		<releasedate country="Italy">October 11 2019</releasedate>
+		<releasedate country="Poland">October 11 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="France">18</certificate>
+		<certificate country="Poland">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on short film</keyword>
+		<keyword>psychotronic series</keyword>
+		<keyword>monster horror</keyword>
+		<keyword>teenager</keyword>
+	</keywords>
+	<directors>
+		<director> John Ross</director>
+		<director> Amy Wang</director>
+	</directors>
+	<composers>
+		<composer> Jeff Grace</composer>
+	</composers>
+	<producers>
+		<producer> Liz Brandenburg</producer>
+		<producer> Cliff Wallace</producer>
+		<producer> Darren Brandl</producer>
+		<producer> Kevin Sullivan</producer>
+		<producer> Jeremy Elliott</producer>
+		<producer> Jack Davis</producer>
+		<producer> Kate Krantz</producer>
+		<producer> Jijo Reed</producer>
+		<producer> Daniel Persitz</producer>
+		<producer> Beth Tashjian</producer>
+		<producer> Ben Franklin</producer>
+		<producer> Anthony Melton</producer>
+	</producers>
+	<writers>
+		<writer> David Aslan</writer>
+		<writer> Truman Capps</writer>
+		<writer> J. Casey Modderno</writer>
+		<writer> Dylan Mulick</writer>
+		<writer> Dylan Mulick</writer>
+	</writers>
+	<editors>
+		<editor> Sang Han</editor>
+		<editor> Tim Brinker</editor>
+		<editor> Evan Schrodek</editor>
+		<editor> Scott Draper</editor>
+	</editors>
+</doc>

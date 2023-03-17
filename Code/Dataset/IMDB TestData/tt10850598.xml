@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<doc id="tt10850598">
+	<docid>tt10850598</docid>
+	<title>Souls</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMmJhZGFhMmItM2RmMC00NWIxLWE5ZjMtMmIwZmJkNTdjZTg4XkEyXkFqcGdeQXVyOTI5NDk4NDQ@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Three women whose lives turn upside down when Hanna's son, Jacob, is involved in a serious car accident and claims that he remembers his earlier life as a pilot of a lost passenger plane.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>German</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Godehard Giese</actor>
+			<role>Vincent</role>
+		</credit>
+		<credit>
+			<actor>Aleksandar Jovanovic</actor>
+			<role>Sebastian</role>
+		</credit>
+		<credit>
+			<actor>Neven Pilipovic</actor>
+			<role>Stockholm Arms Dealer</role>
+		</credit>
+		<credit>
+			<actor>Laurence Rupp</actor>
+			<role>Leo</role>
+		</credit>
+		<credit>
+			<actor>Brigitte Hobmeier</actor>
+			<role>Hanna</role>
+		</credit>
+		<credit>
+			<actor>Julia Koschitz</actor>
+			<role>Allie</role>
+		</credit>
+		<credit>
+			<actor>Aaron Kissiov</actor>
+			<role>Jacob</role>
+		</credit>
+		<credit>
+			<actor>Lili Epply</actor>
+			<role>Linn</role>
+		</credit>
+		<credit>
+			<actor>Derya Dilber</actor>
+			<role>Mathilda</role>
+		</credit>
+		<credit>
+			<actor>Jan Geburtig</actor>
+			<role>Junge (Fotovorproduktion)</role>
+		</credit>
+		<credit>
+			<actor>Abak Safaei-Rad</actor>
+			<role>Emma</role>
+		</credit>
+		<credit>
+			<actor>Selam Tadese</actor>
+			<role>Eddie</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Germany">November 8 2022</releasedate>
+		<releasedate country="France">November 8 2022</releasedate>
+		<releasedate country="Italy">November 26 2022</releasedate>
+		<releasedate country="Netherlands">January 7 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Norway">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>car</keyword>
+	</keywords>
+	<directors>
+		<director> Alex Eslam</director>
+		<director> Hanna Maria Heidrich</director>
+	</directors>
+	<composers>
+		<composer> Dascha Dauenhauer</composer>
+	</composers>
+	<producers>
+		<producer> Marcus Ammon</producer>
+		<producer> Malte Can</producer>
+		<producer> Cagla Eroglu</producer>
+		<producer> Hana Geißendörfer</producer>
+		<producer> Markus Golisano</producer>
+		<producer> Frank Jastfelder</producer>
+		<producer> Alena Jelinek</producer>
+		<producer> Dirk Seibert</producer>
+		<producer> Lucia Vogdt</producer>
+	</producers>
+	<writers>
+		<writer> Alex Eslam</writer>
+		<writer> Lisa van Brakel</writer>
+		<writer> Senad Halilbasic</writer>
+		<writer> Erol Yesilkaya</writer>
+		<writer> Malte Can</writer>
+	</writers>
+	<editors>
+		<editor> Benjamin Entrup</editor>
+		<editor> Julia Kovalenko</editor>
+		<editor> Moritz Poth</editor>
+		<editor> Robert Stuprich</editor>
+	</editors>
+</doc>

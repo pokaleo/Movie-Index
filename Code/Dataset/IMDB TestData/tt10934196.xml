@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<doc id="tt10934196">
+	<docid>tt10934196</docid>
+	<title>South Wind 2: Speed Up</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNzhlZDdiMWMtMzAyNy00YjZlLTliM2EtZmFiODI2YjQ1OWIwXkEyXkFqcGdeQXVyODIzOTUzOTI@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">127</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Follow-up to the 2018 film 'Juzni vetar'.</plot>
+	<countries>
+		<country>Serbia</country>
+	</countries>
+	<languages>
+		<language>Serbian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Milos Bikovic</actor>
+			<role>Petar Maras</role>
+		</credit>
+		<credit>
+			<actor>Miodrag Radonjic</actor>
+			<role>Baca</role>
+		</credit>
+		<credit>
+			<actor>Predrag 'Miki' Manojlovic</actor>
+			<role>Car</role>
+		</credit>
+		<credit>
+			<actor>Aleksandar Bercek</actor>
+			<role>Crveni</role>
+		</credit>
+		<credit>
+			<actor>Jovana Stojiljkovic</actor>
+			<role>Sofija</role>
+		</credit>
+		<credit>
+			<actor>Luka Grbic</actor>
+			<role>Nenad Maras</role>
+		</credit>
+		<credit>
+			<actor>Zachary Baharov</actor>
+			<role>Kiril</role>
+		</credit>
+		<credit>
+			<actor>Marian Valev</actor>
+			<role>Cavdar</role>
+		</credit>
+		<credit>
+			<actor>Mak Marinov</actor>
+			<role>Angel</role>
+		</credit>
+		<credit>
+			<actor>Nenad Herakovic</actor>
+			<role>Mure</role>
+		</credit>
+		<credit>
+			<actor>Anastasia Everall</actor>
+			<role>Elly</role>
+		</credit>
+		<credit>
+			<actor>Assen Blatechki</actor>
+			<role>Boris</role>
+		</credit>
+		<credit>
+			<actor>Mladen Sovilj</actor>
+			<role>Drka</role>
+		</credit>
+		<credit>
+			<actor>Radovan Vujovic</actor>
+			<role>Inspektor Tankosic</role>
+		</credit>
+		<credit>
+			<actor>Goran Navojec</actor>
+			<role>Tomica</role>
+		</credit>
+		<credit>
+			<actor>Aleksandar Gligoric</actor>
+			<role>Kapucino</role>
+		</credit>
+		<credit>
+			<actor>Rousy Chanev</actor>
+			<role>Ivan</role>
+		</credit>
+		<credit>
+			<actor>Alexandar Tonev</actor>
+			<role>Cavdarov brat</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Croatia">July 19 2021</releasedate>
+		<releasedate country="Serbia">August 13 2021</releasedate>
+		<releasedate country="Serbia">November 2 2021</releasedate>
+		<releasedate country="Germany">November 6 2021</releasedate>
+		<releasedate country="Croatia">November 11 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Bulgaria">D</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Milos Avramovic</director>
+	</directors>
+	<composers>
+		<composer> Aleksandar Randjelovic</composer>
+	</composers>
+	<producers>
+		<producer> Milos Avramovic</producer>
+		<producer> Stanislav Babic</producer>
+		<producer> Milos Bikovic</producer>
+		<producer> Goran Bjelogrlic</producer>
+		<producer> Ljubomir Bozovic</producer>
+		<producer> Tatjana Zezelj Gojkovic</producer>
+		<producer> Kristina Marjanac</producer>
+		<producer> Miodrag Radonjic</producer>
+		<producer> Mirjana Tomic</producer>
+	</producers>
+	<writers>
+		<writer> Milos Avramovic</writer>
+		<writer> Petar Mihajlovic</writer>
+	</writers>
+	<editors>
+		<editor> Lazar Predojev</editor>
+	</editors>
+</doc>

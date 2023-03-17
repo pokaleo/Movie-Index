@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<doc id="tt3031654">
+	<docid>tt3031654</docid>
+	<title>Ennio</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTg4MDhkZTEtMmVlMC00MGUzLWE1NzYtYzQ0OTYyYWU1MmQ1XkEyXkFqcGdeQXVyMTEzNjIwODIw._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">156</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Biography</genre>
+		<genre>Music</genre>
+	</genres>
+	<plot>A documentary on the legendary film composer Ennio Morricone.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>Italian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Clint Eastwood</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Quentin Tarantino</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>John Williams</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Oliver Stone</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Hans Zimmer</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Terrence Malick</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Kar-Wai Wong</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Barry Levinson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Dario Argento</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>James Hetfield</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Bernardo Bertolucci</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Ennio Morricone</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Giuseppe Tornatore</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Quincy Jones</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Bruce Springsteen</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Roland Joffé</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Lina Wertmüller</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Marco Bellocchio</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">September 10 2021</releasedate>
+		<releasedate country="Sweden">November 13 2021</releasedate>
+		<releasedate country="Netherlands">November 22 2021</releasedate>
+		<releasedate country="Netherlands">November 27 2021</releasedate>
+		<releasedate country="Italy">February 17 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">Atp</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Chile">TE</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Switzerland">8</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>composer</keyword>
+		<keyword>film composer</keyword>
+		<keyword>maestro</keyword>
+	</keywords>
+	<directors>
+		<director> Giuseppe Tornatore</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Cristiano Bortone</producer>
+		<producer> Mauro Calevi</producer>
+		<producer> Gabriele Costa</producer>
+		<producer> Peter De Maegd</producer>
+		<producer> Tom Hameeuw</producer>
+		<producer> Diego Loreggian</producer>
+		<producer> San Fu Maltha</producer>
+		<producer> Gisella Marengo</producer>
+		<producer> Gianni Russo</producer>
+		<producer> Kar-Wai Wong</producer>
+	</producers>
+	<writers>
+		<writer> Giuseppe Tornatore</writer>
+	</writers>
+	<editors>
+		<editor> Massimo Quaglia</editor>
+		<editor> Annalisa Schillaci</editor>
+	</editors>
+</doc>

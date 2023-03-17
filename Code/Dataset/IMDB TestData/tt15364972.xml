@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<doc id="tt15364972">
+	<docid>tt15364972</docid>
+	<title>Sanctuary</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTQ4MTI1NTQ3NV5BMl5BanBnXkFtZTcwNDI4Mjc5MQ@@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>I 2022</year>
+	<runningtimes>
+		<runningtime country="default">96</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Follows a dominatrix and Hal, her wealthy client, and the disaster that ensues when Hal tries to end their relationship.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Christopher Abbott</actor>
+			<role>Hal</role>
+		</credit>
+		<credit>
+			<actor>Margaret Qualley</actor>
+			<role>Rebecca</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">September 12 2022</releasedate>
+		<releasedate country="Italy">October 14 2022</releasedate>
+		<releasedate country="Netherlands">November 3 2022</releasedate>
+		<releasedate country="Italy">March 2 2023</releasedate>
+		<releasedate country="United Kingdom">March 4 2023</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Zachary Wigon</director>
+	</directors>
+	<composers>
+		<composer> Ariel Marx</composer>
+	</composers>
+	<producers>
+		<producer> Carole Baraton</producer>
+		<producer> Micah Bloomberg</producer>
+		<producer> Pavel Burian</producer>
+		<producer> Elizaveta Chalenko</producer>
+		<producer> Yohann Comte</producer>
+		<producer> Maxim Dashkin</producer>
+		<producer> David Gendron</producer>
+		<producer> Ali Jazayeri</producer>
+		<producer> Lisa Kjerulff</producer>
+		<producer> David Lancaster</producer>
+		<producer> Pierre Mazars</producer>
+		<producer> Margaret Qualley</producer>
+		<producer> Jon Shiffman</producer>
+		<producer> Nick Shumaker</producer>
+		<producer> Ilya Stewart</producer>
+		<producer> Stephanie Wilcox</producer>
+	</producers>
+	<writers>
+		<writer> Micah Bloomberg</writer>
+		<writer> Micah Bloomberg</writer>
+	</writers>
+	<editors>
+		<editor> Kate Brokaw</editor>
+		<editor> Lance Edmands</editor>
+	</editors>
+</doc>

@@ -1,0 +1,406 @@
+<?xml version="1.0" ?>
+<doc id="tt9820556">
+	<docid>tt9820556</docid>
+	<title>Anti-Life</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOTk1Y2IyYzAtZGVkNC00Y2U3LWE0MWQtN2E3MTE1OTBjN2QyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>IV 2020</year>
+	<runningtimes>
+		<runningtime country="default">92</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>On the cusp of fatherhood, a junior mechanic aboard an interstellar ark to New Earth must outwit a malevolent cosmic terror intent on using the spaceship as a weapon.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Cody Kearsley</actor>
+			<role>Noah Coral</role>
+		</credit>
+		<credit>
+			<actor>Bruce Willis</actor>
+			<role>Clay</role>
+		</credit>
+		<credit>
+			<actor>Rachel Nichols</actor>
+			<role>Dr. Susan Chambers</role>
+		</credit>
+		<credit>
+			<actor>Kassandra Clementi</actor>
+			<role>Hayley Adams</role>
+		</credit>
+		<credit>
+			<actor>Johnny Messner</actor>
+			<role>Blucher Macon</role>
+		</credit>
+		<credit>
+			<actor>Corey Large</actor>
+			<role>Lincoln</role>
+		</credit>
+		<credit>
+			<actor>Callan Mulvey</actor>
+			<role>Teek</role>
+		</credit>
+		<credit>
+			<actor>Timothy V. Murphy</actor>
+			<role>Stanley</role>
+		</credit>
+		<credit>
+			<actor>Johann Urb</actor>
+			<role>Shady</role>
+		</credit>
+		<credit>
+			<actor>Ralf Moeller</actor>
+			<role>Vyrl</role>
+		</credit>
+		<credit>
+			<actor>Alexander Kane</actor>
+			<role>Mike Riggins</role>
+		</credit>
+		<credit>
+			<actor>Angie Pack</actor>
+			<role>Dr. Isabella Ortega</role>
+		</credit>
+		<credit>
+			<actor>Van Ayasit</actor>
+			<role>Xu</role>
+		</credit>
+		<credit>
+			<actor>Swen Temmel</actor>
+			<role>Fitzgerald</role>
+		</credit>
+		<credit>
+			<actor>Adam Huel Potter</actor>
+			<role>Bama</role>
+		</credit>
+		<credit>
+			<actor>Thomas Jane</actor>
+			<role>Admiral Adams-King</role>
+		</credit>
+		<credit>
+			<actor>Everly Large</actor>
+			<role>Ava</role>
+		</credit>
+		<credit>
+			<actor>Eric Buarque</actor>
+			<role>Clay Cast Double</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="South Korea">2020</releasedate>
+		<releasedate country="Russia">December 17 2020</releasedate>
+		<releasedate country="Brazil">December 18 2020</releasedate>
+		<releasedate country="Spain">December 18 2020</releasedate>
+		<releasedate country="United States">December 18 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">R</certificate>
+		<certificate country="Ecuador">18</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">VM12</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>spaceship</keyword>
+		<keyword>virus</keyword>
+		<keyword>impostor</keyword>
+		<keyword>mutation</keyword>
+		<keyword>flamethrower</keyword>
+		<keyword>mechanic</keyword>
+		<keyword>wisecrack</keyword>
+		<keyword>mid budget</keyword>
+		<keyword>exploration</keyword>
+		<keyword>trapped in space</keyword>
+		<keyword>voyage</keyword>
+		<keyword>colonization</keyword>
+		<keyword>creature</keyword>
+		<keyword>moonshine</keyword>
+		<keyword>one word title</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>suspense</keyword>
+		<keyword>electronic music score</keyword>
+		<keyword>year 2262</keyword>
+		<keyword>film starts with text</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>dark future</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>soldier</keyword>
+		<keyword>marine</keyword>
+		<keyword>space marine</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>special forces</keyword>
+		<keyword>female mercenary</keyword>
+		<keyword>female soldier</keyword>
+		<keyword>pistol</keyword>
+		<keyword>submachine gun</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>laser gun</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>violence</keyword>
+		<keyword>brutality</keyword>
+		<keyword>mercilessness</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>rescue</keyword>
+		<keyword>escape</keyword>
+		<keyword>deception</keyword>
+		<keyword>double cross</keyword>
+		<keyword>blood</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>gore</keyword>
+		<keyword>ambush</keyword>
+		<keyword>blood on camera lens</keyword>
+		<keyword>fear</keyword>
+		<keyword>paranoia</keyword>
+		<keyword>danger</keyword>
+		<keyword>panic</keyword>
+		<keyword>near death experience</keyword>
+		<keyword>attempted murder</keyword>
+		<keyword>race against time</keyword>
+		<keyword>survival</keyword>
+		<keyword>survival horror</keyword>
+		<keyword>protest</keyword>
+		<keyword>space shuttle</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>hologram</keyword>
+		<keyword>outer space</keyword>
+		<keyword>space travel</keyword>
+		<keyword>earth viewed from space</keyword>
+		<keyword>southern accent</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>captain</keyword>
+		<keyword>admiral</keyword>
+		<keyword>admiral's daughter</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>beer</keyword>
+		<keyword>alcohol</keyword>
+		<keyword>alcoholic</keyword>
+		<keyword>hyperspeed</keyword>
+		<keyword>cryosleep</keyword>
+		<keyword>grindhouse film</keyword>
+		<keyword>psychotronic film</keyword>
+		<keyword>b movie</keyword>
+		<keyword>black comedy</keyword>
+		<keyword>f word</keyword>
+		<keyword>bald man</keyword>
+		<keyword>montage</keyword>
+		<keyword>subjective camera</keyword>
+		<keyword>character's point of view camera shot</keyword>
+		<keyword>reverse footage</keyword>
+		<keyword>explosion</keyword>
+		<keyword>self destruct mechanism</keyword>
+		<keyword>disappearance</keyword>
+		<keyword>exploding ship</keyword>
+		<keyword>escape pod</keyword>
+		<keyword>planet</keyword>
+		<keyword>air vent</keyword>
+		<keyword>engineer</keyword>
+		<keyword>janitor</keyword>
+		<keyword>doctor</keyword>
+		<keyword>female doctor</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>marijuana joint</keyword>
+		<keyword>acid</keyword>
+		<keyword>acid burn</keyword>
+		<keyword>armory</keyword>
+		<keyword>burned alive</keyword>
+		<keyword>burned to death</keyword>
+		<keyword>fire</keyword>
+		<keyword>bunk bed</keyword>
+		<keyword>self sacrifice</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>bomb</keyword>
+		<keyword>false accusation</keyword>
+		<keyword>outbreak</keyword>
+		<keyword>infection</keyword>
+		<keyword>disease</keyword>
+		<keyword>suspicion</keyword>
+		<keyword>parasite</keyword>
+		<keyword>alien parasite</keyword>
+		<keyword>transformation</keyword>
+		<keyword>mind control</keyword>
+		<keyword>corpse</keyword>
+		<keyword>reanimated corpse</keyword>
+		<keyword>back from the dead</keyword>
+		<keyword>resurrection</keyword>
+		<keyword>undead</keyword>
+		<keyword>living dead</keyword>
+		<keyword>super strength</keyword>
+		<keyword>autopsy</keyword>
+		<keyword>stowaway</keyword>
+		<keyword>zombie</keyword>
+		<keyword>zombie horde</keyword>
+		<keyword>horde</keyword>
+		<keyword>zombie attack</keyword>
+		<keyword>creature feature</keyword>
+		<keyword>eavesdropping</keyword>
+		<keyword>monster</keyword>
+		<keyword>giant creature</keyword>
+		<keyword>giant monster</keyword>
+		<keyword>alien creature</keyword>
+		<keyword>alien monster</keyword>
+		<keyword>zombie child</keyword>
+		<keyword>cryogenics</keyword>
+		<keyword>interstellar ark</keyword>
+		<keyword>stupid victim</keyword>
+		<keyword>hand through chest</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>head bashed in</keyword>
+		<keyword>bloody violence</keyword>
+		<keyword>lens flare</keyword>
+		<keyword>green light</keyword>
+		<keyword>flare</keyword>
+		<keyword>blue light</keyword>
+		<keyword>red light</keyword>
+		<keyword>neon</keyword>
+		<keyword>man kills a woman</keyword>
+		<keyword>beating</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>photograph</keyword>
+		<keyword>beard</keyword>
+		<keyword>warp speed</keyword>
+		<keyword>cryostasis</keyword>
+		<keyword>passenger</keyword>
+		<keyword>space colony</keyword>
+		<keyword>claustrophobic</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>handcuffed to a pipe</keyword>
+		<keyword>party</keyword>
+		<keyword>moral dilemma</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>cigarette lighter</keyword>
+		<keyword>morgue</keyword>
+		<keyword>throat ripping</keyword>
+		<keyword>bitten in the neck</keyword>
+		<keyword>offscreen killing</keyword>
+		<keyword>escape attempt</keyword>
+		<keyword>security guard</keyword>
+		<keyword>surveillance footage</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>eaten alive</keyword>
+		<keyword>flesh eating zombie</keyword>
+		<keyword>severed arm</keyword>
+		<keyword>severed leg</keyword>
+		<keyword>dismemberment</keyword>
+		<keyword>grenade</keyword>
+		<keyword>reactor</keyword>
+		<keyword>sabotage</keyword>
+		<keyword>arrest</keyword>
+		<keyword>mutant</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>scar</keyword>
+		<keyword>reactor chamber</keyword>
+		<keyword>terrorist</keyword>
+		<keyword>revolutionary</keyword>
+		<keyword>barricade</keyword>
+		<keyword>flashlight</keyword>
+		<keyword>laser cutter</keyword>
+		<keyword>future</keyword>
+		<keyword>futuristic</keyword>
+		<keyword>time dilation</keyword>
+		<keyword>canadian science fiction</keyword>
+		<keyword>bravery</keyword>
+		<keyword>courage</keyword>
+		<keyword>infiltration</keyword>
+		<keyword>contagion</keyword>
+		<keyword>baseball bat</keyword>
+		<keyword>hit with a baseball bat</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>monster horror</keyword>
+		<keyword>2260s</keyword>
+		<keyword>space voyage</keyword>
+		<keyword>dystopian sci fi</keyword>
+		<keyword>year 2242</keyword>
+		<keyword>timeframe 2240s</keyword>
+		<keyword>space sci fi</keyword>
+		<keyword>b sci fi</keyword>
+		<keyword>pregnant woman</keyword>
+		<keyword>cryo chamber</keyword>
+		<keyword>parent grown child relationship</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>mess hall</keyword>
+		<keyword>drug use</keyword>
+		<keyword>smoking a joint</keyword>
+		<keyword>blood covered face</keyword>
+		<keyword>drinking</keyword>
+		<keyword>head smashed against a wall</keyword>
+		<keyword>missing person</keyword>
+		<keyword>dead body</keyword>
+		<keyword>biting someone's neck</keyword>
+		<keyword>post mortem</keyword>
+		<keyword>security camera footage</keyword>
+		<keyword>punched through the chest</keyword>
+		<keyword>parasitic organism</keyword>
+		<keyword>ventilation shaft</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+	</keywords>
+	<directors>
+		<director> John Suits</director>
+	</directors>
+	<composers>
+		<composer> Scott Glasgow</composer>
+	</composers>
+	<producers>
+		<producer> Mary Aloe</producer>
+		<producer> Shanan Becker</producer>
+		<producer> Bill Bromiley</producer>
+		<producer> Danny Chan</producer>
+		<producer> Matt Cohen</producer>
+		<producer> Mike Donovan</producer>
+		<producer> Roger Dorman</producer>
+		<producer> Edward Drake</producer>
+		<producer> Stephen J. Eads</producer>
+		<producer> David Fannon</producer>
+		<producer> Ryan Charles Griffin</producer>
+		<producer> Alexander Kane</producer>
+		<producer> Andrew Kotliar</producer>
+		<producer> Benjamin Krause</producer>
+		<producer> Corey Large</producer>
+		<producer> John Mehrer</producer>
+		<producer> Johnny Messner</producer>
+		<producer> Seth Needle</producer>
+		<producer> Danny Roth</producer>
+		<producer> Jonathan Saba</producer>
+		<producer> Ness Saban</producer>
+		<producer> Carlos Velazquez</producer>
+		<producer> Elizabeth Zavoyskiy</producer>
+	</producers>
+	<writers>
+		<writer> Edward Drake</writer>
+		<writer> Corey Large</writer>
+	</writers>
+	<editors/>
+</doc>

@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<doc id="tt5711280">
+	<docid>tt5711280</docid>
+	<title>Electric Dreams</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNGY4OTBiMTktMDM4Zi00MjVhLTgyNjctOGYzNGM5YzBlMjU5XkEyXkFqcGdeQXVyNjI4OTg2Njg@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A sci-fi anthology series with stand-alone episodes based on the works of Philip K. Dick.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Bryan Cranston</actor>
+			<role>Silas</role>
+		</credit>
+		<credit>
+			<actor>Richard Madden</actor>
+			<role>Agent Ross</role>
+		</credit>
+		<credit>
+			<actor>Steve Buscemi</actor>
+			<role>Ed Morris</role>
+		</credit>
+		<credit>
+			<actor>Timothy Spall</actor>
+			<role>Ed Jacobson</role>
+		</credit>
+		<credit>
+			<actor>Geraldine Chaplin</actor>
+			<role>Irma</role>
+		</credit>
+		<credit>
+			<actor>Terrence Howard</actor>
+			<role>George</role>
+		</credit>
+		<credit>
+			<actor>Juno Temple</actor>
+			<role>Emily Zabriskie</role>
+		</credit>
+		<credit>
+			<actor>Greg Kinnear</actor>
+			<role>The Father</role>
+		</credit>
+		<credit>
+			<actor>Annalise Basso</actor>
+			<role>Foster Lee</role>
+		</credit>
+		<credit>
+			<actor>Mel Rodriguez</actor>
+			<role>Philbert Noyce</role>
+		</credit>
+		<credit>
+			<actor>Holliday Grainger</actor>
+			<role>Honor</role>
+		</credit>
+		<credit>
+			<actor>Anna Paquin</actor>
+			<role>Sarah</role>
+		</credit>
+		<credit>
+			<actor>Essie Davis</actor>
+			<role>Vera</role>
+		</credit>
+		<credit>
+			<actor>Benedict Wong</actor>
+			<role>Andrews</role>
+		</credit>
+		<credit>
+			<actor>Sidse Babett Knudsen</actor>
+			<role>Jill</role>
+		</credit>
+		<credit>
+			<actor>Anthony Boyle</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Janelle Monáe</actor>
+			<role>Alice</role>
+		</credit>
+		<credit>
+			<actor>Maura Tierney</actor>
+			<role>Irene Lee</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">September 17 2017</releasedate>
+		<releasedate country="Australia">September 18 2017</releasedate>
+		<releasedate country="Japan">January 11 2018</releasedate>
+		<releasedate country="Philippines">January 11 2018</releasedate>
+		<releasedate country="Singapore">January 11 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">18+</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">18+</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Italy">VM18</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Mexico">18</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R13</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sci fi anthology</keyword>
+		<keyword>alternate reality</keyword>
+		<keyword>based on short story</keyword>
+		<keyword>android</keyword>
+		<keyword>anthology</keyword>
+		<keyword>dystopian future</keyword>
+		<keyword>near future</keyword>
+		<keyword>computer</keyword>
+		<keyword>alien</keyword>
+		<keyword>high tech</keyword>
+		<keyword>2010s</keyword>
+		<keyword>anthology series</keyword>
+		<keyword>techno thriller</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>epic sci fi</keyword>
+		<keyword>social sci fi</keyword>
+		<keyword>short stories</keyword>
+	</keywords>
+	<directors>
+		<director> David Farr</director>
+		<director> Francesca Gregorini</director>
+		<director> Tom Harper</director>
+		<director> Julian Jarrold</director>
+		<director> Marc Munden</director>
+		<director> Jeffrey Reiner</director>
+		<director> Michael Dinner</director>
+		<director> Peter Horton</director>
+		<director> Dee Rees</director>
+		<director> Alan Taylor</director>
+	</directors>
+	<composers>
+		<composer> Bear McCreary</composer>
+		<composer> Ólafur Arnalds</composer>
+		<composer> Harry Gregson-Williams</composer>
+		<composer> Cristobal Tapia de Veer</composer>
+		<composer> BT</composer>
+		<composer> Mark Isham</composer>
+	</composers>
+	<producers>
+		<producer> Bryan Cranston</producer>
+		<producer> Maril Davis</producer>
+		<producer> James Degus</producer>
+		<producer> Matt DeRoss</producer>
+		<producer> Isa Dick Hackett</producer>
+		<producer> Katie DiMento</producer>
+		<producer> Michael Dinner</producer>
+		<producer> Kalen Egan</producer>
+		<producer> Will Halas</producer>
+		<producer> David Kanter</producer>
+		<producer> Marigo Kehoe</producer>
+		<producer> Don Kurt</producer>
+		<producer> Ronald D. Moore</producer>
+		<producer> Jordan Murcia</producer>
+		<producer> Lila Rawlings</producer>
+		<producer> Christopher Tricarico</producer>
+		<producer> Lynn Horsford</producer>
+		<producer> Carrie Holt de Lama</producer>
+		<producer> Steven Yell</producer>
+		<producer> Julie Clark</producer>
+		<producer> Julia Valentine</producer>
+		<producer> Rupert Ryle-Hodges</producer>
+		<producer> Dan Winch</producer>
+		<producer> Christina Varotsis</producer>
+	</producers>
+	<writers>
+		<writer> Philip K. Dick</writer>
+		<writer> Philip K. Dick</writer>
+		<writer> Philip K. Dick</writer>
+		<writer> Philip K. Dick</writer>
+		<writer> Philip K. Dick</writer>
+		<writer> David Farr</writer>
+		<writer> Matthew Graham</writer>
+		<writer> Tony Grisoni</writer>
+		<writer> Jessica Mecklenburg</writer>
+		<writer> Ronald D. Moore</writer>
+		<writer> Jack Thorne</writer>
+		<writer> Travis Beacham</writer>
+		<writer> Michael Dinner</writer>
+		<writer> Kalen Egan</writer>
+		<writer> Dee Rees</writer>
+		<writer> Travis Sentell</writer>
+	</writers>
+	<editors>
+		<editor> John Duffy</editor>
+		<editor> Keith Henderson</editor>
+		<editor> Chris Barwell</editor>
+		<editor> Adam Bosman</editor>
+		<editor> Ben Lester</editor>
+		<editor> Gareth C. Scales</editor>
+		<editor> Simon Smith</editor>
+		<editor> Debra Beth Weinfeld</editor>
+		<editor> Steven Worsley</editor>
+		<editor> Niven Howie</editor>
+	</editors>
+</doc>

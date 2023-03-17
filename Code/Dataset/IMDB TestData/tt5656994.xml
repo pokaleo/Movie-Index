@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<doc id="tt5656994">
+	<docid>tt5656994</docid>
+	<title>Project 'Gemini'</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZWFlMTMyZjctNTcyYi00ODM2LWE1NDYtZWMyODI0MTNkMDc0XkEyXkFqcGdeQXVyNjMzNjY2NjQ@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">98</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Sci-Fi</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A sci-fi thriller about a space mission sent to terraform a distant planet. However, the mission encounters something unknown that has its own plan for the planet.</plot>
+	<countries>
+		<country>Russia</country>
+	</countries>
+	<languages>
+		<language>Russian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Egor Koreshkov</actor>
+			<role>Steve</role>
+		</credit>
+		<credit>
+			<actor>Alyona Konstantinova</actor>
+			<role>Amy</role>
+		</credit>
+		<credit>
+			<actor>Samoukov Kostya</actor>
+			<role>Ryan</role>
+		</credit>
+		<credit>
+			<actor>Dmitriy Frid</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Nikita Dyuvbanov</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Martinez Lisa</actor>
+			<role>Leona</role>
+		</credit>
+		<credit>
+			<actor>Viktor Potapeshkin</actor>
+			<role>Richard</role>
+		</credit>
+		<credit>
+			<actor>Petr Romanov</actor>
+			<role>Peter</role>
+		</credit>
+		<credit>
+			<actor>Aeric Azana</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>Luis Bermudez</actor>
+			<role>David</role>
+		</credit>
+		<credit>
+			<actor>Ashely Biski</actor>
+			<role>Amy</role>
+		</credit>
+		<credit>
+			<actor>Carlyle DePriest</actor>
+			<role>Leona</role>
+		</credit>
+		<credit>
+			<actor>River Kanoff</actor>
+			<role>Richard</role>
+		</credit>
+		<credit>
+			<actor>Josh Petersdorf</actor>
+			<role>Ryan</role>
+		</credit>
+		<credit>
+			<actor>Caleb Yen</actor>
+			<role>Peter</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Russia">January 6 2022</releasedate>
+		<releasedate country="Estonia">January 7 2022</releasedate>
+		<releasedate country="Lithuania">January 7 2022</releasedate>
+		<releasedate country="Latvia">January 7 2022</releasedate>
+		<releasedate country="Vietnam">January 14 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Indonesia">R13+</certificate>
+		<certificate country="Japan">Not Rated</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Spain">Not Rated</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">Unrated</certificate>
+	</certificates>
+	<keywords>
+		<keyword>visit</keyword>
+		<keyword>space</keyword>
+		<keyword>spaceship</keyword>
+		<keyword>crew</keyword>
+		<keyword>base</keyword>
+		<keyword>creature</keyword>
+		<keyword>suit</keyword>
+		<keyword>coverall</keyword>
+		<keyword>greenhouse</keyword>
+		<keyword>plants</keyword>
+		<keyword>deceased</keyword>
+		<keyword>trapped in space</keyword>
+		<keyword>spacecraft</keyword>
+		<keyword>overall</keyword>
+		<keyword>space suit</keyword>
+		<keyword>universe</keyword>
+		<keyword>space station</keyword>
+		<keyword>star</keyword>
+		<keyword>planet</keyword>
+		<keyword>space rocket</keyword>
+		<keyword>dark</keyword>
+		<keyword>rock</keyword>
+		<keyword>solar system</keyword>
+		<keyword>monitor</keyword>
+		<keyword>control room</keyword>
+		<keyword>team</keyword>
+	</keywords>
+	<directors>
+		<director> Serik Beyseu</director>
+	</directors>
+	<composers>
+		<composer> Konstantin Poznekov</composer>
+	</composers>
+	<producers>
+		<producer> Aleksandr Boguslavskiy</producer>
+		<producer> Aleksandr Denisyuk</producer>
+		<producer> Viktor Denisyuk</producer>
+		<producer> Vladimir Denisyuk</producer>
+		<producer> Evgeniy Melentev</producer>
+	</producers>
+	<writers>
+		<writer> Natalya Lebedeva</writer>
+		<writer> Dmitriy Zhigalov</writer>
+	</writers>
+	<editors>
+		<editor> Serik Beyseu</editor>
+	</editors>
+</doc>

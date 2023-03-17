@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<doc id="tt10042788">
+	<docid>tt10042788</docid>
+	<title>Promises</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTcwMzU0OTY3NF5BMl5BanBnXkFtZTYwNzkwNjg2._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>IV 2021</year>
+	<runningtimes>
+		<runningtime country="default">113</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Plot unknown.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Pierfrancesco Favino</actor>
+			<role>Alexander</role>
+		</credit>
+		<credit>
+			<actor>Kelly Reilly</actor>
+			<role>Laura</role>
+		</credit>
+		<credit>
+			<actor>Jean Reno</actor>
+			<role>Grandpa</role>
+		</credit>
+		<credit>
+			<actor>Cara Theobold</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Kris Marshall</actor>
+			<role>Louis</role>
+		</credit>
+		<credit>
+			<actor>Deepak Verma</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Leon Hesby</actor>
+			<role>Young Alexander</role>
+		</credit>
+		<credit>
+			<actor>Ginnie Watson</actor>
+			<role>Bianca</role>
+		</credit>
+		<credit>
+			<actor>Marie Mouté</actor>
+			<role>Marika</role>
+		</credit>
+		<credit>
+			<actor>Mary Louise Gray</actor>
+			<role>Adult Jane</role>
+		</credit>
+		<credit>
+			<actor>Giulio Corso</actor>
+			<role>Vittorio</role>
+		</credit>
+		<credit>
+			<actor>Franca Abategiovanni</actor>
+			<role>Fernanda</role>
+		</credit>
+		<credit>
+			<actor>William Crossley</actor>
+			<role>Louis</role>
+		</credit>
+		<credit>
+			<actor>Douglas Dean</actor>
+			<role>Cottage Owner</role>
+		</credit>
+		<credit>
+			<actor>Freddy Drabble</actor>
+			<role>Pub waiter</role>
+		</credit>
+		<credit>
+			<actor>Michael Fitzpatrick</actor>
+			<role>Father MacGill</role>
+		</credit>
+		<credit>
+			<actor>Gabriele Forte</actor>
+			<role>Travelling Seller</role>
+		</credit>
+		<credit>
+			<actor>Giulia Gabriele</actor>
+			<role>Chacha</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">October 17 2021</releasedate>
+		<releasedate country="Italy">November 18 2021</releasedate>
+		<releasedate country="Germany">June 2 2022</releasedate>
+		<releasedate country="Germany">June 10 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Italy">T</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Amanda Sthers</director>
+	</directors>
+	<composers>
+		<composer> Andrea Laszlo De Simone</composer>
+	</composers>
+	<producers>
+		<producer> Marco Cohen</producer>
+		<producer> Fabio Conversi</producer>
+		<producer> Fabrizio Donvito</producer>
+		<producer> Benedetto Habib</producer>
+		<producer> Attila Mancarella</producer>
+		<producer> Daniel Campos Pavoncelli</producer>
+		<producer> Amanda Sthers</producer>
+		<producer> David Unger</producer>
+		<producer> Alvaro R. Valente</producer>
+		<producer> Andrea Zoso</producer>
+	</producers>
+	<writers>
+		<writer> Amanda Sthers</writer>
+	</writers>
+	<editors>
+		<editor> Cristiano Travaglioli</editor>
+	</editors>
+</doc>

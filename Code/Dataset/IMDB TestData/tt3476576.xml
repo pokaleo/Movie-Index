@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<doc id="tt3476576">
+	<docid>tt3476576</docid>
+	<title>The Slap</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjIxODYwNTIwOV5BMl5BanBnXkFtZTgwMjA2ODgxNDE@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A once happy family suddenly begins to fall apart following a seemingly minor incident in which a man slaps another couple's misbehaving child.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Brian Cox</actor>
+			<role>Manolis</role>
+		</credit>
+		<credit>
+			<actor>Melissa George</actor>
+			<role>Rosie</role>
+		</credit>
+		<credit>
+			<actor>Lucas Hedges</actor>
+			<role>Ritchie</role>
+		</credit>
+		<credit>
+			<actor>Marin Ireland</actor>
+			<role>Sandi</role>
+		</credit>
+		<credit>
+			<actor>Makenzie Leigh</actor>
+			<role>Connie</role>
+		</credit>
+		<credit>
+			<actor>Thandiwe Newton</actor>
+			<role>Aisha</role>
+		</credit>
+		<credit>
+			<actor>Zachary Quinto</actor>
+			<role>Harry</role>
+		</credit>
+		<credit>
+			<actor>Thomas Sadoski</actor>
+			<role>Gary</role>
+		</credit>
+		<credit>
+			<actor>Peter Sarsgaard</actor>
+			<role>Hector</role>
+		</credit>
+		<credit>
+			<actor>Uma Thurman</actor>
+			<role>Anouk</role>
+		</credit>
+		<credit>
+			<actor>Dylan Schombing</actor>
+			<role>Hugo</role>
+		</credit>
+		<credit>
+			<actor>Victor Garber</actor>
+			<role>Narrator</role>
+		</credit>
+		<credit>
+			<actor>Sophie Okonedo</actor>
+			<role>Aisha</role>
+		</credit>
+		<credit>
+			<actor>Maria Tucci</actor>
+			<role>Koula</role>
+		</credit>
+		<credit>
+			<actor>Khalid Alzouma</actor>
+			<role>Adam</role>
+		</credit>
+		<credit>
+			<actor>Owen Tanzer</actor>
+			<role>Rocco</role>
+		</credit>
+		<credit>
+			<actor>Michael Nouri</actor>
+			<role>Thanassis</role>
+		</credit>
+		<credit>
+			<actor>Ellen Adair</actor>
+			<role>A.D.A. Bridget Saltire</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">February 12 2015</releasedate>
+		<releasedate country="United Kingdom">February 12 2015</releasedate>
+		<releasedate country="United States">February 12 2015</releasedate>
+		<releasedate country="South Africa">March 16 2015</releasedate>
+		<releasedate country="Mexico">July 19 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Poland">12</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>fall</keyword>
+	</keywords>
+	<directors>
+		<director> Ken Olin</director>
+		<director> Michael Morris</director>
+		<director> Lisa Cholodenko</director>
+	</directors>
+	<composers>
+		<composer> Jason Derlatka</composer>
+		<composer> Jon Ehrlich</composer>
+	</composers>
+	<producers>
+		<producer> Tony Ayres</producer>
+		<producer> Jon Robin Baitz</producer>
+		<producer> Helen Bowden</producer>
+		<producer> Lisa Cholodenko</producer>
+		<producer> Russ Hammonds</producer>
+		<producer> Thomas Lombardi</producer>
+		<producer> Laurie MacDonald</producer>
+		<producer> Michael McMahon</producer>
+		<producer> Chris Oliver-Taylor</producer>
+		<producer> Walter F. Parkes</producer>
+		<producer> Diana Schmidt</producer>
+		<producer> Rudd Simmons</producer>
+		<producer> Riyoko Tanaka</producer>
+	</producers>
+	<writers>
+		<writer> Jon Robin Baitz</writer>
+		<writer> Jon Robin Baitz</writer>
+		<writer> Walter F. Parkes</writer>
+		<writer> Walter F. Parkes</writer>
+		<writer> Walter F. Parkes</writer>
+		<writer> Christos Tsiolkas</writer>
+	</writers>
+	<editors>
+		<editor> Allyson C. Johnson</editor>
+		<editor> Sheri Bylander</editor>
+		<editor> Ken Eluto</editor>
+		<editor> Ellier Dov</editor>
+		<editor> Plummy Tucker</editor>
+	</editors>
+</doc>

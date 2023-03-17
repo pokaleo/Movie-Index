@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<doc id="tt8098956">
+	<docid>tt8098956</docid>
+	<title>Noughts + Crosses</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGJlYmI3M2YtNjUxMy00Y2RlLWFhMzAtMmM1MGEzMmJmMjdiXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Drama set in a dangerous, alternate world where racism divides society.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Masali Baduza</actor>
+			<role>Persephone 'Sephy' Hadley</role>
+		</credit>
+		<credit>
+			<actor>Jack Rowan</actor>
+			<role>Callum McGregor</role>
+		</credit>
+		<credit>
+			<actor>Helen Baxendale</actor>
+			<role>Meggie McGregor</role>
+		</credit>
+		<credit>
+			<actor>Paterson Joseph</actor>
+			<role>Kamal Hadley</role>
+		</credit>
+		<credit>
+			<actor>Josh Dylan</actor>
+			<role>Jude McGregor</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Ajayi</actor>
+			<role>Lekan Baako</role>
+		</credit>
+		<credit>
+			<actor>Rakie Ayola</actor>
+			<role>Opal Folami</role>
+		</credit>
+		<credit>
+			<actor>Shaun Dingwall</actor>
+			<role>Jack Dorn</role>
+		</credit>
+		<credit>
+			<actor>Stevel Marc</actor>
+			<role>Cross Cop</role>
+		</credit>
+		<credit>
+			<actor>Luke Bailey</actor>
+			<role>Yaro</role>
+		</credit>
+		<credit>
+			<actor>Bonnie Mbuli</actor>
+			<role>Jasmine Hadley</role>
+		</credit>
+		<credit>
+			<actor>Kiké Brimah</actor>
+			<role>Minerva Hadley</role>
+		</credit>
+		<credit>
+			<actor>Nicholas Beveney</actor>
+			<role>Deputy Commissioner</role>
+		</credit>
+		<credit>
+			<actor>Ian Hart</actor>
+			<role>Ryan</role>
+		</credit>
+		<credit>
+			<actor>Sam Baker-Jones</actor>
+			<role>Scott</role>
+		</credit>
+		<credit>
+			<actor>Morgan Watkins</actor>
+			<role>Morgan Green</role>
+		</credit>
+		<credit>
+			<actor>Jodie Tyack</actor>
+			<role>Elaine</role>
+		</credit>
+		<credit>
+			<actor>Romario Simpson</actor>
+			<role>Barnaby Mabunda</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">March 5 2020</releasedate>
+		<releasedate country="United Kingdom">March 5 2020</releasedate>
+		<releasedate country="South Africa">March 12 2020</releasedate>
+		<releasedate country="Hungary">May 12 2020</releasedate>
+		<releasedate country="Poland">May 17 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>racism</keyword>
+		<keyword>dystopian sci fi</keyword>
+	</keywords>
+	<directors>
+		<director> Koby Adom</director>
+		<director> Julian Holmes</director>
+	</directors>
+	<composers>
+		<composer> Matthew Herbert</composer>
+	</composers>
+	<producers>
+		<producer> Sarah Lewis</producer>
+		<producer> Preethi Mavahalli</producer>
+		<producer> Kibwe Tavares</producer>
+		<producer> Howard Ella</producer>
+		<producer> Ben Irving</producer>
+		<producer> Miura Kite</producer>
+		<producer> Johann Knobel</producer>
+		<producer> Tina Oswald</producer>
+		<producer> Damien Timmer</producer>
+		<producer> Rudi Van As</producer>
+		<producer> Toby Whithouse</producer>
+		<producer> Nawfal Faizullah</producer>
+		<producer> Rienkje Attoh</producer>
+		<producer> Amanda Wasey</producer>
+		<producer> Malorie Blackman</producer>
+		<producer> James Gandhi</producer>
+		<producer> Jay-Z</producer>
+		<producer> Patrick Reardon</producer>
+	</producers>
+	<writers>
+		<writer> Lydia Adetunji</writer>
+		<writer> Lydia Adetunji</writer>
+		<writer> Malorie Blackman</writer>
+		<writer> Nathaniel Price</writer>
+		<writer> Toby Whithouse</writer>
+		<writer> Rachel De-Lahay</writer>
+		<writer> Jerome Bucchan-Nelson</writer>
+		<writer> Benji Walters</writer>
+	</writers>
+	<editors>
+		<editor> Jo Smyth</editor>
+		<editor> Mary Finlay</editor>
+		<editor> Nigel Bunyan</editor>
+		<editor> Ronelle Loots</editor>
+		<editor> Anthony Combes</editor>
+		<editor> Anuree De Silva</editor>
+		<editor> Les Healey</editor>
+		<editor> Rachel Hoult</editor>
+		<editor> Peter Williams</editor>
+	</editors>
+</doc>

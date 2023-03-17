@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt6131920">
+	<docid>tt6131920</docid>
+	<title>In Plain Sight</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDQxNzM5NzU0OF5BMl5BanBnXkFtZTcwNDg0MjY0Mg@@._V1_QL75_UY281_CR12,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">150</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A three part TV miniseries about Lanarkshire's Detective William Muncie and his quest to bring to justice notorious killer Peter Manuel.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Douglas Henshall</actor>
+			<role>Sergeant William Muncie</role>
+		</credit>
+		<credit>
+			<actor>Martin Compston</actor>
+			<role>Peter Manuel</role>
+		</credit>
+		<credit>
+			<actor>Joanne Thomson</actor>
+			<role>Iris Laird</role>
+		</credit>
+		<credit>
+			<actor>Shauna Macdonald</actor>
+			<role>Agnes Muncie</role>
+		</credit>
+		<credit>
+			<actor>Gilly Gilchrist</actor>
+			<role>Samuel Manuel</role>
+		</credit>
+		<credit>
+			<actor>Joanna Roth</actor>
+			<role>Bridget Manuel</role>
+		</credit>
+		<credit>
+			<actor>Sorcha Groundsell</actor>
+			<role>Jane Muncie</role>
+		</credit>
+		<credit>
+			<actor>Bobby Rainsbury</actor>
+			<role>Theresa Manuel</role>
+		</credit>
+		<credit>
+			<actor>Jack Greenlees</actor>
+			<role>DS McLeod</role>
+		</credit>
+		<credit>
+			<actor>Alana McDowall</actor>
+			<role>Annie Kneilands</role>
+		</credit>
+		<credit>
+			<actor>Gavin Jon Wright</actor>
+			<role>Hugh Kirk</role>
+		</credit>
+		<credit>
+			<actor>Kate McLaughlin</actor>
+			<role>Sandra Muncie</role>
+		</credit>
+		<credit>
+			<actor>David Rintoul</actor>
+			<role>CC Renfrew</role>
+		</credit>
+		<credit>
+			<actor>Michael Nardone</actor>
+			<role>Det Supt. Leish</role>
+		</credit>
+		<credit>
+			<actor>James Harkness</actor>
+			<role>Joe Brannan</role>
+		</credit>
+		<credit>
+			<actor>Grant O'Rourke</actor>
+			<role>DS Wilson</role>
+		</credit>
+		<credit>
+			<actor>Jenny Hulse</actor>
+			<role>Mary McLauchlan</role>
+		</credit>
+		<credit>
+			<actor>Louise Mccarthy</actor>
+			<role>Babs</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">December 7 2016</releasedate>
+		<releasedate country="United Kingdom">December 7 2016</releasedate>
+		<releasedate country="Australia">December 21 2016</releasedate>
+		<releasedate country="Netherlands">February 11 2017</releasedate>
+		<releasedate country="Spain">February 6 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>1950s</keyword>
+		<keyword>rapist</keyword>
+		<keyword>serial killer</keyword>
+		<keyword>lanarkshire</keyword>
+		<keyword>scotland</keyword>
+		<keyword>murder</keyword>
+		<keyword>three word title</keyword>
+		<keyword>timeframe 1950s</keyword>
+		<keyword>true crime</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> John Strickland</director>
+	</directors>
+	<composers>
+		<composer> Nina Humphreys</composer>
+	</composers>
+	<producers>
+		<producer> Robbie Allen</producer>
+		<producer> Gillian McNeill</producer>
+		<producer> Richard McNeill</producer>
+		<producer> Holly Pullinger</producer>
+		<producer> Roderick Seligman</producer>
+		<producer> Natalie Usher</producer>
+		<producer> Simon Heath</producer>
+		<producer> Kirstie MacDonald</producer>
+	</producers>
+	<writers>
+		<writer> Nick Stevens</writer>
+	</writers>
+	<editors>
+		<editor> Andrew McClelland</editor>
+	</editors>
+</doc>

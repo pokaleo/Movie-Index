@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<doc id="tt14032696">
+	<docid>tt14032696</docid>
+	<title>Limbo</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDc1NGYyNzAtNDk3OC00MjczLWEzNzYtYmJkMDRlZDg0MmM3XkEyXkFqcGdeQXVyMzQwNDU2NzQ@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>II 2021</year>
+	<runningtimes>
+		<runningtime country="default">118</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Rookie policeman Will Ren and his partner, the veteran cop Cham Lau, are pursuing an obsessive and especially brutal murderer of women.</plot>
+	<countries>
+		<country>Hong Kong</country>
+	</countries>
+	<languages>
+		<language>Cantonese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Black and White</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ka-Tung Lam</actor>
+			<role>Cham Lau</role>
+		</credit>
+		<credit>
+			<actor>Yase Liu</actor>
+			<role>Wong To</role>
+		</credit>
+		<credit>
+			<actor>Mason Lee</actor>
+			<role>Will Ren</role>
+		</credit>
+		<credit>
+			<actor>Hiroyuki Ikeuchi</actor>
+			<role>Akira Yamada</role>
+		</credit>
+		<credit>
+			<actor>Hanna Chan</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Fish Liew</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Kumer So</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Sammy Sum</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Germany">March 3 2021</releasedate>
+		<releasedate country="Italy">June 25 2021</releasedate>
+		<releasedate country="United States">August 14 2021</releasedate>
+		<releasedate country="United States">September 26 2021</releasedate>
+		<releasedate country="United States">October 12 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="Hong Kong">III</certificate>
+		<certificate country="Taiwan">12+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>serial killer</keyword>
+		<keyword>rape</keyword>
+		<keyword>mutilation</keyword>
+		<keyword>homeless person</keyword>
+		<keyword>garbage</keyword>
+	</keywords>
+	<directors>
+		<director> Soi Cheang</director>
+	</directors>
+	<composers>
+		<composer> Kenji Kawai</composer>
+	</composers>
+	<producers>
+		<producer> Defu Jiang</producer>
+		<producer> Man Hong Tong</producer>
+		<producer> Kevin Tse</producer>
+		<producer> Paco Wong</producer>
+		<producer> Wilson Yip</producer>
+	</producers>
+	<writers>
+		<writer> Kin-Yee Au</writer>
+		<writer> Joe Weintraub</writer>
+	</writers>
+	<editors>
+		<editor> David M. Richardson</editor>
+	</editors>
+</doc>

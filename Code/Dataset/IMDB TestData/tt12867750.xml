@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<doc id="tt12867750">
+	<docid>tt12867750</docid>
+	<title>Do You Like Brahms?</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZjBjNDAyZjgtZjQwMC00MjU1LWE2NmQtOGRlODI1N2U4NjNmXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">65</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Music</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>A drama about the dreams and love of classical music students who find their own happiness after wandering between talent and reality.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Park Eun-bin</actor>
+			<role>Chae Song Ah</role>
+		</credit>
+		<credit>
+			<actor>Kim Min-jae</actor>
+			<role>Park Joon Young</role>
+		</credit>
+		<credit>
+			<actor>Kim Sung-cheol</actor>
+			<role>Han Hyun Ho</role>
+		</credit>
+		<credit>
+			<actor>Ji-Hyun Park</actor>
+			<role>Lee Jung Kyung</role>
+		</credit>
+		<credit>
+			<actor>Lee You-Jin</actor>
+			<role>Yoon Dong Yoon</role>
+		</credit>
+		<credit>
+			<actor>Da-bin Bae</actor>
+			<role>Kang Min Sung</role>
+		</credit>
+		<credit>
+			<actor>Seo Jung-yeon</actor>
+			<role>Cha Young In</role>
+		</credit>
+		<credit>
+			<actor>Choi Dae-hoon</actor>
+			<role>Park Sung Jae</role>
+		</credit>
+		<credit>
+			<actor>Soo-jung Ye</actor>
+			<role>Na Moon Sook</role>
+		</credit>
+		<credit>
+			<actor>Lee Ji-Won</actor>
+			<role>Kim Hae Na</role>
+		</credit>
+		<credit>
+			<actor>Joo Suk-tae</actor>
+			<role>Yoo Tae Jin</role>
+		</credit>
+		<credit>
+			<actor>Baek Ji-won</actor>
+			<role>Lee Soo Kyung</role>
+		</credit>
+		<credit>
+			<actor>Ahn Sang-Eun</actor>
+			<role>Jung Da Woon</role>
+		</credit>
+		<credit>
+			<actor>Hae-yeon Kil</actor>
+			<role>Song Jung Hee</role>
+		</credit>
+		<credit>
+			<actor>Kim Jeong-yeong</actor>
+			<role>Joon Young's mother</role>
+		</credit>
+		<credit>
+			<actor>Seon-hwa Kim</actor>
+			<role>Song Ah's mother</role>
+		</credit>
+		<credit>
+			<actor>Jong-Tae Kim</actor>
+			<role>Lee Seong Geun</role>
+		</credit>
+		<credit>
+			<actor>Lee Noh-Ah</actor>
+			<role>Chae Song Hee</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="India">August 31 2020</releasedate>
+		<releasedate country="South Korea">August 31 2020</releasedate>
+		<releasedate country="Singapore">September 1 2020</releasedate>
+		<releasedate country="Indonesia">November 1 2020</releasedate>
+		<releasedate country="Philippines">February 28 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">7</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Thailand">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>classical music</keyword>
+		<keyword>institution</keyword>
+	</keywords>
+	<directors>
+		<director> Young-Min Jo</director>
+	</directors>
+	<composers>
+		<composer> Jay Kim</composer>
+	</composers>
+	<producers/>
+	<writers>
+		<writer> Ryu Bo-Ri</writer>
+	</writers>
+	<editors/>
+</doc>

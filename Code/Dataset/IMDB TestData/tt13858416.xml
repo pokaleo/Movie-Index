@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<doc id="tt13858416">
+	<docid>tt13858416</docid>
+	<title>Dino Ranch</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGNmY2Q4MzEtNGY1Yy00MWM4LTgyNGYtMzA3MzMyYmE1ZDA0XkEyXkFqcGdeQXVyMTI1NDgyOTgx._V1_QL75_UY281_CR16,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes/>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Two young cowboys and a young cowgirl travel lands where modern-day dinosaurs roam around.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages/>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Stephanie Filiadi</actor>
+			<role>greek dubbing voice: Min</role>
+		</credit>
+		<credit>
+			<actor>Ava Ro</actor>
+			<role>Min</role>
+		</credit>
+		<credit>
+			<actor>Scott Gorman</actor>
+			<role>Bo</role>
+		</credit>
+		<credit>
+			<actor>Tyler James Nathan</actor>
+			<role>Jon Cassidy</role>
+		</credit>
+		<credit>
+			<actor>Athena Karkanis</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Jacob Mazeral</actor>
+			<role>Miguel</role>
+		</credit>
+		<credit>
+			<actor>Deven Christian Mack</actor>
+			<role>Clover</role>
+		</credit>
+		<credit>
+			<actor>Jonah Wineberg</actor>
+			<role>Ike Tinhorn</role>
+		</credit>
+		<credit>
+			<actor>Joshua Graham</actor>
+			<role>Blitz</role>
+		</credit>
+		<credit>
+			<actor>Samantha Weinstein</actor>
+			<role>Clara Tinhorn</role>
+		</credit>
+		<credit>
+			<actor>Johnathan Sturgess</actor>
+			<role>Ogie Tinhorn</role>
+		</credit>
+		<credit>
+			<actor>Jacob Soley</actor>
+			<role>Jon</role>
+		</credit>
+		<credit>
+			<actor>Shechinah Mpumlwana</actor>
+			<role>Tara Dacktile</role>
+		</credit>
+		<credit>
+			<actor>Ian Ho</actor>
+			<role>Sonny</role>
+		</credit>
+		<credit>
+			<actor>Shayle Simons</actor>
+			<role>Ogie Tinhorn</role>
+		</credit>
+		<credit>
+			<actor>Jordan Mazeral</actor>
+			<role>Miguel</role>
+		</credit>
+		<credit>
+			<actor>Jayd Deroché</actor>
+			<role>Jon Cassidy</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">January 18 2021</releasedate>
+		<releasedate country="Italy">September 6 2021</releasedate>
+		<releasedate country="United States">January 16 2022</releasedate>
+		<releasedate country="Argentina">October 5 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">0</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Peru">Apt</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="United States">TV-Y</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dinosaur adventure</keyword>
+		<keyword>cartoon</keyword>
+	</keywords>
+	<directors>
+		<director> Bill Speers</director>
+	</directors>
+	<composers>
+		<composer> Lorenzo Castelli</composer>
+	</composers>
+	<producers>
+		<producer> Arthur Spanos</producer>
+		<producer> Anna Keenan</producer>
+		<producer> Audrey Velichka</producer>
+		<producer> Dianna Basso</producer>
+		<producer> Matthew Fernandes</producer>
+		<producer> David Fortier</producer>
+		<producer> Bob Higgins</producer>
+		<producer> Ivan Schneeberg</producer>
+		<producer> Tammy Semen</producer>
+		<producer> Tracy Blagdon</producer>
+		<producer> Kayla McNally</producer>
+		<producer> Stephanie Gauthier Watson</producer>
+		<producer> Jon Rutherford</producer>
+		<producer> Caitlin Langelier</producer>
+		<producer> Phil Lafrance</producer>
+		<producer> Jamie LeClaire</producer>
+		<producer> Kyle MacDougall</producer>
+	</producers>
+	<writers>
+		<writer> Caitlin Langelier</writer>
+		<writer> Caitlin Langelier</writer>
+		<writer> Naomi Jardine</writer>
+		<writer> Naomi Jardine</writer>
+		<writer> Craig Martin</writer>
+		<writer> Craig Martin</writer>
+		<writer> Tom Berger</writer>
+		<writer> Richard Young</writer>
+		<writer> Jennifer Daley</writer>
+		<writer> Rodey Gozum</writer>
+		<writer> Scott McGuirk</writer>
+		<writer> Diana Moore</writer>
+		<writer> Taylor Annisette</writer>
+		<writer> Taylor Annisette</writer>
+		<writer> Maryan Haye</writer>
+		<writer> Alan Gregg</writer>
+		<writer> Kara Harun</writer>
+		<writer> Jiro C. Okada</writer>
+		<writer> Eric Steinhart</writer>
+		<writer> Matthew Fernandes</writer>
+		<writer> Grant Sauve</writer>
+		<writer> Leisl Adams</writer>
+	</writers>
+	<editors>
+		<editor> Allan Cordero</editor>
+		<editor> Mike Kirkwood</editor>
+	</editors>
+</doc>

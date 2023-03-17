@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<doc id="tt1805322">
+	<docid>tt1805322</docid>
+	<title>Marcel the Shell with Shoes On</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODgzZGEwZGQtZjA2Mi00OTI5LWIwZmYtZDQ4OTMxODE0YmU4XkEyXkFqcGdeQXVyOTQ5MDIyNDM@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">4</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Short</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Marcel the shell gives an outline of their life.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jenny Slate</actor>
+			<role>Marcel</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">August 16 2010</releasedate>
+		<releasedate country="United States">November 10 2010</releasedate>
+		<releasedate country="United States">January 21 2011</releasedate>
+		<releasedate country="United States">April 30 2011</releasedate>
+		<releasedate country="United States">October 15 2011</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>stop motion animation</keyword>
+		<keyword>dog</keyword>
+		<keyword>lint</keyword>
+		<keyword>soda</keyword>
+		<keyword>internet</keyword>
+		<keyword>stop motion</keyword>
+		<keyword>miniature</keyword>
+		<keyword>lentil</keyword>
+		<keyword>shell</keyword>
+	</keywords>
+	<directors>
+		<director> Dean Fleischer Camp</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Dean Fleischer Camp</producer>
+	</producers>
+	<writers>
+		<writer> Jenny Slate</writer>
+		<writer> Dean Fleischer Camp</writer>
+	</writers>
+	<editors>
+		<editor> Dean Fleischer Camp</editor>
+	</editors>
+</doc>

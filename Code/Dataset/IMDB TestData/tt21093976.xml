@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<doc id="tt21093976">
+	<docid>tt21093976</docid>
+	<title>National Theatre Live: Prima Facie</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNDE0NDI4ZjktYjMwNy00MWI1LWFjMTItOGE2YjZkN2QzM2M3XkEyXkFqcGdeQXVyMTI5NTI0MDQw._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">120</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Tessa is a young, brilliant barrister. From working class origins, she has reached the top of her game. An unexpected event forces her to confront the lines where the patriarchal power of the law, burden of proof and morals diverge.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Jodie Comer</actor>
+			<role>Tessa</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">July 21 2022</releasedate>
+		<releasedate country="Ireland">July 21 2022</releasedate>
+		<releasedate country="Netherlands">July 21 2022</releasedate>
+		<releasedate country="Japan">August 5 2022</releasedate>
+		<releasedate country="Turkey">December 15 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Japan">G</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>actress recreates her stage role</keyword>
+		<keyword>based on a stage play</keyword>
+		<keyword>live performance</keyword>
+	</keywords>
+	<directors>
+		<director> Justin Martin</director>
+	</directors>
+	<composers>
+		<composer> Rebecca Lucy Taylor</composer>
+	</composers>
+	<producers/>
+	<writers>
+		<writer> Suzie Miller</writer>
+	</writers>
+	<editors/>
+</doc>

@@ -1,0 +1,382 @@
+<?xml version="1.0" ?>
+<doc id="tt0411951">
+	<docid>tt0411951</docid>
+	<title>Tekken</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODQ3YTBmYzYtZjU2MS00YmRmLTk2ZmYtZDgwNmYxODYxNzEyXkEyXkFqcGdeQXVyNjQ2MjQ4MzQ@._V1_QL75_UY281_CR0,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">91</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Jin Kazama witnesses the death of his mother Jun by Tekken in the slums known as Anvil. After finding a Tekken ID he decides to seek out vengeance for his mother's death.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jonathan Patrick Foo</actor>
+			<role>Jin Kazama</role>
+		</credit>
+		<credit>
+			<actor>Kelly Overton</actor>
+			<role>Christie Monteiro</role>
+		</credit>
+		<credit>
+			<actor>Cary-Hiroyuki Tagawa</actor>
+			<role>Heihachi Mishima</role>
+		</credit>
+		<credit>
+			<actor>Ian Anthony Dale</actor>
+			<role>Kazuya Mishima</role>
+		</credit>
+		<credit>
+			<actor>Cung Le</actor>
+			<role>Marshall Law</role>
+		</credit>
+		<credit>
+			<actor>Darrin Dewitt Henson</actor>
+			<role>Raven</role>
+		</credit>
+		<credit>
+			<actor>Luke Goss</actor>
+			<role>Steve Fox</role>
+		</credit>
+		<credit>
+			<actor>Mircea Monroe</actor>
+			<role>Kara</role>
+		</credit>
+		<credit>
+			<actor>Tamlyn Tomita</actor>
+			<role>Jun Kazama</role>
+		</credit>
+		<credit>
+			<actor>Candice Hillebrand</actor>
+			<role>Nina Williams</role>
+		</credit>
+		<credit>
+			<actor>Marian Zapico</actor>
+			<role>Anna Williams</role>
+		</credit>
+		<credit>
+			<actor>Gary Daniels</actor>
+			<role>Bryan Fury</role>
+		</credit>
+		<credit>
+			<actor>John Pyper-Ferguson</actor>
+			<role>Bonner</role>
+		</credit>
+		<credit>
+			<actor>Roger Huerta</actor>
+			<role>Miguel Rojo</role>
+		</credit>
+		<credit>
+			<actor>Lateef Crowder</actor>
+			<role>Eddy Gordo</role>
+		</credit>
+		<credit>
+			<actor>Anton Kasabov</actor>
+			<role>Sergei Dragunov</role>
+		</credit>
+		<credit>
+			<actor>Iseluleko Ma'at El 0</actor>
+			<role>Denslow in Anvil Bar</role>
+		</credit>
+		<credit>
+			<actor>Louis Herthum</actor>
+			<role>Tekken Police Officer #2</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Japan">March 20 2010</releasedate>
+		<releasedate country="Indonesia">June 3 2010</releasedate>
+		<releasedate country="Singapore">July 29 2010</releasedate>
+		<releasedate country="Philippines">August 4 2010</releasedate>
+		<releasedate country="Brazil">August 10 2010</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="Singapore">NC-16</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on video game</keyword>
+		<keyword>tekken</keyword>
+		<keyword>dystopia</keyword>
+		<keyword>love</keyword>
+		<keyword>interracial relationship</keyword>
+		<keyword>cell phone</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>low budget</keyword>
+		<keyword>die hard scenario</keyword>
+		<keyword>heihachi mishima character</keyword>
+		<keyword>yoshimitsu character</keyword>
+		<keyword>villainess</keyword>
+		<keyword>death</keyword>
+		<keyword>slum</keyword>
+		<keyword>combat</keyword>
+		<keyword>fighter</keyword>
+		<keyword>tournament</keyword>
+		<keyword>gym</keyword>
+		<keyword>blood splatter</keyword>
+		<keyword>aikido</keyword>
+		<keyword>karate chop</keyword>
+		<keyword>samurai sword</keyword>
+		<keyword>katana sword</keyword>
+		<keyword>disarming someone</keyword>
+		<keyword>chop socky</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>tough girl</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>action hero</keyword>
+		<keyword>hero</keyword>
+		<keyword>hitman</keyword>
+		<keyword>what happened to epilogue</keyword>
+		<keyword>axe</keyword>
+		<keyword>female martial artist</keyword>
+		<keyword>showdown</keyword>
+		<keyword>corpse</keyword>
+		<keyword>filmed killing</keyword>
+		<keyword>fight to the death</keyword>
+		<keyword>patricide</keyword>
+		<keyword>death of mentor</keyword>
+		<keyword>mentor</keyword>
+		<keyword>evil corporation</keyword>
+		<keyword>heir</keyword>
+		<keyword>crashing through a window</keyword>
+		<keyword>jumping through a window</keyword>
+		<keyword>stun gun</keyword>
+		<keyword>battering ram</keyword>
+		<keyword>electrocution</keyword>
+		<keyword>abandoned warehouse</keyword>
+		<keyword>grenade</keyword>
+		<keyword>bomb</keyword>
+		<keyword>shootout</keyword>
+		<keyword>slapped in the face</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>falling down stairs</keyword>
+		<keyword>escape</keyword>
+		<keyword>jail cell</keyword>
+		<keyword>single parent</keyword>
+		<keyword>single mother</keyword>
+		<keyword>sociopath</keyword>
+		<keyword>torture</keyword>
+		<keyword>sword fight</keyword>
+		<keyword>chains</keyword>
+		<keyword>catfight</keyword>
+		<keyword>greed</keyword>
+		<keyword>head butt</keyword>
+		<keyword>male female relationship</keyword>
+		<keyword>assassination attempt</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>dance</keyword>
+		<keyword>nightclub</keyword>
+		<keyword>blood on shirt</keyword>
+		<keyword>covered in blood</keyword>
+		<keyword>man hits a woman</keyword>
+		<keyword>woman hits a man</keyword>
+		<keyword>handcuffs</keyword>
+		<keyword>arrest</keyword>
+		<keyword>blackmail</keyword>
+		<keyword>android</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>boxer</keyword>
+		<keyword>female fighter</keyword>
+		<keyword>yoga</keyword>
+		<keyword>dumb bell</keyword>
+		<keyword>weightlifting</keyword>
+		<keyword>russian</keyword>
+		<keyword>female ninja</keyword>
+		<keyword>mask</keyword>
+		<keyword>sword</keyword>
+		<keyword>bulletproof vest</keyword>
+		<keyword>samurai</keyword>
+		<keyword>sister sister relationship</keyword>
+		<keyword>female assassin</keyword>
+		<keyword>assassin</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>sunglasses</keyword>
+		<keyword>former spy</keyword>
+		<keyword>revelation</keyword>
+		<keyword>stadium</keyword>
+		<keyword>arena</keyword>
+		<keyword>fighting arena</keyword>
+		<keyword>student teacher relationship</keyword>
+		<keyword>stick fight</keyword>
+		<keyword>training</keyword>
+		<keyword>dojo</keyword>
+		<keyword>underdog</keyword>
+		<keyword>unlikely hero</keyword>
+		<keyword>fight</keyword>
+		<keyword>honor</keyword>
+		<keyword>neck breaking</keyword>
+		<keyword>strangulation</keyword>
+		<keyword>kicked in the back</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>beating</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>kicked in the stomach</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>martial artist</keyword>
+		<keyword>glove</keyword>
+		<keyword>cage fighting</keyword>
+		<keyword>cage fighter</keyword>
+		<keyword>violence</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>deception</keyword>
+		<keyword>bus</keyword>
+		<keyword>murder</keyword>
+		<keyword>execution</keyword>
+		<keyword>hostage</keyword>
+		<keyword>held at gunpoint</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>exploding body</keyword>
+		<keyword>missile</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>curfew</keyword>
+		<keyword>undressing</keyword>
+		<keyword>flashback</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>blood</keyword>
+		<keyword>news broadcast</keyword>
+		<keyword>news report</keyword>
+		<keyword>television broadcast</keyword>
+		<keyword>orange</keyword>
+		<keyword>chocolate</keyword>
+		<keyword>product placement</keyword>
+		<keyword>id card</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>security camera</keyword>
+		<keyword>bartender</keyword>
+		<keyword>bar</keyword>
+		<keyword>tattoo</keyword>
+		<keyword>hustler</keyword>
+		<keyword>social commentary</keyword>
+		<keyword>resistance fighter</keyword>
+		<keyword>mercenary</keyword>
+		<keyword>army</keyword>
+		<keyword>shot in the head</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>lasersight</keyword>
+		<keyword>gash in the face</keyword>
+		<keyword>nosebleed</keyword>
+		<keyword>walled city</keyword>
+		<keyword>falling from height</keyword>
+		<keyword>jumping from height</keyword>
+		<keyword>jumping from a rooftop</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>free running</keyword>
+		<keyword>american flag</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>chase</keyword>
+		<keyword>freeze frame</keyword>
+		<keyword>2030s</keyword>
+		<keyword>alley</keyword>
+		<keyword>nonlinear timeline</keyword>
+		<keyword>told in flashback</keyword>
+		<keyword>burning car</keyword>
+		<keyword>shotgun</keyword>
+		<keyword>pistol</keyword>
+		<keyword>grenade launcher</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>megacorporation</keyword>
+		<keyword>future</keyword>
+		<keyword>post war</keyword>
+		<keyword>cyberpunk</keyword>
+		<keyword>dictator</keyword>
+		<keyword>oppression</keyword>
+		<keyword>totalitarianism</keyword>
+		<keyword>soldier</keyword>
+		<keyword>explosion</keyword>
+		<keyword>battle</keyword>
+		<keyword>tank</keyword>
+		<keyword>helicopter</keyword>
+		<keyword>fictional war</keyword>
+		<keyword>surprise after end credits</keyword>
+		<keyword>scene after end credits</keyword>
+		<keyword>prologue</keyword>
+		<keyword>oral sex</keyword>
+		<keyword>one word title</keyword>
+		<keyword>hapkido</keyword>
+		<keyword>martial art</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>taekwondo</keyword>
+		<keyword>revenge</keyword>
+		<keyword>ninja</keyword>
+		<keyword>martial arts tournament</keyword>
+		<keyword>kung fu</keyword>
+		<keyword>kickboxing</keyword>
+		<keyword>karate</keyword>
+		<keyword>jeet kune do</keyword>
+		<keyword>capoeira</keyword>
+		<keyword>spin off</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>independent film</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>kiss</keyword>
+		<keyword>interracial kiss</keyword>
+		<keyword>asian man white woman relationship</keyword>
+		<keyword>foreplay</keyword>
+	</keywords>
+	<directors>
+		<director> Dwight H. Little</director>
+	</directors>
+	<composers>
+		<composer> John Hunter</composer>
+	</composers>
+	<producers>
+		<producer> Benedict Carver</producer>
+		<producer> James Coyne</producer>
+		<producer> Daniel Diamond</producer>
+		<producer> Lampton Enochs</producer>
+		<producer> Tetsu Fujimura</producer>
+		<producer> Scott Karol</producer>
+		<producer> Carsten H.W. Lorenz</producer>
+		<producer> Masaya Nakamura</producer>
+		<producer> Jamee Natella</producer>
+		<producer> Steven Paul</producer>
+		<producer> Kim H. Winther</producer>
+	</producers>
+	<writers>
+		<writer> Alan B. McElroy</writer>
+	</writers>
+	<editors>
+		<editor> David Checel</editor>
+	</editors>
+</doc>

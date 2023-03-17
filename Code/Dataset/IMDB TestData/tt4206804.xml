@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<doc id="tt4206804">
+	<docid>tt4206804</docid>
+	<title>The Frankenstein Chronicles</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMDE2NWQ0YmQtNGIzZS00YTZlLWFkMjgtOWIxMTFkNGUzZDM2XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">48</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Fantasy</genre>
+	</genres>
+	<plot>Inspector John Marlott investigates a series of crimes in 19th Century London, which may have been committed by a scientist intent on re-animating the dead.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sean Bean</actor>
+			<role>John Marlott</role>
+		</credit>
+		<credit>
+			<actor>Richie Campbell</actor>
+			<role>Nightingale</role>
+		</credit>
+		<credit>
+			<actor>Tom Ward</actor>
+			<role>Sir Robert Peel</role>
+		</credit>
+		<credit>
+			<actor>Ryan Sampson</actor>
+			<role>Boz</role>
+		</credit>
+		<credit>
+			<actor>Ed Stoppard</actor>
+			<role>Lord Daniel Hervey</role>
+		</credit>
+		<credit>
+			<actor>Eloise Smyth</actor>
+			<role>Flora</role>
+		</credit>
+		<credit>
+			<actor>Vanessa Kirby</actor>
+			<role>Lady Jemima Hervey</role>
+		</credit>
+		<credit>
+			<actor>Frank Blake</actor>
+			<role>Constable Pip Bircher</role>
+		</credit>
+		<credit>
+			<actor>Paul Kennedy</actor>
+			<role>Inspector Treadaway</role>
+		</credit>
+		<credit>
+			<actor>Maeve Dermody</actor>
+			<role>Esther Rose</role>
+		</credit>
+		<credit>
+			<actor>Laurence Fox</actor>
+			<role>Frederick Dipple</role>
+		</credit>
+		<credit>
+			<actor>Robbie Gee</actor>
+			<role>Billy Oates</role>
+		</credit>
+		<credit>
+			<actor>Elliot Cowan</actor>
+			<role>Bentley Warburton</role>
+		</credit>
+		<credit>
+			<actor>Aaron Kelly</actor>
+			<role>Sam</role>
+		</credit>
+		<credit>
+			<actor>Martin McCann</actor>
+			<role>Renquist</role>
+		</credit>
+		<credit>
+			<actor>Charlie Creed-Miles</actor>
+			<role>Pritty</role>
+		</credit>
+		<credit>
+			<actor>Stuart Graham</actor>
+			<role>Forrester</role>
+		</credit>
+		<credit>
+			<actor>Jessie Ross</actor>
+			<role>Alice Evans</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">November 11 2015</releasedate>
+		<releasedate country="Turkey">November 11 2015</releasedate>
+		<releasedate country="Spain">December 18 2015</releasedate>
+		<releasedate country="France">January 12 2016</releasedate>
+		<releasedate country="Brazil">January 25 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">15+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>scientist</keyword>
+		<keyword>frankenstein</keyword>
+		<keyword>dead body in a river</keyword>
+		<keyword>regeneration formula</keyword>
+		<keyword>venereal disease</keyword>
+		<keyword>police inspector</keyword>
+		<keyword>victorian era</keyword>
+		<keyword>detective</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>19th century</keyword>
+	</keywords>
+	<directors>
+		<director> Benjamin Ross</director>
+		<director> Alex Gabassi</director>
+	</directors>
+	<composers>
+		<composer> Roger Goula</composer>
+		<composer> Harry Escott</composer>
+	</composers>
+	<producers>
+		<producer> Sean Bean</producer>
+		<producer> Oliver Butler</producer>
+		<producer> Frank Doelger</producer>
+		<producer> Patrick Irwin</producer>
+		<producer> Tracey Scoffield</producer>
+		<producer> David Tanner</producer>
+		<producer> Justin Thomson</producer>
+		<producer> Carol Moorhead</producer>
+		<producer> Alex Boyd</producer>
+		<producer> Lawrence Till</producer>
+	</producers>
+	<writers>
+		<writer> Barry Langford</writer>
+		<writer> Barry Langford</writer>
+		<writer> Benjamin Ross</writer>
+		<writer> Benjamin Ross</writer>
+		<writer> Benjamin Ross</writer>
+		<writer> Michael Robert Johnson</writer>
+		<writer> Michael Robert Johnson</writer>
+		<writer> Stacey Gregg</writer>
+		<writer> Mike Walden</writer>
+		<writer> Colin Carberry</writer>
+		<writer> Glenn Patterson</writer>
+		<writer> Paul Tomalin</writer>
+	</writers>
+	<editors>
+		<editor> Jesse Parker</editor>
+		<editor> Stephanie McCutcheon</editor>
+		<editor> Frances Parker</editor>
+	</editors>
+</doc>

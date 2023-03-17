@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<doc id="tt14895216">
+	<docid>tt14895216</docid>
+	<title>Ghost Mansion</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2QzZWNkMWQtMjMzZS00MjVjLWFkZjItYWJkNjhlZGMzOWFmXkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">106</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>A reporter collects stories from a supposed &quot;haunted&quot; apartment complex and the tenants who have gone missing.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Kim Hong-pa</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Seo Hyun-woo</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Kim Jae-hwa</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Sung Jun</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Bo-ra Kim</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Joseph Kim</actor>
+			<role>English Instructor</role>
+		</credit>
+		<credit>
+			<actor>Sung Joon Park</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Park So-jin</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Indonesia">June 30 2021</releasedate>
+		<releasedate country="South Korea">June 30 2021</releasedate>
+		<releasedate country="Philippines">June 30 2021</releasedate>
+		<releasedate country="Singapore">July 15 2021</releasedate>
+		<releasedate country="Taiwan">July 30 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Chile">14</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Peru">14</certificate>
+		<certificate country="Russia">18+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Thailand">u 15+</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Jo Ba-Reun</director>
+	</directors>
+	<composers>
+		<composer> Sung Jin Cho</composer>
+	</composers>
+	<producers>
+		<producer> Kwon Ji Yong</producer>
+	</producers>
+	<writers>
+		<writer> Jo Ba-Reun</writer>
+	</writers>
+	<editors>
+		<editor> Twinpeaks</editor>
+	</editors>
+</doc>

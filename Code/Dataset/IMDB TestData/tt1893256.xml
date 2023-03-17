@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<doc id="tt1893256">
+	<docid>tt1893256</docid>
+	<title>Hummingbird</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjI0ODc3NjI4NV5BMl5BanBnXkFtZTcwOTc3MzI1OQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>I 2013</year>
+	<runningtimes>
+		<runningtime country="default">100</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A damaged ex-special forces soldier navigating London's criminal underworld seizes an opportunity to assume another man's identity.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jason Statham</actor>
+			<role>Joey</role>
+		</credit>
+		<credit>
+			<actor>Agata Buzek</actor>
+			<role>Cristina</role>
+		</credit>
+		<credit>
+			<actor>Vicky McClure</actor>
+			<role>Dawn</role>
+		</credit>
+		<credit>
+			<actor>Benedict Wong</actor>
+			<role>Mr. Choy</role>
+		</credit>
+		<credit>
+			<actor>Ger Ryan</actor>
+			<role>Mother Superior</role>
+		</credit>
+		<credit>
+			<actor>Youssef Kerkour</actor>
+			<role>Bouzanis</role>
+		</credit>
+		<credit>
+			<actor>Anthony Morris</actor>
+			<role>Taxman</role>
+		</credit>
+		<credit>
+			<actor>Victoria Bewick</actor>
+			<role>Isabel</role>
+		</credit>
+		<credit>
+			<actor>Christian Brassington</actor>
+			<role>Max Forrester</role>
+		</credit>
+		<credit>
+			<actor>Danny Webb</actor>
+			<role>Damon</role>
+		</credit>
+		<credit>
+			<actor>Sang Lui</actor>
+			<role>Tony</role>
+		</credit>
+		<credit>
+			<actor>Bruce Wang</actor>
+			<role>Tim</role>
+		</credit>
+		<credit>
+			<actor>David Bradley</actor>
+			<role>Billy</role>
+		</credit>
+		<credit>
+			<actor>Siobhan Hewlett</actor>
+			<role>Tracey</role>
+		</credit>
+		<credit>
+			<actor>Steven Beard</actor>
+			<role>Karl</role>
+		</credit>
+		<credit>
+			<actor>John Killoran</actor>
+			<role>Cop 1</role>
+		</credit>
+		<credit>
+			<actor>Lillie Buttery</actor>
+			<role>Young Christina</role>
+		</credit>
+		<credit>
+			<actor>Adam Skeats</actor>
+			<role>The Instructor</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">April 15 2013</releasedate>
+		<releasedate country="Hungary">May 9 2013</releasedate>
+		<releasedate country="Romania">May 10 2013</releasedate>
+		<releasedate country="Philippines">May 29 2013</releasedate>
+		<releasedate country="Kuwait">May 30 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">Tous publics avec avertissement</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Hungary">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Ireland">15A</certificate>
+		<certificate country="Israel">14</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="Lithuania">N-16</certificate>
+		<certificate country="Mexico">B15</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="New Zealand">R16</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Philippines">R-13</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Portugal">M/16</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Russia">12+</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Singapore">NC-16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United States">R</certificate>
+		<certificate country="United Arab Emirates">R</certificate>
+	</certificates>
+	<keywords>
+		<keyword>ex special forces</keyword>
+		<keyword>tough guy</keyword>
+		<keyword>anti hero</keyword>
+		<keyword>haunted by the past</keyword>
+		<keyword>assumed identity</keyword>
+		<keyword>street life</keyword>
+		<keyword>enforcer</keyword>
+		<keyword>guilt</keyword>
+		<keyword>nun</keyword>
+		<keyword>title spoken by character</keyword>
+		<keyword>surprise ending</keyword>
+		<keyword>younger version of character</keyword>
+		<keyword>deserted</keyword>
+		<keyword>deserter</keyword>
+		<keyword>pain</keyword>
+		<keyword>score</keyword>
+		<keyword>troop</keyword>
+		<keyword>trooper</keyword>
+		<keyword>suffering</keyword>
+		<keyword>noose</keyword>
+		<keyword>hang</keyword>
+		<keyword>hanged</keyword>
+		<keyword>rope</keyword>
+		<keyword>dope</keyword>
+		<keyword>retaliation</keyword>
+		<keyword>angry retaliation</keyword>
+		<keyword>retribution</keyword>
+		<keyword>vengeance</keyword>
+		<keyword>long hair</keyword>
+		<keyword>blonde woman</keyword>
+		<keyword>nunnery</keyword>
+		<keyword>smoking</keyword>
+		<keyword>penthouse</keyword>
+		<keyword>rooftop</keyword>
+		<keyword>avenger</keyword>
+		<keyword>gathering</keyword>
+		<keyword>rooftop party</keyword>
+		<keyword>carton</keyword>
+		<keyword>soho</keyword>
+		<keyword>soho house</keyword>
+		<keyword>flat</keyword>
+		<keyword>innuendo</keyword>
+		<keyword>gay</keyword>
+		<keyword>gay innuendo</keyword>
+		<keyword>opera</keyword>
+		<keyword>nonviolence</keyword>
+		<keyword>ballet dance</keyword>
+		<keyword>dance</keyword>
+		<keyword>classical dance</keyword>
+		<keyword>violent gangster</keyword>
+		<keyword>ballerina</keyword>
+		<keyword>prima ballerina</keyword>
+		<keyword>primadonna</keyword>
+		<keyword>cash</keyword>
+		<keyword>violent argument</keyword>
+		<keyword>threat</keyword>
+		<keyword>kitchen</keyword>
+		<keyword>ptsd post traumatic stress disorder</keyword>
+		<keyword>body lands on a car</keyword>
+		<keyword>character repeats someone else's dialogue</keyword>
+		<keyword>man punches a woman</keyword>
+		<keyword>afghanistan war veteran</keyword>
+		<keyword>motor vehicle</keyword>
+		<keyword>car</keyword>
+		<keyword>german car</keyword>
+		<keyword>mercedes benz</keyword>
+		<keyword>mercedes benz motor vehicle</keyword>
+		<keyword>mercedes benz car</keyword>
+		<keyword>mercedes benz cls</keyword>
+		<keyword>mercedes benz vito</keyword>
+		<keyword>on the run</keyword>
+		<keyword>soldier</keyword>
+		<keyword>deception</keyword>
+		<keyword>righteous rage</keyword>
+		<keyword>death</keyword>
+		<keyword>chinese</keyword>
+		<keyword>brothel</keyword>
+		<keyword>sexual violence</keyword>
+		<keyword>sadomasochism</keyword>
+		<keyword>thrown from height</keyword>
+		<keyword>banker</keyword>
+		<keyword>shaving</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>apartment</keyword>
+		<keyword>supermarket</keyword>
+		<keyword>letter</keyword>
+		<keyword>party</keyword>
+		<keyword>fish market</keyword>
+		<keyword>montage</keyword>
+		<keyword>money laundering</keyword>
+		<keyword>chef</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>corpse</keyword>
+		<keyword>premarital sex</keyword>
+		<keyword>vodka</keyword>
+		<keyword>irish</keyword>
+		<keyword>pimp</keyword>
+		<keyword>church</keyword>
+		<keyword>female crime boss</keyword>
+		<keyword>police</keyword>
+		<keyword>surveillance</keyword>
+		<keyword>loner</keyword>
+		<keyword>dark hero</keyword>
+		<keyword>thug</keyword>
+		<keyword>neo noir</keyword>
+		<keyword>revolver</keyword>
+		<keyword>organized crime</keyword>
+		<keyword>fugitive</keyword>
+		<keyword>crime boss</keyword>
+		<keyword>triad</keyword>
+		<keyword>hand to hand combat</keyword>
+		<keyword>mixed martial arts</keyword>
+		<keyword>martial arts</keyword>
+		<keyword>brawl</keyword>
+		<keyword>fight</keyword>
+		<keyword>fistfight</keyword>
+		<keyword>punched in the chest</keyword>
+		<keyword>beaten to death</keyword>
+		<keyword>home invasion</keyword>
+		<keyword>newspaper headline</keyword>
+		<keyword>violence</keyword>
+		<keyword>news report</keyword>
+		<keyword>assault rifle</keyword>
+		<keyword>machine gun</keyword>
+		<keyword>exploding building</keyword>
+		<keyword>escape</keyword>
+		<keyword>drone</keyword>
+		<keyword>homelessness</keyword>
+		<keyword>cockney accent</keyword>
+		<keyword>shot in the leg</keyword>
+		<keyword>shot in the shoulder</keyword>
+		<keyword>british</keyword>
+		<keyword>threatened with a knife</keyword>
+		<keyword>armored car</keyword>
+		<keyword>awol</keyword>
+		<keyword>knife</keyword>
+		<keyword>ex soldier</keyword>
+		<keyword>melodrama</keyword>
+		<keyword>money falling through the air</keyword>
+		<keyword>money</keyword>
+		<keyword>pizza delivery boy</keyword>
+		<keyword>chase</keyword>
+		<keyword>playing against type</keyword>
+		<keyword>drunken man</keyword>
+		<keyword>personal identification number</keyword>
+		<keyword>outgoing voicemail message</keyword>
+		<keyword>homeless woman</keyword>
+		<keyword>homeless man</keyword>
+		<keyword>aerial reconnaissance</keyword>
+		<keyword>general atomics rq 1 predator</keyword>
+		<keyword>helmand province afghanistan</keyword>
+		<keyword>female nudity in photograph</keyword>
+		<keyword>soho london</keyword>
+		<keyword>ambiguous ending</keyword>
+		<keyword>falling to death</keyword>
+		<keyword>thrown from a rooftop</keyword>
+		<keyword>ballet</keyword>
+		<keyword>tuxedo</keyword>
+		<keyword>ex husband ex wife relationship</keyword>
+		<keyword>bag of money</keyword>
+		<keyword>sex with nun</keyword>
+		<keyword>camera</keyword>
+		<keyword>prostitute</keyword>
+		<keyword>human trafficking</keyword>
+		<keyword>throat slit</keyword>
+		<keyword>child molestation</keyword>
+		<keyword>gymnast</keyword>
+		<keyword>pizza delivery</keyword>
+		<keyword>shot in the arm</keyword>
+		<keyword>pistol</keyword>
+		<keyword>gangster</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>art gallery</keyword>
+		<keyword>facial scar</keyword>
+		<keyword>punched in the stomach</keyword>
+		<keyword>kicked in the face</keyword>
+		<keyword>broken arm</keyword>
+		<keyword>photograph</keyword>
+		<keyword>red dress</keyword>
+		<keyword>murder</keyword>
+		<keyword>phone booth</keyword>
+		<keyword>chinese restaurant</keyword>
+		<keyword>special forces</keyword>
+		<keyword>hanged man</keyword>
+		<keyword>hummingbird</keyword>
+		<keyword>flashback</keyword>
+		<keyword>convent</keyword>
+		<keyword>soup kitchen</keyword>
+		<keyword>subtitled scene</keyword>
+		<keyword>briton abroad</keyword>
+		<keyword>555 phone number</keyword>
+		<keyword>written by director</keyword>
+		<keyword>foot chase</keyword>
+		<keyword>scene during opening credits</keyword>
+		<keyword>switchblade</keyword>
+		<keyword>beating</keyword>
+		<keyword>punched in the face</keyword>
+		<keyword>head butt</keyword>
+		<keyword>kicked in the chest</keyword>
+		<keyword>london england</keyword>
+		<keyword>shot to death</keyword>
+		<keyword>shot in the chest</keyword>
+		<keyword>explosion</keyword>
+		<keyword>afghanistan</keyword>
+		<keyword>revenge</keyword>
+		<keyword>death of friend</keyword>
+		<keyword>vomiting</keyword>
+		<keyword>barbecue</keyword>
+		<keyword>answering machine</keyword>
+		<keyword>hallucination</keyword>
+		<keyword>f word</keyword>
+		<keyword>debit card</keyword>
+		<keyword>pretending to be gay</keyword>
+		<keyword>bare chested male</keyword>
+		<keyword>one word title</keyword>
+		<keyword>animal in title</keyword>
+		<keyword>bird in title</keyword>
+	</keywords>
+	<directors>
+		<director> Steven Knight</director>
+	</directors>
+	<composers>
+		<composer> Dario Marianelli</composer>
+	</composers>
+	<producers>
+		<producer> Stuart Ford</producer>
+		<producer> Guy Heeley</producer>
+		<producer> Lou Karsen</producer>
+		<producer> Brian Kavanaugh-Jones</producer>
+		<producer> Tracy Rector</producer>
+		<producer> Steven Squillante</producer>
+		<producer> Andrew Warren</producer>
+		<producer> Paul Webster</producer>
+		<producer> Joe Wright</producer>
+	</producers>
+	<writers>
+		<writer> Steven Knight</writer>
+	</writers>
+	<editors>
+		<editor> Valerio Bonelli</editor>
+	</editors>
+</doc>

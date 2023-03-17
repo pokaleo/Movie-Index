@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<doc id="tt17633184">
+	<docid>tt17633184</docid>
+	<title>Krigsseileren</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMjA2Mzc4ZjMtZmQwNC00ZDI3LWEyYzQtNzczOGVhZjdkNzllXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">150</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>War</genre>
+	</genres>
+	<plot>The sailor Alfred is in the middle of the Atlantic Ocean when World War II breaks out. Suddenly the sailors are in the front of the war, without any weapons.</plot>
+	<countries>
+		<country>Norway</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Kristoffer Joner</actor>
+			<role>Alfred</role>
+		</credit>
+		<credit>
+			<actor>Pål Sverre Hagen</actor>
+			<role>Sigbjørn</role>
+		</credit>
+		<credit>
+			<actor>Ine Marie Wilmann</actor>
+			<role>Cecilia</role>
+		</credit>
+		<credit>
+			<actor>Henrikke Lund Olsen</actor>
+			<role>Magdeli</role>
+		</credit>
+		<credit>
+			<actor>Armand Hannestad</actor>
+			<role>William</role>
+		</credit>
+		<credit>
+			<actor>Leon Tobias Slettbakk</actor>
+			<role>Aksel Andresen</role>
+		</credit>
+		<credit>
+			<actor>Alexandra Gjerpen</actor>
+			<role>Hanna Wiig</role>
+		</credit>
+		<credit>
+			<actor>Arthur Hakalahti</actor>
+			<role>Braathen</role>
+		</credit>
+		<credit>
+			<actor>Karl Vidar Lende</actor>
+			<role>Monsen</role>
+		</credit>
+		<credit>
+			<actor>Mats Holm</actor>
+			<role>Birger Mohr</role>
+		</credit>
+		<credit>
+			<actor>Téa Grønner Joner</actor>
+			<role>Magdeli after the war</role>
+		</credit>
+		<credit>
+			<actor>Daniel Berg</actor>
+			<role>Willam after the war</role>
+		</credit>
+		<credit>
+			<actor>Oskar Hallaråker Hellesøy</actor>
+			<role>Olav after the war</role>
+		</credit>
+		<credit>
+			<actor>Noah Nygård</actor>
+			<role>Olav 3 years old</role>
+		</credit>
+		<credit>
+			<actor>Odd Gunnar Sørvik</actor>
+			<role>Iver Fosnes</role>
+		</credit>
+		<credit>
+			<actor>Nils Ove Sørvik</actor>
+			<role>Jens Dahl</role>
+		</credit>
+		<credit>
+			<actor>Emir Hvidsten Hindic</actor>
+			<role>Fanebust</role>
+		</credit>
+		<credit>
+			<actor>Joakim Visnes</actor>
+			<role>Sivert</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Norway">August 24 2022</releasedate>
+		<releasedate country="Canada">September 9 2022</releasedate>
+		<releasedate country="Norway">September 23 2022</releasedate>
+		<releasedate country="Germany">October 2 2022</releasedate>
+		<releasedate country="Poland">November 13 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Norway">12</certificate>
+	</certificates>
+	<keywords>
+		<keyword>sailor</keyword>
+		<keyword>sea</keyword>
+		<keyword>ship</keyword>
+		<keyword>drowning</keyword>
+		<keyword>world war two</keyword>
+		<keyword>world war</keyword>
+		<keyword>submarine</keyword>
+		<keyword>attack</keyword>
+		<keyword>survival</keyword>
+		<keyword>based on true story</keyword>
+	</keywords>
+	<directors>
+		<director> Gunnar Vikene</director>
+	</directors>
+	<composers>
+		<composer> Volker Bertelmann</composer>
+	</composers>
+	<producers>
+		<producer> Catho Bach Christensen</producer>
+		<producer> Christian Bévort</producer>
+		<producer> Marcus Clausen</producer>
+		<producer> Bojana Dimitrovska</producer>
+		<producer> Maria Ekerhovd</producer>
+		<producer> Pierre Ellul</producer>
+		<producer> Michael Fleischer</producer>
+		<producer> Axel Helgeland</producer>
+		<producer> Peter Jein</producer>
+		<producer> Oda Kruse</producer>
+		<producer> Njål Lambrechts</producer>
+		<producer> Michael Lehmann</producer>
+		<producer> Kim Magnusson</producer>
+		<producer> Jesper Morthorst</producer>
+		<producer> Theis Nørgaard</producer>
+		<producer> Anika Psaila Savona</producer>
+		<producer> Kerstin Ramcke</producer>
+		<producer> Dirk Schuerhoff</producer>
+		<producer> Karsten Stöter</producer>
+		<producer> Magnus Thomassen</producer>
+		<producer> Siv Dyb Wangsmo</producer>
+	</producers>
+	<writers>
+		<writer> Gunnar Vikene</writer>
+	</writers>
+	<editors>
+		<editor> Peter Brandt</editor>
+		<editor> Anders Albjerg Kristiansen</editor>
+	</editors>
+</doc>

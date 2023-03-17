@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<doc id="tt7403736">
+	<docid>tt7403736</docid>
+	<title>V-Wars</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2JiYzNhZWMtZmE4My00NzhmLWEzZjAtMDIwODkzOWY3NWQ5XkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_QL75_UX190_CR0,7,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Atmos</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ian Somerhalder</actor>
+			<role>Luther Swann</role>
+		</credit>
+		<credit>
+			<actor>Adrian Holmes</actor>
+			<role>Michael Fayne</role>
+		</credit>
+		<credit>
+			<actor>Jacky Lai</actor>
+			<role>Kaylee Vo</role>
+		</credit>
+		<credit>
+			<actor>Kyle Breitkopf</actor>
+			<role>Desmond Swann</role>
+		</credit>
+		<credit>
+			<actor>Kimberly-Sue Murray</actor>
+			<role>Danika Dubov</role>
+		</credit>
+		<credit>
+			<actor>Peter Outerbridge</actor>
+			<role>Calix Niklos</role>
+		</credit>
+		<credit>
+			<actor>Michael Greyeyes</actor>
+			<role>Jimmy Saint</role>
+		</credit>
+		<credit>
+			<actor>Sydney Ozerov-Meyer</actor>
+			<role>Ava O'Malley</role>
+		</credit>
+		<credit>
+			<actor>Laura Vandervoort</actor>
+			<role>Mila Dubov</role>
+		</credit>
+		<credit>
+			<actor>Samantha Cole</actor>
+			<role>Teresa Tangorra</role>
+		</credit>
+		<credit>
+			<actor>Teddy Moynihan</actor>
+			<role>Jergen Weber</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Higgins</actor>
+			<role>William May</role>
+		</credit>
+		<credit>
+			<actor>Nikki Reed</actor>
+			<role>Rachel Thompson</role>
+		</credit>
+		<credit>
+			<actor>Greg Bryk</actor>
+			<role>Bobby</role>
+		</credit>
+		<credit>
+			<actor>Ted Atherton</actor>
+			<role>Senator Smythe</role>
+		</credit>
+		<credit>
+			<actor>Anthony Grant</actor>
+			<role>Robert Harmidy</role>
+		</credit>
+		<credit>
+			<actor>Laura de Carteret</actor>
+			<role>Sasha Giroux</role>
+		</credit>
+		<credit>
+			<actor>Bo Martynowska</actor>
+			<role>Elysse Chambers</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">December 5 2019</releasedate>
+		<releasedate country="Australia">December 5 2019</releasedate>
+		<releasedate country="Brazil">December 5 2019</releasedate>
+		<releasedate country="Canada">December 5 2019</releasedate>
+		<releasedate country="Germany">December 5 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Brazil">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">18</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Mexico">C</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">R21</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">18+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>vampire</keyword>
+		<keyword>based on game</keyword>
+		<keyword>idw publishing</keyword>
+		<keyword>based on comic</keyword>
+		<keyword>virus</keyword>
+		<keyword>vampire virus</keyword>
+		<keyword>predator</keyword>
+		<keyword>blood</keyword>
+		<keyword>race against time</keyword>
+		<keyword>climate change</keyword>
+		<keyword>ice melt</keyword>
+		<keyword>pandemic</keyword>
+		<keyword>friend turned foe</keyword>
+		<keyword>vampire horror</keyword>
+		<keyword>splatter horror</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Brad Turner</director>
+		<director> T.J. Scott</director>
+		<director> Kaare Andrews</director>
+		<director> Marita Grabiak</director>
+		<director> Bobby Roth</director>
+		<director> Ian Somerhalder</director>
+	</directors>
+	<composers>
+		<composer> Michael White</composer>
+	</composers>
+	<producers>
+		<producer> Ted Adams</producer>
+		<producer> David Anselmo</producer>
+		<producer> Lydia Antonini</producer>
+		<producer> Philip Bedard</producer>
+		<producer> Eric Birnberg</producer>
+		<producer> Glenn Davis</producer>
+		<producer> James Gibb</producer>
+		<producer> David Hackl</producer>
+		<producer> Paul Harb</producer>
+		<producer> Larry Lalonde</producer>
+		<producer> William Laurin</producer>
+		<producer> Jonathan Maberry</producer>
+		<producer> Matthew McCluggage</producer>
+		<producer> Jessica Petelle</producer>
+		<producer> Ian Somerhalder</producer>
+		<producer> Brad Turner</producer>
+		<producer> Thomas Vencelides</producer>
+		<producer> Thomas Walden</producer>
+		<producer> Vince Shiao</producer>
+	</producers>
+	<writers>
+		<writer> Sam Beck</writer>
+		<writer> Philip Bedard</writer>
+		<writer> Charlie Cleven</writer>
+		<writer> Kevin Coughlin</writer>
+		<writer> Glenn Davis</writer>
+		<writer> Glenn Davis</writer>
+		<writer> Ryan Grassby</writer>
+		<writer> Bernard Keogh</writer>
+		<writer> Seamus Keogh</writer>
+		<writer> Larry Lalonde</writer>
+		<writer> William Laurin</writer>
+		<writer> William Laurin</writer>
+		<writer> Jonathan Maberry</writer>
+		<writer> Shelley Scarrow</writer>
+		<writer> Shelley Scarrow</writer>
+		<writer> Vince Shiao</writer>
+	</writers>
+	<editors>
+		<editor> Geoff Ashenhurst</editor>
+		<editor> David B. Thompson</editor>
+		<editor> Paul G. Day</editor>
+		<editor> Paul Whitehead</editor>
+	</editors>
+</doc>

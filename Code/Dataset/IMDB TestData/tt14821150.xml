@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<doc id="tt14821150">
+	<docid>tt14821150</docid>
+	<title>Vortex</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNjMxYTFmNTctNDgyYi00NzQwLTk1NTItMmVkYjk5Yjc1NmI2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">142</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>The last days of an elderly couple stricken by dementia.</plot>
+	<countries>
+		<country>France</country>
+	</countries>
+	<languages>
+		<language>French</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Dario Argento</actor>
+			<role>Lui</role>
+		</credit>
+		<credit>
+			<actor>Françoise Lebrun</actor>
+			<role>Elle</role>
+		</credit>
+		<credit>
+			<actor>Alex Lutz</actor>
+			<role>Stéphane</role>
+		</credit>
+		<credit>
+			<actor>Kylian Dheret</actor>
+			<role>Kiki</role>
+		</credit>
+		<credit>
+			<actor>Vuk Brankovic</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Kamel Benchemekh</actor>
+			<role>L'épicier</role>
+		</credit>
+		<credit>
+			<actor>Charles Morillon</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Frank Villeneuve</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Corinne Bruand</actor>
+			<role>Claire</role>
+		</credit>
+		<credit>
+			<actor>Joël Clabault</actor>
+			<role>Le voisin</role>
+		</credit>
+		<credit>
+			<actor>Philippe Rouyer</actor>
+			<role>Ami de la Rédaction</role>
+		</credit>
+		<credit>
+			<actor>Jean-Pierre Bouyxou</actor>
+			<role>Ami de la Rédaction</role>
+		</credit>
+		<credit>
+			<actor>Eric Fourneuf</actor>
+			<role>L'aide à domicile</role>
+		</credit>
+		<credit>
+			<actor>Nicolas Hirgair</actor>
+			<role>L'agent des pompes funèbres</role>
+		</credit>
+		<credit>
+			<actor>Nathalie Roubaud</actor>
+			<role>La junkie</role>
+		</credit>
+		<credit>
+			<actor>Sylvain Rottee</actor>
+			<role>Homme crématorium</role>
+		</credit>
+		<credit>
+			<actor>Laurent Aknin</actor>
+			<role>Ami de la Rédaction</role>
+		</credit>
+		<credit>
+			<actor>Stéphane Derdérian</actor>
+			<role>Ami de la rédaction</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">July 16 2021</releasedate>
+		<releasedate country="Switzerland">August 8 2021</releasedate>
+		<releasedate country="Poland">August 13 2021</releasedate>
+		<releasedate country="Czech Republic">August 21 2021</releasedate>
+		<releasedate country="Israel">August 29 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">18</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="France">10</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Ireland">16</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Israel">ALL</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Portugal">M/14</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Switzerland">16</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>one word title</keyword>
+		<keyword>old man</keyword>
+		<keyword>old woman</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>apartment</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>hospital</keyword>
+		<keyword>death</keyword>
+		<keyword>funeral</keyword>
+		<keyword>no end credits</keyword>
+		<keyword>split screen</keyword>
+		<keyword>married couple</keyword>
+		<keyword>dementia</keyword>
+		<keyword>aging</keyword>
+		<keyword>son</keyword>
+		<keyword>dying</keyword>
+		<keyword>heart attack</keyword>
+		<keyword>dying in a hospital</keyword>
+		<keyword>drugs</keyword>
+		<keyword>bathroom</keyword>
+		<keyword>urination</keyword>
+		<keyword>toilet</keyword>
+		<keyword>flushing a toilet</keyword>
+		<keyword>long take</keyword>
+		<keyword>parallel narrative</keyword>
+		<keyword>writing a book</keyword>
+		<keyword>telephone conversation</keyword>
+		<keyword>written by director</keyword>
+		<keyword>song</keyword>
+		<keyword>alzheimer's disease</keyword>
+		<keyword>older person</keyword>
+	</keywords>
+	<directors>
+		<director> Gaspar Noé</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Toufik Ayadi</producer>
+		<producer> Christophe Barral</producer>
+		<producer> Serge Catoire</producer>
+		<producer> Arnaud Chautard</producer>
+		<producer> Brahim Chioua</producer>
+		<producer> Lucile Hadzihalilovic</producer>
+		<producer> Frédéric Jouve</producer>
+		<producer> Jean-Rachid Kallouche</producer>
+		<producer> Vincent Maraval</producer>
+		<producer> Michel Merkt</producer>
+		<producer> Patrick Quinet</producer>
+		<producer> Edouard Weil</producer>
+	</producers>
+	<writers>
+		<writer> Gaspar Noé</writer>
+	</writers>
+	<editors>
+		<editor> Denis Bedlow</editor>
+	</editors>
+</doc>

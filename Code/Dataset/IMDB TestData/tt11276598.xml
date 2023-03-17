@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<doc id="tt11276598">
+	<docid>tt11276598</docid>
+	<title>Pets United</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNmU2YTEwODktZDFlNC00YWJmLTk0NjEtMzZjMjM4Y2E3NjdiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">89</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>A group of spoilt, selfish pets led by glamour cat Belle are stranded in their luxury hangout 'Pampered Pets,' when the machines that run Robo City, the hypermodern metropolis that they live in, go wild and take over.</plot>
+	<countries>
+		<country>Germany</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Patrick Roche</actor>
+			<role>Roger</role>
+		</credit>
+		<credit>
+			<actor>Natalie Dormer</actor>
+			<role>Belle</role>
+		</credit>
+		<credit>
+			<actor>Felix Auer</actor>
+			<role>Bob</role>
+		</credit>
+		<credit>
+			<actor>Jeff Burrell</actor>
+			<role>Ronaldo</role>
+		</credit>
+		<credit>
+			<actor>Harvey Friedman</actor>
+			<role>Walter</role>
+		</credit>
+		<credit>
+			<actor>Marty Sander</actor>
+			<role>Sophie</role>
+		</credit>
+		<credit>
+			<actor>Bryan Larkin</actor>
+			<role>Slomo</role>
+		</credit>
+		<credit>
+			<actor>Naomi McDonald</actor>
+			<role>Chichi</role>
+		</credit>
+		<credit>
+			<actor>Andres Williams</actor>
+			<role>Edgar</role>
+		</credit>
+		<credit>
+			<actor>Tom Haywood</actor>
+			<role>Oscar</role>
+		</credit>
+		<credit>
+			<actor>Ian Odle</actor>
+			<role>Brian</role>
+		</credit>
+		<credit>
+			<actor>Frank Schaff</actor>
+			<role>Asgar</role>
+		</credit>
+		<credit>
+			<actor>Eddie Marsan</actor>
+			<role>The Cyborg</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="China">November 8 2019</releasedate>
+		<releasedate country="Greece">January 23 2020</releasedate>
+		<releasedate country="Vietnam">January 25 2020</releasedate>
+		<releasedate country="Czech Republic">February 6 2020</releasedate>
+		<releasedate country="Slovakia">February 6 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Colombia">T</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Portugal">M/6</certificate>
+		<certificate country="Russia">6+</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+	</certificates>
+	<keywords>
+		<keyword>pet</keyword>
+		<keyword>two word title</keyword>
+		<keyword>cat</keyword>
+		<keyword>dog</keyword>
+		<keyword>cattle dog</keyword>
+		<keyword>siamese cat</keyword>
+		<keyword>cyborg</keyword>
+		<keyword>mayor</keyword>
+		<keyword>poodle</keyword>
+		<keyword>pug</keyword>
+		<keyword>sheriff</keyword>
+		<keyword>tarsier</keyword>
+		<keyword>proboscis monkey</keyword>
+		<keyword>monkey</keyword>
+		<keyword>red panda</keyword>
+		<keyword>smoothie</keyword>
+		<keyword>chihuahua</keyword>
+		<keyword>guinea pig</keyword>
+		<keyword>komodo dragon</keyword>
+		<keyword>toy robot</keyword>
+		<keyword>hillbilly</keyword>
+		<keyword>bushpig</keyword>
+		<keyword>bengal tiger</keyword>
+		<keyword>tiger</keyword>
+		<keyword>spotted hyena</keyword>
+		<keyword>hyena</keyword>
+		<keyword>talking robot</keyword>
+		<keyword>sentient robot</keyword>
+		<keyword>dog movie</keyword>
+		<keyword>anthropomorphic animal</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>junkyard</keyword>
+		<keyword>pet pig</keyword>
+		<keyword>robot</keyword>
+		<keyword>rogue robots</keyword>
+		<keyword>environmental</keyword>
+		<keyword>face mask</keyword>
+		<keyword>gumball machine</keyword>
+		<keyword>skateboarding</keyword>
+		<keyword>monorail</keyword>
+		<keyword>animal escapes zoo</keyword>
+		<keyword>bad breath</keyword>
+		<keyword>spider</keyword>
+		<keyword>decapitation</keyword>
+		<keyword>sheepdog</keyword>
+		<keyword>canine</keyword>
+		<keyword>pet dog</keyword>
+		<keyword>chase</keyword>
+		<keyword>group</keyword>
+		<keyword>army</keyword>
+		<keyword>3d animation</keyword>
+	</keywords>
+	<directors>
+		<director> Reinhard Klooss</director>
+	</directors>
+	<composers>
+		<composer> David Newman</composer>
+	</composers>
+	<producers>
+		<producer> Alexander Dittner</producer>
+		<producer> Ralph Kamp</producer>
+		<producer> Reinhard Klooss</producer>
+		<producer> Hua Shen</producer>
+		<producer> Yan Xun</producer>
+	</producers>
+	<writers>
+		<writer> Reinhard Klooss</writer>
+		<writer> Reinhard Klooss</writer>
+		<writer> Oliver Huzly</writer>
+	</writers>
+	<editors>
+		<editor> Alexander Dittner</editor>
+	</editors>
+</doc>

@@ -1,0 +1,405 @@
+<?xml version="1.0" ?>
+<doc id="tt1431181">
+	<docid>tt1431181</docid>
+	<title>Another Year</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2I0YTFmNzQtZjM1NC00MmI0LTk5ZTAtMjA2MmM5YTZhOTZiXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2010</year>
+	<runningtimes>
+		<runningtime country="default">129</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A look at four seasons in the lives of a happily married couple and their relationships with their family and friends.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Jim Broadbent</actor>
+			<role>Tom</role>
+		</credit>
+		<credit>
+			<actor>Ruth Sheen</actor>
+			<role>Gerri</role>
+		</credit>
+		<credit>
+			<actor>Lesley Manville</actor>
+			<role>Mary</role>
+		</credit>
+		<credit>
+			<actor>Oliver Maltman</actor>
+			<role>Joe</role>
+		</credit>
+		<credit>
+			<actor>Peter Wight</actor>
+			<role>Ken</role>
+		</credit>
+		<credit>
+			<actor>David Bradley</actor>
+			<role>Ronnie</role>
+		</credit>
+		<credit>
+			<actor>Martin Savage</actor>
+			<role>Carl</role>
+		</credit>
+		<credit>
+			<actor>Karina Fernandez</actor>
+			<role>Katie</role>
+		</credit>
+		<credit>
+			<actor>Michele Austin</actor>
+			<role>Tanya</role>
+		</credit>
+		<credit>
+			<actor>Phil Davis</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Imelda Staunton</actor>
+			<role>Janet</role>
+		</credit>
+		<credit>
+			<actor>Stuart McQuarrie</actor>
+			<role>Tom's Colleague</role>
+		</credit>
+		<credit>
+			<actor>Eileen Davies</actor>
+			<role>Mourner</role>
+		</credit>
+		<credit>
+			<actor>Mary Jo Randle</actor>
+			<role>Mourner</role>
+		</credit>
+		<credit>
+			<actor>Ben Roberts</actor>
+			<role>Mourner</role>
+		</credit>
+		<credit>
+			<actor>David Hobbs</actor>
+			<role>Vicar</role>
+		</credit>
+		<credit>
+			<actor>Badi Uzzaman</actor>
+			<role>Mr. Gupta</role>
+		</credit>
+		<credit>
+			<actor>Meneka Das</actor>
+			<role>Mr. Gupta's Friend</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="France">May 15 2010</releasedate>
+		<releasedate country="United States">September 3 2010</releasedate>
+		<releasedate country="Canada">September 13 2010</releasedate>
+		<releasedate country="Canada">September 29 2010</releasedate>
+		<releasedate country="United States">October 5 2010</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">13</certificate>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">14A</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Finland">K-3</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">0</certificate>
+		<certificate country="Hungary">12</certificate>
+		<certificate country="Ireland">12A</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Mexico">B</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">A</certificate>
+		<certificate country="Portugal">M/12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">Btl</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="Switzerland">10</certificate>
+		<certificate country="United Kingdom">12A</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">PG-13</certificate>
+	</certificates>
+	<keywords>
+		<keyword>london england</keyword>
+		<keyword>cigarette</keyword>
+		<keyword>spring the season</keyword>
+		<keyword>friend</keyword>
+		<keyword>four seasons</keyword>
+		<keyword>autumn</keyword>
+		<keyword>unhappiness</keyword>
+		<keyword>looking at oneself in a mirror</keyword>
+		<keyword>river thames</keyword>
+		<keyword>silent scene</keyword>
+		<keyword>rolling a cigarette</keyword>
+		<keyword>rehabilitation center</keyword>
+		<keyword>stroke</keyword>
+		<keyword>missing someone</keyword>
+		<keyword>seine river</keyword>
+		<keyword>paris france</keyword>
+		<keyword>corfu</keyword>
+		<keyword>cuddling</keyword>
+		<keyword>helmet</keyword>
+		<keyword>toothbrush</keyword>
+		<keyword>t shirt</keyword>
+		<keyword>finger gun</keyword>
+		<keyword>golf</keyword>
+		<keyword>partner</keyword>
+		<keyword>ring of kerry ireland</keyword>
+		<keyword>reference to plastic penny</keyword>
+		<keyword>prescription</keyword>
+		<keyword>bald man</keyword>
+		<keyword>baldness</keyword>
+		<keyword>desperation</keyword>
+		<keyword>employment office</keyword>
+		<keyword>occupational therapist</keyword>
+		<keyword>10 year old</keyword>
+		<keyword>taxi</keyword>
+		<keyword>king's cross london</keyword>
+		<keyword>nervousness</keyword>
+		<keyword>twirling hair</keyword>
+		<keyword>croydon college</keyword>
+		<keyword>hearse</keyword>
+		<keyword>limousine</keyword>
+		<keyword>greek island</keyword>
+		<keyword>football</keyword>
+		<keyword>pretenting to hang by a neck scarf</keyword>
+		<keyword>neck scarf</keyword>
+		<keyword>chocolate</keyword>
+		<keyword>cake</keyword>
+		<keyword>packing</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>bakery</keyword>
+		<keyword>coworker coworker relationship</keyword>
+		<keyword>pregnancy</keyword>
+		<keyword>stethoscope</keyword>
+		<keyword>african anglo</keyword>
+		<keyword>black anglo</keyword>
+		<keyword>anglo asian</keyword>
+		<keyword>backyard barbecue</keyword>
+		<keyword>barbecue</keyword>
+		<keyword>holiday</keyword>
+		<keyword>brushing hair</keyword>
+		<keyword>drilling</keyword>
+		<keyword>hard hat</keyword>
+		<keyword>eviction</keyword>
+		<keyword>beer</keyword>
+		<keyword>piggy back ride</keyword>
+		<keyword>isle of wight</keyword>
+		<keyword>lincolnshire england</keyword>
+		<keyword>retirement</keyword>
+		<keyword>blood pressure</keyword>
+		<keyword>blood test</keyword>
+		<keyword>coffee</keyword>
+		<keyword>employer employee relationship</keyword>
+		<keyword>giving a toast</keyword>
+		<keyword>immigrant</keyword>
+		<keyword>restaurant</keyword>
+		<keyword>cafe</keyword>
+		<keyword>hindu</keyword>
+		<keyword>hangover</keyword>
+		<keyword>bicycle</keyword>
+		<keyword>wheelbarrow</keyword>
+		<keyword>compost</keyword>
+		<keyword>dublin ireland</keyword>
+		<keyword>wedding</keyword>
+		<keyword>clough england</keyword>
+		<keyword>swing</keyword>
+		<keyword>money</keyword>
+		<keyword>power tower</keyword>
+		<keyword>lawyer</keyword>
+		<keyword>telephone call</keyword>
+		<keyword>telephone</keyword>
+		<keyword>thyme</keyword>
+		<keyword>donegal ireland</keyword>
+		<keyword>ireland</keyword>
+		<keyword>urination</keyword>
+		<keyword>recycling</keyword>
+		<keyword>environment</keyword>
+		<keyword>knocking on a door</keyword>
+		<keyword>knocking on wood</keyword>
+		<keyword>marijuana</keyword>
+		<keyword>smoking marijuana</keyword>
+		<keyword>older woman younger man relationship</keyword>
+		<keyword>older man younger woman relationship</keyword>
+		<keyword>tomato</keyword>
+		<keyword>vegetarian</keyword>
+		<keyword>male wears an earring</keyword>
+		<keyword>croydon london</keyword>
+		<keyword>slap on the butt</keyword>
+		<keyword>flowers</keyword>
+		<keyword>rehabilitation</keyword>
+		<keyword>therapist</keyword>
+		<keyword>car break in</keyword>
+		<keyword>smashing a car window</keyword>
+		<keyword>the outback australia</keyword>
+		<keyword>meet cute</keyword>
+		<keyword>jilted</keyword>
+		<keyword>coffin</keyword>
+		<keyword>death of sister in law</keyword>
+		<keyword>death of aunt</keyword>
+		<keyword>reference to tom and jerry</keyword>
+		<keyword>curry</keyword>
+		<keyword>disappointment</keyword>
+		<keyword>sleeping on a sofa</keyword>
+		<keyword>champagne</keyword>
+		<keyword>car breakdown</keyword>
+		<keyword>reference to jerry lee lewis</keyword>
+		<keyword>reference to elvis presley</keyword>
+		<keyword>reference to the beatles</keyword>
+		<keyword>cold the temperature</keyword>
+		<keyword>prayer</keyword>
+		<keyword>reference to jesus christ</keyword>
+		<keyword>reference to god</keyword>
+		<keyword>cremation</keyword>
+		<keyword>treehouse</keyword>
+		<keyword>earphones</keyword>
+		<keyword>widower</keyword>
+		<keyword>surrogate nephew</keyword>
+		<keyword>surrogate aunt</keyword>
+		<keyword>secretary</keyword>
+		<keyword>uncle nephew relationship</keyword>
+		<keyword>christmas</keyword>
+		<keyword>tea</keyword>
+		<keyword>cousin cousin relationship</keyword>
+		<keyword>parking ticket</keyword>
+		<keyword>auto insurance</keyword>
+		<keyword>30 year old</keyword>
+		<keyword>reading in bed</keyword>
+		<keyword>reading</keyword>
+		<keyword>anger</keyword>
+		<keyword>computer</keyword>
+		<keyword>shovel</keyword>
+		<keyword>digging</keyword>
+		<keyword>rain</keyword>
+		<keyword>melancholy</keyword>
+		<keyword>doctor</keyword>
+		<keyword>one year time span</keyword>
+		<keyword>divorcee</keyword>
+		<keyword>divorce</keyword>
+		<keyword>infidelity</keyword>
+		<keyword>unfaithfulness</keyword>
+		<keyword>adultery</keyword>
+		<keyword>extramarital affair</keyword>
+		<keyword>35 year old</keyword>
+		<keyword>41 year old</keyword>
+		<keyword>70 year old</keyword>
+		<keyword>64 year old</keyword>
+		<keyword>family relationships</keyword>
+		<keyword>father daughter relationship</keyword>
+		<keyword>mother daughter relationship</keyword>
+		<keyword>mother son relationship</keyword>
+		<keyword>ensemble cast</keyword>
+		<keyword>baby</keyword>
+		<keyword>difficulty breathing</keyword>
+		<keyword>sleeping pill</keyword>
+		<keyword>car</keyword>
+		<keyword>driving</keyword>
+		<keyword>driver's license</keyword>
+		<keyword>brother brother relationship</keyword>
+		<keyword>apology</keyword>
+		<keyword>secret</keyword>
+		<keyword>therapy</keyword>
+		<keyword>sleeplessness</keyword>
+		<keyword>memory</keyword>
+		<keyword>backyard</keyword>
+		<keyword>mirror</keyword>
+		<keyword>kiss</keyword>
+		<keyword>train</keyword>
+		<keyword>winter</keyword>
+		<keyword>summer</keyword>
+		<keyword>prologue</keyword>
+		<keyword>geologist</keyword>
+		<keyword>suburb</keyword>
+		<keyword>buying a car</keyword>
+		<keyword>pub</keyword>
+		<keyword>happiness</keyword>
+		<keyword>eating</keyword>
+		<keyword>food</keyword>
+		<keyword>drunkenness</keyword>
+		<keyword>drinking</keyword>
+		<keyword>drink</keyword>
+		<keyword>sadness</keyword>
+		<keyword>heartbreak</keyword>
+		<keyword>death</keyword>
+		<keyword>tears</keyword>
+		<keyword>crying</keyword>
+		<keyword>husband wife relationship</keyword>
+		<keyword>ex boyfriend ex girlfriend relationship</keyword>
+		<keyword>wine</keyword>
+		<keyword>red wine</keyword>
+		<keyword>father son relationship</keyword>
+		<keyword>vegetable garden</keyword>
+		<keyword>family dinner</keyword>
+		<keyword>dinner table</keyword>
+		<keyword>cooking</keyword>
+		<keyword>out of breath</keyword>
+		<keyword>overweight man</keyword>
+		<keyword>unrequited love</keyword>
+		<keyword>friendship</keyword>
+		<keyword>male female relationship</keyword>
+		<keyword>estranged son</keyword>
+		<keyword>death of wife</keyword>
+		<keyword>funeral parlor</keyword>
+		<keyword>funeral</keyword>
+		<keyword>spurned woman</keyword>
+		<keyword>jealousy</keyword>
+		<keyword>boyfriend girlfriend relationship</keyword>
+		<keyword>lighting someone's cigarette</keyword>
+		<keyword>cigarette smoking</keyword>
+		<keyword>red car</keyword>
+		<keyword>golf course</keyword>
+		<keyword>nostalgia</keyword>
+		<keyword>elderly couple</keyword>
+		<keyword>old age couple</keyword>
+		<keyword>aging</keyword>
+		<keyword>old friend</keyword>
+		<keyword>soccer fan</keyword>
+		<keyword>loneliness</keyword>
+		<keyword>feeling tipsy</keyword>
+		<keyword>geological engineer</keyword>
+		<keyword>white wine</keyword>
+		<keyword>allotment garden</keyword>
+		<keyword>garden</keyword>
+		<keyword>gardening</keyword>
+		<keyword>counselor</keyword>
+		<keyword>insomnia</keyword>
+		<keyword>depression</keyword>
+		<keyword>medical examination</keyword>
+		<keyword>watching tv</keyword>
+		<keyword>death of mother</keyword>
+		<keyword>death of friend</keyword>
+	</keywords>
+	<directors>
+		<director> Mike Leigh</director>
+	</directors>
+	<composers>
+		<composer> Gary Yershon</composer>
+	</composers>
+	<producers>
+		<producer> Danielle Brandon</producer>
+		<producer> Gail Egan</producer>
+		<producer> Georgina Lowe</producer>
+		<producer> Tessa Ross</producer>
+	</producers>
+	<writers>
+		<writer> Mike Leigh</writer>
+	</writers>
+	<editors>
+		<editor> Jon Gregory</editor>
+	</editors>
+</doc>

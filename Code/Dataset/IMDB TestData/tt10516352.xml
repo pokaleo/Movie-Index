@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<doc id="tt10516352">
+	<docid>tt10516352</docid>
+	<title>Love 101</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzE0YjIyMGEtNTVmMS00NWM5LWI1OTUtNjAxNDE0ZDFhMDQ3XkEyXkFqcGdeQXVyMTIyMjI4OTkx._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">40</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>In 1990s Turkey, a group of teenage outcasts band together to make their beloved teacher fall in love so she'll have a reason to stay in town with them.</plot>
+	<countries>
+		<country>Turkey</country>
+	</countries>
+	<languages>
+		<language>Turkish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Alina Boz</actor>
+			<role>Eda</role>
+		</credit>
+		<credit>
+			<actor>Mert Yazicioglu</actor>
+			<role>Sinan</role>
+		</credit>
+		<credit>
+			<actor>Kubilay Aka</actor>
+			<role>Kerem</role>
+		</credit>
+		<credit>
+			<actor>Selahattin Pasali</actor>
+			<role>Osman</role>
+		</credit>
+		<credit>
+			<actor>Ipek Filiz Yazici</actor>
+			<role>Isik</role>
+		</credit>
+		<credit>
+			<actor>Pinar Deniz</actor>
+			<role>Burcu</role>
+		</credit>
+		<credit>
+			<actor>Müfit Kayacan</actor>
+			<role>Necdet</role>
+		</credit>
+		<credit>
+			<actor>Kaan Urgancioglu</actor>
+			<role>Kemal</role>
+		</credit>
+		<credit>
+			<actor>David Haack</actor>
+			<role>Kemal</role>
+		</credit>
+		<credit>
+			<actor>Rae Varela</actor>
+			<role>Eda</role>
+		</credit>
+		<credit>
+			<actor>Marley Estrada</actor>
+			<role>Elif</role>
+		</credit>
+		<credit>
+			<actor>Bade Iscil</actor>
+			<role>Adult Isik</role>
+		</credit>
+		<credit>
+			<actor>Firat Bozan</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Merve Akkaya</actor>
+			<role>Billur</role>
+		</credit>
+		<credit>
+			<actor>Sekvan Serinkaya</actor>
+			<role>Refik</role>
+		</credit>
+		<credit>
+			<actor>Ece Yüksel</actor>
+			<role>Elif</role>
+		</credit>
+		<credit>
+			<actor>Ozan Bingol</actor>
+			<role>Nerd 1</role>
+		</credit>
+		<credit>
+			<actor>Feri Baycu Güler</actor>
+			<role/>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Turkey">2020</releasedate>
+		<releasedate country="United Arab Emirates">April 24 2020</releasedate>
+		<releasedate country="Argentina">April 24 2020</releasedate>
+		<releasedate country="Australia">April 24 2020</releasedate>
+		<releasedate country="Brazil">April 24 2020</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">12</certificate>
+		<certificate country="Egypt">16+</certificate>
+		<certificate country="France">13</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Hong Kong">16+</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Indonesia">16+</certificate>
+		<certificate country="Israel">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="South Korea">18</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">13</certificate>
+		<certificate country="Turkey">15+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>love</keyword>
+		<keyword>teacher</keyword>
+		<keyword>student</keyword>
+		<keyword>high school</keyword>
+		<keyword>drunk</keyword>
+		<keyword>bosphorus</keyword>
+		<keyword>fight</keyword>
+		<keyword>teacher student relationship</keyword>
+		<keyword>teenager</keyword>
+		<keyword>concert</keyword>
+		<keyword>kiss</keyword>
+		<keyword>businessman</keyword>
+		<keyword>slow motion scene</keyword>
+		<keyword>1990s</keyword>
+		<keyword>istanbul turkey</keyword>
+	</keywords>
+	<directors>
+		<director> Ahmet Katiksiz</director>
+		<director> Deniz Yorulmazer</director>
+		<director> Umut Aral</director>
+		<director> Gonenc Uyanik</director>
+	</directors>
+	<composers>
+		<composer> Marios Takoushis</composer>
+	</composers>
+	<producers>
+		<producer> Kerem Çatay</producer>
+		<producer> Asli Erdem</producer>
+		<producer> Alara Hamamcioglu</producer>
+		<producer> Suzan Güverte</producer>
+	</producers>
+	<writers>
+		<writer> Meriç Acemi</writer>
+		<writer> Meriç Acemi</writer>
+	</writers>
+	<editors>
+		<editor> Ahmet Can Cakirca</editor>
+		<editor> Dogus Onur Karasu</editor>
+		<editor> Aylin Tinel</editor>
+		<editor> Murat Basören</editor>
+		<editor> Aziz Imamoglu</editor>
+		<editor> Korhan Koryurek</editor>
+		<editor> Barkin Yesiltepe</editor>
+		<editor> Adil Yanik</editor>
+	</editors>
+</doc>

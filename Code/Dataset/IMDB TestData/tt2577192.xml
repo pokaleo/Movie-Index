@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<doc id="tt2577192">
+	<docid>tt2577192</docid>
+	<title>Howards End</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTk3MDY3NDc2NF5BMl5BanBnXkFtZTgwODcwNjgzOTE@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2017</year>
+	<runningtimes>
+		<runningtime country="default">240</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Romance</genre>
+	</genres>
+	<plot>The social and class divisions in early 20th century England through the intersection of three families - the wealthy Wilcoxes, the gentle and idealistic Schlegels and the lower-middle class Basts.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Matthew Macfadyen</actor>
+			<role>Henry Wilcox</role>
+		</credit>
+		<credit>
+			<actor>Hayley Atwell</actor>
+			<role>Margaret Schlegel</role>
+		</credit>
+		<credit>
+			<actor>Philippa Coulthard</actor>
+			<role>Helen Schlegel</role>
+		</credit>
+		<credit>
+			<actor>Alex Lawther</actor>
+			<role>Tibby Schlegel</role>
+		</credit>
+		<credit>
+			<actor>Joe Bannister</actor>
+			<role>Charles Wilcox</role>
+		</credit>
+		<credit>
+			<actor>Donna Banya</actor>
+			<role>Annie</role>
+		</credit>
+		<credit>
+			<actor>Tracey Ullman</actor>
+			<role>Aunt Juley</role>
+		</credit>
+		<credit>
+			<actor>Bessie Carter</actor>
+			<role>Evie Wilcox</role>
+		</credit>
+		<credit>
+			<actor>Joseph Quinn</actor>
+			<role>Leonard Bast</role>
+		</credit>
+		<credit>
+			<actor>Rosalind Eleazar</actor>
+			<role>Jacky Bast</role>
+		</credit>
+		<credit>
+			<actor>Yolanda Kettle</actor>
+			<role>Dolly Wilcox</role>
+		</credit>
+		<credit>
+			<actor>Sandra Voe</actor>
+			<role>Miss Avery</role>
+		</credit>
+		<credit>
+			<actor>Gavin Brocker</actor>
+			<role>Crane</role>
+		</credit>
+		<credit>
+			<actor>Miles Jupp</actor>
+			<role>Percy Cahill</role>
+		</credit>
+		<credit>
+			<actor>William Belchambers</actor>
+			<role>Burton</role>
+		</credit>
+		<credit>
+			<actor>Hannah Traylen</actor>
+			<role>Nancy</role>
+		</credit>
+		<credit>
+			<actor>Jonah Hauer-King</actor>
+			<role>Paul Wilcox</role>
+		</credit>
+		<credit>
+			<actor>Julia Ormond</actor>
+			<role>Mrs. Wilcox</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">November 12 2017</releasedate>
+		<releasedate country="Poland">January 5 2018</releasedate>
+		<releasedate country="Finland">February 12 2018</releasedate>
+		<releasedate country="Sweden">February 12 2018</releasedate>
+		<releasedate country="Brazil">April 8 2018</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Brazil">14</certificate>
+		<certificate country="Canada">14+</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">18</certificate>
+		<certificate country="Italy"> BA</certificate>
+		<certificate country="Japan">Unrated</certificate>
+		<certificate country="Netherlands">15</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Spain">18</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>class system</keyword>
+		<keyword>house</keyword>
+		<keyword>sister</keyword>
+		<keyword>rich family</keyword>
+		<keyword>period drama</keyword>
+		<keyword>costume drama</keyword>
+		<keyword>middle class</keyword>
+		<keyword>social class</keyword>
+		<keyword>location in title</keyword>
+		<keyword>two word title</keyword>
+		<keyword>timeframe 20th century</keyword>
+		<keyword>edwardian era</keyword>
+		<keyword>class differences</keyword>
+		<keyword>1900s</keyword>
+		<keyword>adaptation</keyword>
+		<keyword>tv mini series</keyword>
+		<keyword>based on novel</keyword>
+	</keywords>
+	<directors>
+		<director> Hettie Macdonald</director>
+	</directors>
+	<composers>
+		<composer> Nico Muhly</composer>
+	</composers>
+	<producers>
+		<producer> Joshua D. Maurer</producer>
+		<producer> Alixandre Witlin</producer>
+		<producer> Colin Callender</producer>
+		<producer> Elyse Dolbec</producer>
+		<producer> Sophie Gardiner</producer>
+		<producer> Laura Hastings-Smith</producer>
+		<producer> Scott Huff</producer>
+		<producer> Lucy Richer</producer>
+		<producer> Michael Robins</producer>
+		<producer> David A. Stern</producer>
+	</producers>
+	<writers>
+		<writer> Kenneth Lonergan</writer>
+		<writer> E.M. Forster</writer>
+	</writers>
+	<editors>
+		<editor> Stephen O'Connell</editor>
+	</editors>
+</doc>

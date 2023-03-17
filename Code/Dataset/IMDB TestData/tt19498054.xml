@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<doc id="tt19498054">
+	<docid>tt19498054</docid>
+	<title>Ice Road Killer</title>
+	<image>https://m.media-amazon.com/images/M/MV5BODA0OGM0ZmQtMmY3YS00OTE4LWIzYjYtY2MwMmQwNjQ2NWU4XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">91</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Follows Helen and her daughter Lauren, who go on a trip to an isolated cabin in the cold north and meet a hitchhiker who actually is a thief trying to evade a cold-blooded killer, and now Helen and Lauren are on the murderer's radar too.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Sarah Allen</actor>
+			<role>Helen Taylor</role>
+		</credit>
+		<credit>
+			<actor>Zoë Belkin</actor>
+			<role>Carly</role>
+		</credit>
+		<credit>
+			<actor>Erica Anderson</actor>
+			<role>Lauren Taylor</role>
+		</credit>
+		<credit>
+			<actor>Michael Swatton</actor>
+			<role>Trucker</role>
+		</credit>
+		<credit>
+			<actor>Connor McMahon</actor>
+			<role>Boyd</role>
+		</credit>
+		<credit>
+			<actor>Reon Lucas</actor>
+			<role>Earl</role>
+		</credit>
+		<credit>
+			<actor>Paul Whitney</actor>
+			<role>Kindly Old Trucker</role>
+		</credit>
+		<credit>
+			<actor>Colton Royce</actor>
+			<role>Officer Matthews</role>
+		</credit>
+		<credit>
+			<actor>Candice Lidstone</actor>
+			<role>Waitress</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Canada">2022</releasedate>
+		<releasedate country="United States">June 26 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Japan">13+</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Max McGuire</director>
+	</directors>
+	<composers>
+		<composer> Christopher Guglick</composer>
+	</composers>
+	<producers>
+		<producer> Hayden Baptiste</producer>
+		<producer> Andrew C. Erin</producer>
+		<producer> Timothy O. Johnson</producer>
+		<producer> Joseph Wilka</producer>
+	</producers>
+	<writers>
+		<writer> Shawn Riopelle</writer>
+	</writers>
+	<editors>
+		<editor> Richard Mandin</editor>
+	</editors>
+</doc>

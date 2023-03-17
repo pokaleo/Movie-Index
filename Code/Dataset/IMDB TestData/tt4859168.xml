@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<doc id="tt4859168">
+	<docid>tt4859168</docid>
+	<title>Departures</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWY1YjIxNWEtMjNhYi00OTFlLWE0ZmMtM2NhNGJjNjE2NGNkXkEyXkFqcGdeQXVyMjMwMzk5OTI@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">97</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A hypochondriac working as an airport baggage handler is forced to confront his fears when a British teenager with a terminal illness enlists him to help her carry out her eccentric bucket list.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Asa Butterfield</actor>
+			<role>Calvin</role>
+		</credit>
+		<credit>
+			<actor>Maisie Williams</actor>
+			<role>Skye</role>
+		</credit>
+		<credit>
+			<actor>Nina Dobrev</actor>
+			<role>Izzy</role>
+		</credit>
+		<credit>
+			<actor>Ken Jeong</actor>
+			<role>Officer Al</role>
+		</credit>
+		<credit>
+			<actor>Tyler Hoechlin</actor>
+			<role>Frank</role>
+		</credit>
+		<credit>
+			<actor>David Koechner</actor>
+			<role>Bob</role>
+		</credit>
+		<credit>
+			<actor>Peyton List</actor>
+			<role>Ashley</role>
+		</credit>
+		<credit>
+			<actor>Tituss Burgess</actor>
+			<role>Julian</role>
+		</credit>
+		<credit>
+			<actor>Sonya Walger</actor>
+			<role>Claire</role>
+		</credit>
+		<credit>
+			<actor>Margot Bingham</actor>
+			<role>Lucy</role>
+		</credit>
+		<credit>
+			<actor>Colin Moss</actor>
+			<role>Greg</role>
+		</credit>
+		<credit>
+			<actor>Briana Venskus</actor>
+			<role>Officer Mya</role>
+		</credit>
+		<credit>
+			<actor>Ron Simons</actor>
+			<role>Dr. Collins</role>
+		</credit>
+		<credit>
+			<actor>Angel Valle Jr.</actor>
+			<role>Will</role>
+		</credit>
+		<credit>
+			<actor>L. Steven Taylor</actor>
+			<role>Dan</role>
+		</credit>
+		<credit>
+			<actor>Francesca Noel</actor>
+			<role>Hannah</role>
+		</credit>
+		<credit>
+			<actor>Ann Osmond</actor>
+			<role>Ellen</role>
+		</credit>
+		<credit>
+			<actor>Ken Tsukada</actor>
+			<role>Officer Al's Dad</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 12 2018</releasedate>
+		<releasedate country="Indonesia">October 18 2018</releasedate>
+		<releasedate country="Philippines">January 30 2019</releasedate>
+		<releasedate country="United States">February 1 2019</releasedate>
+		<releasedate country="United Arab Emirates">February 21 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Finland">K-12</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Philippines">PG-13</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="Russia">16+</certificate>
+		<certificate country="South Korea">12</certificate>
+		<certificate country="Spain">12</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="Taiwan">PG-12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">Not Rated</certificate>
+		<certificate country="Ukraine">12</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>airport</keyword>
+		<keyword>airport security</keyword>
+		<keyword>airport terminal</keyword>
+		<keyword>suitcase</keyword>
+		<keyword>baggage handler</keyword>
+		<keyword>baggage</keyword>
+		<keyword>bucket list</keyword>
+		<keyword>terminal illness</keyword>
+		<keyword>airport security checkpoint</keyword>
+		<keyword>teenager</keyword>
+		<keyword>close up of eyes</keyword>
+		<keyword>listening to heart</keyword>
+		<keyword>listening to someone's heartbeat</keyword>
+		<keyword>listening to one's heartbeat</keyword>
+	</keywords>
+	<directors>
+		<director> Peter Hutchings</director>
+	</directors>
+	<composers>
+		<composer> Spencer David Hutchings</composer>
+	</composers>
+	<producers>
+		<producer> Nicolas Chartier</producer>
+		<producer> Brice Dal Farra</producer>
+		<producer> Claude Dal Farra</producer>
+		<producer> Irfaan Fredericks</producer>
+		<producer> Kerri Hundley</producer>
+		<producer> Brian Keady</producer>
+		<producer> Alissa Phillips</producer>
+		<producer> Derrick Tseng</producer>
+	</producers>
+	<writers>
+		<writer> Fergal Rock</writer>
+	</writers>
+	<editors>
+		<editor> Jacob Craycroft</editor>
+		<editor> Jason Nicholson</editor>
+	</editors>
+</doc>

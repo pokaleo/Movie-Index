@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<doc id="tt9032346">
+	<docid>tt9032346</docid>
+	<title>The Hidebehind</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTE4M2YzYWQtMGQ5Mi00MjUzLWFlODUtMTY4OTA3NmFkOTIzXkEyXkFqcGdeQXVyOTEzOTk3ODc@._V1_QL75_UX190_CR0,6,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">10</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>Lost deep in the forest, a lone backpacker encounters a peculiar stranger.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Robin Collins</actor>
+			<role>Backpacker</role>
+		</credit>
+		<credit>
+			<actor>Jared Wheeler</actor>
+			<role>The Hidebehind</role>
+		</credit>
+		<credit>
+			<actor>Abiel Bruhn</actor>
+			<role>The Hidebehind</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">October 12 2018</releasedate>
+		<releasedate country="United States">January 26 2019</releasedate>
+		<releasedate country="United States">June 5 2019</releasedate>
+		<releasedate country="Spain">November 9 2019</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Parker Finn</director>
+	</directors>
+	<composers>
+		<composer> Rob Himebaugh</composer>
+	</composers>
+	<producers>
+		<producer> Jessica Bonander</producer>
+		<producer> Kelly Pratt</producer>
+	</producers>
+	<writers>
+		<writer> Parker Finn</writer>
+	</writers>
+	<editors>
+		<editor> Tristan Borys</editor>
+	</editors>
+</doc>

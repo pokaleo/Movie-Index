@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<doc id="tt4635922">
+	<docid>tt4635922</docid>
+	<title>Car Share</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWQ4ZTM1MmYtYjQ4Yy00NjVhLTkwODYtN2EwNzA4MTlkYzI3XkEyXkFqcGdeQXVyNjg0NTcxMTg@._V1_QL75_UY281_CR46,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Assistant manager John Redmond and promotions rep Kayleigh Kitson are forced to commute together every day. But will they get along?</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Peter Kay</actor>
+			<role>John Redmond</role>
+		</credit>
+		<credit>
+			<actor>Sian Gibson</actor>
+			<role>Kayleigh Kitson</role>
+		</credit>
+		<credit>
+			<actor>Danny Swarsbrick</actor>
+			<role>Ted 2</role>
+		</credit>
+		<credit>
+			<actor>Guy Garvey</actor>
+			<role>Steve</role>
+		</credit>
+		<credit>
+			<actor>Gemma Facinelli</actor>
+			<role>Rachel</role>
+		</credit>
+		<credit>
+			<actor>Mick Miller</actor>
+			<role>Tony</role>
+		</credit>
+		<credit>
+			<actor>Reece Shearsmith</actor>
+			<role>Ray</role>
+		</credit>
+		<credit>
+			<actor>Scott Taylor</actor>
+			<role>Builder</role>
+		</credit>
+		<credit>
+			<actor>Niall Foley</actor>
+			<role>Alfie</role>
+		</credit>
+		<credit>
+			<actor>Conleth Hill</actor>
+			<role>Elsie</role>
+		</credit>
+		<credit>
+			<actor>Pearce Quigley</actor>
+			<role>Cyclist</role>
+		</credit>
+		<credit>
+			<actor>Archie Kelly</actor>
+			<role>Man with Dog</role>
+		</credit>
+		<credit>
+			<actor>Charleigh Adams</actor>
+			<role>Chloe</role>
+		</credit>
+		<credit>
+			<actor>David Galbraith</actor>
+			<role>Ian Litchfield</role>
+		</credit>
+		<credit>
+			<actor>Loraine Calvert</actor>
+			<role>Nan</role>
+		</credit>
+		<credit>
+			<actor>Simon Greenall</actor>
+			<role>Dave Thompson</role>
+		</credit>
+		<credit>
+			<actor>Bryan Hands</actor>
+			<role>Ken</role>
+		</credit>
+		<credit>
+			<actor>Judith Barker</actor>
+			<role>Lady on Bus</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Kingdom">April 29 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>conversation</keyword>
+		<keyword>sitcom</keyword>
+		<keyword>british comedy</keyword>
+		<keyword>song</keyword>
+		<keyword>northern england</keyword>
+		<keyword>sitcom comedy</keyword>
+		<keyword>car</keyword>
+		<keyword>car share</keyword>
+		<keyword>supermarket</keyword>
+		<keyword>radio</keyword>
+		<keyword>driving</keyword>
+	</keywords>
+	<directors>
+		<director> Peter Kay</director>
+	</directors>
+	<composers>
+		<composer> James Jayawardeva</composer>
+	</composers>
+	<producers>
+		<producer> Gill Isles</producer>
+		<producer> Nadia Jaynes</producer>
+		<producer> Margaret Mubarek</producer>
+		<producer> Lynn Roberts</producer>
+	</producers>
+	<writers>
+		<writer> Paul Coleman</writer>
+		<writer> Sian Gibson</writer>
+		<writer> Sian Gibson</writer>
+		<writer> Peter Kay</writer>
+		<writer> Peter Kay</writer>
+		<writer> Tim Reid</writer>
+	</writers>
+	<editors>
+		<editor> Matt Brown</editor>
+		<editor> Peter Hallworth</editor>
+	</editors>
+</doc>

@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<doc id="tt13107070">
+	<docid>tt13107070</docid>
+	<title>The Pact</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>I 2021</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Rakie Ayola</actor>
+			<role>Christine</role>
+		</credit>
+		<credit>
+			<actor>Laura Fraser</actor>
+			<role>Anna</role>
+		</credit>
+		<credit>
+			<actor>Julie Hesmondhalgh</actor>
+			<role>Nancy</role>
+		</credit>
+		<credit>
+			<actor>Eiry Thomas</actor>
+			<role>Louie</role>
+		</credit>
+		<credit>
+			<actor>Heledd Gwynn</actor>
+			<role>Cat</role>
+		</credit>
+		<credit>
+			<actor>Aneurin Barnard</actor>
+			<role>Jack</role>
+		</credit>
+		<credit>
+			<actor>Jason Hughes</actor>
+			<role>Max</role>
+		</credit>
+		<credit>
+			<actor>Abbie Hern</actor>
+			<role>Tish</role>
+		</credit>
+		<credit>
+			<actor>Gabrielle Creevy</actor>
+			<role>Tamsin</role>
+		</credit>
+		<credit>
+			<actor>Aled ap Steffan</actor>
+			<role>Ryan</role>
+		</credit>
+		<credit>
+			<actor>Ben McGregor</actor>
+			<role>DC Griffiths</role>
+		</credit>
+		<credit>
+			<actor>Jacob Ifan</actor>
+			<role>Gethin</role>
+		</credit>
+		<credit>
+			<actor>Lisa Palfrey</actor>
+			<role>Beth</role>
+		</credit>
+		<credit>
+			<actor>Lloyd Everitt</actor>
+			<role>Will</role>
+		</credit>
+		<credit>
+			<actor>Kristy Philipps</actor>
+			<role>Kayla</role>
+		</credit>
+		<credit>
+			<actor>Aaron Anthony</actor>
+			<role>Jamie</role>
+		</credit>
+		<credit>
+			<actor>Jordan Wilks</actor>
+			<role>Connor</role>
+		</credit>
+		<credit>
+			<actor>Mali Ann Rees</actor>
+			<role>Megan</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Australia">May 17 2021</releasedate>
+		<releasedate country="Canada">May 17 2021</releasedate>
+		<releasedate country="Spain">May 17 2021</releasedate>
+		<releasedate country="France">May 17 2021</releasedate>
+		<releasedate country="United Kingdom">May 17 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>death</keyword>
+	</keywords>
+	<directors>
+		<director> Rebecca Johnson</director>
+		<director> Eric Styles</director>
+		<director> Christiana Ebohon-Green</director>
+		<director> Nicole Volavka</director>
+	</directors>
+	<composers>
+		<composer> Mac Quayle</composer>
+	</composers>
+	<producers>
+		<producer> Marc B. Lorber</producer>
+		<producer> Nancy Bray</producer>
+		<producer> Catrin Lewis Defis</producer>
+		<producer> Hayley Manning</producer>
+		<producer> Pete McTighe</producer>
+		<producer> Elwen Rowlands</producer>
+		<producer> Florian Cassel-Delavois</producer>
+		<producer> Adam Knopf</producer>
+		<producer> Helen Perry</producer>
+		<producer> Ynyr Williams</producer>
+	</producers>
+	<writers>
+		<writer> Pete McTighe</writer>
+		<writer> Pete McTighe</writer>
+		<writer> Pete McTighe</writer>
+	</writers>
+	<editors>
+		<editor> Caroline Limmer</editor>
+		<editor> William Oswald</editor>
+		<editor> John Blackwell</editor>
+		<editor> Al Morrow</editor>
+	</editors>
+</doc>

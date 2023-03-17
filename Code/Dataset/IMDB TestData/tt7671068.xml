@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<doc id="tt7671068">
+	<docid>tt7671068</docid>
+	<title>Grand Hotel</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">43</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A look at the professional and personal lives of people working at a family-run hotel in Miami Beach.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Demián Bichir</actor>
+			<role>Santiago Mendoza</role>
+		</credit>
+		<credit>
+			<actor>Roselyn Sanchez</actor>
+			<role>Gigi Mendoza</role>
+		</credit>
+		<credit>
+			<actor>Denyse Tontz</actor>
+			<role>Alicia Mendoza</role>
+		</credit>
+		<credit>
+			<actor>Bryan Craig</actor>
+			<role>Javi Mendoza</role>
+		</credit>
+		<credit>
+			<actor>Wendy Raquel Robinson</actor>
+			<role>Helen Parker</role>
+		</credit>
+		<credit>
+			<actor>Lincoln Younes</actor>
+			<role>Danny Garibaldi</role>
+		</credit>
+		<credit>
+			<actor>Shalim Ortiz</actor>
+			<role>Mateo</role>
+		</credit>
+		<credit>
+			<actor>Anne Winters</actor>
+			<role>Ingrid</role>
+		</credit>
+		<credit>
+			<actor>Chris Warren</actor>
+			<role>Jason Parker</role>
+		</credit>
+		<credit>
+			<actor>Feliz Ramirez</actor>
+			<role>Carolina Renna</role>
+		</credit>
+		<credit>
+			<actor>Justina Adorno</actor>
+			<role>Yoli Renna</role>
+		</credit>
+		<credit>
+			<actor>Sabrina Texidor</actor>
+			<role>Marisa</role>
+		</credit>
+		<credit>
+			<actor>John Marshall Jones</actor>
+			<role>Malcolm Parker</role>
+		</credit>
+		<credit>
+			<actor>Elizabeth McLaughlin</actor>
+			<role>Heather Davis</role>
+		</credit>
+		<credit>
+			<actor>Adrian Pasdar</actor>
+			<role>Felix Renna</role>
+		</credit>
+		<credit>
+			<actor>Arielle Kebbel</actor>
+			<role>Sky Garibaldi</role>
+		</credit>
+		<credit>
+			<actor>Jencarlos Canela</actor>
+			<role>El Rey</role>
+		</credit>
+		<credit>
+			<actor>Matt Shively</actor>
+			<role>Nelson</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Mexico">2019</releasedate>
+		<releasedate country="Spain">June 17 2019</releasedate>
+		<releasedate country="United States">June 17 2019</releasedate>
+		<releasedate country="Italy">July 8 2019</releasedate>
+		<releasedate country="United Kingdom">July 9 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">TV-PG</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Italy">BA</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">9</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>hispanic</keyword>
+		<keyword>florida</keyword>
+		<keyword>soap</keyword>
+	</keywords>
+	<directors>
+		<director> Bill D'Elia</director>
+		<director> Marisol Adler</director>
+		<director> Barbara Brown</director>
+		<director> David Grossman</director>
+		<director> Elodie Keene</director>
+		<director> Eva Longoria</director>
+		<director> Ken Olin</director>
+		<director> Ellen S. Pressman</director>
+		<director> Nicole Rubio</director>
+		<director> Arlene Sanford</director>
+		<director> John Terlesky</director>
+		<director> Ron Underwood</director>
+	</directors>
+	<composers>
+		<composer> Jeff Beal</composer>
+	</composers>
+	<producers>
+		<producer> Jeff MacVittie</producer>
+		<producer> Brian Tanen</producer>
+		<producer> Davah Avena</producer>
+		<producer> Demián Bichir</producer>
+		<producer> Ramón Campos</producer>
+		<producer> Teresa Fernández-Valdés</producer>
+		<producer> Curtis Kheel</producer>
+		<producer> Eva Longoria</producer>
+		<producer> Nicki Renna</producer>
+		<producer> Ben Spector</producer>
+		<producer> Bill D'Elia</producer>
+		<producer> Bob Daily</producer>
+		<producer> Geoffrey Nauffts</producer>
+		<producer> Sara Saedi</producer>
+		<producer> Robert D. Simon</producer>
+		<producer> Paul Kurta</producer>
+		<producer> Ken Olin</producer>
+	</producers>
+	<writers>
+		<writer> Ramón Campos</writer>
+		<writer> Ramón Campos</writer>
+		<writer> Gema R. Neira</writer>
+		<writer> Brian Tanen</writer>
+		<writer> Brian Tanen</writer>
+		<writer> Brian Tanen</writer>
+		<writer> Desta Tedros Reff</writer>
+		<writer> Desta Tedros Reff</writer>
+		<writer> Bob Daily</writer>
+		<writer> Curtis Kheel</writer>
+		<writer> Davah Avena</writer>
+		<writer> Danny Fernandez</writer>
+		<writer> Geoffrey Nauffts</writer>
+		<writer> Nicki Renna</writer>
+		<writer> Sara Saedi</writer>
+	</writers>
+	<editors>
+		<editor> Craig Bench</editor>
+		<editor> Rebekah Fridman</editor>
+		<editor> Katheryn Rupert</editor>
+		<editor> L.B. Brodie</editor>
+		<editor> Troy Takaki</editor>
+		<editor> Kristin Windell</editor>
+	</editors>
+</doc>

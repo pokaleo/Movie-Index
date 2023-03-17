@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<doc id="tt13660638">
+	<docid>tt13660638</docid>
+	<title>Black Space</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYTYxODJiNjEtMzViNS00MzU2LTk0YTctMWY3M2RlMTNjYjZjXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_QL75_UY281_CR11,0,190,281_.jpg</image>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>An ordinary morning at a small-town High School turns into a nightmare when anonymous figures in masks have committed a massacre leaving four dead students.</plot>
+	<countries>
+		<country>Israel</country>
+	</countries>
+	<languages>
+		<language>Hebrew</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Guri Alfi</actor>
+			<role>Rami Davidi</role>
+		</credit>
+		<credit>
+			<actor>Assi Levy</actor>
+			<role>Noga Ruso</role>
+		</credit>
+		<credit>
+			<actor>Reut Alush</actor>
+			<role>Morag Shmuel</role>
+		</credit>
+		<credit>
+			<actor>Shai Avivi</actor>
+			<role>Hanoch Tavor</role>
+		</credit>
+		<credit>
+			<actor>Liana Ayoun</actor>
+			<role>Libi</role>
+		</credit>
+		<credit>
+			<actor>Noam Karmeli</actor>
+			<role>Eran Sagi</role>
+		</credit>
+		<credit>
+			<actor>Yoav Rotman</actor>
+			<role>Itamar</role>
+		</credit>
+		<credit>
+			<actor>Gily Itskovitch</actor>
+			<role>Shir Tadmor</role>
+		</credit>
+		<credit>
+			<actor>Hadas Jade Sakori</actor>
+			<role>Maayan</role>
+		</credit>
+		<credit>
+			<actor>Meirav Shirom</actor>
+			<role>Miri Davidi</role>
+		</credit>
+		<credit>
+			<actor>George Georgiou</actor>
+			<role>Rami Davidi</role>
+		</credit>
+		<credit>
+			<actor>Ori Biton</actor>
+			<role>Guy</role>
+		</credit>
+		<credit>
+			<actor>Yehonatan Vilozny</actor>
+			<role>Tom Tadmor</role>
+		</credit>
+		<credit>
+			<actor>Oneg Efron</actor>
+			<role>Omer Rokach</role>
+		</credit>
+		<credit>
+			<actor>Suzanna Papian</actor>
+			<role>Natalie</role>
+		</credit>
+		<credit>
+			<actor>Eyal Shikratzi</actor>
+			<role>Shaul</role>
+		</credit>
+		<credit>
+			<actor>Leib Levin</actor>
+			<role>Rif</role>
+		</credit>
+		<credit>
+			<actor>Hadas Kalderon</actor>
+			<role>Michal</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Israel">December 13 2020</releasedate>
+		<releasedate country="Israel">December 13 2020</releasedate>
+		<releasedate country="United Arab Emirates">May 27 2021</releasedate>
+		<releasedate country="Canada">May 27 2021</releasedate>
+		<releasedate country="Spain">May 27 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="France">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Italy">VM14</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">16</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">M18</certificate>
+		<certificate country="Spain">16</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Turkey">18+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>masked man</keyword>
+		<keyword>police</keyword>
+		<keyword>police investigation</keyword>
+	</keywords>
+	<directors>
+		<director> Ofir Lobel</director>
+	</directors>
+	<composers>
+		<composer> Daniel Markovich</composer>
+	</composers>
+	<producers>
+		<producer> Pascal Breton</producer>
+		<producer> Jean-Michel Ciszewski</producer>
+		<producer> Moshe Danon</producer>
+		<producer> Chaim Sharir</producer>
+		<producer> Lionel Uzan</producer>
+	</producers>
+	<writers>
+		<writer> Anat Gafni</writer>
+		<writer> Sahar Shavit</writer>
+	</writers>
+	<editors>
+		<editor> Simon Herman</editor>
+	</editors>
+</doc>

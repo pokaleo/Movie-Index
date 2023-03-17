@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<doc id="tt15341442">
+	<docid>tt15341442</docid>
+	<title>The Croods: Family Tree</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTAzNmFiMjctMmZhZi00MjdmLWI1OWEtYWY1NGIzMzYxZTU1XkEyXkFqcGdeQXVyNDU1Mjg2ODQ@._V1_QL75_UX190_CR0,4,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">22</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Ally Dixon</actor>
+			<role>Eep</role>
+		</credit>
+		<credit>
+			<actor>Kiff VandenHeuvel</actor>
+			<role>Grug</role>
+		</credit>
+		<credit>
+			<actor>Matthew Waterson</actor>
+			<role>Phil</role>
+		</credit>
+		<credit>
+			<actor>Amy Rosoff</actor>
+			<role>Hope</role>
+		</credit>
+		<credit>
+			<actor>Amy Landecker</actor>
+			<role>Ugga</role>
+		</credit>
+		<credit>
+			<actor>Darin Brooks</actor>
+			<role>Guy</role>
+		</credit>
+		<credit>
+			<actor>A.J. LoCascio</actor>
+			<role>Thunk</role>
+		</credit>
+		<credit>
+			<actor>Artemis Pebdani</actor>
+			<role>Gran</role>
+		</credit>
+		<credit>
+			<actor>Kelly Marie Tran</actor>
+			<role>Dawn</role>
+		</credit>
+		<credit>
+			<actor>Dee Bradley Baker</actor>
+			<role>Sandy</role>
+		</credit>
+		<credit>
+			<actor>Abby Trott</actor>
+			<role>Dawn</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">September 23 2021</releasedate>
+		<releasedate country="United States">September 23 2021</releasedate>
+		<releasedate country="United States">September 23 2021</releasedate>
+		<releasedate country="Australia">September 24 2021</releasedate>
+		<releasedate country="Canada">October 3 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">10</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Netherlands">7</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="United States">TV-Y7</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cg animation</keyword>
+	</keywords>
+	<directors>
+		<director> Kevin Peaty</director>
+		<director> Scooter Tidwell</director>
+		<director> Steve Trenbirth</director>
+		<director> Stephanie Arnett</director>
+	</directors>
+	<composers>
+		<composer> Hannah Parrott</composer>
+	</composers>
+	<producers>
+		<producer> Mark Banker</producer>
+		<producer> Todd Grimes</producer>
+		<producer> Michael Pattison</producer>
+		<producer> Stuart Cunningham</producer>
+		<producer> Brent Hutchins</producer>
+		<producer> Martin Leeper</producer>
+		<producer> Ashley Laidlaw</producer>
+		<producer> Malli Bala Yeshwanth</producer>
+	</producers>
+	<writers>
+		<writer> Mark Banker</writer>
+		<writer> Rich Dahm</writer>
+		<writer> Lucas Mills</writer>
+		<writer> Amanda Brooke Perrin</writer>
+		<writer> Matt Smith</writer>
+		<writer> Stephanie Streisand</writer>
+	</writers>
+	<editors>
+		<editor> Adam Smith</editor>
+	</editors>
+</doc>

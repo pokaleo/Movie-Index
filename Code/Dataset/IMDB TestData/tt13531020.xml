@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<doc id="tt13531020">
+	<docid>tt13531020</docid>
+	<title>Kumari</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWQxNDdhYTUtZDJhNC00NjgyLTk1NDAtZDFhZTZmODdiN2QyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">137</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Horror</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>The world of Kumari, who is married off far away in Kanhirangat, a cursed land beyond Illymala, in the west. A naive Kumari arrives in the cursed land, where people are ready to sacrifice their lives to preserve tradition and power.</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Malayalam</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Aishwarya Lekshmi</actor>
+			<role>Kumari</role>
+		</credit>
+		<credit>
+			<actor>Shine Tom Chacko</actor>
+			<role>Dhruvan</role>
+		</credit>
+		<credit>
+			<actor>Swasika Vijay</actor>
+			<role>Lakshmi</role>
+		</credit>
+		<credit>
+			<actor>Surabhi Lakshmi</actor>
+			<role>Muthamma</role>
+		</credit>
+		<credit>
+			<actor>Giju John</actor>
+			<role>Achuthan</role>
+		</credit>
+		<credit>
+			<actor>Rahul Madhav</actor>
+			<role>Jayan</role>
+		</credit>
+		<credit>
+			<actor>Sphadikam George</actor>
+			<role>Vellyachan</role>
+		</credit>
+		<credit>
+			<actor>Sruthi Menon</actor>
+			<role>Parijatham</role>
+		</credit>
+		<credit>
+			<actor>Tanvi Ram</actor>
+			<role>Nangakutti</role>
+		</credit>
+		<credit>
+			<actor>Santhakumari</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Angel Shijoy</actor>
+			<role>Shruthy Menon</role>
+		</credit>
+		<credit>
+			<actor>Shivajith</actor>
+			<role>Thuppan Thamburan</role>
+		</credit>
+		<credit>
+			<actor>Prithviraj Sukumaran</actor>
+			<role>Narrator</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">October 28 2022</releasedate>
+		<releasedate country="India">October 28 2022</releasedate>
+		<releasedate country="South Africa">November 17 2022</releasedate>
+		<releasedate country="Australia">November 18 2022</releasedate>
+		<releasedate country="Canada">November 18 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Africa">16</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>tradition</keyword>
+	</keywords>
+	<directors>
+		<director> Nirmal Sahadev</director>
+	</directors>
+	<composers>
+		<composer> Manikandan Ayyappa</composer>
+		<composer> Jakes Bejoy</composer>
+	</composers>
+	<producers>
+		<producer> Jakes Bejoy</producer>
+		<producer> Harris Desom</producer>
+		<producer> Giju John</producer>
+		<producer> Supriya Menon</producer>
+		<producer> Nirmal Sahadev</producer>
+		<producer> Sreejith Sarang</producer>
+	</producers>
+	<writers>
+		<writer> Fazal Hameed</writer>
+		<writer> Nirmal Sahadev</writer>
+		<writer> Nirmal Sahadev</writer>
+	</writers>
+	<editors>
+		<editor> Sreejith Sarang</editor>
+	</editors>
+</doc>

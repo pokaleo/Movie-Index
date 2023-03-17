@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<doc id="tt22398026">
+	<docid>tt22398026</docid>
+	<title>The Narrow Road</title>
+	<image>https://m.media-amazon.com/images/M/MV5BNWFkMWVmYmItODg2MS00MWU2LWIyZDgtZGE4NmVmYTNiZWE0XkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_QL75_UY281_CR5,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">115</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+	</genres>
+	<plot>Chak struggles to keep his cleaning company afloat under the pandemic as he meets Candy, who needs a job and Chu, her little daughter.</plot>
+	<countries>
+		<country>Hong Kong</country>
+	</countries>
+	<languages>
+		<language>Cantonese</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby Digital</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Louis Cheung</actor>
+			<role>Chak</role>
+		</credit>
+		<credit>
+			<actor>Angela Yuen</actor>
+			<role>Candy</role>
+		</credit>
+		<credit>
+			<actor>Patra Au</actor>
+			<role>Ying</role>
+		</credit>
+		<credit>
+			<actor>Pak Hon Chu</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Pak-Him Chu</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>On Na Tong</actor>
+			<role>Chu</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Kingdom">August 19 2022</releasedate>
+		<releasedate country="Hong Kong">October 25 2022</releasedate>
+		<releasedate country="United States">October 29 2022</releasedate>
+		<releasedate country="United States">November 5 2022</releasedate>
+		<releasedate country="Taiwan">November 6 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Hong Kong">IIA</certificate>
+		<certificate country="Taiwan">0+</certificate>
+		<certificate country="United Kingdom">15</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Lam Sum</director>
+	</directors>
+	<composers>
+		<composer> Hin Yan Wong</composer>
+	</composers>
+	<producers>
+		<producer> Pui-Hing Man</producer>
+	</producers>
+	<writers>
+		<writer> Fean Chung</writer>
+	</writers>
+	<editors>
+		<editor> Man Shan Emily Leung</editor>
+	</editors>
+</doc>

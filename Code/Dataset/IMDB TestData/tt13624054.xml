@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<doc id="tt13624054">
+	<docid>tt13624054</docid>
+	<title>Dug Days</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOGY0NTk0YjItZDZiMS00MGY3LWFiZjYtNGIwODYwYmE5YjY3XkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_QL75_UY281_CR18,0,190,281_.jpg</image>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">10</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Short</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>The adventures of Dug, the dog from the movie 'Up,' as he discovers the dangers of suburbia.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Bob Peterson</actor>
+			<role>Dug</role>
+		</credit>
+		<credit>
+			<actor>Edward Asner</actor>
+			<role>Carl</role>
+		</credit>
+		<credit>
+			<actor>Jordan Nagai</actor>
+			<role>Russell</role>
+		</credit>
+		<credit>
+			<actor>Neketia Henry</actor>
+			<role>Neighbor</role>
+		</credit>
+		<credit>
+			<actor>Simon Helberg</actor>
+			<role>Squirrel</role>
+		</credit>
+		<credit>
+			<actor>Jeff Pidgeon</actor>
+			<role>Fly</role>
+		</credit>
+		<credit>
+			<actor>Sarayu Blue</actor>
+			<role>Bird</role>
+		</credit>
+		<credit>
+			<actor>Heather Eisner</actor>
+			<role>Snail</role>
+		</credit>
+		<credit>
+			<actor>Moon Choe</actor>
+			<role>Russell's Mom</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Argentina">September 1 2021</releasedate>
+		<releasedate country="Brazil">September 1 2021</releasedate>
+		<releasedate country="Germany">September 1 2021</releasedate>
+		<releasedate country="Spain">September 1 2021</releasedate>
+		<releasedate country="France">September 1 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">0</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="India">U</certificate>
+		<certificate country="Indonesia">G</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Poland">0</certificate>
+		<certificate country="Singapore">G</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">A</certificate>
+		<certificate country="Sweden">All</certificate>
+		<certificate country="United States">TV-G</certificate>
+		<certificate country="United States">TV-PG</certificate>
+	</certificates>
+	<keywords>
+		<keyword>dog</keyword>
+		<keyword>squirrel</keyword>
+		<keyword>bird</keyword>
+		<keyword>based on film</keyword>
+		<keyword>pet</keyword>
+		<keyword>disney</keyword>
+		<keyword>pixar</keyword>
+		<keyword>danger</keyword>
+		<keyword>home</keyword>
+		<keyword>friendship</keyword>
+		<keyword>disney plus</keyword>
+		<keyword>cgi animation</keyword>
+		<keyword>3d animation</keyword>
+		<keyword>computer animation</keyword>
+		<keyword>animal character name as title</keyword>
+		<keyword>character name as title</keyword>
+		<keyword>talking dog</keyword>
+		<keyword>talking animal</keyword>
+		<keyword>two word title</keyword>
+		<keyword>cg animation</keyword>
+		<keyword>character name in title</keyword>
+	</keywords>
+	<directors>
+		<director> Bob Peterson</director>
+	</directors>
+	<composers>
+		<composer> Andrea Datzman</composer>
+		<composer> Curtis Green</composer>
+	</composers>
+	<producers>
+		<producer> Kim Collins</producer>
+		<producer> Pete Docter</producer>
+		<producer> Mark Nielsen</producer>
+	</producers>
+	<writers>
+		<writer> Pete Docter</writer>
+		<writer> Bob Peterson</writer>
+		<writer> Bob Peterson</writer>
+	</writers>
+	<editors>
+		<editor> Torbin Xan Bullock</editor>
+	</editors>
+</doc>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<doc id="tt6155190">
+	<docid>tt6155190</docid>
+	<title>The Great Beauty</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMWU5NmE2ZTUtYzhkMi00N2JmLWJhODgtM2NhNWU5ZWE5MTRlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UY281_CR2,0,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">61</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>An ageing writer has spent decades seducing his way through the lavish nightlife of Rome, but after his 65th birthday, he starts to look past the nightclubs and parties to find a landscape of exquisite beauty.</plot>
+	<countries>
+		<country>Italy</country>
+	</countries>
+	<languages>
+		<language>Italian</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Toni Servillo</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Paolo Sorrentino</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Carlo Verdone</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="Italy">October 24 2015</releasedate>
+		<releasedate country="Italy">June 24 2016</releasedate>
+		<releasedate country="Italy">October 15 2016</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Gianluca Jodice</director>
+	</directors>
+	<composers>
+		<composer> Andrea Campajola</composer>
+	</composers>
+	<producers/>
+	<writers/>
+	<editors>
+		<editor> Andrea Campajola</editor>
+	</editors>
+</doc>

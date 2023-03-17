@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<doc id="tt7042146">
+	<docid>tt7042146</docid>
+	<title>Carmen Sandiego</title>
+	<image>https://m.media-amazon.com/images/M/MV5BY2ZkZTI0MzktYjQyOC00MDQ5LWE4MDItMjE5NTQ3NmM4MGQzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2019</year>
+	<runningtimes>
+		<runningtime country="default">22</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>The adventures of Carmen Sandiego, a globe-hopping master thief.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Finn Wolfhard</actor>
+			<role>Player</role>
+		</credit>
+		<credit>
+			<actor>Gina Rodriguez</actor>
+			<role>Carmen Sandiego</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Filiadi</actor>
+			<role>greek dubbing voice: Carmen Sandiego</role>
+		</credit>
+		<credit>
+			<actor>Liam O'Brien</actor>
+			<role>Professor Maelstrom</role>
+		</credit>
+		<credit>
+			<actor>Abby Trott</actor>
+			<role>Ivy</role>
+		</credit>
+		<credit>
+			<actor>Michael Hawley</actor>
+			<role>Zack</role>
+		</credit>
+		<credit>
+			<actor>Dawnn Lewis</actor>
+			<role>Chief</role>
+		</credit>
+		<credit>
+			<actor>Sharon Muthu</actor>
+			<role>Dr. Bellum</role>
+		</credit>
+		<credit>
+			<actor>Paul Nakauchi</actor>
+			<role>Shadowsan</role>
+		</credit>
+		<credit>
+			<actor>Rafael Petardi</actor>
+			<role>Chase Devineaux</role>
+		</credit>
+		<credit>
+			<actor>Mary Elizabeth McGlynn</actor>
+			<role>Coach Brunt</role>
+		</credit>
+		<credit>
+			<actor>Toks Olagundoye</actor>
+			<role>Countess Cleo</role>
+		</credit>
+		<credit>
+			<actor>Charlet Takahashi Chung</actor>
+			<role>Julia Argent</role>
+		</credit>
+		<credit>
+			<actor>Kari Wahlgren</actor>
+			<role>Sheena (Tigress)</role>
+		</credit>
+		<credit>
+			<actor>Michael Goldsmith</actor>
+			<role>Gray</role>
+		</credit>
+		<credit>
+			<actor>Bernardo De Paula</actor>
+			<role>Jean-Paul (Le Chèvre)</role>
+		</credit>
+		<credit>
+			<actor>Andrew Pifko</actor>
+			<role>Antonio (El Topo)</role>
+		</credit>
+		<credit>
+			<actor>Trevor Devall</actor>
+			<role>Roundabout</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">January 18 2019</releasedate>
+		<releasedate country="Argentina">January 18 2019</releasedate>
+		<releasedate country="Australia">January 18 2019</releasedate>
+		<releasedate country="Brazil">January 18 2019</releasedate>
+		<releasedate country="Canada">January 18 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Brazil">Livre</certificate>
+		<certificate country="Canada">TV-Y7</certificate>
+		<certificate country="France">7</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="Hong Kong">7+</certificate>
+		<certificate country="India">7</certificate>
+		<certificate country="Indonesia">7+</certificate>
+		<certificate country="Israel">7+</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Philippines">7+</certificate>
+		<certificate country="Poland">7</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="South Africa">10-12PG</certificate>
+		<certificate country="South Korea">All</certificate>
+		<certificate country="Spain">7</certificate>
+		<certificate country="Sweden">7+</certificate>
+		<certificate country="Turkey">7+</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United States">TV-Y7-FV</certificate>
+	</certificates>
+	<keywords>
+		<keyword>thief</keyword>
+		<keyword>master thief</keyword>
+		<keyword>criminal as protagonist</keyword>
+		<keyword>female criminal</keyword>
+		<keyword>carmen sandiego</keyword>
+		<keyword>female thief</keyword>
+		<keyword>character name as series title</keyword>
+		<keyword>two word series title</keyword>
+		<keyword>international travel</keyword>
+		<keyword>heist</keyword>
+		<keyword>stealing from the rich</keyword>
+		<keyword>secret lair</keyword>
+		<keyword>secret hideout</keyword>
+		<keyword>training academy</keyword>
+		<keyword>international police</keyword>
+		<keyword>interpol</keyword>
+		<keyword>secret organization</keyword>
+		<keyword>secret agent</keyword>
+		<keyword>spy</keyword>
+		<keyword>orphan</keyword>
+		<keyword>violence</keyword>
+		<keyword>fight</keyword>
+		<keyword>police</keyword>
+		<keyword>travel</keyword>
+		<keyword>revenge</keyword>
+		<keyword>spies and secret agents</keyword>
+		<keyword>explosion</keyword>
+		<keyword>deception</keyword>
+		<keyword>friend</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>rescue</keyword>
+		<keyword>investigation</keyword>
+		<keyword>based on video game</keyword>
+		<keyword>swedish character</keyword>
+		<keyword>japanese character</keyword>
+		<keyword>kimono</keyword>
+		<keyword>2d animation</keyword>
+		<keyword>outfit</keyword>
+		<keyword>mission</keyword>
+		<keyword>assassin</keyword>
+		<keyword>criminal</keyword>
+		<keyword>exploration</keyword>
+		<keyword>city</keyword>
+		<keyword>organization</keyword>
+		<keyword>group</keyword>
+		<keyword>master</keyword>
+		<keyword>comic relief</keyword>
+		<keyword>superhero action</keyword>
+		<keyword>character name in title</keyword>
+		<keyword>gentleman thief</keyword>
+	</keywords>
+	<directors>
+		<director> Kevin Dart</director>
+		<director> Jos Humphrey</director>
+		<director> Mike West</director>
+		<director> Kenny Park</director>
+	</directors>
+	<composers>
+		<composer> Lorenzo Castelli</composer>
+		<composer> Steve D'Angelo</composer>
+		<composer> Jared Lee Gosselin</composer>
+	</composers>
+	<producers>
+		<producer> Duane Capizzi</producer>
+		<producer> Caroline Fraser</producer>
+		<producer> Brian Hulme</producer>
+		<producer> Anne Loi</producer>
+		<producer> Alice V. Kaiserian</producer>
+		<producer> C.J. Kettler</producer>
+		<producer> Kirsten Newlands</producer>
+		<producer> Sam Nisson</producer>
+		<producer> Sarah Kambara</producer>
+		<producer> Amir Nasrabadi</producer>
+		<producer> Jennifer Contrucci</producer>
+	</producers>
+	<writers>
+		<writer> Duane Capizzi</writer>
+		<writer> Duane Capizzi</writer>
+		<writer> Duane Capizzi</writer>
+		<writer> Duane Capizzi</writer>
+		<writer> Duane Capizzi</writer>
+		<writer> May Chan</writer>
+		<writer> May Chan</writer>
+		<writer> May Chan</writer>
+		<writer> May Chan</writer>
+		<writer> Greg Ernstrom</writer>
+		<writer> Greg Ernstrom</writer>
+		<writer> Greg Ernstrom</writer>
+		<writer> Greg Ernstrom</writer>
+		<writer> Becky Tinker</writer>
+		<writer> Becky Tinker</writer>
+		<writer> Steven Melching</writer>
+		<writer> Steven Melching</writer>
+		<writer> Sharon Flynn</writer>
+		<writer> Sharon Flynn</writer>
+		<writer> Kathryn Lyn</writer>
+		<writer> Kathryn Lyn</writer>
+		<writer> Carly DeNure</writer>
+		<writer> Benjamin Townsend</writer>
+		<writer> Nicole Belisle</writer>
+	</writers>
+	<editors>
+		<editor> Orion McCaw</editor>
+		<editor> Mat Garneau</editor>
+	</editors>
+</doc>

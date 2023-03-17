@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<doc id="tt20204164">
+	<docid>tt20204164</docid>
+	<title>Conjuring: The Beyond</title>
+	<image>https://m.media-amazon.com/images/M/MV5BOWY3YTg4ODUtNjg1Zi00YjRhLWExNTMtNzhhYWQ3MWEyZjdlXkEyXkFqcGdeQXVyMTAwMDQwMTE2._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">91</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Horror</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>A sleep study goes awry when participants start to go missing.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages/>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Victoria Grace Borrello</actor>
+			<role>Wanda Fulcia</role>
+		</credit>
+		<credit>
+			<actor>Steve Larkin</actor>
+			<role>Dr. Richard Pretorious</role>
+		</credit>
+		<credit>
+			<actor>Jon Meggison</actor>
+			<role>Porter Watson</role>
+		</credit>
+		<credit>
+			<actor>Erik Skybak</actor>
+			<role>Victor Fair</role>
+		</credit>
+		<credit>
+			<actor>Stephanie Leet</actor>
+			<role>Gloria Fulcia</role>
+		</credit>
+		<credit>
+			<actor>Daniel Donlon</actor>
+			<role>Chester Fair</role>
+		</credit>
+		<credit>
+			<actor>Tim Coyle</actor>
+			<role>Theo</role>
+		</credit>
+		<credit>
+			<actor>Neil Green</actor>
+			<role>Lucas</role>
+		</credit>
+		<credit>
+			<actor>Jax Kellington</actor>
+			<role>Margo</role>
+		</credit>
+		<credit>
+			<actor>Chynna Rae Shurts</actor>
+			<role>The Sleep Demon</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">July 10 2022</releasedate>
+		<releasedate country="United States">August 10 2022</releasedate>
+		<releasedate country="Egypt">September 15 2022</releasedate>
+		<releasedate country="Indonesia">September 15 2022</releasedate>
+		<releasedate country="Philippines">September 15 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Egypt">Not Rated</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>missing person</keyword>
+	</keywords>
+	<directors>
+		<director> Calvin Morie McCarthy</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Chad Buffett</producer>
+		<producer> Lea Buffett</producer>
+		<producer> Josh Dietrich</producer>
+		<producer> Calvin Morie McCarthy</producer>
+		<producer> Rich Wolff</producer>
+	</producers>
+	<writers>
+		<writer> Calvin Morie McCarthy</writer>
+	</writers>
+	<editors/>
+</doc>

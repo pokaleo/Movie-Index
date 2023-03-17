@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<doc id="tt14527704">
+	<docid>tt14527704</docid>
+	<title>Lucky!</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzg5ZWI1NjEtYzVhZi00M2MxLTg2OTAtYmVlN2JjMjRlNDUzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">60</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Documentary</genre>
+	</genres>
+	<plot>The extraordinary story of Bernie Ecclestone's meteoric rise from post-war car dealer to the creation and 50-year reign over the cutthroat world of Formula One.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Bernie Ecclestone</actor>
+			<role>Self</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">November 18 2022</releasedate>
+		<releasedate country="Japan">November 18 2022</releasedate>
+		<releasedate country="Argentina">December 27 2022</releasedate>
+		<releasedate country="Austria">December 27 2022</releasedate>
+		<releasedate country="Germany">December 27 2022</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords>
+		<keyword>car</keyword>
+		<keyword>formula 1</keyword>
+		<keyword>f1</keyword>
+		<keyword>formula one</keyword>
+		<keyword>bernie eccelstone</keyword>
+	</keywords>
+	<directors>
+		<director> Manish Pandey</director>
+	</directors>
+	<composers>
+		<composer> Antonio Pinto</composer>
+	</composers>
+	<producers>
+		<producer> William Campbell</producer>
+		<producer> Jonathan Miller</producer>
+		<producer> Catherine Royle</producer>
+		<producer> Chris Sharp</producer>
+	</producers>
+	<writers>
+		<writer> Manish Pandey</writer>
+	</writers>
+	<editors>
+		<editor> Christopher M. Armstrong</editor>
+		<editor> Jeremy Gildersleve</editor>
+	</editors>
+</doc>

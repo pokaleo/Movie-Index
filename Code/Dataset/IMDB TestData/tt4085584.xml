@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<doc id="tt4085584">
+	<docid>tt4085584</docid>
+	<title>Rush Hour</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYWM2NDZmYmYtNzlmZC00M2MyLWJmOGUtMjhiYmQ2OGU1YTE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR1,0,190,281_.jpg</image>
+	<year>2016</year>
+	<runningtimes>
+		<runningtime country="default">43</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Action</genre>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+	</genres>
+	<plot>TV show based on the action-comedy 'Rush Hour' films about an L.A. cop who teams up with a detective from Hong Kong.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Justin Hires</actor>
+			<role>James Carter</role>
+		</credit>
+		<credit>
+			<actor>Jonathan Patrick Foo</actor>
+			<role>Jonathan Lee</role>
+		</credit>
+		<credit>
+			<actor>Aimee Garcia</actor>
+			<role>Didi Diaz</role>
+		</credit>
+		<credit>
+			<actor>Page Kennedy</actor>
+			<role>Gerald</role>
+		</credit>
+		<credit>
+			<actor>Wendie Malick</actor>
+			<role>Captain Lindsay Cole</role>
+		</credit>
+		<credit>
+			<actor>Kirk Fox</actor>
+			<role>Donovan</role>
+		</credit>
+		<credit>
+			<actor>Jessika Van</actor>
+			<role>Kim Lee</role>
+		</credit>
+		<credit>
+			<actor>Steele Gagnon</actor>
+			<role>Derrick</role>
+		</credit>
+		<credit>
+			<actor>James Hong</actor>
+			<role>Dragon</role>
+		</credit>
+		<credit>
+			<actor>Byron Mann</actor>
+			<role>Fong</role>
+		</credit>
+		<credit>
+			<actor>Diedrich Bader</actor>
+			<role>Agent Westhusing</role>
+		</credit>
+		<credit>
+			<actor>Julianna Guill</actor>
+			<role>Alice Rosenberger</role>
+		</credit>
+		<credit>
+			<actor>Brad Morris</actor>
+			<role>Alex</role>
+		</credit>
+		<credit>
+			<actor>Lyman Chen</actor>
+			<role>Agent Yun</role>
+		</credit>
+		<credit>
+			<actor>Robyn Lively</actor>
+			<role>Agent Myers</role>
+		</credit>
+		<credit>
+			<actor>Ric Sarabia</actor>
+			<role>Pavlo Kulyka</role>
+		</credit>
+		<credit>
+			<actor>Danny Hamouie</actor>
+			<role>Andrew Riggs</role>
+		</credit>
+		<credit>
+			<actor>Michael Mosley</actor>
+			<role>Jack Douglas</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Brazil">March 31 2016</releasedate>
+		<releasedate country="Turkey">March 31 2016</releasedate>
+		<releasedate country="United States">March 31 2016</releasedate>
+		<releasedate country="United Kingdom">April 19 2016</releasedate>
+		<releasedate country="Sweden">May 16 2016</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">Not Rated</certificate>
+		<certificate country="Japan">PG12</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>detective</keyword>
+	</keywords>
+	<directors>
+		<director> Steve Boyum</director>
+		<director> John Putch</director>
+		<director> John Badham</director>
+		<director> Stephen Herek</director>
+		<director> J. Michael Muro</director>
+		<director> James Roday Rodriguez</director>
+		<director> Jon Turteltaub</director>
+		<director> Maja Vrvilo</director>
+		<director> Peter Weller</director>
+		<director> Sylvain White</director>
+	</directors>
+	<composers>
+		<composer> Jamie Jackson</composer>
+		<composer> Al Sgro</composer>
+		<composer> Waz</composer>
+	</composers>
+	<producers>
+		<producer> Andrew Cholerton</producer>
+		<producer> Toby Emmerich</producer>
+		<producer> Steven Felder</producer>
+		<producer> Jeff Ingold</producer>
+		<producer> Bill Lawrence</producer>
+		<producer> Blake McCormick</producer>
+		<producer> Brett Ratner</producer>
+		<producer> Arthur Sarkissian</producer>
+		<producer> Randall Keenan Winston</producer>
+		<producer> Steve Boyum</producer>
+		<producer> Trey Callaway</producer>
+		<producer> Brian Chamberlayne</producer>
+		<producer> Steve Franks</producer>
+		<producer> Carlos Jacott</producer>
+		<producer> Krystal Houghton Ziv</producer>
+	</producers>
+	<writers>
+		<writer> Jim Kouf</writer>
+		<writer> Jim Kouf</writer>
+		<writer> Ross LaManna</writer>
+		<writer> Ross LaManna</writer>
+		<writer> Ross LaManna</writer>
+		<writer> Ross LaManna</writer>
+		<writer> Bill Lawrence</writer>
+		<writer> Bill Lawrence</writer>
+		<writer> Blake McCormick</writer>
+		<writer> Blake McCormick</writer>
+		<writer> Blake McCormick</writer>
+		<writer> Trey Callaway</writer>
+		<writer> Brian Chamberlayne</writer>
+		<writer> Steve Franks</writer>
+		<writer> Carlos Jacott</writer>
+		<writer> Krystal Houghton Ziv</writer>
+		<writer> Cindy Fang</writer>
+		<writer> Brittany Hilgers</writer>
+	</writers>
+	<editors>
+		<editor> Roger Bondelli</editor>
+		<editor> Elisa Cohen</editor>
+		<editor> Mike Banas</editor>
+		<editor> Melissa McCoy</editor>
+		<editor> Noel Rogers</editor>
+	</editors>
+</doc>

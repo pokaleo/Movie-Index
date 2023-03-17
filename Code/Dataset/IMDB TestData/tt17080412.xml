@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<doc id="tt17080412">
+	<docid>tt17080412</docid>
+	<title>Survive</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzVkMGU0YWMtOWQxMC00MjFhLTg1NjAtMDFlZTZlYzJlMjlhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">108</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Adventure</genre>
+		<genre>Drama</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>When their plane crashes on a remote snow-covered mountain, Jane and Paul have to fight for their lives as the only remaining survivors. Together they embark on a harrowing journey out of the wilderness.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Sophie Turner</actor>
+			<role>Jane</role>
+		</credit>
+		<credit>
+			<actor>Corey Hawkins</actor>
+			<role>Paul</role>
+		</credit>
+		<credit>
+			<actor>Dane Foxx</actor>
+			<role>TSA Officer</role>
+		</credit>
+		<credit>
+			<actor>Caroline Goodall</actor>
+			<role>Jane's mother</role>
+		</credit>
+		<credit>
+			<actor>Lewis Hayes</actor>
+			<role>Chad</role>
+		</credit>
+		<credit>
+			<actor>Makgotso M</actor>
+			<role>New Girl</role>
+		</credit>
+		<credit>
+			<actor>Laurel Marsden</actor>
+			<role>Kara</role>
+		</credit>
+		<credit>
+			<actor>Terence Maynard</actor>
+			<role>Dr. M</role>
+		</credit>
+		<credit>
+			<actor>Jo Stone-Fewings</actor>
+			<role>Jane's father</role>
+		</credit>
+		<credit>
+			<actor>Marta Timofeeva</actor>
+			<role>Young Jane</role>
+		</credit>
+		<credit>
+			<actor>Elliott Wooster</actor>
+			<role>Phil</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">May 12 2022</releasedate>
+		<releasedate country="Kuwait">May 12 2022</releasedate>
+		<releasedate country="Lebanon">May 19 2022</releasedate>
+		<releasedate country="Peru">October 13 2022</releasedate>
+		<releasedate country="Germany">November 3 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Colombia">12</certificate>
+		<certificate country="Egypt">18TC</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Japan">G</certificate>
+		<certificate country="United Kingdom">18</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>snow</keyword>
+		<keyword>snow adventure</keyword>
+		<keyword>airplane crash</keyword>
+		<keyword>suicide</keyword>
+		<keyword>survival</keyword>
+	</keywords>
+	<directors>
+		<director> Mark Pellington</director>
+	</directors>
+	<composers/>
+	<producers/>
+	<writers>
+		<writer> Richard Abate</writer>
+		<writer> Alex Morel</writer>
+		<writer> Jeremy Ungar</writer>
+	</writers>
+	<editors/>
+</doc>

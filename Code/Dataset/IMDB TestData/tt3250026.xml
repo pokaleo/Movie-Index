@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<doc id="tt3250026">
+	<docid>tt3250026</docid>
+	<title>Zoo</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZDhjNWRiN2MtNWJkMi00NjAyLTk4MTMtYzk1NDk1MWYxMDY2XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2015</year>
+	<runningtimes>
+		<runningtime country="default">42</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<plot>A team comes together and searches to find out what's causing a rash of violent animal attacks.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>James Wolk</actor>
+			<role>Jackson Oz</role>
+		</credit>
+		<credit>
+			<actor>Kristen Connolly</actor>
+			<role>Jamie Campbell</role>
+		</credit>
+		<credit>
+			<actor>Nonso Anozie</actor>
+			<role>Abraham Kenyatta</role>
+		</credit>
+		<credit>
+			<actor>Billy Burke</actor>
+			<role>Mitch Morgan</role>
+		</credit>
+		<credit>
+			<actor>Alyssa Diaz</actor>
+			<role>Dariela Marzan</role>
+		</credit>
+		<credit>
+			<actor>Josh Salatin</actor>
+			<role>Logan</role>
+		</credit>
+		<credit>
+			<actor>Nora Arnezeder</actor>
+			<role>Chloe Tousignant</role>
+		</credit>
+		<credit>
+			<actor>Gracie Dzienny</actor>
+			<role>Clementine Lewis</role>
+		</credit>
+		<credit>
+			<actor>Athena Karkanis</actor>
+			<role>Abigail Westbrook</role>
+		</credit>
+		<credit>
+			<actor>Ken Olin</actor>
+			<role>Professor Robert Oz</role>
+		</credit>
+		<credit>
+			<actor>Jason Cermak</actor>
+			<role>Sgt. Mansdale</role>
+		</credit>
+		<credit>
+			<actor>Jesse Muhoozi</actor>
+			<role>Isaac Kenyatta</role>
+		</credit>
+		<credit>
+			<actor>Peter Outerbridge</actor>
+			<role>General Davies</role>
+		</credit>
+		<credit>
+			<actor>Tom Butler</actor>
+			<role>Greg Trotter</role>
+		</credit>
+		<credit>
+			<actor>Hilary Jardine</actor>
+			<role>Tessa Williams</role>
+		</credit>
+		<credit>
+			<actor>Joanne Kelly</actor>
+			<role>Allison Shaw</role>
+		</credit>
+		<credit>
+			<actor>Michael Hogan</actor>
+			<role>Henry Garrison</role>
+		</credit>
+		<credit>
+			<actor>Madison Wolfe</actor>
+			<role>Clementine Lewis</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">June 30 2015</releasedate>
+		<releasedate country="Turkey">June 30 2015</releasedate>
+		<releasedate country="United States">June 30 2015</releasedate>
+		<releasedate country="Australia">July 2 2015</releasedate>
+		<releasedate country="United Kingdom">August 16 2015</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">MA15+</certificate>
+		<certificate country="Canada">TV-14</certificate>
+		<certificate country="Denmark">15</certificate>
+		<certificate country="Finland">K-16</certificate>
+		<certificate country="France">12</certificate>
+		<certificate country="Germany">12</certificate>
+		<certificate country="India">16</certificate>
+		<certificate country="Italy">T</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="Norway">15</certificate>
+		<certificate country="Norway">12</certificate>
+		<certificate country="Philippines">16+</certificate>
+		<certificate country="Poland">13</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="South Africa">18</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Spain">13</certificate>
+		<certificate country="Sweden">15</certificate>
+		<certificate country="Turkey">16+</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-14</certificate>
+		<certificate country="United Arab Emirates">16+</certificate>
+	</certificates>
+	<keywords>
+		<keyword>animal attack</keyword>
+		<keyword>virus</keyword>
+		<keyword>mutation</keyword>
+		<keyword>pandemic</keyword>
+		<keyword>cure</keyword>
+		<keyword>experiment</keyword>
+		<keyword>dog</keyword>
+		<keyword>zoologist</keyword>
+		<keyword>african</keyword>
+		<keyword>intelligence agent</keyword>
+		<keyword>pathologist</keyword>
+		<keyword>safari guide</keyword>
+		<keyword>reporter</keyword>
+		<keyword>genetics</keyword>
+		<keyword>science</keyword>
+		<keyword>eco thriller</keyword>
+		<keyword>killed by an animal</keyword>
+		<keyword>mauled to death</keyword>
+		<keyword>man wears eyeglasses</keyword>
+		<keyword>biotech sci fi</keyword>
+		<keyword>timeframe 2010s</keyword>
+		<keyword>timeframe 21st century</keyword>
+		<keyword>safari</keyword>
+		<keyword>ecosystem</keyword>
+		<keyword>love</keyword>
+		<keyword>journalist</keyword>
+		<keyword>veterinarian</keyword>
+		<keyword>betrayal</keyword>
+		<keyword>illness</keyword>
+		<keyword>murder</keyword>
+		<keyword>death</keyword>
+		<keyword>jungle</keyword>
+		<keyword>based on book</keyword>
+	</keywords>
+	<directors>
+		<director> Michael Katleman</director>
+		<director> Steven A. Adelson</director>
+		<director> David Solomon</director>
+		<director> David Barrett</director>
+		<director> Norman Buckley</director>
+		<director> Gary Fleder</director>
+		<director> Edward Ornelas</director>
+		<director> Brad Anderson</director>
+		<director> Zetna Fuentes</director>
+		<director> David Grossman</director>
+		<director> Eric Laneuville</director>
+		<director> Chris Long</director>
+		<director> Christine Moore</director>
+		<director> John Polson</director>
+		<director> Dean White</director>
+		<director> Anton Cropper</director>
+		<director> Leslie Libman</director>
+		<director> Lee Rose</director>
+		<director> Greg Beeman</director>
+		<director> Alexander H. Gayner</director>
+		<director> Jennifer Lynch</director>
+		<director> Jet Wilkinson</director>
+		<director> Avi Youabian</director>
+	</directors>
+	<composers>
+		<composer> Chris Tilton</composer>
+	</composers>
+	<producers>
+		<producer> André Nemec</producer>
+		<producer> Jeff Pinkner</producer>
+		<producer> Josh Appelbaum</producer>
+		<producer> Steve Bowen</producer>
+		<producer> Leopoldo Gout</producer>
+		<producer> Michael Katleman</producer>
+		<producer> John Forrest Niss</producer>
+		<producer> James Patterson</producer>
+		<producer> Bill Robinson</producer>
+		<producer> Scott Rosenberg</producer>
+		<producer> Grace Gilroy</producer>
+		<producer> Melissa Glenn</producer>
+		<producer> Cathy Konrad</producer>
+		<producer> James Mangold</producer>
+		<producer> Bryan Oh</producer>
+		<producer> Carla Kettner</producer>
+		<producer> Matt Pitts</producer>
+		<producer> Jay Faerber</producer>
+		<producer> Nick Parker</producer>
+		<producer> Shintaro Shimosawa</producer>
+		<producer> P. Todd Coe</producer>
+		<producer> Denitria Harris-Lawrence</producer>
+		<producer> Brad Anderson</producer>
+	</producers>
+	<writers>
+		<writer> Josh Appelbaum</writer>
+		<writer> Josh Appelbaum</writer>
+		<writer> Michael Ledwidge</writer>
+		<writer> André Nemec</writer>
+		<writer> André Nemec</writer>
+		<writer> James Patterson</writer>
+		<writer> Jeff Pinkner</writer>
+		<writer> Jeff Pinkner</writer>
+		<writer> Jeff Pinkner</writer>
+		<writer> Scott Rosenberg</writer>
+		<writer> Scott Rosenberg</writer>
+		<writer> Scott Rosenberg</writer>
+		<writer> Jay Faerber</writer>
+		<writer> Jay Faerber</writer>
+		<writer> Jay Faerber</writer>
+		<writer> Nick Parker</writer>
+		<writer> Nick Parker</writer>
+		<writer> Nicole Phillips</writer>
+		<writer> Nicole Phillips</writer>
+		<writer> Geoffrey Tock</writer>
+		<writer> Geoffrey Tock</writer>
+		<writer> Gregory Weidman</writer>
+		<writer> Gregory Weidman</writer>
+		<writer> Bryan Oh</writer>
+		<writer> Melissa Glenn</writer>
+		<writer> Matt Pitts</writer>
+		<writer> Bek Smith</writer>
+		<writer> Carla Kettner</writer>
+		<writer> Shintaro Shimosawa</writer>
+		<writer> Denitria Harris-Lawrence</writer>
+	</writers>
+	<editors>
+		<editor> Jan Northrop</editor>
+		<editor> Michael Stern</editor>
+		<editor> Mark Manos</editor>
+		<editor> Chad Rubel</editor>
+		<editor> Harry B. Miller III</editor>
+	</editors>
+</doc>

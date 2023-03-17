@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<doc id="tt13430420">
+	<docid>tt13430420</docid>
+	<title>Dalgliesh</title>
+	<image/>
+	<year>2021</year>
+	<runningtimes>
+		<runningtime country="default">45</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+	</genres>
+	<plot>Follows Dalgliesh's crime-fighting career from 1970s England to the present day.</plot>
+	<countries>
+		<country>United Kingdom</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Bertie Carvel</actor>
+			<role>DCI Adam Dalgliesh</role>
+		</credit>
+		<credit>
+			<actor>Carlyss Peer</actor>
+			<role>DS Kate Miskin</role>
+		</credit>
+		<credit>
+			<actor>Jeremy Irvine</actor>
+			<role>DS Charles Masterson</role>
+		</credit>
+		<credit>
+			<actor>Jonjo O'Neill</actor>
+			<role>Julius Marsh</role>
+		</credit>
+		<credit>
+			<actor>Mirren Mack</actor>
+			<role>Maggie Hewson</role>
+		</credit>
+		<credit>
+			<actor>Fra Fee</actor>
+			<role>Dominic Swayne</role>
+		</credit>
+		<credit>
+			<actor>Helen Aluko</actor>
+			<role>Christine Dakers</role>
+		</credit>
+		<credit>
+			<actor>Siobhán Cullen</actor>
+			<role>Josephine Fallon</role>
+		</credit>
+		<credit>
+			<actor>Alice Nokes</actor>
+			<role>Julia Pardoe</role>
+		</credit>
+		<credit>
+			<actor>Lily Sacofsky</actor>
+			<role>Lady Barbara Berowne</role>
+		</credit>
+		<credit>
+			<actor>Shannon Murray</actor>
+			<role>Ursula Hollis</role>
+		</credit>
+		<credit>
+			<actor>Steven Mackintosh</actor>
+			<role>Brother Wilfred Antsey</role>
+		</credit>
+		<credit>
+			<actor>Eliot Salt</actor>
+			<role>Madeleine Goodale</role>
+		</credit>
+		<credit>
+			<actor>James Cartwright</actor>
+			<role>Stephen Lampart</role>
+		</credit>
+		<credit>
+			<actor>Fenella Woolgar</actor>
+			<role>Sister Mavis Gearing</role>
+		</credit>
+		<credit>
+			<actor>Laura Elphinstone</actor>
+			<role>Miss Matlock</role>
+		</credit>
+		<credit>
+			<actor>Robin Kristoffy</actor>
+			<role>Shirley Burt</role>
+		</credit>
+		<credit>
+			<actor>Richard Dillane</actor>
+			<role>Dr. Stephen Courtney-Briggs</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">November 1 2021</releasedate>
+		<releasedate country="Canada">November 4 2021</releasedate>
+		<releasedate country="United Kingdom">November 4 2021</releasedate>
+		<releasedate country="United Arab Emirates">December 6 2021</releasedate>
+		<releasedate country="Finland">December 23 2021</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Canada">13+</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Germany">16</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="South Africa">13</certificate>
+		<certificate country="Sweden">11</certificate>
+		<certificate country="United Kingdom">15</certificate>
+		<certificate country="United States">TV-MA</certificate>
+	</certificates>
+	<keywords>
+		<keyword>based on novel</keyword>
+		<keyword>police detective</keyword>
+		<keyword>murder investigation</keyword>
+		<keyword>1970s</keyword>
+		<keyword>murder</keyword>
+		<keyword>england</keyword>
+		<keyword>united kingdom</keyword>
+		<keyword>great britain</keyword>
+		<keyword>english police</keyword>
+		<keyword>scotland yard detective</keyword>
+	</keywords>
+	<directors>
+		<director> Andy Tohill</director>
+		<director> Ryan Tohill</director>
+		<director> Lisa Clarke</director>
+		<director> Jill Robertson</director>
+		<director> Geoffrey Sax</director>
+		<director> Jon Wright</director>
+	</directors>
+	<composers>
+		<composer> Andrew Simon McAllister</composer>
+	</composers>
+	<producers>
+		<producer> Emily Russell</producer>
+		<producer> Sebastian Cardwell</producer>
+		<producer> Georgie Fallon</producer>
+		<producer> Willow Grylls</producer>
+		<producer> Catherine Mackin</producer>
+		<producer> Martin Mahon</producer>
+		<producer> Charlie Pattinson</producer>
+		<producer> Elaine Pyke</producer>
+		<producer> Brendan Mullin</producer>
+		<producer> Charles Salmon</producer>
+	</producers>
+	<writers>
+		<writer> P.D. James</writer>
+		<writer> Helen Edmundson</writer>
+		<writer> Stephen Greenhorn</writer>
+		<writer> Stewart Harcourt</writer>
+	</writers>
+	<editors>
+		<editor> Helen Sheridan</editor>
+		<editor> Stephanie McCutcheon</editor>
+		<editor> Brian Philip Davis</editor>
+		<editor> Barry Moen</editor>
+	</editors>
+</doc>

@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<doc id="tt5301942">
+	<docid>tt5301942</docid>
+	<title>Jersey</title>
+	<image>https://m.media-amazon.com/images/M/MV5BYzhjMzhlNjgtMDgwMy00Y2ZlLWEwMjktNjU4NjYyZTkzNmFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">170</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Drama</genre>
+		<genre>Sport</genre>
+	</genres>
+	<plot>A cricketer who quits cricket decides to revive his career at the age of 36 for his sons dream and prove his ability.</plot>
+	<countries>
+		<country>India</country>
+	</countries>
+	<languages>
+		<language>Hindi</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Shahid Kapoor</actor>
+			<role>Arjun Talwar</role>
+		</credit>
+		<credit>
+			<actor>Mrunal Thakur</actor>
+			<role>Vidya Talwar</role>
+		</credit>
+		<credit>
+			<actor>Pankaj Kapur</actor>
+			<role>Baali Sir</role>
+		</credit>
+		<credit>
+			<actor>Prit Kamani</actor>
+			<role>Adult Kittu</role>
+		</credit>
+		<credit>
+			<actor>Ronit Kamra</actor>
+			<role>Karan 'Kittu' Talwar</role>
+		</credit>
+		<credit>
+			<actor>Geetika Mehandru</actor>
+			<role>Jasleen Shergill</role>
+		</credit>
+		<credit>
+			<actor>Shishir Sharma</actor>
+			<role>Atul</role>
+		</credit>
+		<credit>
+			<actor>Rudrashish Majumder</actor>
+			<role>Rudra Juneja</role>
+		</credit>
+		<credit>
+			<actor>Azzy Bagria</actor>
+			<role>Player</role>
+		</credit>
+		<credit>
+			<actor>Anjum Batra</actor>
+			<role>Amrit</role>
+		</credit>
+		<credit>
+			<actor>Badrish Chhabra</actor>
+			<role>Cafe Owner</role>
+		</credit>
+		<credit>
+			<actor>Sanjiv Chopra</actor>
+			<role>Hussain Shaikh</role>
+		</credit>
+		<credit>
+			<actor>Kuku Diwan</actor>
+			<role>Clinic Doctor</role>
+		</credit>
+		<credit>
+			<actor>Naresh Gosain</actor>
+			<role>Sports shop owner</role>
+		</credit>
+		<credit>
+			<actor>Akdas Hayat</actor>
+			<role>Cricketer</role>
+		</credit>
+		<credit>
+			<actor>Md Anan Islam</actor>
+			<role/>
+		</credit>
+		<credit>
+			<actor>Seerat Kapoor</actor>
+			<role>Riya</role>
+		</credit>
+		<credit>
+			<actor>Sharik Khan</actor>
+			<role>Atul's friend</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United Arab Emirates">2022</releasedate>
+		<releasedate country="Portugal">April 14 2022</releasedate>
+		<releasedate country="United States">April 14 2022</releasedate>
+		<releasedate country="France">April 20 2022</releasedate>
+		<releasedate country="United Arab Emirates">April 22 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">7</certificate>
+		<certificate country="Australia">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">PG</certificate>
+		<certificate country="Canada">G</certificate>
+		<certificate country="Finland">K-7</certificate>
+		<certificate country="France">Tous publics</certificate>
+		<certificate country="Germany">6</certificate>
+		<certificate country="India">UA</certificate>
+		<certificate country="Indonesia">R13+</certificate>
+		<certificate country="Ireland">PG</certificate>
+		<certificate country="Netherlands">12</certificate>
+		<certificate country="New Zealand">PG</certificate>
+		<certificate country="Norway">7</certificate>
+		<certificate country="Singapore">PG</certificate>
+		<certificate country="United Kingdom">PG</certificate>
+		<certificate country="United Arab Emirates">PG-15</certificate>
+	</certificates>
+	<keywords>
+		<keyword>cricket</keyword>
+		<keyword>dream</keyword>
+		<keyword>cricket sport</keyword>
+	</keywords>
+	<directors>
+		<director> Gowtam Tinnanuri</director>
+	</directors>
+	<composers>
+		<composer> Chandan Pratap</composer>
+		<composer> Anirudh Ravichander</composer>
+		<composer> Sachet Tandon</composer>
+		<composer> Parampara Thakur</composer>
+	</composers>
+	<producers>
+		<producer> Allu Aravind</producer>
+		<producer> Aman Gill</producer>
+		<producer> Rupesh Mali</producer>
+		<producer> Aneesh Mohan</producer>
+		<producer> Dil Raju</producer>
+		<producer> Mayank Tiwari</producer>
+		<producer> Suryadevara Naga Vamsi</producer>
+	</producers>
+	<writers>
+		<writer> Mayank Jain</writer>
+		<writer> Gaibandhar Chele Raton</writer>
+		<writer> Wajid Shaikh</writer>
+		<writer> Siddharth Singh</writer>
+		<writer> Gowtam Tinnanuri</writer>
+		<writer> Gowtam Tinnanuri</writer>
+		<writer> Garima Wahal</writer>
+	</writers>
+	<editors>
+		<editor> Navin Nooli</editor>
+	</editors>
+</doc>

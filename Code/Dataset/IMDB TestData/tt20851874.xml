@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<doc id="tt20851874">
+	<docid>tt20851874</docid>
+	<title>Fourth of July</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMTgwNDk5NTA0NF5BMl5BanBnXkFtZTgwMTkyMDUxMDE@._V1_QL75_UX190_CR0,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">90</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A recovering alcoholic and jazz pianist in NYC confronts his acerbic family during their annual Fourth of July vacation.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Louis C.K.</actor>
+			<role>Therapist</role>
+		</credit>
+		<credit>
+			<actor>Rodney 'Godfather Don' Chapman</actor>
+			<role>Godfried</role>
+		</credit>
+		<credit>
+			<actor>Jason Clotter</actor>
+			<role>Coleman</role>
+		</credit>
+		<credit>
+			<actor>Lea Cohen</actor>
+			<role>Waitress</role>
+		</credit>
+		<credit>
+			<actor>Nick Di Paolo</actor>
+			<role>Uncle Kevin</role>
+		</credit>
+		<credit>
+			<actor>Dorothy Dwyer</actor>
+			<role>Darlene</role>
+		</credit>
+		<credit>
+			<actor>Mike Earley</actor>
+			<role>Jeff Doppelganger</role>
+		</credit>
+		<credit>
+			<actor>Luis J. Gomez</actor>
+			<role>Guy on Street</role>
+		</credit>
+		<credit>
+			<actor>Katie Hannigan</actor>
+			<role>Young Woman</role>
+		</credit>
+		<credit>
+			<actor>Allan Havey</actor>
+			<role>Dentist</role>
+		</credit>
+		<credit>
+			<actor>Courtland Jones</actor>
+			<role>Brenda</role>
+		</credit>
+		<credit>
+			<actor>Robert Kelly</actor>
+			<role>Bobby</role>
+		</credit>
+		<credit>
+			<actor>Lynne Koplitz</actor>
+			<role>Tricia</role>
+		</credit>
+		<credit>
+			<actor>Joe List</actor>
+			<role>Jeff</role>
+		</credit>
+		<credit>
+			<actor>Diego López</actor>
+			<role>Muscle Man</role>
+		</credit>
+		<credit>
+			<actor>Liz Miele</actor>
+			<role>Hygienist</role>
+		</credit>
+		<credit>
+			<actor>Richard O'Rourke</actor>
+			<role>Grandpa</role>
+		</credit>
+		<credit>
+			<actor>Tara Pacheco</actor>
+			<role>Naomi</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">July 1 2022</releasedate>
+		<releasedate country="Canada">July 8 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Canada">14A</certificate>
+	</certificates>
+	<keywords/>
+	<directors>
+		<director> Louis C.K.</director>
+	</directors>
+	<composers>
+		<composer> Matt Kilmer</composer>
+		<composer> Sweetpro</composer>
+	</composers>
+	<producers>
+		<producer> Louis C.K.</producer>
+		<producer> Lea Cohen</producer>
+		<producer> Joe List</producer>
+		<producer> Brady Nasfell</producer>
+	</producers>
+	<writers>
+		<writer> Louis C.K.</writer>
+		<writer> Joe List</writer>
+	</writers>
+	<editors>
+		<editor> Louis C.K.</editor>
+	</editors>
+</doc>

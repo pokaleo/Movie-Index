@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<doc id="tt7945066">
+	<docid>tt7945066</docid>
+	<title>Gen: Lock</title>
+	<image>https://m.media-amazon.com/images/M/MV5BM2EwNjJjMTYtMDBiMy00NGIwLWIxNmQtNGZlZjM2NmJiYTYyXkEyXkFqcGdeQXVyOTgwNzA2NzQ@._V1_QL75_UX190_CR0,2,190,281_.jpg</image>
+	<year>2018</year>
+	<runningtimes>
+		<runningtime country="default">30</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Animation</genre>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+	</genres>
+	<plot>Earth, 2068. City by city, free society is being forcibly absorbed into a vast autocracy. One military force holds the line. One pilot could turn the tide.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Michael B. Jordan</actor>
+			<role>Julian Chase</role>
+		</credit>
+		<credit>
+			<actor>Golshifteh Farahani</actor>
+			<role>Yasamin 'Yaz' Madrani</role>
+		</credit>
+		<credit>
+			<actor>David Tennant</actor>
+			<role>Dr. Rufus Weller</role>
+		</credit>
+		<credit>
+			<actor>Dakota Fanning</actor>
+			<role>Miranda Worth</role>
+		</credit>
+		<credit>
+			<actor>Maisie Williams</actor>
+			<role>Cameron 'Cammie' MacCloud</role>
+		</credit>
+		<credit>
+			<actor>Kôichi Yamadera</actor>
+			<role>Kazu Iida</role>
+		</credit>
+		<credit>
+			<actor>Asia Kate Dillon</actor>
+			<role>Valentina Romanyszyn</role>
+		</credit>
+		<credit>
+			<actor>Monica Rial</actor>
+			<role>Colonel Raquel Marin</role>
+		</credit>
+		<credit>
+			<actor>Miles Luna</actor>
+			<role>Miguel 'Migas' Garza</role>
+		</credit>
+		<credit>
+			<actor>Lawrence Sonntag</actor>
+			<role>Able</role>
+		</credit>
+		<credit>
+			<actor>Chad James</actor>
+			<role>Jodie Brennan</role>
+		</credit>
+		<credit>
+			<actor>Anisha Nagarajan</actor>
+			<role>Doctor Fatima Jha</role>
+		</credit>
+		<credit>
+			<actor>Angus Sampson</actor>
+			<role>Brother Tate</role>
+		</credit>
+		<credit>
+			<actor>G.K. Bowes</actor>
+			<role>Driana 'Dri' Chase</role>
+		</credit>
+		<credit>
+			<actor>SungWon Cho</actor>
+			<role>Heng Li 'Henry' Wu</role>
+		</credit>
+		<credit>
+			<actor>Shari Belafonte</actor>
+			<role>Roberta Chase</role>
+		</credit>
+		<credit>
+			<actor>Gray G. Haddock</actor>
+			<role>Leon August</role>
+		</credit>
+		<credit>
+			<actor>Judah Mackey</actor>
+			<role>Chibi Caliban</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Canada">December 22 2018</releasedate>
+		<releasedate country="Poland">January 26 2019</releasedate>
+		<releasedate country="United States">January 26 2019</releasedate>
+		<releasedate country="Germany">March 15 2019</releasedate>
+		<releasedate country="Singapore">October 1 2019</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Australia">M</certificate>
+		<certificate country="Ireland">12</certificate>
+		<certificate country="Ireland">15</certificate>
+		<certificate country="Poland">12</certificate>
+		<certificate country="United Kingdom">12</certificate>
+		<certificate country="United States">TV-PG</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>military</keyword>
+		<keyword>2060s</keyword>
+	</keywords>
+	<directors>
+		<director> Gray G. Haddock</director>
+		<director> Dan Duncan</director>
+		<director> Shaun O'Neil</director>
+		<director> Emi Yonemura</director>
+		<director> George Gipson</director>
+	</directors>
+	<composers>
+		<composer> David Levy</composer>
+		<composer> Starr Parodi</composer>
+	</composers>
+	<producers>
+		<producer> Michael B. Jordan</producer>
+		<producer> Alana Mayo</producer>
+		<producer> Burnie Burns</producer>
+		<producer> Joe Clary</producer>
+		<producer> Nicole Fisher</producer>
+		<producer> Gray G. Haddock</producer>
+		<producer> Chrysta Hiser</producer>
+		<producer> Matt Hullum</producer>
+		<producer> Jason Kane</producer>
+		<producer> Sean Murphy</producer>
+		<producer> Jennifer K. Tidwell</producer>
+		<producer> Koen Wooten</producer>
+		<producer> Margaret M. Dean</producer>
+		<producer> Daniel Dominguez</producer>
+		<producer> Marshell B. Golde</producer>
+		<producer> Ryan P. Hall</producer>
+		<producer> Jordan Levin</producer>
+		<producer> Dan Shorr</producer>
+		<producer> Matt Singer</producer>
+		<producer> Lisa Yang</producer>
+		<producer> Laura Yates</producer>
+	</producers>
+	<writers>
+		<writer> Gray G. Haddock</writer>
+		<writer> Gray G. Haddock</writer>
+		<writer> Gray G. Haddock</writer>
+		<writer> Evan Narcisse</writer>
+		<writer> Jason Weight</writer>
+		<writer> Daniel Dominguez</writer>
+		<writer> Kristle Peluso</writer>
+		<writer> Maasai Singleton</writer>
+		<writer> Kerry Shawcross</writer>
+		<writer> Gavin Hignight</writer>
+	</writers>
+	<editors>
+		<editor> Lauren Aptekar</editor>
+		<editor> Richard Norman</editor>
+		<editor> Connor Pickens</editor>
+		<editor> Matt Chapman</editor>
+		<editor> Matt Chapman</editor>
+		<editor> Luke Guidici</editor>
+	</editors>
+</doc>

@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<doc id="tt21049186">
+	<docid>tt21049186</docid>
+	<title>Cafe Minamdang</title>
+	<image>https://m.media-amazon.com/images/M/MV5BZTJlMTY3YTYtNTQ1Ni00ZDY5LWI3MGMtNGUzZmZlNGU4ZWNmXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_QL75_UY281_CR3,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">65</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+		<genre>Crime</genre>
+		<genre>Drama</genre>
+	</genres>
+	<plot>A story about a former criminal profiler who now works as a fraudster posing as a fortune teller and the female detective who gets involved with him.</plot>
+	<countries>
+		<country>South Korea</country>
+	</countries>
+	<languages>
+		<language>Korean</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Seo In-Guk</actor>
+			<role>Nam Han-jun</role>
+		</credit>
+		<credit>
+			<actor>Yeon-Seo Oh</actor>
+			<role>Han Jae-hui</role>
+		</credit>
+		<credit>
+			<actor>Mi-na Kang</actor>
+			<role>Nam Hye-jun</role>
+		</credit>
+		<credit>
+			<actor>Kwon Soo-Hyeon</actor>
+			<role>Cha Do-won</role>
+		</credit>
+		<credit>
+			<actor>Seo Hoo Baek</actor>
+			<role>Jonathan</role>
+		</credit>
+		<credit>
+			<actor>Kim Won-shik</actor>
+			<role>Shin Gyeong Ho</role>
+		</credit>
+		<credit>
+			<actor>Jung Ha-Joon</actor>
+			<role>Na Kwang-tae</role>
+		</credit>
+		<credit>
+			<actor>Jung Eun-pyo</actor>
+			<role>Kim Cheol-geun</role>
+		</credit>
+		<credit>
+			<actor>Do-Woo Han</actor>
+			<role>Cha Seung Won (child)</role>
+		</credit>
+		<credit>
+			<actor>Jang Hyuk-jin</actor>
+			<role>Choi Young-seop</role>
+		</credit>
+		<credit>
+			<actor>Sang-Kyung Han</actor>
+			<role>Loan shark</role>
+		</credit>
+		<credit>
+			<actor>Si-Yang Kwak</actor>
+			<role>Gong Soo-cheol</role>
+		</credit>
+		<credit>
+			<actor>Man-sik Jeong</actor>
+			<role>Jang Doo-jin</role>
+		</credit>
+		<credit>
+			<actor>Jung Da-Eun</actor>
+			<role>Aunt Lim</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Indonesia">June 27 2022</releasedate>
+		<releasedate country="Japan">June 27 2022</releasedate>
+		<releasedate country="South Korea">June 27 2022</releasedate>
+		<releasedate country="Singapore">June 27 2022</releasedate>
+		<releasedate country="Thailand">June 27 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Argentina">16</certificate>
+		<certificate country="Canada">TV-MA</certificate>
+		<certificate country="France">16</certificate>
+		<certificate country="India">A</certificate>
+		<certificate country="Indonesia">18+</certificate>
+		<certificate country="Netherlands">16</certificate>
+		<certificate country="Philippines">18+</certificate>
+		<certificate country="Poland">16</certificate>
+		<certificate country="Singapore">NC16</certificate>
+		<certificate country="South Korea">15</certificate>
+		<certificate country="Sweden">16+</certificate>
+		<certificate country="Thailand">18+</certificate>
+		<certificate country="Turkey">18+</certificate>
+	</certificates>
+	<keywords/>
+	<directors/>
+	<composers/>
+	<producers>
+		<producer> Ibrahim Hamdan</producer>
+	</producers>
+	<writers>
+		<writer> Jae-Hyun Ko</writer>
+	</writers>
+	<editors/>
+</doc>

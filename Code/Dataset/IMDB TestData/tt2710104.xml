@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<doc id="tt2710104">
+	<docid>tt2710104</docid>
+	<title>The Crazy Ones</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMzU3ODgxOTMyMl5BMl5BanBnXkFtZTgwOTk4MDA0MDE@._V1_QL75_UX190_CR0,3,190,281_.jpg</image>
+	<year>2013</year>
+	<runningtimes>
+		<runningtime country="default">20</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Comedy</genre>
+	</genres>
+	<plot>Out-of-the-box Simon Roberts runs an ad agency with his Type-A daughter Sydney.</plot>
+	<countries>
+		<country>United States</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Dolby</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Robin Williams</actor>
+			<role>Simon Roberts</role>
+		</credit>
+		<credit>
+			<actor>Sarah Michelle Gellar</actor>
+			<role>Sydney Roberts</role>
+		</credit>
+		<credit>
+			<actor>James Wolk</actor>
+			<role>Zach Cropper</role>
+		</credit>
+		<credit>
+			<actor>Hamish Linklater</actor>
+			<role>Andrew Keanelly</role>
+		</credit>
+		<credit>
+			<actor>Amanda Setton</actor>
+			<role>Lauren Slotsky</role>
+		</credit>
+		<credit>
+			<actor>Brad Garrett</actor>
+			<role>Gordon Lewis</role>
+		</credit>
+		<credit>
+			<actor>Tiya Sircar</actor>
+			<role>Allie</role>
+		</credit>
+		<credit>
+			<actor>Josh Groban</actor>
+			<role>Danny Chase</role>
+		</credit>
+		<credit>
+			<actor>Fred Melamed</actor>
+			<role>Fred Melamed</role>
+		</credit>
+		<credit>
+			<actor>Steve Talley</actor>
+			<role>Owen</role>
+		</credit>
+		<credit>
+			<actor>J.D. Walsh</actor>
+			<role>Randall</role>
+		</credit>
+		<credit>
+			<actor>Daniel Bess</actor>
+			<role>Dylan</role>
+		</credit>
+		<credit>
+			<actor>Ari Stidham</actor>
+			<role>Ari</role>
+		</credit>
+		<credit>
+			<actor>Saffron Burrows</actor>
+			<role>Helena</role>
+		</credit>
+		<credit>
+			<actor>Ashley Tisdale</actor>
+			<role>Kelsi Lasker</role>
+		</credit>
+		<credit>
+			<actor>Kelly Clarkson</actor>
+			<role>Self</role>
+		</credit>
+		<credit>
+			<actor>Michael Landes</actor>
+			<role>Josh Hayes</role>
+		</credit>
+		<credit>
+			<actor>Mark L. Taylor</actor>
+			<role>Ted</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="United States">2013</releasedate>
+		<releasedate country="Canada">September 26 2013</releasedate>
+		<releasedate country="Turkey">September 26 2013</releasedate>
+		<releasedate country="United States">September 26 2013</releasedate>
+		<releasedate country="Australia">October 20 2013</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Germany">12</certificate>
+		<certificate country="Netherlands">6</certificate>
+		<certificate country="Singapore">PG13</certificate>
+		<certificate country="United States">TV-14</certificate>
+	</certificates>
+	<keywords>
+		<keyword>daughter</keyword>
+	</keywords>
+	<directors>
+		<director> Jason Winer</director>
+		<director> Bill D'Elia</director>
+		<director> Alex Hardcastle</director>
+		<director> Fred Savage</director>
+		<director> Matt Sohn</director>
+		<director> Fred Goss</director>
+		<director> Michael Patrick Jann</director>
+		<director> David Katzenberg</director>
+		<director> Linda Mendoza</director>
+		<director> Steven K. Tsuchida</director>
+	</directors>
+	<composers>
+		<composer> Orr Rebhun</composer>
+		<composer> Erica Weis</composer>
+	</composers>
+	<producers>
+		<producer> Bill D'Elia</producer>
+		<producer> David E. Kelley</producer>
+		<producer> Dean Lorey</producer>
+		<producer> John R. Montgomery</producer>
+		<producer> Mark Teitelbaum</producer>
+		<producer> Jason Winer</producer>
+		<producer> Tommy Burns</producer>
+		<producer> Aaron Greenberg</producer>
+		<producer> Mark Pedowitz</producer>
+		<producer> Jon Kinnally</producer>
+		<producer> Joe Port</producer>
+		<producer> Tracy Poust</producer>
+		<producer> Joe Wiseman</producer>
+		<producer> Bill Kunstler</producer>
+		<producer> Adam Chase</producer>
+		<producer> Corey Nickerson</producer>
+	</producers>
+	<writers>
+		<writer> David E. Kelley</writer>
+		<writer> David E. Kelley</writer>
+		<writer> John R. Montgomery</writer>
+		<writer> Amy Hubbs</writer>
+		<writer> Amy Hubbs</writer>
+		<writer> Mason Steinberg</writer>
+		<writer> Mason Steinberg</writer>
+		<writer> Mason Steinberg</writer>
+		<writer> Laura Krafft</writer>
+		<writer> Laura Krafft</writer>
+		<writer> Laura Krafft</writer>
+		<writer> Ryan Raddatz</writer>
+		<writer> Ryan Raddatz</writer>
+		<writer> Robert Sudduth</writer>
+		<writer> Robert Sudduth</writer>
+		<writer> Jon Kinnally</writer>
+		<writer> Dean Lorey</writer>
+		<writer> Tracy Poust</writer>
+		<writer> Joe Port</writer>
+		<writer> Joe Wiseman</writer>
+		<writer> Corey Nickerson</writer>
+		<writer> Bill Kunstler</writer>
+	</writers>
+	<editors>
+		<editor> Arge O'Neal</editor>
+		<editor> Steven Sprung</editor>
+	</editors>
+</doc>

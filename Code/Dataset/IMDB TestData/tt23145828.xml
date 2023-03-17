@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<doc id="tt23145828">
+	<docid>tt23145828</docid>
+	<title>Heck</title>
+	<image/>
+	<year>2020</year>
+	<runningtimes>
+		<runningtime country="default">28</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Short</genre>
+		<genre>Horror</genre>
+	</genres>
+	<plot>A little kid wakes up in the middle of night to the sound of his mom's television blaring.</plot>
+	<countries>
+		<country>Canada</country>
+	</countries>
+	<languages>
+		<language>English</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes>
+		<soundmix>Stereo</soundmix>
+	</soundmixes>
+	<cast>
+		<credit>
+			<actor>Courtney McNeilly</actor>
+			<role>Mom</role>
+		</credit>
+		<credit>
+			<actor>Jeffty Ellison</actor>
+			<role>Boy</role>
+		</credit>
+	</cast>
+	<type>movie</type>
+	<releasedates>
+		<releasedate country="United States">July 8 2020</releasedate>
+	</releasedates>
+	<certificates/>
+	<keywords/>
+	<directors>
+		<director> Kyle Edward Ball</director>
+	</directors>
+	<composers/>
+	<producers>
+		<producer> Patrick Crosman</producer>
+	</producers>
+	<writers/>
+	<editors/>
+</doc>

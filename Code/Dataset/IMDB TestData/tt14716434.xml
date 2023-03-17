@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<doc id="tt14716434">
+	<docid>tt14716434</docid>
+	<title>Sequía</title>
+	<image>https://m.media-amazon.com/images/M/MV5BMGNmZGFjMTAtOWVjMC00NmUzLTliZDYtNWNkMmY4MjRhNWNmXkEyXkFqcGdeQXVyMTg0NTA1MjQ@._V1_QL75_UY281_CR4,0,190,281_.jpg</image>
+	<year>2022</year>
+	<runningtimes>
+		<runningtime country="default">75</runningtime>
+	</runningtimes>
+	<genres>
+		<genre>Crime</genre>
+		<genre>Thriller</genre>
+	</genres>
+	<plot>In a small submerged village on the Spanish-Portuguese border, two skeletons are discovered that reveal evidence of a bloody crime.</plot>
+	<countries>
+		<country>Portugal</country>
+	</countries>
+	<languages>
+		<language>Spanish</language>
+	</languages>
+	<colorinfos>
+		<colorinfo>Color</colorinfo>
+	</colorinfos>
+	<soundmixes/>
+	<cast>
+		<credit>
+			<actor>Elena Rivera</actor>
+			<role>Daniela Yanes</role>
+		</credit>
+		<credit>
+			<actor>Marco D'Almeida</actor>
+			<role>Hélder</role>
+		</credit>
+		<credit>
+			<actor>Guilherme Filipe</actor>
+			<role>Luís Barbosa</role>
+		</credit>
+		<credit>
+			<actor>Miryam Gallego</actor>
+			<role>Paula Barbosa</role>
+		</credit>
+		<credit>
+			<actor>Rodolfo Sancho</actor>
+			<role>Martín Ruiz</role>
+		</credit>
+		<credit>
+			<actor>Margarida Marinho</actor>
+			<role>Amalia</role>
+		</credit>
+		<credit>
+			<actor>Soraia Chaves</actor>
+			<role>Tina</role>
+		</credit>
+		<credit>
+			<actor>Miguel Ángel Muñoz</actor>
+			<role>Óscar Santos</role>
+		</credit>
+		<credit>
+			<actor>Rita Loureiro</actor>
+			<role>Mónica</role>
+		</credit>
+		<credit>
+			<actor>Diogo Martins</actor>
+			<role>João Portela</role>
+		</credit>
+		<credit>
+			<actor>Luís Ganito</actor>
+			<role>Joaquim Sousa Cardoso</role>
+		</credit>
+		<credit>
+			<actor>Paula Lobo Antunes</actor>
+			<role>Clara</role>
+		</credit>
+		<credit>
+			<actor>Fernando Andina</actor>
+			<role>Duarte</role>
+		</credit>
+		<credit>
+			<actor>Nacho Nugo</actor>
+			<role>Rubén</role>
+		</credit>
+		<credit>
+			<actor>Fanny Gautier</actor>
+			<role>Carmen</role>
+		</credit>
+		<credit>
+			<actor>Ana Jara</actor>
+			<role>Paula (Joven)</role>
+		</credit>
+		<credit>
+			<actor>Pepe Nufrio</actor>
+			<role>Martin (Jovem)</role>
+		</credit>
+		<credit>
+			<actor>Juan Gea</actor>
+			<role>Javier Ortiz</role>
+		</credit>
+	</cast>
+	<type>tv_show</type>
+	<releasedates>
+		<releasedate country="Spain">January 18 2022</releasedate>
+		<releasedate country="Portugal">January 21 2022</releasedate>
+	</releasedates>
+	<certificates>
+		<certificate country="Portugal">12AP</certificate>
+		<certificate country="Spain">16</certificate>
+	</certificates>
+	<keywords>
+		<keyword>skeleton</keyword>
+	</keywords>
+	<directors>
+		<director> Joaquín Llamas</director>
+		<director> Oriol Ferrer</director>
+	</directors>
+	<composers>
+		<composer> José de Castro</composer>
+	</composers>
+	<producers>
+		<producer> Mar Díaz</producer>
+		<producer> Joaquín Llamas</producer>
+		<producer> José Silva Pedro</producer>
+		<producer> Jorge Sánchez Gallo</producer>
+	</producers>
+	<writers>
+		<writer> Daniel Corpas</writer>
+		<writer> Daniel Corpas</writer>
+		<writer> Joaquín Llamas</writer>
+		<writer> Joaquín Llamas</writer>
+		<writer> Joaquín Llamas</writer>
+		<writer> Sara Rodi</writer>
+		<writer> Arturo Ruiz Serrano</writer>
+		<writer> Arturo Ruiz Serrano</writer>
+		<writer> Arturo Ruiz Serrano</writer>
+		<writer> Miguel Sáez Carral</writer>
+		<writer> José Antonio Valverde</writer>
+		<writer> Nuria Cabello</writer>
+	</writers>
+	<editors>
+		<editor> Juan Carlos Arroyo</editor>
+		<editor> Lucía Palicio</editor>
+		<editor> Tutxi Rodríguez</editor>
+	</editors>
+</doc>
