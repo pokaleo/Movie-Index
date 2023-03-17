@@ -22,7 +22,7 @@ def spellcheck(string):
         "q": string,
         "gl": "us",
         ## ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07fcd40e0f98debfef1d
-        "api_key": 'ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07f',
+        "api_key": 'ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07fcd40e0f98debfef1d',
         "num": "1"
 
     }
@@ -32,10 +32,12 @@ def spellcheck(string):
     related = []
     search = GoogleSearch(params)
     results = search.get_dict()
+    print("test1", results)
     if results:
-        search_result = results
+        search_result = results["search_information"]
     else:
-        results =[]
+        search_result = []
+    print("test2", search_result)
     if "related_searches" in results.keys():
         related = results["related_searches"]
     if 'spelling_fix' in search_result.keys():
@@ -43,6 +45,8 @@ def spellcheck(string):
     if related is not None:
         for query in related:
             related_queries.append(query["query"])
+    print(111111111, spell_corrected)
+    print(222222222, related_queries)
     return spell_corrected, related_queries
 
 

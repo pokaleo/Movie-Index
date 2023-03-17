@@ -1,25 +1,21 @@
 import time
 import unittest
-import RetrieveData
-import json
-import DataPreprocessing
-import Query
-import Util
-import os,random
-import xml.etree.ElementTree as ET
-import sys
+import Backend.RetrieveData
+import Backend.DataPreprocessing
+import Backend.Query
+import Backend.Util
 
 # movies from web crawler
-movies1 = RetrieveData.MovieInfo("../Dataset/IMDB TestData/")
+movies1 = Backend.RetrieveData.MovieInfo("../Dataset/IMDB TestData/")
 movies1.read_files()
-processed_data1 = DataPreprocessing.PreProcessing(movies1.get_movie_info())
+processed_data1 = Backend.DataPreprocessing.PreProcessing(movies1.get_movie_info())
 processed_data1.tokenise()
 processed_data1.to_lowercase()
 processed_data1.remove_punctuation()
 processed_data1.stem_data()
 processed_data1.remove_stopwords()
 processed_data1.create_index()
-query1 = Query.Query(processed_data1)
+query1 = Backend.Query.Query(processed_data1)
 
 class TestSearch(unittest.TestCase):
     def test_general_search(self):
