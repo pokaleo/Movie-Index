@@ -1,3 +1,9 @@
+"""
+------------------------------------------------------------
+Author: Shuyi Liu
+Description: Providing translation and spell check functionality
+------------------------------------------------------------
+"""
 import translators as ts
 from serpapi import GoogleSearch
 from spellchecker import SpellChecker
@@ -5,6 +11,15 @@ import deepl
 
 
 def deepl_trans(text):
+    """
+    Using DeepL Api to translate text
+
+    Args:
+        text: String -> text to be trasnlated
+
+    Returns:
+        List -> A list of possible translations
+    """
     translator = deepl.Translator('f82be482-1b15-f491-da0e-c64e081bd201:fx')
     translated_texts = set([])
     results = translator.translate_text(text, target_lang='EN-GB')
@@ -14,14 +29,33 @@ def deepl_trans(text):
 
 
 def trans_api(string):
+    """
+    Using Python library to translate text
+
+    Args:
+        text: String -> text to be trasnlated
+
+    Returns:
+        List -> A list of possible translations
+    """
     return ts.translate_text(string)
 
 
 def spellcheck(string):
+    """
+    Using SERP api to perform spell check
+
+    Args:
+        text: String -> text to be spell-checked
+
+    Returns:
+        spell_corrected: List -> A list of possible spell correcting
+        related_queries: List -> A list of relevant search suggestion
+
+    """
     params = {
         "q": string,
         "gl": "us",
-        ## ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07fcd40e0f98debfef1d
         "api_key": 'ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07fcd40e0f98debfef1d',
         "num": "1"
 
@@ -45,15 +79,19 @@ def spellcheck(string):
     if related is not None:
         for query in related:
             related_queries.append(query["query"])
-    print(111111111, spell_corrected)
-    print(222222222, related_queries)
     return spell_corrected, related_queries
 
 
 def local_spellcheck(string):
-    '''
-    return a list of string
-    '''
+    """
+    Using Python Api to perform local spell check
+
+    Args:
+        text: String -> text to be spell-checked
+
+    Returns:
+        List -> A list of possible spell correcting
+    """
     spell = SpellChecker(distance=2)
     es = SpellChecker(language='es')
     fr = SpellChecker(language='fr')

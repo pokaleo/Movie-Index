@@ -103,7 +103,8 @@ def is_phrase_search(query):
     Returns:
         Bool -&gt; True if it&#39;s phrase search, vice versa
     &#34;&#34;&#34;
-    if query.startswith(&#34;\&#34;&#34;) and query.endswith(&#34;\&#34;&#34;) and len(query.split()) &gt; 1:
+    if ((query.startswith(&#34;\&#34;&#34;) and query.endswith(&#34;\&#34;&#34;)) or (query.startswith(&#34;“&#34;) and query.endswith(&#34;”&#34;))) \
+            and len(query.split()) &gt; 1:
         return True
     else:
         return False
@@ -126,6 +127,7 @@ def remove_stop_words(query, stop_words):
             temp_list.append(token.lstrip(punctuation).rstrip(punctuation))
     return temp_list
 
+
 def return_image(title):
     &#34;&#34;&#34;
     Return image url by giving the corresponding title
@@ -139,20 +141,20 @@ def return_image(title):
     &#34;&#34;&#34;
     encode_title = urllib.parse.quote(title)
     url_baseline = &#39;https://www.imdb.com&#39;
-    curr_url = url_baseline + &#39;/find/?q=&#39;+ encode_title + &#39;&amp;ref_=nv_sr_sm&#39;
-    req = requests.get(url= curr_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
-    curr_page = BeautifulSoup(req,&#39;html.parser&#39;)
-    
-    search_access = curr_page.find(&#39;div&#39;, attrs={&#39;class&#39;:&#39;sc-17bafbdb-2 ffAEHI&#39;})
-    response_href = search_access.find(&#39;li&#39;).a[&#39;href&#39;]
-    
-    target_url = url_baseline + response_href
-    target_req = requests.get(url= target_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
-    target_page = BeautifulSoup(target_req,&#39;html.parser&#39;)
+    curr_url = url_baseline + &#39;/find/?q=&#39; + encode_title + &#39;&amp;ref_=nv_sr_sm&#39;
+    req = requests.get(url=curr_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
+    curr_page = BeautifulSoup(req, &#39;html.parser&#39;)
 
-    opt_data = target_page.find(&#39;div&#39;, attrs={&#39;class&#39;:&#34;ipc-media ipc-media--poster-27x40 ipc-image-media-ratio--poster-27x40 ipc-media--baseAlt ipc-media--poster-l ipc-poster__poster-image ipc-media__img&#34;})
-    return opt_data.img[&#39;src&#39;]
-    </code></pre>
+    search_access = curr_page.find(&#39;div&#39;, attrs={&#39;class&#39;: &#39;sc-17bafbdb-2 ffAEHI&#39;})
+    response_href = search_access.find(&#39;li&#39;).a[&#39;href&#39;]
+
+    target_url = url_baseline + response_href
+    target_req = requests.get(url=target_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
+    target_page = BeautifulSoup(target_req, &#39;html.parser&#39;)
+
+    opt_data = target_page.find(&#39;div&#39;, attrs={
+        &#39;class&#39;: &#34;ipc-media ipc-media--poster-27x40 ipc-image-media-ratio--poster-27x40 ipc-media--baseAlt ipc-media--poster-l ipc-poster__poster-image ipc-media__img&#34;})
+    return opt_data.img[&#39;src&#39;]</code></pre>
 </details>
 </section>
 <section>
@@ -188,7 +190,8 @@ def return_image(title):
     Returns:
         Bool -&gt; True if it&#39;s phrase search, vice versa
     &#34;&#34;&#34;
-    if query.startswith(&#34;\&#34;&#34;) and query.endswith(&#34;\&#34;&#34;) and len(query.split()) &gt; 1:
+    if ((query.startswith(&#34;\&#34;&#34;) and query.endswith(&#34;\&#34;&#34;)) or (query.startswith(&#34;“&#34;) and query.endswith(&#34;”&#34;))) \
+            and len(query.split()) &gt; 1:
         return True
     else:
         return False</code></pre>
@@ -294,18 +297,19 @@ def return_image(title):
     &#34;&#34;&#34;
     encode_title = urllib.parse.quote(title)
     url_baseline = &#39;https://www.imdb.com&#39;
-    curr_url = url_baseline + &#39;/find/?q=&#39;+ encode_title + &#39;&amp;ref_=nv_sr_sm&#39;
-    req = requests.get(url= curr_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
-    curr_page = BeautifulSoup(req,&#39;html.parser&#39;)
-    
-    search_access = curr_page.find(&#39;div&#39;, attrs={&#39;class&#39;:&#39;sc-17bafbdb-2 ffAEHI&#39;})
-    response_href = search_access.find(&#39;li&#39;).a[&#39;href&#39;]
-    
-    target_url = url_baseline + response_href
-    target_req = requests.get(url= target_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
-    target_page = BeautifulSoup(target_req,&#39;html.parser&#39;)
+    curr_url = url_baseline + &#39;/find/?q=&#39; + encode_title + &#39;&amp;ref_=nv_sr_sm&#39;
+    req = requests.get(url=curr_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
+    curr_page = BeautifulSoup(req, &#39;html.parser&#39;)
 
-    opt_data = target_page.find(&#39;div&#39;, attrs={&#39;class&#39;:&#34;ipc-media ipc-media--poster-27x40 ipc-image-media-ratio--poster-27x40 ipc-media--baseAlt ipc-media--poster-l ipc-poster__poster-image ipc-media__img&#34;})
+    search_access = curr_page.find(&#39;div&#39;, attrs={&#39;class&#39;: &#39;sc-17bafbdb-2 ffAEHI&#39;})
+    response_href = search_access.find(&#39;li&#39;).a[&#39;href&#39;]
+
+    target_url = url_baseline + response_href
+    target_req = requests.get(url=target_url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;}).text
+    target_page = BeautifulSoup(target_req, &#39;html.parser&#39;)
+
+    opt_data = target_page.find(&#39;div&#39;, attrs={
+        &#39;class&#39;: &#34;ipc-media ipc-media--poster-27x40 ipc-image-media-ratio--poster-27x40 ipc-media--baseAlt ipc-media--poster-l ipc-poster__poster-image ipc-media__img&#34;})
     return opt_data.img[&#39;src&#39;]</code></pre>
 </details>
 </dd>

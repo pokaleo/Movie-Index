@@ -5,7 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
 <title>Backend.Spellcheck API documentation</title>
-<meta name="description" content="" />
+<meta name="description" content="Author: Shuyi Liu
+Description: Providing translation and spell check functionality" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
 <link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
@@ -22,17 +23,36 @@
 <h1 class="title">Module <code>Backend.Spellcheck</code></h1>
 </header>
 <section id="section-intro">
+<hr>
+<p>Author: Shuyi Liu
+Description: Providing translation and spell check functionality</p>
+<hr>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">import translators as ts
+<pre><code class="python">&#34;&#34;&#34;
+------------------------------------------------------------
+Author: Shuyi Liu
+Description: Providing translation and spell check functionality
+------------------------------------------------------------
+&#34;&#34;&#34;
+import translators as ts
 from serpapi import GoogleSearch
 from spellchecker import SpellChecker
 import deepl
 
 
 def deepl_trans(text):
+    &#34;&#34;&#34;
+    Using DeepL Api to translate text
+
+    Args:
+        text: String -&gt; text to be trasnlated
+
+    Returns:
+        List -&gt; A list of possible translations
+    &#34;&#34;&#34;
     translator = deepl.Translator(&#39;f82be482-1b15-f491-da0e-c64e081bd201:fx&#39;)
     translated_texts = set([])
     results = translator.translate_text(text, target_lang=&#39;EN-GB&#39;)
@@ -42,28 +62,69 @@ def deepl_trans(text):
 
 
 def trans_api(string):
+    &#34;&#34;&#34;
+    Using Python library to translate text
+
+    Args:
+        text: String -&gt; text to be trasnlated
+
+    Returns:
+        List -&gt; A list of possible translations
+    &#34;&#34;&#34;
     return ts.translate_text(string)
 
 
 def spellcheck(string):
+    &#34;&#34;&#34;
+    Using SERP api to perform spell check
+
+    Args:
+        text: String -&gt; text to be spell-checked
+
+    Returns:
+        spell_corrected: List -&gt; A list of possible spell correcting
+        related_queries: List -&gt; A list of relevant search suggestion
+
+    &#34;&#34;&#34;
     params = {
         &#34;q&#34;: string,
         &#34;gl&#34;: &#34;us&#34;,
-        &#34;api_key&#34;: &#39;c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e&#39;
+        &#34;api_key&#34;: &#39;ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07fcd40e0f98debfef1d&#39;,
+        &#34;num&#34;: &#34;1&#34;
+
     }
 
+    spell_corrected = []
+    related_queries = []
+    related = []
     search = GoogleSearch(params)
     results = search.get_dict()
-    results = results[&#34;search_information&#34;]
-    if &#39;spelling_fix&#39; in results.keys():
-        return results[&#39;spelling_fix&#39;]
-    return string
+    print(&#34;test1&#34;, results)
+    if results:
+        search_result = results[&#34;search_information&#34;]
+    else:
+        search_result = []
+    print(&#34;test2&#34;, search_result)
+    if &#34;related_searches&#34; in results.keys():
+        related = results[&#34;related_searches&#34;]
+    if &#39;spelling_fix&#39; in search_result.keys():
+        spell_corrected.append(search_result[&#39;spelling_fix&#39;])
+    if related is not None:
+        for query in related:
+            related_queries.append(query[&#34;query&#34;])
+    return spell_corrected, related_queries
 
 
 def local_spellcheck(string):
-    &#39;&#39;&#39;
-    return a list of string
-    &#39;&#39;&#39;
+    &#34;&#34;&#34;
+    Using Python Api to perform local spell check
+
+    Args:
+        text: String -&gt; text to be spell-checked
+
+    Returns:
+        List -&gt; A list of possible spell correcting
+    &#34;&#34;&#34;
     spell = SpellChecker(distance=2)
     es = SpellChecker(language=&#39;es&#39;)
     fr = SpellChecker(language=&#39;fr&#39;)
@@ -79,11 +140,13 @@ def local_spellcheck(string):
         for word in words:
             if word in misspelled:
                 new_word = checker.correction(word)
-                if new_word != None:
+                if new_word != None and new_word != word:
                     new_words.append(new_word)
             else:
                 new_words.append(word)
         res.append(&#34; &#34;.join(new_words))
+        new_words = []
+    res = list(set(res))
     return res</code></pre>
 </details>
 </section>
@@ -98,12 +161,28 @@ def local_spellcheck(string):
 <span>def <span class="ident">deepl_trans</span></span>(<span>text)</span>
 </code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>Using DeepL Api to translate text</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>text</code></strong></dt>
+<dd>String -&gt; text to be trasnlated</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of possible translations</p></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">def deepl_trans(text):
+    &#34;&#34;&#34;
+    Using DeepL Api to translate text
+
+    Args:
+        text: String -&gt; text to be trasnlated
+
+    Returns:
+        List -&gt; A list of possible translations
+    &#34;&#34;&#34;
     translator = deepl.Translator(&#39;f82be482-1b15-f491-da0e-c64e081bd201:fx&#39;)
     translated_texts = set([])
     results = translator.translate_text(text, target_lang=&#39;EN-GB&#39;)
@@ -116,15 +195,28 @@ def local_spellcheck(string):
 <span>def <span class="ident">local_spellcheck</span></span>(<span>string)</span>
 </code></dt>
 <dd>
-<div class="desc"><p>return a list of string</p></div>
+<div class="desc"><p>Using Python Api to perform local spell check</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>text</code></strong></dt>
+<dd>String -&gt; text to be spell-checked</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of possible spell correcting</p></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">def local_spellcheck(string):
-    &#39;&#39;&#39;
-    return a list of string
-    &#39;&#39;&#39;
+    &#34;&#34;&#34;
+    Using Python Api to perform local spell check
+
+    Args:
+        text: String -&gt; text to be spell-checked
+
+    Returns:
+        List -&gt; A list of possible spell correcting
+    &#34;&#34;&#34;
     spell = SpellChecker(distance=2)
     es = SpellChecker(language=&#39;es&#39;)
     fr = SpellChecker(language=&#39;fr&#39;)
@@ -140,11 +232,13 @@ def local_spellcheck(string):
         for word in words:
             if word in misspelled:
                 new_word = checker.correction(word)
-                if new_word != None:
+                if new_word != None and new_word != word:
                     new_words.append(new_word)
             else:
                 new_words.append(word)
         res.append(&#34; &#34;.join(new_words))
+        new_words = []
+    res = list(set(res))
     return res</code></pre>
 </details>
 </dd>
@@ -152,36 +246,90 @@ def local_spellcheck(string):
 <span>def <span class="ident">spellcheck</span></span>(<span>string)</span>
 </code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>Using SERP api to perform spell check</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>text</code></strong></dt>
+<dd>String -&gt; text to be spell-checked</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<dl>
+<dt><code>spell_corrected</code></dt>
+<dd>List -&gt; A list of possible spell correcting</dd>
+<dt><code>related_queries</code></dt>
+<dd>List -&gt; A list of relevant search suggestion</dd>
+</dl></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">def spellcheck(string):
+    &#34;&#34;&#34;
+    Using SERP api to perform spell check
+
+    Args:
+        text: String -&gt; text to be spell-checked
+
+    Returns:
+        spell_corrected: List -&gt; A list of possible spell correcting
+        related_queries: List -&gt; A list of relevant search suggestion
+
+    &#34;&#34;&#34;
     params = {
         &#34;q&#34;: string,
         &#34;gl&#34;: &#34;us&#34;,
-        &#34;api_key&#34;: &#39;c12acfe0db8b5121456501187b15bee5050b365fcec0a75660456e14aad16a5e&#39;
+        &#34;api_key&#34;: &#39;ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07fcd40e0f98debfef1d&#39;,
+        &#34;num&#34;: &#34;1&#34;
+
     }
 
+    spell_corrected = []
+    related_queries = []
+    related = []
     search = GoogleSearch(params)
     results = search.get_dict()
-    results = results[&#34;search_information&#34;]
-    if &#39;spelling_fix&#39; in results.keys():
-        return results[&#39;spelling_fix&#39;]
-    return string</code></pre>
+    print(&#34;test1&#34;, results)
+    if results:
+        search_result = results[&#34;search_information&#34;]
+    else:
+        search_result = []
+    print(&#34;test2&#34;, search_result)
+    if &#34;related_searches&#34; in results.keys():
+        related = results[&#34;related_searches&#34;]
+    if &#39;spelling_fix&#39; in search_result.keys():
+        spell_corrected.append(search_result[&#39;spelling_fix&#39;])
+    if related is not None:
+        for query in related:
+            related_queries.append(query[&#34;query&#34;])
+    return spell_corrected, related_queries</code></pre>
 </details>
 </dd>
 <dt id="Backend.Spellcheck.trans_api"><code class="name flex">
 <span>def <span class="ident">trans_api</span></span>(<span>string)</span>
 </code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>Using Python library to translate text</p>
+<h2 id="args">Args</h2>
+<dl>
+<dt><strong><code>text</code></strong></dt>
+<dd>String -&gt; text to be trasnlated</dd>
+</dl>
+<h2 id="returns">Returns</h2>
+<p>List -&gt; A list of possible translations</p></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">def trans_api(string):
+    &#34;&#34;&#34;
+    Using Python library to translate text
+
+    Args:
+        text: String -&gt; text to be trasnlated
+
+    Returns:
+        List -&gt; A list of possible translations
+    &#34;&#34;&#34;
     return ts.translate_text(string)</code></pre>
 </details>
 </dd>

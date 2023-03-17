@@ -1,13 +1,8 @@
 import time
 import unittest
 import RetrieveData
-import json
 import DataPreprocessing
 import Query
-import Util
-import os,random
-import xml.etree.ElementTree as ET
-
 # movies from original dataset
 movies2 = RetrieveData.MovieInfo("../Dataset/IMDB Movie Info")
 movies2.read_files()

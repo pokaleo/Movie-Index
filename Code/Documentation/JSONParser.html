@@ -5,7 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
 <title>Backend.JSONParser API documentation</title>
-<meta name="description" content="" />
+<meta name="description" content="Author: Shuyi Liu
+Description: Util class acting as Json parser" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
 <link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
@@ -22,11 +23,21 @@
 <h1 class="title">Module <code>Backend.JSONParser</code></h1>
 </header>
 <section id="section-intro">
+<hr>
+<p>Author: Shuyi Liu
+Description: Util class acting as Json parser</p>
+<hr>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">import json
+<pre><code class="python">&#34;&#34;&#34;
+------------------------------------------------------------
+Author: Shuyi Liu
+Description: Util class acting as Json parser
+------------------------------------------------------------
+&#34;&#34;&#34;
+import json
 
 
 def dataParse(data, method):
@@ -39,13 +50,14 @@ def dataParse(data, method):
     Returns:
         parsed_args:
                 {&#39;queryMsg&#39;:&#34;&#34;,
-                &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, any, genres, keywords, proximity
+                &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, any, genres, keywords
+                &#39;proximity&#39;:boolean
                 &#39;need_check&#39;:False, # for debug only
                 &#39;color&#39;:&#34;&#34;, # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
                 &#39;from&#39;:0, # int or None
                 &#39;to&#39;:9999, # int or None
                 &#39;additionQ&#39;:True, # a boolean value to check whether it is advanced search or not
-                &#39;moreQueries&#39;:[] # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+                &#39;moreQueries&#39;:[] # list of tuples (bool_type,proximity,by, query), i.e. (&#39;and&#39;,true,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
         }
 
     &#39;&#39;&#39;
@@ -54,15 +66,16 @@ def dataParse(data, method):
         &#39;queryMsg&#39;: None,  # a str or (w1, w2, d)
         &#39;by&#39;: &#34;&#34;,  # a str for search category, i.e. title, genre, keywords, proximity, None
         &#39;need_check&#39;: False,  # for debug only
+        &#39;proximity&#39;:False,
         &#39;color&#39;: &#34;&#34;,  # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
         &#39;from&#39;: 0,  # int or None
         &#39;to&#39;: 9999,  # int or None
         &#39;additionQ&#39;: True,  # a boolean value to check whether it is advanced search or not
         &#39;moreQueries&#39;: []
-        # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+        # list of tuples (bool_type,proximity,by, query), i.e. (&#39;and&#39;,true,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
     }
     if data.get(&#39;pro&#39;) == &#39;true&#39;:
-        res[&#39;by&#39;] = &#39;proximity&#39;
+        res[&#39;proximity&#39;] = True
         msg = data.get(&#39;query&#39;)
         q = msg.split(&#34;+&#34;)
         word1 = q[0]
@@ -70,10 +83,12 @@ def dataParse(data, method):
         d = q[2]
         res[&#39;queryMsg&#39;] = d + &#39; &#39; + word1 + &#39; &#39; + word2
     else:
+        res[&#39;proximity&#39;] = False
         res[&#39;queryMsg&#39;] = data.get(&#39;query&#39;)
-        res[&#39;by&#39;] = data.get(&#39;by&#39;)
-        if res[&#39;by&#39;] == &#39;any&#39;:
-            res[&#39;by&#39;] = None
+    
+    res[&#39;by&#39;] = data.get(&#39;by&#39;)
+    if res[&#39;by&#39;] == &#39;any&#39;:
+        res[&#39;by&#39;] = None
 
     if method == &#39;GET&#39;:
         res[&#39;need_check&#39;] = data.get(&#39;need_check&#39;, type=bool)
@@ -96,7 +111,6 @@ def dataParse(data, method):
                 res[&#39;color&#39;] = &#39;bw&#39;
             else:
                 res[&#39;color&#39;] = &#39;color&#39;
-
         print(&#34;colorlist&#34;, colorlist)
 
         otherQueries = data.get(&#39;additions&#39;)
@@ -112,7 +126,6 @@ def dataParse(data, method):
             for item in otherQueries:
                 q = item.split(&#34;,&#34;)
                 bool_type = q[0]
-                category = q[1]  # title, genres, proximity...
                 bool_name = &#39;&#39;
                 if bool_type == &#39;1&#39;:
                     bool_name = &#39;and&#39;
@@ -120,17 +133,27 @@ def dataParse(data, method):
                     bool_name = &#39;or&#39;
                 else:
                     bool_name = &#39;not&#39;
-                msg = &#39;&#39;
-                if category == &#39;proximity&#39;:
-                    word1 = q[2]
-                    word2 = q[3]
-                    d = q[4]
-                    msg = &#39;#&#39; + d + &#39; &#39; + word1 + &#39; &#39; + word2
+
+                is_proximity = q[1]
+                if is_proximity == &#34;true&#34;:
+                    is_proximity = True
                 else:
-                    if category == &#39;any&#39;:
-                        category = None
+                    is_proximity = False
+
+                category = q[2]  # title, genres...
+                if category == &#39;any&#39;:
+                    category = None
+
+                msg = &#39;&#39;
+                if is_proximity:
+                    temp = q[-1].split(&#34;+&#34;)
+                    word1 = temp[0]
+                    word2 = temp[1]
+                    d = temp[2]
+                    msg = d + &#39; &#39; + word1 + &#39; &#39; + word2
+                else:
                     msg = q[-1]
-                res[&#39;moreQueries&#39;].append((bool_name, category, msg))
+                res[&#39;moreQueries&#39;].append((bool_name,is_proximity,category,msg))
     return res
 
 
@@ -179,13 +202,14 @@ def listParse(data, method):
 <h2 id="returns">Returns</h2>
 <p>parsed_args:
 {'queryMsg':"",
-'by':"", # a str for search category, i.e. title, any, genres, keywords, proximity
+'by':"", # a str for search category, i.e. title, any, genres, keywords
+'proximity':boolean
 'need_check':False, # for debug only
 'color':"", # a str in ["all", "bw", "color"]
 'from':0, # int or None
 'to':9999, # int or None
 'additionQ':True, # a boolean value to check whether it is advanced search or not
-'moreQueries':[] # list of tuples (bool_type,by, query), i.e. ('and','title', "Vincent") bool_type in ['and','or','not']
+'moreQueries':[] # list of tuples (bool_type,proximity,by, query), i.e. ('and',true,'title', "Vincent") bool_type in ['and','or','not']
 }</p></div>
 <details class="source">
 <summary>
@@ -201,13 +225,14 @@ def listParse(data, method):
     Returns:
         parsed_args:
                 {&#39;queryMsg&#39;:&#34;&#34;,
-                &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, any, genres, keywords, proximity
+                &#39;by&#39;:&#34;&#34;, # a str for search category, i.e. title, any, genres, keywords
+                &#39;proximity&#39;:boolean
                 &#39;need_check&#39;:False, # for debug only
                 &#39;color&#39;:&#34;&#34;, # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
                 &#39;from&#39;:0, # int or None
                 &#39;to&#39;:9999, # int or None
                 &#39;additionQ&#39;:True, # a boolean value to check whether it is advanced search or not
-                &#39;moreQueries&#39;:[] # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+                &#39;moreQueries&#39;:[] # list of tuples (bool_type,proximity,by, query), i.e. (&#39;and&#39;,true,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
         }
 
     &#39;&#39;&#39;
@@ -216,15 +241,16 @@ def listParse(data, method):
         &#39;queryMsg&#39;: None,  # a str or (w1, w2, d)
         &#39;by&#39;: &#34;&#34;,  # a str for search category, i.e. title, genre, keywords, proximity, None
         &#39;need_check&#39;: False,  # for debug only
+        &#39;proximity&#39;:False,
         &#39;color&#39;: &#34;&#34;,  # a str in [&#34;all&#34;, &#34;bw&#34;, &#34;color&#34;]
         &#39;from&#39;: 0,  # int or None
         &#39;to&#39;: 9999,  # int or None
         &#39;additionQ&#39;: True,  # a boolean value to check whether it is advanced search or not
         &#39;moreQueries&#39;: []
-        # list of tuples (bool_type,by, query), i.e. (&#39;and&#39;,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
+        # list of tuples (bool_type,proximity,by, query), i.e. (&#39;and&#39;,true,&#39;title&#39;, &#34;Vincent&#34;) bool_type in [&#39;and&#39;,&#39;or&#39;,&#39;not&#39;]
     }
     if data.get(&#39;pro&#39;) == &#39;true&#39;:
-        res[&#39;by&#39;] = &#39;proximity&#39;
+        res[&#39;proximity&#39;] = True
         msg = data.get(&#39;query&#39;)
         q = msg.split(&#34;+&#34;)
         word1 = q[0]
@@ -232,10 +258,12 @@ def listParse(data, method):
         d = q[2]
         res[&#39;queryMsg&#39;] = d + &#39; &#39; + word1 + &#39; &#39; + word2
     else:
+        res[&#39;proximity&#39;] = False
         res[&#39;queryMsg&#39;] = data.get(&#39;query&#39;)
-        res[&#39;by&#39;] = data.get(&#39;by&#39;)
-        if res[&#39;by&#39;] == &#39;any&#39;:
-            res[&#39;by&#39;] = None
+    
+    res[&#39;by&#39;] = data.get(&#39;by&#39;)
+    if res[&#39;by&#39;] == &#39;any&#39;:
+        res[&#39;by&#39;] = None
 
     if method == &#39;GET&#39;:
         res[&#39;need_check&#39;] = data.get(&#39;need_check&#39;, type=bool)
@@ -258,7 +286,6 @@ def listParse(data, method):
                 res[&#39;color&#39;] = &#39;bw&#39;
             else:
                 res[&#39;color&#39;] = &#39;color&#39;
-
         print(&#34;colorlist&#34;, colorlist)
 
         otherQueries = data.get(&#39;additions&#39;)
@@ -274,7 +301,6 @@ def listParse(data, method):
             for item in otherQueries:
                 q = item.split(&#34;,&#34;)
                 bool_type = q[0]
-                category = q[1]  # title, genres, proximity...
                 bool_name = &#39;&#39;
                 if bool_type == &#39;1&#39;:
                     bool_name = &#39;and&#39;
@@ -282,17 +308,27 @@ def listParse(data, method):
                     bool_name = &#39;or&#39;
                 else:
                     bool_name = &#39;not&#39;
-                msg = &#39;&#39;
-                if category == &#39;proximity&#39;:
-                    word1 = q[2]
-                    word2 = q[3]
-                    d = q[4]
-                    msg = &#39;#&#39; + d + &#39; &#39; + word1 + &#39; &#39; + word2
+
+                is_proximity = q[1]
+                if is_proximity == &#34;true&#34;:
+                    is_proximity = True
                 else:
-                    if category == &#39;any&#39;:
-                        category = None
+                    is_proximity = False
+
+                category = q[2]  # title, genres...
+                if category == &#39;any&#39;:
+                    category = None
+
+                msg = &#39;&#39;
+                if is_proximity:
+                    temp = q[-1].split(&#34;+&#34;)
+                    word1 = temp[0]
+                    word2 = temp[1]
+                    d = temp[2]
+                    msg = d + &#39; &#39; + word1 + &#39; &#39; + word2
+                else:
                     msg = q[-1]
-                res[&#39;moreQueries&#39;].append((bool_name, category, msg))
+                res[&#39;moreQueries&#39;].append((bool_name,is_proximity,category,msg))
     return res</code></pre>
 </details>
 </dd>

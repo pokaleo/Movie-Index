@@ -64,6 +64,7 @@ class PreProcessing:
         self.__index_title = {}
         self.__index_keywords = {}
         self.__index_genre = {}
+        self.__index_language = {}
         if dataset:
             self.__dataset = copy.deepcopy(dataset)
         else:
@@ -334,6 +335,14 @@ class PreProcessing:
                     else:
                         self.__index[token][1][docid] = [&#34;language&#34;]
                         self.__index[token][0] += 1
+                if token not in self.__index_language:
+                    self.__index_language[token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index_language[token][1]:
+                        self.__index_language[token][1][docid].append(str(i))
+                    else:
+                        self.__index_language[token][1][docid] = [str(i)]
+                        self.__index_language[token][0] += 1
             for i in range(len(info[&#34;soundmixes&#34;])):
                 token = info[&#34;soundmixes&#34;][i]
                 if token not in self.__index:
@@ -522,6 +531,21 @@ class PreProcessing:
         &#34;&#34;&#34;
         if self.__index_genre:
             return self.__index_genre
+        else:
+            raise Exception(&#34;The index is empty!&#34;)
+
+    def get_index_language(self):
+        &#34;&#34;&#34;
+        Getters for the indices
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -&gt; A dict of inverted positional index for language info only
+        &#34;&#34;&#34;
+        if self.__index_genre:
+            return self.__index_language
         else:
             raise Exception(&#34;The index is empty!&#34;)
 
@@ -570,6 +594,7 @@ class PreProcessing:
         self.__index_title = {}
         self.__index_keywords = {}
         self.__index_genre = {}
+        self.__index_language = {}
         if dataset:
             self.__dataset = copy.deepcopy(dataset)
         else:
@@ -840,6 +865,14 @@ class PreProcessing:
                     else:
                         self.__index[token][1][docid] = [&#34;language&#34;]
                         self.__index[token][0] += 1
+                if token not in self.__index_language:
+                    self.__index_language[token] = [1, {docid: [str(i)]}]
+                else:
+                    if docid in self.__index_language[token][1]:
+                        self.__index_language[token][1][docid].append(str(i))
+                    else:
+                        self.__index_language[token][1][docid] = [str(i)]
+                        self.__index_language[token][0] += 1
             for i in range(len(info[&#34;soundmixes&#34;])):
                 token = info[&#34;soundmixes&#34;][i]
                 if token not in self.__index:
@@ -1028,6 +1061,21 @@ class PreProcessing:
         &#34;&#34;&#34;
         if self.__index_genre:
             return self.__index_genre
+        else:
+            raise Exception(&#34;The index is empty!&#34;)
+
+    def get_index_language(self):
+        &#34;&#34;&#34;
+        Getters for the indices
+
+        Args:
+            n/a
+
+        Returns:
+            Dict -&gt; A dict of inverted positional index for language info only
+        &#34;&#34;&#34;
+        if self.__index_genre:
+            return self.__index_language
         else:
             raise Exception(&#34;The index is empty!&#34;)
 
@@ -1181,6 +1229,14 @@ class PreProcessing:
                 else:
                     self.__index[token][1][docid] = [&#34;language&#34;]
                     self.__index[token][0] += 1
+            if token not in self.__index_language:
+                self.__index_language[token] = [1, {docid: [str(i)]}]
+            else:
+                if docid in self.__index_language[token][1]:
+                    self.__index_language[token][1][docid].append(str(i))
+                else:
+                    self.__index_language[token][1][docid] = [str(i)]
+                    self.__index_language[token][0] += 1
         for i in range(len(info[&#34;soundmixes&#34;])):
             token = info[&#34;soundmixes&#34;][i]
             if token not in self.__index:
@@ -1410,6 +1466,35 @@ class PreProcessing:
     &#34;&#34;&#34;
     if self.__index_keywords:
         return self.__index_keywords
+    else:
+        raise Exception(&#34;The index is empty!&#34;)</code></pre>
+</details>
+</dd>
+<dt id="Backend.DataPreprocessing.PreProcessing.get_index_language"><code class="name flex">
+<span>def <span class="ident">get_index_language</span></span>(<span>self)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Getters for the indices</p>
+<h2 id="args">Args</h2>
+<p>n/a</p>
+<h2 id="returns">Returns</h2>
+<p>Dict -&gt; A dict of inverted positional index for language info only</p></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def get_index_language(self):
+    &#34;&#34;&#34;
+    Getters for the indices
+
+    Args:
+        n/a
+
+    Returns:
+        Dict -&gt; A dict of inverted positional index for language info only
+    &#34;&#34;&#34;
+    if self.__index_genre:
+        return self.__index_language
     else:
         raise Exception(&#34;The index is empty!&#34;)</code></pre>
 </details>
@@ -1711,6 +1796,7 @@ class PreProcessing:
 <li><code><a title="Backend.DataPreprocessing.PreProcessing.get_index" href="#Backend.DataPreprocessing.PreProcessing.get_index">get_index</a></code></li>
 <li><code><a title="Backend.DataPreprocessing.PreProcessing.get_index_genre" href="#Backend.DataPreprocessing.PreProcessing.get_index_genre">get_index_genre</a></code></li>
 <li><code><a title="Backend.DataPreprocessing.PreProcessing.get_index_keywords" href="#Backend.DataPreprocessing.PreProcessing.get_index_keywords">get_index_keywords</a></code></li>
+<li><code><a title="Backend.DataPreprocessing.PreProcessing.get_index_language" href="#Backend.DataPreprocessing.PreProcessing.get_index_language">get_index_language</a></code></li>
 <li><code><a title="Backend.DataPreprocessing.PreProcessing.get_index_title" href="#Backend.DataPreprocessing.PreProcessing.get_index_title">get_index_title</a></code></li>
 <li><code><a title="Backend.DataPreprocessing.PreProcessing.get_stop_words" href="#Backend.DataPreprocessing.PreProcessing.get_stop_words">get_stop_words</a></code></li>
 <li><code><a title="Backend.DataPreprocessing.PreProcessing.remove_punctuation" href="#Backend.DataPreprocessing.PreProcessing.remove_punctuation">remove_punctuation</a></code></li>

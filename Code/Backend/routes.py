@@ -22,8 +22,8 @@ normal: for one time / live data processing
 import: load the pickle file for previously processed data
 export: pickling the processed data and export them as files
 """
-mode = "import"
-dataset_path = "../TestDataset"
+mode = "normal"
+dataset_path = "../Dataset/IMDB Movie Info"
 
 if mode == "normal":
     movies = RetrieveData.MovieInfo(dataset_path)
