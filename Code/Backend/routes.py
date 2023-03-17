@@ -94,24 +94,6 @@ CORS(app, supports_credentials=True)
 
 # cors = CORS(app, resources={r"/test": {"origins": "*"}})
 
-@app.route('/')
-def foo():
-    return 'test!'
-
-
-@app.route('/test', methods=['GET', 'POST'])
-def testQuery():
-    data = request.get_json()
-    queryMsg = data.get('query')
-    response = {
-        'results': 'This is a test result! \n Your input is' + queryMsg,
-        'title': [],
-    }
-    print('data (json): ', data)
-    print('query: ', data.get('query'))
-    return jsonify(response)
-
-
 @app.route('/movie/<id>', methods=['GET', 'POST'])
 def getMovie(id):
     print(id)
