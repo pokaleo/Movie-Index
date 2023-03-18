@@ -8,6 +8,9 @@
 ## Description of this project (To be completed)
 This is an advanced movie search engine serving as the fulfilment of the CW3 of module ***[INFR11145 Text Technologies for Data Science](https://www.inf.ed.ac.uk/teaching/courses/tts)***.
 
+## Summary
+The aim of this project is to provide users with a more advanced solution by embedding a series of carefully selected features in a movie search engine. In addition, the system offers advanced search functions such as searching by keyword and genre, filtering results by colour information and year of release. These features meet the needs of realistic scenarios and provide users with a more satisfying and intuitive search process. To ensure scalability, a fully functional web crawl class is also integrated into the system, allowing the latest data to be added to the existing dataset from time to time. The project was built by a team of five students from different disciplines and strictly follows the concepts of Scrum in the Agile software development methodology. The deployed version can be accessed via https://movieindex.me
+
 ## Instruction of deployment:
 
 ### For Debian11 (Hosting as a web service):
@@ -49,7 +52,5 @@ systemctl restart nginx
 4. Using npm to install frontend dependencies and run frontend - eg(in the directory of /Code/Frontend): 1. ``` npm install```  2. ``` npm run dev ```
 5. Launching the backend either directly using ```/Code/Backend/routes.py``` or using Gunicorn as WSGI. The entry point of Gunicorn is located at ```/Code/Backend/WSGI.py``` and example configuration is included in ```/Code/Backend/ConfigsGunicornConf.py```
 6. Example of running Gunicorn in Linux/Macos : ``` gunicorn --bind 0.0.0.0:8800 -c ../Configs/GunicornConf.py WSGI:app ```
-
-**To be updated..**
 
 
