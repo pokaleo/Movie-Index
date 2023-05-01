@@ -20,7 +20,7 @@ def deepl_trans(text):
     Returns:
         List -> A list of possible translations
     """
-    translator = deepl.Translator('f82be482-1b15-f491-da0e-c64e081bd201:fx')
+    translator = deepl.Translator('f82be482-1b15-f491-da0e')
     translated_texts = set([])
     results = translator.translate_text(text, target_lang='EN-GB')
     for result in results:
@@ -56,7 +56,7 @@ def spellcheck(string):
     params = {
         "q": string,
         "gl": "us",
-        "api_key": 'ff340b5f4da4edffaee94bbead2cc8a778a1b96fd36d07fcd40e0f98debfef1d',
+        "api_key": 'ff340b5f4da4edff',
         "num": "1"
 
     }
